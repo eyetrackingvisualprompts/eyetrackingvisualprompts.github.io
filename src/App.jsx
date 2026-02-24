@@ -224,7 +224,7 @@ Output the result in the following JSON format:
           {experiment !== 0 && (
             <div className="window-selection">
               {Array.from({ length: 10 }, (_, i) => (
-                <button key={i} onClick={() => setWindowSize(i + 1)} >
+                <button key={i} onClick={() => {setWindowSize((i+1)*10); console.log((i+1)*10)}} >
                   {(i+1)*10}s
                 </button>
               ))}
