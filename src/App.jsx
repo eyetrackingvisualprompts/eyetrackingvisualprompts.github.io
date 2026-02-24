@@ -59,6 +59,15 @@ Output the result in the following JSON format:
     "Balura Game": "Participants played a gaze-driven game which requires them to fixate on moving red balls to elimnate them while avoiding blue balls. Fixation feedback was provided via visual highlighting. Red balls sometimes required re-fixation."
   }
 
+  const gazebase_map = {
+    "Horizontal Saccades": "Horizontal_Saccades",
+    "Video Viewing": "Video_1",
+    "Fixations": "Fixations",
+    "Random Saccades": "Random_Saccades",
+    "Reading": "Reading",
+    "Balura Game": "Balura_Game"
+  }
+
   const sedentary_activity_desc = {
     "BROWSE": "Participants freely browsed the internet using a web browser, avoiding login-required or personal sites. They typically visited public news and blogs, sometimes in their first language, resulting in varied gaze patterns, including right-to-left reading for Persian webpages.",
     "INTERPRET": "Participants were presented with one of three short function implementations of increasing difficulty and were asked to predict the output of a code snippet.",
@@ -85,7 +94,7 @@ Output the result in the following JSON format:
     "desktop": desktop_activity_desc,
   }
 
-  const visTypes = ["1_timeline_raw", "2_heatmap_raw", "3_scanpath_raw", "4_timeline_feature", "5_heatmap_feature", "6_scanpath_feature"]
+  const visTypes = ["1_timeline_raw", "2_heatmap_raw", "3_scanpath_raw", "4_timeline_feat", "5_heatmap_feat", "6_scanpath_feat"]
 
   const datasetKeys = ["gazebase", "sedentary", "desktop"]
 
@@ -115,6 +124,7 @@ Output the result in the following JSON format:
     if (!activity || !visTypeStr) return
 
     const path = `/results/results${windowSize}/${datasetKey}/${sampleIndex}/${activity}_${visTypeStr}.json`
+    console.log(path)
     fetch(path)
       .then(res => { if (!res.ok) throw new Error('not found'); return res.json() })
       .then(data => {
@@ -255,7 +265,9 @@ Output the result in the following JSON format:
                   {(() => {
                     const datasetKey = datasetKeys[dataset] || datasetKeys[0]
                     const activities = Object.keys(desc_map_all[datasetKey] || {})
-                    return activities.map((act, r) => (
+                    return activities.map((act, r) => {
+                      const actFileName = datasetKey === 'gazebase' ? gazebase_map[act] : act
+                      return (
                       <div className="row" key={act}>
                         <div className="row-header">
                           {act.split(" ").map((word, index) => (
@@ -266,6 +278,7 @@ Output the result in the following JSON format:
                         </div>
                         {Array.from({ length: 30 }, (_, col) => {
                           const i = r * 30 + col
+                          const thumbUrl = `https://firebasestorage.googleapis.com/v0/b/eye-tracking-visual-prompt.firebasestorage.app/o/vis${windowSize}%2F${datasetKey}%2F${col}%2Ftest%2F${visTypes[visType]}%2F${actFileName}_250x125.png?alt=media`
                           return (
                             <div
                               key={i}
@@ -275,12 +288,13 @@ Output the result in the following JSON format:
                               tabIndex={0}
                               onKeyDown={(e) => { if (e.key === 'Enter') setSeed(i) }}
                             >
-                              <img src={exampleImage} alt={`Seed ${i}`} />
+                              <img src={thumbUrl} alt={`Seed ${i}`} />
                             </div>
                           )
                         })}
                       </div>
-                    ))
+                    )
+                  })
                   })()}
                 </div>
               </div>
@@ -309,16 +323,31 @@ Output the result in the following JSON format:
                 <div className="aggregated-prompt">
                   <pre className="prompt-pre-inline">{'## Example Data:'}</pre>
                   <div className="example-data-row">
-                    {rotatedActs.map((act, i) => (
+                    {rotatedActs.map((act, i) => {
+                      const datasetKey = datasetKeys[dataset] || datasetKeys[0]
+                      const sampleIndex = seed % 30
+                      const actFileName = datasetKey === 'gazebase' ? gazebase_map[act] : act
+                      const exampleUrl = `https://firebasestorage.googleapis.com/v0/b/eye-tracking-visual-prompt.firebasestorage.app/o/vis${windowSize}%2F${datasetKey}%2F${sampleIndex}%2Fexample%2F${visTypes[visType]}%2F${actFileName}.png?alt=media`
+                      return (
                       <div key={i} className="example-data-item">
                         <pre className="example-label">**{act}**</pre>
-                        <img src={exampleImage} alt={`Example ${i}`} />
+                        <img src={exampleUrl} alt={`Example ${i}`} />
                       </div>
-                    ))}
+                      )
+                    })}
                   </div>
                   <pre className="prompt-pre-inline">{testPromptText}</pre>
                   <div className="target-data">
-                    <img src={selectedImage} alt="Selected Example" />
+                    {(() => {
+                      const datasetKey = datasetKeys[dataset] || datasetKeys[0]
+                      const activities = Object.keys(desc_map_all[datasetKey] || {})
+                      const activityIndex = Math.floor(seed / 30)
+                      const sampleIndex = seed % 30
+                      const activity = activities[activityIndex]
+                      const actFileName = datasetKey === 'gazebase' ? gazebase_map[activity] : activity
+                      const targetUrl = `https://firebasestorage.googleapis.com/v0/b/eye-tracking-visual-prompt.firebasestorage.app/o/vis${windowSize}%2F${datasetKey}%2F${sampleIndex}%2Ftest%2F${visTypes[visType]}%2F${actFileName}.png?alt=media`
+                      return <img src={targetUrl} alt="Target" />
+                    })()}
                   </div>
                 </div>
                 <div className={`prompt-label`}>Result</div>
