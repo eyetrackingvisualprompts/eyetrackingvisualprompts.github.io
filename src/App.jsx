@@ -194,13 +194,12 @@ Output the result in the following JSON format:
       <section>
         <h2>Results</h2>
         <div>
-          <button onClick={() => {setExperiment(0); setWindowSize(10)}}>Experiment 1</button>
-          <button onClick={() => setExperiment(1)}>Experiment 2</button>
+          <button className={experiment === 0 ? 'selected' : ''} onClick={() => {setExperiment(0); setWindowSize(10); setDataset(0);setVisType(0); }}>Experiment 1</button>
+          <button className={experiment === 1 ? 'selected' : ''} onClick={() => {setExperiment(1); if (dataset === 0) {setDataset(1)}; setVisType(3); }}>Experiment 2</button>
         </div>
 
 
         <div className="content">
-        {/* 헤더 */}
         {experiment === 0 ? (
           <h3>Experiment 1: Performance Comparison of Visual Prompting Strategies</h3>
         ) : (
@@ -216,15 +215,15 @@ Output the result in the following JSON format:
         </div>
 
           <div className="dataset-selection">
-            <button disabled={experiment === 1} onClick={() => setDataset(0)}>GazeBase</button>
-            <button onClick={() => setDataset(1)}>SedentaryActivity</button>
-            <button onClick={() => setDataset(2)}>DesktopActivity</button>
+            <button className={dataset === 0 ? 'selected' : ''} disabled={experiment === 1} onClick={() => setDataset(0)}>GazeBase</button>
+            <button className={dataset === 1 ? 'selected' : ''} onClick={() => setDataset(1)}>SedentaryActivity</button>
+            <button className={dataset === 2 ? 'selected' : ''} onClick={() => setDataset(2)}>DesktopActivity</button>
           </div>
 
           {experiment !== 0 && (
             <div className="window-selection">
               {Array.from({ length: 10 }, (_, i) => (
-                <button key={i} onClick={() => {setWindowSize((i+1)*10); console.log((i+1)*10)}} >
+                <button key={i} className={windowSize === (i+1)*10 ? 'selected' : ''} onClick={() => {setWindowSize((i+1)*10); console.log((i+1)*10)}} >
                   {(i+1)*10}s
                 </button>
               ))}
@@ -232,16 +231,14 @@ Output the result in the following JSON format:
           )}
           <div className="selection">
               <div className="vis-selection">
-                {Array.from({ length: experiment === 0 ? 6 : 3 }, (_, i) => (
+                {Array.from({ length: 6 }, (_, i) => (
                   <button
                     key={i}
                     className={`visual-prompt ${visType === i ? 'selected' : ''}`}
                     onClick={() => setVisType(i)}
+                    disabled={experiment === 1 && i < 3}
                   >
-                    {experiment === 0
-                      ? ['Timeline (Raw)', 'Heatmap (Raw)', 'Scanpath (Raw)', 'Timeline (Feature)', 'Heatmap (Feature)', 'Scanpath (Feature)'][i]
-                      : ['Timeline', 'Heatmap', 'Scanpath'][i]
-                  }
+                    {['Timeline (Raw)', 'Heatmap (Raw)', 'Scanpath (Raw)', 'Timeline (Feature)', 'Heatmap (Feature)', 'Scanpath (Feature)'][i]}
                   </button>
                 ))}
               </div>
