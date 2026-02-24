@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper-central region with relatively small horizontal span and high, stable Y positions, closely matching the WRITE example where users focus near the top text line and toolbar rather than performing large vertical scans typical of READ or SEARCH.",
+  "correct": false
+}

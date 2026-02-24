@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long, stable fixations around a few central coordinates with occasional medium-distance vertical and horizontal shifts, plus transitions between mid-screen and upper/lower regions, resemble scanning through web/news content. The pattern lacks the tight columnar line sweeps of READ, the highly top-heavy WATCH layout, the left-upper clustering of WRITE, or the more erratic wide-range movements of PLAY and SEARCH.",
+  "correct": false
+}

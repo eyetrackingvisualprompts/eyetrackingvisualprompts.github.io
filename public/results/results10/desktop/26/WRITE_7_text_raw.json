@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a narrow band near the top of the screen (y\u22480.18\u20130.23) with long, stable fixations and occasional larger horizontal shifts, similar to following content along a horizontal strip (e.g., video subtitles or character region). Pattern lacks the systematic line-by-line horizontal scanning of READ and the more dispersed, scroll-linked vertical movements of BROWSE/SEARCH, and is less erratic and wide-ranging than PLAY/WRITE, matching the WATCH examples best.",
+  "correct": false
+}

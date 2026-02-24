@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows a single contiguous trajectory following a moving point that jumps to new positions about once per second across both horizontal and vertical dimensions, without the clustered left-to-right line patterns of reading or the multiple scattered clusters expected from video viewing or gaming; this best matches tracking a randomly moving target (Random Saccades).",
+  "correct": false
+}

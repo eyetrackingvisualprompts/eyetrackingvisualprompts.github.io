@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small code region on the left side with minimal vertical or horizontal spread, matching the focused inspection pattern of interpreting a short function rather than the broader scan paths seen in writing, debugging, or browsing.",
+  "correct": true
+}

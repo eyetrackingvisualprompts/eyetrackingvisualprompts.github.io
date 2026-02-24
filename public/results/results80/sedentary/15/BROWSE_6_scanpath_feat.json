@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow left-central code/IDE region with repeated vertical movements and occasional long saccades to the right, matching the focused editing pattern seen in the WRITE example rather than the denser, more distributed fixations of debugging or browsing.",
+  "correct": false
+}

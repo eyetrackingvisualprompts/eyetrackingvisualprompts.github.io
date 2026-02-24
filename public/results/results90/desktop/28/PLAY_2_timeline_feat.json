@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely packed with moderate horizontal progression and relatively narrow vertical range, resembling line-by-line text reading. The pattern closely matches the READ example more than the others, which show broader exploration or more dynamic shifts.",
+  "correct": false
+}

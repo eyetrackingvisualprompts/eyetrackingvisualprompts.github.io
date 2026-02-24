@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades cluster around the screen center with relatively small vertical and horizontal range and frequent short shifts, matching the dense, centrally focused pattern seen in the BROWSE example rather than the more structured scanning of READ/WRITE or the larger excursions of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

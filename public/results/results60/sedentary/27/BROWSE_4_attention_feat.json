@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed across several horizontal bands and scattered regions, resembling scanning of search results and different page elements rather than focused reading or code-centric tasks; this spatial pattern best matches the SEARCH example heatmap.",
+  "correct": false
+}

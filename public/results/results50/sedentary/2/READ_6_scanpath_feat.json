@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, horizontally aligned clusters resembling line-by-line scanning with occasional vertical regressions, typical of reading text blocks rather than code editing, browsing, or dynamic visual content.",
+  "correct": true
+}

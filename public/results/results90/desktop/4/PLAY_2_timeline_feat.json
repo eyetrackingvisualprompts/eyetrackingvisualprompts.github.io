@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are centered and scattered around the middle of the screen with frequent small bidirectional movements in both axes, resembling the exploratory, non-linear gaze behavior seen in the BROWSE example rather than the more structured horizontal patterns of READ/WRITE or the larger directional shifts of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

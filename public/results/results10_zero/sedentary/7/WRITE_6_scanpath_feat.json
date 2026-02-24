@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact region with a few longer downward and upward saccades, consistent with repeatedly looking between code and nearby interface elements (e.g., editor and console) during code writing, rather than the broader horizontal sweeps of reading/browsing or the wide, dynamic movements typical of playing or watching video.",
+  "correct": true
+}

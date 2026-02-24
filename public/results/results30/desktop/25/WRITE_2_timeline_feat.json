@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays in the lower part of the screen with slow, small horizontal drifts and limited vertical movement, matching the stable text-line monitoring and occasional shifts typical of writing in a word processor rather than the broader, more exploratory movements seen in browsing or searching.",
+  "correct": true
+}

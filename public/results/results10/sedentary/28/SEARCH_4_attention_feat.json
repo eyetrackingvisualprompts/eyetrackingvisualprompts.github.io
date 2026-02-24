@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed across multiple vertical regions and both upper and mid screen, indicating scanning of different webpage areas rather than focused code (WRITE/DEBUG/INTERPRET) or horizontal text lines (READ), and without the central, dynamic object focus typical of WATCH or PLAY, matching the browsing pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in a compact code/text area on the left with occasional long saccades to a small region on the right, matching the WRITE example pattern of focusing on the editor with brief checks of output/console, unlike the broader exploratory or dynamic patterns of other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated vertical transitions between two horizontal bands with moderate saccade activity, resembling shifts between search results and selected pages, which best matches the SEARCH pattern compared to the more uniform reading or concentrated coding-related tasks.",
+  "correct": false
+}

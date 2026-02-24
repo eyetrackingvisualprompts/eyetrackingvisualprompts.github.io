@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The fixation and saccade patterns show relatively stable horizontal positions with gradual downward drift in Y and frequent short saccades, closely matching the example READ trajectory and typical line-by-line reading behavior, unlike the larger vertical range or directional shifts seen in other tasks.",
+  "correct": false
+}

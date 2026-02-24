@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions remain within a narrow band with slow, small drifts and no clear repetitive horizontal saccades typical of reading or code-related tasks. The relatively stable fixation with gentle movement is most consistent with passively watching a video rather than scanning or interacting with text, interfaces, or game objects.",
+  "correct": false
+}

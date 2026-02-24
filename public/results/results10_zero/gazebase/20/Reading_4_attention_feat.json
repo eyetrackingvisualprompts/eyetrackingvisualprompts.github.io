@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are confined along a narrow horizontal band near the top of the screen with little vertical dispersion but substantial horizontal spread, matching the behavior of following a target moving only horizontally across the display.",
+  "correct": false
+}

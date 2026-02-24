@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The scanpath shows two main vertical regions with frequent returns to the upper code area and several long downward saccades toward the bottom, resembling the INTERPRET example where participants repeatedly reference code and output areas to reason about program behavior.",
+  "correct": false
+}

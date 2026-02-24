@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cluster tightly around a central region with minimal horizontal or vertical scanning, indicating prolonged fixation on a small, central area of the screen, which is most consistent with passively watching video content rather than the systematic left-to-right patterns of reading, the dispersed exploration of search/browse, or the larger directional shifts typical in gameplay or writing.",
+  "correct": false
+}

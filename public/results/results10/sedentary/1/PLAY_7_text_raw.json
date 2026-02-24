@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze spans wide vertical and horizontal ranges with many large jumps between top, middle, and bottom regions, including excursions off typical content areas and to screen edges, resembling exploratory, non-linear viewing seen in the BROWSE examples rather than the more line-structured patterns of READ/SEARCH or the tighter code-focused clusters of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

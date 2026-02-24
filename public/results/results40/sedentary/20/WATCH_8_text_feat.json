@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including off-screen coordinates), repeated rapid shifts between distant points, and focus around mid-screen vertical band are characteristic of visually tracking dynamic game elements rather than structured text or code or passive video watching.",
+  "correct": false
+}

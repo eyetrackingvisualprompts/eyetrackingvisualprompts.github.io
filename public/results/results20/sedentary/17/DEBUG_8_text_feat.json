@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow code-like region with frequent, short fixations and small saccades between nearby lines and positions (around y\u2248480\u2013580 and y\u2248380\u2013420), plus intermittent jumps to a slightly higher region, matching code editing/typing behavior seen in the WRITE examples rather than broader scanning or reading patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a relatively small central region with frequent short back-and-forth saccades and many long (1\u20133 s) dwell times on nearly the same coordinates, indicating intensive re-inspection of a compact code snippet rather than systematic line-by-line reading or broad browsing. This localized, analytical pattern best matches the INTERPRET (predict code output) task, which shows similar tight clusters and repeated revisits to nearby positions in the example data.",
+  "correct": false
+}

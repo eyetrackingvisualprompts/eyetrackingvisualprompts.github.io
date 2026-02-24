@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like region with frequent short saccades between nearby lines and many medium-long fixations, including repeated alternation between two vertical bands (likely code and mentally tracked variables/output). There is no extended horizontal scanning typical of text reading/browsing, nor the large-amplitude scene shifts of PLAY/WATCH/SEARCH/DEBUG; the pattern best matches focused reasoning over a single code snippet as in INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze cluster is centered in the upper-middle area with moderate dispersion and frequent shifts, closely matching the SEARCH example pattern more than the denser central cluster of BROWSE or the highly constrained band of READ.",
+  "correct": true
+}

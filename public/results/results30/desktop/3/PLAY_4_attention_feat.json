@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered in the mid-screen region with moderate horizontal spread and vertical range similar to the BROWSE example, unlike the top-heavy WATCH/WRITE patterns or narrower horizontal READ layout.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Very long, slow saccades with large vertical and diagonal jumps between distant regions (top bar, mid, bottom) and scattered fixations suggest scrolling and scanning a long webpage rather than line-by-line reading, focused code work, or following dynamic objects, matching free-form web browsing patterns.",
+  "correct": true
+}

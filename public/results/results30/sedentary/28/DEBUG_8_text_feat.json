@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Large, repeated saccades between a top code/toolbar region and lower workspace areas, with many medium-length fixations clustered around low x-coordinates, match the coding/IDE interaction pattern seen in WRITE more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a mid-left code/editor region with back-and-forth movements over a relatively small area, consistent with repeatedly checking and editing code while typing, rather than the broader horizontal sweeps of reading/browsing or the larger distributed movements typical for games or video watching.",
+  "correct": false
+}

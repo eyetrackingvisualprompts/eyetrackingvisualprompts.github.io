@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows an initial large transition from bottom-left to upper/right areas followed by concentrated reading-like fixations in multiple horizontal clusters and revisits between them, matching patterns of scanning search results and opening result pages rather than focused code reading/debugging or continuous video/game viewing.",
+  "correct": false
+}

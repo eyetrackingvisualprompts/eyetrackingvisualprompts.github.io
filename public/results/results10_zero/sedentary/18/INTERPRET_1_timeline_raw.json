@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains around the screen center with small, continuous jitter and no systematic horizontal scanning or vertical line transitions typical of reading or coding; lack of large, rapid shifts or edge-focused tracking makes it more consistent with passively watching a video than with interactive tasks like PLAY, SEARCH, or DEBUG/WRITE/INTERPRET/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay around the screen center with modest, irregular shifts and no strong directional scanning pattern; dynamics closely resemble the example BROWSE plot and differ from the more structured left-to-right READ/WRITE patterns or the larger, more global movements in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

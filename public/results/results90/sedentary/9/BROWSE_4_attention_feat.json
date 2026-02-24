@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across multiple horizontal regions, including mid and lower screen, with no single dominant code-like block or tight central focus. The pattern resembles scanning mixed web content and navigation elements, matching the BROWSE example more than the other tasks.",
+  "correct": true
+}

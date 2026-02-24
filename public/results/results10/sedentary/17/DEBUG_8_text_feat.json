@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Long lateral saccades across the horizontal axis between left and right regions, with fixations at typical SERP header/upper-page locations and occasional jumps to off-content areas (negative y) match the scan-and-jump behavior seen in the SEARCH example more than the more localized patterns of coding, reading, watching, or playing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, horizontally elongated cluster at a consistent vertical level, indicating stable left-to-right scanning along a line of text with minimal vertical transitions, which best matches the READ pattern compared to the more dispersed or multi-directional patterns of other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a compact central region with medium-duration fixations (200\u2013700 ms) and short, mostly small-amplitude saccades, consistent with following lines or small text areas. There are no large, rapid directional shifts typical of PLAY or WATCH, nor frequent long jumps and varied regions characteristic of BROWSE or SEARCH. The stable, text-like pattern aligns best with a reading task.",
+  "correct": false
+}

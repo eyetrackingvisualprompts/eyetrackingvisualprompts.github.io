@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows continuous, moderately smooth horizontal movement with varying vertical shifts and frequent saccades across much of the screen, without the strong line-by-line patterns of reading/searching or the tightly clustered code/IDE focus of interpret/debug/write. This broad, dynamic scanning best matches watching a video.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Long, stable fixations with small, mostly horizontal saccades clustered in a band and occasional larger horizontal jumps suggest line-by-line text processing, matching the structured left-to-right scan patterns seen in the READ examples more than the more scattered, multidirectional movements of SEARCH, BROWSE, or PLAY, or the localized cursor-area focus of WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are mostly confined to a central horizontal band with small, systematic shifts and clusters indicative of line-by-line fixations and short saccades, with no large, rapid multi-directional movements typical of gaming or active searching/browsing. This pattern best matches sustained reading behavior on digital text.",
+  "correct": false
+}

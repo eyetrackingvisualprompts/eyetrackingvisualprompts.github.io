@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between horizontal clusters around central x (500\u20131000) at several y-bands (\u2248240\u2013380, \u2248580\u2013700) with medium fixations and many mid- to long-range saccades to screen edges/out-of-bounds coordinates (e.g., near (67,0), (11,-11), (1839,782)), consistent with scrolling and exploring web pages rather than tight line-by-line reading, code-focused tasks, or smooth pursuit in games/videos.",
+  "correct": false
+}

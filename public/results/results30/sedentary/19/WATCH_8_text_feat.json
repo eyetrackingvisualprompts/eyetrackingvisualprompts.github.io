@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent returns between a narrow vertical band (around x\u2248600\u2013650) and nearby code/console regions, with many medium-length fixations and short local saccades, matches the structured, iterative inspection and cursor-area monitoring seen in the WRITE examples more than the broader exploratory patterns of SEARCH/BROWSE or the more static patterns of READ/WATCH/INTERPRET.",
+  "correct": false
+}

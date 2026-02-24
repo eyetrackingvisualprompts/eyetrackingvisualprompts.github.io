@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows steady, horizontally progressive fixations with small, regular regressions and relatively stable vertical position, matching the line-by-line scanning pattern seen in the READ example more than the other activities.",
+  "correct": false
+}

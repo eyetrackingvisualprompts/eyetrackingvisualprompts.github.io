@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays mostly around central-upper screen with medium-length fixations, frequent small vertical shifts within a constrained band, and occasional jumps between slightly separated horizontal regions\u2014matching patterns seen in SEARCH examples (results page scanning and query refinement) more than the tighter line-by-line horizontal sweeps of READ or the broader exploratory movements of BROWSE/PLAY.",
+  "correct": false
+}

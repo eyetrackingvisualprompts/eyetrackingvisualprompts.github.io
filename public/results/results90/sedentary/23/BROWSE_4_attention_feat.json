@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed over top-left (search box and results), mid-page, and some right-side areas, resembling the varied vertical and horizontal scanning pattern seen in the SEARCH example heatmap more than the more localized code- or game-centered patterns of other tasks.",
+  "correct": false
+}

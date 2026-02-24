@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows rich, continuous movement with many small local adjustments, varied directions, and no strict horizontal-only or stepwise jump pattern. This resembles natural exploratory viewing of dynamic scenes rather than structured saccade tasks, reading lines of text, or game-driven fixate-on-target behavior.",
+  "correct": false
+}

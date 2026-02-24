@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated on a relatively small left-center code area with vertical movements between lines and some horizontal shifts, resembling focused interaction with a code editor as in WRITE, rather than the denser spread of DEBUG or the tighter cluster of INTERPRET.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is restricted to a compact central-lower region consistent with a code editor area, with short clustered fixations and local saccades rather than long horizontal reading lines or widespread exploration, matching focused code writing/typing rather than searching, browsing, or video watching.",
+  "correct": false
+}

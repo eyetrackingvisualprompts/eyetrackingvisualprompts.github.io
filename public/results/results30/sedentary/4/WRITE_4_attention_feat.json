@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a narrow left-central code area with some spread vertically, matching the focused, localized gaze pattern of examining and correcting code seen in the DEBUG example more than the broader scanning of READ/SEARCH or central focus of WATCH/PLAY.",
+  "correct": false
+}

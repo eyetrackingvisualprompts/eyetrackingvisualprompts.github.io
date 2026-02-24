@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, medium-scale fixations and short saccades clustered around a stable horizontal band, with frequent back-and-forth inspections across nearby coordinates, resemble code-line scanning and revisiting typical of debugging rather than the more linear (READ) or highly exploratory (SEARCH/BROWSE) patterns or large spatial shifts seen in PLAY/WATCH/WRITE/INTERPRET.",
+  "correct": false
+}

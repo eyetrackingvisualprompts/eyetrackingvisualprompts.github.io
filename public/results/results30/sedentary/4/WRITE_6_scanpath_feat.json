@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a small left-side area with moderate vertical spread and limited horizontal range, similar to focused code inspection. The pattern matches the INTERPRET example more closely than the broader exploration in BROWSE/SEARCH or the wider code navigation in DEBUG/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions are centered with moderate horizontal movement and small vertical shifts, showing mixed but not highly structured scanning\u2014more variable than READ/WRITE, less exploratory than SEARCH, matching the browsing pattern in the examples.",
+  "correct": false
+}

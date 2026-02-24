@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form dense horizontal bands with small saccades and regressions at a relatively constant vertical level, then shift down to new bands\u2014characteristic of line-by-line reading rather than code-focused (WRITE/DEBUG/INTERPRET), dynamic object tracking (PLAY/WATCH), or more scattered exploratory patterns (BROWSE/SEARCH).",
+  "correct": false
+}

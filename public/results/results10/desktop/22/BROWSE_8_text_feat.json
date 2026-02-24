@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-to-long saccades across a relatively wide vertical range (down toward 0.17\u20130.24 then back up), with comparatively short fixations and several long saccades (0.3\u20131.5s) suggesting continuous spatial navigation and target tracking rather than structured line-by-line reading or text editing; this spatiotemporal pattern most closely matches the dynamic, multi-directional visual demands of the PLAY condition (e.g., Agario) rather than WATCH, READ, WRITE, BROWSE, or SEARCH, which show more clustered or text-line-constrained gaze patterns in the examples.",
+  "correct": false
+}

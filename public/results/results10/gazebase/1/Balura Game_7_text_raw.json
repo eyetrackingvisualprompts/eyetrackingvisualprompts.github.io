@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trajectory shows large, multi-directional jumps across a wide visual angle (around \u00b120\u00b0 horizontally and substantial vertical variation), followed by 1-second\u2013scale clusters of small movements around new positions\u2014matching the behavior of following a randomly moving target rather than strictly horizontal sweeps, static fixation, or reading/game-like scan patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades spanning widely separated screen regions (top, bottom, corners) with relatively short, scattered fixations and revisits to horizontal text-like bands align with scanning search results and navigating a search page rather than the more line-structured reading/browsing or localized code-centric tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze shows relatively stable horizontal position with small-range movements and occasional brief shifts, similar to focused inspection of a compact code snippet rather than extensive vertical scrolling or large explorations seen in SEARCH, BROWSE, or READ; this pattern best matches the INTERPRET example.",
+  "correct": true
+}

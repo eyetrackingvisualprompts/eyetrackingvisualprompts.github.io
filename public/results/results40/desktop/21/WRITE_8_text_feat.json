@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with long, stable fixations and short, small-amplitude saccades that progress and regress locally\u2014matching line-level text reading behavior, unlike the larger, more scattered movements seen in search, browse, play, or watch tasks, and lacking the top-heavy patterns typical for write (toolbar/text cursor) segments.",
+  "correct": false
+}

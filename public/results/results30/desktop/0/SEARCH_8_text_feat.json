@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium- to long-range saccades between dispersed regions (y\u22480.2\u20130.6) and many short fixations, with no clear horizontal line-by-line scan or concentrated top/bottom bands. This dynamic, multi-directional pattern aligns best with visually tracking moving game elements during PLAY, rather than the more structured, horizontally banded patterns of READ/WRITE or the more top/bottom-biased layouts of SEARCH/BROWSE.",
+  "correct": false
+}

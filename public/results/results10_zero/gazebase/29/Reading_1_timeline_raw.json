@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show discrete, step-like changes to varying locations across the screen with about ~1 s holds at each position, consistent with following a randomly moving target rather than strictly horizontal motion, central fixation, or reading patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze shows medium horizontal spread with frequent mid-sized saccades and revisits, plus occasional jumps to peripheral areas\u2014matching the mixed code-and-editor navigation seen in the WRITE example more than the more linear READ or more scattered SEARCH/BROWSE patterns.",
+  "correct": false
+}

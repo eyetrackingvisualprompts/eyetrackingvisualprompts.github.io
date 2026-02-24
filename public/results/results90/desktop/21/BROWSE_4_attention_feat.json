@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze heatmap shows widely scattered fixations across both vertical and horizontal extents with no dominant cluster or reading-like horizontal band, indicating frequent, rapid shifts to multiple screen regions typical of visually demanding gameplay rather than focused reading, writing, or web browsing/searching.",
+  "correct": false
+}

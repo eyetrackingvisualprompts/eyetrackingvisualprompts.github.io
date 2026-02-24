@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The data shows several large vertical and horizontal gaze shifts, including deep excursions toward screen edges and rapid transitions between distinct horizontal bands\u2014indicative of scanning result lists, switching pages/tabs, and focusing on different UI regions, which best matches the SEARCH pattern compared to the other coding- or reading-centric tasks.",
+  "correct": false
+}

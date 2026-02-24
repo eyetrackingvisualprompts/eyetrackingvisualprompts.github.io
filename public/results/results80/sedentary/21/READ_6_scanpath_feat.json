@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, systematic horizontal movements forming two distinct text blocks (upper and lower regions) with regular left-to-right sweeps and vertical returns, characteristic of reading lines of text rather than code, browsing, or dynamic content.",
+  "correct": true
+}

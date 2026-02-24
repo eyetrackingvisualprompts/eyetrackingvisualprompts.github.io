@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered around a narrow horizontal band with small horizontal saccades and long, stable fixations, resembling line-level inspection near the top of a page or header area, matching reading patterns more than the broader multi-area exploration seen in SEARCH/BROWSE or the dispersed movements in PLAY/WATCH/WRITE.",
+  "correct": false
+}

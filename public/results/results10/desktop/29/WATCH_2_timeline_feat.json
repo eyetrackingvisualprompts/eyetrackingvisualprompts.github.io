@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are relatively stable in both X and Y with small, slow shifts and few large saccades, matching the low-exploration, center-focused pattern typical of passively watching video rather than the more frequent directional scans seen in reading, searching, browsing, or playing.",
+  "correct": true
+}

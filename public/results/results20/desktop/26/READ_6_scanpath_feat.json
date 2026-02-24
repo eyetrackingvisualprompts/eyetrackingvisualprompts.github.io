@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze moves smoothly across large horizontal and vertical extents with long saccades and relatively few clustered fixations, resembling tracking moving visual content rather than focused reading, localized writing, or discrete search/browse/game interactions; this pattern best matches the WATCH example.",
+  "correct": false
+}

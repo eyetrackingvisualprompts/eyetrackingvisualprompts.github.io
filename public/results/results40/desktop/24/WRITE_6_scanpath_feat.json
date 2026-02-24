@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in a central region with frequent shifts among nearby areas and occasional movements to different vertical positions, indicating interaction with multiple interface elements (search box, results list, etc.), which aligns best with the SEARCH pattern compared to the more linear READ or top-focused WATCH/WRITE patterns.",
+  "correct": false
+}

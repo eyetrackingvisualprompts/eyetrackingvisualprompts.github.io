@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic horizontal sweeps with periodic vertical shifts in Y fixation, resembling line-by-line progression through text, matching the characteristic reading pattern in the READ examples more than the other activities.",
+  "correct": false
+}

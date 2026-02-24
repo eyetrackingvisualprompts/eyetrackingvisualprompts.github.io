@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with many long fixations and short saccades along x\u224880\u2013350 at y\u2248170\u2013220 and then similar bands around y\u2248380\u2013420 and y\u2248550\u2013620, forming stable left-to-right scanning lines characteristic of reading text, rather than the broader exploratory or object-following patterns seen in other tasks.",
+  "correct": false
+}

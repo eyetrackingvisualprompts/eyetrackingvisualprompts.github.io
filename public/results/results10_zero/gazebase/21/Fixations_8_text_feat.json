@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between discrete fixation points with relatively long, stable fixations (~0.2\u20132.8 s) followed by rapid saccades of varying directions and amplitudes, including substantial vertical as well as horizontal components. This pattern of isolated, widely spaced targets held for about a second each is most consistent with following a randomly moving bull\u2019s-eye (Random Saccades) rather than the more patterned, line-based movements of reading, the central stability of fixations, purely horizontal shifts, or the complex, shorter, object-driven fixations typical of video viewing or the Balura game.",
+  "correct": false
+}

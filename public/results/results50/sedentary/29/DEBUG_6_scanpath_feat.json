@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is densely clustered over a compact code area on the left with occasional long saccades to a second region on the right, matching focused code inspection and brief reference checking typical of the INTERPRET task rather than the more dispersed patterns of browsing, search, or gameplay.",
+  "correct": false
+}

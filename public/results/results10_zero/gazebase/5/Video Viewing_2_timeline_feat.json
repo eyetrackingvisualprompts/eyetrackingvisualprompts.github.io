@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete, step-like changes in both horizontal and vertical directions to various locations across the screen, with each position held roughly around a second before jumping to a new, randomly distributed location\u2014matching the pattern of following a randomly moving bull\u2019s-eye target rather than strictly horizontal motion, continuous exploration, central fixation, or reading-like scanpaths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-sized shifts in both X and Y with alternating upward and downward movements, resembling scanning between results, snippets, and different areas on a search-results page, matching the SEARCH example pattern more than the more linear READ/INTERPRET or more erratic PLAY/WATCH behaviors.",
+  "correct": false
+}

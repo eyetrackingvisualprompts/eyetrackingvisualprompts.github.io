@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Predominantly mid-long fixations (0.2\u20131.5s) clustered within a relatively narrow vertical band with short, small-amplitude saccades and occasional slightly larger shifts are characteristic of reading or text-focused tasks. There is no sustained tracking of moving objects (PLAY) nor wide exploratory scanning (BROWSE/SEARCH/WATCH), and no clear back-and-forth between code and other UI regions (more typical of DEBUG/WRITE/INTERPRET). The pattern best matches focused reading of static text.",
+  "correct": false
+}

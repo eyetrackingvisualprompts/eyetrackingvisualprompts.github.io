@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains confined to a very small region near the center (x,y around -1, -1) with long fixation durations (often >0.5\u20131 s) and only short, low-amplitude corrective saccades, matching sustained central fixation rather than large, directed or patterned movements seen in the other tasks.",
+  "correct": true
+}

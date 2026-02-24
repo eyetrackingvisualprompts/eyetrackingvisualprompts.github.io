@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across the top-left (likely query area) and predominantly along the lower-right region in a horizontal band, matching the pattern of scanning search results rather than the tighter clustered patterns of coding/reading or the more globally dispersed viewing of videos/games/browsing.",
+  "correct": true
+}

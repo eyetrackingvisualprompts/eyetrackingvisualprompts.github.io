@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the upper-middle region with some spread downward, matching the example SEARCH heatmap pattern of scanning search results near the top of the page rather than the central block of BROWSE or the horizontal bands of READ/WRITE.",
+  "correct": true
+}

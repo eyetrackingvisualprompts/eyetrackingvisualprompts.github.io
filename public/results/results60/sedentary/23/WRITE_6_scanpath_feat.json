@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between two horizontally separated content regions (left and right), with long horizontal saccades and scattered fixations, matching web browsing behavior across pages or panes rather than the denser, more localized patterns of coding, reading, or watching video.",
+  "correct": false
+}

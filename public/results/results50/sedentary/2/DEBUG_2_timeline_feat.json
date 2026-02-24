@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze shows relatively stable horizontal position with moderate, localized saccades and slight upward drift in Y, indicating focused inspection of a compact code snippet rather than wide reading or browsing patterns; this best matches the INTERPRET task behavior.",
+  "correct": false
+}

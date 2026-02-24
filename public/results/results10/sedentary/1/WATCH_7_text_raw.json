@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze spans large screen regions with smooth shifts between clustered areas, frequent revisits to salient zones, and relatively continuous motion rather than line-based or form-based scanning, matching the spatial dispersion and dynamic viewing patterns typical of watching full-screen video rather than text reading, coding, or web search/browsing layouts.",
+  "correct": true
+}

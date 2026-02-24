@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left/central vertical region consistent with reading result snippets, with frequent vertical movements and some long horizontal saccades toward the right side, matching the scanpath pattern shown in the SEARCH example more than the other activities.",
+  "correct": false
+}

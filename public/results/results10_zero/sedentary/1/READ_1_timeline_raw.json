@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains at a nearly constant vertical position with slow, progressive horizontal shifts and occasional leftward resets, matching line-by-line reading behavior rather than dynamic or multi-region exploration seen in coding, gaming, or web browsing tasks.",
+  "correct": true
+}

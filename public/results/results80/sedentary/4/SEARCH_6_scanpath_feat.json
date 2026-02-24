@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows wide, dispersed exploration across almost the entire screen with frequent long-range saccades between left and right regions and varied vertical positions, closely matching the heterogeneous, multi-region gaze behavior typical of free web browsing rather than the more localized or structured patterns of the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically from mid to upper screen with several distinct clusters and more scattered points than READ/BROWSE, indicating scanning different regions such as query box, results list, and possibly other interface elements typical of web searching.",
+  "correct": false
+}

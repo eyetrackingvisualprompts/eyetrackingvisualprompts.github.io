@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Initial smooth horizontal scan near the bottom suggests reading or scanning a line, followed by very large, rapid saccades across widely separated regions of the screen (including off-screen coordinates) and multiple jumps between top, middle, and bottom areas. This pattern matches exploratory, non-systematic navigation typical of free web browsing rather than the more constrained, centrally focused patterns seen in coding, debugging, interpreting, or video watching.",
+  "correct": false
+}

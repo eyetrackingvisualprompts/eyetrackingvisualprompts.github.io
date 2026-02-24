@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze stays mostly within a narrow horizontal band (one code window) with occasional medium jumps and longer fixations, then shows a few pronounced vertical excursions late in the window\u2014matching the pattern of inspecting a small code snippet and mentally tracing its execution as in the INTERPRET task, rather than the denser, more scattered movements of DEBUG or BROWSE/SEARCH.",
+  "correct": false
+}

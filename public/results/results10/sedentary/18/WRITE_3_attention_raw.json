@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Two main tight clusters over code-like regions (upper-left and mid-left) with limited spread, matching the focused, localized gaze pattern seen in the DEBUG example rather than the more linear (READ/WRITE) or widely scattered (PLAY/SEARCH/BROWSE/WATCH) patterns.",
+  "correct": false
+}

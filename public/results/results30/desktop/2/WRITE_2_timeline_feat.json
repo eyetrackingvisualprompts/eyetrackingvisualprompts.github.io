@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "X fixations are mostly near the left side while slowly drifting rightward with limited horizontal range, and Y fixations stay in the lower half of the screen, resembling attention focused on a text-entry area (as in a word processor) rather than scanning across full lines or diverse page regions; this pattern most closely matches the WRITE examples.",
+  "correct": true
+}

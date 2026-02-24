@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze positions stay around mid-screen with small, smooth horizontal shifts and occasional vertical changes, similar to the SEARCH example pattern and less step-like than READ/BROWSE or erratic like PLAY/WATCH.",
+  "correct": true
+}

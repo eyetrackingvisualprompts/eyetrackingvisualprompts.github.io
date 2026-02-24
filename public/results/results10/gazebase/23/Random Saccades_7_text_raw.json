@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show repeated large, irregular shifts in gaze position across both horizontal and vertical dimensions, followed by relatively stable local clusters\u2014consistent with following a target that jumps unpredictably around the screen (Random Saccades) rather than the strictly horizontal pattern of Horizontal Saccades or the more structured, line-based progression of Reading.",
+  "correct": true
+}

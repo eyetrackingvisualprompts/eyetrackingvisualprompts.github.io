@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions remain near the screen center with small, regular horizontal movements and slight downward drift in Y, matching the stable, line-by-line scanning pattern characteristic of reading rather than the larger, more scattered shifts seen in browsing or search.",
+  "correct": true
+}

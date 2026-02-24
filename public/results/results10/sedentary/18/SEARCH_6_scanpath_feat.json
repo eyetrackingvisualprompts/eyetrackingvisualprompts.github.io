@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a left-central code area with repeated vertical shifts between code lines and a few transitions to a right-side region, resembling the INTERPRET example more than the tighter local loops of DEBUG or WRITE.",
+  "correct": false
+}

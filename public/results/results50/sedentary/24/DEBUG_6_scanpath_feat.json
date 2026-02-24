@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact left-side code area with frequent vertical and local horizontal shifts plus occasional large excursions, closely matching the DEBUG example pattern more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows sequential, mostly horizontal fixations with short saccades along a narrow vertical band (y \u2248 320\u2013390), consistent with line-by-line reading, followed by a large saccade to the top-left region (y \u2248 20\u201370) resembling a move to a new section or heading. This structured left-to-right progression matches reading text more than the more scattered patterns typical of browsing, searching, coding, or gameplay.",
+  "correct": false
+}

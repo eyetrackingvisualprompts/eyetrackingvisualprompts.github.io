@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points stay clustered in a relatively small region with dense, short, back\u2011and\u2011forth movements and occasional small jumps, matching the localized, code\u2011window focus seen in the WRITE examples rather than the more extensive scanning or line\u2011by\u2011line horizontal movements of READ/BROWSE/SEARCH or the larger, more dynamic shifts of WATCH/PLAY/DEBUG/INTERPRET.",
+  "correct": false
+}

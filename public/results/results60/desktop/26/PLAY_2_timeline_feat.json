@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Y fixation stays high and relatively stable in the upper screen region (where a text editor toolbar and first lines usually are) while X fixation is lower and more constrained, resembling the WRITE template more than the broader, more variable patterns of SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

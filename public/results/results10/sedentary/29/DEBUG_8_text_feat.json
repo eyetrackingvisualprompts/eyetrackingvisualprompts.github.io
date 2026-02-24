@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact code-like region with frequent short saccades among nearby lines and vertical moves between slightly different y-levels, closely matching the INTERPRET example pattern of repeatedly revisiting a small snippet to reason about its behavior, rather than the broader navigation seen in SEARCH/BROWSE or the wider vertical sweeps and top-area checks typical of DEBUG/WRITE.",
+  "correct": false
+}

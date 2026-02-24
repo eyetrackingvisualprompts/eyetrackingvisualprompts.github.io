@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows frequent rapid shifts and larger saccades across a wide vertical and horizontal range, including sudden jumps between distant regions (e.g., near top-center, then far down, then to far right), consistent with visually tracking dynamic game elements and UI rather than line-by-line or structured text scanning typical of reading, searching, coding, or debugging tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze frequently transitions between low vertical positions (near the bottom of the screen, y\u22480.0\u20130.2) and mid\u2011screen regions with long, oblique saccades and short fixations, covering wide horizontal extents. This pattern of rapid, large-amplitude spatial shifts across the playfield, especially near screen edges and bottom, aligns with the exploratory, target-tracking behavior seen in the PLAY examples rather than the more columnar/central patterns of reading, browsing, searching, or writing, or the relatively more stable regions typical in video watching.",
+  "correct": false
+}

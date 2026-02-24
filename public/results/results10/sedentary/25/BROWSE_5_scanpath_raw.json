@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a dense cluster near the top-left (likely search box or results area) and larger excursions toward the middle/right of the screen, resembling scanning and revisiting different regions as in search tasks rather than the more localized or patterned movements of coding, reading, or watching.",
+  "correct": false
+}

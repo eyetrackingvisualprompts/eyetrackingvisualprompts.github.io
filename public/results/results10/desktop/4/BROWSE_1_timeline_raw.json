@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with several distinct vertical shifts between bands, indicating transitions between different screen regions (search bar, results list, and possibly other elements), which most closely matches the search task pattern rather than the steadier reading or more dynamic play/browse behaviors.",
+  "correct": false
+}

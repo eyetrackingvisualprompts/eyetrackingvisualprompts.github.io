@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a compact area in the lower-left code region with limited horizontal movement, closely matching the DEBUG example pattern where attention focuses on a specific buggy code segment rather than scanning widely as in SEARCH/BROWSE or linearly as in READ/WRITE.",
+  "correct": false
+}

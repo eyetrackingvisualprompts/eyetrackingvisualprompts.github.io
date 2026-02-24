@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on a narrow left-central code area with dense fixations and limited horizontal spread, similar to INTERPRET/DEBUG patterns; absence of extended top/bottom IDE navigation and slightly less dispersion than DEBUG makes it closer to INTERPRET (focused code reading to infer output).",
+  "correct": false
+}

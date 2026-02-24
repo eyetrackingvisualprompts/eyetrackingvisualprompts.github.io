@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions span a wide 2D range (both horizontal and vertical, up to \u00b120\u00b0), with large, irregularly directed saccades interspersed with ~200\u2013400 ms fixations, consistent with tracking a randomly moving target rather than predominantly horizontal motion, line-structured reading, central fixation, or content-driven viewing/game patterns.",
+  "correct": false
+}

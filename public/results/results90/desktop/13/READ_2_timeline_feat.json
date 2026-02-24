@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with moderate horizontal drift and small vertical range, resembling the mixed but relatively constrained scanning pattern of browsing examples rather than the more linear READ pattern or the larger vertical shifts seen in SEARCH and PLAY.",
+  "correct": false
+}

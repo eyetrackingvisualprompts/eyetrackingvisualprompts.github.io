@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows irregular, multi-directional position changes in both X and Y with varying amplitudes and dwell times, matching the pattern of a target jumping to random positions rather than the structured left-right pattern of horizontal saccades or the systematic scan paths of reading or gameplay interactions.",
+  "correct": false
+}

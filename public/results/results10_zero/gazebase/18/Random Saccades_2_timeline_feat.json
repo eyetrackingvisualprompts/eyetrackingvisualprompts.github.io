@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete steps to various horizontal and vertical locations, not just central or purely horizontal shifts. Each position is held for about a second before jumping to a new, irregularly spaced location, matching the behavior of following a randomly moving target across both axes.",
+  "correct": true
+}

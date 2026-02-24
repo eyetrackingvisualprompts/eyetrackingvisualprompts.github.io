@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular jumps covering much of the display in both horizontal and vertical directions, with no clear repetitive horizontal pattern (as in Horizontal Saccades) and no tight clustering (as in Fixations or Reading). This widespread, non-systematic coverage is most consistent with following a randomly moving target across the screen, i.e., Random Saccades.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in two nearby regions on the left side of the screen with frequent short saccades and revisits, matching the code-and-console pattern seen in the WRITE example rather than the more localized DEBUG or linear READ/BROWSE patterns.",
+  "correct": false
+}

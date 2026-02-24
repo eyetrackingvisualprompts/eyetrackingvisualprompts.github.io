@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent re-fixations within a compact code-like area, many medium-length fixations interleaved with short saccades, and repeated vertical excursions between upper and lower regions (likely code and console/output) resemble the more intensive, back-and-forth inspection typical of debugging rather than the more linear scanpaths of reading/browsing or the high-amplitude, target-driven movements of play/watch/search.",
+  "correct": false
+}

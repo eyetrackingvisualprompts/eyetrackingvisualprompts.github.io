@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixation X increases gradually with small regressions and Y remains largely stable with one downward shift, matching a left-to-right line reading pattern similar to the READ example and unlike the more scattered patterns in browse/search or the localized code-related tasks.",
+  "correct": true
+}

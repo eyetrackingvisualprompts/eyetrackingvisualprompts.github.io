@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated around mid-screen with predominantly horizontal saccades of moderate amplitude and long, stable fixations, forming patterns similar to line-by-line scanning with occasional vertical shifts\u2014closely matching the provided READ examples and differing from the more scattered, peripheral, and highly variable patterns seen in BROWSE, SEARCH, PLAY, and WATCH.",
+  "correct": false
+}

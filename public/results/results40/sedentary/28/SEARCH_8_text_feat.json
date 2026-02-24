@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long-range saccades between top-left (near search box) and mid-page regions, repeated horizontal scanning of result-like lines around y\u2248280\u2013480, and periodic returns to the top are characteristic of scanning search results rather than continuous line-by-line reading or code-focused tasks.",
+  "correct": true
+}

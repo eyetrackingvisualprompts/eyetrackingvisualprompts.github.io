@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a dense cluster on the left and another on the right, indicating repeated shifts between two spatially separated regions (e.g., results list and target page). The horizontal saccades and dispersed fixation groups resemble the SEARCH example more than the more localized patterns of READ/BROWSE or the code-focused tasks.",
+  "correct": false
+}

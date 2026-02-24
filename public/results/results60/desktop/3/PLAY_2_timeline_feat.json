@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show medium-range, irregular horizontal and vertical movements with frequent shifts across a mid-screen band, resembling the varied scanning behavior of browsing heterogeneous web pages rather than the more structured patterns of reading, watching, or writing.",
+  "correct": false
+}

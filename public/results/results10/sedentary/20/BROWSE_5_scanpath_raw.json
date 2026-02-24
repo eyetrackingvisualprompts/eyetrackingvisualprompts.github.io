@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts spanning almost the entire screen with irregular directions and some central clustering, matching dynamic object tracking and navigation typical of gameplay rather than the more localized or structured patterns seen in reading, coding, or web browsing tasks.",
+  "correct": false
+}

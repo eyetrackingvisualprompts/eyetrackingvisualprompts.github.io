@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the upper-left region with a horizontal spread and a few checks lower on the page, resembling scanning search engine results rather than the denser code-focused patterns of WRITE/DEBUG/INTERPRET or the more global distributions of WATCH/BROWSE/PLAY/READ.",
+  "correct": false
+}

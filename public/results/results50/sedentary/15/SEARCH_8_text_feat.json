@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent jumps between top-edge coordinates (near address/search bar region), mid-page content, and bottom/near-bottom areas, with repeated revisits and wide horizontal sweeps, match the heterogeneous navigation and SERP/result-page switching seen in the SEARCH examples more than the more structured, banded patterns of READ/WRITE or the central-dynamic focus of WATCH/PLAY.",
+  "correct": true
+}

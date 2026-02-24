@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal scanning with small, systematic shifts and revisits, resembling structured code inspection. The pattern matches the DEBUG example more closely than the smoother, more linear INTERPRET or the more erratic BROWSE and PLAY behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, rapid gaze jumps in many directions across most of the screen with little repetitive structure, consistent with following a target that appears at random positions rather than structured patterns from reading, video viewing, or game-like pursuit.",
+  "correct": false
+}

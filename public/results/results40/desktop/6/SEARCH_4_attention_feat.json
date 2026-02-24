@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated within a small central region with limited horizontal span and no clear line-like structure, resembling focused attention on a central webpage area as in the BROWSE example rather than the broader sweeps of READ, PLAY, SEARCH, WATCH, or the left-shifted WRITE pattern.",
+  "correct": false
+}

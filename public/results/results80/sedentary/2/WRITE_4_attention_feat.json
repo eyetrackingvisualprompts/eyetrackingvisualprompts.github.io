@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically in the upper-left region rather than constrained to a code block or horizontal text lines, with additional scattered fixations at top-center and right, resembling scanning across search results and page elements more than focused reading, coding, or gameplay.",
+  "correct": false
+}

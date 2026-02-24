@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a horizontal band with clusters around two main vertical regions and some longer transitions between them, suggesting scanning different webpage sections (e.g., content area and another panel), which matches the browsing pattern better than more localized coding or reading tasks.",
+  "correct": false
+}

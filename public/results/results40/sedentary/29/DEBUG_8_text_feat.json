@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a relatively narrow vertical band with many short, left-right and right-left saccades and mid-length fixations clustered around similar y-values (~430\u2013600), consistent with line-by-line reading or scanning text, rather than the broader spatial exploration of SEARCH/BROWSE or the more code-pane-centered patterns of WRITE/DEBUG/INTERPRET, and without the long stable fixations and scene jumps typical of WATCH or the large dynamic shifts of PLAY.",
+  "correct": false
+}

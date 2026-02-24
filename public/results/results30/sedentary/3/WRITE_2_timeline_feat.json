@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is relatively stable around a narrow central region with slow, modest horizontal drift and small saccades, closely matching the INTERPRET example where participants inspect a short code snippet rather than scanning widely as in SEARCH/BROWSE or following motion as in PLAY/WATCH.",
+  "correct": false
+}

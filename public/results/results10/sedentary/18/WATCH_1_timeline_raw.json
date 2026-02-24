@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows multiple horizontal scanning segments at different vertical levels with intermittent jumps and brief bursts of wider exploration, matching the pattern of reading snippets and moving between search results typical of the SEARCH task rather than the more uniform reading, code-focused, or highly dynamic gaming patterns of other classes.",
+  "correct": false
+}

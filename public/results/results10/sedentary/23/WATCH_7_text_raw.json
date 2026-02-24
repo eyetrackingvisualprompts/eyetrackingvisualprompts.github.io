@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Dominant gaze cluster around upper-middle coordinates with dense local scanning, occasional vertical shifts, and some large jumps, closely resembles the SEARCH example\u2019s pattern of inspecting results and snippets; the fixation structure and saccade amplitudes differ from the more line-structured READ and the more global motion in WATCH or PLAY.",
+  "correct": false
+}

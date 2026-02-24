@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, stable fixations with small, mostly horizontal saccades clustered in a narrow region, closely matching the sustained, line-based viewing pattern seen in the READ example rather than the more scattered or exploratory patterns of SEARCH/BROWSE or dynamic shifts of PLAY/WATCH/WRITE.",
+  "correct": false
+}

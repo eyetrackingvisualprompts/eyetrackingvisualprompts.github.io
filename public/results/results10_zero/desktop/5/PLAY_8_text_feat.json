@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays near screen center with small horizontal/vertical shifts and several long fixations (up to ~3 s), consistent with reading lines and short regressions, rather than the larger, more exploratory movements typical of browsing/searching or the dynamic gaze shifts of watching videos or playing games.",
+  "correct": false
+}

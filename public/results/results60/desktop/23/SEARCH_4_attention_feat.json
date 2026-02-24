@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region around the screen center with moderate vertical spread, closely matching the browsing example heatmap and typical attention on a central web page area rather than the more horizontal patterns of reading or the dispersed patterns of play/watch.",
+  "correct": false
+}

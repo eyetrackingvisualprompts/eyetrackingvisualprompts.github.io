@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent long-range saccades between code and other screen regions, followed by extended periods of dense, localized fixations around mid-lower screen coordinates and repeated revisits to similar clusters, match the sustained, code-and-editor-focused gaze patterns seen in WRITE rather than the broader exploratory or media-following patterns of SEARCH, BROWSE, or WATCH.",
+  "correct": true
+}

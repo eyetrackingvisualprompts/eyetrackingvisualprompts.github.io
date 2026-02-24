@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, rapid shifts across wide screen areas (including extreme edges and off-center regions) interleaved with relatively stable clusters, consistent with following dynamic visual content in different regions of a video rather than the more structured, line-based or search-result-based scan patterns typical of READ, WRITE, SEARCH, or BROWSE, and less systematically task-driven than PLAY gaze.",
+  "correct": false
+}

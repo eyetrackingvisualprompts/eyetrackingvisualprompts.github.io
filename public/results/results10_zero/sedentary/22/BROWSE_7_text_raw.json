@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid jumps across wide screen areas, including frequent off-screen coordinates and scattered vertical/horizontal movements rather than orderly line-by-line or block-by-block scanning. This erratic, wide-range tracking pattern is more consistent with visually following and reacting to dynamic game elements than with the more structured, localized patterns typical of reading, coding (WRITE/DEBUG/INTERPRET), searching, or browsing, or the smoother, more constrained motion of watching video.",
+  "correct": false
+}

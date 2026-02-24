@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are widely dispersed across the central screen with frequent saccades in multiple directions and no clear horizontal reading or focused region, matching the exploratory, scattered pattern typical of web searching rather than the more localized patterns of reading, writing, watching, browsing news layouts, or playing games.",
+  "correct": false
+}

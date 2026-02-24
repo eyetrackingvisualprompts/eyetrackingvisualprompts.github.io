@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a mostly monotonic progression in the horizontal (X) direction with a nearly constant vertical (Y) level and minimal large saccades, matching left-to-right line reading behavior rather than the more scattered movements of search, browsing, or code-related tasks.",
+  "correct": false
+}

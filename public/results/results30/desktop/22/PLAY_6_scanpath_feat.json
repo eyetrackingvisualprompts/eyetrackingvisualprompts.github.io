@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are moderately scattered over a mid-screen region with frequent saccades in multiple directions and varying fixation durations, resembling the exploratory, multi-element viewing seen in the SEARCH example rather than the more linear (READ/WRITE) or tightly clustered (BROWSE) patterns.",
+  "correct": false
+}

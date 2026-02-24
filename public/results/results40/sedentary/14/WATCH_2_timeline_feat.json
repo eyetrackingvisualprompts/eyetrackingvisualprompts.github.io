@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large-amplitude vertical and horizontal saccades with shifting fixation bands, indicating repeated transitions between different screen regions (e.g., search box, result snippets, different pages), which best matches the heterogeneous scan behavior seen in the SEARCH example rather than the more patterned or localized movements in READ, BROWSE, or coding tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze jumps across wide screen regions (including off-center extremes and corners), rapid shifts between dispersed clusters, and trajectories consistent with tracking moving objects and game HUD elements rather than line-by-line reading or code inspection; this spatiotemporal pattern best matches the dynamic, wide-range visual behavior seen in the PLAY examples.",
+  "correct": false
+}

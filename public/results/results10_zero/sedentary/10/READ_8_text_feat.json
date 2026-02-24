@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal movements within a narrow vertical band (y\u2248170\u2013220) with sequential fixations across increasing x-coordinates, consistent with reading a line of text. There are no large multidirectional sweeps typical of games, nor vertical code navigation typical of programming/debugging tasks; the pattern best matches line-by-line reading behavior.",
+  "correct": true
+}

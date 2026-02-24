@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across the screen with frequent long saccades and rapid shifts in both horizontal and vertical directions, resembling continuous object tracking or navigation patterns rather than focused reading, coding, or searching behavior. This scanpath best matches the example pattern for the PLAY activity.",
+  "correct": false
+}

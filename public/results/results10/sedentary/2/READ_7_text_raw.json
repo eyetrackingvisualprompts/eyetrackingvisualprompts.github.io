@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cluster around a relatively narrow horizontal band with smooth shifts and local jitter, consistent with following dynamic visual content across the screen rather than line-by-line reading or code scanning. The pattern lacks the structured vertical transitions of reading/searching or the dispersed code/editor navigation of programming tasks, and instead matches the more continuous, mid-screen tracking behavior seen in the WATCH examples.",
+  "correct": false
+}

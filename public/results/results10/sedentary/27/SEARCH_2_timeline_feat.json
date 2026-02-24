@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze stays in a narrow vertical band with slowly drifting X and Y positions and occasional small saccades, matching the focused, line-by-line inspection pattern seen in the DEBUG example rather than the broader scanning of SEARCH/BROWSE or the more static patterns of READ/WRITE.",
+  "correct": false
+}

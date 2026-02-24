@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly focused on a small region in the upper-left code area with minimal dispersion, closely matching the INTERPRET example heatmap where participants concentrate on a short code snippet to predict its output, unlike the broader scanning seen in DEBUG or SEARCH.",
+  "correct": false
+}

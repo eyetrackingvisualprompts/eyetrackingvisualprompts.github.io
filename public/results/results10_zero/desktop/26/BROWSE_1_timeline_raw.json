@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured horizontal movements within a constrained vertical band, with step-like downward shifts in Y and relatively smooth X sweeps consistent with line-by-line reading behavior rather than the larger, more scattered shifts typical of browsing, search, games, or video watching.",
+  "correct": false
+}

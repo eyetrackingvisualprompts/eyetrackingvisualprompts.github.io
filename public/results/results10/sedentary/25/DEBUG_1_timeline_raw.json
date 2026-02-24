@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays mostly in a confined code-region with modest horizontal motion and a few brief vertical shifts/spikes, resembling the WRITE example more than the broader scanning or strong horizontal patterns seen in READ, BROWSE, or SEARCH.",
+  "correct": false
+}

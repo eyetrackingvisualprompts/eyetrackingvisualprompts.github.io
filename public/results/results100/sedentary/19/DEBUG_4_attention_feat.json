@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a left-side code region with some spread vertically, similar to the DEBUG example heatmap, suggesting focused scanning through code lines and occasional checks elsewhere on the screen rather than continuous reading or free browsing.",
+  "correct": true
+}

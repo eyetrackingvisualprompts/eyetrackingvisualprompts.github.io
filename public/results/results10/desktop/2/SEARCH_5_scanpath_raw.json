@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows a few long saccades between separated regions plus clustered fixations within those regions, indicating transitions between different items or areas (e.g., search results) rather than the tight horizontal band of reading or the widespread movements of watching/playing; this pattern best matches SEARCH.",
+  "correct": true
+}

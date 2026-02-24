@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete gaze jumps to widely separated positions across both horizontal and vertical axes, with segments of relative stability at each location, matching a target that appears at random positions for about one second rather than repetitive horizontal tracking, central fixation, or structured reading patterns.",
+  "correct": false
+}

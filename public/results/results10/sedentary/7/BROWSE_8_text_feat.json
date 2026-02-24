@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large vertical shifts between top and bottom regions, inclusion of coordinates near or beyond screen bounds (e.g., negative y, very large x), and scanning across dispersed areas resemble webpage scrolling and navigation patterns seen in the BROWSE example rather than the more localized, code-centered or game-centered gaze of other tasks.",
+  "correct": true
+}

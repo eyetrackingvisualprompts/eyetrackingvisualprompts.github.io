@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated around an upper-left code area with frequent revisits and several long downward saccades to a console/editor region, closely matching the INTERPRET example pattern and differing from the more erratic DEBUG scanpath.",
+  "correct": false
+}

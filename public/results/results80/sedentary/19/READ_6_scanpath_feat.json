@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows two dense horizontal bands of fixations with orderly left-to-right saccades within each band and few transitions between them, matching line-by-line reading behavior similar to the READ example, rather than the more scattered or clustered patterns of other tasks.",
+  "correct": true
+}

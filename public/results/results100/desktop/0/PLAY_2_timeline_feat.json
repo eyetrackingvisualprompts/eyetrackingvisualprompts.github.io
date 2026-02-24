@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, irregular horizontal and vertical movements with scattered saccades and no strong directional sweep or line-by-line pattern, matching the mixed scanning behavior of browsing web pages rather than the more structured patterns of reading, writing, searching results, or the larger excursions seen in play/watch tasks.",
+  "correct": false
+}

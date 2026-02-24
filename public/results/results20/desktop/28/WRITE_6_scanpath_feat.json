@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a mostly horizontal band with sequential left-to-right movements and limited vertical shifts, matching the pattern of reading lines of text rather than the more scattered or clustered patterns seen in browsing, searching, playing, or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points cover a wide, continuous area of the screen with smooth shifts and no clear horizontal line-by-line scanning or revisits to specific code-like regions, matching the broad, flowing viewing pattern typical of watching a fullscreen video rather than the more structured, segment-focused patterns seen in reading, coding, debugging, browsing, or searching tasks.",
+  "correct": false
+}

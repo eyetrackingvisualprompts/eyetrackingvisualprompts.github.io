@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows several periods of focused, relatively stable fixations on a narrow vertical band (likely code lines), interspersed with occasional large vertical saccades and a notable excursion to low Y values around 6\u20137s, consistent with shifting between code, error messages, and outputs typical of debugging rather than the more uniform reading or watching patterns.",
+  "correct": false
+}

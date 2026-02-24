@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is distributed broadly along the central horizontal band with several clusters but without the tight vertical column typical of code or text tasks, nor the strong single central cluster of PLAY. This spread, following central on-screen motion, best matches the WATCH video-viewing pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a compact region on the left-center of the screen with minimal spread elsewhere, closely matching the INTERPRET example pattern where attention is focused on a small code snippet rather than distributed across wider areas as in other tasks.",
+  "correct": false
+}

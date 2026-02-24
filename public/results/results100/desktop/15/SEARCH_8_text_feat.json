@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small upper region with many long, stable fixations and short, low-amplitude saccades, showing micro-adjustments around a line of text and occasional brief shifts to nearby UI elements\u2014this tightly clustered, slow pattern matches the WRITE examples more than the wider, more exploratory movements in SEARCH/BROWSE or the structured horizontal scans in READ/WATCH.",
+  "correct": false
+}

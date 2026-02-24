@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows only a few large saccades between two main regions with minimal back-and-forth or systematic line-by-line movements, suggesting gaze following dynamic screen content rather than reading or code-related tasks; this pattern is most consistent with watching a video.",
+  "correct": false
+}

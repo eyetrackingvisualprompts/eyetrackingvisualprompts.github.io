@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band with short, mostly horizontal saccades and clustered fixations that progress over time, consistent with line-by-line reading rather than wide exploratory movements (search/browse), continuous motion (watch/play), or code-oriented tasks (write/interpret/debug).",
+  "correct": false
+}

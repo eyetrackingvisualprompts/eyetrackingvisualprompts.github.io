@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show predominantly horizontal movements with small, step-like vertical shifts consistent with line-by-line reading and occasional regressions, rather than the larger multidirectional shifts typical of playing games, searching, browsing, watching videos, or writing.",
+  "correct": false
+}

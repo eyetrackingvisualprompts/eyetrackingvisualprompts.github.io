@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves in small, mostly horizontal incremental steps with slowly increasing Y position, resembling line-by-line progression across text; no large rapid multidirectional shifts typical of PLAY, SEARCH, or WATCH, and lacks the scattered pattern of BROWSE or WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-screen with moderate horizontal and vertical shifts, many medium-length fixations and frequent small saccades, interspersed with occasional larger jumps to other regions (including upper and lower areas). This pattern matches scanning mixed webpage elements while scrolling, and differs from the more line-structured horizontal patterns of READ, the more top-focused WRITE, or the wide and often peripheral movements seen in PLAY and WATCH.",
+  "correct": true
+}

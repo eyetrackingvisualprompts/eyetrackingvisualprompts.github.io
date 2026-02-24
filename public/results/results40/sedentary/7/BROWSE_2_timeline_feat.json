@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large vertical transitions between two main bands with occasional extreme saccades, indicating shifts between query box, results list, and different result snippets\u2014most consistent with search-engine use rather than continuous reading, coding, or video watching.",
+  "correct": false
+}

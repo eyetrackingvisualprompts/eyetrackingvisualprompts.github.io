@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the center with both vertical and horizontal spread, resembling the mixed-scrolling and lateral exploration pattern of the BROWSE example more than the tighter, more top-focused SEARCH pattern or the horizontal READ pattern.",
+  "correct": false
+}

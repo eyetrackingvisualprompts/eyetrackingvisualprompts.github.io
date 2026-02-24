@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal sweeps with mid-length fixations and moderate vertical shifts, resembling scanning result lists and occasional focus on snippets, closely matching the SEARCH example pattern more than the more linear READ or more chaotic BROWSE/PLAY behaviors.",
+  "correct": false
+}

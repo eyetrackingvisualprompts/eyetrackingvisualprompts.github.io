@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between widely separated regions (including off-screen/negative coordinates), alternated with short local inspections, match scanning result pages, address bar, and other UI elements typical for the SEARCH task rather than the more localized, structured patterns of reading, coding, or gameplay.",
+  "correct": false
+}

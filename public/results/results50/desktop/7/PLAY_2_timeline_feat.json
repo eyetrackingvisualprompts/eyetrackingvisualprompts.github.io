@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, frequent shifts in both X and Y without strong vertical scanning patterns or tight horizontal lines seen in reading or writing. The variability and dispersed fixations resemble the example BROWSE pattern more than the others, indicating exploration of heterogeneous web content.",
+  "correct": false
+}

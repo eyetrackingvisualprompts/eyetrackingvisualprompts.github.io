@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is almost perfectly stationary in a small region for the full 10 s, with no systematic horizontal or vertical scanning typical of reading, browsing, searching, or writing, and no large multidirectional shifts common in gameplay; this stable central fixation pattern best matches passively watching a video scene element (e.g., a character or subtitle area).",
+  "correct": false
+}

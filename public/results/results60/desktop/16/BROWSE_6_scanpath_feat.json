@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across a broad central region with frequent transitions between multiple clusters, indicating repeated scanning between different areas typical of examining search results and related pages, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

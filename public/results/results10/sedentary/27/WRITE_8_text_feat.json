@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow left-side vertical strip with long, repeated fixations and short local saccades up and down within roughly the same x-range, consistent with focusing on a code editor margin/initial characters while typing, and unlike the wider horizontal sweeps of reading/browsing or the broader scene coverage of watching/playing/searching.",
+  "correct": true
+}

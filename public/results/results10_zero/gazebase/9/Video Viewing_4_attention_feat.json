@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "Fixations are tightly clustered near the center of the screen with minimal spatial dispersion, indicating sustained gaze around a central point rather than systematic horizontal movements, text-like scanpaths, or scattered exploration characteristic of other tasks.",
+  "correct": false
+}

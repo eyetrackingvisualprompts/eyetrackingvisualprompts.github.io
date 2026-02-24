@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows gaze moving repeatedly back and forth along a near-horizontal line across much of the screen width, with little vertical deviation except for an initial transient, matching the pattern of following a horizontally oscillating target rather than dense reading lines, random jumps, or central fixation.",
+  "correct": true
+}

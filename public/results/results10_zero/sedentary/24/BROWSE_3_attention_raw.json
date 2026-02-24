@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a dense horizontal band near the lower part of the screen with small lateral movements, consistent with line-by-line reading of text rather than wide exploratory browsing, code-focused tasks, or dynamic object tracking in games or video.",
+  "correct": false
+}

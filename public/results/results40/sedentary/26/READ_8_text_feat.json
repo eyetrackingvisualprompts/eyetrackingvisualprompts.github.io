@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations and saccades are tightly clustered along one horizontal band near the top of the page (y\u224880\u2013180) with smooth, left\u2011to\u2011right then right\u2011to\u2011left returns and occasional downward shifts around y\u2248220\u2013260, matching line\u2011by\u2011line text reading patterns rather than wide exploratory or code/GUI-oriented scanning seen in other tasks.",
+  "correct": true
+}

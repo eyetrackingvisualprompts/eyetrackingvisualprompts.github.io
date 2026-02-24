@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide spatial exploration with frequent shifts between distant regions (top, middle, bottom of screen), mixed horizontal scanlines, and repeated revisits to mid\u2011page areas resemble scrolling and scanning of a long web page more than the more localized, structured patterns of code tasks or the tight horizontal lines of reading text or watching video.",
+  "correct": false
+}

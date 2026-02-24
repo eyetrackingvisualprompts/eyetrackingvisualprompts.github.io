@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely packed with moderate horizontal scanning around mid-screen and limited vertical range, resembling the stable, text-line following pattern seen in the READ example more than the more exploratory or extreme movements of BROWSE, SEARCH, PLAY, WATCH, or WRITE.",
+  "correct": false
+}

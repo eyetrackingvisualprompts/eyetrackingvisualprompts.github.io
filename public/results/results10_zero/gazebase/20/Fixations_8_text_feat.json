@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Fixations are clustered within a relatively small region with varied directions and amplitudes, without the systematic left-to-right/line-change pattern of reading or the large, regular sweeps of horizontal or random saccades. Movements and dwell times look like natural, free-viewing exploration rather than tracking a single target or game objects, making video viewing the most consistent class.",
+  "correct": false
+}

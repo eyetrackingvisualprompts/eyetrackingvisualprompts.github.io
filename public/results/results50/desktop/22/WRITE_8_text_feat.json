@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band near the upper part of the page with long, stable fixations and short, local saccades, closely matching the line-by-line scanning pattern seen in the READ examples rather than the more scattered or vertically wide movements of BROWSE, SEARCH, or PLAY.",
+  "correct": false
+}

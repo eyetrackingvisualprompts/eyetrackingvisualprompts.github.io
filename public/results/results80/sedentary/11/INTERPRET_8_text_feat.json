@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Long clustered fixations and small local saccades over nearly fixed code-like regions, interspersed with occasional large jumps to distant locations (likely console, error messages, or other code parts), plus repeated revisits to similar coordinates, match the intensive, iterative problem\u2011solving and verification typical of debugging rather than the more linear or exploratory patterns of reading, browsing, or searching.",
+  "correct": false
+}

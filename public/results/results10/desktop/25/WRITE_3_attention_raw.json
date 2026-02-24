@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are tightly clustered in a small central-lower region with minimal dispersion, resembling focused attention on a specific game area rather than the broader horizontal scan of reading or the scattered exploration seen in search, browse, or watch tasks; this pattern best matches the PLAY example heatmap.",
+  "correct": false
+}

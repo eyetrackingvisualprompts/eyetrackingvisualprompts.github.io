@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact code-like area with many short, local regressions and oscillations between nearby lines and columns, plus occasional large shifts to the right (likely to other code regions or console), matching the fine-grained, iterative inspection and re-checking behavior seen in the DEBUG examples more than the more linear INTERPRET or WRITE patterns.",
+  "correct": false
+}

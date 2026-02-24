@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Long, stable fixations with small horizontal shifts around mid-upper screen coordinates and occasional line-like movements resemble the structured left-to-right scanning seen in the READ example, rather than the larger exploratory or highly dynamic patterns of SEARCH, BROWSE, PLAY, or WATCH, and without the tight narrow cluster typical of WRITE near the top-left text-entry area.",
+  "correct": false
+}

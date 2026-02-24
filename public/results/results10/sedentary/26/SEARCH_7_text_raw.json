@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze data shows tightly clustered horizontal movements around a consistent vertical band, followed by small vertical shifts and brief excursions to side regions\u2014typical of scanning search results or snippets line by line, rather than continuous reading of long paragraphs or dynamic tracking seen in PLAY/WATCH. Coordinate ranges and step-wise progression align best with SEARCH patterns among the provided classes.",
+  "correct": true
+}

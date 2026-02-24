@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Two main dense fixation clusters on the left and middle-right with frequent horizontal transitions resemble attention shifts between search results list and a clicked result page, matching the SEARCH pattern more than the other tasks.",
+  "correct": false
+}

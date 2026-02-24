@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly clustered around a central area resembling reading results, with several long saccades to higher and lower screen regions and to the right side, indicating occasional navigation and result checking rather than continuous reading or code-focused work, matching the SEARCH pattern best.",
+  "correct": false
+}

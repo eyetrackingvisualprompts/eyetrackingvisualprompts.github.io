@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-like reading with moderate horizontal movements and frequent short saccades between similar vertical bands, plus occasional jumps likely to other code locations or the run/output area, matching the debugging pattern more than the steadier interpret or write behaviors.",
+  "correct": false
+}

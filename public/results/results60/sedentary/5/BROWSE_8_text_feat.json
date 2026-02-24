@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent long saccades across large screen regions, many visits to extreme coordinates (near screen edges/outside), and rapid shifts between central and peripheral areas resemble the dynamic, target-tracking patterns seen in the PLAY examples rather than the more line-structured, locally clustered movements of reading, coding, or browsing tasks.",
+  "correct": false
+}

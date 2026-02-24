@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered in a small region near the upper-left, with minimal horizontal spread, closely matching the INTERPRET example pattern of concentrated gaze on a short code snippet rather than the wider or more dispersed patterns of reading prose, browsing, or other tasks.",
+  "correct": true
+}

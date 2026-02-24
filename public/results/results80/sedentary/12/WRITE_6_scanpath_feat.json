@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a narrow left-side vertical band with occasional saccades to a single mid-screen region, matching focused inspection of a small code snippet and its output area typical of INTERPRET, and differing from the broader spread seen in WRITE or DEBUG.",
+  "correct": false
+}

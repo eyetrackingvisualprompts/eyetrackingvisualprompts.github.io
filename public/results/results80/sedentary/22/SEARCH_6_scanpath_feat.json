@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated mostly in the upper-left and mid-top areas with repeated horizontal movements across the top region and vertical checks down the left, resembling attention to search results and snippets rather than dense code or continuous reading lines; this pattern matches the SEARCH example most closely.",
+  "correct": true
+}

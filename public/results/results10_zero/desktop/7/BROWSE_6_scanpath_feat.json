@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small central area with short, local saccades and minimal vertical scanning, consistent with focusing on a single region such as the text entry line while typing, rather than the wider horizontal sweeps of reading or the broader spatial exploration seen in play, search, browse, or watch tasks.",
+  "correct": false
+}

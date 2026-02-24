@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows varied horizontal and vertical movements with frequent mid-sized saccades and shifts between different vertical regions, resembling the heterogeneous, multi-section viewing behavior seen in the BROWSE example rather than the more structured or focused patterns of tasks like READ, WRITE, or INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change smoothly with medium-scale shifts and relatively continuous viewing, lacking the line-by-line horizontal sweeps of reading/searching or the rapid, erratic movements typical of gameplay or coding tasks, which aligns best with watching a video.",
+  "correct": true
+}

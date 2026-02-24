@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains confined to a narrow band around y\u22480.66\u20130.71 with small horizontal shifts and many long fixations (0.5\u20131.6s), matching stable line-by-line reading behavior rather than the larger, more scattered movements seen in browsing, searching, gaming, or watching video, and unlike the lower-screen, left-biased pattern typical for writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are densely clustered around the central area of the screen with some scattered points around, matching the dynamic, object-following central focus seen in the PLAY example heatmap rather than the more static, left-biased code/text regions of INTERPRET, DEBUG, or WRITE.",
+  "correct": true
+}

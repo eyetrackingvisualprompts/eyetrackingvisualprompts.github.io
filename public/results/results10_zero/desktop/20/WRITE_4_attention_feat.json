@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a small, tight cluster of fixations slightly right of center with minimal horizontal or vertical scanning, indicating sustained attention to a single central region of the screen, which is more consistent with watching a video than with the broader, more distributed scan patterns typical of reading, searching, browsing, writing, or playing games.",
+  "correct": false
+}

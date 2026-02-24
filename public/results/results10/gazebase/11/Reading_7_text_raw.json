@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows frequent, irregular multi-directional shifts in both horizontal and vertical dimensions, with many local fixations at varying eccentricities and no strict horizontal-only pattern. This matches a random target-following task rather than the highly regular \u00b115\u00b0 horizontal steps of Horizontal Saccades, the near-static clustering of Fixations, or the more systematic left-to-right line structure of Reading.",
+  "correct": false
+}

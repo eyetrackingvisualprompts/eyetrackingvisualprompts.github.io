@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a results-like band around mid/lower screen (y\u2248550\u2013700) and upper-page regions (y\u2248200\u2013350), with repeated horizontal sweeps across the mid-lower area and occasional large vertical jumps off-center (including off-screen coordinates), matching scrolling and scanning behavior seen in the SEARCH example more than the tighter code-focused patterns of INTERPRET/DEBUG/WRITE or the stable lines of READ.",
+  "correct": false
+}

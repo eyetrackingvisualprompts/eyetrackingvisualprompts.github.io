@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal band with orderly left-to-right progressions and small vertical shifts, characteristic of reading text lines, and unlike the more scattered, multi-regional patterns seen in tasks like SEARCH, WATCH, or coding-related activities.",
+  "correct": false
+}

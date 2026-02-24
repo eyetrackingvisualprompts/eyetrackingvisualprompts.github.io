@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze shows large, regular, step-like horizontal movements between about -5\u00b0 and +10\u00b0 with long plateaus around 1 s and relatively stable vertical position except brief transients, matching the pattern of following a horizontally oscillating target rather than random or static viewing tasks.",
+  "correct": false
+}

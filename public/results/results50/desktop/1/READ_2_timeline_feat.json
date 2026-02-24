@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target data shows predominantly left-to-right horizontal scan patterns with relatively small, systematic upward shifts over time in both fixation X and Y, characteristic of line-by-line reading behavior and most similar to the READ example plot compared to the other activities.",
+  "correct": true
+}

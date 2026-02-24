@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, frequent shifts across wide screen regions including extreme vertical and horizontal excursions, alternating between HUD-like lower areas and central/upper regions. This pattern of rapid, multidirectional saccades and shorter, more dispersed fixations matches the PLAY examples and differs from the more line- or strip-constrained scan paths of READ/WRITE or the more top-focused SEARCH/BROWSE and WATCH behaviors.",
+  "correct": false
+}

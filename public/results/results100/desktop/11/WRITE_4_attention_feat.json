@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are widely scattered across the entire screen without concentrated clusters at text or central UI regions, indicative of following dynamic visual content like a video rather than focused reading, searching, browsing, or gameplay.",
+  "correct": false
+}

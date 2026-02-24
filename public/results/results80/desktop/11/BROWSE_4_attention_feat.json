@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a central vertical band with substantial vertical spread from top to near bottom, matching the scan pattern of moving between the search bar, result list, and lower content on a search page, most similar to the SEARCH example heatmap.",
+  "correct": false
+}

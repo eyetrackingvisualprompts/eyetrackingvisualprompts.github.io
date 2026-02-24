@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Long periods with gaze near bottom of screen (low Y) followed by a sustained mid-lower region band, and relatively confined X range with gradual drifts resemble looking at a text area and intermittent glances to UI elements, matching the WRITE pattern more than the other activities.",
+  "correct": false
+}

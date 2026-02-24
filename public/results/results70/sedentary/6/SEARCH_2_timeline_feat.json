@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows frequent medium-to-large saccades and shifts between distinct horizontal regions rather than stable line-by-line scanning (READ) or localized code inspection (WRITE/DEBUG/INTERPRET). This exploratory pattern with periodic refixations resembles the example SEARCH plot most closely, consistent with examining results pages and clicking between them.",
+  "correct": true
+}

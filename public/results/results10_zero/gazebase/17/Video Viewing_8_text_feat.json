@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between distinct fixation points with roughly ~200\u2013800 ms fixations and large, multi-directional saccades (both horizontal and vertical, often >10\u00b0) to widely separated coordinates, consistent with following a single target that jumps to random screen locations every ~1 s; patterns are too irregular for horizontal saccades or reading and too structured (single-target jumps) for video viewing or the Balura game.",
+  "correct": false
+}

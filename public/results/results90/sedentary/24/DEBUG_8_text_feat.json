@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow left-side vertical code/text region with frequent short saccades between nearby lines and columns, interleaved with occasional long saccades to top-of-screen coordinates (~x 450\u2013530, y <100) and back\u2014consistent with shifting between code editor, line numbers, and possibly console, typical of active code writing rather than static reading or general browsing/searching.",
+  "correct": false
+}

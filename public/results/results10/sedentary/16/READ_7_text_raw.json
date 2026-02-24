@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze coordinates span a wide area with large, smooth shifts and many points near screen edges, characteristic of following dynamic visual content in videos rather than line-based reading, code inspection, or localized interactions typical of coding, search, or writing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long horizontal scanpaths across mid-page text-like regions, interleaved with large vertical and diagonal jumps to upper and lower screen areas (likely query/results, address bar, and lower content), plus periodic revisits to specific bands, best match the mixed reading-and-navigation pattern of search engine use rather than continuous reading or code-focused tasks.",
+  "correct": false
+}

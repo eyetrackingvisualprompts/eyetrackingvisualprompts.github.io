@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze exhibits large, irregular saccades spanning both horizontal and vertical directions across a wide coordinate range, with dwell times around ~0.2\u20130.5s at each location. This pattern of non-systematic jumps between dispersed positions matches the random target movements in the Random Saccades task rather than the more constrained, repetitive, or structured patterns seen in the other activities.",
+  "correct": true
+}

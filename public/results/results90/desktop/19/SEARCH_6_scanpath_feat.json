@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around the central-upper area with moderate dispersion and multi-directional saccades, resembling the example SEARCH pattern where users focus around the search results region rather than strictly linear text (READ/WRITE) or broader exploration (PLAY/BROWSE/WATCH).",
+  "correct": true
+}

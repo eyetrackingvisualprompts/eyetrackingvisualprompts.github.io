@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in the upper-left code area with a few checks toward the right, closely matching the WRITE heatmap pattern where participants focus on the code editor while occasionally glancing at other UI elements.",
+  "correct": true
+}

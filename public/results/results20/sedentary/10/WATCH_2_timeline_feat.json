@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts with a relatively stable horizontal reading-like pattern, then shows increasing vertical transitions between mid and upper screen regions along with scattered saccades, similar to the example SEARCH plot where users alternate between results, snippets, and different page areas rather than the more uniform patterns of READ or WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal movement with small, frequent shifts in both x and y, without the strong line-by-line horizontal sweeps of reading or the large directional shifts common in search or play. This mixed, exploratory pattern best matches the browsing example, where users scan varied webpage layouts.",
+  "correct": false
+}

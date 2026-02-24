@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across the screen including off-screen/negative coordinates, alternation between top URL/tool areas and diverse vertical locations, and highly scattered, non-line-based fixations match the exploratory, multi-region pattern seen in BROWSE examples rather than the more structured, localized patterns of reading, coding, or gameplay.",
+  "correct": true
+}

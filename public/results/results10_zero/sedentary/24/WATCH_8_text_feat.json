@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length fixations (200\u2013600 ms) interleaved with numerous short saccades across multiple horizontally separated regions suggest focused inspection of localized elements (e.g., different lines/blocks) and repeated revisits typical of debugging code, rather than the more linear scan of READ/INTERPRET or the smoother tracking/exploration patterns of WATCH/PLAY/BROWSE/SEARCH/WRITE.",
+  "correct": false
+}

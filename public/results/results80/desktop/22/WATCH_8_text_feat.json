@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated near the upper screen with many long, stable fixations and frequent returns to similar vertical bands (around x\u22480.1\u20130.5, y>0.7 initially and later around text-line heights), matching the pattern of monitoring and editing typed text in a word processor more than the more horizontally sweeping, line-by-line motion typical of pure reading or the broader exploratory saccades in browsing/searching.",
+  "correct": false
+}

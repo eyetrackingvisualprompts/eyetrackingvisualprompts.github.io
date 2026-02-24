@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered near the screen center with limited horizontal spread, matching the focused central viewing pattern typical of browsing examples rather than the broader horizontal sweep of reading or more dispersed patterns of search/watch/play/write.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed across multiple horizontal bands and both left and right sides of the screen, resembling attention to query box, search results list, and a right-side panel, which matches the SEARCH example pattern more than the other activities.",
+  "correct": false
+}

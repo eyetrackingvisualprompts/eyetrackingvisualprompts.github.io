@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a relatively small central-lower region with frequent short saccades between nearby positions and repeated returns to similar coordinates, along with intermittent larger jumps\u2014this pattern matches tracking a game character or HUD elements in a dynamic scene more than the more line-structured, horizontal scanning of READ/WRITE or the mid-screen, columnar exploration in BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

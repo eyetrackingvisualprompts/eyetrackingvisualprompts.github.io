@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively constrained horizontal span with moderate, structured shifts between two nearby vertical regions, resembling alternating focus between code lines and specific elements. This pattern is closest to the INTERPRET example, which has similar limited-range but purposeful movements unlike the more scattered SEARCH/BROWSE or highly stable READ/WATCH patterns.",
+  "correct": false
+}

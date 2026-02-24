@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact central region consistent with focused inspection of code, with occasional long saccades to distant points (likely console/output or other IDE panels). This pattern closely matches the DEBUG example, where attention alternates between the main code block and scattered interface elements for testing and verification, rather than the more linear patterns of READ/WRITE or broader exploration of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

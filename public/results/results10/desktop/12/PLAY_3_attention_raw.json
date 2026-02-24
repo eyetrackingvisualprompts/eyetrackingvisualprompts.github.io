@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern forms a predominantly horizontal band across mid-screen with sequential fixations, closely matching the reading example heatmap and typical left-to-right text scanning behavior rather than the more scattered or peripheral patterns seen in browse, search, play, watch, or write.",
+  "correct": false
+}

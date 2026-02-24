@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is concentrated in a very small area with only two close fixation clusters and minimal movement elsewhere, suggesting passively attending to a static or slowly changing region of the screen, which best matches the WATCH activity rather than more visually exploratory tasks like PLAY, SEARCH, READ, or BROWSE.",
+  "correct": false
+}

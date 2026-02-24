@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a small, horizontally-elongated region near the center without large exploratory saccades, indicating sustained fixation on a narrow text area consistent with reading rather than the broader, more scattered patterns seen in searching, browsing, watching videos, writing, or playing games.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Wide spatial gaze coverage including large vertical span down to the lower screen, smooth scanning over contiguous regions without line-by-line structure, and long sequences of medium fixations along moving loci are characteristic of following dynamic visual content (video) rather than focused reading, coding, or structured web search/browsing. The pattern best matches the WATCH activity.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a compact region with frequent short saccades between two nearby vertical zones (likely code and mental reference line), plus repeated returns to almost identical coordinates and relatively long fixations, matching focused code comprehension rather than broader scanning (SEARCH/BROWSE) or horizontal reading (READ). This pattern most closely aligns with INTERPRET where participants repeatedly inspect a small code snippet to infer its output.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated horizontal reading-like sweeps with gradual downward drifts, but with more variability and occasional large vertical transitions than the structured READ pattern, closely matching the heterogeneous scanning behavior observed in the BROWSE example.",
+  "correct": false
+}

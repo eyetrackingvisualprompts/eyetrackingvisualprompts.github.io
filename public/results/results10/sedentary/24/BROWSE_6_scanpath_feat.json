@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows attention moving between a top region and lower search-result area, with a long vertical saccade and horizontal scanning near the bottom, matching typical search engine page exploration rather than focused reading or code-related tasks.",
+  "correct": false
+}

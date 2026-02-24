@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across much of the upper-middle screen and include multiple disjoint clusters, indicating scanning different regions rather than concentrated code (WRITE/DEBUG/INTERPRET) or tight text lines (READ). The pattern closely matches the example BROWSE heatmap with varied gaze across a webpage.",
+  "correct": false
+}

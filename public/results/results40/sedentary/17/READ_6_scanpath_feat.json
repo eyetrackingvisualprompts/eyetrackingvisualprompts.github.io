@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight horizontal band with small vertical variation, characteristic of line-by-line reading behavior similar to the READ example scanpath.",
+  "correct": true
+}

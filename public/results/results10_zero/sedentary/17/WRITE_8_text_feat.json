@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a relatively narrow horizontal band with short left-right saccades and occasional larger jumps, matching line-by-line reading behavior rather than wide exploratory movements typical of browsing/search, the dynamic tracking of play/watch, or the denser code-oriented scanning of programming/debugging tasks.",
+  "correct": false
+}

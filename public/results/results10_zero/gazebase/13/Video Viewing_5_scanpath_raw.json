@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows discrete, widely spaced fixation clusters connected by long, fairly straight saccades in varying directions and amplitudes across both axes, consistent with following a randomly moving target that holds each position briefly, rather than the strictly horizontal pattern of Horizontal Saccades or the dense, localized patterns of reading, fixation, game play, or video viewing.",
+  "correct": false
+}

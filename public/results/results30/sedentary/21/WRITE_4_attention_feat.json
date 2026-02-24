@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated on a compact code area at the upper-left with minimal spread elsewhere, matching the focused inspection pattern seen in the INTERPRET example rather than the broader exploration of SEARCH/BROWSE or distributed views of other tasks.",
+  "correct": false
+}

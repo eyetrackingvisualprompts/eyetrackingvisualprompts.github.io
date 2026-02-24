@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze follows a stepwise target with irregular horizontal and vertical jumps of varying amplitudes and directions, each held briefly before moving again; this pattern matches a randomly moving fixation target rather than regular horizontal saccades, static fixation, reading, gaming, or natural video viewing.",
+  "correct": false
+}

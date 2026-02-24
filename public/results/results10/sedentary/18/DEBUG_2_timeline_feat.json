@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze positions stay in a mid-screen horizontal band with moderate, code-line-length horizontal saccades and small vertical shifts, closely matching the INTERPRET example\u2019s compact, code-focused pattern rather than the wider movements of browsing, search, or games.",
+  "correct": false
+}

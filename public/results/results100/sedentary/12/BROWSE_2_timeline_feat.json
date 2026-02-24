@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right horizontal sweeps with gradual downward drift, but with irregular resets and variable patterns, more heterogeneous than structured READ and less chaotic than SEARCH or PLAY, matching the mixed scanning and reading behavior typical of web browsing.",
+  "correct": true
+}

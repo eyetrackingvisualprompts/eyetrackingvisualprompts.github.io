@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions remain in a narrow horizontal band with small, smooth drifts and minimal vertical movement, closely matching the stable, center-screen fixation pattern seen in the WRITE example rather than the larger shifts or scanning seen in READ, SEARCH, or BROWSE.",
+  "correct": true
+}

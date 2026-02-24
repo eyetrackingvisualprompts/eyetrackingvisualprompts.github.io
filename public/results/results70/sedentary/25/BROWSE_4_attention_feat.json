@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely scattered from top-left to mid-right and down the page, indicating scanning across multiple interface elements and content areas, which best matches the heterogeneous, exploratory patterns seen in the BROWSE example rather than the more localized patterns of coding, reading, or watching tasks.",
+  "correct": true
+}

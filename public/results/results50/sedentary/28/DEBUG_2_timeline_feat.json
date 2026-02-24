@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow horizontal X range with relatively stable fixations and modest vertical shifts, indicating focused inspection of a compact code snippet rather than extensive horizontal scanning (READ/BROWSE) or large dynamic movements (WATCH/PLAY/SEARCH). This tightly clustered, steady pattern best matches the INTERPRET examples.",
+  "correct": false
+}

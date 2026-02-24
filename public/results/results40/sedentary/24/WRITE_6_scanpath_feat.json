@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over a compact region on the left where code would appear, with occasional checks to a distant point (likely output/console). This focused, localized inspection with few broader excursions matches the INTERPRET example more than the more dispersed or line-structured patterns of other tasks.",
+  "correct": false
+}

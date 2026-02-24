@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions jump between spatially separated locations with both horizontal and vertical components, but without a clear monotonic horizontal sweep or reading-like line structure, consistent with following a randomly moving target across the screen.",
+  "correct": false
+}

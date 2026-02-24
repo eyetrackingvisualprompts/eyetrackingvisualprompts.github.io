@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is relatively centralized with limited vertical range and moderate horizontal movement, showing stable inspection of a compact code snippet without large exploratory jumps typical of browsing/search or broad motion seen in watch/play; this pattern best matches the INTERPRET examples where attention is focused on understanding a small code segment.",
+  "correct": false
+}

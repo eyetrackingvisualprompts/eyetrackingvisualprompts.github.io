@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact upper-central region with many small, local saccades and medium-length fixations, lacking the systematic horizontal scan paths of READ or the larger vertical/horizontal shifts seen in BROWSE/SEARCH/WATCH/PLAY. This pattern is most consistent with monitoring a local area while typing, characteristic of the WRITE task.",
+  "correct": false
+}

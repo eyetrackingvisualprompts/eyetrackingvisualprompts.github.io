@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and short saccades clustered around a mid-screen code region (y\u2248250\u2013550) with frequent revisits, occasional jumps to top code area (y\u2248130\u2013200), and no long, smooth horizontal reading lines or full-screen scanning. This pattern best matches focused code editing/implementation (WRITE) rather than browsing, reading, or debugging\u2019s broader search-like movements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, irregular jumps in both horizontal and vertical directions with positions held briefly before moving elsewhere, matching the scattered, multi-directional movements of the Random Saccades example rather than the more structured patterns of reading, horizontal-only motion, sustained fixation, or the denser, more chaotic Balura game and video viewing paths.",
+  "correct": true
+}

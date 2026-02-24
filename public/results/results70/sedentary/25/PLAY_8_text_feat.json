@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen areas (including extreme vertical and horizontal shifts), revisits between central playfield and HUD-like regions, and dynamic back-and-forth around a mid-screen band are characteristic of tracking moving game elements rather than reading, code work, or web/search layouts.",
+  "correct": true
+}

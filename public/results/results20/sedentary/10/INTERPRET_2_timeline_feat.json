@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze remains in a relatively narrow central band with small, frequent fixations and short saccades, showing minor horizontal and vertical shifts typical of inspecting localized code regions in an IDE, matching the DEBUG pattern more than the broader scans of browsing/search or the structured horizontal sweeps of reading.",
+  "correct": false
+}

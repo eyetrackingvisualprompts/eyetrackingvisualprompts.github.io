@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across extreme screen regions (including off-screen coordinates), mixed vertical and horizontal scanning, and revisits to many disparate areas resemble exploratory, multi-region web navigation patterns seen in BROWSE more than the more structured, line-based or code-centered patterns of READ/WRITE/DEBUG/INTERPRET or the object-focused trajectories of PLAY/WATCH/SEARCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Long, smooth saccades spanning substantial screen regions with comparatively fewer, medium-length fixations and no clear horizontal line-by-line pattern suggest following moving visual content rather than text or interface elements; this matches the WATCH examples more than the other activities.",
+  "correct": false
+}

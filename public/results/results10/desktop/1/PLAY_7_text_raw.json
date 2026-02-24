@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains in a relatively narrow horizontal band with slow, small shifts and many short fixations, indicative of line-by-line scanning typical for reading, rather than the larger multi-directional shifts seen in search, browsing, playing games, or watching video.",
+  "correct": false
+}

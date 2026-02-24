@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "X and Y fixations show moderate, irregular movements across a constrained central area with intermittent larger saccades, matching the mixed scanning and localized checking seen in the DEBUG example more than the steadier INTERPRET or more systematic patterns of READ/WRITE/BROWSE.",
+  "correct": false
+}

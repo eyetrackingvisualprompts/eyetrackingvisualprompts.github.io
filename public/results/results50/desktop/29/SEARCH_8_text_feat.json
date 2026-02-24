@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including rapid jumps between top/bottom and left/right), with comparatively shorter, less-structured fixations and no clear horizontal line-scanning pattern, align best with dynamic visual tracking typical of gameplay rather than the more localized, line-based or center-focused patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

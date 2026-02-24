@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points cluster at several discrete locations across both horizontal and vertical dimensions, with jumps of a few degrees between stable positions and roughly uniform temporal spacing, consistent with following a randomly relocating target rather than continuous tracking, reading lines, or a single central fixation.",
+  "correct": false
+}

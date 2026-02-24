@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers a vertically extended region with multiple horizontal bands and frequent jumps between them, indicating scanning of several result snippets or page sections, which aligns best with the SEARCH pattern rather than the more localized READ/WRITE/INTERPRET behaviors or the more dispersed BROWSE/PLAY/DEBUG patterns.",
+  "correct": false
+}

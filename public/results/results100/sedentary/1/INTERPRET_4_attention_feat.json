@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on a mid-left vertical area with some vertical spread and occasional checks elsewhere, closely matching the DEBUG example heatmap where participants focus on code while scanning up and down to locate and fix errors.",
+  "correct": false
+}

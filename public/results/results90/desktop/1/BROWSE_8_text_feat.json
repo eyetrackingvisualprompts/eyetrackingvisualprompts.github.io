@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts span mid-to-lower screen with frequent medium-amplitude vertical moves between content and lower regions, plus many short local regressions and scattered viewing, matching the heterogeneous, exploratory scanpaths seen in the BROWSE examples more than the more line-structured READ, the central stable WATCH, or the highly top/bottom WRITE patterns.",
+  "correct": true
+}

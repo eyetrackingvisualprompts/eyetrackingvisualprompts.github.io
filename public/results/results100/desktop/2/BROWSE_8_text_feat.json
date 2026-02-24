@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude vertical and horizontal shifts across widely separated screen regions (including extremes near top/bottom), with many short fixations interleaved with rapid repositioning. This dynamic, spatially wide exploration pattern aligns best with interactive game play rather than more centrally bounded, text- or content-focused tasks like READ, WRITE, or BROWSE.",
+  "correct": false
+}

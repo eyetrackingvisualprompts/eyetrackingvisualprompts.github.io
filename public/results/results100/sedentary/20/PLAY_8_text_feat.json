@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze exhibits large, frequent jumps across widely separated screen regions (including near-screen and off-screen coordinates), visits to both high and low vertical positions, and irregular scanpaths with many revisits\u2014patterns characteristic of free web browsing rather than structured reading, code-focused tasks, or tracking a single moving object in games or videos.",
+  "correct": false
+}

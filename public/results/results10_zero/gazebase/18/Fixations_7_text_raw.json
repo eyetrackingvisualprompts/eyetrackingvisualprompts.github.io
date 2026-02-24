@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trajectory shows large, stereotyped horizontal excursions to about \u00b115 degrees of visual angle with relatively constant vertical position, separated by periods of near-stationary fixation, consistent with following a target moving back and forth horizontally rather than random, reading-like, or complex multi-directional patterns seen in the other tasks.",
+  "correct": false
+}

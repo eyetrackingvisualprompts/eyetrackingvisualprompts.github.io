@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two dominant fixation clusters located symmetrically to the left and right of screen center at similar vertical position, with a strong horizontal transition band between them and no other scattered points. This pattern matches repetitive large-amplitude horizontal movements between two static targets, characteristic of the Horizontal Saccades task.",
+  "correct": true
+}

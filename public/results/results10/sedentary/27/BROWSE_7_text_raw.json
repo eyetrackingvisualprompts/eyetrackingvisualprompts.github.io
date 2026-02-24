@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows repeated clusters around a central work area, frequent shifts between mid-screen and code/console-like lower regions, and occasional excursions to screen edges and off-screen (negative coordinates), matching patterns seen in the DEBUG example more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a smooth, gradually increasing horizontal (X) position with relatively small vertical (Y) drift and few large saccades, matching a left-to-right, line-by-line reading pattern rather than the more scattered or multidirectional movements seen in search, browse, play, or code-related tasks.",
+  "correct": true
+}

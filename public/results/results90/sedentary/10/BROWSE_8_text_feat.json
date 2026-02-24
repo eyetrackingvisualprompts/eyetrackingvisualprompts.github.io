@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Very long, smooth saccades with extremely long fixation-like dwells at a few regions, limited fine-grained scanning of text/code, and repeated returns between a handful of screen areas are characteristic of passive viewing of dynamic visual content rather than active reading, coding, or web navigation. This spatio\u2011temporal pattern best matches the WATCH activity class.",
+  "correct": false
+}

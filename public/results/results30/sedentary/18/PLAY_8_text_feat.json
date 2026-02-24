@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including edges and corners), frequent revisits between central and peripheral areas, and a highly dynamic, non-linear gaze path resemble tracking moving objects and navigating space as in games, rather than the more line- or column-structured, text-focused, or code-focused patterns seen in READ/SEARCH/DEBUG/WRITE/INTERPRET/BROWSE or the smoother, more scene-based shifts typical of WATCH.",
+  "correct": true
+}

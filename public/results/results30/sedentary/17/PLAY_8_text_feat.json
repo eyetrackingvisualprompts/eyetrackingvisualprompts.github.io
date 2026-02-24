@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades and revisits along a horizontal band near y\u2248240\u2013320 indicative of scanning a SERP, with intermittent large jumps to distant screen regions (e.g., bottom/right areas) and back, matching the provided SEARCH pattern more than the other tasks.",
+  "correct": false
+}

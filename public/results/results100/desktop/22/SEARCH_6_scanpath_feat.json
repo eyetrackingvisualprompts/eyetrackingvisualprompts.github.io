@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a compact, horizontally-elongated region near mid-screen with relatively uniform fixations and short saccades, resembling stable reading behavior rather than the broader, more scattered exploration seen in browsing, search, watching, or playing.",
+  "correct": false
+}

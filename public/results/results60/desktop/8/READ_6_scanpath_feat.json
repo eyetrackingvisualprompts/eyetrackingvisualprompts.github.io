@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a dense, horizontally elongated band with limited vertical spread and relatively regular progression, matching the stable line-by-line scanpath typical of reading text on a screen, and closely resembling the READ example pattern.",
+  "correct": true
+}

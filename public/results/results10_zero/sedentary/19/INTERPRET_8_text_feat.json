@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long fixations with occasional large, smooth jumps across distant screen regions, consistent with following dynamic visual content rather than line-by-line scanning (READ/SEARCH/BROWSE) or concentrated code regions (WRITE/INTERPRET/DEBUG). The large vertical and diagonal shifts between widely separated coordinates align with watching a video where salient points appear in different screen areas over time.",
+  "correct": false
+}

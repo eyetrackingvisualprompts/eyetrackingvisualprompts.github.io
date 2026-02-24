@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large-amplitude saccades jump between widely separated horizontal and vertical positions across the screen, with each landing position held for several hundred milliseconds, matching the pattern of following a randomly moving target rather than the more constrained, line-based or central patterns of reading, fixations, or horizontal saccades.",
+  "correct": true
+}

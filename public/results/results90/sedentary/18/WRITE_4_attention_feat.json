@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated in a compact region in the upper-left code area with minimal spread elsewhere, closely matching the INTERPRET example pattern of focused inspection of a small code snippet rather than the more distributed patterns seen in DEBUG or WRITE.",
+  "correct": false
+}

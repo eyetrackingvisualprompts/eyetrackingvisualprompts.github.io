@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a compact cluster around the screen center with limited horizontal or vertical spread, consistent with visually following central content in a video rather than the systematic horizontal/vertical scanning typical of reading, writing, searching, or browsing, or the broader multi-directional movements common in gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trace is dominated by long, nearly constant horizontal movements at a fixed vertical level, matching the pattern of following a horizontally oscillating target, with occasional vertical excursions likely due to blinks or brief loss of tracking.",
+  "correct": true
+}

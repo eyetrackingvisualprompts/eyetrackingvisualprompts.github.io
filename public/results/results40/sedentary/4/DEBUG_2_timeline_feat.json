@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow central area with very small, steady horizontal and vertical changes and few large saccades, indicating focused inspection of a small code snippet rather than scanning (SEARCH/BROWSE), extended reading lines (READ), or dynamic viewing (WATCH/PLAY/DEBUG/WRITE). This pattern best matches the INTERPRET example.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions for both X and Y stay around the screen center with relatively small variability and frequent short saccades, closely matching the example BROWSE pattern and differing from the larger vertical ranges in READ/WRITE or more extreme movements in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

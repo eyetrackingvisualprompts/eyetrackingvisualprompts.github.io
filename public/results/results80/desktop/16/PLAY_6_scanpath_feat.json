@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are spread widely across the lower and central screen with frequent long saccades between distant regions, resembling the dynamic, multi-directional exploration seen in the PLAY example scanpath rather than the more clustered or line-structured patterns of reading, writing, browsing, or searching.",
+  "correct": true
+}

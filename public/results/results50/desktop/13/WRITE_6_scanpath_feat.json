@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal eye movements along two narrow horizontal bands (top and bottom text lines) with limited vertical shifts, closely matching the structured, line-by-line pattern typical of reading behavior and resembling the READ example more than the exploratory patterns in SEARCH or BROWSE.",
+  "correct": false
+}

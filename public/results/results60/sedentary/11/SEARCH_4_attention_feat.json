@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are spread broadly across the upper horizontal band with additional scattered points elsewhere, resembling tracking moving visual content across the screen rather than concentrated reading or code-related work; this matches the WATCH example heatmap most closely.",
+  "correct": false
+}

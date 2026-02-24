@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are mainly along a horizontal band near the top (reading headings or short text) with occasional long downward saccades to a lower region, matching scrolling and scanning behavior during web browsing rather than the more compact patterns of reading or coding tasks.",
+  "correct": false
+}

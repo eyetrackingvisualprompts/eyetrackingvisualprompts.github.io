@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows vertical exploration over a central column with multiple horizontal bands in the mid and lower screen plus occasional long saccades to the very top, consistent with scanning search results and briefly checking the browser\u2019s top area (address/search bar or new query). This pattern aligns best with the SEARCH example among the given classes.",
+  "correct": false
+}

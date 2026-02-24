@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact left-side region consistent with focused code inspection, with recurring horizontal sweeps to a secondary area on the right that resemble glances to execution/output panels\u2014matching the DEBUG example more than other tasks.",
+  "correct": true
+}

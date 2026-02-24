@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered around a central area with little horizontal scanning or line-like patterns, matching typical gaze behavior when watching a video rather than reading, coding, searching, or gameplay that would show broader, directional exploration.",
+  "correct": false
+}

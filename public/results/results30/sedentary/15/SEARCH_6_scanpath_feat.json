@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shifts between multiple horizontal bands and regions (top, middle, lower left), indicating movement between search bar, result list, and possibly lower content\u2014more dispersed than READ/INTERPRET but less dynamic and full-screen than WATCH or PLAY, matching SEARCH behavior.",
+  "correct": true
+}

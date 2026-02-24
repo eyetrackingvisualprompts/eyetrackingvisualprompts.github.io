@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, rapid saccades spanning much of the screen in both horizontal and vertical directions, with revisits to specific locations\u2014consistent with actively targeting multiple moving objects as in the Balura Game, rather than the more structured or constrained patterns of reading, video viewing, or controlled saccade tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path spans a wide area horizontally and vertically with fast, irregular transitions and revisits across the screen, resembling dynamic tracking of moving objects in a game rather than the more localized or structured patterns seen in reading, coding, or web tasks.",
+  "correct": false
+}

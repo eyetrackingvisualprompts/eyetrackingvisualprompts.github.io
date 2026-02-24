@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across the mid-screen with several vertically and horizontally separated clusters, resembling scanning of mixed text and images on web pages, which matches the browsing example pattern more than the tighter reading lines or localized gaming/video clusters.",
+  "correct": false
+}

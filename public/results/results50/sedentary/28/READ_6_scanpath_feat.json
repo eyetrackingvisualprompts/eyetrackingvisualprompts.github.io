@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, horizontally aligned clusters with small vertical shifts between lines, indicating systematic left-to-right line reading with minimal large exploratory saccades, matching the READ pattern more than the other activities.",
+  "correct": true
+}

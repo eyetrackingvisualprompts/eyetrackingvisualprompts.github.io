@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze clusters are split across vertically distributed regions with frequent transitions and broader vertical spread than typical reading or browsing, resembling the dispersed, multi-area focus seen in the PLAY example where attention tracks moving game elements across the screen.",
+  "correct": false
+}

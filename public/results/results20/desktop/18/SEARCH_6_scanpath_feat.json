@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points cluster in a relatively small upper-central region with moderate movements and several longer fixations, resembling the WATCH example where attention stays around a main area (video content) rather than following systematic horizontal lines (READ/WRITE) or wide exploratory jumps (BROWSE/SEARCH/PLAY).",
+  "correct": false
+}

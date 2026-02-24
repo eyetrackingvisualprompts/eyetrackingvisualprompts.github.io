@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are mostly confined to central horizontal bands with small, regular saccades and long stable fixations, and occasional vertical shifts consistent with moving between nearby text lines or sections. There is no large-amplitude scanning across the full screen as in SEARCH/BROWSE/PLAY/WATCH, nor the frequent downward shifts to a keyboard area typical of WRITE. The pattern best matches sustained reading of on-screen text.",
+  "correct": false
+}

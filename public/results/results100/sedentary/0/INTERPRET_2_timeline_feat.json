@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band with relatively small, steady X fixations and moderate Y movement, resembling code editing on a single area of the screen, matching the WRITE pattern more than the more scattered or strongly vertical patterns of other tasks.",
+  "correct": false
+}

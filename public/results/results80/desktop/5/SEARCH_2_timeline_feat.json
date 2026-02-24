@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze positions show medium-wide horizontal spread with frequent shifts between mid and upper/lower screen regions and variable saccades, matching the mixed reading\u2013scanning and page-switching pattern typical of web search rather than the more uniform lines of READ or the more centralized patterns of WATCH/BROWSE.",
+  "correct": true
+}

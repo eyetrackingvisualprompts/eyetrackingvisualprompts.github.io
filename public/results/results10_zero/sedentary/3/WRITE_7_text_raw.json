@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show predominantly horizontal clusters with relatively small vertical shifts, characteristic of line-by-line reading with short regressions, rather than large object-tracking sweeps (PLAY/WATCH) or more scattered, multi-region exploration (SEARCH/BROWSE/PROGRAMMING TASKS).",
+  "correct": false
+}

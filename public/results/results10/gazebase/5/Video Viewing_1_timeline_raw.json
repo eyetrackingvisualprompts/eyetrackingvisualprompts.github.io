@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete jumps in both horizontal and vertical directions to multiple irregular positions, with plateaus of about one second between movements, matching the pattern of following a randomly moving target rather than the more structured, mostly-horizontal or line-based movements of other tasks.",
+  "correct": false
+}

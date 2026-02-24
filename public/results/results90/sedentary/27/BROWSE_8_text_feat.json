@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large screen-wide shifts between distant regions, repeated returns to central content areas, and extended fixations on visual clusters rather than line-like text or code structures. The pattern resembles tracking dynamic visual scenes with broad spatial coverage, consistent with watching a video rather than reading, coding, searching, or game-like object following.",
+  "correct": false
+}

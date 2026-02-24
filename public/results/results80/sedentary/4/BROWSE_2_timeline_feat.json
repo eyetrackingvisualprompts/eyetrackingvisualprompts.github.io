@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent vertical scrolling-like upward drift in Y with scattered fixations over a broad X range and intermittent large saccades, closely matching the exploratory, result-list scanning pattern seen in the SEARCH example, rather than the more linear READ or more chaotic BROWSE patterns.",
+  "correct": false
+}

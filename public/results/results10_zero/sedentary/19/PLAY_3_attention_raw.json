@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows gaze concentrated in a small horizontal region near the top-center with minimal vertical movement or systematic left-to-right scanning typical of reading or coding. This stable focus on one main area over time aligns best with passively watching a video rather than interactive or text-focused tasks.",
+  "correct": false
+}

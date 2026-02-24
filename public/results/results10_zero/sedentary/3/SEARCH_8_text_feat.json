@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Long, smooth vertical saccade from mid-screen (~y=365) down to near the bottom (~y=797) over ~0.57s, followed by an exceptionally long upward saccade (~3.23s) with minimal intermediate fixations, indicates continuous tracking of moving content rather than stepwise text/line navigation; this dynamic gaze behavior is most consistent with watching a video rather than reading, coding, searching, or browsing static pages.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, abrupt jumps to discrete positions scattered across both horizontal and vertical dimensions, with relatively straight saccades between them and brief dwell periods, consistent with following a target that moves to random locations and holds each for about one second rather than smooth, structured reading patterns or primarily horizontal motion.",
+  "correct": true
+}

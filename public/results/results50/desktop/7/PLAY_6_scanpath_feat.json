@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are moderately dispersed over a central screen region with varied saccade directions and no strong horizontal line structure, resembling the mixed navigation-and-reading pattern seen in the BROWSE example more than the tighter, column-like clusters of READ/WRITE or the upper-screen focus of WATCH.",
+  "correct": false
+}

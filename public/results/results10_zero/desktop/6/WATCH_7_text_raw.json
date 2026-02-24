@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show relatively small, localized movements with many stable fixations and modest vertical shifts, consistent with line-by-line reading behavior rather than the larger, more exploratory or dynamic movements typical of browsing, searching, gaming, video watching, or writing interfaces with cursors and toolbars.",
+  "correct": false
+}

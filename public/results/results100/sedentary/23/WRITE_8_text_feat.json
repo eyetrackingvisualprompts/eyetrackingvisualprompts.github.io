@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long horizontal scanning across a mid-height band, repeated returns to the same vertical region, and many large vertical saccades to top and bottom areas match web search result page behavior more than focused code/reading or dynamic game/video tracking patterns.",
+  "correct": false
+}

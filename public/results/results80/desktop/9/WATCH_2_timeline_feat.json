@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts in both X and Y with broad vertical coverage and irregular patterns, similar to the PLAY example where attention moves dynamically across the screen during game navigation, unlike the more horizontally constrained or centrally clustered patterns of reading, writing, browsing, or watching video.",
+  "correct": false
+}

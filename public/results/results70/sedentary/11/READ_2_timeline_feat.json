@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, smooth horizontal sweeps with gradual downward shifts in Y, then a large upward Y jump around the middle consistent with scrolling to new text, closely matching the reading pattern in the READ example.",
+  "correct": true
+}

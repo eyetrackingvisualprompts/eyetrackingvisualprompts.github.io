@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Predominantly horizontal gaze traces that sweep from left to right across a fairly narrow vertical band with many small corrective saccades and local fixations, closely matching the spatial-temporal pattern and coordinate ranges observed in the provided Reading example rather than the more central, static, random, or game-like patterns of the other classes.",
+  "correct": true
+}

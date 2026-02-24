@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows a predominantly horizontal distribution of fixations across mid-to-upper screen regions, resembling line-by-line progression typical of reading, and closely matches the pattern of the READ example more than the other activities.",
+  "correct": false
+}

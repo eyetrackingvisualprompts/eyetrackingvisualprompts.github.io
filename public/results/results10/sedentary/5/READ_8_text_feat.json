@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze stays in a relatively narrow vertical band around mid\u2011screen with continuous, medium-to-long saccades and short fixations, suggesting tracking or anticipating moving elements rather than line-by-line reading or code inspection. The pattern of back-and-forth local adjustments plus larger shifts is more consistent with game play dynamics than with the more structured, repetitive scanpaths seen in READ/WRITE/DEBUG/INTERPRET or the broader exploratory movements of SEARCH/BROWSE, and it differs from the longer, more stable fixations typical of WATCH.",
+  "correct": false
+}

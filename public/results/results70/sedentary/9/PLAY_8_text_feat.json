@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-amplitude horizontal movements around a few vertical bands, intermittent jumps to screen edges and extreme coordinates, and irregular revisits to dispersed regions\u2014matching exploratory, scanning behavior over a long webpage rather than structured line-by-line reading or code-focused tasks. This spatio-temporal pattern aligns best with BROWSE among the provided classes.",
+  "correct": false
+}

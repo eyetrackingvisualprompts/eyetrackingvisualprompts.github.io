@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with substantial vertical shifts and varied fixation positions, reflecting scanning of search results and switching between results and content, which aligns best with the SEARCH pattern compared to the more linear READ traces or the steadier BROWSE behavior.",
+  "correct": false
+}

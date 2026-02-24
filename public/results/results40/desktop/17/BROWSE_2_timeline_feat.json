@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze positions cluster around mid-screen with periodic vertical shifts and more varied saccades than READ, resembling the mixed scanning of results pages and query edits typical for SEARCH rather than the steadier patterns of pure reading or browsing.",
+  "correct": false
+}

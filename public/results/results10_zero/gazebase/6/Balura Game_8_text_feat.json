@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between widely separated positions across both horizontal (\u2248\u00b120\u00b0) and vertical (\u2248\u00b110\u00b0) axes with fixations of ~0.2\u20130.5 s between large multi-directional saccades, matching the protocol of following a randomly moving target rather than strictly horizontal movements, static fixation, or the more clustered patterns seen in reading, video viewing, or game play.",
+  "correct": false
+}

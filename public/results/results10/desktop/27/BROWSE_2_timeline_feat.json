@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows smooth, relatively slow drift and scanning vertically across a broad Y range without the tight horizontal line-by-line patterns of reading or writing, and lacks the dense, clustered fixations typical of search/browse. This broader, continuous movement pattern best matches watching dynamic video content.",
+  "correct": false
+}

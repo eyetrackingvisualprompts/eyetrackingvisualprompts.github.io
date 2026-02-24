@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze heatmap shows a compact cluster in a confined area on the left side of the screen, consistent with focused attention on a small code region such as while implementing a function, rather than the broader or more distributed scan patterns typical of reading, browsing, searching, playing, or watching a video.",
+  "correct": false
+}

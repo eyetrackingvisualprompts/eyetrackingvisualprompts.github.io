@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows clusters of horizontal fixations around mid-screen content regions, interleaved with large vertical and off-screen jumps (including negative coordinates), consistent with scrolling through web pages and switching tabs or UI elements rather than reading a continuous text block or focused code editing/debugging. This spatiotemporal pattern best matches the BROWSE activity examples.",
+  "correct": true
+}

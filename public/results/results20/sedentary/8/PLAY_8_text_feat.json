@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains within a relatively compact code-like region, with medium-length fixations, frequent short saccades between nearby vertical positions (line-to-line and within-line), and occasional larger jumps to specific vertical offsets (different code sections) without the broader horizontal sweep typical of prose reading or the rapid large-amplitude shifts seen in PLAY/WATCH or SEARCH/BROWSE. This pattern best matches focused code inspection for understanding a snippet, i.e., INTERPRET.",
+  "correct": false
+}

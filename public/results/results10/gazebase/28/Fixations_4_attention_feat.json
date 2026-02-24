@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The gaze points are tightly clustered around the central area with minimal dispersion, matching the static central fixation pattern of the Fixations class rather than the broader or multi-location patterns of the other activities.",
+  "correct": true
+}

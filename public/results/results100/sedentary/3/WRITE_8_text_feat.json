@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated around a relatively small central code-like region with many medium-length fixations, frequent short saccades among nearby points, and repeated revisits to almost identical coordinates\u2014typical of mentally simulating code rather than scanning long text (READ) or wide UI areas (SEARCH/BROWSE). The occasional large jumps to corners/edges resemble brief IDE/UI checks, aligning best with INTERPRET\u2019s focused reasoning on a snippet\u2019s behavior.",
+  "correct": false
+}

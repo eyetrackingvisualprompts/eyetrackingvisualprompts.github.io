@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y gaze positions jump discretely to various locations across the screen with ~1 s plateaus between movements and varying amplitudes in 2D, matching a bull\u2019s-eye target moving randomly rather than purely horizontal motion, central fixation, or the more irregular patterns of reading, gaming, or video viewing.",
+  "correct": false
+}

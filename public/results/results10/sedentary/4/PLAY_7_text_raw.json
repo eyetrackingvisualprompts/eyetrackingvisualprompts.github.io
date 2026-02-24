@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster in horizontal bands with small regressions and frequent short saccades among nearby x-locations, but also show intermittent larger vertical jumps to other regions (including mid-screen and lower areas), consistent with scanning web content, menus, and different page sections rather than the more line-locked, uniform horizontal progression of READ or the more dynamic wide movements of WATCH/PLAY.",
+  "correct": false
+}

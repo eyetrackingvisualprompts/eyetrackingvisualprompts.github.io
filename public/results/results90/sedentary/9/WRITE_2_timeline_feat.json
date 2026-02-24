@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is mostly concentrated in a central horizontal band with limited vertical range, resembling focused interaction with a code editor, with occasional saccades to higher regions (likely menus/console). This pattern closely matches the WRITE example and differs from the broader, more exploratory patterns of BROWSE, SEARCH, or PLAY.",
+  "correct": true
+}

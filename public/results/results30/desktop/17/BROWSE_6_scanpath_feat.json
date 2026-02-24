@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are widely distributed with frequent transitions between multiple vertical and horizontal regions, resembling scanning of search results and switching between snippets or pages, which matches the SEARCH pattern more than the other activities.",
+  "correct": false
+}

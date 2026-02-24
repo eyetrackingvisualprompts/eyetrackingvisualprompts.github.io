@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a narrow vertical strip on the left, indicating focused inspection of a limited code region with repeated fixations, matching the DEBUG example more than the broader spread seen in WRITE or INTERPRET.",
+  "correct": false
+}

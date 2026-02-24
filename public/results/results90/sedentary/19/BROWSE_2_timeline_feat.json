@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated long horizontal X sweeps with gradual Y drift and frequent large saccades across a wide vertical range, indicating shifting attention between different page regions and scrolling, which best matches the heterogeneous patterns seen in the BROWSE examples rather than the more structured or localized patterns of other tasks.",
+  "correct": true
+}

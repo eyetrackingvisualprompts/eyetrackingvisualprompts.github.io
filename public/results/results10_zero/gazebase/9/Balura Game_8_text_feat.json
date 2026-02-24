@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between widely separated positions in both horizontal and vertical directions (up to ~\u00b122\u00b0 horizontally and ~\u00b116\u00b0 vertically), with relatively long fixations (~200\u2013300 ms) at each location and no consistent left-to-right or line-based pattern, matching a task of following a randomly moving target rather than reading, horizontal-only motion, or static fixation.",
+  "correct": false
+}

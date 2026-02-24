@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows large horizontal sweeps across the top region with long, smooth transitions and fewer tight fixations or line-by-line patterns, consistent with following dynamic visual content in a video rather than reading, coding, or interacting heavily with text or UI elements.",
+  "correct": false
+}

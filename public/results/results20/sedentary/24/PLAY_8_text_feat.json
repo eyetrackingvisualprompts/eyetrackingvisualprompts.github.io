@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster around a compact region consistent with code lines, with frequent short saccades up and down that resemble checking and re-checking specific statements, plus occasional long saccades to header/top regions and back\u2014patterns more typical of debugging than of initial interpretation, reading prose, or web search/browsing.",
+  "correct": false
+}

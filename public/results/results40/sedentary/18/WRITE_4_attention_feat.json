@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Strong clustered fixations on the left-middle area similar to code editing (as in DEBUG/WRITE), but with an additional distinct cluster on the right side consistent with glances to console or reference output while typing, matching the WRITE pattern best.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a narrow central region with multiple long fixations (2\u20132.7s) and only small local saccades, indicating sustained attention to a relatively static central area\u2014typical of watching a video rather than scanning lines (READ), navigating interfaces (SEARCH/BROWSE), composing text (WRITE), or making frequent wider movements (PLAY).",
+  "correct": false
+}

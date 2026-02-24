@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows alternation between mid-screen and upper regions with frequent medium-to-large saccades and varied horizontal positions, resembling the mixed scanning of results pages and occasional reading seen in the SEARCH example more than the steadier code- or text-focused patterns of INTERPRET/DEBUG/READ/WRITE or the more dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

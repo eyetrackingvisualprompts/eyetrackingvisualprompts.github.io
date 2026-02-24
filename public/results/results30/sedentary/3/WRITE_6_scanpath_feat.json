@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered on the left-center coding area with frequent vertical and diagonal saccades spanning a larger region, including occasional moves toward the top (e.g., menus/console) and lower lines, resembling the exploratory, back-and-forth pattern seen in the DEBUG example more than the tighter clusters of WRITE/INTERPRET or the structured horizontal patterns of reading/browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near the screen center with very small, slow position changes and almost no vertical scanning or systematic horizontal sweeps. This stable central fixation pattern is characteristic of passively watching video content rather than reading, searching, browsing, writing, or actively playing a game, all of which typically show larger or more structured saccades.",
+  "correct": false
+}

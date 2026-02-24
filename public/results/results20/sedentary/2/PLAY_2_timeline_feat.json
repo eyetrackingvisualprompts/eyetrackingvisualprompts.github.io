@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, continuous horizontal movements with moderate saccades and slow drift in Y, indicating following dynamic on-screen content rather than line-by-line reading or code inspection; this pattern best matches the WATCH examples.",
+  "correct": false
+}

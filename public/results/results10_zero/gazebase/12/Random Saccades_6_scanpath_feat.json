@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates primarily between two horizontally separated clusters at similar vertical positions, with large horizontal shifts (~30\u00b0) and minimal vertical variation, consistent with following a target moving left\u2013right across the screen rather than random, reading-like, or central fixation behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points hop between discrete, spatially separated locations across both horizontal and vertical directions, with clusters indicating brief holds at each position, consistent with following a randomly moving target that pauses about once per second rather than a single fixation, linear reading pattern, purely horizontal motion, or free-viewing/video behavior.",
+  "correct": false
+}

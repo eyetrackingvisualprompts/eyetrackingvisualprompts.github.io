@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, orderly horizontal scanpaths with small vertical shifts at consistent y-levels (around 100\u2013250 px), repeatedly sweeping left-to-right across a band and then returning left to a new nearby row. This stable, line-by-line pattern with regular fixation durations closely matches the structured reading examples and differs from the more scattered, object-following or code/IDE-centered patterns in PLAY, DEBUG, WRITE, or BROWSE.",
+  "correct": false
+}

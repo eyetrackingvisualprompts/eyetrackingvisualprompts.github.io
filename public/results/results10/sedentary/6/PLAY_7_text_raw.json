@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze points cluster around code-like regions with frequent revisits to similar coordinates, vertical and horizontal shifts between nearby zones, and many back-and-forth movements typical of inspecting and re-inspecting code while searching for and verifying fixes, matching the DEBUG examples more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The scanpath shows concentrated fixations over a narrow horizontal band with repeated back-and-forth movements and some large saccades between two main regions, consistent with inspecting and re-inspecting localized code areas while debugging rather than the more linear patterns of reading or the broader, more dispersed gaze of browsing, search, or gameplay.",
+  "correct": false
+}

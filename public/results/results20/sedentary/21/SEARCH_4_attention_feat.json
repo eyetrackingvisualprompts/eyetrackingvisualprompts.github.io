@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in the upper-left region with several additional scattered clusters across the horizontal axis and a few lower-screen looks, indicating scanning of multiple webpage elements rather than continuous line-by-line reading or central focus typical of video watching. This pattern best matches the BROWSE example heatmap.",
+  "correct": false
+}

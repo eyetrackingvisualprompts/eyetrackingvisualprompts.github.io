@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a narrow vertical band with relatively small, steady horizontal movements and moderate vertical shifts, closely matching the WRITE example pattern and differing from the larger, more varied movements seen in browsing, searching, or playing.",
+  "correct": false
+}

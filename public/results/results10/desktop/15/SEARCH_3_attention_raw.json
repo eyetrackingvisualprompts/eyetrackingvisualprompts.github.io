@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze heatmap shows a compact cluster near the screen center with moderate vertical spread and limited horizontal movement, matching the browsing example pattern more closely than the others, which are either more peripheral, more linear (reading), or more widely dispersed (play/write/search).",
+  "correct": false
+}

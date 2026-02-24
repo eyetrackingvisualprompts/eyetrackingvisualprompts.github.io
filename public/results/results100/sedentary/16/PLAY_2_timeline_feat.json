@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Long periods of relatively stable horizontal gaze with modest vertical variation, occasional brief saccade bursts, and a noticeable mid-interval shift in gaze region closely match the WRITE template plot and are characteristic of focusing on code while intermittently referring to other parts of the editor during implementation.",
+  "correct": false
+}

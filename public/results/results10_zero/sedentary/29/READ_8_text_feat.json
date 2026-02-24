@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, smooth, predominantly horizontal saccades across a similar vertical band near the lower half of the screen with short, sparse fixations, suggesting tracking or anticipating moving elements rather than line-by-line reading or scanning static text/code. This dynamic, pursuit-like pattern is most consistent with playing a simple game (e.g., Pong or Mario) rather than SEARCH, READ, WRITE, INTERPRET, DEBUG, BROWSE, or WATCH, which typically show denser, more structured fixation clusters.",
+  "correct": false
+}

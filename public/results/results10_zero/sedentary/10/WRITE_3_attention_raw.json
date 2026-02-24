@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a relatively narrow horizontal band slightly below screen center, with clusters suggesting line-by-line scanning over a limited width and minimal vertical movement, consistent with reading a text block rather than interactive tasks or full-screen video watching.",
+  "correct": false
+}

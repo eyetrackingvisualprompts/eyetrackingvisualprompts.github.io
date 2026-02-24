@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is clustered around a central region with repeated small vertical and horizontal corrections and occasional rapid jumps to screen edges and back, consistent with tracking dynamic in-game elements rather than reading or code-centric tasks. The movement pattern closely resembles the PLAY examples, especially Mario/Pong-style following of moving objects with intermittent long saccades across the screen.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze coordinates span a wide range over the screen with many short, horizontal-ish clusters and frequent jumps to different regions, consistent with scanning heterogeneous web pages (menus, sidebars, content blocks) rather than the more linear, paragraph-focused patterns typical of READ or the concentrated areas seen in coding-related tasks. The irregular, exploratory pattern better matches free web browsing behavior.",
+  "correct": false
+}

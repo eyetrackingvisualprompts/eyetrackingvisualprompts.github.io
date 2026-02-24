@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely distributed with frequent medium-length saccades across both horizontal and vertical directions, indicating exploratory viewing of various on-screen elements. This pattern matches the browsing example more closely than the more localized patterns of READ/WRITE or the distinct clustering of PLAY or WATCH.",
+  "correct": true
+}

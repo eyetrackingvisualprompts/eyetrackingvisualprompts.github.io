@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a mostly vertical cluster on the left side, consistent with reading down a text column, plus a tight cluster on the lower-right that likely corresponds to a separate UI element (e.g., reference, figure, or control), matching structured reading behavior more than dynamic or exploratory tasks.",
+  "correct": false
+}

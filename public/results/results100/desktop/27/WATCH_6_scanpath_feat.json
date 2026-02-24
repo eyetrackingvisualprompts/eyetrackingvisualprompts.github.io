@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cover a mid-screen region with multiple dispersed clusters and frequent transitions between them, resembling scanning across varied webpage areas, which best matches the browsing pattern rather than the more linear (READ/WRITE) or peripheral (WATCH/PLAY) examples.",
+  "correct": false
+}

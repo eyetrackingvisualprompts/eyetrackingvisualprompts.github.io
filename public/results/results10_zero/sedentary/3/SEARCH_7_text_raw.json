@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows large, rapid shifts across wide screen regions (including far vertical and horizontal excursions) with irregular, dynamic patterns rather than orderly line-by-line scanning or focused code inspection, which is most consistent with visually tracking game elements and navigating in an online game (PLAY).",
+  "correct": false
+}

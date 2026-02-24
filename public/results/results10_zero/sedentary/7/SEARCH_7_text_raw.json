@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows many large, multidirectional saccades spanning wide screen areas (including occasional off-screen points), with no stable horizontal scanlines typical of reading code or prose and no clear object-tracking trajectory seen in games or video. This pattern best matches exploratory, free-form visual navigation of varied web pages during browsing.",
+  "correct": false
+}

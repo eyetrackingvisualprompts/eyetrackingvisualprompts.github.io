@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze shows mostly centered, stable fixations with slow drift and occasional brief excursions, closely resembling the INTERPRET example\u2019s focused, low-exploration pattern typical when mentally simulating code rather than scanning widely (SEARCH/BROWSE) or tracking motion (WATCH/PLAY).",
+  "correct": false
+}

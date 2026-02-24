@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The fixation cluster is left-of-center and horizontally elongated with some attention lower-right, closely matching the WRITE example heatmap and typical code editing behavior in an IDE rather than the more compact INTERPRET or more dispersed DEBUG patterns.",
+  "correct": true
+}

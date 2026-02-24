@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show relatively stable, horizontally distributed fixations with modest vertical shifts and regular saccades, closely matching the pattern of sustained line-by-line reading in the READ example rather than the more scattered or dynamic patterns of search, browsing, playing, watching, or writing.",
+  "correct": false
+}

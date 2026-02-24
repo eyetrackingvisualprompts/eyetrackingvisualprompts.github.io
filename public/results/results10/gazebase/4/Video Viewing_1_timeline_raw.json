@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large, irregular step-like changes in both horizontal and vertical gaze with positions held about 1 s at varied locations match the random target jumps of the Random Saccades task rather than the more patterned or static behavior of other activities.",
+  "correct": false
+}

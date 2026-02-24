@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a highly localized, stable fixation in a single small region with minimal horizontal or vertical scanning, indicating sustained attention to one on-screen area (e.g., a character\u2019s face or focal point in a video), which best matches the WATCH activity rather than the broader scanning patterns expected in reading, browsing, searching, playing, or writing.",
+  "correct": false
+}

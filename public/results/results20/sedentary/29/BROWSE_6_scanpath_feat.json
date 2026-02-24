@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze covers a wide horizontal area with frequent medium-length saccades and dispersed fixations across the screen, resembling continuous tracking of dynamic visual content rather than line-by-line reading or focused code inspection, matching the WATCH pattern best among the examples.",
+  "correct": false
+}

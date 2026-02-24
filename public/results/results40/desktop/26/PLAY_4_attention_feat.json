@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central region with moderate vertical spread and no clear horizontal line structure, resembling the browsing example heatmap more than the others.",
+  "correct": false
+}

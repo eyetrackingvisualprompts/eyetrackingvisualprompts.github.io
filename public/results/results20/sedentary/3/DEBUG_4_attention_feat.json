@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on a narrow vertical strip on the left with multiple clusters at different heights, matching the focused, code-line-by-line inspection seen in WRITE rather than the more horizontally spread patterns of READ/BROWSE or sparse regions of INTERPRET/DEBUG.",
+  "correct": false
+}

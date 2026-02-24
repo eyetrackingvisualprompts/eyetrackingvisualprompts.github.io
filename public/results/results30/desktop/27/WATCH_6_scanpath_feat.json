@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements with a slight vertical spread, resembling line-by-line progression over text, which matches the structured pattern seen in the READ example more than the denser, more scattered patterns of SEARCH or BROWSE or the more localized clusters of WATCH/WRITE/PLAY.",
+  "correct": false
+}

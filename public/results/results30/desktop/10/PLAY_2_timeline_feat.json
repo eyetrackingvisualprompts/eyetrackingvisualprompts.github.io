@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with moderate, frequent small saccades in both axes and limited large horizontal sweeps, resembling the mixed, scattered viewing of varied webpage elements seen in the BROWSE example more than the structured line-by-line patterns of READ/WRITE or the larger shifts of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

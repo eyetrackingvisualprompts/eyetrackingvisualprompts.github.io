@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions are confined to a horizontally elongated band with moderate vertical spread, forming line-like scan patterns similar to the READ example and unlike the more scattered, center-focused patterns of SEARCH/BROWSE or the wide-range movements in WATCH/PLAY.",
+  "correct": false
+}

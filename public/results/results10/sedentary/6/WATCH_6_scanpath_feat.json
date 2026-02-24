@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Two distinct gaze clusters: one on the right (code editor) with repeated revisits and one on the left (terminal/description), matching the example WRITE pattern of alternating between code and another panel during implementation.",
+  "correct": false
+}

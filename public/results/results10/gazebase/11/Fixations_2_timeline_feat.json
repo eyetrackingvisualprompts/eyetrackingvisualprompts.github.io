@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains essentially constant near the center in both X and Y with almost no saccadic movement over the entire 10 s window, matching the static central fixation task.",
+  "correct": true
+}

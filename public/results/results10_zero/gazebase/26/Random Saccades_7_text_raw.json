@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between long, large-amplitude saccades spanning much of the \u00b115\u00b0/\u00b19\u00b0 range and extended periods of very stable fixation at distinct positions, each lasting on the order of about one second after downsampling. This pattern of discrete, widely separated fixation points with minimal intra-fixation jitter is characteristic of following a randomly moving single target, matching the Random Saccades task better than continuous horizontal motion, dense local scanpaths (reading), or the more irregular, stimulus-driven patterns expected in video viewing or gaming.",
+  "correct": true
+}

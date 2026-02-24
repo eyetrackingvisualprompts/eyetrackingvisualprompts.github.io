@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions remain around screen center with moderate, irregular shifts and no strong directional scanning (unlike reading or writing). The pattern closely matches the example BROWSE data, which shows central, relatively stable fixations with small exploratory saccades typical of web/news browsing.",
+  "correct": false
+}

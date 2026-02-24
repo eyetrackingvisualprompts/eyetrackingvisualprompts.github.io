@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze points are tightly clustered over a small central-lower region with short, repeated saccades and no large exploratory movements, resembling focused inspection of a compact code snippet rather than broader navigation or dynamic viewing; this matches the INTERPRET example pattern most closely.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a relatively narrow vertical band with modest horizontal shifts and occasional jumps, resembling focused work within a code editor, which matches the WRITE template more than reading, browsing, or dynamic activities like WATCH or PLAY.",
+  "correct": false
+}

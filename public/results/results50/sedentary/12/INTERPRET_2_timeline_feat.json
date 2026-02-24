@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are mostly confined to a narrow central horizontal band with gradual upward drift in Y and moderate, irregular saccades\u2014closely matching the DEBUG template where gaze moves within code lines and occasionally jumps, unlike the stronger horizontal sweeps of READ/BROWSE or the broader, more scattered movements of WATCH/PLAY.",
+  "correct": false
+}

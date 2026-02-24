@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze positions remain confined to a narrow horizontal band with relatively small, systematic saccades, closely resembling the stable, code-focused pattern seen in the INTERPRET example rather than the broader, more exploratory movements of tasks like BROWSE, SEARCH, or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal movement around screen center with frequent small shifts and occasional vertical changes, indicating scanning of varied on-screen elements, which best matches the browsing pattern rather than the more structured lines of reading or the more extreme movements of play/watch/search.",
+  "correct": false
+}

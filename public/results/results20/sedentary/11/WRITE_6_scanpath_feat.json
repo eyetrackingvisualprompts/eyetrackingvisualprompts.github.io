@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between distinct regions (left cluster and right cluster) with large saccades across the screen and scattered fixations, indicative of navigating multiple web page areas rather than focused reading, coding, or watching, matching the browsing pattern.",
+  "correct": false
+}

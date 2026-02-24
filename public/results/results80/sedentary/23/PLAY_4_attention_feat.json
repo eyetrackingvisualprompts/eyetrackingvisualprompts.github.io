@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is distributed horizontally across the central band of the screen with multiple clusters, indicating scanning between search box, results list, and possibly different snippets or links\u2014closely matching the SEARCH example pattern more than the other activities.",
+  "correct": false
+}

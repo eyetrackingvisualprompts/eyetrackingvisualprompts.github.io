@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The target data shows unusually long saccades lasting over 2\u20133 seconds with relatively short fixations, indicating continuous, slow eye movements tracking moving objects or the game scene rather than discrete, text- or element-based scanning. This pattern of extended saccades with sparse fixations aligns best with the PLAY examples, where gaze follows dynamic game content, and is unlike the shorter, more frequent saccades and denser fixations seen in SEARCH, BROWSE, READ, WRITE, or WATCH.",
+  "correct": false
+}

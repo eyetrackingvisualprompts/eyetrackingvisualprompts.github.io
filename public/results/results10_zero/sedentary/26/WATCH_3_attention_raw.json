@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a few dispersed fixation clusters across the screen rather than structured horizontal scanpaths or concentrated code/text regions. This broad spatial distribution with attention shifts to different zones is more consistent with watching a dynamic full-screen video than with reading, coding, debugging, or web search tasks, which usually produce denser, band-like or columnar patterns.",
+  "correct": true
+}

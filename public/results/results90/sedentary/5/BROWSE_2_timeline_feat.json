@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The target pattern shows frequent large vertical saccades with horizontal sweeps and revisits across different screen regions, closely matching the exploratory, multi-area scanning seen in the SEARCH example rather than the more linear or localized patterns of other tasks.",
+  "correct": false
+}

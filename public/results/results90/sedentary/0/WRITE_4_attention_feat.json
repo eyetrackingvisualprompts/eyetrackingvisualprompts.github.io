@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a horizontally-extended band in the upper-left/central area with some spread, resembling scanning across web content, which matches the BROWSE example pattern more than the more compact INTERPRET/WRITE or highly dispersed SEARCH/WATCH patterns.",
+  "correct": false
+}

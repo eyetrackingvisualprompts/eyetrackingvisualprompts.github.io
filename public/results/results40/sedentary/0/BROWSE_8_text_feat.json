@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, frequent transitions between dispersed screen regions (center, top, bottom, and corners), many mid-duration fixations clustered around a moving locus in the mid-lower area, and repeated loops between similar zones\u2014patterns typical of tracking and reacting to dynamic game elements rather than the more line- or code-structured scanning seen in reading, coding (INTERPRET/DEBUG/WRITE), or web search/browsing tasks.",
+  "correct": false
+}

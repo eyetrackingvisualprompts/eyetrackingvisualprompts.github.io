@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form tight, horizontally aligned clusters in the upper-middle area of the screen with small vertical shifts, matching the characteristic line-by-line reading pattern and closely resembling the READ example scanpath.",
+  "correct": true
+}

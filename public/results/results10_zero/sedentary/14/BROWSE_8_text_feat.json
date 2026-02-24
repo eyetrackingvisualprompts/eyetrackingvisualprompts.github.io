@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze exhibits large, rapid saccades across widely separated screen regions (including corners and edges) with relatively short, variable fixations, suggesting continuous tracking of moving targets or navigation rather than systematic line-by-line reading or code inspection; this spatially dispersed, dynamic pattern is most consistent with playing an online game.",
+  "correct": false
+}

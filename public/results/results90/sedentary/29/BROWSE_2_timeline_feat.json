@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows continuous, smooth movements with frequent medium-to-large saccades scattered across both axes, without the structured horizontal line patterns typical of reading/browsing or the relatively confined regions of code-related tasks. This broad, dynamic scanning pattern best matches watching a full-screen video.",
+  "correct": false
+}

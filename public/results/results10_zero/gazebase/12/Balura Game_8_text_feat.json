@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts show large, rapid movements to many non-repeating positions scattered across both horizontal (\u2248\u00b120\u00b0) and vertical (\u2248\u00b114\u00b0) ranges, with relatively long, discrete fixations (~0.2\u20130.3 s) at each new location. This pattern aligns with following a single target that jumps to random screen positions, not the predominantly horizontal pattern of reading or horizontal saccades, nor the highly central focus of fixations, nor the more clustered, content-driven gaze of video viewing or game play.",
+  "correct": false
+}

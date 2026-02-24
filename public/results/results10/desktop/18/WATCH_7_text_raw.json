@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points remain in a tight horizontal band around y\u22480.68 with slow, small shifts in x and occasional brief upward moves, matching stable line-by-line reading behavior and closely resembling the READ example\u2019s dense, slowly drifting clusters more than the more scattered exploratory (BROWSE/SEARCH), highly dynamic (PLAY), or peripheral/top-heavy (WATCH/WRITE) patterns.",
+  "correct": false
+}

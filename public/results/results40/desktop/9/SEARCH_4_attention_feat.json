@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the screen center with some vertical spread, resembling the browsing example\u2019s central cluster more than the dispersed patterns of SEARCH or WATCH and lacking the horizontal line structures of READ or WRITE and the wide spread of PLAY.",
+  "correct": false
+}

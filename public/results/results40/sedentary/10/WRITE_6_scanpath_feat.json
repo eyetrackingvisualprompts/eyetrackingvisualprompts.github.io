@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on a text-like band across mid-screen with frequent horizontal saccades and occasional long jumps to the far right, matching scanning of results and side elements typical for search engine use rather than the more localized patterns of READ or code-focused tasks.",
+  "correct": false
+}

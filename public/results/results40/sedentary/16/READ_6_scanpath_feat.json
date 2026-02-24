@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical strip with repeated up\u2013down movements across several horizontal bands, matching typical code editing: looking between code lines and lower console/IDE panes. This pattern is closer to the WRITE example than to the broader search/browse or static reading patterns.",
+  "correct": false
+}

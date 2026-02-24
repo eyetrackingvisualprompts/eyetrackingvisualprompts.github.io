@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, staircase-like horizontal movements with relatively constrained vertical shifts and periodic returns to a lower-left region, matching line-by-line reading patterns seen in the READ example more than the other activities.",
+  "correct": true
+}

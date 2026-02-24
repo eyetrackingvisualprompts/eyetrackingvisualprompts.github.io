@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows a mostly horizontal band of fixations with small, infrequent saccades and limited vertical movement\u2014very similar to the INTERPRET example and more stable/central than the DEBUG or BROWSE patterns, indicating focused inspection of a short code snippet rather than extensive navigation or reading long text.",
+  "correct": false
+}

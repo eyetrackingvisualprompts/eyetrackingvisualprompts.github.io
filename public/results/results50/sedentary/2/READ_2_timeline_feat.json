@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right horizontal sweeps with stepwise downward drift in Y, resembling reading through multiple vertically-scrolling web pages, plus a sudden large downward Y shift near 40s indicative of jumping to a different page section or new page\u2014characteristic of general web browsing rather than continuous reading of a single text.",
+  "correct": false
+}

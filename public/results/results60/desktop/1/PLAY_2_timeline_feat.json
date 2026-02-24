@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, continuous horizontal and vertical movements centered around the middle of the screen, with frequent but not extreme saccades. This dispersed yet somewhat stable pattern closely matches the browsing example, which features medium-range exploratory movements across varied page layouts, unlike the more structured patterns of reading or the larger directional shifts seen in play or watch tasks.",
+  "correct": false
+}

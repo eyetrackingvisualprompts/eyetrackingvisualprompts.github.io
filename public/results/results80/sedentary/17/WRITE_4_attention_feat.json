@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated on a compact area in the upper-left code region with few scattered fixations elsewhere, closely matching the INTERPRET example where participants focus on a small code snippet to understand its output, rather than the broader and more vertically distributed patterns seen in DEBUG or other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, slow drifts in both X and Y with modest range and few rapid large shifts, consistent with following content in a video rather than line-by-line horizontal scanning (READ/WRITE) or larger, more erratic exploratory movements typical of PLAY, SEARCH, or BROWSE.",
+  "correct": false
+}

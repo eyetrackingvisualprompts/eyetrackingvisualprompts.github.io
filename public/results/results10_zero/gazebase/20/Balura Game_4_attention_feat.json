@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are dispersed across the screen, including extreme left and right positions and multiple vertical levels, without forming structured lines (reading) or dense central clustering (static fixation). The sparse, widely separated hotspots align with following a single target that jumps to random positions once per second, consistent with Random Saccades.",
+  "correct": false
+}

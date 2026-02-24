@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent alternation between a central content region and far-off-screen locations (very large saccades to extreme coordinates), with horizontal sweeps along a mid-height line, matches scan patterns seen in the SEARCH examples when moving between SERP, browser UI elements, and different result pages rather than the more localized, structured patterns of READ/WRITE or the object-following behavior of PLAY/WATCH.",
+  "correct": false
+}

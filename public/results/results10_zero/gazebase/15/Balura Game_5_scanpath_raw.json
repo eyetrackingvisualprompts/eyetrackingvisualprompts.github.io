@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows large, repeated horizontal sweeps spanning most of the screen width with relatively small vertical variation, consistent with following a target moving left\u2013right across the display rather than random or content-driven viewing patterns.",
+  "correct": false
+}

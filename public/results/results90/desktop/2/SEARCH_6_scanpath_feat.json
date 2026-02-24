@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster in the central region with moderate dispersion and multidirectional small saccades, resembling the example BROWSE pattern more than the more scattered SEARCH or the strongly horizontal READ/WRITE layouts or the wide-ranging WATCH/PLAY behaviors.",
+  "correct": false
+}

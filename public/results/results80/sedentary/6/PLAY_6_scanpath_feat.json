@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in a single central region corresponding to the code editor, with recurrent long saccades to a right-side area (likely console or documentation panel), closely matching the WRITE example pattern of focused coding with occasional side glances, rather than the more dispersed or structured patterns seen in other tasks.",
+  "correct": false
+}

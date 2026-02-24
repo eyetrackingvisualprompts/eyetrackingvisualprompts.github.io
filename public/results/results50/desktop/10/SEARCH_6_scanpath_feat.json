@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a relatively compact central cluster with frequent short saccades and revisits across a mid-screen region, closely matching the exploratory yet localized scanpath pattern of the SEARCH examples rather than the more horizontally structured READ/WRITE or the broader dispersion seen in WATCH/PLAY/BROWSE.",
+  "correct": true
+}

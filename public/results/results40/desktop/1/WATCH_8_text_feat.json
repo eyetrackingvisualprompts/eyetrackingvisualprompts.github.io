@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are clustered around mid-screen, with frequent medium-amplitude vertical and horizontal shifts and revisits, resembling scanning and revisiting regions typical of browsing pages rather than the more linear horizontal patterns of reading or the more dispersed patterns of play/search/watch.",
+  "correct": false
+}

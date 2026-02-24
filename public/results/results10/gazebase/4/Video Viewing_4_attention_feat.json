@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered broadly over the screen without forming a narrow horizontal band (reading or horizontal saccades), a central cluster (fixation), or clear game/video focal regions, matching the dispersed pattern of the Random Saccades task.",
+  "correct": false
+}

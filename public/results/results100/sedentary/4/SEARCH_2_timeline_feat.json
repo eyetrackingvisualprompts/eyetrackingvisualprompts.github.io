@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The data shows frequent vertical transitions between two main Y-bands (top and mid screen) with irregular horizontal shifts and occasional larger excursions, matching the example SEARCH pattern of scanning results, snippets, and occasional deeper page visits rather than the more uniform lines of READ/BROWSE or the constrained central focus of code-related tasks.",
+  "correct": true
+}

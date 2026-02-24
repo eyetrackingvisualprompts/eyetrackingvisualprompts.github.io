@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The scanpath shows multiple scattered fixations with varied saccade directions and amplitudes, without the strict horizontal pattern of reading or horizontal saccades, nor the large random jumps of the random-saccade or game tasks, matching natural exploratory viewing seen in video viewing.",
+  "correct": false
+}

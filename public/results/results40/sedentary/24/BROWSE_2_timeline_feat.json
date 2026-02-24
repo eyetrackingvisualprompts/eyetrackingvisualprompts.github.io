@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements with slowly increasing X fixation and very stable Y fixation bands, matching line-by-line text reading patterns and closely resembling the READ example plot more than the other task types.",
+  "correct": false
+}

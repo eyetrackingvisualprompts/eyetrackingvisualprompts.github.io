@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Long sequences of dense fixations and short saccades clustered in a narrow code-like region with repeated revisits to specific coordinates and occasional large jumps (e.g., to the right margin) resemble the WRITE examples\u2019 code-editing behavior more than the more line-structured READ patterns or the broader exploratory patterns in BROWSE/SEARCH/DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, large-amplitude shifts across wide screen regions (including corners and edges), frequent revisits between dispersed locations, and many mid-screen object-following style fixations, resembling dynamic tracking and navigation patterns typical of gameplay rather than the more line-structured or code-panel-focused patterns of reading, coding, or searching.",
+  "correct": true
+}

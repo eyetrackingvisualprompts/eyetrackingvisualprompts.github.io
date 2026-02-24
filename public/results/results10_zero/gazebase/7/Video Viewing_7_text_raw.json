@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete jumps (often >10\u00b0) to widely separated positions across both horizontal and vertical axes, followed by ~1 s clusters of low-variance points at each location. This pattern matches tracking a randomly moving target that steps to new positions and is held there, as in the Random Saccades task, rather than the more regular one-dimensional shifts of Horizontal Saccades or the fine, localized movements typical of reading, fixation, video viewing, or game interactions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across the central screen with frequent long saccades in multiple directions and no clear line-by-line or code-block structure, matching the dynamic, spatially dispersed pattern typical of tracking moving objects in simple games rather than reading, coding, or web tasks.",
+  "correct": true
+}

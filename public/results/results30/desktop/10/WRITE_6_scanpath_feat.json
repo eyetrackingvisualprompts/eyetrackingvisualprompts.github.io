@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster around the screen center with small, multidirectional movements and no strong horizontal sweep, matching the browsing example pattern more than the more linear READ or the dispersed WATCH/PLAY behaviors.",
+  "correct": false
+}

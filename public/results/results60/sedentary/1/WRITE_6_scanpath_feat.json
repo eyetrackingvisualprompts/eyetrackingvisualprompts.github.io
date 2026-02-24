@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small region of the left code area with limited horizontal spread and moderate vertical shifts, resembling focused inspection of a short function snippet rather than the broader, line-by-line horizontal sweeps seen in READ or the wider explorations in DEBUG/SEARCH/BROWSE.",
+  "correct": false
+}

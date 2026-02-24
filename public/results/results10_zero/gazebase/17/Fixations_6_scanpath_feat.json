@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The gaze points are tightly clustered around a single central location with no evident saccadic movements or spatial dispersion, indicating sustained fixation on a static central target rather than tracking moving or distributed stimuli.",
+  "correct": true
+}

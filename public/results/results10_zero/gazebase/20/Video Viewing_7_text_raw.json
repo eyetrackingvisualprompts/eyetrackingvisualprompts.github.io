@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show long periods of relatively stable gaze (fixations) punctuated by large, discrete gaze shifts spanning multiple degrees in both horizontal and vertical directions, consistent with following a bull\u2019s-eye that jumps to new random positions and then holds for about a second, rather than strictly horizontal motion, continuous scanning (reading/video), or game-like clustered fixations.",
+  "correct": false
+}

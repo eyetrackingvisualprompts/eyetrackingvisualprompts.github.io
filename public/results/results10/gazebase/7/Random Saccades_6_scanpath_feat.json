@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions jump between spatially separated locations with no clear horizontal line or reading pattern, covering both horizontal and vertical extents in an irregular sequence, which matches following a randomly moving target rather than structured tasks like reading, video viewing, or horizontal-only saccades.",
+  "correct": true
+}

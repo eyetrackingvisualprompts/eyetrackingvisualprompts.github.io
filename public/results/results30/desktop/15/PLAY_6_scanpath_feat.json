@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are scattered over a mid-screen area with many medium-length saccades and revisits across different regions, reflecting exploratory scanning similar to the SEARCH example rather than the more localized or structured patterns seen in READ, WRITE, WATCH, PLAY, or BROWSE.",
+  "correct": false
+}

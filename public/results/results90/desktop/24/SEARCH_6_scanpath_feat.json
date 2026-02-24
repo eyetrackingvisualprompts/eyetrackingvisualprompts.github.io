@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a compact cluster with moderate vertical spread and frequent small saccades within a limited region, resembling the exploratory yet localized pattern of SEARCH more than the tighter line-like READ pattern or the broader dispersion seen in BROWSE or WATCH.",
+  "correct": true
+}

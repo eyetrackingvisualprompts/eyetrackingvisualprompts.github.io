@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around screen center with frequent mid-range vertical shifts between ~0.3\u20130.6 and moderate horizontal changes, including repeated returns to similar mid-page coordinates and occasional large jumps, matching the heterogeneous, scroll-and-skim pattern seen in the BROWSE example rather than the more structured lines of READ or the stronger top/bottom focus of SEARCH.",
+  "correct": false
+}

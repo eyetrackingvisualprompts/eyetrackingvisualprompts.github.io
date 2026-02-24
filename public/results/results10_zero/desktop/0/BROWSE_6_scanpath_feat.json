@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain clustered near the center of the screen with small, smooth shifts and no clear horizontal line-by-line or vertical scanning pattern; this stable, central focus with limited exploration is most consistent with watching a video rather than reading, searching, browsing, playing, or writing, which typically show broader or more structured scanpaths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band around mid\u2013lower screen with many short saccades and medium fixations, plus occasional shifts to a slightly higher code/toolbar area. This pattern matches editing/implementing code in an IDE more than reading prose, gameplay, or broad web/search scanning, and is most consistent with the WRITE examples.",
+  "correct": false
+}

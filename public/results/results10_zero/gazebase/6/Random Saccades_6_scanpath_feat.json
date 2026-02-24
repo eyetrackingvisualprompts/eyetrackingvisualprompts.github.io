@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations occur at several scattered locations across both horizontal and vertical directions with roughly one-second intervals between them, matching a target that jumps to random screen positions rather than purely horizontal motion or text-like scanning.",
+  "correct": true
+}

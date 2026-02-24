@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains mostly within a confined horizontal band with slow, smooth shifts and few large saccades, indicating following on-screen motion rather than discrete line-by-line or code-structure scanning patterns typical of reading, browsing, coding, or gameplay; this stable, passive viewing pattern best matches watching a video.",
+  "correct": false
+}

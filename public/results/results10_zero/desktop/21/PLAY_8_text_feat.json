@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow band in the upper-middle of the screen with short-to-moderate fixations (~0.2\u20130.7s) and small predominantly horizontal shifts, consistent with line-by-line reading rather than large exploratory movements typical of search, browse, or play, or the broader vertical spread often seen in writing or watching video with subtitles.",
+  "correct": false
+}

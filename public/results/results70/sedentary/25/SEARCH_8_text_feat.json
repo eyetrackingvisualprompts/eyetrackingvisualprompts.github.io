@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, orderly horizontal scanpaths with dense fixations along a narrow vertical band, frequent small regressions, and occasional line transitions\u2014matching sustained text reading behavior rather than code (INTERPRET/DEBUG/WRITE) or highly dynamic/game/video movements (PLAY/WATCH/BROWSE/SEARCH).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show relatively stable horizontal bands with small regressions and limited large saccades, consistent with line-by-line reading of static text rather than dynamic or exploratory tasks like PLAY, SEARCH, or BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows structured, line-by-line horizontal movements within a narrow vertical column, with progressive downward shifts over time\u2014characteristic of reading text rather than the more scattered or task-focused patterns of other activities.",
+  "correct": true
+}

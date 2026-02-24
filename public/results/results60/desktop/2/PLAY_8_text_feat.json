@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in the lower-central screen region with many medium-length fixations and frequent multidirectional saccades, resembling tracking a controllable character/objects rather than left-to-right line scanning (READ) or top-heavy, wide-ranging exploration (SEARCH/BROWSE). This spatiotemporal pattern best matches the PLAY examples, especially the Mario-style horizontal play with local movements around a central lower area.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The target segment shows systematic, repeated horizontal scan patterns with steadily increasing Y fixation over time, consistent with line-by-line reading behavior and closely matching the READ example plot more than the other task patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions form a smooth, mostly horizontal progression from left to right with slight upward drift, consistent with line-by-line reading across a page rather than multi-directional exploration typical of play, search, browse, watch, or write tasks.",
+  "correct": true
+}

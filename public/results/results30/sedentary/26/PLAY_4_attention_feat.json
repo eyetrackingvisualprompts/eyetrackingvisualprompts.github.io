@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The heatmap shows a wide, dispersed gaze pattern with strong concentration around the screen center and many fixations across vertical and horizontal regions, matching the dynamic object-following and navigation typical of gameplay rather than the more localized or line-structured patterns of reading, coding, or browsing.",
+  "correct": true
+}

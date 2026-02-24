@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across both horizontal and vertical directions with large, irregular jumps between positions rather than a single line of text, a central cluster, purely horizontal oscillations, or object-focused clusters; this pattern best matches following a target that moves unpredictably across the screen as in the Random Saccades task.",
+  "correct": true
+}

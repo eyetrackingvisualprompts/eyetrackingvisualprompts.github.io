@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is tightly clustered around the central area with moderate vertical spread, matching the focused, central fixation pattern seen in the PLAY example, unlike the more horizontal scan patterns of READ/BROWSE or upper-screen clusters of WRITE/SEARCH.",
+  "correct": true
+}

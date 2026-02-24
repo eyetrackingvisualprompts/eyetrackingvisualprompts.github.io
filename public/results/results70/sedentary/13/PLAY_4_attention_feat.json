@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is distributed horizontally across a mid-screen band with multiple sequential fixation clusters from left to right, resembling line-by-line scanning of web content, which matches the browsing pattern more than the more centrally focused WATCH pattern or the compact code-focused tasks.",
+  "correct": false
+}

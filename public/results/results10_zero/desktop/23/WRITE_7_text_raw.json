@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays near the screen center with small, slow movements and stable fixations, showing no large horizontal sweeps, rapid multi-directional shifts, or frequent scene changes typical for browsing, search, gaming, or video; this pattern best matches focused reading of static text content.",
+  "correct": false
+}

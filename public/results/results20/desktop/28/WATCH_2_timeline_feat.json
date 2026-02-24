@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the screen center with moderate horizontal and vertical shifts and intermittent saccades, resembling mixed-content scanning on webpages, which matches the browsing example pattern more than the more structured patterns of reading, writing, or the larger excursions of play/search/watch.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixation positions remain within a relatively narrow central band in both X and Y, showing continuous, small-amplitude horizontal shifts and moderate saccades, closely matching the stable, text-line scanning pattern seen in the READ example rather than the more dispersed or vertically dynamic patterns of BROWSE, SEARCH, PLAY, or WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern spans a wide horizontal area with frequent shifts between upper and middle regions, resembling the example SEARCH scanpath where users move between search results, browser UI, and content, rather than the more localized patterns of coding (DEBUG/WRITE/INTERPRET) or the structured lines of READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze stays in a relatively narrow central band with frequent medium-length saccades and short fixations, reflecting continuous tracking of dynamic on-screen elements rather than line-by-line reading or long static viewing; the pattern of horizontal shifts around the midline best matches the online game PLAY examples, especially the Mario-style horizontal look-ahead behavior.",
+  "correct": false
+}

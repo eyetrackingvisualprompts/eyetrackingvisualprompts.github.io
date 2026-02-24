@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small central-left code-like region with many local regressions between nearby positions, frequent revisits to the same coordinates, and intermittent long jumps to header/edge areas\u2014matching interpret/code-comprehension behavior rather than continuous reading, broad web scanning, or dynamic game/video tracking.",
+  "correct": true
+}

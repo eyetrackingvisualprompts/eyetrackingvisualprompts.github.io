@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly clustered around a narrow code-like region on the left with repeated vertical sweeps between top and bottom of that block, plus occasional long saccades to the right/bottom, matching behavior of inspecting and rechecking code while fixing errors rather than steady reading or free browsing.",
+  "correct": false
+}

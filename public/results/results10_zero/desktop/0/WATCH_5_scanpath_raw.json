@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze cluster is confined to a small mid-screen region with short, irregular saccades and no clear horizontal line sweeps or large vertical transitions, consistent with focusing on a single text area such as the current line and nearby UI elements while composing text, which best matches the WRITE task.",
+  "correct": false
+}

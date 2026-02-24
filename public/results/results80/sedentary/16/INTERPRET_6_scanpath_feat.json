@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Eye movements cluster heavily on the upper-left region with additional focused activity around another horizontal band, matching the pattern of scanning search results (top-left) and then examining a selected result, as seen in the SEARCH example, rather than the more code-centered or game-wide distributions of other tasks.",
+  "correct": false
+}

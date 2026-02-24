@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, very stable fixation area with minimal saccades or scanning, indicating sustained attention to a small region of the screen, which is most consistent with passively watching a video rather than tasks that involve reading, coding, searching, or interactive gameplay that would require broader gaze movement.",
+  "correct": false
+}

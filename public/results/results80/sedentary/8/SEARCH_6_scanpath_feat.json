@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide spatial coverage across the whole screen with irregular, multidirectional saccades and scattered fixations resembles exploratory navigation across multiple webpage regions, matching the BROWSE pattern rather than the more localized or structured patterns of other tasks.",
+  "correct": false
+}

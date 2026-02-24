@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense clustered fixations over a confined code area on the left with occasional long saccades to the far right region resemble the DEBUG example, where users inspect code locally and periodically check distant output or other UI elements.",
+  "correct": false
+}

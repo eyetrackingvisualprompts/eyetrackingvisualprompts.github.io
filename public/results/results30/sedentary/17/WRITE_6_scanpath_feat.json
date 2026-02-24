@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense cluster over the code area with occasional long saccades to a lower region (likely console/output) matches the debug pattern rather than the more localized INTERPRET or WRITE or the more widely distributed BROWSE/SEARCH/WATCH/PLAY behaviors.",
+  "correct": false
+}

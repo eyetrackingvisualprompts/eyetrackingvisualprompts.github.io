@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze follows long, smooth horizontal sweeps with short regressions across multiple, vertically stacked bands (y\u2248110\u2013200\u2013260\u2013300\u2013340\u2013360\u2013390\u2013430\u2013470\u2013520\u2013560\u2013600\u2013640\u2013700\u2013760\u2013800\u2013850\u2013900\u2013960), matching line-by-line text reading behavior rather than code-centric or interactive patterns.",
+  "correct": true
+}

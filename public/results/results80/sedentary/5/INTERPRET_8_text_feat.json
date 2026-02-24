@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Long sequences of fixations tightly clustered around specific code-like regions (x\u2248220\u2013340,y\u2248170\u2013320 and later y\u2248400\u2013600), with frequent short regressions and revisits, and occasional long saccades to the far right (IDE panels) closely resemble the WRITE examples\u2019 code/IDE inspection and editing pattern rather than the more linear READ/BROWSE scans or the broader exploratory SEARCH/WATCH/PLAY behaviors.",
+  "correct": false
+}

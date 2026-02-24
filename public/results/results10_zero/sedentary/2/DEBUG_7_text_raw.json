@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show rapid, large-amplitude shifts across wide screen regions (including extremes and off-screen values), with many short, local adjustments\u2014consistent with visually tracking moving game elements and looking ahead, rather than the more line-structured, band-limited patterns typical of reading, code-related tasks, or passive video watching.",
+  "correct": false
+}

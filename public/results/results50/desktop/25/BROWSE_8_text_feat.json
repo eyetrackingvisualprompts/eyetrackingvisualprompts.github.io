@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium- and long-range saccades between mid/upper text-like regions and lower/upper screen areas, with many short fixations and revisits, resembling scanning across varied web content rather than the more line-structured horizontal patterns of READ or the more localized upper-screen focus of WRITE; the pattern closely matches the heterogeneous, exploratory movements seen in the BROWSE examples.",
+  "correct": true
+}

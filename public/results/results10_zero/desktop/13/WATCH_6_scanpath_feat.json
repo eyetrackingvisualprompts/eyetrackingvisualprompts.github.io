@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered near the screen center with small, short saccades and no systematic horizontal or vertical sweeps typical of reading or writing. The limited spatial spread and focus on a central region over time are consistent with passively watching a video rather than exploring pages (SEARCH/BROWSE) or tracking wider game movements (PLAY).",
+  "correct": true
+}

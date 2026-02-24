@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a relatively narrow central band, with many long fixations (0.8\u20131.9s) and frequent medium-amplitude saccades between nearby code-like coordinates, resembling careful inspection and mental simulation rather than systematic line scanning (READ) or broad exploratory jumps (SEARCH/BROWSE). The pattern closely matches the INTERPRET examples, where participants inspect a small code snippet and reason about its output.",
+  "correct": false
+}

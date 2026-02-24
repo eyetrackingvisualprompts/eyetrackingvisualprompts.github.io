@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a code/IDE region on the left with repeated vertical shifts and occasional long saccades to the right and lower areas, consistent with typing and checking output or other UI elements during code writing, closely matching the WRITE example pattern.",
+  "correct": true
+}

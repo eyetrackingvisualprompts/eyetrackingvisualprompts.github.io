@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near a single horizontal band with slow, smooth changes in X and very small Y variation, plus a few brief vertical excursions\u2014consistent with following motion in a video rather than reading lines or scanning text/code or rapidly tracking game objects.",
+  "correct": false
+}

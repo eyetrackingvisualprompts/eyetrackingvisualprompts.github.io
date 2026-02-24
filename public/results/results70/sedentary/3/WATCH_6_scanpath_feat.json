@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is widely distributed across the entire screen with many long saccades between disparate regions and varied fixation clusters, matching the heterogeneous, exploratory viewing pattern typical of free web browsing rather than the more localized or structured patterns of the other tasks.",
+  "correct": false
+}

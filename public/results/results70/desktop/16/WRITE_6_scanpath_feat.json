@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are moderately dispersed over a central region with frequent shifts among multiple areas, unlike the tight central cluster of BROWSE or the linear horizontal pattern of READ. This mixed exploration pattern with many revisits matches the behavior of scanning results pages and switching between elements typical of SEARCH tasks.",
+  "correct": false
+}

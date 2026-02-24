@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a small region on the left side of the screen, with limited vertical and horizontal spread, similar to the INTERPRET example where attention focuses on a compact code snippet rather than scanning over a wider area as in WRITE or DEBUG.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with frequent horizontal shifts and occasional larger jumps between mid-screen and upper/lower regions, resembling scanning across heterogeneous web content rather than the tighter line-by-line pattern of READ or the more stationary, central focus typical of WATCH/WRITE. This spatiotemporal pattern best matches the BROWSE examples.",
+  "correct": false
+}

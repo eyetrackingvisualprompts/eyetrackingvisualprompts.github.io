@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, frequent shifts across wide screen regions (including corners and vertical extremes), with many mid-length saccades and relatively short, scattered fixations, matching dynamic visual exploration typical of game play rather than the more line-structured, horizontally constrained patterns of reading, writing, browsing, or search, or the more stable cluster-focused viewing of videos.",
+  "correct": false
+}

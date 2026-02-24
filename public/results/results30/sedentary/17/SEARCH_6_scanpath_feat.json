@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster densely over the left-side code area with occasional long saccades toward the lower-right region, matching the WRITE example where users alternate between editing code and briefly checking output or other UI elements.",
+  "correct": false
+}

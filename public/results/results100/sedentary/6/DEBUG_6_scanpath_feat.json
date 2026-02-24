@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over the code region on the left-center of the screen, with frequent but brief saccades to the right and lower areas, matching the debug example pattern where users alternate between inspecting code and checking outputs or tools.",
+  "correct": true
+}

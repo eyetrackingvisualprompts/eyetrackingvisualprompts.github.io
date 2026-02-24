@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations form a diagonal band from mid-screen toward lower-right with relatively sparse, spread-out points, resembling the WATCH example where gaze follows moving elements rather than concentrated text regions seen in READ/SEARCH/BROWSE or localized areas in WRITE/PLAY.",
+  "correct": false
+}

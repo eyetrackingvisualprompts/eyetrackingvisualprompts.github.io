@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions, frequent shifts between central and peripheral/top-bottom areas, and many revisits to scattered locations match dynamic visual tracking and spatial exploration typical of gameplay rather than the more localized, structured patterns seen in reading, coding, or debugging tasks.",
+  "correct": true
+}

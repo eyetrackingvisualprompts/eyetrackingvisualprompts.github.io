@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around a central area with frequent shifts among nearby regions, resembling exploratory yet focused viewing over a relatively compact part of the screen, which is characteristic of scanning search result pages rather than the more linear horizontal patterns of reading or the constrained regions of writing or gameplay.",
+  "correct": false
+}

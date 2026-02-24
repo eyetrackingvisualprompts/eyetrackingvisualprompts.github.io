@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including edges and corners), many vertical and diagonal jumps between dispersed points, and revisits to peripheral zones resemble game-oriented gaze following dynamic objects and UI rather than the more line-structured or segment-focused patterns of code, text, or web search/browse tasks.",
+  "correct": false
+}

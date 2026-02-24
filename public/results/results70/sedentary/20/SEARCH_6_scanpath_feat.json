@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-central region consistent with reading/editing code, with repeated vertical movements and revisits, plus occasional long saccades to the right side resembling checks of output or console\u2014matching the provided DEBUG scanpath pattern more than other tasks.",
+  "correct": false
+}

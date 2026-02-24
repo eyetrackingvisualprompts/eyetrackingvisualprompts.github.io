@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze behavior shows predominantly horizontal fixations clustered around similar y-levels with short saccades back and forth, consistent with line-by-line text reading. There is one large vertical saccade toward the bottom of the screen (likely to later text or next line/section), but no strong indication of dynamic object following, wide exploratory web search, or code-editing behavior, making READ the most plausible class.",
+  "correct": false
+}

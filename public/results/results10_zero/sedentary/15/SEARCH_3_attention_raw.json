@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is dominated by a few large, dense fixation clusters in the right-central area, with minimal systematic horizontal or vertical scanning. This pattern suggests following salient regions of a dynamic scene rather than line-by-line reading, code inspection, or search-driven navigation, making a continuous video-watching task most likely.",
+  "correct": false
+}

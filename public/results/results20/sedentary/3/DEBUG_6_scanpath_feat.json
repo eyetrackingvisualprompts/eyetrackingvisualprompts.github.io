@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated over a medium-sized left-central region with repeated transitions between two main vertical areas (likely code and output/console), resembling the DEBUG example more than the other tasks, which show either tighter focus (INTERPRET), broader exploration (SEARCH/BROWSE/PLAY/WATCH), or strong horizontal reading lines (READ/WRITE).",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze positions show predominantly left-to-right horizontal progressions along fairly constant vertical levels with small regressions and tight clusters, matching the line-by-line scanpath structure characteristic of reading rather than the larger jumps of saccade tasks or the more dispersed patterns of video, game, or random target following.",
+  "correct": true
+}

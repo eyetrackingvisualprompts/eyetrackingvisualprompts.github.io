@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent medium-to-large saccades across both x and y directions, revisits between dispersed regions (center, upper, lower), and relatively short fixations with intermittent longer holds indicate dynamic visual exploration consistent with tracking moving game elements rather than the more line-structured, horizontal scanning of READ/BROWSE or the localized clustering of WRITE/SEARCH/WATCH.",
+  "correct": true
+}

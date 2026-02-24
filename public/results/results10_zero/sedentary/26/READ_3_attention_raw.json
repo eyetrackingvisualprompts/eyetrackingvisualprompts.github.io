@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows a narrow horizontal band centered vertically, indicating steady, line-like left-to-right reading behavior over a single text line, which aligns best with the READ activity compared with other more dispersed or dynamic tasks.",
+  "correct": true
+}

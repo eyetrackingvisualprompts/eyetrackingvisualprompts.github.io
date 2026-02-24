@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on the left-central area where code typically resides, with frequent returns to a few clusters and several long saccades to the right and lower regions consistent with shifting between code, error messages, and execution/output panels\u2014matching the debug pattern more than the other activities.",
+  "correct": false
+}

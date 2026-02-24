@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a left-central vertical region with repeated fixations there and occasional long saccades to the right side of the screen, matching code editing behavior (main code area plus brief looks to run/output panels) characteristic of the WRITE task rather than the more scattered patterns of BROWSE/SEARCH/PLAY or the narrow band of READ.",
+  "correct": false
+}

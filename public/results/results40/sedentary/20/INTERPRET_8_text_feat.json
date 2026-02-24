@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades spanning distant regions (top, middle, and bottom of screen) with brief fixations and irregular scan paths resemble scanning SERP and web pages for specific information rather than line-by-line reading or focused code inspection.",
+  "correct": false
+}

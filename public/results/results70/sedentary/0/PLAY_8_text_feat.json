@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered around central code-like regions with frequent short saccades and re-fixations, interspersed with periodic large jumps to screen edges/tool areas and back, matching the WRITE examples\u2019 code-editing and cursor/IDE interaction pattern more than the more linear INTERPRET/DEBUG or the broader scanning in BROWSE/SEARCH/WATCH/PLAY/READ.",
+  "correct": false
+}

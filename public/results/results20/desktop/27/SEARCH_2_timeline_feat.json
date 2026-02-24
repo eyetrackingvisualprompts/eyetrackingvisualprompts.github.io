@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions remain around the screen center with small, frequent horizontal and vertical adjustments, closely matching the moderate, relatively stable scanning pattern seen in the BROWSE example rather than the more directional or extreme movements of other tasks.",
+  "correct": false
+}

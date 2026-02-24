@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The X and Y fixation traces stay near mid-screen with relatively small, frequent saccades and modest vertical shifts, closely resembling the example BROWSE pattern and differing from the stronger vertical trends and structured scanpaths seen in READ, WRITE, or WATCH.",
+  "correct": true
+}

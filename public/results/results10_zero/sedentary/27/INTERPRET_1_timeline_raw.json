@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y gaze positions stay within a narrow horizontal band with small, regular shifts and brief regressions, consistent with line-by-line reading rather than large saccades or broad exploratory movements typical of playing, searching, browsing, or watching video.",
+  "correct": false
+}

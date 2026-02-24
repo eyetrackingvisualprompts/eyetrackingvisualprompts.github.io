@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are concentrated in a mid-screen cluster with moderate dispersion and multidirectional saccades, similar to the SEARCH example where users inspect a central search results area rather than following linear reading lines or extreme upper-screen focus seen in WATCH/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The fixation X-position shows step-like jumps both left and right across a wide horizontal range, with varying amplitudes and irregular intervals, while Y-position changes slowly within a limited band. This pattern matches a target moving to random 2\u00b0+ positions across a 2D area, not strictly horizontal (Horizontal Saccades) or static (Fixations), nor the more localized, complex patterns expected in Reading, Video Viewing, or the Balura Game.",
+  "correct": false
+}

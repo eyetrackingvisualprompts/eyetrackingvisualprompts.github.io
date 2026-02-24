@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely distributed across the screen with several horizontal clusters and scattered points, resembling the varied, exploratory gaze pattern of free web browsing rather than the more focused regions seen in tasks like READ, DEBUG, or INTERPRET.",
+  "correct": false
+}

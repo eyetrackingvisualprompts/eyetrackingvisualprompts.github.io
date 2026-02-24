@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y fixations stay in the lower half of the screen with slow, smooth drifts and relatively few large saccades, resembling the WATCH pattern more than the more text- and search-driven horizontal scanning seen in READ/SEARCH/BROWSE or the larger, erratic movements in PLAY and WRITE.",
+  "correct": false
+}

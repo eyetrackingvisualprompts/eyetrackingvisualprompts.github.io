@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between widely separated vertical regions (top toolbar, mid results, near-bottom areas) combined with horizontal scan-like fixations around consistent y-levels match scanning a search results page rather than the tighter, line-by-line pattern of READ or the code-focused clusters of DEBUG/WRITE/INTERPRET. The pattern also differs from the more central, continuous focus of WATCH and the object-following jumps of PLAY, aligning best with SEARCH browsing of SERP and result snippets.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a compact cluster near the upper-center region, similar to the SEARCH example where fixations concentrate around the search box and top results, unlike the more dispersed horizontal patterns of READ or dynamic movements of PLAY and WATCH.",
+  "correct": false
+}

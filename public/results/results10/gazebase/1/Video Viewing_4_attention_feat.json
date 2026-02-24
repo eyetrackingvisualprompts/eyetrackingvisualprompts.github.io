@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen in multiple, well-separated clusters without alignment to a horizontal band (reading) or tight central clustering (fixation/video), and not limited to two horizontal loci (horizontal saccades). This broad, dispersed distribution best matches the random target movements of the Random Saccades task.",
+  "correct": false
+}

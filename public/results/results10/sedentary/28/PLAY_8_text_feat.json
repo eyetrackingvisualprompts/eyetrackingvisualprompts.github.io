@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows one long horizontal saccade followed by multiple short vertical and small horizontal adjustments clustered in a narrow x-range, with several long fixations on nearly the same y-level, resembling scanning and re-reading of a small set of lines or results rather than continuous line-by-line reading. This localized, evaluative pattern is more consistent with inspecting search engine results than with coding-related tasks, gameplay, or full-screen video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow central band with smooth, continuous shifts and no pronounced line-by-line horizontal sweeps characteristic of reading or coding. The pattern matches the stable, middle-screen engagement seen in the WATCH examples, where attention follows video content without large page or code navigation jumps.",
+  "correct": false
+}

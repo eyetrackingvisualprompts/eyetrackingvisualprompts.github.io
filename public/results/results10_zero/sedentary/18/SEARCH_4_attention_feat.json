@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in several horizontally-aligned bands on the left and upper-middle of the screen, consistent with scanning successive text lines or paragraphs, with relatively few fixations elsewhere\u2014characteristic of reading behavior rather than interactive tasks like coding, debugging, or playing games.",
+  "correct": false
+}

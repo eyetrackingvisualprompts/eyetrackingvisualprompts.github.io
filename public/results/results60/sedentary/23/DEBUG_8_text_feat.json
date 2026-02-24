@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a narrow code-like region with many short, local saccades and medium-length fixations, plus frequent revisits to similar y-coordinates (line-level re-reading) and small vertical shifts\u2014matching focused inspection and mental simulation of a small function rather than the broader vertical scanning of debugging, the horizontal sweep of reading prose, or the larger, more dispersed movements in browsing, searching, playing, or watching.",
+  "correct": false
+}

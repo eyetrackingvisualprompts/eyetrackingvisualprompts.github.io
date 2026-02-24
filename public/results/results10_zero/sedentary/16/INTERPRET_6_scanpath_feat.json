@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a single narrow code/editor region on the left, with repeated saccades within that area and no exploration of other screen regions, matching focused interaction with an IDE typical of the WRITE (coding) task rather than broader scanning or gameplay/reading layouts.",
+  "correct": false
+}

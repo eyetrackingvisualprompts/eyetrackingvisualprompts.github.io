@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points show frequent rapid shifts over a relatively compact central area with occasional large vertical jumps and off-screen/invalid samples, consistent with visually tracking dynamic game elements and reacting with keyboard/mouse rather than the more orderly line-based scanpaths of reading/searching or the concentrated code-focused fixations of programming tasks.",
+  "correct": false
+}

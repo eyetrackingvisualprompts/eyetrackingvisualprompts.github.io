@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps across wide screen regions (including off-screen coordinates), alternated with medium fixations, and revisits to mid-page horizontal bands resemble scrolling and scanning behavior in web browsing more than the more structured line-wise reading or code-focused patterns of programming-related tasks.",
+  "correct": true
+}

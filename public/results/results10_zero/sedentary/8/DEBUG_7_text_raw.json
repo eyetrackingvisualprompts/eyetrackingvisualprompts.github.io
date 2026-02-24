@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows frequent rapid shifts across large screen areas, including big vertical and diagonal jumps and scattered fixation clusters, indicative of tracking moving objects and navigating space rather than line-by-line reading or focused code inspection; this spatiotemporally dynamic pattern best matches the PLAY (gaming) activity among the given options.",
+  "correct": false
+}

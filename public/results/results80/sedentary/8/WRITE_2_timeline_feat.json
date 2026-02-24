@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze pattern shows a relatively narrow horizontal working area with intermittent vertical shifts and occasional larger saccades to the top region, consistent with alternating attention between code editing and reference areas (e.g., console, menus), which matches the WRITE template more closely than the other tasks.",
+  "correct": true
+}

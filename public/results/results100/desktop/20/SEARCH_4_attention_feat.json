@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered around the central region with moderate vertical spread, closely matching the browsing example pattern of focusing on a central content area while occasionally scanning nearby, unlike the horizontal strip of reading/writing or the more dispersed play/watch patterns.",
+  "correct": false
+}

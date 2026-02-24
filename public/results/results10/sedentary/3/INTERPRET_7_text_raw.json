@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays within a mid-screen band with small vertical shifts and local exploration around clusters, similar to scrolling and scanning behavior in the BROWSE example; there are no long, consistent horizontal line scans typical of READ, nor the large dispersed jumps seen in SEARCH or PLAY.",
+  "correct": false
+}

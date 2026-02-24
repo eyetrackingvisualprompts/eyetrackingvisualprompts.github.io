@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows structured horizontal sequences with regular vertical shifts, forming clear line-by-line reading patterns concentrated in a column area, closely matching the READ example and unlike the more scattered or task-switching patterns of other activities.",
+  "correct": true
+}

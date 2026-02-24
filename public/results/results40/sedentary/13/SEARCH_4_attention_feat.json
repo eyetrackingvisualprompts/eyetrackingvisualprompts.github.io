@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal band near the top with some spread but mostly confined to a code-like region, similar to the WRITE example and less dense/narrow than READ or INTERPRET; pattern suggests focused code editing rather than broad browsing or watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated cluster with relatively small vertical variation and sequential left-right movements, matching the scanpath pattern of reading text lines more than the more dispersed or central patterns seen in browse, search, play, or watch examples.",
+  "correct": false
+}

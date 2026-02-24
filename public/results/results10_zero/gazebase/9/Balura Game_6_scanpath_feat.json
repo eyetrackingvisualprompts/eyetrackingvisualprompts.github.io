@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixation positions are sparse, widely separated, and distributed across both horizontal and vertical extents of the screen without forming text-like lines, a central cluster, or game-/video-like dense regions, matching a target that jumps randomly to discrete locations held about 1 s each.",
+  "correct": false
+}

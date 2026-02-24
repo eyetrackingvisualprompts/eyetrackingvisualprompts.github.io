@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is relatively stable around mid\u2010screen with occasional short horizontal saccades and small vertical drift, closely matching the WRITE example pattern and differing from the stronger line-by-line shifts of READ or the larger exploratory movements of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

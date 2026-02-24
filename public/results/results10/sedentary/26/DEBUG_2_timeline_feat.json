@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze positions are centered with low-amplitude, slow, and relatively uniform scan patterns similar to the INTERPRET example, suggesting focused inspection of a compact code snippet rather than wide exploration or reading long text.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow vertical region on the left side with repeated back-and-forth movements, closely matching the DEBUG example and typical focused inspection of code around error locations, unlike the more confined WRITE or more dispersed INTERPRET patterns.",
+  "correct": true
+}

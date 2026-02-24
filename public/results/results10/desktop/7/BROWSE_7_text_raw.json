@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze patterns show medium-scale vertical and horizontal shifts around central and upper-middle regions with repeated short fixations and occasional jumps, closely resembling the exploratory scrolling and scanning behavior in the BROWSE example rather than the more line-structured READ patterns or the more peripheral/high-variance PLAY and WATCH behaviors.",
+  "correct": true
+}

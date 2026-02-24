@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered around mid-screen with small horizontal shifts and long, stable fixations, matching the line-by-line, localized pattern of reading rather than the larger, more exploratory movements seen in search or browsing or the more dispersed dynamics of play/watch.",
+  "correct": false
+}

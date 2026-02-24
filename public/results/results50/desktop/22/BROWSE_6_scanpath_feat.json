@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered near screen center with moderate dispersion both vertically and horizontally, showing multiple focal regions and transitions similar to scanning search results and related pages, closely matching the SEARCH example pattern.",
+  "correct": false
+}

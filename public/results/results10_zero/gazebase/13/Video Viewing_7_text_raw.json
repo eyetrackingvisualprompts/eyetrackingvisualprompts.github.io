@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show long periods of relatively stable gaze around discrete positions, punctuated by large, rapid jumps of several degrees in varying directions and amplitudes (both horizontal and vertical), consistent with following a randomly moving target that steps to new locations about once per second, rather than strictly horizontal motion, continuous exploration, or sustained central fixation.",
+  "correct": false
+}

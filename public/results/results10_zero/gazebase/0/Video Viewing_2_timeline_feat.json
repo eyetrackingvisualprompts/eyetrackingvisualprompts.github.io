@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like fixations at multiple, irregularly spaced horizontal and vertical locations, with varying amplitudes and no consistent left-right pattern, matching the behavior of following a target that jumps to random positions across the screen rather than purely horizontal motion, continuous reading sweeps, video viewing, or central fixation.",
+  "correct": false
+}

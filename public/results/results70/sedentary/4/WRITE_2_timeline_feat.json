@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated near the code-area mid-screen with relatively small, stable horizontal and vertical ranges, punctuated by occasional clustered saccades\u2014closely matching the INTERPRET example pattern and showing less spread and scanning than SEARCH/BROWSE or WATCH, and fewer large shifts than DEBUG/WRITE.",
+  "correct": false
+}

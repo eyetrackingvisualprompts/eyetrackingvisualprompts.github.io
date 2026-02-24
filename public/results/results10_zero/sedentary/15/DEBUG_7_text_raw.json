@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze points progress in relatively ordered horizontal bands with small regressions and vertical shifts consistent with moving between lines of text, without the large cross-screen jumps or object-tracking seen in PLAY/WATCH or the scattered, multi-region exploration typical of BROWSE/SEARCH/DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

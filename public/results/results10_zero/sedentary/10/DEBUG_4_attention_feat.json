@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a few small regions with minimal horizontal scanning or line-by-line progression, indicating attention to localized visual elements rather than reading or code-related tasks, which is most consistent with watching a video scene.",
+  "correct": false
+}

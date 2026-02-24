@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are clustered at two horizontally separated locations with very similar vertical position and no other scattered points, consistent with tracking a target moving horizontally between two positions rather than free viewing, reading, or random multi-directional movements.",
+  "correct": true
+}

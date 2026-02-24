@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The target data shows predominantly horizontal X fixations with periodic rightward progress and small downward Y shifts, forming a staircase-like pattern characteristic of line-by-line reading, closely matching the READ example plot.",
+  "correct": false
+}

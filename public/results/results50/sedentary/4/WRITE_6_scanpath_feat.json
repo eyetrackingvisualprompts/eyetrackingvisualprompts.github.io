@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is highly concentrated on a narrow left-side region (typical IDE/code area) with occasional long saccades to the right (likely to run/console or other UI elements), matching coding/writing behavior more than reading or browsing patterns.",
+  "correct": true
+}

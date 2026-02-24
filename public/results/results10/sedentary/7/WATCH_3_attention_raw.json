@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band across the upper-middle screen with smooth left-right progression and limited vertical movement, matching the typical line-by-line reading pattern seen in the READ example heatmap more than the other task types.",
+  "correct": false
+}

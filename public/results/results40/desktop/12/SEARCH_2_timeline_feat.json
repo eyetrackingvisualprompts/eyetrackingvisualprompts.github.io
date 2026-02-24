@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows mid-screen horizontal scanning with moderate vertical shifts and frequent saccades, switching between upper and middle areas\u2014consistent with alternating between search results and linked pages, matching the SEARCH pattern more than the more stable READ or top/bottom-split WATCH/WRITE layouts.",
+  "correct": true
+}

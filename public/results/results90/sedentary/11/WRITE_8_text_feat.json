@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent back-and-forth saccades between a compact central code-like area (~x=250\u2013600,y\u2248350\u2013500) and far peripheral regions (x>1500, near top and middle), with many local re-inspections and short fixations, closely matches the intensive, iterative scanning and verification pattern seen in the DEBUG examples rather than the more linear (READ) or broadly exploratory (BROWSE/SEARCH/WATCH/PLAY) behaviors.",
+  "correct": false
+}

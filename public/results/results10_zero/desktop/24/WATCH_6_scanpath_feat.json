@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a small region with clustered fixations and short saccades, indicating attention to a localized, relatively static area on the screen rather than systematic line-by-line scanning (READ/WRITE) or wide exploratory movements (BROWSE/SEARCH/PLAY). This focused yet stable pattern is most consistent with watching a video segment where key content is concentrated in one area.",
+  "correct": true
+}

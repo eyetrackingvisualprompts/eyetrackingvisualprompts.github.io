@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, tight cluster of fixations in one small area, indicating the gaze is mostly stationary on a specific on-screen region without reading-like horizontal/vertical scanning or exploratory movements typical of browsing, searching, or gaming. This stable focus pattern over a 10s window is most consistent with passively watching video content where attention remains on a central/localized area of interest.",
+  "correct": false
+}

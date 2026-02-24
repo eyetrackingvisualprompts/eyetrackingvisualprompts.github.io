@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between high and low vertical regions with large, rapid transitions early on and more stable horizontal scanning later, matching the mixed top-results-and-page-content viewing typical of search engine use rather than the steadier reading/debugging or more erratic gaming patterns.",
+  "correct": false
+}

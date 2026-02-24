@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a compact cluster near the screen center with limited vertical spread and no clear horizontal scanning pattern, matching the browsing example heatmap more than the reading- or writing-like horizontal bands or the more dispersed search/watch/play patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is heavily concentrated on a compact region in the upper-left where code would be written, with a few checks to the right side (likely console or other panels), closely matching the WRITE example more than the other tasks.",
+  "correct": false
+}

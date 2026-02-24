@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around a central vertical region with moderate vertical spread and irregular saccades, resembling the mixed navigation and content scanning pattern seen in the BROWSE example more than the more linear READ/WRITE or top-focused WATCH patterns.",
+  "correct": false
+}

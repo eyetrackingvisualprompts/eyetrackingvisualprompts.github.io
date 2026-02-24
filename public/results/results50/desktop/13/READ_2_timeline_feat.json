@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions are centered with moderate horizontal movement and relatively stable vertical position, showing frequent small saccades without strong systematic left-to-right line sweeps or large multidirectional shifts, which best matches the browsing pattern rather than the more structured reading or more dynamic search/play/watch tasks.",
+  "correct": false
+}

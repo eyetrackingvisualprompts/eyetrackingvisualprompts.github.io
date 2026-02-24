@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze moves among several mid-screen regions with repeated short fixations and moderate vertical shifts, characteristic of scanning mixed web content (headlines, sections, side elements) rather than the more linear patterns of READ or the more extreme/reactive movements typical of PLAY, SEARCH, or WATCH. The spatial-temporal pattern aligns best with the BROWSE example data.",
+  "correct": false
+}

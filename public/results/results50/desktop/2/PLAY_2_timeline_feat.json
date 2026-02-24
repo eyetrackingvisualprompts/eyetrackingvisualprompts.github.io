@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations cluster near the screen center with small, irregular shifts and frequent short saccades in all directions, resembling the mixed, less-structured scanning seen in the BROWSE example rather than the more systematic patterns of reading, writing, searching, watching, or playing.",
+  "correct": false
+}

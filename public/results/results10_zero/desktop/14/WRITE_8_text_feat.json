@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, stable fixations (up to ~3 s) with small, localized saccades within a tight region of the screen, consistent with focusing on a small text area such as a line or paragraph, rather than the broader, more exploratory movements typical of SEARCH, BROWSE, or PLAY or the larger shifts and motion-tracking seen in WATCH; WRITE usually has more shifts between text and cursor/toolbar, which are not evident here.",
+  "correct": false
+}

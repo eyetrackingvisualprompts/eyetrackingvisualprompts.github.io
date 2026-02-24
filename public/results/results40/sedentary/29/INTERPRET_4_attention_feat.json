@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over a small left-side code region with minimal spread, similar to INTERPRET\u2019s focused pattern and distinct from the broader distribution seen in WRITE or DEBUG.",
+  "correct": true
+}

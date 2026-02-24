@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-level horizontal movement with frequent vertical shifts between mid and upper screen regions and intermittent larger saccades, resembling scanning between query box, results list, and page content typical of web searching rather than the more centered WATCH, line-structured READ/WRITE, or highly dynamic PLAY patterns.",
+  "correct": false
+}

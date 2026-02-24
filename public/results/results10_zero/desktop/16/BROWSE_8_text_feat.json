@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows medium-length fixations (mostly 0.2\u20131.0s) clustered in a central band with small, local saccades and occasional short vertical shifts, consistent with sustained attention to static text. There is no strong pattern of large exploratory or multi-directional movements typical of PLAY, BROWSE, or SEARCH, nor the more dispersed scanning of WATCH; instead the pattern matches reading lines or paragraphs on a page.",
+  "correct": false
+}

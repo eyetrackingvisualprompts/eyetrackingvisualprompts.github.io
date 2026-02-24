@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows extensive horizontal scanning across wide screen regions (especially at consistent vertical positions), frequent long saccades between far-apart coordinates, and revisits to header-like and mid-page bands\u2014patterns closely matching the browsing example and less consistent with the denser, more localized code-focused patterns of WRITE/DEBUG/INTERPRET or the continuous central focus typical of WATCH/PLAY/READ.",
+  "correct": false
+}

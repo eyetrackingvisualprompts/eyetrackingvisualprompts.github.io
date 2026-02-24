@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Very long saccades with extended durations (several seconds) between dispersed screen regions, interleaved with short fixations over code-like areas, resemble the erratic, back-and-forth navigation and pauses seen in the WRITE examples rather than the more regular line-wise patterns of READ/SEARCH or the object-following patterns of PLAY/WATCH. The trajectory includes jumps between top, middle, and lower parts of the screen consistent with editing and checking code segments while implementing a function.",
+  "correct": false
+}

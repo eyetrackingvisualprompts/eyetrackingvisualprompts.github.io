@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, rapid gaze shifts covering a broad area of the screen with curved trajectories and repeated returns to certain spots, resembling the dynamic, target-driven search and refixations seen in the Balura Game example rather than the more structured or constrained patterns of the other tasks.",
+  "correct": false
+}

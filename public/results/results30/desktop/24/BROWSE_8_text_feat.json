@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, large saccades across wide vertical and horizontal extents (from upper/lower screen to center and corners) with relatively short-to-moderate fixations and repeated returns to a mid-left region. This dynamic, multidirectional scanning with rapid relocations matches the PLAY examples more than the more line-structured READ/WRITE patterns or the more central, less erratic WATCH behavior.",
+  "correct": false
+}

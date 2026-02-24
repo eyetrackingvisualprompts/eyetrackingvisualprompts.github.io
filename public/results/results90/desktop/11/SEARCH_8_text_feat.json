@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with many medium-duration fixations and short intra-line saccades plus occasional vertical shifts, matching line-by-line text reading more than the larger, multidirectional movements seen in browse, search, play, or watch, and lacking the upper-screen clusters typical of write (text box + toolbar).",
+  "correct": false
+}

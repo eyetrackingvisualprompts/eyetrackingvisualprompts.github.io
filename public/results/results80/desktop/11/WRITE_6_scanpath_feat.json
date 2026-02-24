@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a moderately dispersed cluster around the central-upper screen with several vertical transitions toward lower regions, matching the mixed reading-and-interface navigation pattern seen in the SEARCH example more than the tighter READ cluster or the more scattered BROWSE pattern.",
+  "correct": false
+}

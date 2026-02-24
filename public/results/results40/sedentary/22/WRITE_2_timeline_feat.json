@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movements with larger, irregular vertical shifts between distinct vertical regions and intermittent scanning, resembling transitions between search results and target pages rather than the more linear patterns of READ/BROWSE or the tighter code-focused patterns of programming tasks.",
+  "correct": false
+}

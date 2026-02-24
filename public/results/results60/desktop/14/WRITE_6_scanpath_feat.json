@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small region with minimal horizontal scanning or line-by-line movement, unlike reading or writing. This stable fixation pattern centered in one area matches watching a video where the main content is localized on the screen.",
+  "correct": false
+}

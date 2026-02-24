@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a narrow left-side vertical code area with occasional horizontal shifts to a single line region, matching focused inspection of a short code snippet for output prediction rather than broader navigation seen in debugging, writing, or browsing.",
+  "correct": false
+}

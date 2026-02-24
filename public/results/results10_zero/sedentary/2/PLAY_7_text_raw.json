@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent, rapid shifts over a relatively confined central region with repeated back-and-forth tracking and vertical oscillations, characteristic of following moving objects (e.g., ball, enemies, or avatar) rather than line-by-line reading or code inspection. The dynamic, continuous movement pattern aligns best with gameplay among the listed activities.",
+  "correct": true
+}

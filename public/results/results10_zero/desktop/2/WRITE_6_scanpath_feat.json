@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain within a small horizontal band around a fixed vertical position, indicating sustained attention to a compact region (likely video center) with minimal vertical scanning or line-by-line shifts typical for reading, browsing, or writing; movement is also too constrained for exploratory search or gameplay, fitting passive video watching best.",
+  "correct": false
+}

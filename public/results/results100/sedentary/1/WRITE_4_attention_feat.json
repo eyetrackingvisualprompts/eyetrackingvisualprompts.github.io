@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are strongly concentrated on a compact region of the upper-left code area with limited vertical spread, closely matching the INTERPRET example pattern where participants focus on a short function snippet to understand its output, rather than the wider, more vertically distributed patterns seen in DEBUG or other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent screen-spanning saccades between disparate regions (corners, center, edges) with relatively few tight horizontal scanlines or code-like clusters, matching dynamic visual tracking of changing scenes typical of WATCH rather than the more structured, text- or code-oriented patterns of READ/WRITE/DEBUG/INTERPRET or the search-result and webpage patterns of SEARCH/BROWSE. The movements also lack the object-following trajectories characteristic of PLAY games like Pong or Mario and instead resemble general scene exploration in video viewing.",
+  "correct": true
+}

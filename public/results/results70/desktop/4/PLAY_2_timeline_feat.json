@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations stay in a relatively narrow horizontal band in X that slowly drifts rightward over time, while Y fixations are confined to the lower half of the screen with small vertical shifts\u2014matching the stable, bottom-area focus and gradual line progression typical of typing in a word processor rather than the broader scanning seen in browsing, searching, or playing.",
+  "correct": false
+}

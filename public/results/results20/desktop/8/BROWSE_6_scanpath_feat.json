@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around a central region but show frequent medium-length saccades in multiple directions and across a moderate vertical span, resembling scanning of search results and page elements rather than the more linear horizontal pattern of reading or the localized fixations of writing/browsing.",
+  "correct": false
+}

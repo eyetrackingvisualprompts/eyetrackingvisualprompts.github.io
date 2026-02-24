@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small region with minimal saccades and almost no horizontal reading pattern, indicating prolonged fixation on a single localized area\u2014most consistent with passively watching a video rather than scanning text or interactive elements.",
+  "correct": false
+}

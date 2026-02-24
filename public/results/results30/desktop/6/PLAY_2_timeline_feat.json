@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations show a relatively stable horizontal position around mid\u2011screen X with low Y values concentrated near the bottom region, matching the pattern of looking at a single text line while writing, similar to the WRITE example and distinct from the broader vertical ranges in READ/SEARCH/BROWSE.",
+  "correct": false
+}

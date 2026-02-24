@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and off-center areas), many revisits between dispersed locations, and irregular fixation pattern without clear line-by-line or code-structured scanning match the dynamic gaze behavior seen in the PLAY examples rather than the more structured patterns of reading, coding, or web browsing.",
+  "correct": false
+}

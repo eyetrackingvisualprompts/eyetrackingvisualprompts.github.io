@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay near screen center with moderate, irregular saccades in both axes and relatively small systematic horizontal sweeps, matching the browsing example pattern more than the more structured scanpaths of READ or the stronger vertical dynamics of SEARCH or WATCH.",
+  "correct": false
+}

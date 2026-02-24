@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Wide spatial coverage with frequent long saccades between disparate regions (center, top, bottom, corners), many mid-duration fixations around a loose band (y\u2248500\u2013700) and corners, and repeated returns to similar mid-screen coordinates resemble continuous tracking of dynamic game elements rather than structured reading, code-focused tasks, or passive video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps between distant screen regions (top, bottom, corners), revisits to header-like horizontal bands, and irregular scanpaths resemble free-form webpage navigation more than structured code reading/writing or continuous video/game following.",
+  "correct": false
+}

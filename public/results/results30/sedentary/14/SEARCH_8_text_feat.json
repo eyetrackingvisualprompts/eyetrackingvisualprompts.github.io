@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large vertical transitions between upper content and lower page regions, frequent long saccades including off-screen/negative coordinates, and revisits between widely separated areas match the exploratory, scrolling, and page-jumping behavior characteristic of web browsing rather than the more line-structured patterns of READ/WRITE/INTERPRET or the localized focus of DEBUG/PLAY/WATCH/SEARCH.",
+  "correct": false
+}

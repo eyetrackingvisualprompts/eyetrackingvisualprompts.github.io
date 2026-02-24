@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Horizontal X fixations with occasional larger jumps and moderate vertical shifts resemble scanning search results and brief page visits, matching the SEARCH example pattern more closely than the steadier READ/WRITE or more dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete step-like changes in both horizontal and vertical positions, with the eye holding each position for about one second before jumping to a new, variably spaced location across the screen. This pattern of multi-directional, irregular amplitude saccades to different fixation points matches the Random Saccades task rather than purely horizontal motion, stable fixation, or natural viewing/reading behavior.",
+  "correct": true
+}

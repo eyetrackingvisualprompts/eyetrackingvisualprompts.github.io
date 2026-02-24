@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Reading",
+  "reason": "The gaze shows predominantly monotonic, step-like changes in horizontal position with relatively small vertical drift and occasional larger vertical shifts, matching the line-by-line, left-to-right scan pattern and return sweeps characteristic of reading rather than the more symmetric or random movements in the other tasks.",
+  "correct": false
+}

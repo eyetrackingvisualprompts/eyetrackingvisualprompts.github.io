@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points move rapidly and broadly across both horizontal and vertical axes, including frequent jumps to screen edges and corners with irregular, dynamic trajectories typical of tracking moving objects or navigating in a game, rather than the more structured line-based patterns of reading/searching or the code-centered clusters of programming tasks.",
+  "correct": false
+}

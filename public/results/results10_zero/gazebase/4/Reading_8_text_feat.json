@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze moves almost exclusively along a narrow horizontal band (y from about -8 to -15 degrees) with repeated left\u2013right sweeps over large horizontal extents, consistent with tracking a target moving horizontally rather than the multi-line, staircase pattern of reading or the 2D, irregular movements of random saccades, video, or the game.",
+  "correct": false
+}

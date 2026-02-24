@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a small central region with minimal horizontal progression or large saccades, indicating sustained fixation on a compact code snippet or small text block rather than scanning lines or multiple elements, which matches the INTERPRET pattern best among the examples.",
+  "correct": false
+}

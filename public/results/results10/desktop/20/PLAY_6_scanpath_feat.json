@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered near the screen center with short, multidirectional saccades and moderate dispersion, closely matching the example BROWSE scanpath and suggesting scanning of mixed web/news content rather than structured reading, writing, or game-like movements.",
+  "correct": false
+}

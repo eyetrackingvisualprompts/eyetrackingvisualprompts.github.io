@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a compact region on the left-central area, similar to INTERPRET\u2019s example and less vertically extended than DEBUG, indicating focused inspection of a small code snippet rather than scanning broader content.",
+  "correct": true
+}

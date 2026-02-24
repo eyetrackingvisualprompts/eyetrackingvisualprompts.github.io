@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves predominantly in structured, left-to-right horizontal sweeps with small vertical shifts, forming tight clusters in bands\u2014typical of line-by-line text reading. There are frequent medium-length fixations and occasional returns to earlier horizontal positions, matching reading patterns better than the more dispersed, vertical or peripheral movements seen in search, browsing, games, or video watching.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a narrow, continuous band of fixations progressing horizontally across the screen with small vertical shifts, characteristic of line-by-line reading rather than the more scattered or centrally clustered patterns expected in search, browsing, video watching, writing, or gaming.",
+  "correct": true
+}

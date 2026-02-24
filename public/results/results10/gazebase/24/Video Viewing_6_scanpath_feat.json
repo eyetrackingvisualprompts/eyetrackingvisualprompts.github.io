@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze positions cluster within a relatively small region with short, irregular saccades and no clear horizontal line structure (horizontal saccades) or row-like reading pattern. The pattern matches natural, localized exploration typical of free video viewing rather than task-driven random jumps or static fixation.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple distinct regions with medium-to-large saccades between them, including some vertical transitions and revisits, resembling mixed reading and result-page navigation typical of search behavior rather than the more localized patterns of READ or BROWSE or the directional motion of PLAY/WATCH.",
+  "correct": false
+}

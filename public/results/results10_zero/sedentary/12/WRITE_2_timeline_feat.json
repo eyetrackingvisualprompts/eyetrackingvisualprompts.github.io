@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows very small, slow drifts in both X and Y without clear systematic horizontal scans, regressions, or large task-directed saccades. This stable, low-amplitude pattern is more consistent with passively watching a video than with text reading, code-related tasks, web search/browsing, or game play, all of which typically exhibit larger and more structured saccades.",
+  "correct": false
+}

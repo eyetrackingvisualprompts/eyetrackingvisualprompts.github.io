@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows widespread exploratory movements across both horizontal and vertical directions, with many medium-duration fixations distributed over multiple regions\u2014more dispersed than READ/WRITE and less clustered than BROWSE\u2014matching the exploratory, scrolling and result-inspecting behavior typical of web SEARCH tasks.",
+  "correct": false
+}

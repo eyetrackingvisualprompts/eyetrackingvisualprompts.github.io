@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent shifts between mid and upper screen regions with irregular horizontal and vertical saccades, indicating alternating attention between result lists, query box, and different clicked pages. This heterogeneous, exploratory pattern best matches the SEARCH example rather than the more structured patterns of READ/INTERPRET or the more dynamic WATCH/PLAY activities.",
+  "correct": false
+}

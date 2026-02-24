@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small central-upper region with minimal horizontal spread, indicating gaze anchored to a relatively static area (typical for watching a video focal region) rather than the broader horizontal/vertical scanning expected in reading, browsing, searching, writing, or playing games.",
+  "correct": false
+}

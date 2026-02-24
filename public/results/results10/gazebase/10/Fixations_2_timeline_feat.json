@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain essentially constant near screen center for the full 10 seconds with minimal saccadic movement, matching the sustained central fixation pattern of the Fixations task.",
+  "correct": true
+}

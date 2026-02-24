@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze remains mostly within a constrained central region with moderate horizontal movement and small vertical adjustments, plus occasional larger saccades\u2014matching focused code inspection and back-and-forth checking typical of debugging rather than the more linear scan of READ/BROWSE or dynamic shifts of PLAY/WATCH.",
+  "correct": false
+}

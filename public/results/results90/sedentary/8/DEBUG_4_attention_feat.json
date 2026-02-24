@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a left-side block (code area) with additional sparse fixations toward the lower-right (likely console/output), matching the DEBUG pattern more than the tightly focused INTERPRET or dual-cluster WRITE examples.",
+  "correct": true
+}

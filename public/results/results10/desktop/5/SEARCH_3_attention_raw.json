@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze distribution is concentrated around the central area with scattered fixations extending vertically and slightly horizontally, resembling dynamic tracking of a game character more than the tighter, text-line patterns of READ/BROWSE/SEARCH or the localized clusters of WRITE/WATCH.",
+  "correct": false
+}

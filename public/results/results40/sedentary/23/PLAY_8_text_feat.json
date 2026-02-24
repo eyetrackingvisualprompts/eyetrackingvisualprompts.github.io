@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a tight horizontal band with small regressions and long dwell times around consistent y-levels, matching line-by-line reading behavior rather than the larger spatial jumps and broader exploration seen in browsing, search, coding, or video/game tasks.",
+  "correct": false
+}

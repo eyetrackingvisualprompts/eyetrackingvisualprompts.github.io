@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates regularly between two extreme horizontal positions around \u00b115 DVA with approximately 1-second stable fixations at each side, while vertical position remains near constant around 0 DVA. This matches the structured left-right tracking pattern of the Horizontal Saccades task.",
+  "correct": true
+}

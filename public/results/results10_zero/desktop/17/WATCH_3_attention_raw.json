@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered around a small central-horizontal region with limited vertical spread, suggesting sustained fixations on a localized text area rather than wide exploratory movements typical of browsing, searching, gaming, or watching video; this pattern is most consistent with focused reading of a specific portion of text.",
+  "correct": false
+}

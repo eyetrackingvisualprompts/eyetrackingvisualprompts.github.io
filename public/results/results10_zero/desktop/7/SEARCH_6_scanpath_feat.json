@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form two horizontally oriented clusters at mid-to-upper screen with short, left-to-right saccades and minor regressions, consistent with reading lines of text rather than wide exploratory movements typical of search, browsing, or gameplay.",
+  "correct": false
+}

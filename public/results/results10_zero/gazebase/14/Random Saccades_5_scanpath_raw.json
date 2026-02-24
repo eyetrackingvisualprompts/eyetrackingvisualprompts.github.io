@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, discrete jumps to scattered positions across the screen with roughly one-second dwells at each location and no clear horizontal-only pattern or organized reading/grid structure, matching a pursuit of a randomly moving target rather than horizontal tracking, reading, or free viewing.",
+  "correct": true
+}

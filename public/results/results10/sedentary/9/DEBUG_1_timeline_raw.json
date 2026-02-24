@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze stays mostly in a narrow central-horizontal band with small, frequent fixational shifts and occasional brief vertical excursions, closely matching the INTERPRET example pattern of focused code inspection without large block-to-block jumps typical of debugging or web navigation.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely dispersed across the screen with large saccades in multiple directions and several distinct clusters, indicating dynamic, multi-directional visual exploration typical of tracking game elements rather than the more localized or structured patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a horizontally elongated region with small vertical range and sequential progression, matching the stable line-by-line scanning typical of reading rather than the broader, more scattered or dynamic patterns seen in the other activities.",
+  "correct": false
+}

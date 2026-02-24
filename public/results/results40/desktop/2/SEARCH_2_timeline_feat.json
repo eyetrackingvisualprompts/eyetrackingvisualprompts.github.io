@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixation positions for both X and Y remain around the screen center with small, frequent saccades and slight gradual drift, matching the dispersed yet locally constrained pattern seen in the BROWSE example rather than the more structured line patterns of reading/writing or the larger excursions of search, watch, or play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a compact left-side code area with occasional saccades to a right-side region, closely matching the DEBUG example where attention alternates between code and a separate output/console area rather than the more diffuse or reading-like patterns of other tasks.",
+  "correct": false
+}

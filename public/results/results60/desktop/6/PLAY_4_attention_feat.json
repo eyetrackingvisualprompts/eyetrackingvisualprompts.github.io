@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central upper-middle region with a compact area and slight horizontal spread, closely matching the BROWSE example pattern and differing from the more linear READ or more dispersed PLAY/SEARCH distributions.",
+  "correct": false
+}

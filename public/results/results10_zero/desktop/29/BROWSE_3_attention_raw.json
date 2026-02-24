@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly centralized with two closely stacked fixation clusters near screen center, suggesting sustained attention to a small central region typical of watching a video (e.g., actors\u2019 faces/subtitle area) rather than the distributed horizontal/vertical scanpaths seen in reading, browsing, searching, writing, or gaming.",
+  "correct": false
+}

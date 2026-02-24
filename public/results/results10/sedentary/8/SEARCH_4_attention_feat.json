@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in the upper-left region with minimal spread, closely matching the focused code-area pattern seen in the INTERPRET example rather than the more dispersed or multi-region patterns of other tasks.",
+  "correct": false
+}

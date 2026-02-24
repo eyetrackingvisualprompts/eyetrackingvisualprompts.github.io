@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze stays within a relatively narrow central-upper region with several long fixations (one over 3 seconds) interleaved with moderate saccades, resembling reading and brief scanning around a few nearby elements\u2014this pattern is closest to the SEARCH example, which shows similar upper-screen, semi-stationary inspection of search results rather than the more strictly horizontal reading of READ or the more dispersed movements in BROWSE and WATCH.",
+  "correct": true
+}

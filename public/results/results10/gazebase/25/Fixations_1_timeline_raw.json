@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "After an initial transient, both X and Y positions remain near the center with only small noise and no systematic saccadic jumps, matching the sustained central gaze pattern of the Fixations task.",
+  "correct": true
+}

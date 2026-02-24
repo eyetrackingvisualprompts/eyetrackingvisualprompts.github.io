@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions, many fixations around mid\u2011field vertical positions, and repeated returns between dispersed clusters suggest tracking dynamic game elements rather than line-wise reading or code inspection, matching the PLAY patterns in the examples.",
+  "correct": true
+}

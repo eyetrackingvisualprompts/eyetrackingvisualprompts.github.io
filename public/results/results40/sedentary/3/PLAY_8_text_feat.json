@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a few horizontal bands with progressive, line-like left-right movements and long fixations (0.5\u20132s) typical of reading, without the large spatial jumps and scattered scanning seen in SEARCH/BROWSE or the central, stimulus-driven shifts of WATCH/PLAY.",
+  "correct": false
+}

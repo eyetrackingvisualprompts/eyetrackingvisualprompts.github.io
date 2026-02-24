@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered around a narrow vertical band with many re-fixations and back\u2011and\u2011forth adjustments on nearly the same lines, plus occasional larger jumps to other regions\u2014this matches code-inspection behavior (as in INTERPRET/DEBUG) rather than horizontal reading (READ) or wide visual exploration (BROWSE/SEARCH/WATCH/PLAY). The absence of frequent large context switches and the strong local, line-level scrutiny align best with INTERPRET examples.",
+  "correct": true
+}

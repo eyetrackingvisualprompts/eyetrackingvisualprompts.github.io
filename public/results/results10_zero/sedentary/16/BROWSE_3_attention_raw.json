@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows concentrated fixations in a relatively narrow horizontal band around the middle-left of the screen, with little spread elsewhere, consistent with focused inspection of a short code snippet rather than extensive scrolling or dynamic stimuli; this pattern best matches the INTERPRET task where participants study a small code segment to predict its output.",
+  "correct": false
+}

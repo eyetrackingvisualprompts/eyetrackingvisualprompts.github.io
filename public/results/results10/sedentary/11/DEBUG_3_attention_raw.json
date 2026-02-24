@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in two vertical regions on the left side (upper-left and mid-lower left), matching the pattern of switching between code area and console/output typical for debugging, and closely resemble the DEBUG example heatmap.",
+  "correct": true
+}

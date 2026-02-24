@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two tightly clustered fixation regions at symmetric left and right horizontal positions near the same vertical level, indicating repeated large-amplitude horizontal shifts between two static points, characteristic of following a horizontally moving target rather than random or central-only fixation patterns.",
+  "correct": true
+}

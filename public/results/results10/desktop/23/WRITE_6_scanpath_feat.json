@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are tightly clustered in a small central region with short, frequent saccades and minimal horizontal or vertical scanning, matching the focused localized attention pattern seen in the PLAY example rather than the broader scanpaths of BROWSE, READ, or SEARCH.",
+  "correct": false
+}

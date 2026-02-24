@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large vertical shifts between upper and lower regions with intermittent horizontal exploration, resembling scanning search results and pages. This matches the SEARCH pattern more than the steadier READ/WRITE or more dynamic PLAY/WATCH behaviors.",
+  "correct": true
+}

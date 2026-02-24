@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact region with dense, short movements and many small regressions, resembling focused interaction around a text cursor area as in the WRITE example rather than the more linear (READ) or widely dispersed (SEARCH/BROWSE/PLAY/WATCH) patterns.",
+  "correct": false
+}

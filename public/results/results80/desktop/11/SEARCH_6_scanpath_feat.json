@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered around the center with moderate dispersion and frequent shifts, resembling the SEARCH example more than the more compact BROWSE cluster or the horizontally extended READ pattern.",
+  "correct": true
+}

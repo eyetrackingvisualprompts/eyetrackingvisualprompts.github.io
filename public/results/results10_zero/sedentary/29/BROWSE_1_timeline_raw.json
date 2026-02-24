@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain in a relatively narrow horizontal band with slow drifts and few large saccades, indicating stable, continuous viewing of a central area on the screen, consistent with watching a video rather than reading, coding, or interactive tasks that show more frequent and structured eye movements.",
+  "correct": false
+}

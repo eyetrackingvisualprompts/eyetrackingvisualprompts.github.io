@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a compact region in the upper-left coding/IDE area with repeated revisits and short saccades, plus a few occasional long checks elsewhere\u2014closely matching the INTERPRET example pattern of focused inspection of a single code snippet rather than the broader spread seen in DEBUG or SEARCH.",
+  "correct": false
+}

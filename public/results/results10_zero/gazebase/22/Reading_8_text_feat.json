@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Sequences of short (~200\u2013300 ms) fixations linked by mostly small, progressive horizontal saccades along near-constant vertical positions (line-like y-values), with occasional larger return sweeps to a different vertical band, match typical line-by-line reading patterns rather than strict target-following or central fixation tasks.",
+  "correct": true
+}

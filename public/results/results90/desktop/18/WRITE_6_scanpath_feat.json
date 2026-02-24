@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are tightly clustered in a small lower-central region with minimal horizontal scanning or line-by-line movement, suggesting sustained fixation on a localized area such as a video frame rather than text reading, web search/browsing, or game play, which show broader and more dynamic scanpaths.",
+  "correct": false
+}

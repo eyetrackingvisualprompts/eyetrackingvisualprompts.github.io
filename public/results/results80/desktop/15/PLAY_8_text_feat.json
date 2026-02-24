@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a horizontal band in the upper-middle of the screen (y\u22480.25\u20130.45) with many medium-length fixations and short horizontal/diagonal saccades, including repeated small shifts along similar y-levels. This pattern matches line-by-line reading behavior more than the larger vertical and peripheral movements seen in search, browse, or watch, and lacks the broader spatial exploration typical of play or write tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a relatively small central-left region with repeated local scanning and several long downward sweeps, closely matching the INTERPRET example pattern where participants inspect a code snippet and mentally trace execution, rather than the more dispersed exploration of SEARCH/BROWSE or structured horizontal lines of READ/WRITE/DEBUG.",
+  "correct": false
+}

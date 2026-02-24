@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations progress steadily with a slow, monotonic increase in X and very small, almost constant Y, indicating repeated horizontal scans along similar vertical lines, matching the reading pattern seen in the READ example more than other task types.",
+  "correct": true
+}

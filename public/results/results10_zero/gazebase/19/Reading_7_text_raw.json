@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze moves primarily along the horizontal axis between left and right positions (roughly \u00b115\u201317 degrees) with brief, relatively stable clusters at each position, consistent with following a horizontally oscillating target rather than reading or complex, multi-directional exploration.",
+  "correct": false
+}

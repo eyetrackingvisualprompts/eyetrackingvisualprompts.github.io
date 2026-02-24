@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, multidirectional jumps with gaze positions dispersed across both horizontal and vertical extents, similar to the Random Saccades example and unlike the more constrained patterns of reading, horizontal saccades, or central fixations.",
+  "correct": true
+}

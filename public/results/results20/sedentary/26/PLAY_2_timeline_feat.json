@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The target data shows frequent, wide-ranging saccades in both X and Y directions with varied fixation positions across the screen, resembling dynamic scene viewing. This spatiotemporal pattern is most similar to the WATCH example and less consistent with the more structured, line-based or code-focused patterns seen in READ, WRITE, DEBUG, SEARCH, BROWSE, PLAY, or INTERPRET.",
+  "correct": false
+}

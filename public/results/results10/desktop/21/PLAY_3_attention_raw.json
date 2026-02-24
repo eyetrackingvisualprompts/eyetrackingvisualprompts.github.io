@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern forms a mostly horizontal band of fixations across mid\u2013upper screen positions, similar to text line scanning in the READ example and unlike the more central clusters of BROWSE or scattered movements of PLAY/SEARCH/WATCH.",
+  "correct": false
+}

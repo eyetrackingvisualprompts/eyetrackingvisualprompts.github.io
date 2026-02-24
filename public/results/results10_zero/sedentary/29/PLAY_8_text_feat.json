@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "The pattern shows repeated returns to a few nearby code-like locations with medium-to-long fixations (0.3\u20132.0s) and frequent short saccades among them, consistent with mentally simulating or reasoning about a compact code snippet rather than continuous reading, free browsing, watching video, or visually tracking moving objects as in games. This focused, back-and-forth inspection over a relatively small area best matches the INTERPRET (predict code output) task.",
+  "correct": false
+}

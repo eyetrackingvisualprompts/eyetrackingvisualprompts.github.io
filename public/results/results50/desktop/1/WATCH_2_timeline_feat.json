@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower half of the screen with relatively small horizontal range and stable fixations, consistent with focusing on a central writing area (text cursor and nearby words) rather than scanning lines of text (READ) or exploring varied page regions (SEARCH/BROWSE).",
+  "correct": false
+}

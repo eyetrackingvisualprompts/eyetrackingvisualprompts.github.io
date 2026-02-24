@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered in a narrow horizontal band around mid-screen with slow, small horizontal shifts and long stable fixations, characteristic of line-by-line reading rather than the larger multidirectional saccades typical of PLAY, SEARCH, or BROWSE, or the more dispersed patterns of WATCH and WRITE.",
+  "correct": true
+}

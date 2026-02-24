@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze trajectory is highly dispersed across the screen with rapid, multidirectional saccades and no clear horizontal reading lines or focal text/code area, closely matching the exploratory, wide-range scanpath pattern seen in the PLAY examples during game interaction.",
+  "correct": false
+}

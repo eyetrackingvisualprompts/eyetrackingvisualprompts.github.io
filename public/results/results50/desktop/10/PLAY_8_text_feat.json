@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow horizontal band with small, systematic shifts and medium-length fixations, characteristic of line-by-line inspection of a text region rather than wide exploratory movements seen in browsing/search or dynamic tracking seen in watch/play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed over a relatively large central area with frequent shifts between regions and varied fixation durations, resembling the more scattered, multi-region exploration seen in the SEARCH example rather than the tighter, more linear patterns of READ or WRITE, or the broader screen coverage of PLAY/WATCH.",
+  "correct": false
+}

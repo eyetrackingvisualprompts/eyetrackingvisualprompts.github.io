@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen horizontal fixations with frequent irregular saccades in both axes and variable vertical positions, resembling exploratory navigation over diverse web search results rather than the more structured left-to-right patterns of reading, the stable zones of writing, or the broader vertical ranges of watching/playing. This pattern best matches the SEARCH example.",
+  "correct": false
+}

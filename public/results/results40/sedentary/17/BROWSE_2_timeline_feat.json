@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal sweeps with moderate vertical shifts and intermittent larger saccades, indicating scanning lists and result snippets across multiple regions, which best matches the search-engine viewing pattern seen in the SEARCH example.",
+  "correct": false
+}

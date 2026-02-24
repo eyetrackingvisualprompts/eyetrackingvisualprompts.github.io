@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with long, stable fixations and short, local saccades predominantly along the x-axis, matching the line-by-line scanning pattern of reading rather than the larger exploratory shifts seen in browsing/searching or the broader directional movements in playing or watching videos.",
+  "correct": false
+}

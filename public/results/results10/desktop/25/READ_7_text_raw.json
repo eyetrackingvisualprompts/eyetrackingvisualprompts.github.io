@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points stay in a compact central-upper region with many small fixational jitters and occasional short vertical shifts, closely matching the spatial distribution and micro-movements seen in the BROWSE example, while lacking the larger directional sweeps and broader vertical ranges characteristic of SEARCH or WATCH.",
+  "correct": false
+}

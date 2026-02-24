@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Predominantly central, relatively stable gaze with moderate horizontal movement and occasional bursts of larger saccades later in the window matches the WRITE pattern, where attention stays around the code editor with intermittent checks of other UI elements, and differs from the more scattered (BROWSE/PLAY) or strongly vertical (READ/SEARCH) patterns.",
+  "correct": false
+}

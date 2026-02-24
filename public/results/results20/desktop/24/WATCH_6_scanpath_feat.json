@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across multiple regions with frequent transitions between separated clusters, indicating scanning of different screen areas such as results lists, snippets, and query box, which matches the heterogeneous, exploratory pattern typical of SEARCH rather than the more linear READ or localized BROWSE behavior.",
+  "correct": false
+}

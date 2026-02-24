@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a compact, vertically extended region on the left side of the screen, consistent with focusing on a narrow column of text rather than scanning widely (as in SEARCH/BROWSE) or tracking moving objects (PLAY/WATCH). This concentrated, text-like pattern best matches the READ activity.",
+  "correct": false
+}

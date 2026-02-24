@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly left-to-right horizontal sweeps with relatively stable vertical position and slow downward drift, matching the pattern of continuous line-by-line reading seen in the READ example, unlike the more scattered or dynamic movements of browsing, search, or gameplay.",
+  "correct": true
+}

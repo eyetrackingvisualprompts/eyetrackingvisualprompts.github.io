@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively narrow, centered horizontal and vertical ranges with mostly stable fixations and occasional moderate saccades, matching focused inspection of a short code snippet as in INTERPRET rather than the broader scanning of SEARCH/BROWSE, dynamic shifts of WATCH/PLAY, or more extensive line-wise movements of READ/WRITE/DEBUG.",
+  "correct": true
+}

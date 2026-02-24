@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are tightly clustered in a small central region with limited horizontal spread and moderate vertical jitter, indicating sustained attention to a relatively static area\u2014consistent with tracking main characters in a video\u2014rather than the systematic horizontal sweeps of reading/writing or the broader exploratory patterns of search, browse, or play.",
+  "correct": false
+}

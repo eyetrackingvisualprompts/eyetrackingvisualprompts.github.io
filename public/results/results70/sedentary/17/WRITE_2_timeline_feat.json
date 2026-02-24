@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze shows repeated short horizontal sweeps with many small saccades around a central region, interspersed with brief vertical shifts\u2014consistent with alternating between code and nearby editor/UI elements, matching the WRITE example pattern more than other activities.",
+  "correct": true
+}

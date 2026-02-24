@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows X fixations concentrated in the lower region with gradual horizontal drift and Y fixations mostly high on the screen, resembling attention to a top UI area and a central writing area, matching the WRITE pattern more than the smoother reading or more scattered search/browse/play/watch behaviors.",
+  "correct": false
+}

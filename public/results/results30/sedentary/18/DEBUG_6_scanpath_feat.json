@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow code-like region on the left with frequent short vertical and horizontal shifts, plus occasional long saccades to the top/right (likely to run or inspect program output), matching the debugging pattern more than the other activities.",
+  "correct": true
+}

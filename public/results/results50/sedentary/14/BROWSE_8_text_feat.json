@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long vertical saccades between top URL/search-bar region and mid/lower page, repeated returns to similar text areas, and large jumps to off-center/high coordinates resemble scanning SERP snippets and result pages more than sustained line-by-line reading or code-focused tasks.",
+  "correct": false
+}

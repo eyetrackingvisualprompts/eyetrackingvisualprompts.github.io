@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze concentration is in a compact region around the central lower-middle area, similar to the BROWSE example\u2019s clustered fixations near the screen center, rather than the horizontal band of READ or the top-focused WATCH/WRITE/PLAY patterns. This pattern best matches browsing web content.",
+  "correct": false
+}

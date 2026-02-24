@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a central code-like area with frequent short saccades and medium-to-long fixations, repeatedly moving between a few nearby lines/regions rather than scanning full lines or large areas. There are occasional jumps to top/side regions (likely function header or input/output) and back, matching the localized, back-and-forth inspection pattern seen in the INTERPRET example, rather than the broader navigation of SEARCH/BROWSE, the highly dynamic PLAY/WATCH patterns, or the more extended line-by-line sweeps typical of READ/WRITE/DEBUG.",
+  "correct": false
+}

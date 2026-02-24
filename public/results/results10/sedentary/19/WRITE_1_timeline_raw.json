@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show very smooth, slowly drifting trajectories with minimal large saccades or regressions, indicating mostly passive following of on-screen motion rather than scanning text or interfaces; this pattern best matches the WATCH examples among the provided classes.",
+  "correct": false
+}

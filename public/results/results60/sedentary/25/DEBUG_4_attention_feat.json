@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated over a medium-sized left-side code area with several additional clusters and scattered checks nearby, resembling the more distributed, multi-point inspection seen in the DEBUG example rather than the tighter single-block focus of INTERPRET/WRITE or the broader spread of browsing or watching.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains within a relatively narrow horizontal band with short saccades and frequent medium-length fixations, forming a locally back-and-forth pattern consistent with line-based text reading rather than broad exploratory movements (BROWSE/SEARCH), dynamic object tracking (PLAY/WATCH), or focused code navigation and inspection (WRITE/INTERPRET/DEBUG).",
+  "correct": false
+}

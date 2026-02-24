@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated around the central area with notable spread in both horizontal and vertical directions, resembling tracking a moving object or character in the middle of the screen. The pattern matches the PLAY example more than the more localized code-related tasks or the horizontally structured reading/browsing patterns.",
+  "correct": false
+}

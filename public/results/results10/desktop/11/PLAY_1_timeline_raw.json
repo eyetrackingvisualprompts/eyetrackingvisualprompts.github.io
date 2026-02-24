@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y positions show smooth, line-like progressions with occasional regressions, resembling systematic left-to-right and top-to-bottom scanning of text, closely matching the pattern in the READ example rather than the more sporadic or abrupt shifts seen in BROWSE, SEARCH, PLAY, or WATCH.",
+  "correct": false
+}

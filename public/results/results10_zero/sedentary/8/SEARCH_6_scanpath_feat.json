@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small region with minimal horizontal or vertical movement over the full 10 s, indicating sustained fixation on a single on-screen area consistent with watching a video rather than scanning text, searching, coding, or gameplay, which all show broader, more structured scanpaths.",
+  "correct": false
+}

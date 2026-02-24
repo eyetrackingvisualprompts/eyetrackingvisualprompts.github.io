@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, horizontally elongated cluster at a nearly constant vertical position, indicating sustained reading along a single text line, matching the READ pattern more than the other task examples.",
+  "correct": true
+}

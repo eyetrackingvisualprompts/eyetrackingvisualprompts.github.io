@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mainly horizontal band with progressive movement from left to right and relatively stable vertical position, matching typical line-by-line reading behavior and closely resembling the READ example pattern more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data shows large, irregular saccades spanning wide horizontal and vertical ranges with no consistent line-wise or purely horizontal pattern, along with ~200\u2013600 ms fixations at each landing point\u2014this best matches the randomized multi-directional target jumps of the Random Saccades task rather than the structured horizontal swings, reading lines, static fixation, game-like re-fixations, or naturalistic video viewing.",
+  "correct": true
+}

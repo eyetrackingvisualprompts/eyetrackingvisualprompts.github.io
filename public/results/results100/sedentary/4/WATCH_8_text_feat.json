@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including off-center and border areas), with many returns between dispersed clusters and limited line-like reading patterns, match the dynamic, spatially distributed gaze typical of tracking game elements rather than text- or code-based tasks or passive video watching.",
+  "correct": false
+}

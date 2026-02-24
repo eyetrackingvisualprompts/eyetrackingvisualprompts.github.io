@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades and variable fixation positions over both axes, with periods of scanning then refocusing, closely matching the exploratory, result-scanning behavior seen in the SEARCH example more than the more structured or stable patterns in READ, WRITE, or code-related tasks.",
+  "correct": false
+}

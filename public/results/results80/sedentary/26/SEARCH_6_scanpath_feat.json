@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on a narrow left-side vertical band typical of code editors, with occasional long saccades to the right (e.g., terminal or run button) and to lower regions, matching the WRITE example more than the denser, more localized DEBUG or INTERPRET patterns or the horizontally structured reading/browsing patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Reading",
+  "reason": "Initial large downward sweep from high negative vertical position followed by extended, small-amplitude horizontal movements clustered in a narrow vertical band, consistent with line-by-line reading and within the vertical range of the provided reading examples, rather than wide, discrete step-like saccades of Random or Horizontal Saccades or the more scattered patterns of video/game tasks.",
+  "correct": false
+}

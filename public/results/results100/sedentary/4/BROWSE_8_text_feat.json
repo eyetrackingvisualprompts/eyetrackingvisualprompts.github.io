@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent long-range saccades across wide screen regions, rapid revisits between dispersed locations, and many fixations around central-mid and lower-mid areas typical of tracking dynamic game elements rather than line-wise reading, code-focused tasks, or stable video watching. The spatial spread and jumpy, target-following pattern best match the PLAY class examples.",
+  "correct": false
+}

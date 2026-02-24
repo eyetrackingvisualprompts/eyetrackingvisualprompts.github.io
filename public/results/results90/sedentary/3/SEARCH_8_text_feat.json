@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows long horizontal scanning across wide x-ranges with repeated returns to similar vertical bands, interleaved with large vertical jumps and excursions to screen edges and off-screen coordinates\u2014patterns typical of navigating mixed web layouts and scrolling through varied content, closely matching the provided BROWSE examples rather than the more line-structured READ or code-focused WRITE/INTERPRET/DEBUG patterns.",
+  "correct": false
+}

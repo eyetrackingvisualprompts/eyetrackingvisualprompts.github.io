@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations form a narrow horizontal band near the lower part of the screen, resembling attention on a single text line and nearby UI elements, which is most consistent with typing and monitoring text in a word processor (WRITE) rather than the more vertically extensive patterns of READ or BROWSE.",
+  "correct": false
+}

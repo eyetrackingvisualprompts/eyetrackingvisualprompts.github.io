@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are concentrated in a horizontal band across the mid-screen with some spread, resembling reading and scanning across a webpage. The pattern closely matches the BROWSE example heatmap more than the tighter left-focused code tasks or the more distributed WATCH/PLAY/SEARCH patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near screen center with small, smooth positional changes in both X and Y and relatively long, stable fixations, indicating passive following of central visual content typical of watching a video rather than the more systematic horizontal scans of reading or the larger, task-driven saccades of play, search, browse, or write activities.",
+  "correct": false
+}

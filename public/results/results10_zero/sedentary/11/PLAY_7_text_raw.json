@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves smoothly and continuously across wide screen regions, with many small saccades and shifts between dispersed clusters rather than structured line-by-line or code-like scanning, and without the tight object-following characteristic of PLAY. This broad, fluid coverage over the display is most consistent with watching dynamic visual content such as a video.",
+  "correct": false
+}

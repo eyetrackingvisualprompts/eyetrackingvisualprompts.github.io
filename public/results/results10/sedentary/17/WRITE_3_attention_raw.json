@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is highly concentrated in a compact region on the left-center where code would be written, with a few brief looks elsewhere, closely matching the example WRITE heatmap and showing less dispersion than READ or INTERPRET and more focus than BROWSE or SEARCH.",
+  "correct": true
+}

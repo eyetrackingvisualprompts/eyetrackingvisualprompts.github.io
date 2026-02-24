@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on compact central regions corresponding to code lines, with frequent short saccades along horizontal code-like bands around y\u2248500\u2013600 and y\u2248230\u2013300, plus repeated revisits between upper and lower code areas consistent with locating and verifying fixes rather than continuous reading or output prediction. The pattern matches the DEBUG exemplar more closely than WRITE/INTERPRET/READ, which show more linear scan paths.",
+  "correct": false
+}

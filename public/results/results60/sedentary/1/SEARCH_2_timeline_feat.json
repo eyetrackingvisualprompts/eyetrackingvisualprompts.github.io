@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large vertical shifts and irregular horizontal movements, indicating scanning across different regions and layouts, which aligns best with free web browsing rather than the more structured or repetitive patterns of reading, coding, or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow central region with moderate, localized saccades and relatively steady horizontal/vertical fixation traces, resembling focused inspection of a small code snippet rather than wide scanning (SEARCH/BROWSE), continuous reading (READ), or dynamic tracking (WATCH/PLAY). This pattern best matches the INTERPRET example.",
+  "correct": false
+}

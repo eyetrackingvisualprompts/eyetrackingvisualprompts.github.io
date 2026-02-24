@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target plot shows highly regular, periodic horizontal X fixations with a slowly increasing Y position over time, matching the left-to-right, line-by-line reading pattern seen in the READ example and unlike the more erratic or multi-directional movements of other tasks.",
+  "correct": true
+}

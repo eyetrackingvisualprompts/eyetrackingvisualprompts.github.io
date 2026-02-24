@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, repeated fixations and short saccades within a compact lower-central code region, with occasional large jumps to other screen areas, closely resemble the DEBUG example\u2019s pattern of oscillating between nearby code lines and sporadically checking other interface elements, rather than the more linear scans of READ/WRITE or broader exploration of SEARCH/BROWSE.",
+  "correct": false
+}

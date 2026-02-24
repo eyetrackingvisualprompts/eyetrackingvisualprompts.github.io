@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are strongly clustered on a mid-left code area with a few checks elsewhere, closely matching the localized pattern of DEBUG where attention focuses on a specific buggy region while occasionally glancing to other parts of the code or output.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, rapid gaze shifts covering almost the entire screen in both horizontal and vertical directions, with dispersed fixations and no clear line- or column-based structure. This broad, dynamic exploration pattern best matches interactive gameplay rather than the more centrally clustered or text-structured patterns of browsing, reading, writing, searching, or watching video.",
+  "correct": false
+}

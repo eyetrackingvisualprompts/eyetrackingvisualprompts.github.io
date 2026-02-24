@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scanpaths at stable vertical levels around the top and mid-page (y\u2248150\u2013400), with repeated sweeps across a results-like region and occasional large jumps to other areas, closely match the structured line-scanning and inter-region transitions seen in SEARCH examples, rather than the more localized code blocks (WRITE/DEBUG/INTERPRET) or continuous reading lines (READ).",
+  "correct": false
+}

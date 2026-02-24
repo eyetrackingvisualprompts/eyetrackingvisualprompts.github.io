@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cluster near the screen center with moderate, irregular horizontal and vertical movements and frequent small saccades, closely matching the browsing example pattern and differing from the more structured scan paths of reading or the larger excursions of play/watch/search.",
+  "correct": false
+}

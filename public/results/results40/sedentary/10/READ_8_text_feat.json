@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze repeatedly traverses horizontally across mid-screen regions resembling result snippets, with frequent medium-length saccades between a central band (~y=450\u2013550) and upper header area (~y=180\u2013260), and occasional long jumps and pauses suggestive of checking different parts of a search results page rather than the more structured horizontal line sweeps of reading or the highly scattered dynamics of browsing/playing.",
+  "correct": false
+}

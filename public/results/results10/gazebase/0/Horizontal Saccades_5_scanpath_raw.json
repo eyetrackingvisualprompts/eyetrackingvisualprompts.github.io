@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trajectory is predominantly horizontal across a wide range of x-coordinates with minimal vertical variation, forming repeated left-right movements similar to the Horizontal Saccades example, unlike the more scattered or vertically varying patterns of other activities.",
+  "correct": true
+}

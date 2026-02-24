@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered along a small horizontal segment near the screen center, indicating focused, localized reading of a short line or phrase rather than the broader scanning or dispersed patterns typical of browsing, searching, watching video, playing games, or writing (which often includes gaze shifts to UI elements and keyboard).",
+  "correct": false
+}

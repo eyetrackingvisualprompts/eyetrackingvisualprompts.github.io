@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Highly scattered gaze across wide vertical and horizontal extents, frequent long jumps between mid-page, near-top, and far-bottom regions, and many medium-length fixations around a horizontal band resemble scrolling and scanning behavior on long web pages, matching the BROWSE exemplars more than the more locally clustered coding/debugging or the smoother WATCH patterns.",
+  "correct": false
+}

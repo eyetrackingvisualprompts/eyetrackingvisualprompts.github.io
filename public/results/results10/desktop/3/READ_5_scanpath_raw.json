@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves smoothly along a rising diagonal, reflecting continuous tracking of moving visual elements, with relatively few tight clusters or back-and-forth patterns typical of reading, writing, searching, or browsing; this scanpath best matches the WATCH example where eyes follow video content across the screen.",
+  "correct": false
+}

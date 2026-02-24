@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small central code-like area with short to medium fixations and frequent local regressions, consistent with inspecting and mentally simulating a code snippet rather than scanning long text (READ) or widely exploring (SEARCH/BROWSE). The pattern closely matches the INTERPRET example\u2019s dense, back-and-forth movements within a compact region.",
+  "correct": false
+}

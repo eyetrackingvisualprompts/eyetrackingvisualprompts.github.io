@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are long and tightly clustered in a narrow horizontal band (y\u22480.40\u20130.50) with short horizontal saccades and occasional line-like shifts, matching the stable, line-by-line scanning pattern seen in the READ examples rather than the larger, more exploratory movements in SEARCH/BROWSE or the more dispersed gaze in WATCH/PLAY/WRITE.",
+  "correct": false
+}

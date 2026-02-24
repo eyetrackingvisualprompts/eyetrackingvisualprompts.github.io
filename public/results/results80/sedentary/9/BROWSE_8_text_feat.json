@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Horizontal scanning across wide screen regions, frequent large jumps to screen edges and off-screen (negative coordinates), revisits between distant areas, and mixed mid-page and top-of-window fixations match the exploratory, multi-region navigation patterns seen in the BROWSE examples more than the more localized, structured patterns of reading, coding, or video watching.",
+  "correct": true
+}

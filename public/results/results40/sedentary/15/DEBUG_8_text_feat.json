@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent, localized fixations and saccades within a compact code-like region (x\u2248150\u2013400, y\u2248250\u2013500) with repeated returns to specific lines and intermittent jumps to top/side coordinates resembling function headers or other UI elements are characteristic of code inspection and correction, matching the DEBUG pattern more than the other activities.",
+  "correct": true
+}

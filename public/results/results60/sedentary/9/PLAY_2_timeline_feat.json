@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large, frequent saccades in both X and Y with continuous motion across the screen and no clear line-by-line or structured scanning pattern, matching the dynamic, wide-ranging viewing behavior typical of watching a video rather than reading, coding, or web tasks.",
+  "correct": false
+}

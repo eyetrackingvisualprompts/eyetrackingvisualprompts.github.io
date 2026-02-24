@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid gaze shifts across wide screen regions (including extremes and corners), frequent vertical transitions, and following of scattered points resemble tracking dynamic game elements rather than structured reading, code inspection, or linear web content browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow left-central code area with many short regressions and revisits, plus frequent long saccades between top code region and lower area (likely editor/output/console). This pattern closely matches WRITE examples and differs from broader exploratory movements in BROWSE/SEARCH or line-structured patterns in READ/WATCH.",
+  "correct": false
+}

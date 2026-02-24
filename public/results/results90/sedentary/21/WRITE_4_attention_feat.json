@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated in a compact region on the left-center code area with minimal spread elsewhere, matching the focused fixation cluster pattern characteristic of INTERPRET rather than the broader distributions seen in WRITE or DEBUG.",
+  "correct": false
+}

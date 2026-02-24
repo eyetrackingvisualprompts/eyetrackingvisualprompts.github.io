@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows an initial cluster near the top-left (likely search box/results) followed by a horizontal reading-like pattern in the mid-screen, with large saccades between these regions, matching the mixed search-then-read behavior characteristic of SEARCH rather than the more uniform reading or coding tasks.",
+  "correct": true
+}

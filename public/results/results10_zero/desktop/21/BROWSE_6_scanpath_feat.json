@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small central region with short, local saccades and no systematic horizontal or vertical progression typical of reading or writing. There is little wide-range exploration expected in search, browse, or play tasks. This stable central fixation pattern best fits watching a video where the main content is near the screen center.",
+  "correct": false
+}

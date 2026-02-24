@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is concentrated around a central horizontal band with some lateral spread and fewer vertical scanlines, resembling the WATCH example where attention follows dynamic content near the screen center, rather than the more localized code/IDE clusters or vertical reading/search patterns.",
+  "correct": false
+}

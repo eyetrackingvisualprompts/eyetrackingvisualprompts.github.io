@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The heatmap shows a horizontally elongated cluster of fixations at a relatively constant vertical level with small regressions, characteristic of left-to-right reading behavior on a single text line, rather than large-amplitude or random saccades, central fixation, or dispersed viewing as in video or game tasks.",
+  "correct": true
+}

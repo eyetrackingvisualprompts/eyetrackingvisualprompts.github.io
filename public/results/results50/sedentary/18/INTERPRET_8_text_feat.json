@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region near the code area with short recurrent saccades among nearby lines/columns and moderate fixations, resembling the interpret example\u2019s local back-and-forth inspection of a snippet rather than the more extensive vertical scanning of WRITE/DEBUG or the broader exploratory movements of BROWSE/SEARCH/PLAY/WATCH/READ.",
+  "correct": true
+}

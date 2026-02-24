@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many horizontal sweeps around a mid\u2011screen band and toolbar/URL-bar region (y\u22480\u201350), plus rapid large saccades to off-center/high coordinates and back, indicate scanning web pages, headers, and interface elements rather than stable line-by-line reading or code inspection. This exploratory, interface-heavy pattern best matches the BROWSE class.",
+  "correct": false
+}

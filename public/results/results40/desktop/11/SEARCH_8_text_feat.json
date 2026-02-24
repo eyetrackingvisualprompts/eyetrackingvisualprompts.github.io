@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent jumps across wide screen regions (including extreme coordinates) interspersed with moderate fixations, indicative of following dynamic visual stimuli rather than line-by-line text or interface elements. This spatiotemporal pattern aligns best with the WATCH examples compared to the more structured, horizontally constrained patterns of READ/WRITE/SEARCH or the more tightly game-centered PLAY behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between upper-middle and lower-middle screen regions with several long vertical and horizontal saccades spanning large parts of the page, interleaved with medium fixations\u2014matching the exploratory, scroll-and-scan pattern seen in the SEARCH example more than the more line-structured READ or the more localized WRITE patterns.",
+  "correct": false
+}

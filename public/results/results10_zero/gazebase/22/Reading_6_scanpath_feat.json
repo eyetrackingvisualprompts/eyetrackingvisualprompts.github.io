@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Balura Game",
+  "reason": "Gaze points cluster in a lower screen region with irregular, short saccades among multiple nearby locations plus a few large jumps, consistent with repeatedly fixating and re-fixating moving game targets rather than regular line-by-line reading, strictly horizontal tracking, static fixation, or natural video viewing.",
+  "correct": false
+}

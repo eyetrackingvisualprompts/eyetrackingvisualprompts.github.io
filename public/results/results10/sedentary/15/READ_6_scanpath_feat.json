@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly constrained to a single horizontal band with orderly left-to-right progress and short regressions, matching line-by-line reading behavior more than the more clustered code-focused patterns (WRITE/INTERPRET/DEBUG) or scattered exploration (BROWSE/PLAY/SEARCH/WATCH).",
+  "correct": true
+}

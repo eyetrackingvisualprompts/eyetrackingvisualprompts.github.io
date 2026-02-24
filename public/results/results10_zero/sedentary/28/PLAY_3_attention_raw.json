@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a tight cluster of fixations around a central screen region with minimal horizontal scanning or line-like patterns, indicating sustained attention to a single central area typical of watching a full-screen video rather than reading, coding, or browsing, which would produce more distributed or structured gaze paths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a compact central region with short to medium fixations (mostly 0.17\u20130.4s, some longer up to ~1s) and small horizontal/vertical saccades, suggesting line-by-line inspection of static text rather than large exploratory movements (BROWSE/SEARCH), wide-range scanning (PLAY), or prolonged central passive viewing (WATCH). This localized, systematic pattern best matches reading behavior.",
+  "correct": false
+}

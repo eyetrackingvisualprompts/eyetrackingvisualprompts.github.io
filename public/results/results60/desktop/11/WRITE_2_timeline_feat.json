@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The target data shows smooth, progressive horizontal fixation shifts with moderate vertical variation and regular small saccades, closely matching the structured left-to-right, line-by-line pattern seen in the READ example rather than the more scattered (BROWSE/SEARCH), extreme (PLAY), stable-top/bottom (WRITE), or large-vertical (WATCH) patterns.",
+  "correct": false
+}

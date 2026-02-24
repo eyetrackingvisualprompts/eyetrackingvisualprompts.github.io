@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a smooth, continuous left-to-right progression along an upward-slanting band, characteristic of line-by-line text reading rather than clustered scanning, localized editing, or wide-area exploration seen in other activities.",
+  "correct": true
+}

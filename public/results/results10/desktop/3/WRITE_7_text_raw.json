@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows repeated medium-sized vertical shifts between central and upper/lower regions, interspersed with occasional large jumps and then long, localized fixations\u2014this mixture of scrolling-like movements and stable reading patches matches the browsing examples more closely than the more uniform horizontal bands of READ or the highly dynamic dispersions of PLAY or WATCH.",
+  "correct": false
+}

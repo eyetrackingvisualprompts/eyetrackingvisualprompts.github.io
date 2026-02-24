@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent gaze shifts between top search-bar/upper page regions and widely scattered result areas (including bottom and far sides of the page), with repeated returns to upper text-like zones, match the exploratory, multi-region scanning typical of the SEARCH condition rather than the more localized or pattern-like behavior of coding, reading, or watching video.",
+  "correct": false
+}

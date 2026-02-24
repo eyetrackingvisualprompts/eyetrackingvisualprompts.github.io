@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent long-amplitude saccades between central content and extreme off-screen/top coordinates (~1700,-50), rapid returns to mid-screen, and many mid-length fixations around dynamic central areas resemble tracking/chasing behavior in games more than the more line-structured, stable patterns in reading, coding, or search/browse tasks.",
+  "correct": false
+}

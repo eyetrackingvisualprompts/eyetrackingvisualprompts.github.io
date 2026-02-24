@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Scanpath shows large, frequent gaze shifts across the entire screen with multiple spatial clusters, indicating dynamic, multi-directional visual exploration consistent with online gameplay rather than more localized patterns of reading, writing, searching, or browsing.",
+  "correct": false
+}

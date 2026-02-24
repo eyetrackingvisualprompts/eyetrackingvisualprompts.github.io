@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show smooth, systematic horizontal movements with small vertical variation and regular saccades, matching the stable left-to-right scanning pattern characteristic of reading text rather than the more scattered or dynamic patterns of browsing, searching, playing, watching, or writing.",
+  "correct": false
+}

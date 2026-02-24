@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a central horizontal band consistent with a single code editor area, with repeated vertical saccades between upper and lower parts of that band, resembling reference\u2013edit cycles typical of code writing rather than the broader exploration seen in search/browse or the tighter reading scanpaths.",
+  "correct": false
+}

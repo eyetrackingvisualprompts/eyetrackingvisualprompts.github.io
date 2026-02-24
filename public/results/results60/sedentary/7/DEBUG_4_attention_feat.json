@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a tall, narrow strip on the left-center of the screen, with vertical spread across multiple code lines and minor excursions below\u2014this pattern closely matches the provided DEBUG example and typical code-inspection behavior rather than the more horizontally distributed reading/browsing patterns.",
+  "correct": true
+}

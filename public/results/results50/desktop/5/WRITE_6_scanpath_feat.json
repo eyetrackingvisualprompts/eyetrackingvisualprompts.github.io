@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover multiple distinct regions with frequent long saccades between them and scattered fixations, indicating dynamic, multi-directional viewing typical of tracking game elements rather than the more localized, structured patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

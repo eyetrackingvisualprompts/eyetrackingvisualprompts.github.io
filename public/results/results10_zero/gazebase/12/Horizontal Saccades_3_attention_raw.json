@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows gaze concentrated in two horizontally aligned clusters at equal vertical position, with little activity elsewhere, indicating repeated large-amplitude left-right eye movements between two fixed horizontal locations, matching the horizontal saccades task description.",
+  "correct": true
+}

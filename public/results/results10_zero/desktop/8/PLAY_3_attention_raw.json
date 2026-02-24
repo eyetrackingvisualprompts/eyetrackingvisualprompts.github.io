@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is highly concentrated in a single small region near the lower-central part of the screen with minimal horizontal scanning or vertical progression, indicating a stable focus on a localized area (e.g., characters or subtitles) typical of passively watching video content rather than reading, searching, browsing, writing, or gaming, which usually produce broader or more dynamic gaze patterns.",
+  "correct": false
+}

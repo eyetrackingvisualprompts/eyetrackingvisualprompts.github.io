@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal fixations with small downward steps over time, a pattern consistent with line-by-line reading rather than large exploratory movements (browse/search), code-focused back-and-forth (write/debug/interpret), or object tracking (watch/play).",
+  "correct": false
+}

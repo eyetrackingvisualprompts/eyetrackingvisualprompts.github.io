@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large initial relocation followed by concentrated, rapid gaze shifts within a compact lower-central area, characteristic of tracking a moving game object or avatar rather than line-by-line reading or code inspection. This dynamic, localized pattern aligns best with the PLAY activity among the options.",
+  "correct": false
+}

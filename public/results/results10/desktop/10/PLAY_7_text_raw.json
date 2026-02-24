@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated transitions between mid-screen and multiple distinct vertical locations, including brief excursions to the very top and various mid-lower areas, consistent with scanning SERP results, snippets, and linked pages. The pattern closely matches the SEARCH example\u2019s mix of central fixation, vertical shifts, and intermittent larger saccades, and is less stationary than READ or WATCH and less constrained than WRITE or PLAY.",
+  "correct": false
+}

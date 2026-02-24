@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are concentrated in a relatively small central region with moderate vertical shifts and few large horizontal movements, matching a stable viewing pattern similar to the WATCH example rather than the wider, systematic sweeps of reading/writing or the more dispersed exploration in browse/search/play.",
+  "correct": false
+}

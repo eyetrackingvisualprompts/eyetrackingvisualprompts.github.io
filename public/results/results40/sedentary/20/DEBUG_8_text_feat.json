@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large-amplitude saccades between widely separated screen regions (including corners, top bar, and results area), with short fixations and revisits, match the scattered, multi-region scanning typical of web search results rather than the line-structured patterns of reading or the more localized, code-centered patterns of programming tasks.",
+  "correct": false
+}

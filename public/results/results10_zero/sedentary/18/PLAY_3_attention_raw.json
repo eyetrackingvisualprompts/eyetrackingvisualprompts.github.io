@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, very dense fixation region with minimal horizontal or vertical scanning, indicating the eyes remained mostly on one small area. This pattern aligns best with passively watching a video where a central focal point (e.g., character/feature) dominates gaze, rather than the broader, systematic scanning typical of reading, coding, debugging, searching, or browsing, or the fast multi-point shifts expected during gameplay.",
+  "correct": false
+}

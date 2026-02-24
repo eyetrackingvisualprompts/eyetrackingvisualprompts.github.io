@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are widely distributed across the screen with long saccades to edges and corners and no clear reading or code-structure pattern, resembling the dynamic, dispersed scanpath of game playing rather than the more localized or linear patterns of text/code tasks or passive watching.",
+  "correct": true
+}

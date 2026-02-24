@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, rapid shifts across widely separated screen regions (including extreme coordinates and off-screen values) with no clear left-to-right or structured reading/line-by-line pattern, and no tight clustering around code-like areas. This kind of broad, dynamic scanning is most consistent with visually following changing content in a video rather than reading, coding, or web search/browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a compact left-side region with minimal excursions elsewhere, closely matching the INTERPRET example where gaze stays on a single code snippet rather than scanning widely as in SEARCH/BROWSE or moving across the screen as in PLAY/WATCH.",
+  "correct": false
+}

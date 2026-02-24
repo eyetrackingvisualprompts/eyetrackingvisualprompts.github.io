@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long horizontal scanpaths at similar y-levels, mixed with jumps to various vertical regions including far left/right and top/bottom, resemble skimming and navigating heterogeneous web content more than structured code (WRITE/DEBUG/INTERPRET) or continuous media (WATCH/PLAY). The pattern closely matches the example BROWSE behavior with repeated horizontal sweeps interleaved with larger navigational saccades across the page.",
+  "correct": false
+}

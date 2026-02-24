@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a few horizontal bands with small regressions and local scanning around mid\u2011screen and slightly above/below, matching reading/searching result snippets and SERP layout more than code (INTERPRET/DEBUG/WRITE) or the larger, more dynamic spatial shifts of PLAY/WATCH/BROWSE. The spatial pattern and saccade amplitudes best align with the SEARCH example distribution.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are aligned along a roughly horizontal line around mid\u2011height of the screen with several separated clusters from center toward the right, consistent with following a target that steps horizontally and remains static for one second at each position, as in the Horizontal Saccades task, rather than scattered exploration or vertical/higher\u2011dimensional movements seen in other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a central region with relatively small-amplitude saccades and many medium-to-long fixations (0.2\u20130.8s), indicating detailed inspection of nearby text lines rather than large exploratory movements typical of SEARCH/BROWSE/PLAY or wider scene scanning characteristic of WATCH; this pattern best matches sustained reading behavior.",
+  "correct": false
+}

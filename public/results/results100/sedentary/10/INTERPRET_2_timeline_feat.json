@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the central-left area with moderate horizontal movement and relatively stable vertical position, resembling focused code editing rather than extensive vertical scanning (READ/BROWSE/SEARCH) or large dynamic shifts (PLAY/WATCH/DEBUG). This matches the WRITE example pattern most closely.",
+  "correct": false
+}

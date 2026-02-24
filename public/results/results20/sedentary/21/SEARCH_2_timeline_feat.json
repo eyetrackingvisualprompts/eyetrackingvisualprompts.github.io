@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows steady left-to-right horizontal progression with a mostly increasing X fixation and relatively stable Y fixation, resembling line-by-line reading behavior and matching the READ example pattern more closely than the others.",
+  "correct": false
+}

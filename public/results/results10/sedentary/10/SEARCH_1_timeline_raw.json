@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-scale horizontal and vertical shifts between distinct regions, with periods of reading-like stability interleaved with larger jumps, matching the mixed scanning and reading pattern typical of free web browsing rather than the more structured or focused patterns of coding, games, or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are distributed in a narrow horizontal band near the top of the screen, spanning widely in X but with little vertical variation, which is characteristic of tracking a target moving only horizontally.",
+  "correct": false
+}

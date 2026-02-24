@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly clustered around mid-lower screen coordinates with frequent short revisits and local up\u2013down shifts, consistent with scanning and re-checking code in an IDE; there are occasional jumps to higher regions (around y\u2248170\u2013270) resembling moves to function headers or earlier lines, matching the debug pattern more than the more linear patterns of READ/WRITE or the wide, horizontal motions of BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": false
+}

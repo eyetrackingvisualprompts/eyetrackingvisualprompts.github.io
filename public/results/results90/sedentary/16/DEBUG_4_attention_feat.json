@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered on a single code-like area in the upper-left region with minimal scanning elsewhere, closely matching the INTERPRET example where participants focus intensely on one snippet to reason about its output, unlike the more dispersed patterns seen in DEBUG, BROWSE, or SEARCH.",
+  "correct": false
+}

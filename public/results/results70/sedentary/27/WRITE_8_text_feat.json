@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates repeatedly between a mid-code region and upper screen areas (y\u224840\u201390) characteristic of line numbers/stack trace or console, with many revisits to similar code coordinates, vertical shifts across code blocks, and long re-reading fixations. This pattern of scanning, checking, and re-checking code and outputs matches the DEBUG examples more closely than the more linear INTERPRET or WRITE patterns, and differs from the broader exploratory movements in SEARCH/BROWSE and dynamic tracking in PLAY/WATCH.",
+  "correct": false
+}

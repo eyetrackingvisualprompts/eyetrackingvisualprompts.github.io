@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in a mid-screen region with moderate vertical spread, resembling attention to a search-results page (query box, results list, and snippets) more than the tighter central cluster of BROWSE or the linear horizontal pattern of READ/WRITE, and less dispersed than WATCH/PLAY.",
+  "correct": false
+}

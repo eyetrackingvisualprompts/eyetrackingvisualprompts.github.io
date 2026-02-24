@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal movements with frequent vertical shifts and scattered saccades, indicating scanning between multiple regions (e.g., query box, results list, and page content), which best matches the SEARCH pattern rather than the steadier READ behavior or more localized WRITE/BROWSE activities.",
+  "correct": false
+}

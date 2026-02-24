@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a narrow horizontal band with small vertical variation and steady left\u2013right movements, closely matching the scanpath pattern of reading text lines and most similar to the READ example among the given classes.",
+  "correct": false
+}

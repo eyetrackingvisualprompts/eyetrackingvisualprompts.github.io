@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are tightly clustered around a narrow horizontal band with very small, slow shifts in both x and y, indicating sustained fixation near a line of text. This low-amplitude, stable pattern best matches the reading examples and is less variable than browse/search or dynamic like play/watch; write gaze is higher on the screen and more vertical-jittery.",
+  "correct": false
+}

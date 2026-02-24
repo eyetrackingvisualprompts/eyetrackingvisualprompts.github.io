@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are densely clustered around the screen center with small, local saccades and limited horizontal/vertical spread, closely matching the browsing example pattern rather than the wider, more structured movements seen in reading, writing, watching, playing, or searching tasks.",
+  "correct": false
+}

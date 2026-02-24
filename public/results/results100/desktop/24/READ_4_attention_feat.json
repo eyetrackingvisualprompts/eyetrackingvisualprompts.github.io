@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze distribution forms a horizontal band across the mid-lower part of the screen with sequential fixations, matching the left-to-right scanning pattern typical of reading text lines, similar to the READ example heatmap.",
+  "correct": true
+}

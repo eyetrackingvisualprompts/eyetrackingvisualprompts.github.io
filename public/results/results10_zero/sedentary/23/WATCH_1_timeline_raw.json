@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a few broad horizontal bands with slow drifts and occasional vertical transitions rather than systematic line-by-line reading or code inspection. The relatively smooth, continuous movements with long stable segments are characteristic of following content in a video rather than discrete text or search interactions.",
+  "correct": true
+}

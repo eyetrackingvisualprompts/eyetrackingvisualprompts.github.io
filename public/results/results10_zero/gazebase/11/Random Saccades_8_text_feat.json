@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between spatially separated points across both horizontal (\u224830\u00b0 range) and vertical (\u224820\u00b0 range) axes, with each new location followed by a relatively long, \u22480.2\u20130.7 s fixation before the next large jump. The movements span much of the allowed \u00b115\u00b0 horizontal and \u00b19\u00b0 vertical area and are not constrained to a line (ruling out horizontal saccades and reading) or to the center (ruling out fixations). The pattern of discrete, widely spaced targets with ~1 s dwell time matches the Random Saccades task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trajectory shows large, rapid saccades that jump unpredictably across wide horizontal and vertical ranges of the screen, without the structured horizontal lines of reading or the dense, multi-directional clustering of the Balura game. This pattern best matches following a single target moving randomly (Random Saccades).",
+  "correct": false
+}

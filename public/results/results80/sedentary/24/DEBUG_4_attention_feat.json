@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is highly concentrated on a single left-centered code area with some vertical spread, closely matching the DEBUG example heatmap and indicating intensive inspection of a code block rather than short interpretation or broader browsing/reading patterns.",
+  "correct": true
+}

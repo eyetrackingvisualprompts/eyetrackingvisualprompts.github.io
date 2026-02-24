@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades and shifts in both X and Y directions, alternating between upper and lower screen regions, resembling scanning results and clicking different items. This spatio-temporal pattern best matches the SEARCH example rather than the more localized or more uniform patterns of reading, coding, or watching video.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are sparse, discrete, and scattered across the screen in both horizontal and vertical directions without forming horizontal text lines, central clustering, or smooth viewing patterns, matching the random target jumps of the Random Saccades task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath covers a wide area with large vertical and horizontal saccades between dispersed regions, indicating exploration of multiple screen elements (results, links, query box), which is most consistent with web search behavior rather than the more localized patterns of read, write, play, watch, or browse examples.",
+  "correct": true
+}

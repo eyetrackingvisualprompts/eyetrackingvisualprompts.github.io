@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is concentrated in a compact region near the screen center with some surrounding dispersion, closely matching the PLAY example where attention tracks a game\u2019s central activity rather than the more left-biased code or text layouts seen in DEBUG/WRITE/READ/INTERPRET or the more widely spread patterns of SEARCH/BROWSE/WATCH.",
+  "correct": true
+}

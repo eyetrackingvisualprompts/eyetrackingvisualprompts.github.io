@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze patterns show large, frequent saccades across wide screen regions (including extremes and vertical span), short-to-moderate fixations, and many revisits to dispersed areas\u2014consistent with visually tracking dynamic game elements rather than line-by-line reading, static text production, or typical web page scanning.",
+  "correct": false
+}

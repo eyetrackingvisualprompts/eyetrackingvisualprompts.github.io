@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is distributed broadly across the horizontal axis with moderate vertical range and several long cross-screen saccades, indicating following dynamic content rather than structured text or localized interaction. This pattern aligns best with watching a video compared to the more clustered patterns of search/browse or the linear patterns of read/write.",
+  "correct": false
+}

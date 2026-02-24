@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scanpaths across central text-like rows interleaved with frequent long-range jumps to screen edges/outside bounds and back (top, corners, bottom), plus repeated revisits to central content, match the exploratory, results-and-page switching behavior seen in SEARCH examples more than the more locally constrained patterns of READ/WRITE/INTERPRET/DEBUG or the dynamic distributed patterns of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly concentrated in a small central region with minimal horizontal or vertical scanning, consistent with passively watching a video where key content is centrally located rather than reading, coding, or searching, which show broader, structured scan patterns.",
+  "correct": false
+}

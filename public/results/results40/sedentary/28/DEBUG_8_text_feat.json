@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster around a confined code-like region with frequent revisits between similar coordinates (around y\u2248240\u2013340 and y\u2248500\u2013620), alternating between mid-panel and top-of-screen (likely console or error messages), and occasional jumps to very top (y\u224820) consistent with inspecting outputs or errors. The pattern of systematic back-and-forth within a code window, rather than linear reading or broad web/navigation sweeps, most closely matches the DEBUG examples.",
+  "correct": true
+}

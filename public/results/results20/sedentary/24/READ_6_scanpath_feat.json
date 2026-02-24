@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a tight horizontal band with small vertical dispersion, indicative of line-by-line reading across text, matching the READ example more than the other task patterns.",
+  "correct": true
+}

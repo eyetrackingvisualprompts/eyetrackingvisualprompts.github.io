@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a mid-upper area with small horizontal and slight vertical shifts, resembling scanning within a webpage content block. The pattern shows moderate saccade amplitudes and revisits to nearby positions, more similar to the BROWSE example than to the more line-structured READ pattern or the more dispersed PLAY/SEARCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent shifts between widely separated screen regions including off-screen/negative coordinates, revisits to toolbar/top areas, and mixed horizontal and vertical scanning resemble web navigation patterns seen in BROWSE, rather than the more structured line-by-line (READ/WRITE/INTERPRET/DEBUG) or stimulus-centered (WATCH/PLAY/SEARCH) behaviors.",
+  "correct": true
+}

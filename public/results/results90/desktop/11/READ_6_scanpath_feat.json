@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered with short, mostly horizontal saccades within a confined region, indicating line-by-line viewing of static text rather than broader exploratory movements typical of browsing, searching, gaming, or video watching.",
+  "correct": true
+}

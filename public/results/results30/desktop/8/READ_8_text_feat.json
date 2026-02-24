@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region slightly above mid\u2011screen with long, repetitive fixations and tiny local saccades, matching the stable line-of-text focus seen in the WRITE examples rather than the broader scanning or multi-region exploration of READ, SEARCH, BROWSE, or PLAY, or the larger shifts of WATCH.",
+  "correct": false
+}

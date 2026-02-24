@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows many long horizontal sweeps at several nearby vertical bands (multiple rows), with repeated returns to the left and right and occasional large jumps up/down the page\u2014matching scrolling and scanning behavior over web content rather than the tighter code-centered patterns of WRITE/DEBUG/INTERPRET or the more continuous motion of WATCH/PLAY.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small central region with minimal horizontal scanning and almost no vertical progression, indicating sustained attention to a localized area (e.g., video focal region) rather than line-by-line reading, document writing, or broad web/game exploration, which require wider, more distributed gaze patterns.",
+  "correct": false
+}

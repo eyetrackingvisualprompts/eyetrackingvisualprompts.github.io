@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, irregular jumps in both X and Y with varied fixation levels and no consistent reading lines or stable central focus, matching the heterogeneous scanning patterns typical of free web browsing rather than the more structured patterns of reading, coding, or video watching.",
+  "correct": false
+}

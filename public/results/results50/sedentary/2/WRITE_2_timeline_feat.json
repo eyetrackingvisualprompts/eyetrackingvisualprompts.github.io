@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow central band with small horizontal shifts and occasional brief saccades, indicating focused inspection of a compact code snippet rather than extensive vertical scanning or wide exploration; this pattern best matches the INTERPRET examples where participants reason about a short function\u2019s output.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered over a compact code region on the left side of the screen, similar to the WRITE example and more focused than INTERPRET/DEBUG, indicating concentrated editing/implementation rather than scanning or reading across broader areas.",
+  "correct": true
+}

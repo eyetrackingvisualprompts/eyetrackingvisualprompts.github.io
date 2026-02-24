@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with small incremental saccades in X and very limited Y variation, suggesting line-by-line reading rather than large vertical scrolling or dispersed exploration typical of coding, browsing, or games.",
+  "correct": false
+}

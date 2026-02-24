@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are concentrated in a narrow horizontal band slightly below screen center with small, incremental horizontal movements and long stable fixations, consistent with line-by-line reading of text rather than the larger multidirectional movements typical of browsing, searching, gaming, or video watching.",
+  "correct": true
+}

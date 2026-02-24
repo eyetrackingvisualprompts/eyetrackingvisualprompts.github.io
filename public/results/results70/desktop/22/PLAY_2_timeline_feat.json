@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is centered with moderate horizontal movement and frequent mid-amplitude saccades, showing shifts between upper and mid screen areas similar to scanning results and query fields, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

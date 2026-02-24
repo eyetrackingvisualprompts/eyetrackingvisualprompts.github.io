@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-screen code area with relatively small vertical range, frequent but moderate saccades, and repeated revisits to similar Y-positions, closely matching the structured, code-focused pattern seen in the DEBUG example rather than the more linearly progressive READ/BROWSE or more dispersed PLAY/WATCH behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are split into two main horizontal regions (left-lower/central and mid-right) with substantial spread in both x and y, indicating frequent shifts between separated interface areas and broader exploratory movements, which best matches the gaze behavior seen in the PLAY example rather than the more constrained, line-like or centrally clustered patterns of reading, writing, searching, browsing, or watching video.",
+  "correct": false
+}

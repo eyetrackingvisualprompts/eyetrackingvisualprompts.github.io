@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The data shows long fixations and horizontal scanning around a mid-screen band, interspersed with large, fast saccades to extreme off-center/top coordinates and back, consistent with scrolling and jumping between different webpage regions typical for free web browsing, rather than the more structured line-by-line patterns of READ or the code-centered, denser clusters of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

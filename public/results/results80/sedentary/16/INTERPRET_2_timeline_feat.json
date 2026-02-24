@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is mostly constrained to a narrow horizontal band as in focused code editing, with occasional dense vertical saccades and jumps near the middle and later part of the window, matching the WRITE example more closely than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a compact but somewhat irregular region without strong horizontal line structure (unlike READ) or large jumps across the screen (unlike PLAY or WATCH). The pattern closely resembles the example BROWSE scanpath, indicating focused viewing of a limited web page area while browsing.",
+  "correct": false
+}

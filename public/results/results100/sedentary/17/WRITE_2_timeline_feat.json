@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains confined to a relatively small central area with modest horizontal spread and few large saccades, resembling focused inspection of a localized code snippet, which matches the INTERPRET pattern more than the other activities.",
+  "correct": false
+}

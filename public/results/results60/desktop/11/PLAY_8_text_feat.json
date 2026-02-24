@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a compact horizontal band with long, stable fixations and short local saccades, indicative of line-based text reading rather than broader exploratory movements typical of browsing, searching, or watching video, or the larger, multi-directional shifts seen in play or writing near the text-edit cursor.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze positions show frequent, irregular, and large-amplitude shifts in both X and Y directions, with no clear horizontal reading or line-by-line patterns. This high dynamism and multidirectional movement best matches the eye behavior during game playing (PLAY) in the examples.",
+  "correct": false
+}

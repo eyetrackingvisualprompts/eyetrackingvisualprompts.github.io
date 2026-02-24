@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze points are tightly clustered in a small left-central screen region with minimal horizontal spread, matching focused inspection of a short code snippet as seen in the INTERPRET example, rather than the broader distributions of WRITE, DEBUG, or other tasks.",
+  "correct": false
+}

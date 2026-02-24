@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a small region with minor local movements and one long saccade off-screen, lacking structured line-by-line or code-like scanning; this stable, centralized viewing pattern is most consistent with passively watching a video scene rather than reading, coding, browsing, or game-like tracking.",
+  "correct": false
+}

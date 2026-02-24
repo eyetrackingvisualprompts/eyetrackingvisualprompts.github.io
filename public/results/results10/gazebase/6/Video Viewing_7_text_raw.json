@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The data shows predominantly rightward, progressive movements with small regressions and clustered horizontal gaze positions at several vertical levels, matching the line-by-line scanpath structure of the provided Reading example more than the more erratic Video Viewing or task-driven Balura Game patterns.",
+  "correct": false
+}

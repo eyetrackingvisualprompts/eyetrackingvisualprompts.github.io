@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "X and Y fixation positions occupy lower screen regions with gradual drifts and moderate vertical saccades, resembling the WATCH template plot more than the others, which show stronger reading-like horizontal patterns or more dispersed game/search movements.",
+  "correct": false
+}

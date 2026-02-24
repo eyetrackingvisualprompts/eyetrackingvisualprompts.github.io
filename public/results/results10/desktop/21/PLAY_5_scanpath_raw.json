@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows medium-area exploration with multidirectional saccades around the center of the screen, more scattered than reading or writing but less extensive and structured than search or play, matching the browsing example pattern.",
+  "correct": false
+}

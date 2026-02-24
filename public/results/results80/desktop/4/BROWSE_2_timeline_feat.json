@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show medium, fluctuating horizontal fixations around screen center with frequent multidirectional saccades and variable vertical positions, resembling the exploratory, scattered viewing pattern seen in the BROWSE example rather than the more structured left-to-right (READ/WRITE) or focused (WATCH/PLAY/SEARCH) behaviors.",
+  "correct": true
+}

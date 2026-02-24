@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows many long, diagonal saccades covering large screen areas (e.g., jumps between top and bottom, center and corners) with relatively brief fixations scattered widely rather than structured horizontal or code-line patterns. This pattern matches visually tracking and navigating dynamic objects typical of simple games more than the more localized, line-based, or block-based scanning seen in reading, browsing, search, or code-related tasks.",
+  "correct": false
+}

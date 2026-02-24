@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations cluster in a compact code-like region with many short, local regressions and revisits to nearby lines/positions, resembling the INTERPRET example\u2019s dense, back-and-forth scanning over a small area rather than the broader, more dispersed patterns of SEARCH/BROWSE or the highly dynamic movements of PLAY/WATCH/WRITE/DEBUG.",
+  "correct": false
+}

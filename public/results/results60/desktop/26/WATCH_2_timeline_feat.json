@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions remain near the screen center with small, frequent horizontal and vertical shifts and relatively limited range, closely matching the stable, moderate-variation pattern seen in the BROWSE example rather than the larger sweeps or structured scan paths of the other activities.",
+  "correct": false
+}

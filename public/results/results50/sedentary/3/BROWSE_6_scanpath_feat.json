@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a central-left coding area with frequent long saccades toward the far right and lower regions, consistent with switching between code editor, console/output, and possibly documentation typical for writing/implementing code rather than the more localized patterns of READ/INTERPRET or the more dispersed randomness of WATCH/PLAY/BROWSE/SEARCH/DEBUG.",
+  "correct": false
+}

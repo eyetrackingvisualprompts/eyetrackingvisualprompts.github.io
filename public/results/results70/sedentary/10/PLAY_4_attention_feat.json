@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are tightly clustered around the screen center with some surrounding spread, matching the dynamic, object-following pattern of the PLAY examples rather than the more distributed (WATCH/SEARCH/BROWSE) or columnar (READ/DEBUG/WRITE/INTERPRET) patterns.",
+  "correct": true
+}

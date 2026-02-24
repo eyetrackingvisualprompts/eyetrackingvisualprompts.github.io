@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely dispersed across the entire screen with frequent large-amplitude saccades in multiple directions and fewer dense clusters, indicating continuous, dynamic visual scanning typical for game play rather than the more localized, structured patterns seen in reading, writing, searching, or browsing.",
+  "correct": true
+}

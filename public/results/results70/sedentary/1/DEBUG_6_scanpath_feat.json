@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on the code area with frequent revisits and several long saccades to peripheral regions (e.g., console, error messages, or different parts of the code), matching the more scattered and wide-ranging pattern seen in the DEBUG example rather than the tighter INTERPRET or WRITE patterns.",
+  "correct": true
+}

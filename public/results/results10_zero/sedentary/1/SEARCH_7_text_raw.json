@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze coordinates show continuous, smooth shifts over a wide screen area with many small adjustments, indicating tracking of dynamic visual content rather than line-by-line reading or focused code inspection; this broad, flowing pattern best matches watching a video.",
+  "correct": false
+}

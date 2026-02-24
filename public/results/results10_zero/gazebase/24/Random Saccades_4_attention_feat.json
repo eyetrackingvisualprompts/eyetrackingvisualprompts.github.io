@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "Fixations are clustered on several discrete, spatially separated points, including multiple re-fixations on a few targets, consistent with tracking and re-fixating moving game objects rather than the more continuous scanpaths of reading or video viewing or the constrained patterns of horizontal/random saccades or central fixation.",
+  "correct": false
+}

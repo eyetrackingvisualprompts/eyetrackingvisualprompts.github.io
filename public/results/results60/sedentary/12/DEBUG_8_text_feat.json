@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small central code-like region with many short fixations and local regressions, plus frequent shifts between slightly different vertical levels, matching the INTERPRET examples more than the broader, more exploratory patterns seen in SEARCH, BROWSE, or DEBUG and lacking the line-by-line structure of READ or the dynamic object tracking of PLAY/WATCH.",
+  "correct": false
+}

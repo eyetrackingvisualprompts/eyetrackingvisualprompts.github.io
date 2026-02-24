@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is split between a dense cluster in the upper-left/top region (typical of search box and top results) and several scattered fixations in the mid\u2011lower area, resembling scanning of search results, unlike the more continuous line patterns of READ/WRITE or the broader spread of PLAY/WATCH/BROWSE.",
+  "correct": true
+}

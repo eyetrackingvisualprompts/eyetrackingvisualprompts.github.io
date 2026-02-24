@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Predominance of medium-to-long fixations (often >400 ms, some >800\u20131200 ms) with relatively localized, stepwise saccades and occasional larger relocations suggests focused processing of static text rather than continuous visual motion (WATCH/PLAY) or frequent interface shifts (SEARCH/BROWSE/WRITE). This pattern best matches sustained reading behavior on a document or article page.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a mostly steady Y position with progressive X movements and occasional line-change saccades, closely matching the example READ pattern of horizontal text scanning with periodic returns, rather than the more variable vertical and spatial movements seen in browsing, coding, or gameplay tasks.",
+  "correct": true
+}

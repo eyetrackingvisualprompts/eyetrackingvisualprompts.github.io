@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long fixations mixed with medium saccades concentrated around a horizontal band, frequent revisits to similar y-levels, and occasional large jumps across wide x-ranges match the scrolling-and-scanning pattern of web browsing more than the tighter line-by-line patterns of READ or the dynamic object-tracking of PLAY/WATCH.",
+  "correct": false
+}

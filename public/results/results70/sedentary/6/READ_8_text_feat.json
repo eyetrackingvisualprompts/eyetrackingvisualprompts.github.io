@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Long, slow saccades and fixations alternating between a lower page region and the very top (header/search bar area), with broad horizontal sweeps but not tight line-by-line reading, match search-result browsing patterns better than the more structured, line-based READ pattern or the code-centered patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

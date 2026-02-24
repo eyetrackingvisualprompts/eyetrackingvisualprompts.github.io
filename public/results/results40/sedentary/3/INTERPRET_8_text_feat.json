@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent back-and-forth saccades between a few clustered regions (around y\u2248250\u2013350, 450\u2013520, and 560\u2013600), with many medium-to-long fixations and repeated vertical shifts between code-like areas and lower regions, strongly resemble systematic code inspection and re-checking seen in the DEBUG example, rather than the more linear patterns of READ/WRITE or the broader exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

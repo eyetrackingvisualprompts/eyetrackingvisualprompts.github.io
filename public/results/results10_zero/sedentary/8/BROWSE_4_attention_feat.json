@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact central region, consistent with focusing on a small block of code (like a short function) rather than scanning larger spreads of text, UI elements, or dynamic stimuli; this localized, moderate-density pattern best matches the INTERPRET code-reading task.",
+  "correct": false
+}

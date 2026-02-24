@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains clustered in a few nearby horizontal bands with long, stable fixations and relatively infrequent saccades, indicating following central visual content rather than systematic line-by-line reading or scanning typical for text or interactive tasks; this pattern is most consistent with passively watching a video.",
+  "correct": false
+}

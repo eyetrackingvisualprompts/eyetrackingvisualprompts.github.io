@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points stay around mid-horizontal and mid-vertical regions but show frequent short-range shifts, small corrective saccades, and intermittent larger jumps, consistent with visually tracking and correcting a moving game character or objects in a dynamic scene rather than line-by-line reading or focused typing. The pattern most closely matches the PLAY example\u2019s local jitter, direction changes, and coverage range.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in a structured, mostly left-to-right and top-to-bottom manner with clusters along horizontal bands and relatively small vertical jumps, consistent with line-by-line reading. There are no prolonged central fixations (WATCH), object-following arcs (PLAY), or highly scattered exploratory patterns typical of unrestricted BROWSE or SEARCH behavior.",
+  "correct": false
+}

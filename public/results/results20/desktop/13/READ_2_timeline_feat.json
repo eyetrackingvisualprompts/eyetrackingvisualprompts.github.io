@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is centered with relatively small, gradual horizontal movements and slowly descending vertical fixation, matching the stable, mid-screen focus and limited scanning typical of typing in a word processor rather than the broader exploration seen in reading, searching, or browsing.",
+  "correct": false
+}

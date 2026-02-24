@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows two separated vertical regions with transitions between them, suggesting shifting attention between search results and lower-page content, matching the SEARCH pattern more than the more stationary code or text reading/writing tasks or the highly dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

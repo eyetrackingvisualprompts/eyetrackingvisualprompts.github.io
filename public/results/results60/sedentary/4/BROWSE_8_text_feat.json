@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanpaths across mid-screen bands with repeated left-right sweeps, interspersed with large jumps to screen edges/off-screen coordinates and back, plus visits to multiple vertical regions, match free web browsing patterns rather than focused code, search result rows, or static video/reading lines.",
+  "correct": true
+}

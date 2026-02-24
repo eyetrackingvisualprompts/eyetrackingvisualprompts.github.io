@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "After ~4.5 s there is a very large saccade from the far top-right toward the central area, followed by irregular, multi-directional gaze shifts in both X and Y rather than line-by-line or mostly horizontal scanning. This pattern of large reorienting movements and continuous target following best matches the dynamic, object-tracking behavior observed in the PLAY condition (e.g., games like Pong or Agario).",
+  "correct": false
+}

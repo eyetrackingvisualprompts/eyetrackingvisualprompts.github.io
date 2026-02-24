@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze is highly concentrated in a single compact region near the upper-left portion of the screen, suggesting sustained fixation on a small block of text rather than scanning, searching, or tracking moving objects. This stable, localized pattern is most consistent with reading a text segment.",
+  "correct": false
+}

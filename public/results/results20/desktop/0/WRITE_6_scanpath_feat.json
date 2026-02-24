@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are tightly clustered in a small central region with minimal horizontal scanning, indicating sustained focus on a localized game area rather than the broader, more linear sweeps seen in reading, browsing, or searching tasks.",
+  "correct": false
+}

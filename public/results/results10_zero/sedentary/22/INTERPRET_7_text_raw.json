@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show predominantly horizontal movements within a constrained vertical band, with short regressions and clustered fixations, consistent with line-by-line reading of text rather than the larger, more scattered shifts typical of browsing, searching, or watching dynamic video or games.",
+  "correct": false
+}

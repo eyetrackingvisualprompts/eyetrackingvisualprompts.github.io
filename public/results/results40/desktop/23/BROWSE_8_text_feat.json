@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a relatively narrow central region with predominantly horizontal, line-like shifts and medium-duration fixations, closely matching the structured, repetitive scanpath patterns seen in the READ examples rather than the more dispersed and jumping patterns of BROWSE/SEARCH or the larger, multi-directional shifts in PLAY/WATCH/WRITE.",
+  "correct": false
+}

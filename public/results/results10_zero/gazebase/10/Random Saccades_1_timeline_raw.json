@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show distinct step-like jumps to various horizontal and vertical locations (both X and Y changing), with each position held roughly around one second before moving to a new, non-periodic location. This pattern matches a target that moves unpredictably across the screen and is fixated at each stop, consistent with the Random Saccades task rather than strictly horizontal, central fixation, reading, video viewing, or the game pattern.",
+  "correct": true
+}

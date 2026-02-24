@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a narrow left-side region with frequent short saccades and long fixations around a few vertical bands (likely code lines), plus occasional large jumps to extreme top/bottom positions, matching focused code inspection and revisiting typical of debugging rather than broader scanning (SEARCH/BROWSE) or smooth reading lines (READ/WRITE/INTERPRET).",
+  "correct": false
+}

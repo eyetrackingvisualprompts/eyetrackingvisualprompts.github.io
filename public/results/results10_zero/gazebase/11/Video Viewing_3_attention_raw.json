@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The heatmap shows a sequence of discrete fixations aligned along a mostly horizontal band in the upper portion of the screen, progressing from left to right with relatively small vertical dispersion\u2014characteristic of line-by-line reading behavior rather than large, repetitive horizontal sweeps (horizontal saccades) or widely distributed exploration (video, random/ game).",
+  "correct": false
+}

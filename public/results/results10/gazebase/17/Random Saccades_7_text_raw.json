@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The target data shows frequent large-amplitude, multi-directional gaze shifts across wide horizontal and vertical ranges with short local fixations, closely matching the spatial-temporal pattern and dispersion seen in the Random Saccades example rather than the more structured horizontal-only pattern of Horizontal Saccades or the more text-line-like, banded structure of Reading.",
+  "correct": true
+}

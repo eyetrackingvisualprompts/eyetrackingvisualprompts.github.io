@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-range horizontal and vertical movements with frequent, irregular saccades and shifts across different screen regions, resembling the mixed scanning pattern of browsing heterogeneous web pages rather than the more structured lines of READ/WRITE or the more constrained patterns of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

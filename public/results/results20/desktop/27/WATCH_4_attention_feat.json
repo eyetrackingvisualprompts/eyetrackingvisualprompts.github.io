@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in the central region with moderate vertical spread, resembling the BROWSE example where attention is focused around the middle of the page rather than the more linear horizontal pattern of READ or the upper regions seen in WRITE and SEARCH.",
+  "correct": false
+}

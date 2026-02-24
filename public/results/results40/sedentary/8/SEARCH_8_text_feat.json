@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, fast saccades spanning across and beyond the screen, frequent shifts between widely separated regions, and relatively few orderly line-wise or code-column scanning patterns resemble the dynamic, scene-driven gaze behavior seen during video watching rather than the more structured, line-based patterns of reading, coding (INTERPRET/DEBUG/WRITE), or the target-focused tracking typical of games (PLAY) or search/browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows predominantly horizontal movements across a mid-to-lower screen band with several short left-right sweeps and distributed fixations, resembling line-by-line reading and intermittent scanning over a webpage rather than the more compact code-focused patterns (WRITE/DEBUG/INTERPRET) or upper-screen text blocks (READ).",
+  "correct": false
+}

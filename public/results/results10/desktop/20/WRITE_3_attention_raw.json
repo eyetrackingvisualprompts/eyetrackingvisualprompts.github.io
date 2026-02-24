@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated around a central region with limited horizontal spread and small vertical shifts, closely matching the browsing example heatmap pattern rather than the more lateral movements of reading or the wider dispersion of watching or playing.",
+  "correct": false
+}

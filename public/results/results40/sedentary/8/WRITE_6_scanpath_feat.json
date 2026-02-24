@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a compact region on the left side, similar to the INTERPRET example where attention stays focused on a small code snippet area with limited exploration elsewhere, unlike the broader spread seen in DEBUG or other tasks.",
+  "correct": false
+}

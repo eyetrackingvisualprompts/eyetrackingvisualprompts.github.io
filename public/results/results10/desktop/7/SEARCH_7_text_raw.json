@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows prolonged fixations with smooth drifts around upper-mid screen, interspersed with occasional large vertical and horizontal shifts and excursions beyond nominal screen bounds (y > 1), matching dynamic but largely stimulus-driven viewing typical of watching video rather than the more structured line scans of reading/typing or the more frequent, task-driven relocations of search/browsing or game-play.",
+  "correct": false
+}

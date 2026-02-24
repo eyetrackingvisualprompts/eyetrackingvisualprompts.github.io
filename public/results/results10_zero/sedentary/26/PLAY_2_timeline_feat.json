@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long, stable horizontal fixations with slow, gradual drifts and few discrete saccades, consistent with following content in a video rather than line-by-line reading or code-related tasks, which would exhibit more frequent and structured saccades.",
+  "correct": false
+}

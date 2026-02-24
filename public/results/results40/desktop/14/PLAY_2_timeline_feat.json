@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, relatively centered horizontal and vertical fixations with frequent small saccades and no strong directional drift, closely matching the browsing example pattern rather than the more structured (READ/WRITE) or more dynamic (SEARCH/WATCH/PLAY) examples.",
+  "correct": false
+}

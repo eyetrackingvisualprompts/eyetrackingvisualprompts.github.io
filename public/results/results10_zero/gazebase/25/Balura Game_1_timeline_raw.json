@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete, step-like jumps to various locations across both horizontal and vertical axes, with each position held roughly around one second before the next jump. The amplitudes span much of the \u00b115\u00b0 horizontal and \u00b19\u00b0 vertical range and are not restricted to a single axis or to a fixed central point, matching the random saccades task where a target appears at random screen locations for one-second intervals.",
+  "correct": false
+}

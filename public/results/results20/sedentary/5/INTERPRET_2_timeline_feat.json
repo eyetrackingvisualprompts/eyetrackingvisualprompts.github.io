@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow central band with small, slow shifts and very few large saccades, matching the stable, code-focused viewing seen in INTERPRET rather than the broader scanning of SEARCH/BROWSE, dynamic movements of WATCH/PLAY, or more line-structured patterns of READ/WRITE/DEBUG.",
+  "correct": true
+}

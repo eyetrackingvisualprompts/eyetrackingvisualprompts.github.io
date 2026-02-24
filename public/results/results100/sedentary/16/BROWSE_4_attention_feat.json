@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated over a left-side code area with additional spread horizontally and vertically, resembling the DEBUG example more than the tightly clustered INTERPRET pattern or the broader READ/BROWSE layouts, indicating active code inspection across multiple lines and regions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points span a wide vertical band from lower to upper screen with long, smooth horizontal and diagonal saccades across much of the display, indicating following dynamic visual content rather than localized reading or interface interaction; this pattern best matches the WATCH examples of viewing a video.",
+  "correct": false
+}

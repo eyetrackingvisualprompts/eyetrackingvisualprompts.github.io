@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow central region with smooth, gradual drifts and few large saccades or systematic horizontal/vertical scanning patterns, matching sustained viewing of dynamic content typical for watching a video rather than reading, coding, or interactive tasks that show more structured or rapid gaze shifts.",
+  "correct": false
+}

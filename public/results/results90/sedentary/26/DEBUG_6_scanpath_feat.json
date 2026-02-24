@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Most fixations are concentrated on a compact code-like region on the left with occasional long saccades to the right, closely matching the INTERPRET example where participants mainly inspect a given function while periodically checking output or related areas, unlike the broader spread seen in WRITE/DEBUG or the structured lines of READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a relatively low vertical region with gradual horizontal drift and limited large saccades, matching the stable, lower-screen focus typical when writing in a word processor rather than the broader vertical movements seen in reading, searching, browsing, watching, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a left-central area consistent with code editing, with occasional long saccades to the far right side resembling glances at a console/output or other IDE panel\u2014matching the WRITE pattern more than the other activities.",
+  "correct": true
+}

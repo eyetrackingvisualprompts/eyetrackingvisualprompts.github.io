@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shifts show large, multi-directional jumps spanning wide horizontal and vertical ranges with roughly second-scale dwell periods, matching a target that appears at random screen positions rather than strictly horizontal motion, central fixation, or structured reading/game/video patterns.",
+  "correct": false
+}

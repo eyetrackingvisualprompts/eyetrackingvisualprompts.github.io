@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length fixations with many regressions between nearby code-like regions (vertical span ~250\u2013550, confined mostly to a narrow horizontal band) and repeated revisits to specific locations suggest detailed line-by-line inspection and rechecking, characteristic of debugging rather than the more linear scans of READ or the broader exploratory movements of SEARCH/BROWSE.",
+  "correct": true
+}

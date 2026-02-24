@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Long fixations and dense back-and-forth saccades clustered over a mid-screen code region, with frequent horizontal sweeps and occasional large jumps to far side/toolbar coordinates, match the structured, locally revisited gaze patterns seen in WRITE (coding) more than the more exploratory BROWSE/SEARCH or the more static READ/WATCH patterns.",
+  "correct": true
+}

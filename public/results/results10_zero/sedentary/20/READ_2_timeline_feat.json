@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is almost static around the screen center with very small horizontal and vertical changes and minimal saccades, indicating passive viewing of a central visual stimulus rather than the systematic scanning or line-by-line movements seen in reading, coding, searching, or gameplay.",
+  "correct": false
+}

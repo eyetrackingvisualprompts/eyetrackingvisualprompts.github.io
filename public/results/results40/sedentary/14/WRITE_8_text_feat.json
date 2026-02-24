@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long-range saccades between far-left content region (~200\u2013400 x) and far-right edge (~1550\u20131700 x) with revisits, mixed with shorter inspections around mid-page, match the pattern of scanning SERP/results and jumping across page areas seen in the SEARCH examples, rather than the more line-structured READ/BROWSE or local code-centered WRITE/DEBUG/INTERPRET patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "Both X and Y positions show smooth drifts with occasional moderate saccades and no strict periodic or purely horizontal pattern, matching the more natural, less-structured gaze behavior typical of video viewing rather than the more regular or task-specific patterns in the other classes.",
+  "correct": false
+}

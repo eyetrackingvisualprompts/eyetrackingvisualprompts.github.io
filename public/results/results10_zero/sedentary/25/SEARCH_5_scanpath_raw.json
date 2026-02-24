@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows a long, mostly horizontal band of fixations at a consistent vertical level\u2014typical for attending to a single code pane\u2014interrupted by a few large vertical saccades toward the bottom of the screen, consistent with briefly checking console/output or other IDE regions while primarily focusing on code, which best matches the WRITE (code implementation) activity in an IDE layout.",
+  "correct": false
+}

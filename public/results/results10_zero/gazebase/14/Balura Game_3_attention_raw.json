@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple isolated fixations scattered across the entire screen in both horizontal and vertical directions, with no central clustering, no clear horizontal line pattern, and no structured text-like or scene-viewing distribution. This widespread, discrete coverage best matches a single bull\u2019s-eye target stepping randomly to positions across the display (Random Saccades).",
+  "correct": false
+}

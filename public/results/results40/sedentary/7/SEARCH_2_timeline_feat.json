@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The pattern shows moderate horizontal movement with occasional larger saccades and shifts in vertical position, indicating transitions between a results list and detailed content, which matches the example SEARCH timeline more closely than the more continuous scanning of BROWSE or the steadier reading-like tasks.",
+  "correct": true
+}

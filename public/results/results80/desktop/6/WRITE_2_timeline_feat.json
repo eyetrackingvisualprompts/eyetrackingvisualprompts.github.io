@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderately wide horizontal exploration with varying vertical positions and frequent saccades, indicating scanning across different page regions and result lists, which aligns best with the heterogeneous, exploratory pattern seen in SEARCH rather than the more structured patterns of READ/WRITE or the extreme movements of PLAY/WATCH.",
+  "correct": false
+}

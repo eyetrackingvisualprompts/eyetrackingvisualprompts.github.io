@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a dominant, slowly progressing horizontal movement with very stable Y fixation around a narrow band, matching the line-by-line scanning pattern of reading text, and closely resembles the READ example more than the other activities which show larger vertical shifts or more scattered gaze.",
+  "correct": false
+}

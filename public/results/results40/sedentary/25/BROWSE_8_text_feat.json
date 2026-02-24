@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large saccades between widely separated screen regions (including off-page coordinates), repeated transitions between mid-page content and top/edge areas, and varied vertical positions resemble the heterogeneous, exploratory scanpaths of web browsing rather than the more constrained, structured patterns of reading, coding, or gameplay.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are spread over a moderate central region with frequent shifts between multiple nearby areas, indicating exploration of several items on a page, which best matches the browsing pattern rather than the more linear (READ/WATCH) or localized (WRITE/PLAY) behaviors.",
+  "correct": false
+}

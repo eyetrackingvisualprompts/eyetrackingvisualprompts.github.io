@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower half of the screen with a relatively narrow vertical range and moderate horizontal spread, consistent with looking at a text area plus nearby UI elements in a word processor, and distinct from the more centralized, vertically broader patterns seen in SEARCH/BROWSE and the highly dynamic ranges in WATCH/PLAY.",
+  "correct": true
+}

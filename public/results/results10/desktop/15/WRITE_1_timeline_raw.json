@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows frequent, regular vertical resets to the bottom region (Y dropping sharply then returning), with horizontal position staying in a relatively narrow band\u2014consistent with looking between typed text lines and interface elements in a word processor, matching the WRITE pattern more than the other activities.",
+  "correct": true
+}

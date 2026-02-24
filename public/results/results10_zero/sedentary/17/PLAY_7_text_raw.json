@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows frequent medium- to large-amplitude saccades across broad screen regions (center, corners, and edges), with clusters around moving-like trajectories and less line-structured horizontal scanning typical of text or code; this broad, dynamic spatial coverage and repeated revisits to dispersed areas aligns best with visually tracking and navigating elements during gameplay rather than reading, coding, or web search/browsing.",
+  "correct": true
+}

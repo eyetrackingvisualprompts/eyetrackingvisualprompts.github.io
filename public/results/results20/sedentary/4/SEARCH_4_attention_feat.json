@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are spread across multiple vertical regions with a strong cluster around mid-left code area and additional clusters lower and further right, resembling alternating attention between code, other panes, and possibly console\u2014most similar to the DEBUG example pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact code-like area on the left-center of the screen with frequent vertical and diagonal shifts, plus occasional long saccades to the far right (likely to run/console panels). This pattern best matches the DEBUG example rather than WRITE or INTERPRET, which show less dispersed, more localized scanpaths.",
+  "correct": true
+}

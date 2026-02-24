@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, slow shifts in both X and Y with few large saccades and no clear repetitive reading or code-scanning pattern, matching the stable, continuous viewing seen in the WATCH examples rather than the more structured or frequent transitions of search, browse, read, or coding tasks.",
+  "correct": false
+}

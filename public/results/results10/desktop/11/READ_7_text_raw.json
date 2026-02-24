@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Target data shows large, frequent gaze shifts across wide screen regions (including extreme low values and rapid jumps), with irregular, multi-directional movements unlike the more stable, line-structured patterns in READ/WRITE or the mid-screen, slower shifts in BROWSE/SEARCH. This high-amplitude, scattered pattern best matches the dynamic, omni-directional gaze behavior seen in PLAY (gaming).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered in a small central-lower region with very little horizontal or vertical spread, indicating sustained fixation on a localized area such as a text cursor and nearby words, which best matches the WRITE task compared with the broader scanpaths seen in reading, browsing, or watching.",
+  "correct": true
+}

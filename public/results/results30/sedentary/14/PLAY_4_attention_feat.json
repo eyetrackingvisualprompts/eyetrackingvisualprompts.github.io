@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a compact horizontal band near the center-right of the screen, resembling focused line-by-line text reading rather than the broader spread of browsing or watching, or the left-biased distributions seen in coding-related tasks.",
+  "correct": false
+}

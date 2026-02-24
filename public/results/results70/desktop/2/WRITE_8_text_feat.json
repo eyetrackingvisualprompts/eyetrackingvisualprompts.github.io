@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around central-mid screen with moderate vertical shifts and many medium-duration fixations, plus occasional jumps to other central regions\u2014matching the mixed reading-and-scanning pattern of web/news browsing more than the strongly horizontal lines of READ, the high-vertical top/bottom movements of SEARCH, or the peripheral and highly dynamic patterns of PLAY/WATCH/WRITE.",
+  "correct": false
+}

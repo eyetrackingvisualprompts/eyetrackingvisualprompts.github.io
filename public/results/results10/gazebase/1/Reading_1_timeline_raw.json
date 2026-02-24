@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze shows irregular, moderate-range movements in both X and Y without strict horizontal-only structure, central fixation, or regular 1-second step patterns; this resembles the free-viewing trajectory of the video rather than structured tasks like reading or controlled saccades.",
+  "correct": false
+}

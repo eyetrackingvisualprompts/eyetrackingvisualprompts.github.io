@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations clustered around a central code-like area with repeated returns to similar coordinates, interleaved with jumps to top-of-window and off-screen regions (e.g., negative y, far corners) are characteristic of navigating and inspecting code plus console/IDE panels. The pattern closely matches the DEBUG examples\u2019 mixture of local scrutiny and larger exploratory saccades rather than the more linear READ pattern or the more chaotic BROWSE/SEARCH scans.",
+  "correct": true
+}

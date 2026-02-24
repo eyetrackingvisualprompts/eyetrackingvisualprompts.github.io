@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are confined to a relatively small region with frequent, rapid directional changes and short saccades, resembling the localized yet dynamic scanpath seen in the PLAY example more than the broader, more dispersed patterns of SEARCH/BROWSE/WATCH or the linear structure of READ/WRITE.",
+  "correct": true
+}

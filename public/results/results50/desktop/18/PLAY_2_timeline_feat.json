@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the screen center with moderate, irregular saccades in both axes and no strong directional sweep or line-by-line progression, matching the more scattered, center-focused pattern seen in BROWSE rather than the structured reading/writing or larger-range game/video movements.",
+  "correct": false
+}

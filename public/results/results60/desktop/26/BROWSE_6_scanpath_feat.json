@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements with fixations aligned in bands around mid-screen, matching the structured left-to-right reading pattern and limited vertical range typical of reading text rather than the more dispersed or multi-cluster patterns of search, browse, or play.",
+  "correct": false
+}

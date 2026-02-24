@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete step-like changes in both X and Y at roughly 1-second intervals, with the target holding each position before jumping to another within a limited 2D range\u2014characteristic of following a randomly moving target rather than purely horizontal motion, static fixation, reading, video viewing, or game behavior.",
+  "correct": false
+}

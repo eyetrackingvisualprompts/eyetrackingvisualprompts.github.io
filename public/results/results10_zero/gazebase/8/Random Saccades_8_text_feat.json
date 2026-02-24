@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze shows irregular, multi-directional saccades of varying amplitudes (both horizontal and vertical) with fixation durations mostly below 1 s and no consistent left-to-right line pattern or strict 1 s position holds characteristic of controlled saccade tasks. The heterogeneous spatial pattern and timing are most consistent with natural, free-viewing behavior during video watching rather than structured fixation, reading, or task-driven gaze (game or predefined saccade paradigms).",
+  "correct": false
+}

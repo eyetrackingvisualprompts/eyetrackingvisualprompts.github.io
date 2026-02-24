@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a mostly horizontal pattern with slowly increasing X fixation and nearly constant Y fixation, consistent with line-by-line text reading and similar to the READ example plot.",
+  "correct": false
+}

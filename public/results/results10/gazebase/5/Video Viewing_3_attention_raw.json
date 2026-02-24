@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple distinct fixation clusters scattered across both horizontal and vertical extents without a single dominant region, matching the dispersed pattern of following a target that jumps to random positions rather than the more structured patterns of reading, video viewing, or horizontal-only saccades.",
+  "correct": false
+}

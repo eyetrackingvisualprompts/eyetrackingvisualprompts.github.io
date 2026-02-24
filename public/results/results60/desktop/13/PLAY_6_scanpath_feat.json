@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a central region with moderate horizontal and vertical movements and frequent regressions, resembling mixed content exploration rather than the more linear horizontal pattern of reading or the denser, more local patterns seen in writing; this best matches browsing behavior.",
+  "correct": false
+}

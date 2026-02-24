@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a confined code-like region with repeated returns and medium-length saccades within that block, plus occasional long shifts to the far right/top likely for console or auxiliary panels\u2014matching the focused, iterative inspection pattern seen in the DEBUG example more than in other tasks.",
+  "correct": false
+}

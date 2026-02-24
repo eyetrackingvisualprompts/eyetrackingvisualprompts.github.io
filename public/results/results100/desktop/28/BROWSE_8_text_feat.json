@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly around central-upper text region with frequent medium-to-long saccades between dispersed vertical positions and clusters of short fixations, indicating scanning results/snippets and jumping between items. The pattern is more exploratory and jumpy than READ, less constrained than WRITE, and lacks the strong horizontal repetition of PLAY or focused character areas of WATCH; it aligns best with web search behavior seen in the SEARCH examples.",
+  "correct": false
+}

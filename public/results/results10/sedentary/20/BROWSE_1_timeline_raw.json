@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The data shows several abrupt, large vertical excursions in both X and Y around 3\u20134s and again near 9s, with intervening periods of relatively localized reading-like movement. This pattern closely matches the INTERPRET example, where participants alternate between scanning code and output, producing sharp transitions between distinct screen regions rather than the more uniform lines of READ, the smoother browsing/scrolling of BROWSE/SEARCH, or the steadier focuses of WRITE/DEBUG.",
+  "correct": false
+}

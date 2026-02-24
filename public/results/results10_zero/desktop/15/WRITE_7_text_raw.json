@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form predominantly horizontal scanpaths with small, regular regressions concentrated in narrow vertical bands, indicating line-by-line reading behavior rather than large exploratory movements typical of search, browse, or play, or the more central, less-structured viewing expected in watch or write tasks.",
+  "correct": false
+}

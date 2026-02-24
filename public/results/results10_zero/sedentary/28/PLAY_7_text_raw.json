@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves smoothly across a wide vertical range from mid-screen down to near the bottom and then gradually up toward the top, with many small continuous shifts rather than clustered left-to-right line fixations typical of reading or code tasks. The pattern shows ongoing tracking over a large area, consistent with following dynamic visual content in a video rather than scanning text blocks or interacting with discrete UI elements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal sweeps along a narrow vertical band near the top and several other horizontal regions, consistent with scanning lines of search results and snippet text rather than continuous paragraph reading or the more localized, code-centered patterns of WRITE/DEBUG/INTERPRET. The pattern of quick left\u2013right passes across similar y-levels and occasional jumps to new horizontal strips best matches SEARCH behavior among the provided examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow band in the upper screen with very small horizontal and vertical shifts and long, stable fixations, matching the steady, localized monitoring of a text-entry area seen in the WRITE examples, rather than the broader vertical scanning of READ or the larger spatial exploration of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

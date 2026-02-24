@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a relatively small central region with short saccades and limited horizontal sweep, resembling the clustered pattern in the BROWSE example more than the more line-like READ or the widely dispersed PLAY/SEARCH patterns.",
+  "correct": false
+}

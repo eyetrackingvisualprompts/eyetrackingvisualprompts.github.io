@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered around a central region with some vertical spread and minimal horizontal scanning, consistent with passively following content in a video rather than line-by-line reading, code inspection, or searching/browsing layouts that produce broader horizontal movements.",
+  "correct": false
+}

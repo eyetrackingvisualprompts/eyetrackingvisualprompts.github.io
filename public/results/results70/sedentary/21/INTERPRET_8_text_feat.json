@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent long dwell periods on a relatively small region with many short local saccades, interspersed with occasional large jumps to distant screen locations (e.g., near top or corners) and back, matches the code-inspection and back-and-forth checking behavior seen in DEBUG/INTERPRET patterns more than the more linear READ, WATCH, or highly dynamic PLAY/BROWSE patterns; overall spatiotemporal structure best aligns with DEBUG examples provided.",
+  "correct": false
+}

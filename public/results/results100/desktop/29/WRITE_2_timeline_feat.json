@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show very stable, narrow-band fixations with small, regular saccades and minimal large shifts, consistent with continuous reading of static text rather than scanning, searching, or dynamic game/video content.",
+  "correct": false
+}

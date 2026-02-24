@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows progressive rightward movement with several large vertical transitions and scattered fixations, consistent with scanning search results and occasionally moving between result snippets or pages, matching the SEARCH pattern more than the more uniform code reading/writing or continuous WATCH/PLAY behaviors.",
+  "correct": false
+}

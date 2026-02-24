@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed across multiple horizontal bands at different vertical levels, indicating scanning of several separated text regions (search box, results snippets, possibly related content), which matches the SEARCH pattern more than the tighter, line-focused READ or the more centrally-clustered WATCH/PLAY examples.",
+  "correct": false
+}

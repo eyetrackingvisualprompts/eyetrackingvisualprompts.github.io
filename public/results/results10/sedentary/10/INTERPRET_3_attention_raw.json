@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered in a small, upper-left code region with minimal horizontal spread, matching the focused inspection pattern seen in the INTERPRET example rather than the broader scan paths of browsing, search, or writing/debugging activities.",
+  "correct": true
+}

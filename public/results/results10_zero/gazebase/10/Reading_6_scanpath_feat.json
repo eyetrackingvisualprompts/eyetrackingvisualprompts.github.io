@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze positions progress mainly along the horizontal axis within a narrow vertical band, showing back-and-forth movements across a wide horizontal range consistent with following a horizontally moving target rather than reading lines of text or free viewing.",
+  "correct": false
+}

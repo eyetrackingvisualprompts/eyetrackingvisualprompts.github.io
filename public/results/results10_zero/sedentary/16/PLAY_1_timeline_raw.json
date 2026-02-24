@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show long, stable horizontal bands with slow drift and few rapid saccades, indicating sustained fixation in similar screen areas over time, which matches watching a video more than the more scanpath-intensive reading, browsing, coding, or gaming tasks.",
+  "correct": false
+}

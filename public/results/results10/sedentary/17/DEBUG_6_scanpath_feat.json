@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a mostly horizontal sequence of fixations progressing from left to right with limited vertical movement, matching line-by-line reading behavior rather than the broader, more scattered exploration seen in tasks like SEARCH or BROWSE.",
+  "correct": false
+}

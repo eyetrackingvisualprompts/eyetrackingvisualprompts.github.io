@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated in the central area with medium-range saccades and frequent shifts among nearby locations, closely matching the example BROWSE pattern rather than the more linear READ pattern or the wider, more dynamic PLAY/SEARCH distributions.",
+  "correct": false
+}

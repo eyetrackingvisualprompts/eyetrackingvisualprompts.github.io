@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The data shows very long, smooth saccades across large screen regions (including out-of-bounds coordinates) with relatively short fixations and no clear line-by-line or code-structure scanning, consistent with following dynamic visual content in a video rather than reading, coding, or web search/navigation patterns.",
+  "correct": false
+}

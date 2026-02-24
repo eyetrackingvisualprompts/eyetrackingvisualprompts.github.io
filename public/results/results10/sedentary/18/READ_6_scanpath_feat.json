@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal code region with two main text lines (one higher, one lower), similar to typing/editing behavior in the WRITE example and distinct from the more uniform horizontal reading band in READ or scattered patterns in other tasks.",
+  "correct": false
+}

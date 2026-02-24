@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered along a single horizontal band near the screen center, with several adjacent hotspots forming a left-to-right sequence, consistent with reading lines of text rather than tracking dynamic objects or scanning code or search results.",
+  "correct": false
+}

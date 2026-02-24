@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations in a compact central code area with frequent vertical shifts between slightly different y-levels and occasional jumps to top-of-screen coordinates resemble scanning and re-checking code segments typical of debugging rather than the more linear sweeps of reading or the broader spatial exploration of browsing, search, or play.",
+  "correct": false
+}

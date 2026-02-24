@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows a dominant, highly concentrated gaze cluster near the screen center with minimal dispersion, indicating sustained fixation on a central target rather than systematic scanning or following moving stimuli.",
+  "correct": false
+}

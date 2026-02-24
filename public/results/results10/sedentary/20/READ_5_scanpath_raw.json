@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze moves mainly along a single horizontal band with small regressions and limited vertical shifts, resembling line-by-line scanning across a wider region, which matches the browsing example more than the tighter, more localized patterns of reading or the more dispersed movements in other tasks.",
+  "correct": false
+}

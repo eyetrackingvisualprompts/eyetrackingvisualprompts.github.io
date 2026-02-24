@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations progress steadily in one horizontal direction with small, regular saccades and slowly increasing Y position, closely matching the linear, line-by-line gaze pattern seen in the READ example, unlike the more scattered or multi-directional patterns of other tasks.",
+  "correct": false
+}

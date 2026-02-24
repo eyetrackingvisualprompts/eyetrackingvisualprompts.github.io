@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to widely separated positions (up to ~40\u00b0), followed by clusters of samples with small local variation, consistent with following a bull\u2019s-eye that steps to new random locations and then remains static for about a second. This pattern of step-like relocations with intervening stable periods matches the Random Saccades task better than continuous horizontal motion, central fixation, reading-like line scans, game-driven selective fixations, or unconstrained video viewing.",
+  "correct": false
+}

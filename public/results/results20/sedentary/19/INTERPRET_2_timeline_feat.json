@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is highly concentrated with minimal saccades and small, slow drifts in both X and Y, indicating sustained focus on a compact area such as a short code snippet, matching the INTERPRET pattern more than the more exploratory or scanning behaviors of other tasks.",
+  "correct": true
+}

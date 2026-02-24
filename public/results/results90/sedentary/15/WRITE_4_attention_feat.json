@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a single code region on the left side of the screen with minimal spread elsewhere, matching the INTERPRET example pattern more closely than WRITE or DEBUG, which show either an additional fixated region (console/other panel) or broader coverage of the code area.",
+  "correct": false
+}

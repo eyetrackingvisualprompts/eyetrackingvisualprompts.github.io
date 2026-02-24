@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact region on the left side, focused on a single code block with minimal spread or horizontal scanning, which best matches the INTERPRET pattern among the examples.",
+  "correct": false
+}

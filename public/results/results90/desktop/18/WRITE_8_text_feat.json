@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow, low vertical band with long, stable fixations (~0.4\u20133 s) and only small intra-line saccades, matching the sustained, localized viewing typical of reading a text line, unlike the broader spatial exploration seen in browse/search or the larger, dynamic shifts in play/watch/write.",
+  "correct": false
+}

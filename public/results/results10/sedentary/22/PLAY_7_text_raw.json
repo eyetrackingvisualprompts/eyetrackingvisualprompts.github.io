@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Long, smooth pursuit-like sweeps with curved trajectories across large screen regions, repeated loops between central, lower, and upper areas, and clustered movements around specific hotspots resemble tracking moving game elements rather than structured line-by-line reading, code inspection, or static webpage scanning; this dynamics best matches the PLAY examples.",
+  "correct": true
+}

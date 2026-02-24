@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly clustered in a compact lower-left region (consistent with focusing on a code editor area), with occasional long saccades upward toward another zone (likely console or problem description). This pattern of alternating focused coding area with brief checks elsewhere is most characteristic of the WRITE task compared to more horizontal scanning (READ/SEARCH/BROWSE) or broader screen coverage (WATCH/PLAY).",
+  "correct": false
+}

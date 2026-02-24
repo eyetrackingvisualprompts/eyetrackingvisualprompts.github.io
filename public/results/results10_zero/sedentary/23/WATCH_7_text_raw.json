@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts across wide screen areas (including off-screen coordinates) with irregular, non-linear patterns rather than stable line-by-line reading or focused code/IDE regions. This broad spatial exploration and dynamic movement is most consistent with watching a fullscreen video rather than text- or code-centric tasks or tightly stimulus-bound game tracking.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, progressive horizontal movements with periodic regressions and relatively small vertical shifts, matching line-by-line reading behavior more than the more scattered or highly dynamic patterns of browsing, searching, coding, or playing games.",
+  "correct": false
+}

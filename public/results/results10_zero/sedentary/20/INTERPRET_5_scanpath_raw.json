@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered in a compact central-left region with occasional long diagonal saccades, consistent with focusing on a code editor area while intermittently glancing to other UI elements (e.g., console, documentation within IDE). The pattern lacks the systematic horizontal sweep of reading text or the wide, dynamic exploration typical of browsing, search, or gameplay, fitting a concentrated coding/writing task.",
+  "correct": false
+}

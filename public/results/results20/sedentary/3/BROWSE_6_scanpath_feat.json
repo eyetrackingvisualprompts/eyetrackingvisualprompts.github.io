@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates between two distant regions on the left and right, consistent with frequent switching between code editor and another area (e.g., console or reference) during code writing, matching the WRITE example pattern more than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left code area but spread across multiple vertical regions with additional checks toward the right, matching the distributed, back-and-forth inspection pattern typical of debugging rather than the more localized focus of interpreting or writing code.",
+  "correct": false
+}

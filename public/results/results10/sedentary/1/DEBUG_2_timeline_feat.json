@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mostly horizontal reading-like movements with a mid-sequence vertical shift and increased Y variation later, resembling scanning down a search results page more than the steadier READ pattern or the more erratic BROWSE/PLAY behaviors.",
+  "correct": false
+}

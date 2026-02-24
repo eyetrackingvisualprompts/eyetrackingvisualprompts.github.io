@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a smooth left-to-right, slightly ascending sequence of fixations forming a near-linear path, characteristic of reading text line(s) rather than the more scattered or clustered patterns typical of browsing, searching, playing games, writing, or watching video.",
+  "correct": true
+}

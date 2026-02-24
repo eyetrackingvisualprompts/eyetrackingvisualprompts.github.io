@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide horizontal and vertical dispersion with multiple distinct clusters and frequent transitions resembles scanning of search results and shifting between snippets, closer to the SEARCH example than the more localized code (INTERPRET/DEBUG/WRITE) or linear READ pattern.",
+  "correct": false
+}

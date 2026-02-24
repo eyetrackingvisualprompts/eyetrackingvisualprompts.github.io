@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades spanning most of the screen in multiple directions with limited local clustering, indicative of tracking widely separated, fast-moving objects typical in gameplay rather than the more localized, line-structured patterns of reading, writing, or web/search browsing, or the more constrained central focus of video watching.",
+  "correct": false
+}

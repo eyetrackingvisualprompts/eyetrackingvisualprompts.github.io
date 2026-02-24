@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a single, narrow horizontal band slightly right of center, consistent with focusing on one code line region while typing/editing, rather than scanning multiple lines (READ/INTERPRET/DEBUG) or moving across larger screen areas (BROWSE/SEARCH/PLAY/WATCH).",
+  "correct": false
+}

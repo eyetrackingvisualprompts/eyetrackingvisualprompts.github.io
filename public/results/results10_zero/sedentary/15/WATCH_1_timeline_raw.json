@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal movements within a bounded Y-range with occasional downward shifts, consistent with line-by-line reading rather than rapid object tracking, free browsing, or code editing/debugging, which typically exhibit more irregular and multidirectional gaze patterns.",
+  "correct": false
+}

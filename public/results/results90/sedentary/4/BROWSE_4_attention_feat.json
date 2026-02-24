@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are densely clustered over a mid-left code region with multiple vertical bands and revisits, similar to the DEBUG example pattern and more scattered than INTERPRET, indicating active scanning and re-reading typical of debugging code.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several large vertical shifts in Y with extended fixations at multiple depths on the page, along with horizontal scanning within each region\u2014matching the pattern of scrolling and inspecting different search-result areas rather than the more line-regular READ/BROWSE patterns or the compact code-focused tasks.",
+  "correct": false
+}

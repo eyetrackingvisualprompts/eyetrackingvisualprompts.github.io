@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trajectory shows large, irregular jumps across wide horizontal and vertical ranges with many distinct dwell positions, matching the pattern of following a randomly moving target rather than repetitive horizontal sweeps, central fixation, or localized text/game regions.",
+  "correct": false
+}

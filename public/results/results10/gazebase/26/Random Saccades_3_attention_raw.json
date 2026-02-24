@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points are distributed in multiple discrete clusters across both horizontal and vertical extents of the screen, without forming text-like lines or a narrow horizontal band, matching the scattered pattern typical of following a randomly moving target.",
+  "correct": true
+}

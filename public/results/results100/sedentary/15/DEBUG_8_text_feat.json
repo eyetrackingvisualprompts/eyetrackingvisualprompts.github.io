@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long-range saccades between widely separated vertical regions (top area, mid-page content region, lower region), revisits to header-like coordinates, and scanning horizontal bands match the pattern of exploring search results/pages rather than continuous line-by-line reading or focused code inspection/debugging. The combination of broad exploratory navigation and result-area re-fixations is most consistent with the SEARCH class among the provided exemplars.",
+  "correct": false
+}

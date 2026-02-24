@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large saccades between widely separated vertical regions (upper text/URL area, mid results, and lower page), mixed with shorter local inspection around clusters, matches the scanning and revisiting pattern of navigating a search results page rather than the more line-structured READ pattern or the more code-block-focused INTERPRET/DEBUG/WRITE behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, smooth horizontal scanpaths with small vertical shifts between adjacent horizontal bands, consistent with line-by-line reading behavior and matching the spatial-temporal pattern of the READ examples more than the other tasks.",
+  "correct": true
+}

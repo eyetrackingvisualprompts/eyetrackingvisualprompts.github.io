@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are highly concentrated in a single compact area near the lower-center of the screen, consistent with watching a video where gaze stays on a central region (e.g., character or subtitle area), unlike the more horizontally distributed scans of reading/browsing/search or the upper-left bias of writing/playing.",
+  "correct": false
+}

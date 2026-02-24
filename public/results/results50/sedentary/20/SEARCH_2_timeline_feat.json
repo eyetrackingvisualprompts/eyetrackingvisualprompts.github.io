@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated vertical shifts and wider exploration across the screen than in structured reading, with intermittent focused regions and larger Y-range similar to the SEARCH example plot, indicating scanning of search results and pages rather than stable reading or code-focused tasks.",
+  "correct": true
+}

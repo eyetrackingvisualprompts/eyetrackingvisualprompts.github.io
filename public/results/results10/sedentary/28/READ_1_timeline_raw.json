@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "X position shows long, smooth horizontal sweeps with occasional quick resets and relatively stable Y position, matching line-by-line reading behavior seen in the READ example more than the other activities.",
+  "correct": true
+}

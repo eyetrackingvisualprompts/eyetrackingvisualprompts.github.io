@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is centered horizontally with moderate vertical spread and frequent short saccades, indicating scanning of results and interface elements; pattern closely matches the SEARCH example more than the more static READ or more dynamic PLAY/WATCH behaviors.",
+  "correct": true
+}

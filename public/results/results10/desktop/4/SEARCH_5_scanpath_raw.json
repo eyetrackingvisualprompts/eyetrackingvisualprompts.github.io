@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, multidirectional movements covering a broad horizontal range with frequent shifts in both X and Y, resembling the dynamic, exploratory eye movements in the PLAY example more than the more localized or structured patterns of reading, browsing, or watching video.",
+  "correct": false
+}

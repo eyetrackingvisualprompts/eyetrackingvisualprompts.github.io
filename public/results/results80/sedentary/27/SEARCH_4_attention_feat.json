@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely dispersed across the entire screen, with no dominant cluster or structured reading lines, matching the varied and exploratory gaze pattern seen in the BROWSE example rather than the more localized or structured patterns of other tasks.",
+  "correct": false
+}

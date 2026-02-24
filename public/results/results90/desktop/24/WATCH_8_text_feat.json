@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze alternates rapidly between a lower horizontal band (~y=0.23\u20130.33) and a central band (~y=0.40\u20130.55) with many medium-amplitude vertical saccades and relatively short fixations, forming a compact interaction zone rather than extended horizontal line tracking (READ) or dispersed exploration (BROWSE/SEARCH). This tightly clustered, dynamic pattern with repeated returns to similar regions matches the control-focused gaze behavior seen in PLAY examples, especially platformer-style gameplay where attention shifts between the character and nearby elements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a narrow horizontal band slightly above the bottom of the screen, with two nearby fixation clusters and little vertical movement. This pattern matches watching a video focused on central content (e.g., character region or subtitles) more than the broader vertical scanning seen in reading, searching, browsing, or writing, or the wider exploratory movements typical in game play.",
+  "correct": false
+}

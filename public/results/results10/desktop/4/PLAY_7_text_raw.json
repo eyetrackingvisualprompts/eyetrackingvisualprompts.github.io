@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The data shows frequent shifts between mid-screen and various vertical positions, including distinct excursions to the very top and bottom regions, interleaved with periods of localized fixations\u2014indicative of scanning result lists, reading snippets, and moving to other page areas, which best matches the SEARCH pattern compared to the more structured line-by-line READ or the more center-focused WATCH/BROWSE examples.",
+  "correct": false
+}

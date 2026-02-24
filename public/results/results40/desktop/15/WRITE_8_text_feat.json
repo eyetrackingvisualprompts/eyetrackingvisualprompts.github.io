@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Very long, stable fixations clustered in a tight area near the upper part of the screen, with only occasional medium saccades, match the sustained gaze on a small region (text cursor/line) typical of typing in a word processor, as seen in the WRITE examples, rather than the broader scanning patterns of SEARCH/BROWSE/READ or the more dynamic shifts of WATCH/PLAY.",
+  "correct": true
+}

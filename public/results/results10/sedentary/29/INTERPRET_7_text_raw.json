@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Predominantly left-to-right, line-like gaze shifts in mid\u2013upper screen, with many small horizontal and slight vertical movements clustered in bands (y\u2248230\u2013380), closely resembling the structured, paragraph-style scanpaths seen in the READ example, rather than the larger object-centered regions of WATCH/PLAY or code-focused clusters of WRITE/DEBUG/INTERPRET/BROWSE/SEARCH.",
+  "correct": false
+}

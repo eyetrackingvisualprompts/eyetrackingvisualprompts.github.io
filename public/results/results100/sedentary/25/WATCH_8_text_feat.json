@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades across wide screen regions, many fixations clustered around mid/lower screen coordinates typical of game play areas, repeated returns between HUD-like edges and central regions, and absence of systematic line-by-line reading or code/IDE-like columnar scanning all match the PLAY examples more closely than reading, coding, searching, or passive video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide, dispersed scanpath across the whole page with frequent long saccades and revisits to multiple regions, closely matching the exploratory, multi-area pattern seen in the BROWSE example rather than the more localized or structured patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between fixations of ~0.2\u20130.7s and large multi-degree saccades in varying horizontal and vertical directions, with positions scattered across both axes rather than constrained to a line (as in horizontal saccades) or a single point (fixation). The pattern reflects following a target that jumps to random 2\u201315\u00b0 positions for ~1s each, matching the Random Saccades task more than structured reading, video viewing, or the game scenario.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a relatively compact central-left region consistent with a code window, with many long saccades between a small set of line-like locations (around y\u2248240\u2013290, 330\u2013400, and 550\u2013570) and repeated re-reading of these zones. There are no systematic horizontal sweeps typical of READ, nor broad vertical navigation and result-page/top-bar transitions typical of SEARCH/BROWSE. The pattern matches focused inspection of a short code snippet to reason about its behavior, characteristic of the INTERPRET task.",
+  "correct": false
+}

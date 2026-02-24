@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-page reading-like horizontal scans and frequent large saccades to extreme top/bottom and off-screen coordinates, indicative of scrolling, navigation, and inspecting disparate web page regions rather than focused code (WRITE/DEBUG/INTERPRET) or continuous lines (READ). The widespread vertical and lateral exploration with revisits and jumps matches the BROWSE patterns best.",
+  "correct": false
+}

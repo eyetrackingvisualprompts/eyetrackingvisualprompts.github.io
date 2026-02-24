@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal, line-like scan patterns with moderate vertical shifts and regular fixations, closely matching the structured reading behavior seen in the READ example plot rather than the more scattered or top-focused patterns of browsing, search, or other tasks.",
+  "correct": false
+}

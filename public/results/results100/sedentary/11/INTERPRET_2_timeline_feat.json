@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a narrow region with relatively stable horizontal and vertical fixations, indicating focused inspection of a small code snippet, with brief clustered saccades around the middle\u2014matching the INTERPRET pattern more than the broader scanning or line-by-line movements of other tasks.",
+  "correct": true
+}

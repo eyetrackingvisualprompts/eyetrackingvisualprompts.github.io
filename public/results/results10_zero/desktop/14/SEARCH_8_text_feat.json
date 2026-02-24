@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a relatively narrow central region with short horizontal and small vertical saccades and frequent medium-length fixations, consistent with line-by-line inspection of static text rather than large exploratory movements typical of SEARCH, BROWSE, or PLAY, or wider vertical shifts and motion tracking expected in WATCH; WRITE usually shows more oscillation between text and an input area, which is not evident here.",
+  "correct": false
+}

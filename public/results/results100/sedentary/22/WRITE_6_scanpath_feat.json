@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is heavily concentrated on the upper-left area (typical of search results list and query box) with some long saccades to the right side (likely result content panels), matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

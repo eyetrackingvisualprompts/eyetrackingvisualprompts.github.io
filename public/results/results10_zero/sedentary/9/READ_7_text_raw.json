@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cover a wide horizontal range and substantial vertical movement, including repeated shifts between mid and lower screen regions, consistent with tracking dynamic objects and navigating space in a simple game, rather than the more line-structured, band-limited patterns typical of reading, coding, or web search/browsing tasks.",
+  "correct": false
+}

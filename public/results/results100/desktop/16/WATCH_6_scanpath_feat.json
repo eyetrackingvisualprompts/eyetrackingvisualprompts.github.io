@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the screen center with moderate dispersion and frequent re-fixations, resembling the exploratory yet focused pattern of the SEARCH example more than the denser central cluster of BROWSE or the structured horizontal patterns of READ/WRITE.",
+  "correct": false
+}

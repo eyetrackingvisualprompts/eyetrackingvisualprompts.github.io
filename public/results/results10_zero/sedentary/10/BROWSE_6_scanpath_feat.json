@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The scanpath shows concentrated fixations over a compact, code-sized region with limited vertical extent and moderate horizontal spread, suggesting careful inspection of a small code snippet rather than larger scrolling or dispersed browsing; the focused, revisiting pattern aligns best with interpreting a short function\u2019s behavior.",
+  "correct": false
+}

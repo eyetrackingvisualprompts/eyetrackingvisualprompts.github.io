@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like changes in both horizontal and vertical directions with irregular amplitudes and intervals, covering a broad 2D area, which matches the pattern of following a randomly moving target rather than structured left-right (reading/horizontal saccades) or mostly central (fixation, video, game) behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large horizontal saccades with moderate vertical shifts and several abrupt gaze jumps suggest scanning multiple regions and switching between results/pages, closely matching the SEARCH pattern compared to the more linear READ or localized code-related tasks.",
+  "correct": false
+}

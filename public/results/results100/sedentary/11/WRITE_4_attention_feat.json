@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered on a compact area in the upper-left where the code snippet likely resides, with occasional checks to the right, matching the INTERPRET example more closely than WRITE or DEBUG, which show broader scanning of the editor and console areas.",
+  "correct": false
+}

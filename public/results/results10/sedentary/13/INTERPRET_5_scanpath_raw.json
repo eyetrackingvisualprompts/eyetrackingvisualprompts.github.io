@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively small lower-left screen region with dense, erratic back-and-forth saccades and revisits, closely resembling the complex, localized scanning seen in the DEBUG example rather than the more linear or spread patterns of reading, browsing, or watching.",
+  "correct": false
+}

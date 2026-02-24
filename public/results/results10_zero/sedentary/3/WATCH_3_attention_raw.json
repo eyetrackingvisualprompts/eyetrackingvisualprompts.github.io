@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows dispersed gaze clusters across a wide vertical range with no clear horizontal scan lines typical of reading or code-related tasks. The gaze concentrates on a few salient mid-screen regions and shifts among them, consistent with following dynamic visual content in a video rather than static text or interactive elements.",
+  "correct": true
+}

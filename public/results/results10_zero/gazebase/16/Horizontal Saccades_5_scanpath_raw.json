@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated, smooth, nearly horizontal back\u2011and\u2011forth eye movements across a wide range of the screen with minimal vertical variation, matching the pattern of tracking a horizontally moving target rather than reading (multiple lines), random saccades (multi\u2011directional), fixations (static), video viewing, or the Balura game (irregular, multi\u2011directional).",
+  "correct": true
+}

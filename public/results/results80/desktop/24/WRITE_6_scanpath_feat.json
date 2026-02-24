@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze cluster is moderately compact around a central region with occasional longer saccades, similar to the browsing example: more dispersed than READ/WRITE but less spread and directional than PLAY or WATCH, matching typical web browsing with some scrolling and link exploration.",
+  "correct": false
+}

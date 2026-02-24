@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are concentrated in central-to-lower screen regions with large, rapid shifts and many excursions to screen edges and corners, matching dynamic tracking of moving objects and navigation typical of gameplay rather than the more line-structured, horizontal scan patterns seen in reading, browsing, or code-related tasks.",
+  "correct": false
+}

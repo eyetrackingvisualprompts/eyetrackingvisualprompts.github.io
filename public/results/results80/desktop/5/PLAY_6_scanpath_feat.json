@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central-lower region with small, irregular shifts and no strong horizontal reading lines, resembling focused attention on a localized web page area typical of browsing rather than the more structured patterns of reading or the larger movements in play/watch/search.",
+  "correct": false
+}

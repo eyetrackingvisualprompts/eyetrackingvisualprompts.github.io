@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered over the left-central code area with a smaller nearby cluster, resembling the concentrated gaze on the editor when implementing code, similar to the WRITE example and less scattered than DEBUG or BROWSE.",
+  "correct": false
+}

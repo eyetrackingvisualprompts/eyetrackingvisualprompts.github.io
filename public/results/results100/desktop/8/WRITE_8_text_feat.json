@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region near the upper screen with long, stable fixations and only tiny local saccades, matching focused attention on a single area such as the text cursor in a word processor during writing, rather than the broader scanning or multi-line horizontal sweeps seen in reading, browsing, or search, or the large-range shifts seen in watching videos or games.",
+  "correct": true
+}

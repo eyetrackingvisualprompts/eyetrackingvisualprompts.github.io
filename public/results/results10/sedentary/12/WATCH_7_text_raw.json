@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows multiple large horizontal transitions across widely separated x-coordinates combined with clusters of shorter fixations, consistent with scanning SERP results and then focused reading on selected snippets rather than the more line-structured, narrow-band horizontal patterns of continuous READ or the central, object-following patterns of WATCH/PLAY.",
+  "correct": false
+}

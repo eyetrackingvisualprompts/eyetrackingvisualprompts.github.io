@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like region with many long (0.8\u20132.4 s) fixations and short saccades around nearby coordinates, alternating between two vertical zones (\u2248y=240\u2013320 and \u2248y=500+), matching the sustained, localized inspection and back-and-forth checking typical of mentally simulating code output in the INTERPRET task rather than the more line-structured READ or more scattered SEARCH/BROWSE patterns.",
+  "correct": false
+}

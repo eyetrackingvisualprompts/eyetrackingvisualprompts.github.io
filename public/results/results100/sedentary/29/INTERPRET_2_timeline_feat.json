@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow central band with relatively small horizontal span and infrequent large saccades, matching the focused inspection pattern of code interpretation rather than the more continuous scanning (SEARCH/BROWSE), wide exploratory movement (PLAY/WATCH), or the steadier, text-line progression of READ/WRITE/DEBUG.",
+  "correct": true
+}

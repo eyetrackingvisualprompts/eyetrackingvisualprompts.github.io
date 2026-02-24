@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows smooth, gradual drift in X with relatively small Y changes and few large saccades, indicating continuous tracking of a central visual scene rather than line-by-line reading or code inspection, matching the WATCH pattern best among the examples.",
+  "correct": false
+}

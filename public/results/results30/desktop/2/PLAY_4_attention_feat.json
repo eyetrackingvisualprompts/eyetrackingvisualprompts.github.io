@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central region with moderate vertical spread, resembling the browsing example more than the denser search result area or the horizontal scanlines of reading/writing; this pattern fits scanning a central content area on a webpage.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze cluster is compact and horizontally elongated with limited vertical movement, resembling line-by-line scanning of text, which matches the characteristic pattern observed in the READ examples more than in the other activities.",
+  "correct": true
+}

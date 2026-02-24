@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a narrow horizontal band across the mid-lower screen, characteristic of line-by-line text reading, similar to the READ example and unlike the more centralized clusters of BROWSE/SEARCH or dispersed patterns of PLAY/WATCH.",
+  "correct": false
+}

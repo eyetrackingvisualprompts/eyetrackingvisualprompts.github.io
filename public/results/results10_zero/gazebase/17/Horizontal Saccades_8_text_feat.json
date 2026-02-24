@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates almost exclusively between about -16\u00b0 and +16\u00b0 on the horizontal axis with minimal vertical deviation, forming large, regular left\u2013right saccades of ~30\u00b0 visual angle and ~1 s fixations at each side, which matches the controlled Horizontal Saccades task description.",
+  "correct": true
+}

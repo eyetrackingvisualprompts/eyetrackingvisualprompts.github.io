@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The fixation traces show predominantly horizontal movements around mid-screen with relatively stable Y positions that slowly drift downward, matching line-by-line reading behavior, and the variability pattern closely resembles the READ example more than the other activities.",
+  "correct": false
+}

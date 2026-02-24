@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows a small, localized cluster of fixations with limited horizontal spread and no clear left-to-right, line-by-line pattern typical of reading or writing. Movements are moderate and confined, suggesting sustained attention to a relatively static central region\u2014consistent with watching video content rather than exploratory tasks like search, browse, or play.",
+  "correct": false
+}

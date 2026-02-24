@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows alternating clusters of focused fixations in a narrow central region with intermittent vertical excursions and saccades toward the top, resembling shifts between code editor and reference/UI elements; this pattern best matches the WRITE example compared to other tasks.",
+  "correct": true
+}

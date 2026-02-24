@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated in a compact region around the upper-middle area with moderate vertical spread, closely resembling the SEARCH example heatmap where users focus around the search results and query area rather than following text lines (READ) or widely scanning (WATCH/PLAY).",
+  "correct": false
+}

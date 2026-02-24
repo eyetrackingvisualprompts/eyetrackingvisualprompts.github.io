@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are confined to a relatively small mid-lower region with short horizontal sweeps and frequent local regressions, resembling attention on a single text block plus nearby writing area, which matches the WRITE pattern more than the broader, more exploratory patterns of SEARCH or BROWSE and the wider spans of READ.",
+  "correct": false
+}

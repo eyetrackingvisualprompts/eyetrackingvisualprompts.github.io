@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows long, horizontally aligned fixations across consistent rows with occasional vertical transitions, characteristic of line-by-line text reading rather than code inspection, game play, or browsing with larger spatial jumps.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "X fixation is mostly in the lower half of the screen with a slow upward drift over time, while Y fixation stays near the top region with occasional downward excursions\u2014matching the pattern of looking at a fixed text area (top) and intermittently glancing down to the writing region, characteristic of the WRITE task compared with the provided examples.",
+  "correct": false
+}

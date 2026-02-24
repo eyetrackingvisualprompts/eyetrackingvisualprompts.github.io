@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively stable horizontal positions with moderate shifts and small vertical changes, consistent with following central screen content such as a video rather than dense line-by-line reading, focused typing, or highly scattered search/browse/game patterns.",
+  "correct": false
+}

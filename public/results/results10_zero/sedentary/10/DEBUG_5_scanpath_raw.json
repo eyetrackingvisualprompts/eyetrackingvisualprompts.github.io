@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a small left-top region with repeated short saccades and revisits, plus occasional long vertical shifts suggesting glances to another part of the same code area (e.g., terminal or another snippet). This focused, localized inspection without systematic horizontal text scanning or wide exploration is most consistent with mentally tracing and interpreting a short code snippet rather than reading prose, debugging a full program, or browsing/searching.",
+  "correct": false
+}

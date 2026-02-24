@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long, smooth horizontal movements with relatively small vertical changes, consistent with tracking motion across a video rather than line-by-line reading or code-focused tasks, and lacking the rapid multi-directional shifts typical of search, browse, or gameplay.",
+  "correct": false
+}

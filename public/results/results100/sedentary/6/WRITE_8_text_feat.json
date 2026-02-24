@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long fixations around a small horizontal text region with many short saccades and repeated revisits, combined with intermittent large jumps to other screen areas and even off-screen coordinates, match the mixed reading-plus-scanning pattern typical of SEARCH rather than the more uniform line-wise reading of READ or the highly code-centered patterns of programming tasks.",
+  "correct": false
+}

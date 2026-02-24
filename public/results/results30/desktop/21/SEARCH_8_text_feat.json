@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated around mid-horizontal and upper-mid vertical regions with frequent medium-amplitude vertical and horizontal shifts, intermittent longer saccades between content areas, and moderate fixation durations\u2014pattern closely matching the browsing example (navigation across mixed text/graphics) rather than the more line-structured READ or left-top-focused WRITE behaviors.",
+  "correct": false
+}

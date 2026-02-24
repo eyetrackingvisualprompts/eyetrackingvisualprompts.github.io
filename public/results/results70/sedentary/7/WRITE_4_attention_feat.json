@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered over a single left-of-center code region with a few nearby glances, matching the focused pattern seen when writing code, and differing from the broader spread of browse/search or the central focus of play/watch.",
+  "correct": true
+}

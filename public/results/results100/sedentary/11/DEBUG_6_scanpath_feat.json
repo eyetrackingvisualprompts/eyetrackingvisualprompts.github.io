@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations in the left code/console area with occasional long saccades to the right (likely editor or output) match the structured yet exploratory pattern seen in the DEBUG example, rather than the more localized INTERPRET or WRITE patterns or the more scattered BROWSE/SEARCH behaviors.",
+  "correct": true
+}

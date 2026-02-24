@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is largely confined to a compact code-like area with many short intra-region saccades and long re-fixations, plus occasional rapid, large jumps to other screen regions (including top and extreme corners) and back\u2014matching the intensive, back-and-forth inspection and verification pattern seen in DEBUG examples more than the more linear READ or more dispersed BROWSE/SEARCH behaviors.",
+  "correct": false
+}

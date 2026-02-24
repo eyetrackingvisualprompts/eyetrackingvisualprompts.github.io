@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a relatively narrow central region with moderate vertical spread and occasional checks to a few nearby locations, closely matching the structured yet localized code-inspection pattern seen in the INTERPRET example rather than the denser, more dispersed patterns of DEBUG or other tasks.",
+  "correct": false
+}

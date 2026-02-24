@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple separated fixation clusters vertically and horizontally with medium-range saccades between them, indicating shifting attention between several interface regions (e.g., query box, results, and other elements), which matches the SEARCH pattern more than the more linear READ or more scattered PLAY/WATCH behaviors.",
+  "correct": false
+}

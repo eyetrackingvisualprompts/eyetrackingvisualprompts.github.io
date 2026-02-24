@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades spanning wide vertical and horizontal regions (e.g., between upper and lower screen, center and corners), with relatively short to moderate fixations and irregular, non-linear scanning, match the dynamic gaze behavior seen in the PLAY examples rather than the more structured, line-based or region-limited patterns of READ/WRITE/BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

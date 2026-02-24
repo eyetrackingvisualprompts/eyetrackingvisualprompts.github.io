@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, smooth shifts in both axes with broad saccades and relatively few tight regressions or line-by-line horizontal patterns, indicating following dynamic visual content rather than structured reading or code inspection, which matches the WATCH activity.",
+  "correct": true
+}

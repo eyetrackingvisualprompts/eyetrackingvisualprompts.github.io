@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between widely separated positions in both horizontal and vertical directions (up to ~\u00b116\u00b0 horizontally, multi-degree vertical shifts) with relatively long fixations (~0.2\u20130.6s) at each location, matching the discrete, multi-directional, large-amplitude jumps of the Random Saccades task rather than the strictly horizontal pattern of Horizontal Saccades or the more localized patterns of reading or central fixation.",
+  "correct": false
+}

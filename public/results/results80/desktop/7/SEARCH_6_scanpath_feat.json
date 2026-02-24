@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover almost the entire screen with frequent large saccades in multiple directions and relatively short fixations, indicating highly dynamic, visually spread interaction consistent with gameplay rather than the more localized or structured patterns seen in reading, writing, searching, browsing, or watching video.",
+  "correct": false
+}

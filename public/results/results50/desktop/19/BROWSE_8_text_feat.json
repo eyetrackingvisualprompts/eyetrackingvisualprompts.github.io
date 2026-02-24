@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows frequent medium-amplitude shifts between mid-lower and upper regions, with varied vertical excursions and scattered horizontal positions, resembling scanning of heterogeneous web content rather than the tight horizontal bands of READ or the focused upper-band behavior of WRITE; dynamics and dispersion best match the BROWSE exemplar patterns.",
+  "correct": true
+}

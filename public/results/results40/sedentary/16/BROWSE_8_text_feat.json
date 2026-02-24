@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly constrained to one or two narrow horizontal bands with smooth left\u2013right progressions and short regressions, matching line-by-line reading behavior. There are no long dwell clusters on code-like regions (INTERPRET/DEBUG/WRITE) or dynamic object tracking and large jumps (PLAY/WATCH); instead the scanpath resembles the READ example\u2019s horizontal sweeps near the top of the page.",
+  "correct": false
+}

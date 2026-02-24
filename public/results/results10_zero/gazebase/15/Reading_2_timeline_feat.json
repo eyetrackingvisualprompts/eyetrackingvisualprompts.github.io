@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze shows discrete, step-like horizontal position changes spanning a large range while vertical position remains nearly constant, with each horizontal position held briefly before shifting, matching the pattern of following a horizontally moving target rather than random, reading, or static fixation behavior.",
+  "correct": false
+}

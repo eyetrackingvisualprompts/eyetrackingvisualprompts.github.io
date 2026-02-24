@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is relatively confined with moderate horizontal movement and small vertical shifts, plus occasional brief larger saccades\u2014matching the focused, line-by-line inspection of short code snippets seen in the INTERPRET example rather than the broader, more dynamic patterns of tasks like READ, SEARCH, or DEBUG.",
+  "correct": false
+}

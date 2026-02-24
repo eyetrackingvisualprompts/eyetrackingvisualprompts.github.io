@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small central region with frequent vertical shifts between a few horizontal lines and occasional large downward excursions, matching code comprehension behavior seen in the INTERPRET example more than the broader exploration of BROWSE/SEARCH or the larger movements of WATCH/PLAY.",
+  "correct": false
+}

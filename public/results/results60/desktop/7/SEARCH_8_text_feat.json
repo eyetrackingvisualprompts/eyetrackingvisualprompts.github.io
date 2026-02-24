@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-screen and upper/lower regions with many medium-distance saccades and short fixations, showing exploratory scanning without the systematic line-by-line horizontal patterns of READ or the bottom-focused behavior of WRITE. The pattern closely resembles the heterogeneous, scroll-and-skim movements seen in the BROWSE examples rather than the more constrained regions in WATCH or the highly dynamic, wide-range shifts in PLAY/SEARCH.",
+  "correct": false
+}

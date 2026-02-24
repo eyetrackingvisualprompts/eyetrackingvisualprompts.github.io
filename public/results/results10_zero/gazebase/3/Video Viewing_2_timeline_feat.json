@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between discrete fixation positions in both horizontal and vertical directions, with roughly 1-second plateaus at each location and jumps of several degrees in varying directions, matching the random 2D target steps described for Random Saccades rather than purely horizontal motion, static fixation, or natural viewing patterns.",
+  "correct": false
+}

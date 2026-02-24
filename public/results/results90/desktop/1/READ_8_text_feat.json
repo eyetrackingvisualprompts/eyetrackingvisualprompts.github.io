@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a narrow horizontal band (~y=0.23\u20130.45) with frequent short horizontal saccades and medium\u2013long fixations, showing orderly left\u2013right movements and small vertical shifts between nearby lines\u2014typical of reading text rather than the broader multidirectional exploration seen in search/browse or the larger vertical spread and object-centered shifts common in watch/play/write.",
+  "correct": true
+}

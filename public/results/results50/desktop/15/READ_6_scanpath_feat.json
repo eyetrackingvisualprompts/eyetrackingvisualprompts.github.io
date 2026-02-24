@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered in a compact central region with short saccades and limited coverage, resembling focused inspection of a small area such as a search results list, and differing from the broader horizontal sweeps of READ/WRITE or the wider spatial spread of WATCH/BROWSE/PLAY.",
+  "correct": false
+}

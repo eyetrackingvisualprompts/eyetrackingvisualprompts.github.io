@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points progress in a tightly clustered, low-vertical-span band near the upper-left of the screen with short horizontal saccades and frequent regressions, then shift gradually downward, forming line-like segments. This pattern is characteristic of reading text rather than the more dispersed, object-following, or code-focused patterns seen in the other tasks.",
+  "correct": false
+}

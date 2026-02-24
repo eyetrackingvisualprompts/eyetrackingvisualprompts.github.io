@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across the full screen (and beyond bounds), many horizontal sweeps across central rows, repeated revisits to similar horizontal bands, and jumps between top URL-bar\u2013like coordinates and mid/low-page regions match the exploratory, mixed reading-scanning pattern seen in BROWSE, not the more structured code/reading layouts or object-tracking of PLAY/WATCH.",
+  "correct": true
+}

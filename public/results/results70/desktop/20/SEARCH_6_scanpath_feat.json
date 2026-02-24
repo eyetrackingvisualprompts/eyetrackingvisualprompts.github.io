@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a small central-bottom region with limited horizontal spread and minimal vertical movement, closely matching the focused, localized pattern seen in the WRITE example and differing from the broader, scanning patterns of READ, SEARCH, BROWSE, WATCH, or PLAY.",
+  "correct": false
+}

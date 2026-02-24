@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal scanning with moderate vertical shifts and dispersed saccades, resembling movement between search results and snippets rather than the more linear READ pattern or the tighter, code-focused patterns of WRITE/INTERPRET/DEBUG.",
+  "correct": false
+}

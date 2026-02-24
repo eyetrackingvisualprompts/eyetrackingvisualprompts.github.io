@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the central area with moderate dispersion and frequent saccades in multiple directions, similar to the example SEARCH pattern where users scan result lists and related content, rather than the more structured horizontal patterns of READ or the upper-screen focus of WATCH/WRITE.",
+  "correct": false
+}

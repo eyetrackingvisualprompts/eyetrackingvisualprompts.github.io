@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are strongly clustered on a narrow code/text area at the upper-left portion of the screen with a slight horizontal spread and little activity elsewhere, closely matching the focused pattern of the WRITE example rather than the more localized INTERPRET or more scattered DEBUG patterns.",
+  "correct": true
+}

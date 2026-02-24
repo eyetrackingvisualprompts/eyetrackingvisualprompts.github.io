@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular jumps in both horizontal and vertical directions, covering much of the screen with no consistent horizontal line (as in reading or horizontal saccades) or central clustering (fixation). The trajectory resembles the example of Random Saccades, with discrete relocations and varied amplitudes, rather than the more localized and object-driven patterns of the Balura game or video viewing.",
+  "correct": false
+}

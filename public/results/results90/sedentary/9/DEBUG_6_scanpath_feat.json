@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a narrow vertical region with dense fixations and limited horizontal spread, similar to focused inspection of a single code block as in the INTERPRET task, and less dispersed than the DEBUG example which covers a wider area of the code editor.",
+  "correct": false
+}

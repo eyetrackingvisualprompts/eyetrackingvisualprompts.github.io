@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The scanpath shows irregular, multi-directional movements clustered in a mid-screen region, without the strict horizontal pattern of horizontal saccades, the tight central cluster of fixations, the line-by-line structure of reading, or the broader/random coverage of random saccades and the Balura game. This pattern best matches natural exploration during video viewing.",
+  "correct": false
+}

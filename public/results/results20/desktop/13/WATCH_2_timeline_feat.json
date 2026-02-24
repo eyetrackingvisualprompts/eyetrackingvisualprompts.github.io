@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "X fixation stays in a relatively narrow mid-range while Y fixation is consistently high and slowly drifts upward, indicating gaze concentrated near the top portion of the screen where a text cursor would move down gradually during typing; saccades are sparse and mostly vertical, matching the WRITE example pattern more closely than the others.",
+  "correct": false
+}

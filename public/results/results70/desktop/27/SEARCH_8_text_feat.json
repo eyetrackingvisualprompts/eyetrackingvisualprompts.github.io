@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, stable horizontal scanpaths with small vertical shifts around mid-screen y\u22480.3\u20130.5, consistent with line-by-line reading, unlike the larger multidirectional excursions typical of search, browse, or play, and more spatially constrained than watch or write examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent vertical transitions between top and bottom regions, visits to extreme screen edges, and scattered mid-page scanning resemble scrolling and navigating a long web page more than the tighter code/reading patterns or dynamic object tracking seen in games or videos.",
+  "correct": false
+}

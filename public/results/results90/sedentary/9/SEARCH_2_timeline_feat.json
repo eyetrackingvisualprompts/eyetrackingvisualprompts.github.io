@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right scanning in X with gradual downward drift in Y and intermittent larger jumps, closely matching the heterogeneous, scroll-and-scan pattern seen in the BROWSE example rather than the more structured or task-focused patterns of reading, coding, or gaming.",
+  "correct": false
+}

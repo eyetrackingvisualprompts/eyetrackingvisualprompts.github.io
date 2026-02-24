@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions remain mostly around mid\u2011screen with moderate, irregular shifts in both X and Y, lacking the systematic horizontal scanlines of READ/WRITE and the larger, more dynamic excursions seen in PLAY or WATCH; this pattern most closely matches the browsing example.",
+  "correct": false
+}

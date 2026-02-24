@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates in large, regular, step-like horizontal jumps between approximately \u00b115 degrees with about 1-second plateaus, while Y remains near zero with minimal variation\u2014matching the controlled, periodic horizontal target motion in the Horizontal Saccades task.",
+  "correct": true
+}

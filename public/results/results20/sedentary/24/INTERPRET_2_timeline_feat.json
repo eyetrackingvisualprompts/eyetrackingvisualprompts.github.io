@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are mostly concentrated in a narrow central horizontal band with occasional shifts, resembling the provided WRITE example where attention stays near the code editor\u2019s text line while typing, rather than the broader vertical exploration seen in READ, SEARCH, or BROWSE.",
+  "correct": false
+}

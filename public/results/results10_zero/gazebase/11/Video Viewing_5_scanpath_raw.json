@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular jumps in both horizontal and vertical directions with dwell periods at dispersed locations, matching a target that moves to random screen positions rather than strictly horizontal motion, central fixation, or structured reading patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions for both X and Y remain around the screen center with small, frequent fluctuations and no strong directional pattern, closely matching the heterogeneous, shallow-scanning behavior seen in the BROWSE example rather than the more structured or directional patterns of reading, writing, searching, playing, or watching video.",
+  "correct": false
+}

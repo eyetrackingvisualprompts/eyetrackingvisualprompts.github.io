@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, multi-directional jumps across a wide range of visual angles (both horizontal and vertical), interspersed with short clusters of relative stability, consistent with following a randomly moving bull\u2019s-eye rather than strictly horizontal movements, stable fixation, structured left-to-right reading patterns, or the more locally clustered gaze typical of video viewing or a game with object-centered fixations.",
+  "correct": false
+}

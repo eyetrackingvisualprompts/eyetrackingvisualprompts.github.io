@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered centrally with moderate spread both horizontally and vertically, similar to the BROWSE exemplar where users scan mixed-content pages. It shows more spatial dispersion than READ/WRITE but less structured search behavior than SEARCH, matching typical news/blog browsing patterns.",
+  "correct": false
+}

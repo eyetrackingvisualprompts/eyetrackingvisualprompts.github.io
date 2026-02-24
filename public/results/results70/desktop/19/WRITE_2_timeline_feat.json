@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows a generally increasing X-position over time with Y-position staying in the lower part of the screen and stepping downward in segments, consistent with typing in a word processor where lines advance gradually while text area remains low on the screen, matching the WRITE pattern more than the other activities.",
+  "correct": true
+}

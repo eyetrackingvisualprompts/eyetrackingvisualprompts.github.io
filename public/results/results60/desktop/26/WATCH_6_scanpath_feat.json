@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small upper-central region with minimal horizontal scanning, indicating sustained attention to a single moving area (such as a video scene) rather than line-by-line text reading or exploratory browsing/searching patterns.",
+  "correct": true
+}

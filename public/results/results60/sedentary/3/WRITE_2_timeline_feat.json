@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows tightly clustered fixations with small, frequent adjustments around a limited screen region, resembling focused code inspection and comparison patterns seen in the DEBUG example rather than the more linear (READ) or exploratory (BROWSE/SEARCH) behaviors.",
+  "correct": false
+}

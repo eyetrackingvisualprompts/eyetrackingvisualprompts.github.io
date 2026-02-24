@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze remains mostly in a central vertical band with frequent medium-amplitude vertical shifts and revisits, consistent with scanning SERP snippets and moving between result titles and lower content. The pattern is more exploratory and less line-structured than READ, less peripheral and dynamic than PLAY/WATCH, and lacks the tight upper-text/bottom-cursor coupling typical of WRITE; it closely matches the SEARCH example\u2019s spatial region and saccade/fixation dynamics.",
+  "correct": false
+}

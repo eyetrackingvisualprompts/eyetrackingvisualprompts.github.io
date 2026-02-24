@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium central X with larger, irregular vertical shifts and frequent saccades, alternating between mid and upper screen\u2014consistent with moving between query box, results list, and different page areas as in SEARCH, and less stable than READ or WRITE and less uniformly scattered than BROWSE.",
+  "correct": false
+}

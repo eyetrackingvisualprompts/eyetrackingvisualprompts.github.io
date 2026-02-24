@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around screen center with many short fixations and small to medium multidirectional saccades, including frequent returns to nearby positions and occasional jumps between mid and slightly lower regions. The pattern lacks the long, strictly horizontal scanlines of READ, the strong lower-band text focus of WRITE, and the large, rapid, omni-directional shifts of PLAY or WATCH. It closely matches the central, exploratory, interface-focused behavior seen in the BROWSE examples, more so than the more focused yet still exploratory SEARCH patterns, which show clearer transitions between results and answer regions.",
+  "correct": false
+}

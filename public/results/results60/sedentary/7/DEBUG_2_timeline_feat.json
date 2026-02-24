@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows two distinct horizontal bands corresponding to alternating focus between search box/results and lower content, with frequent medium-amplitude vertical saccades and periodic shifts\u2014most similar to the SEARCH example compared to the more uniform READ pattern or the more scattered WATCH/BROWSE behaviors.",
+  "correct": false
+}

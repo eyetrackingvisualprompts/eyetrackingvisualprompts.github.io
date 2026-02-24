@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, rapid shifts across wide screen areas (center to corners, large vertical jumps, and irregular trajectories) rather than orderly left\u2011to\u2011right / top\u2011to\u2011bottom scanning typical of reading or code tasks. The pattern is consistent with tracking moving objects and navigating in multiple directions, which aligns best with the PLAY (game) activity.",
+  "correct": false
+}

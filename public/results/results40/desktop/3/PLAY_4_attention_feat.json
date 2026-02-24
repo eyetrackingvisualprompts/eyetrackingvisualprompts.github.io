@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central area with some vertical spread, resembling attention on a main article region with occasional scrolling, which matches the browsing heatmap more than the other task patterns.",
+  "correct": false
+}

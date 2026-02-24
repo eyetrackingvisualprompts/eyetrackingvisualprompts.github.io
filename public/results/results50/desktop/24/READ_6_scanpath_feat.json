@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points form several slanted, line\u2011like bands that gradually progress, mainly in the upper half and left side of the screen, matching horizontal line-by-line movements and top-left workspace typical for typing in a word processor rather than dense central clusters (browse/search/read) or wide, scattered movements (play/watch).",
+  "correct": false
+}

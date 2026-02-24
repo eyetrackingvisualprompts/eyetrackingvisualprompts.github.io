@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The target plot shows repeated horizontal saccade patterns with slowly drifting vertical fixations, similar to mixed reading and scanning behavior on long web pages; this best matches the BROWSE example timeline compared to other tasks.",
+  "correct": false
+}

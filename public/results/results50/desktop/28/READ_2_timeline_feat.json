@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows stable, horizontally oriented fixations around mid-screen X with gradual rightward drift and relatively steady Y position, matching the structured line-by-line scanning pattern typical of reading, and closely resembling the READ example plot more than the other activities.",
+  "correct": true
+}

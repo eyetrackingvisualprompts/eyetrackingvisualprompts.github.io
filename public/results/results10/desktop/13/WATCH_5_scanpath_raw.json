@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a compact but irregular region with frequent shifts and short saccades, resembling the example BROWSE pattern more than the more linear READ pattern or the larger-range movements in PLAY/SEARCH/WATCH/WRITE.",
+  "correct": false
+}

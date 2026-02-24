@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows continuous horizontal scanning with smooth upward drift in X and very small, slowly changing Y positions, plus occasional large horizontal saccades\u2014matching tracking of moving content in a video rather than the structured line-by-line patterns of reading/code or the more erratic movements of browsing, search, or play.",
+  "correct": false
+}

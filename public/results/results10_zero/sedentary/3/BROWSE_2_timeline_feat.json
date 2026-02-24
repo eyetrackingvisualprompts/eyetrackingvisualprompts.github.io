@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large vertical shifts with relatively small horizontal variation and extended fixations at similar X positions, consistent with following scene elements in a video rather than line-by-line reading or code-focused tasks.",
+  "correct": false
+}

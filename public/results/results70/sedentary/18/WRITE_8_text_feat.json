@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense fixations and short saccades clustered around a relatively small central code area with frequent revisits to the same lines and intermittent jumps to the top (likely function header) match the localized, re-reading pattern of mentally simulating code output in INTERPRET more than the broader scanning or navigation seen in DEBUG, WRITE, or BROWSE.",
+  "correct": false
+}

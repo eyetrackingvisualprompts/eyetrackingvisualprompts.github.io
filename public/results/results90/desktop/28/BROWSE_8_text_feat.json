@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a relatively narrow horizontal band with many medium-length fixations and short horizontal saccades, showing line-like scanning with occasional vertical shifts\u2014closely matching the structured, line-by-line pattern in the READ examples and less the more scattered, exploratory patterns of BROWSE/SEARCH or the larger, multidirectional shifts in WATCH/PLAY/WRITE.",
+  "correct": false
+}

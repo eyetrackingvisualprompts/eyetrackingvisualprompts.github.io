@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large, multi-directional saccades spanning wide horizontal and vertical ranges, with ~200\u2013300 ms fixations and irregular target positions, match the random target-following pattern rather than structured horizontal-only motion, reading lines, central fixation, or game-specific clustering.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact region with small localized movements and repeated fixations, similar to focused work on a code editor window as in the WRITE example, and unlike the broader horizontal patterns of READ or SEARCH or the more dispersed exploration in BROWSE/PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed horizontal scanning with frequent vertical transitions and scattered saccades, resembling navigation between search box, result snippets, and other page elements, most similar to the SEARCH example pattern among the provided classes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around the vertical center with a stronger cluster in the upper-middle region and additional activity lower down, matching the pattern of scanning search engine results (title/snippet area plus lower content) seen in the SEARCH example more than the other tasks.",
+  "correct": false
+}

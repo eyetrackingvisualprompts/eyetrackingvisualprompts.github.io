@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a compact code-sized area with short saccades and revisits, and there are no large excursions to run buttons, consoles, or other UI elements as seen in DEBUG or WRITE; this focused inspection of a single snippet best matches the INTERPRET pattern.",
+  "correct": false
+}

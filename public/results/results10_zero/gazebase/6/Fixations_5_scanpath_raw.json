@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between a central vertical cluster and an extreme left position along a largely horizontal axis, with long, straight horizontal saccades and brief dwell times at each side, matching the pattern of following a target moving horizontally between two positions.",
+  "correct": false
+}

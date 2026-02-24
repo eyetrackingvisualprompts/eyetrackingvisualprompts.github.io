@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-amplitude horizontal movements with several large vertical excursions and irregular saccades, indicating scanning across varied page regions rather than line-by-line reading or focused code work. This heterogeneous, exploratory pattern best matches the BROWSE examples.",
+  "correct": false
+}

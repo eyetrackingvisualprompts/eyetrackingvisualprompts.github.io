@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between two main vertical regions (upper-left and lower-left) with medium-range saccades and dispersed fixations, matching the pattern of moving between search results and lower content areas typical of search engine use, rather than the tighter code or text-focused patterns of INTERPRET/DEBUG/READ/WRITE or the screen-wide movements of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

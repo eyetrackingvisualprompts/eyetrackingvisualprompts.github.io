@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are centered mid-screen with moderate horizontal and vertical movements and frequent saccades, resembling the SEARCH example pattern more closely than the more stable READ or localized WRITE trajectories or the more dynamic WATCH/PLAY behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is densely clustered in a relatively small central-left code region with repeated fixations and short saccades, interspersed with a few long shifts to the screen corners, closely matching the INTERPRET example pattern of focused code inspection with occasional reference checks, and differing from the more dispersed WRITE/DEBUG patterns.",
+  "correct": false
+}

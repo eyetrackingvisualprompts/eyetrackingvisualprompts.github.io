@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows a single tight cluster of gaze points at a nearly static location, indicating sustained fixation on one target rather than multiple dispersed fixations or large saccades, which matches the Fixations task.",
+  "correct": true
+}

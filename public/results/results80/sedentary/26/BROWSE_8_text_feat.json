@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent jumps across wide screen regions (center, corners, top/bottom, and off-screen bounds), long vertical excursions, and clusters around mid\u2011screen object-like areas rather than line-by-line or code-structured scanning. The pattern lacks the systematic horizontal/vertical sweeps of reading, searching, browsing, or code tasks, and instead matches the dispersed, scene-oriented viewing behavior typical when watching dynamic full-screen video content.",
+  "correct": false
+}

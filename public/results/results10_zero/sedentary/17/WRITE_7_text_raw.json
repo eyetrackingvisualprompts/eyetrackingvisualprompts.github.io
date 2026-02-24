@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points progress in relatively small, systematic horizontal movements with occasional vertical shifts, consistent with line-by-line reading and paragraph transitions, rather than the larger, more erratic spatial shifts typical of PLAY, SEARCH, BROWSE, or WATCH. The pattern lacks the dense code-region re-fixations and frequent IDE-area shifts more indicative of INTERPRET, DEBUG, or WRITE, aligning best with a reading task.",
+  "correct": false
+}

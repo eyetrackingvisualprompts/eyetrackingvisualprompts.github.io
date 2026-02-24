@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, monotonic horizontal sweeps with occasional quick returns and a relatively stable vertical position, matching the left-to-right line-by-line scanning pattern characteristic of reading text rather than the larger, multidirectional shifts seen in browsing, searching, or coding tasks.",
+  "correct": true
+}

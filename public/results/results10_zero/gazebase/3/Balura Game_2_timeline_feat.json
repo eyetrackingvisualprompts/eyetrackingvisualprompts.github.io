@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X-position alternates in large, regular, nearly symmetric horizontal excursions around \u00b115 degrees with one-second plateaus, while Y remains near center with minor variation, matching the structured back-and-forth target tracking of Horizontal Saccades rather than random or task-driven viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in the lower half of the screen with relatively stable horizontal X fixations and limited vertical Y range, similar to looking between text and a nearby area (e.g., keyboard or toolbar). This spatial pattern and moderate saccade activity best match the WRITE example compared to the other activities.",
+  "correct": false
+}

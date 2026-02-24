@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The pattern shows long, stable fixations in the upper-central band with occasional large saccades to new regions, then renewed local stability, indicative of following dynamic visual content (characters/subtitles) rather than systematic line-by-line scanning (READ) or dense, localized work near one corner (WRITE). The spatial spread and rhythm match the WATCH example more closely than the more erratic, multi-directional SEARCH/BROWSE or PLAY patterns.",
+  "correct": false
+}

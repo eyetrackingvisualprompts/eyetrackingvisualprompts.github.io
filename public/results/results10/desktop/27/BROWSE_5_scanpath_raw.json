@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades covering a broad vertical and horizontal area with rapid directional changes, resembling the wide, dynamic gaze shifts seen in the PLAY example, rather than the more localized or structured patterns of reading, browsing, searching, or writing.",
+  "correct": false
+}

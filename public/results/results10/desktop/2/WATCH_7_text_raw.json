@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays in a narrow horizontal band in the upper-middle of the screen with many short, local shifts and repeated returns, plus occasional vertical excursions\u2014consistent with monitoring typed text and UI elements during writing rather than the more extensive vertical scanning of search/browse or the wide, dynamic shifts typical of watch/play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band near the top-left region with slow, small progressive shifts and limited vertical movement, closely matching the WRITE example pattern of focusing on a small text area while typing, rather than the wider scanning seen in reading or browsing.",
+  "correct": true
+}

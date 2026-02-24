@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show large, discrete step changes to multiple distinct locations across the screen, with plateaus lasting around one second, matching the random-target jumping behavior of the Random Saccades task rather than the more patterned or constrained movements of the other activities.",
+  "correct": true
+}

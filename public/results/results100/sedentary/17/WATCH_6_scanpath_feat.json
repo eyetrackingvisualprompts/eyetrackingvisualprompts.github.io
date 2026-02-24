@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points and saccades are spread widely across the entire screen with rapid, irregular movements and no structured horizontal or vertical reading pattern, matching the dynamic, object-following behavior typical of playing a game rather than code- or text-focused tasks.",
+  "correct": false
+}

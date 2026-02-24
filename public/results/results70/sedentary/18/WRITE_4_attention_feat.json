@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in the upper-left code area with little vertical spread, closely matching the WRITE example heatmap where attention is focused on the function implementation region rather than scanning broadly as in DEBUG or INTERPRET.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across multiple discrete positions over a wide horizontal and vertical area without forming a continuous band (as in reading) or tightly clustered points (as in fixations or horizontal saccades), matching the pattern of a target that jumps randomly to new locations each second.",
+  "correct": false
+}

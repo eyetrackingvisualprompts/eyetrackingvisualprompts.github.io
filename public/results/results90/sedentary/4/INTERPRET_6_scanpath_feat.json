@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a compact left-central region with limited horizontal spread and repeated revisits, closely matching the DEBUG example\u2019s focused code-inspection pattern rather than the more linear (READ/WRITE) or dispersed (SEARCH/BROWSE/PLAY/WATCH) behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are spread broadly with strong clusters near the screen center and additional scattered points in all directions, matching the dynamic, multi-directional gaze distribution seen when tracking moving game elements during PLAY, rather than the more linear or localized patterns of reading, coding, or web search.",
+  "correct": true
+}

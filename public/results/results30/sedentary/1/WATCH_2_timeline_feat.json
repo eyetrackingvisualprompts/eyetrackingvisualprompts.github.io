@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, relatively large saccades with continuous changes in both X and Y positions across the whole window, resembling object-following or spatial navigation patterns typical of the PLAY condition rather than the more localized or structured scan paths of reading, coding, or web search tasks.",
+  "correct": false
+}

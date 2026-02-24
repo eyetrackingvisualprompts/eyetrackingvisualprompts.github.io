@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed both horizontally and vertically with frequent transitions between dispersed regions, indicating dynamic, multi-directional viewing consistent with tracking game elements during PLAY rather than the more localized or structured patterns of reading, writing, browsing, or searching.",
+  "correct": false
+}

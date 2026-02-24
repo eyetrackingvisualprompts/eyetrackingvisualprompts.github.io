@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-screen content and extreme off-screen or UI-border regions with large vertical and horizontal jumps, including coordinates outside the display, consistent with web browsing, address bar/tab checks, and sporadic scroll-region looks rather than the more constrained, line- or code-structured patterns seen in READ/WRITE/DEBUG/INTERPRET or the continuous motion typical of WATCH/PLAY.",
+  "correct": true
+}

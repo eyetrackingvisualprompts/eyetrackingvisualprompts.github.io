@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small central-upper region with minimal horizontal or vertical scanning, indicating a stable focus on a single area such as the main subject in a video, which best matches the WATCH pattern compared to the more distributed scanpaths of reading, browsing, searching, writing, or playing games.",
+  "correct": false
+}

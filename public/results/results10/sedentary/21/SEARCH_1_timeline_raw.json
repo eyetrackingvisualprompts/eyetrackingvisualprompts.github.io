@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid shifts and extended periods near screen extremes, with both axes moving broadly and dynamically, resembling object-following or navigation behavior in the PLAY examples rather than the more localized, repetitive patterns of reading, coding, or browsing.",
+  "correct": false
+}

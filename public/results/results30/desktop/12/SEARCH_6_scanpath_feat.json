@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze clusters around a central region with moderate vertical spread and intermittent jumps, reflecting scanning between results and content areas; this pattern visually matches the SEARCH example more than the tighter READ or more dispersed BROWSE/PLAY patterns.",
+  "correct": true
+}

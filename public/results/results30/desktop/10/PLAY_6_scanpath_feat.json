@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a compact central region with limited horizontal spread and moderate vertical variation, resembling the browsing example more than the more linear pattern of READ or the wider, more scattered patterns of WATCH, PLAY, or SEARCH.",
+  "correct": false
+}

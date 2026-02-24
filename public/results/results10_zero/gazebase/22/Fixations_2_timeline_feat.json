@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete position steps every ~1 s with pauses between them, covering varying horizontal positions (including slight vertical changes) across the screen rather than oscillating between two fixed points or remaining near center. This pattern matches a target moving to random locations and being fixated at each position, consistent with the Random Saccades task.",
+  "correct": false
+}

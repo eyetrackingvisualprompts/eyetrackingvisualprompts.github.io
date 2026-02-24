@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent shifts between dispersed horizontal regions with intermittent vertical movements and saccadic spikes, resembling scanning result lists and clicking through pages, which matches the SEARCH pattern more than the more structured reading/browsing or code-related tasks.",
+  "correct": true
+}

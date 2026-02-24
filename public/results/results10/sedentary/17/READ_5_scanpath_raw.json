@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band (code region) with repeated returns there, interleaved with large vertical excursions toward the bottom (keyboard/console/other UI) similar to the WRITE example, indicating active code editing rather than static reading or watching.",
+  "correct": false
+}

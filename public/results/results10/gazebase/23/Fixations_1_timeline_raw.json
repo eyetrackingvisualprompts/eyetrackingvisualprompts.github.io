@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains near the center of the display with very small fluctuations in both x and y, interrupted only by brief blinks/artefacts, matching the stable central gaze pattern of the Fixations task.",
+  "correct": true
+}

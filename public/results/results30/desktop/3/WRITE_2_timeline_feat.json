@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower-left region (low Y, moderate X) with relatively small horizontal span and limited vertical movement, resembling attention near a text entry area and toolbar in a word processor rather than the broader scanning patterns of reading, browsing, or searching.",
+  "correct": true
+}

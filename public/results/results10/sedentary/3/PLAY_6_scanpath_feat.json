@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shifts frequently between widely separated vertical regions (top results area, central area, bottom) with multiple revisits, matching the exploratory and scanning behavior typical for using a search engine rather than the more localized patterns of reading, coding, or passive watching.",
+  "correct": false
+}

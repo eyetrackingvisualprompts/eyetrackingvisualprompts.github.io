@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow central horizontal band with modest vertical variation, resembling focused reading of a small code snippet rather than long horizontal sweeps (READ/BROWSE) or large exploratory movements (WATCH/PLAY/SEARCH). The pattern closely matches the INTERPRET example, indicating attentive inspection of compact code to infer its behavior.",
+  "correct": true
+}

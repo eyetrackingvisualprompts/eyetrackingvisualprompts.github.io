@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are tightly clustered in a small central region with minimal horizontal or vertical movement, resembling the compact fixation area typical of browsing (e.g., focusing on a specific section like an article preview or widget) rather than the more linear patterns of reading/writing or the broader exploration seen in search, watch, or play tasks.",
+  "correct": false
+}

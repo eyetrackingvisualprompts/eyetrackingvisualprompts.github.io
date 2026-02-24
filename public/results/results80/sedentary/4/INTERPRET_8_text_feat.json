@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a small central code-like area with many short, back-and-forth fixations and revisits to nearly identical coordinates, indicating intensive local reasoning over a static textual/structured stimulus rather than global navigation (SEARCH/BROWSE) or dynamic tracking (WATCH/PLAY). This pattern most closely matches the INTERPRET examples, where participants carefully inspect and re-inspect a code snippet to predict its output.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band around the screen center, consistent with line-by-line reading behavior and distinct from the more scattered or peripheral patterns seen in search, browsing, watching, writing, or playing examples.",
+  "correct": false
+}

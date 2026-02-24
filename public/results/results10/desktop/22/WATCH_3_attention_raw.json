@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze is distributed in a mainly horizontal band at mid-screen, indicating left-to-right scanning similar to text reading, matching the READ example more than the more centralized, scattered, or corner-focused patterns of the other activities.",
+  "correct": false
+}

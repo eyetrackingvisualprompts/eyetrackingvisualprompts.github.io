@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are widely dispersed across the screen with frequent large saccades and no clear reading or code-cluster pattern, matching the dynamic, multi-directional tracking typical of game playing rather than the more localized or structured patterns of reading, writing, coding, or web search.",
+  "correct": false
+}

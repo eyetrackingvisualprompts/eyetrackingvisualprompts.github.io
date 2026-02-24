@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small region near the top-left, with only a few additional nearby clusters and almost no spread across the screen, consistent with focusing on a short code snippet in one area rather than scanning widely as in browsing/searching or tracking motion as in games or video.",
+  "correct": true
+}

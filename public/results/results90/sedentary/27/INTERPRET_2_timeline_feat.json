@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates between two horizontal bands (likely code and output/console) with moderate, irregular saccades and no strong left-to-right scanning pattern, matching the example DEBUG timeline more closely than the other activities.",
+  "correct": false
+}

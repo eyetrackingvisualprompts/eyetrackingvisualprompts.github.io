@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays in tight horizontal bands with smooth left-to-right sweeps and small regressions, first across a lower region (y\u2248740\u2013970) then across several higher lines (y\u2248250\u2013660). This pattern of orderly, line-by-line horizontal scanning with brief line transitions closely matches the reading examples and differs from the more scattered or vertical navigation seen in search, browse, or code-related tasks.",
+  "correct": true
+}

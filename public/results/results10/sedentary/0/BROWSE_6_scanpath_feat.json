@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact code-like region in the lower-left/middle of the screen with limited horizontal spread and revisits, resembling the INTERPRET example more than the broader, more scattered patterns of browsing/searching or the centralized focus of reading/watching.",
+  "correct": false
+}

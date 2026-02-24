@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Mixed vertical exploration between upper/middle content and lower page regions (around 500\u2013650 px), repeated returns to mid-vertical bands, and several horizontal sweeps near the top resemble scanning results and snippets on a search results page more than the more line-structured READ pattern or the highly dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

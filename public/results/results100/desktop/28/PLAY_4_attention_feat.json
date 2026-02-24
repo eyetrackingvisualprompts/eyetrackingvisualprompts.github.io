@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a compact region slightly below the screen center, indicating sustained attention to a small area typical of monitoring a cursor/text line while typing, matching the WRITE pattern more than the broader, more horizontally spread distributions of READ or other tasks.",
+  "correct": false
+}

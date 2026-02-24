@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band in the lower-middle of the screen with many medium-length fixations and short horizontal saccades, including occasional longer horizontal jumps and small regressions\u2014this pattern matches line-by-line reading rather than the larger vertical and scattered movements seen in search, browsing, or playing, and differs from the upper-screen focus of writing and watching.",
+  "correct": false
+}

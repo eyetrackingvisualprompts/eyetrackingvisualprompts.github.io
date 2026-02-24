@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form structured, horizontal lines with dense fixations and occasional vertical transitions between two main text blocks, characteristic of reading across paragraphs rather than the more scattered or code-focused patterns of other tasks.",
+  "correct": true
+}

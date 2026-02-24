@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like changes to various non-uniform X and Y locations across the screen, with each position held roughly around one second before jumping to a new, irregular location. This pattern of two-dimensional, variably spaced, discrete target positions over time matches the description of Random Saccades rather than fixed, purely horizontal, or reading-like movements.",
+  "correct": false
+}

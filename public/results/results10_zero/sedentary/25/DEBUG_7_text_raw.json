@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates show large, continuous movements across wide vertical and horizontal ranges, including frequent shifts between central and peripheral regions of the screen, consistent with tracking dynamic visual content rather than line-by-line reading or focused code inspection. This spatiotemporal pattern best matches watching a full-screen video compared to the more structured, localized patterns expected for READ/WRITE/DEBUG/INTERPRET or the more target-driven, clustered patterns for SEARCH/BROWSE/PLAY.",
+  "correct": false
+}

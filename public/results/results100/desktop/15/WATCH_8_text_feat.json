@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is largely confined to a horizontal band in the upper-left/central area, with many short saccades and medium-long fixations forming local left\u2013right and slight vertical shifts, consistent with scanning lines of text rather than wide exploratory movements typical of search/browse or large dynamic shifts seen in watch/play; this pattern best matches the provided READ examples.",
+  "correct": false
+}

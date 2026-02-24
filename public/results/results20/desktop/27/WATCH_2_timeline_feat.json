@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay near screen center with moderate horizontal movements and small vertical shifts, resembling the balanced, mid-screen fixation pattern of the BROWSE example rather than the stronger vertical structure of READ/WRITE or the larger excursions of SEARCH/PLAY/WATCH.",
+  "correct": false
+}

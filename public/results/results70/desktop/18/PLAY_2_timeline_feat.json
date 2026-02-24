@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations remain around mid-screen with relatively regular horizontal saccades and limited vertical range, matching the stable, line-by-line scanning pattern seen in the READ example rather than the larger vertical shifts of SEARCH/BROWSE or the more dispersed gaze of PLAY/WATCH/WRITE.",
+  "correct": false
+}

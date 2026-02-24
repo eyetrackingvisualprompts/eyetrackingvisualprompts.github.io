@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades covering broad screen regions (e.g., rapid jumps between bottom/top and far left/right) with relatively short and variable fixations, indicating continuous visual tracking of dynamic, spatially distributed targets, which is characteristic of gameplay rather than the more localized, structured patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

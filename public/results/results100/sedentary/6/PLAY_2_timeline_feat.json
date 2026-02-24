@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows frequent medium-to-large saccades with both horizontal and vertical shifts and no clear line-by-line reading structure, resembling the heterogeneous, exploratory scan paths of the SEARCH example more than the more structured READ, WRITE, or INTERPRET tasks or the stronger motion of WATCH/PLAY.",
+  "correct": false
+}

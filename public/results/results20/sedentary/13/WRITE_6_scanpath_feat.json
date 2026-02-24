@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cover a large vertical range but are confined to a narrow band on the far left, with rapid long saccades between widely separated regions and fewer dense reading-like clusters. This spatial pattern and dynamic movement resemble following game elements along a vertical strip more than static code or text viewing, aligning best with PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows many horizontal sweeps across mid-screen and moderate vertical shifts, with frequent medium-length saccades between dispersed regions (top navigation-like area, mid content, and lower bands), resembling scanning of a webpage. The pattern is less strictly line-by-line than READ, more exploratory and multi-region than WRITE/DEBUG/INTERPRET, and lacks the large object-following or center-biased dynamics of WATCH/PLAY, matching the BROWSE examples most closely.",
+  "correct": false
+}

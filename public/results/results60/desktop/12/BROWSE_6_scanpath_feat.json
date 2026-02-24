@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the upper-middle part of the screen with moderate dispersion and vertical spread, closely matching the example SEARCH pattern (focused on a search results area with some exploration), and differing from the more horizontal band of READ or the wider, more varied dispersion of BROWSE or WATCH.",
+  "correct": false
+}

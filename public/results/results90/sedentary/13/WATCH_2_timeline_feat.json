@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large saccades and shifts in both X and Y with varied fixation bands, resembling scanning across multiple regions and scrolling behavior typical of free web browsing rather than the more localized, structured patterns seen in reading, coding, or watching video.",
+  "correct": false
+}

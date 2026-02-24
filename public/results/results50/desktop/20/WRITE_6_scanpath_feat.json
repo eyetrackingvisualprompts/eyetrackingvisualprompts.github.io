@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are tightly clustered in a small central-lower region with limited horizontal/vertical spread, indicating focused attention on a compact interactive area (e.g., game character/controls) rather than the broader scanpaths typical of reading, browsing, or searching, which matches the PLAY pattern best among the examples.",
+  "correct": false
+}

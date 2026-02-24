@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a few stable fixation clusters, primarily near the top edge and one mid-screen region, with large unused areas and no systematic horizontal/vertical scan paths typical of reading, coding, or searching. This sparse, focal viewing pattern over a wide screen is most consistent with passively watching a video where attention concentrates on key visual elements rather than line-by-line text or interactive UI elements.",
+  "correct": false
+}

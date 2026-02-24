@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a narrow horizontal band with small, systematic left-right movements resembling line-by-line fixation across text, matching the example READ pattern more than the other tasks.",
+  "correct": false
+}

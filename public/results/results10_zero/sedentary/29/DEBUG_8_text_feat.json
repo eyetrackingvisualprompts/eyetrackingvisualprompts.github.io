@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively long (often around 0.5\u20131.1s) and clustered within a confined vertical band with small to moderate saccades and some slight upward/downward shifts, consistent with reading lines or short paragraphs rather than large exploratory movements (SEARCH/BROWSE) or highly dynamic tracking (WATCH/PLAY). The stable, locally shifting gaze without large code-panel jumps is more indicative of READ than WRITE/DEBUG/INTERPRET in an IDE, which typically show larger horizontal/vertical transitions between code, console, and other UI elements.",
+  "correct": false
+}

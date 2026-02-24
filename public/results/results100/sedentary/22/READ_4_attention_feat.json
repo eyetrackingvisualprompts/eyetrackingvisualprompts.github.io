@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a vertical band in the central area with multiple horizontal clusters like text lines and regressions, closely matching the READ heatmap pattern rather than the more scattered or side-focused distributions of other tasks.",
+  "correct": true
+}

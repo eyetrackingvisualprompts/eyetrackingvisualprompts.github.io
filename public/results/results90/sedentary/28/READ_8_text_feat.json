@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between mid/lower and upper screen regions with long horizontal sweeps and extended fixations, matching scanning of long, scrollable web content rather than tight horizontal line-by-line reading or localized code-focused tasks; the spatial\u2013temporal pattern most closely resembles the BROWSE examples.",
+  "correct": false
+}

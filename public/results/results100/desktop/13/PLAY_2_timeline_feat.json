@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions for both fixation and saccades stay around the screen center with frequent small, irregular movements and no strong drift or line-like scanning pattern, closely matching the example pattern for BROWSE rather than the more structured patterns seen in READ, WRITE, or the more dynamic ranges in PLAY, SEARCH, or WATCH.",
+  "correct": false
+}

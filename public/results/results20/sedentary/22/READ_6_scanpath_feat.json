@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a mid-left code area with repeated revisits, plus occasional long saccades to the very top (likely errors/messages) and to a lower region (output/console), matching the multi-region checking typical of debugging rather than the more linear scan of reading or writing.",
+  "correct": false
+}

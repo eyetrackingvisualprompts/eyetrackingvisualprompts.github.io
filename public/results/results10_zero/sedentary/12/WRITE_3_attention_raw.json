@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a tight cluster of fixations in the upper-left region with minimal dispersion, consistent with focused reading of text in a localized area rather than scanning across the screen as in browsing, searching, or watching video.",
+  "correct": false
+}

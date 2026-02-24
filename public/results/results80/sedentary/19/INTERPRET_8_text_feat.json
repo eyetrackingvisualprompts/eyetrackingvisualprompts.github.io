@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized fixations with many short intra-line saccades around code-like coordinate bands, frequent revisits to the same regions, and several larger jumps (including to off-text areas) align with careful code inspection and re-checking typical of debugging rather than the more linear scanpaths of reading or the broader exploratory movements of browsing/searching.",
+  "correct": false
+}

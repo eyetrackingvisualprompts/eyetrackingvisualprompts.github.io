@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze remains mostly within a confined lower-central screen region with relatively few, longer transitions and shorter fixations, consistent with tracking game elements or a character rather than line-by-line reading or code inspection. Long saccade durations here likely reflect continuous following of moving targets, which best matches the PLAY condition compared to the more systematic, horizontal patterns of READ/BROWSE or the scattered code navigation of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

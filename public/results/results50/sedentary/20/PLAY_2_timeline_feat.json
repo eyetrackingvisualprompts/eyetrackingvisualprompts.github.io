@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, gradual drift in both X and Y with moderate saccades and no repeated horizontal line-sweep or sharp vertical jumps typical of reading or searching; pattern closely matches the WATCH example where attention follows dynamic video content with continuous but not highly erratic movement.",
+  "correct": false
+}

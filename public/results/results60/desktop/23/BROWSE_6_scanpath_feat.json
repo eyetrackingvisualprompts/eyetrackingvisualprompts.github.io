@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a central region with frequent, irregular saccades in multiple directions, indicating active scanning and comparison of items on a results page, which matches the SEARCH pattern more than the more linear READ pattern or the more dispersed BROWSE and PLAY patterns.",
+  "correct": false
+}

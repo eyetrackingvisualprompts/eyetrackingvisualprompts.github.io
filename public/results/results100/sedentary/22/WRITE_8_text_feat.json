@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent revisits between a central code area and top UI/tool regions, many medium-long fixations around stable line-like y-levels, and repeated vertical scans between similar coordinates match the structured, iterative inspection and re-checking typical of debugging, rather than the more linear (READ/WRITE/INTERPRET) or horizontal-scroll-heavy (BROWSE/SEARCH) patterns or the wide, dynamic shifts of WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small central region with short, multidirectional saccades and no systematic horizontal scanning typical of text or web pages, suggesting focus on a relatively fixed area such as the main action region of a video rather than reading, searching, browsing, writing, or wide-area game exploration.",
+  "correct": false
+}

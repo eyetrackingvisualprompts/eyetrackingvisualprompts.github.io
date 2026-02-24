@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a small region on the left side of the screen with little vertical spread and no structured horizontal/vertical scan path typical of reading or code-related tasks, suggesting attention to a localized moving or salient area in a full-screen video rather than text or interactive content.",
+  "correct": false
+}

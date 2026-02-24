@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely distributed across both horizontal and vertical axes with many medium-length saccades and no strong confinement to a single line band, indicating exploration of a complex, scrollable page rather than structured line-by-line reading or focused writing; this pattern best matches the browsing example.",
+  "correct": true
+}

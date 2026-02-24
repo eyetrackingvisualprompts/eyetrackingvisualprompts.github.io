@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, multidirectional gaze shifts covering a broad central area with irregular saccades rather than systematic horizontal/vertical sweeps typical of reading, writing, or structured web search. This dispersed, dynamic pattern is most consistent with visually tracking game elements in different screen locations during PLAY.",
+  "correct": false
+}

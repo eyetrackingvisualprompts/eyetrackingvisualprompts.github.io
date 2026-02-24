@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces show slow, staircase-like progressions with relatively constrained vertical range and moderate horizontal shifts, matching the structured left-to-right, line-by-line scanning pattern typical of reading, and differing from the more scattered (BROWSE/SEARCH), top-fixed (WATCH/WRITE), or highly variable (PLAY) patterns.",
+  "correct": false
+}

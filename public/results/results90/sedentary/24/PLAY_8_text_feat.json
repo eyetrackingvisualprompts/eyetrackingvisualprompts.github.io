@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, large-amplitude saccades across wide screen regions (including frequent jumps to screen edges/corners and off-center areas), with many revisits to moving-like loci and irregular trajectories rather than line-based reading or code scanning. This spatiotemporal pattern\u2014continuous tracking across varied positions, including upper and lower fields and corners\u2014matches the dynamics seen in the PLAY examples (following game objects and navigating) more than the more localized, columnar patterns of code tasks, the horizontal bands of READ/SEARCH, or the more centrally clustered WATCH behavior.",
+  "correct": true
+}

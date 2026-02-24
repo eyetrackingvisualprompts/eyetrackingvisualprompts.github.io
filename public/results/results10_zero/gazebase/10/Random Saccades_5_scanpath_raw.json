@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular jumps in both horizontal and vertical directions with positions held briefly before moving elsewhere, matching the pattern of following a target that relocates unpredictably across the screen rather than smooth reading lines, strict horizontal motion, central fixation, or game-like clustered fixations.",
+  "correct": true
+}

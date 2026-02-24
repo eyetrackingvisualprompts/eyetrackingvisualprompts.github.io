@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly in lower screen regions with large, slow cross-screen saccades and scattered fixations, then jumps to the top area\u2014matching scrolling/exploring a long web page rather than line-by-line reading, code-focused tasks, or object-following in games or video.",
+  "correct": false
+}

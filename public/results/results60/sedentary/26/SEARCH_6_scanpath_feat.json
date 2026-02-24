@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed across the top and mid sections of the screen with horizontal sweeps from left to right and back, resembling reading result snippets and then moving to content, matching the SEARCH scanpath better than the more centralized BROWSE or code-focused tasks.",
+  "correct": true
+}

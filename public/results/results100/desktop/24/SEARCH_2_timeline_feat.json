@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts in both X and Y with broad vertical range and irregular patterns, resembling the dynamic, multi-directional viewing behavior in the WATCH example more than the more structured, line-based or search-oriented patterns of READ, WRITE, BROWSE, or SEARCH, and less constrained than PLAY\u2019s game-focused trajectories.",
+  "correct": false
+}

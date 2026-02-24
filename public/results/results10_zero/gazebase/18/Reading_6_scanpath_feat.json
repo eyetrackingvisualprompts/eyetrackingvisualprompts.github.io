@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows predominantly horizontal movements at nearly constant vertical positions, with two close horizontal bands and little vertical dispersion, consistent with following a horizontally moving target rather than random or content-driven viewing.",
+  "correct": false
+}

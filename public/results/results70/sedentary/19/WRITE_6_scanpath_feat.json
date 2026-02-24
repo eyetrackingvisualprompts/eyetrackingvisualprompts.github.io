@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a relatively small left-central code area with repeated revisits and some longer saccades to peripheral regions (e.g., console/output or other UI panels), matching the focused but exploratory pattern seen in DEBUG rather than the more static WRITE/INTERPRET or the broader movements of PLAY/SEARCH/WATCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated in a horizontal band near the top-left/upper region, consistent with scanning search results and query area, matching the SEARCH example more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze repeatedly alternates between a band near the top (y\u2248170\u2013260) and higher regions (y\u2248330\u2013570) with long horizontal sweeps across wide x-ranges, including jumps to far right/left and down to lower parts of the page. This pattern matches scanning SERP snippets and results, then moving to content below, characteristic of SEARCH, rather than the more line-locked, uniform horizontal bands of READ or the highly localized, code-window-centered patterns of programming tasks.",
+  "correct": false
+}

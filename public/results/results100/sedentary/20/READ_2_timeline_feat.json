@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The data shows stereotypical reading-like gaze behavior: horizontal back-and-forth saccades within narrow vertical bands, with a slow, monotonic downward drift of the Y fixation indicating line-by-line progression through text, closely matching the READ example plot.",
+  "correct": true
+}

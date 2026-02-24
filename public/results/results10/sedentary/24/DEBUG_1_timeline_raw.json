@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y positions show smooth, progressive movement with small saccades and no large jumps or chaotic changes, matching the stable left-to-right line-by-line pattern seen in the READ example rather than the more scattered or abrupt shifts of browsing, searching, or code tasks.",
+  "correct": false
+}

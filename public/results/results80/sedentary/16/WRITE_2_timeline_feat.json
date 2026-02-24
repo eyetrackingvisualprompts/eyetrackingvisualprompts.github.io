@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow central band with mostly small horizontal shifts and limited vertical range, punctuated by occasional large saccades toward the top\u2014matching looking between code and nearby UI areas while primarily focusing on a single code pane, characteristic of WRITE rather than the broader, more dispersed patterns seen in BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": true
+}

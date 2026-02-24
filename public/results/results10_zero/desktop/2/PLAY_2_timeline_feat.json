@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal fixations with small, step-like progressions in X and limited vertical changes, matching line-by-line reading behavior rather than the larger multidirectional movements typical of search, browsing, video watching, writing, or gameplay.",
+  "correct": false
+}

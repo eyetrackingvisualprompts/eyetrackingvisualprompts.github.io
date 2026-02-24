@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cluster in a relatively small central region with short, multidirectional saccades and no clear linear reading pattern, resembling the localized, exploratory scanpath seen in the BROWSE example rather than the more horizontal patterns of READ/WATCH or the wider movements of SEARCH/PLAY/WRITE.",
+  "correct": false
+}

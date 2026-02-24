@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows continuous, moderately fast horizontal movements with frequent saccades and variable vertical shifts, indicating dynamic tracking of moving on-screen elements rather than structured reading or code-focused tasks. This pattern best matches the PLAY activity examples, where users follow game objects and navigate the scene.",
+  "correct": false
+}

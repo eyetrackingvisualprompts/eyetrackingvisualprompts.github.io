@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with gradual downward then upward Y progression and frequent medium saccades, resembling scanning result lists and linked pages more than the more regular line-by-line READ pattern or the denser, more scattered BROWSE behavior; this best matches the SEARCH example trajectory.",
+  "correct": false
+}

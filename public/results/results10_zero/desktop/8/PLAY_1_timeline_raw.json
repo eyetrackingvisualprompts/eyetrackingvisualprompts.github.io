@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show repeated horizontal plateaus with small incremental shifts and occasional vertical jumps, consistent with line-by-line reading movements across text rather than large exploratory or highly dynamic patterns seen in search, browsing, video watching, writing, or gaming.",
+  "correct": false
+}

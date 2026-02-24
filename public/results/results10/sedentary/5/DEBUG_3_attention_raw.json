@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Dense fixations clustered in the upper-left region with some spread vertically resemble scanning of search results and snippets on a search engine page, matching the SEARCH example heatmap more closely than other tasks.",
+  "correct": false
+}

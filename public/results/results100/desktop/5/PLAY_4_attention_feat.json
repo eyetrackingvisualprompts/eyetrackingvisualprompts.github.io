@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are spread horizontally across the mid-screen band with multiple clusters resembling line-by-line scanning of text, closely matching the READ heatmap pattern rather than the more centralized SEARCH or WRITE/BROWSE layouts.",
+  "correct": false
+}

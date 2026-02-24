@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show large, discrete jumps to many different combinations of horizontal and vertical positions, with each level held roughly constant before the next jump, matching a target that appears at random 2\u201315\u00b0 locations in both axes rather than purely horizontal motion, sustained fixation, or reading-like scanning.",
+  "correct": false
+}

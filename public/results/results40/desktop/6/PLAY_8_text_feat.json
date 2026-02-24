@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Large saccades between widely separated vertical positions and lateral screen regions, alternating with medium fixations, indicate scanning heterogeneous web search results and jumping between query box, results, and page areas, matching the SEARCH pattern more than the more localized, line-structured READ or the center-focused WATCH behavior.",
+  "correct": false
+}

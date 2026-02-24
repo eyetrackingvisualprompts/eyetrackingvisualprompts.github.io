@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact lower-central region with many medium-long fixations and small local saccades, matching the stable, localized viewing near the text/cursor area observed in the WRITE examples, rather than the broader vertical/horizontal exploration seen in READ, SEARCH, BROWSE, or PLAY, or the upper-screen bias of WATCH.",
+  "correct": false
+}

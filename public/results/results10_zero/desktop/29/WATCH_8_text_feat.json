@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze consists of long, stable fixations with short, mostly horizontal saccades clustered in a narrow central band of the screen, indicative of line-by-line text reading rather than wide exploratory scanning (browse/search), rapid multi-directional movements (play), or large shifts typical of video watching or document editing (write).",
+  "correct": false
+}

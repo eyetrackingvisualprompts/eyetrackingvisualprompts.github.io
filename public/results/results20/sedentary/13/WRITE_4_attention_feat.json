@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form several horizontal bands at different vertical positions (top, middle, bottom left), suggesting scanning multiple sections of a webpage (e.g., header, mid content, lower items) rather than focusing on a single code block or continuous text line, which aligns best with free web browsing behavior.",
+  "correct": false
+}

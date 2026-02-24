@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a small upper-left code area with short, repeated fixations and limited vertical span, matching the focused inspection pattern seen in the INTERPRET example rather than the broader movements of coding, browsing, or reading tasks.",
+  "correct": false
+}

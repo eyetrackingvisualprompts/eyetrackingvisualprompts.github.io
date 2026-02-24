@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows two main clusters: one dense region on the left (code/editor area) and another on the right with long saccades between them, matching the pattern of alternating attention between code and other UI typical for the WRITE task, similar to the WRITE example image.",
+  "correct": false
+}

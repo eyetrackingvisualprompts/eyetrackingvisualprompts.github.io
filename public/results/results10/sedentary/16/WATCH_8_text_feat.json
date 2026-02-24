@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent long saccades spanning large horizontal distances and substantial vertical jumps (including to a high y \u2248 780 region), with relatively short to moderate fixations. This dynamic, spatially wide tracking is more consistent with visually following moving game elements in PLAY than with the more localized and structured patterns seen in reading, coding (INTERPRET/DEBUG/WRITE), or passive video WATCH behavior.",
+  "correct": false
+}

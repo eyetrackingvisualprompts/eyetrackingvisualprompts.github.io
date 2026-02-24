@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, horizontally aligned fixations across several closely spaced lines with systematic vertical progression, characteristic of continuous text reading rather than code, browsing, or dynamic visual tasks.",
+  "correct": true
+}

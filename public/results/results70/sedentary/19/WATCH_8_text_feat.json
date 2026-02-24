@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanning around mid-screen with frequent medium/large saccades across wide x-range, intermittent long fixations, and revisits to similar vertical bands match the exploratory, navigation-oriented pattern of web browsing rather than the more localized/code-centered (WRITE/DEBUG/INTERPRET) or sequential (READ) behaviors.",
+  "correct": false
+}

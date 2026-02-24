@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-to-large saccades in multiple directions (including substantial vertical shifts) with relatively short fixations (~0.17\u20130.43s), indicating continuous spatial exploration of different screen regions rather than linear text scanning or focused content reading. This multi-directional, dynamic pattern best matches the PLAY examples, where users track moving game elements across the screen.",
+  "correct": false
+}

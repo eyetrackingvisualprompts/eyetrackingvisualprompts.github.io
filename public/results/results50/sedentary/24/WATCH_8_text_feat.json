@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades spanning wide screen areas (including corners and off-center regions), repeated revisits to central playfield-like zones, and frequent vertical transitions toward upper/lateral regions match the dynamic, target-following and navigation gaze patterns seen in the PLAY examples rather than the more line- or block-structured scanning of code, text, or search results.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal gaze sweeps around a mid-top band (likely search results/title area), with frequent returns between left and right regions and occasional jumps to top interface elements, matching the scan-and-skim pattern of SEARCH more than the more line-regular READ patterns or the code-focused WRITE/DEBUG/INTERPRET behaviors.",
+  "correct": true
+}

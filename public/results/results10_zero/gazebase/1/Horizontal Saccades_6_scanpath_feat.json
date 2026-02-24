@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated large-amplitude eye movements strictly along a horizontal line between two stable positions about \u00b115\u00b0 from center, with 1-second dwells, matching the horizontal saccade tracking task description rather than random or more complex patterns.",
+  "correct": true
+}

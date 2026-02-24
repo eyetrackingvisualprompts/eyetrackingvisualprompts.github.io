@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows repeated vertical movements over a narrow left-side region (reading result snippets) combined with frequent long horizontal saccades toward the middle/right (opening results), which matches the SEARCH example pattern more closely than other tasks.",
+  "correct": false
+}

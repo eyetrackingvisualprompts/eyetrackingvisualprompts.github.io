@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact vertical region with several revisits to the same locations, resembling focused inspection of a short code snippet as in the INTERPRET example, rather than the broader spread seen in browsing, watching, or playing tasks.",
+  "correct": false
+}

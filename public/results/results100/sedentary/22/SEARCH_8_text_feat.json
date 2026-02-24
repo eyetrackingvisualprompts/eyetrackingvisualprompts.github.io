@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between extreme off-screen/top-toolbar coordinates and mid-screen content regions, with many revisits to header-like y\u22480 and negative-y positions, interleaved with scanning mid/low vertical areas (y\u2248200\u2013700), matches web browsing patterns (address bar/tabs + page content) seen in BROWSE examples, not the line-by-line, band-limited scanpaths of READ/WRITE/INTERPRET or the localized code regions of DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades across wide screen regions (including extreme horizontal moves and big jumps between dispersed areas) with relatively long fixations and no clear line-based or code-structure scanning pattern are most consistent with passively tracking dynamic visual content, matching the WATCH examples more than the reading/coding/search-like tasks.",
+  "correct": true
+}

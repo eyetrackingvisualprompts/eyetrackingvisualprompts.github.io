@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change slowly with small, gradual shifts rather than rapid, repetitive left\u2011right scanning typical of reading, browsing, or searching. The pattern suggests following moving content in a localized central region of the screen, consistent with watching video rather than interacting via typing (WRITE) or highly dynamic, multidirectional movements (PLAY).",
+  "correct": true
+}

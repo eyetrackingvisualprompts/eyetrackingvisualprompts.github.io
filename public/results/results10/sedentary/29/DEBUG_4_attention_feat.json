@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over a small left-central code area with limited vertical spread, indicating focused inspection of a short code snippet, matching the INTERPRET pattern more than the broader exploration seen in SEARCH, BROWSE, or DEBUG.",
+  "correct": false
+}

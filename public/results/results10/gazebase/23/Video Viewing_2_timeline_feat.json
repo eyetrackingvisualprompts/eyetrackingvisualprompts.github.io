@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, irregular jumps in both horizontal and vertical directions with positions held briefly between movements, matching the pattern of a target moving unpredictably across the screen as in the Random Saccades task rather than the more structured, central, or text-like patterns of the other activities.",
+  "correct": false
+}

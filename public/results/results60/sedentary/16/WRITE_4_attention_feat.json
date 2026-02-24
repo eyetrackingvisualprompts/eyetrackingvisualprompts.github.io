@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a strong, dense fixation cluster over a compact area in the upper-left code region with limited horizontal spread and few peripheral fixations, closely matching the INTERPRET example pattern of focused examination of a single code snippet rather than the broader, more scattered patterns of browsing, searching, or debugging.",
+  "correct": false
+}

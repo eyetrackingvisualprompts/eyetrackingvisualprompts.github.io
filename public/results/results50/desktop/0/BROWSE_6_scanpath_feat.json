@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered around the central-upper region with frequent shifts among nearby locations, resembling mixed reading and scanning typical of search result pages, and matching the SEARCH example more closely than other classes.",
+  "correct": false
+}

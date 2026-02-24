@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X-position shows large, mostly two-state horizontal shifts between left and right extremes with long plateaus, while the Y-position stays near zero with brief vertical transients. This pattern matches the structured left-right tracking of the Horizontal Saccades task.",
+  "correct": false
+}

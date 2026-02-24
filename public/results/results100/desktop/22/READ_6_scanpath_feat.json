@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight horizontal cluster around mid-screen with small vertical spread and consistent fixations, matching the stable line-by-line viewing pattern typical of reading text rather than the wider, multi-region exploration seen in browsing, searching, watching, playing, or writing.",
+  "correct": true
+}

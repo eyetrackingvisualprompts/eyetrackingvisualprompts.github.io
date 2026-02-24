@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered mid-screen with short saccades and medium-length fixations, showing local scanning and small up-down movements rather than the systematic horizontal sweeps of reading or the wide, rapid shifts of search/play/video. The spatial-temporal pattern closely resembles the BROWSE example segments around the mid-page content area.",
+  "correct": false
+}

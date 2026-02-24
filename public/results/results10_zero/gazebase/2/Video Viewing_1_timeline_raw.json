@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like jumps to discrete positions in both horizontal and vertical directions, with relatively stable plateaus of about one second between movements and amplitudes up to roughly \u00b115\u00b0 horizontally and \u00b19\u00b0 vertically, matching the behavior of following a randomly moving target rather than purely horizontal tracking, reading, or continuous free viewing.",
+  "correct": false
+}

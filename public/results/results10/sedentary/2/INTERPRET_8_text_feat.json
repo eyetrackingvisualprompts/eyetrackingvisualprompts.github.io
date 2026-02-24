@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact region on the left, with long, repeated fixations oscillating between two nearby vertical bands (around y\u2248330 and y\u2248480\u2013620), consistent with repeatedly referring to a small block of code and its immediate output/console area while editing or implementing a function, matching the WRITE pattern more than the broader navigation of SEARCH/BROWSE or the more evenly spaced scanning of READ/INTERPRET.",
+  "correct": false
+}

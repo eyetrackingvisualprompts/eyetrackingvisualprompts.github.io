@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations spread horizontally across mid-screen with multiple clusters and some exploration to the right, resembling scanning of a web page or mixed content more than the tighter columnar pattern of READ or the focused code regions of WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

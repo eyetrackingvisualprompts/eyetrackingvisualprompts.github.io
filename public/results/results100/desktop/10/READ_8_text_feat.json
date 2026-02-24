@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between long, steady fixations in central regions and frequent large saccades to disparate screen areas (top/bottom, left/right) suggestive of switching between query box, result snippets, and other elements, closely matching the search-task patterns rather than the more line-structured READ or more localized WRITE behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete jumps in both horizontal and vertical directions to multiple positions across the screen, with each position held relatively steadily before the next jump. This step-like pattern with varied amplitudes in x and y matches the example of Random Saccades rather than the more purely horizontal motion of Horizontal Saccades or the irregular patterns of the other tasks.",
+  "correct": true
+}

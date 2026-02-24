@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows rapid, frequent saccades covering a wide area of the screen in all directions, with no clear reading lines or code-focused clusters. This broad, dynamic gaze distribution best matches the PLAY pattern among the examples, which also exhibits dispersed fixations and multidirectional movements typical of tracking game elements.",
+  "correct": false
+}

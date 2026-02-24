@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact region with many short back-and-forth saccades and medium-long fixations, indicating intensive inspection of a small textual/code area rather than long horizontal sweeps (READ) or broad exploration (SEARCH/BROWSE). The pattern closely matches the focused, locally oscillatory viewing seen in the INTERPRET example where participants reason about a specific code snippet\u2019s output.",
+  "correct": false
+}

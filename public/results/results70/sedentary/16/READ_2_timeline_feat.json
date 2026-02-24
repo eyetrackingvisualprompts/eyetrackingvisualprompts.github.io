@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic horizontal sweeps in X with periodic regressions and a slowly increasing Y position, consistent with line-by-line reading behavior rather than scanning, gaming, or code-focused tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a small central-left region with repeated fixations and short saccades, similar to the INTERPRET example where attention is focused on a single code snippet, unlike the more dispersed patterns of browsing, search, or play.",
+  "correct": false
+}

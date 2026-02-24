@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent revisits between a compact code region and scattered UI areas, with many medium-length fixations and repeated local scanning around similar coordinates, closely resemble the DEBUG examples where participants alternate between reading code, checking outputs, and searching for errors rather than the more linear patterns of READ/WRITE or the more global jumps of BROWSE/SEARCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a relatively small code-like region with many short, local saccades and repeated revisits between closely spaced coordinates, including vertical shifts consistent with moving between nearby code lines and UI elements (e.g., console/output area). The pattern shows intensive local inspection and correction rather than broad vertical scanning (READ) or wide exploratory jumps (BROWSE/SEARCH) or object-tracking (PLAY), matching the fine-grained, iterative checking and editing behavior typical for WRITE in the provided examples.",
+  "correct": false
+}

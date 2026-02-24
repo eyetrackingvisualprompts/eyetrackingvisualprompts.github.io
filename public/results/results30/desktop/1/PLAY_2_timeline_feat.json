@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, continuous horizontal and vertical movements with frequent saccades and no strong left-to-right line structure, resembling the mixed exploratory pattern seen in the BROWSE example more than the more structured READ/WRITE or the more extreme PLAY/WATCH trajectories.",
+  "correct": false
+}

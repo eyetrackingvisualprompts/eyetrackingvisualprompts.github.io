@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long, repeated fixations clustered over a compact region of code-like coordinates with frequent small regressions between nearby locations and occasional jumps between a code area and output/console region match the intensive, localized reasoning pattern seen in INTERPRET, rather than the more distributed scanning of SEARCH/BROWSE or dynamic movements in PLAY/WATCH.",
+  "correct": true
+}

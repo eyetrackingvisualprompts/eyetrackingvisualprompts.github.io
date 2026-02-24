@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated along a horizontal band near the top-left where search results typically appear, with additional fixations on the far-right region resembling attention to another results column or related panel, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

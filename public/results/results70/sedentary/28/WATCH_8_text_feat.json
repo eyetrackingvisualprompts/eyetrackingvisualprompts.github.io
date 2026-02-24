@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, large-amplitude saccades across wide screen areas (including toward edges), frequent jumps between central and peripheral regions, and many revisits to similar mid-screen bands rather than systematic line-by-line or code-block scanning. This pattern\u2014tracking moving or spatially distributed targets and navigating around the display\u2014matches the dynamic, spatially driven behavior seen in the PLAY examples more than the more localized, structured scan paths of READ/SEARCH/WRITE/DEBUG/INTERPRET/BROWSE or the long-stable fixations of WATCH.",
+  "correct": false
+}

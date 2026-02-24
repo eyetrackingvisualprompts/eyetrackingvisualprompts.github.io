@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between multiple vertical regions (top, mid, lower) with scattered fixations and revisits, suggesting interaction with a search results page and scrolling rather than the more linear pattern of READ or the broader, more dynamic spread of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, horizontally oriented cluster with short saccades and stable fixations, consistent with tracking a localized text region as in reading, rather than the broader, more scattered exploration seen in search, browse, or play tasks.",
+  "correct": true
+}

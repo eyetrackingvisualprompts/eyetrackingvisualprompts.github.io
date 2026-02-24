@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The target data show large, discrete gaze shifts across wide regions of the screen with long periods of relatively stable fixation at each new location, matching the pattern of tracking a randomly moving target rather than the strictly horizontal motion, central fixation, or reading/game-like scanning seen in the other classes.",
+  "correct": true
+}

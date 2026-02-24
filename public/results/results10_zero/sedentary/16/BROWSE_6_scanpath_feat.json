@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band with sequential fixations progressing left-to-right at similar vertical position, indicative of reading a single text line rather than wide exploration (BROWSE/SEARCH), dynamic following (PLAY/WATCH), or code-focused vertical scanning (INTERPRET/DEBUG/WRITE).",
+  "correct": false
+}

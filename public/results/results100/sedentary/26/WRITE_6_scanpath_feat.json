@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a compact code region in the left-center of the screen with limited excursions elsewhere, resembling focused inspection of a small snippet rather than the broader spread of DEBUG/WRITE or the structured horizontal lines of READ; this pattern best matches the INTERPRET example.",
+  "correct": false
+}

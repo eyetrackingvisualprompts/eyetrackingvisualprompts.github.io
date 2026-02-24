@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen with no structured horizontal lines (reading) or tight central cluster (fixation), and they are not restricted to a single horizontal band (horizontal saccades). The dispersed yet discrete fixation points match a target randomly jumping around the display, consistent with Random Saccades.",
+  "correct": false
+}

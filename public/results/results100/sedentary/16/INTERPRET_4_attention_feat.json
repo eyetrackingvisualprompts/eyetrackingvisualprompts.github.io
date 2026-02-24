@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered on a compact region in the upper-left where code would appear, with minimal horizontal scanning or distributed exploration, closely matching the INTERPRET example heatmap rather than the broader, more dispersed patterns of debug, browse, or other tasks.",
+  "correct": true
+}

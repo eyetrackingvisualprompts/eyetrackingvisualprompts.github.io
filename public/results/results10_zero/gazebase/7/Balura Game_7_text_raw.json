@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show large, abrupt multi-directional jumps in gaze position (often >30\u00b0 horizontally and >15\u00b0 vertically) followed by ~1-second clusters of low-variance samples at each location, consistent with tracking a bull\u2019s-eye target that steps to random positions at 1 Hz, matching the Random Saccades task rather than purely horizontal, reading-like, or free-viewing patterns.",
+  "correct": false
+}

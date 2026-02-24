@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread over a central-mid vertical band with both vertical and horizontal exploration, resembling scanning of mixed content (text, images, menus) on web pages, which matches the BROWSE pattern more than the more linear READ heatmap or focused WRITE/SEARCH clusters.",
+  "correct": true
+}

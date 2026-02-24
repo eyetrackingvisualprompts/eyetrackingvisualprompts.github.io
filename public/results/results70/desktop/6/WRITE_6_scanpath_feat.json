@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover a broad area with frequent, multidirectional saccades and relatively short fixations, unlike the more linear, banded patterns of reading/writing or the clustered upper-screen patterns of watching. This dynamic, dispersed scanpath best matches the visual exploration behavior seen in the PLAY examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates almost exclusively between about -15\u00b0 and +15\u00b0 on the horizontal axis with negligible vertical change, and each extreme position is held for roughly 0.5\u20130.8 s before the next large horizontal saccade, matching the structured \u00b115\u00b0 horizontal tracking paradigm rather than random, reading, or free-viewing patterns.",
+  "correct": true
+}

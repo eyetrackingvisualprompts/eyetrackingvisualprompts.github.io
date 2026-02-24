@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact area on the left side with dense overlapping fixations and limited excursions, closely matching the DEBUG example pattern of focused inspection of a code region rather than the more dispersed or systematic patterns seen in other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen at discrete, well-separated locations without forming horizontal scanlines, central clustering, or dense regions typical of reading, video viewing, or the game; this pattern best matches following a target that jumps to random positions (Random Saccades).",
+  "correct": true
+}

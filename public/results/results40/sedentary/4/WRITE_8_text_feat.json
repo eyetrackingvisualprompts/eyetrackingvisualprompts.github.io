@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a relatively small central code-like region with many short saccades among nearby coordinates, long dwell times on specific spots, and occasional larger jumps, matching the localized, analytic inspection pattern seen in INTERPRET rather than the broader scanning of SEARCH/BROWSE or the dynamic spread of WATCH/PLAY.",
+  "correct": false
+}

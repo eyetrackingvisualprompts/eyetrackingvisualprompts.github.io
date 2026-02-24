@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows clustered fixations with frequent medium-length saccades between a few code-relevant regions (likely editor, error/output area, and possibly function header), plus several long fixations (~0.9\u20131.1s) indicative of intensive problem solving rather than continuous line-by-line reading or wide exploratory browsing. The movements are mostly within the same general layout area rather than full-screen scanning as in WATCH/PLAY, and more focused and repetitive than typical SEARCH/BROWSE, aligning best with code debugging behavior.",
+  "correct": false
+}

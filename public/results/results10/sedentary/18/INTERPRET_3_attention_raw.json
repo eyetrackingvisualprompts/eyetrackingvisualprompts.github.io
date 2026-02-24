@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is tightly clustered around two nearby regions in the left-center code area, with limited horizontal spread, resembling focused inspection of a few code lines as seen in the DEBUG example rather than the more extended horizontal scan of WRITE or INTERPRET.",
+  "correct": false
+}

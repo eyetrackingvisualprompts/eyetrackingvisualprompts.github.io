@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows frequent scattered movements between code-like vertical regions (clusters around y\u2248400\u2013600 with many revisits), including excursions to extreme off-screen/GUI areas and large vertical shifts typical of navigating an IDE, inspecting different sections, and re-checking after changes\u2014more consistent with debugging behavior than the more linear patterns in reading/interpreting or the broader exploration in browsing/searching.",
+  "correct": true
+}

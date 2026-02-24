@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates between far left and far right horizontal positions (around \u00b114\u201315\u00b0) with long, nearly horizontal saccades and ~0.2\u20130.6 s fixations at each extreme, closely matching the structured, large-amplitude horizontal target-following pattern of the Horizontal Saccades class rather than the more irregular paths of Random Saccades or task-driven patterns of video, reading, or gaming.",
+  "correct": false
+}

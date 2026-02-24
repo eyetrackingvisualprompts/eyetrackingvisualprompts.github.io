@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cluster in a few compact regions with slow drifts and small vertical shifts, consistent with following limited moving elements (faces/subtitles) in a video rather than systematic line-by-line scanning (READ) or wide exploratory movements across diverse on-screen locations (SEARCH/BROWSE/PLAY/WRITE).",
+  "correct": false
+}

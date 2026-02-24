@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points show long stable fixations in relatively small regions with occasional larger vertical shifts and jumps, consistent with tracking central content (faces/action) and subtitles in a video, rather than the systematic horizontal scanpaths of reading or the highly exploratory patterns expected in search, browsing, or playing games.",
+  "correct": false
+}

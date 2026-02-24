@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered with relatively small horizontal and vertical ranges and few large saccades, resembling the focused, localized viewing of the code editor seen in the WRITE example more than the broader or more erratic scan patterns of browsing, reading, searching, watching, or playing.",
+  "correct": false
+}

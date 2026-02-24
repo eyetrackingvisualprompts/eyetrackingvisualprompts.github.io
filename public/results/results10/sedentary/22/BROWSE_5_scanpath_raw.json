@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large horizontal saccades between left-center and right regions, with clustered fixations where results or answer panels likely appear, resemble the exploratory, results-scanning pattern seen in SEARCH rather than the more localized patterns of coding, reading, or watching video.",
+  "correct": false
+}

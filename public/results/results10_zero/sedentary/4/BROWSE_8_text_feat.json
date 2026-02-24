@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shifts cover large vertical and horizontal areas with irregular, non-linear movements and varying fixation durations, lacking the systematic line-by-line or code-structured patterns of READ/WRITE/INTERPRET/DEBUG or the focused object-tracking typical of PLAY. This broad spatial exploration with frequent medium-length fixations is most consistent with watching dynamic full-screen video content.",
+  "correct": false
+}

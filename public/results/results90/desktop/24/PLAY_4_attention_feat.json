@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster mainly in the upper-middle region with some spread downward, resembling attention on a search-results area plus occasional gaze shifts, which matches the SEARCH heatmap more than the other task patterns.",
+  "correct": false
+}

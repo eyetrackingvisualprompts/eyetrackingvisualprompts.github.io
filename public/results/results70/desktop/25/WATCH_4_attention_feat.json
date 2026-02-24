@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated near the vertical center line with two dense clusters at mid and upper central areas, resembling attention on a search box and central result list; this spatial pattern matches the SEARCH example more closely than the other activities.",
+  "correct": false
+}

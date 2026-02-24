@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen in both horizontal and vertical directions, with distinct, separated clusters rather than a horizontal line (Horizontal Saccades) or tightly central cluster (Fixations). The distribution looks like following a target that jumps to discrete locations over time, consistent with Random Saccades rather than the more structured patterns of Reading, Video Viewing, or the game-specific Balura task.",
+  "correct": true
+}

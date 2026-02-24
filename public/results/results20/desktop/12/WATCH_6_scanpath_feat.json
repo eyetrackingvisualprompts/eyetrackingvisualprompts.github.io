@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered in a compact central-upper region with short, multidirectional saccades and no strong horizontal reading lines, resembling the localized yet exploratory pattern seen in BROWSE rather than the linear pattern of READ or the wide-range movements of PLAY, SEARCH, or WATCH.",
+  "correct": false
+}

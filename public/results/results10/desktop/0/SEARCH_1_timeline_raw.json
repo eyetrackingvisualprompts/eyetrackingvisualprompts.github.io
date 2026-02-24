@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y positions show moderate, irregular movements with occasional small jumps and no strong repetitive horizontal scanlines or large dynamic shifts. This pattern best matches the more free-form, mixed-direction gaze behavior seen in the BROWSE example rather than the more structured (READ/WRITE/SEARCH) or highly dynamic (PLAY/WATCH) tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated mostly in the lower-middle region, consistent with reading results and snippets, with occasional large saccades to the top region and far left, matching movements between search box, results list, and possibly opened pages, which aligns best with SEARCH compared to other activities.",
+  "correct": false
+}

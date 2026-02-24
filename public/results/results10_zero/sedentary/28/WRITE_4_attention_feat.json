@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is tightly clustered in a small region without horizontal scanning or line-by-line movement typical of reading or coding. This stable fixation pattern over 10s aligns best with watching a video where attention remains focused on one localized area of the screen.",
+  "correct": false
+}

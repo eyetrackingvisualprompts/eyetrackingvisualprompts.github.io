@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a compact code-like area (x\u2248200\u2013400, y\u2248250\u2013500) with many medium-long fixations and frequent short regressions between nearby lines/regions, indicative of repeatedly inspecting a small snippet to reason about it. There is no extended horizontal line scanning typical of READ, nor the broader exploratory movements of BROWSE/SEARCH, nor the larger dispersed transitions and tool-panel checks seen in DEBUG/WRITE, nor the dynamic object tracking of PLAY or scene-wide shifts of WATCH. This pattern best matches the INTERPRET task: focused, iterative inspection of a single code snippet to infer its behavior.",
+  "correct": true
+}

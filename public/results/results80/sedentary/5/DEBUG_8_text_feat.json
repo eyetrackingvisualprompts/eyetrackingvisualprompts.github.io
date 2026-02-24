@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and saccades clustered around a limited vertical band with frequent revisits between mid-height code area and slightly lower/upper regions, plus occasional jumps to the top-left, closely resemble the structured line-by-line code interaction and short scroll/toolbar checks seen in WRITE examples rather than the more linear reading patterns or broader exploratory scans of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a tight cluster of fixations in a narrow horizontal band near the upper-left region, consistent with sustained reading of a single text block rather than widespread exploration (browse/search), code spanning larger vertical areas (interpret/debug/write), moving targets (play), or broader scene viewing (watch).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Two dense clusters of fixations on code-like areas (left and right) with occasional long saccades between them resemble the WRITE example, indicating frequent reference between different code regions while typing or editing, rather than more dispersed exploration seen in BROWSE or SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to narrow horizontal bands with smooth left-right progressions and frequent short regressions, first around y\u2248830\u2013960 (likely lower text region) then around y\u2248150\u2013280 (upper/lower text lines). Movements are systematic, line-like, and lack the large exploratory jumps or object-following seen in SEARCH, BROWSE, or PLAY, matching reading behavior.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades between a central text-like region (~x=250\u2013400, y~400\u2013600) and far-right high x-coordinates (~1500\u20131650) plus occasional jumps to corners and top (navigation/UI areas) match web browsing patterns more than code- or game-specific layouts.",
+  "correct": false
+}

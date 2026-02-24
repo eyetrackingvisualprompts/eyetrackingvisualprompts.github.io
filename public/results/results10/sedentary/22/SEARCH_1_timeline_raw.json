@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is mostly confined to a central horizontal band with small, regular shifts and one pronounced vertical spike, closely matching the stable, code-focused patterns and occasional look-away seen in the WRITE example, rather than the larger exploratory or reading-like movements in other tasks.",
+  "correct": false
+}

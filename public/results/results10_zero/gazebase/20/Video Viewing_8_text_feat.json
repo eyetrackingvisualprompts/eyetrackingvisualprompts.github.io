@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are short to moderate and dispersed across many distinct coordinates with both horizontal and vertical shifts, including a large jump from near-center to (6.46, 2.54). Targets remain stable for fractions of a second to around 0.6 s, and gaze follows these discrete, spatially separated points across the screen. The pattern lacks the systematic left-to-right line structure of reading, the strictly horizontal alternation of horizontal saccades, or the densely clustered, content-driven scanning typical of video viewing or game play, best matching the random saccades paradigm with widely distributed, stepwise target locations.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is largely confined to the upper-left / left-central area with many small vertical shifts within a narrow horizontal band and frequent returns to a similar region, matching the pattern of monitoring typed text and cursor position in a word processor more than the broader horizontal sweeps of reading or the dispersed exploration seen in browse/search/watch/play.",
+  "correct": false
+}

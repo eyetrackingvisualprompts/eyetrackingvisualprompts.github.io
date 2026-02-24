@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form several compact clusters with frequent shifts between them and some vertical movements, resembling attention switching among search results, snippets, and interface elements, which matches the SEARCH pattern more than the steadier READ or localized WRITE behaviors.",
+  "correct": false
+}

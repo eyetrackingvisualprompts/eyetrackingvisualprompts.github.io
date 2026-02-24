@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is dominated by a single compact cluster around the screen center with little horizontal scanning or structured line-by-line movement, consistent with passively watching a video where attention stays near the central action rather than exploring or reading text/code or tracking fast-moving game objects.",
+  "correct": false
+}

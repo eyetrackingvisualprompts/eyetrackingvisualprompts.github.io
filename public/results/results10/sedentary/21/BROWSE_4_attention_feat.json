@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across multiple vertical regions of the page (upper, middle, and lower areas) without a tight cluster on code or text blocks, resembling the scattered, exploratory pattern typical of free web browsing rather than the more localized patterns seen in coding, reading, or video watching tasks.",
+  "correct": true
+}

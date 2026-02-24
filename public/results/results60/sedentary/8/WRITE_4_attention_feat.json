@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact region on the upper-left, matching the focused, code-snippet inspection pattern seen in the INTERPRET example, unlike the more spread or multiline patterns of other tasks.",
+  "correct": false
+}

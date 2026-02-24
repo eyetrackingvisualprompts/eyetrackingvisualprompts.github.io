@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, irregular saccades with relatively high-amplitude shifts in both X and Y directions across the entire interval, resembling the dynamic, multi-directional tracking seen in the PLAY examples rather than the more patterned horizontal scans of reading/searching or the localized fixations of coding tasks.",
+  "correct": false
+}

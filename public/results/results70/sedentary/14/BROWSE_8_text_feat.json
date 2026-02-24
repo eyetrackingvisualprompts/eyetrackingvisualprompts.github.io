@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions including corners and edges, repeated transitions between central and peripheral/game-like areas, and substantial vertical movement between mid and bottom screen closely match the dynamic, multi-directional gaze patterns seen in the PLAY examples rather than the more line- or code-structured patterns of reading, writing, or debugging.",
+  "correct": false
+}

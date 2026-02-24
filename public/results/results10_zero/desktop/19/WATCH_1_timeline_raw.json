@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y positions remain within a relatively narrow central band with small, frequent horizontal shifts and limited vertical range, consistent with reading lines of text and occasional short regressions rather than the larger multidirectional excursions typical of play, search, browse, watch, or write activities.",
+  "correct": false
+}

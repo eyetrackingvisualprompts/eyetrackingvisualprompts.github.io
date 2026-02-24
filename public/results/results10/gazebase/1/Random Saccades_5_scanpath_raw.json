@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, multidirectional saccades spanning much of the screen with irregular trajectories and revisits, matching the complex, target-driven movements seen in the Balura game rather than the more systematic patterns of reading or structured saccade tasks.",
+  "correct": false
+}

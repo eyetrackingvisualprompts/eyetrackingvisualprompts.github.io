@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows multiple clusters at different vertical levels with frequent transitions between them, characteristic of scanning search results and moving between query box, results list, and other page elements, which aligns best with the SEARCH activity compared to the more linear READ pattern or localized WRITE pattern.",
+  "correct": false
+}

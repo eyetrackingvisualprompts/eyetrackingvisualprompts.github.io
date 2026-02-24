@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a relatively narrow horizontal band with long, stable fixations and short within-line saccades, plus occasional longer horizontal jumps, closely matching line-by-line text reading rather than the larger, more scattered movements seen in code editing, searching, or browsing, or the object-following patterns in games and videos.",
+  "correct": false
+}

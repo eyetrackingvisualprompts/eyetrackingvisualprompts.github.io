@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is distributed across multiple vertical regions with frequent shifts between a central code area and lower lines, resembling the WRITE example where participants alternate between reading existing code and the area where they type, unlike the more localized INTERPRET or the more static WATCH patterns.",
+  "correct": false
+}

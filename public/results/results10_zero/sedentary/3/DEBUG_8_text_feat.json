@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows sequences of short fixations with small, mostly horizontal saccades clustered in a constrained region, plus occasional moderate jumps and regressions\u2014characteristic of reading lines of text rather than wide, target-driven movements typical of PLAY, SEARCH, or WATCH, or the code-focused zig-zag patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

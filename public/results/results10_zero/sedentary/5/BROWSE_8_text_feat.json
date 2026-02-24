@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows predominantly horizontal saccades along narrow vertical bands with clustered, medium-length fixations, consistent with line-by-line reading or scanning of text, and lacks the large eccentric movements or object-chasing typical of PLAY or the more scattered, multi-region exploration expected in SEARCH or BROWSE.",
+  "correct": false
+}

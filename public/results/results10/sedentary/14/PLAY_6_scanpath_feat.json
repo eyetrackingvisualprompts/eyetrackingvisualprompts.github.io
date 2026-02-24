@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple vertical regions (top, mid, lower) and horizontally across the screen with frequent transitions, resembling scanning results and individual pages typical of the SEARCH example rather than the more linear READ/BROWSE patterns or the localized coding tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like jumps to various positions with both horizontal and vertical components, held roughly for about a second before moving again, matching the discrete, multi-directional target movements of the Random Saccades task rather than the more constrained or patterned movements of the other activities.",
+  "correct": true
+}

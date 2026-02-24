@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points cover a broad, continuous region with smooth horizontal shifts and moderate vertical motion typical of following dynamic on-screen content, rather than the line-by-line patterns of reading/searching or the more clustered code/IDE patterns of programming-related tasks.",
+  "correct": false
+}

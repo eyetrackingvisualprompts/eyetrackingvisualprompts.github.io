@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent long-amplitude, multidirectional saccades across widely separated screen regions with relatively short, scattered fixations, forming a non-linear, non-horizontal pattern. This is more consistent with visually tracking and anticipating moving elements in a game than with the more structured, horizontally-biased scanpaths of reading, writing, code interpretation/debugging, or web search/browsing, and less continuous/smooth than typical video watching behavior.",
+  "correct": true
+}

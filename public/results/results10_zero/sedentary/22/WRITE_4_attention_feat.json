@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The heatmap shows two compact clusters of fixations on opposite sides of the screen with little coverage elsewhere, suggesting gaze alternation between a few spatially separated elements (e.g., player and target/obstacles), which is characteristic of simple game play rather than reading or browsing patterns that produce extended horizontal scan paths.",
+  "correct": false
+}

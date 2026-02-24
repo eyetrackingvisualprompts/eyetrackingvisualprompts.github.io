@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in orderly horizontal sweeps at several nearby y-levels (\u2248120, 150, 210, 240, 260, 280, 300, 320, 390, 410, 425, 470, 495, 515, 535, 550, 575), with many short left-to-right saccades and occasional long regressions back toward the left\u2014typical of line-by-line text reading rather than the larger scattered jumps seen in browsing, search, or games.",
+  "correct": true
+}

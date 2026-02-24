@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the vertical center with several dispersed points above and below, indicating attention shifts between central search results and other page elements, closely matching the SEARCH example\u2019s scattered yet center-focused pattern rather than the more linear (READ) or localized (PLAY/WRITE) patterns.",
+  "correct": false
+}

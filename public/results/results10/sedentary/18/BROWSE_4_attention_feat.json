@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations form a horizontal band across the mid-lower code area, similar to the WRITE example where attention is on the code editor line being written, with limited vertical exploration unlike READ or SEARCH.",
+  "correct": false
+}

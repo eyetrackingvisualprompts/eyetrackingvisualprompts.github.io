@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows many medium-length saccades and short fixations scattered over page-like regions, with frequent returns between mid/upper and lower screen areas and occasional very large off-screen jumps\u2014characteristics aligning more with free-form web browsing than with structured reading, code-centric tasks, or continuous video watching or game following.",
+  "correct": false
+}

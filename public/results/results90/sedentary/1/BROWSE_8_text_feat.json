@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long horizontal scanpaths across the top region (likely address/search bar and tabs), repeated returns to similar horizontal bands around y\u2248220\u2013360 (results list area), and many large saccades between content and window chrome/scroll regions match the search-engine navigation examples rather than the more localized, line-structured reading or tightly clustered code/game patterns of other tasks.",
+  "correct": false
+}

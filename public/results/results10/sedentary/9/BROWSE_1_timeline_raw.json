@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal movements with gradual leftward resets in X and relatively stable Y around a narrow band, indicating line-by-line reading behavior similar to the READ example pattern.",
+  "correct": false
+}

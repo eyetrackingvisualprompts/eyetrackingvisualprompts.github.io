@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y fixation positions jump irregularly across a wide range with roughly 1-second plateaus between changes, matching the random, large-amplitude 2D target jumps characteristic of the Random Saccades task rather than the more structured or constrained patterns of the other activities.",
+  "correct": false
+}

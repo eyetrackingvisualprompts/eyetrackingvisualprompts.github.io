@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows the eye largely tracking a single moving point with one-second-like dwelling positions and multiple long, straight transitions across both horizontal and vertical directions, covering a wide central area rather than a linear text region or a purely horizontal band, which matches the random saccade target movements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze jumps between widely separated positions in both horizontal and vertical directions, with fixations around several hundred milliseconds at each location and no consistent left-to-right or purely horizontal pattern, matching a task where a single target appears at random screen locations rather than reading, video viewing, or static fixation.",
+  "correct": false
+}

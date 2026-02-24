@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Long, stable fixations with small horizontal progressions and regressions clustered around mid-screen coordinates, and minimal large exploratory saccades, best match the sustained line-by-line pattern seen in the READ examples rather than the more dispersed (BROWSE/SEARCH), peripheral (PLAY/WATCH), or upper-screen & cyclic (WRITE) behaviors.",
+  "correct": false
+}

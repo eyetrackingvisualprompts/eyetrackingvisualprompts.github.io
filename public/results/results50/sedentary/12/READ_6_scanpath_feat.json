@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is constrained to a mid-screen horizontal band with sequential left-to-right movements and limited vertical shifts, closely matching the BROWSE example pattern of reading-like scanning across shorter web content sections rather than the multi-paragraph structure of READ or the dispersed patterns of other tasks.",
+  "correct": false
+}

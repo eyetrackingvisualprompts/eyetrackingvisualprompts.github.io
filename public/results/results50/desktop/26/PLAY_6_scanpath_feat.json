@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a mid-screen region with scattered fixations and multidirectional saccades, showing neither the tight horizontal band typical of reading/writing nor the upper-screen focus of watching/playing; this spatially diffuse yet centrally clustered pattern best matches web/news browsing behavior.",
+  "correct": false
+}

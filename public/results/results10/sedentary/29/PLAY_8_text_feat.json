@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows medium-to-long fixations interleaved with large saccades spanning wide screen regions, often between upper and lower areas, without the systematic line-wise horizontal scanning of reading or the focused code-window clustering of programming/debugging tasks. This spatiotemporal pattern best matches passive viewing of dynamic visual content in the WATCH condition.",
+  "correct": false
+}

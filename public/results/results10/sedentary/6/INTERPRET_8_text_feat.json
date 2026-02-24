@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a narrow horizontal band with relatively long fixations and short horizontal saccades back and forth across nearby x-positions, matching line-level reading behavior rather than larger exploratory or task-switching movements seen in other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical strip around the code/editor area with dense fixations and small vertical/horizontal shifts, matching the WRITE example more closely than other tasks that show broader spread or line-structured reading patterns.",
+  "correct": false
+}

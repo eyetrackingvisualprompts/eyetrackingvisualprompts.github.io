@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form predominantly horizontal clusters with short regressions and small vertical shifts, consistent with line-by-line reading behavior rather than large exploratory jumps (browsing/search) or highly dynamic motion tracking (play/watch).",
+  "correct": false
+}

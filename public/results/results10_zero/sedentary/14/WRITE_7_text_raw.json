@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates form dense, horizontal clusters and short regressions typical of line-by-line text reading, with relatively constrained vertical spread and repeated fixations within narrow bands, rather than large, smooth shifts or highly scattered exploratory patterns seen in browsing, watching, or playing games.",
+  "correct": false
+}

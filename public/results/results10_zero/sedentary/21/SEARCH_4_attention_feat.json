@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are sparse and clustered in a few regions, mostly along the bottom and right side, with little systematic left-to-right or line-by-line scanning typical of reading, coding, or browsing. The pattern suggests following dynamic content or salient areas on a full-screen display, which aligns best with watching a video.",
+  "correct": false
+}

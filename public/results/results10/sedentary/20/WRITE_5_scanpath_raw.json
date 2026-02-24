@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on a relatively small left-side code area with frequent vertical shifts and some deeper downward excursions, closely matching the DEBUG example\u2019s dense, iterative scanning pattern rather than the broader movements seen in SEARCH, WATCH, or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, sweeping movements across most of the screen with multiple curved trajectories and clusters of refixations at several peripheral locations, matching the dynamic, wide-ranging gaze shifts and repeated fixations on moving targets characteristic of the Balura Game rather than the more constrained or patterned movements of the other tasks.",
+  "correct": false
+}

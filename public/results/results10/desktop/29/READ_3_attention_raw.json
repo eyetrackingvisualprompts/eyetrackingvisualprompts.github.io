@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is concentrated in a small central region with a slight diagonal spread, indicating focused attention on a moving target near screen center, which matches the PLAY pattern more than the broader, multi-region distributions of reading, browsing, or searching tasks.",
+  "correct": false
+}

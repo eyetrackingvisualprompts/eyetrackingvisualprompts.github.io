@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "The trajectory shows frequent medium-to-large amplitude shifts across wide visual angles with many local fixations on clustered locations (likely targets) and irregular direction changes, matching the task-driven, multi-target, game-like pattern of the Balura Game rather than the more regular, one-dimensional Horizontal/Random Saccades or the more text- or scene-like Reading/Video patterns.",
+  "correct": false
+}

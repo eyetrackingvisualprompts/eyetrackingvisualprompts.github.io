@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across the screen with large saccades in multiple directions and no clear reading or line-by-line pattern, matching the exploratory, multidirectional eye movements typical of playing games rather than the more localized or horizontally constrained patterns seen in reading, writing, browsing, watching, or searching.",
+  "correct": true
+}

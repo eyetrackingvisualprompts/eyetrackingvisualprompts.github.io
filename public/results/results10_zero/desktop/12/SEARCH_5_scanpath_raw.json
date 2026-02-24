@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is clustered in a small central area with short, multi-directional saccades and no clear horizontal or vertical line structure typical of reading, writing, browsing, or search pages; this compact, relatively stable pattern is most consistent with passively watching video content focused near the screen center.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered near the center-left with small vertical range and repeated short fixations interleaved with modest horizontal shifts, matching the browsing example\u2019s mid-screen, incremental movements rather than the stronger horizontal sweeps of reading or the wider, faster excursions of playing or watching video.",
+  "correct": false
+}

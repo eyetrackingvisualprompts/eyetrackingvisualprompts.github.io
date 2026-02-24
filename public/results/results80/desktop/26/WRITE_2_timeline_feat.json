@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions are highly stable with slow, small horizontal progression and minimal vertical changes or large saccades, matching the sustained, line-by-line scanning pattern characteristic of reading text on a static page rather than the more variable movements seen in search, browsing, video watching, writing, or gameplay.",
+  "correct": false
+}

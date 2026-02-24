@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central area with some vertical spread and a few excursions downward, resembling scanning of mixed webpage content and side elements, which matches the browse example more than the other tasks.",
+  "correct": false
+}

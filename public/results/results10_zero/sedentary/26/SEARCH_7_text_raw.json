@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show predominantly horizontal, line-like clusters with small regressions and vertical shifts consistent with moving between lines of text, indicative of reading behavior rather than the larger object-tracking or dispersed exploratory patterns typical of games, browsing, or video watching.",
+  "correct": false
+}

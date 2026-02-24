@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze alternates repeatedly between a small upper-left region and lower code/output-like areas with long fixations and large vertical saccades, matching the pattern of inspecting a code snippet and its output/trace rather than the more line-structured reading, broader web browsing, or continuous motion seen in watching or playing; this is most consistent with INTERPRET behavior.",
+  "correct": true
+}

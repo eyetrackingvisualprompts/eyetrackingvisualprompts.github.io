@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is constrained to a narrow horizontal band with smooth left-to-right and right-to-left sweeps and medium-length fixations, matching reading/inspection of a single text row. The repeated horizontal passes with occasional jumps back resemble scanning a search results line more than continuous prose reading (READ) or the more scattered, multi-region patterns seen in coding (DEBUG/WRITE/INTERPRET) or free BROWSE/WATCH/PLAY behavior.",
+  "correct": false
+}

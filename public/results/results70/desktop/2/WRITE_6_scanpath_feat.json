@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a moderate central region with mixed vertical and horizontal shifts, showing more variability than the structured horizontal lines of reading/writing but less widespread movement than search or play, matching the browsing example pattern.",
+  "correct": false
+}

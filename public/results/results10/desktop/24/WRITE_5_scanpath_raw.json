@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze path is short, compact, and predominantly horizontal with small left\u2013right movements at a fixed vertical level, matching the stable line-by-line pattern typical of reading and resembling the READ example more than the other activities, which show larger spatial spread or multi-directional movements.",
+  "correct": false
+}

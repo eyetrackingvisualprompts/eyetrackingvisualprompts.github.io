@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions remain near screen center with moderate, irregular saccades in both axes and no strong systematic horizontal or vertical scanning pattern, closely matching the browsing example rather than structured reading, writing, game play, or video watching.",
+  "correct": false
+}

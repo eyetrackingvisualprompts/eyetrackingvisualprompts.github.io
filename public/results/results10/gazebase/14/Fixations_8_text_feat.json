@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains near the screen center with very small spatial dispersion and several long fixations (up to ~2.6 s) separated only by micro-saccades, matching sustained viewing of a static central target rather than large or patterned movements seen in other tasks.",
+  "correct": true
+}

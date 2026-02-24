@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze starts near the center then follows a sequence of large, discrete position changes with dwelling at each location rather than continuous oscillation or line-by-line motion. The path is not constrained to a simple horizontal axis (ruling out Horizontal Saccades) and lacks structured left-to-right reading patterns or widespread exploratory viewing, matching a target that jumps to irregular positions as in Random Saccades.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent medium-duration fixations and saccades clustered around a consistent central code region (y\u2248350\u2013600) with recurrent revisits to similar line bands, interleaved with occasional jumps to top-of-screen coordinates, closely matches the structured, line-by-line inspection and revision pattern seen in WRITE examples rather than the more exploratory patterns of BROWSE/SEARCH or the long-stable fixations of WATCH/READ.",
+  "correct": false
+}

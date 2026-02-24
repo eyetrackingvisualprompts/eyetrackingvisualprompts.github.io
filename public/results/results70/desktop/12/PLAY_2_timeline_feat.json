@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent vertical transitions between upper and mid screen regions with scattered fixations and saccades, resembling scanning result lists and pages, which matches the SEARCH pattern more than the more structured READ or WRITE or the more extreme movements in PLAY/WATCH.",
+  "correct": false
+}

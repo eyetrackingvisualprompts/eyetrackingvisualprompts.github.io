@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze moves around a mid-screen band with medium-length fixations and frequent multi-directional saccades, without the systematic line-by-line horizontal pattern of READ or the strong top/bottom text\u2013keyboard alternation of WRITE. The pattern closely matches the exploratory, somewhat scattered navigation seen in the BROWSE example, where the user inspects various regions of a webpage rather than following structured text or tracking dynamic game/video elements.",
+  "correct": false
+}

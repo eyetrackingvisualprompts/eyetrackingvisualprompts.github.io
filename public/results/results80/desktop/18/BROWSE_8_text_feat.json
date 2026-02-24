@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across both axes (including to and beyond screen bounds), rapid shifts between dispersed regions, and relatively short, irregular fixations\u2014patterns most consistent with visually tracking dynamic game elements rather than the more structured, line-based or vertically constrained patterns seen in reading, browsing, searching, watching, or writing tasks.",
+  "correct": false
+}

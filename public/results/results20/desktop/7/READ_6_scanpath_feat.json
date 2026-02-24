@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a mostly horizontal band with orderly left-to-right progress and limited vertical spread, matching the linear scanpath typical of reading text lines rather than the more scattered patterns of search, browse, play, watch, or write.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered in a narrow horizontal band with limited vertical spread and small saccades, closely matching the stable, line-based scanpath pattern seen in the READ example rather than the more dispersed or multi-region patterns of other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, relatively centered horizontal positions with small fluctuations and mixed saccades, resembling the balanced, mid-screen exploration in the BROWSE example more than the more linear patterns of READ/WRITE or the extreme movements of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

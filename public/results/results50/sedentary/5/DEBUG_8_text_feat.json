@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long saccades between a few code-related regions with extended dwell times and revisits to similar coordinates resemble the focused, back-and-forth inspection of a short code snippet seen in INTERPRET, rather than the more distributed or rhythmic patterns of SEARCH, BROWSE, READ, or WATCH, or the denser workspace scanning of WRITE/DEBUG or the highly dynamic PLAY trajectories.",
+  "correct": false
+}

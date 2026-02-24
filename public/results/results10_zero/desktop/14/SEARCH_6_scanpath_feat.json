@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are tightly clustered in a small central region with minimal horizontal or vertical scanning, indicating sustained attention to a single localized area such as the text-entry line and cursor position in a word processor, which is most consistent with the WRITE activity rather than the broader scanning patterns typical of reading, browsing, searching, watching, or playing games.",
+  "correct": false
+}

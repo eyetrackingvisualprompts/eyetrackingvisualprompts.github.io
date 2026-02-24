@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze pattern shows widespread coverage of the upper and central screen with dynamic, multi-directional saccades and dispersed fixations, resembling tracking of moving visual content rather than localized reading, writing, or focused web interaction; this best matches the WATCH example scanpath.",
+  "correct": false
+}

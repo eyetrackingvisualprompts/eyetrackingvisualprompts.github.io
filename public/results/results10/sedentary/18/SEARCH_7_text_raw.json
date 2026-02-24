@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points progress in a structured, banded, left-to-right and then downwards pattern over mid-screen regions, with relatively small horizontal saccades and short vertical shifts, closely matching the typical line-by-line scanning seen in the READ example and unlike the larger, more erratic jumps and off-screen excursions found in SEARCH or BROWSE.",
+  "correct": false
+}

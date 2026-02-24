@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long saccades across widely separated screen regions (including edges and corners), frequent jumps between top, middle, and bottom areas, and irregular, non-line-based scanning resemble the heterogeneous navigation patterns seen in web browsing rather than the more structured, line-like reading or code-centric tasks, or the smoother pursuit in games/videos.",
+  "correct": true
+}

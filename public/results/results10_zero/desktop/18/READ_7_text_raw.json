@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points remain confined to a narrow horizontal band with slow, small progressive shifts and occasional regressions\u2014characteristic of line-by-line reading\u2014rather than the larger multidirectional saccades expected in PLAY, SEARCH, or WATCH, or the strong text\u2013cursor alternation seen in WRITE/BROWSE.",
+  "correct": true
+}

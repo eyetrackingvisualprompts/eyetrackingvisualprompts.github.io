@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly confined to a central text/code area with moderate horizontal movements and occasional larger vertical saccades, plus some brief excursions to another region (likely console or other panel), matching the pattern of scanning and re-checking typical during debugging rather than the more systematic sweeps of reading or the broader, more dispersed movements seen in browsing or playing.",
+  "correct": false
+}

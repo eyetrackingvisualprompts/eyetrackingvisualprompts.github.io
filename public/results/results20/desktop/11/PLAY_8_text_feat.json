@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between widely separated vertical regions (near top and near bottom) and traverses large horizontal distances with medium-length fixations, indicating scanning across multiple interface areas rather than line-by-line reading or focused typing. This exploratory, multi-region pattern with repeated returns to mid-screen resembles the browsing example more than the more structured READ or SEARCH patterns or the highly erratic PLAY/WATCH movements.",
+  "correct": false
+}

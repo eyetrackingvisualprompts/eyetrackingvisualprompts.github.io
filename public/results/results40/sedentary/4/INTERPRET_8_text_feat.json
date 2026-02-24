@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "After an initial long saccade to the right (likely to code or a prompt), gaze remains confined to a compact region with many short, repeated fixations and small vertical shifts between nearby lines\u2014typical of scrutinizing a short code snippet and mentally simulating it, as in the INTERPRET task, rather than the more line-structured scanning of READ or the broader navigation seen in SEARCH/BROWSE/DEBUG/PLAY.",
+  "correct": true
+}

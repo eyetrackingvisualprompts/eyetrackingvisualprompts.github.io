@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a highly concentrated gaze cluster in a small central region with minimal horizontal or vertical scanning, indicating sustained fixation on a localized area such as a character\u2019s face or central action in a video, which aligns best with passive WATCH behavior rather than the broader scanning needed for reading, browsing, searching, writing, or playing.",
+  "correct": false
+}

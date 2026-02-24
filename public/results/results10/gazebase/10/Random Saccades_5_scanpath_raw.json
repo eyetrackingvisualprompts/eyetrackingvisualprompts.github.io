@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, multi-directional jumps across both horizontal and vertical axes with relatively straight saccades between distinct fixation points, closely resembling the Random Saccades example rather than the more structured patterns of reading, horizontal-only motion, or central fixations.",
+  "correct": true
+}

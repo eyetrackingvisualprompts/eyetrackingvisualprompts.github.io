@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent vertical and horizontal saccades between top, middle, and bottom screen regions (including off-screen coordinates), interleaved with shorter local scanning in mid-screen bands, match scrolling and exploring behavior on web pages more than the more line-structured READ patterns or code-centric tasks; dynamics and amplitudes closely resemble the provided BROWSE examples.",
+  "correct": true
+}

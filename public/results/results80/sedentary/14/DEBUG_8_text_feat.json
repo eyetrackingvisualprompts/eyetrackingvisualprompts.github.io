@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades between far-separated regions (top bar, body, off-screen) with many returns to similar vertical zones, plus excursions to extreme coordinates (including negative and > screen height) indicate scrolling and navigating a long web page or multiple pages rather than reading a static text block or focused code; this spatially scattered, exploratory pattern best matches the BROWSE examples.",
+  "correct": false
+}

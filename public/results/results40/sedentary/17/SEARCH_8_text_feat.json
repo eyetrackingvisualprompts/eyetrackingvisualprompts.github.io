@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Long fixations with large, sweeping saccades across wide screen regions (including off-content areas and extreme coordinates), revisits to salient zones, and no clear line-by-line or code-like scanning pattern are characteristic of passively following dynamic visual content, matching the WATCH activity more than the more structured, text- or interface-focused tasks.",
+  "correct": false
+}

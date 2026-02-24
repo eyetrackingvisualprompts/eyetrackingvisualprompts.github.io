@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions fluctuate around the screen center with moderate, frequent saccades in both axes and no strong directional scanning pattern (like the horizontal sweeps in READ or the upper-screen focus in WATCH/WRITE). This mixed, exploratory pattern best matches BROWSE behavior over the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is constrained to a low horizontal band with small regressions and clustered fixations near the left-middle, matching the pattern of following and producing text lines in a word processor, similar to the WRITE example and distinct from the more central band used in READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "Both X and Y fixation traces show gradual, irregular shifts with moderate amplitudes and no strict horizontal-only pattern or large random jumps, matching the more continuous, natural scanpath seen during video viewing rather than structured tasks like reading or controlled saccades.",
+  "correct": true
+}

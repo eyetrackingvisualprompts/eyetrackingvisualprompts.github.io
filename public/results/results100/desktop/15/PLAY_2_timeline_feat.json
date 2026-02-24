@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, continuous horizontal and vertical variation with frequent small saccades around central regions, resembling the mixed and less structured scan patterns seen in the BROWSE example rather than the more line-structured READ/WRITE or dynamic WATCH/PLAY patterns.",
+  "correct": false
+}

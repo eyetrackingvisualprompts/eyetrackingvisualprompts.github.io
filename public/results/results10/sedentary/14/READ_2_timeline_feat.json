@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a steady, mostly horizontal progression with small incremental increases in X and very stable Y, consistent with line-by-line text reading and closely matching the READ example pattern.",
+  "correct": true
+}

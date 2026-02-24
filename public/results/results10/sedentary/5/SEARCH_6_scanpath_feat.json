@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates between a left/middle code area and a lower region, with large cross-screen saccades and scattered fixations resembling moving between code, error/output, and other IDE panels, matching the DEBUG pattern more than the more centralized patterns of WRITE or INTERPRET.",
+  "correct": false
+}

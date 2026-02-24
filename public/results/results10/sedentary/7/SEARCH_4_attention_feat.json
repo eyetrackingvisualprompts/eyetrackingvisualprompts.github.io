@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple regions including the upper-left (query box / tabs) and mid-screen (results), resembling the dispersed yet structured pattern of the SEARCH example more than the other activities.",
+  "correct": true
+}

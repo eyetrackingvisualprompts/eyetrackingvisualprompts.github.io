@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower-left region with relatively small horizontal and vertical ranges, showing moderate, localized movements typical of monitoring typed text and nearby interface elements rather than scanning full pages or dynamic scenes, which aligns best with the WRITE activity pattern.",
+  "correct": false
+}

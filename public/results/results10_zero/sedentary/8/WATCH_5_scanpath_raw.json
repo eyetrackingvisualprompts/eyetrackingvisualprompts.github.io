@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades across wide screen regions with relatively few localized reading-style fixations, indicative of tracking dynamic objects or navigating space, which best matches the PLAY (gaming) activity compared to more text- or code-focused tasks.",
+  "correct": false
+}

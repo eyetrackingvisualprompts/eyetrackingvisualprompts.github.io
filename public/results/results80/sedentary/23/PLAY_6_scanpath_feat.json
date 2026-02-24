@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely dispersed across the screen with frequent long saccades in multiple directions and no clear line-by-line or column structure, closely matching the example WATCH scanpath for viewing dynamic video content rather than text- or code-centered tasks.",
+  "correct": false
+}

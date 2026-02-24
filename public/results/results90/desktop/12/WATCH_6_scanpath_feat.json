@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered near screen center with scattered fixations and varied saccade directions, indicating scanning of a results page and related content rather than the orderly horizontal patterns of reading/writing or the peripheral spread seen in play/watch; this best matches web searching behavior.",
+  "correct": false
+}

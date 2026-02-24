@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze progresses in smooth, predominantly horizontal scanpaths at several vertically separated bands (around y\u2248170, 230, 270, 320, 360, 390, 420, 440, 460, 480, 510, 530, 570), with systematic left-to-right sweeps and return saccades, matching line-by-line text reading behavior rather than the more scattered, exploratory patterns of browsing/search or the dynamic object tracking of play/watch.",
+  "correct": true
+}

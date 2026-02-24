@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely dispersed across the upper-middle area of the screen with many scattered fixations and no strong central or linear reading pattern, resembling the broad, multi-directional search and tracking behavior seen in the PLAY examples rather than the more clustered or structured patterns of READ, WRITE, BROWSE, WATCH, or SEARCH.",
+  "correct": false
+}

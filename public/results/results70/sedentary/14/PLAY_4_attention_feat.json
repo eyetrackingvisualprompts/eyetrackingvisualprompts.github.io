@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are widely spread with a dense cluster around the screen center and additional scattered looks across the frame, matching the broad, central viewing pattern typical of watching a full-screen video rather than the more localized or line-structured patterns seen in reading, coding, or web tasks.",
+  "correct": false
+}

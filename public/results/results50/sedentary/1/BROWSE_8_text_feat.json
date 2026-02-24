@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze patterns show rapid horizontal scans across mid-screen regions, frequent jumps between widely separated vertical positions (including off-screen coordinates), and revisits to various areas, resembling scrolling and exploring mixed web content rather than focused reading, code-centric tasks, or game object tracking\u2014most consistent with free web browsing behavior.",
+  "correct": true
+}

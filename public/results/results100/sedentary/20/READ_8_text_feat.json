@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows systematic, line-like horizontal scan paths with regular left-to-right saccades and short regressions at multiple vertical bands (around y\u2248140, 170\u2013220, 240\u2013330, then successively lower rows), matching reading across successive text lines. There is no large exploratory movement across diverse regions as in SEARCH/BROWSE, nor dynamic object-following typical of WATCH/PLAY; instead, the pattern closely resembles the provided READ examples.",
+  "correct": true
+}

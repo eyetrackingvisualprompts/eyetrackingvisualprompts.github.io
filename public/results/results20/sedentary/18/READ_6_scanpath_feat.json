@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on two horizontal bands near the top and near the bottom of the page, with a long vertical saccade connecting them, consistent with scanning search results and then moving down to a result page section, matching the SEARCH example pattern more than the other activities.",
+  "correct": false
+}

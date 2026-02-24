@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across wide screen regions, many fixations near screen edges and off-center vertical positions (including far top/bottom and outside typical text/code bands), and repeated jumping between disparate areas resemble exploratory web navigation more than structured line-by-line reading, code-centric tasks, or stimulus-following game/video patterns.",
+  "correct": false
+}

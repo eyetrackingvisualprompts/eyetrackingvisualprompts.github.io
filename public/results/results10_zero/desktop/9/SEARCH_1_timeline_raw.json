@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show relatively constrained horizontal movements around a few bands with small vertical shifts, consistent with line-by-line reading and occasional short regressions, rather than large exploratory sweeps or rapid multi-directional shifts typical of search, browse, or play activities.",
+  "correct": false
+}

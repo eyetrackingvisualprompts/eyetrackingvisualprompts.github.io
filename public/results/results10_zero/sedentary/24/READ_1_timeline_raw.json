@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is clustered around a fairly constant central horizontal band with small horizontal drifts and minimal vertical scanning, lacking systematic line-by-line patterns of reading or code inspection; this stable, center-focused behavior with occasional brief excursions is characteristic of passively watching a video rather than interactive tasks like browsing, searching, reading, or coding.",
+  "correct": false
+}

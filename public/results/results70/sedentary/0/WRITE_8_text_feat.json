@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent shifts between a compact cluster of text-like fixations in the upper-left (small x,y range with many revisits) and larger jumps to other screen regions, including top and mid-screen, match scanning SERP snippets and returning to the query/results area, characteristic of SEARCH rather than the more line-structured READ or code-focused programming tasks.",
+  "correct": false
+}

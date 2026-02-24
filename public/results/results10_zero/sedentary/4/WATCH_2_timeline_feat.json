@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal fixations with small, stepwise saccades and relatively constrained vertical movement, consistent with line-by-line reading rather than large scene shifts (WATCH/PLAY) or mixed code/IDE navigation (WRITE/DEBUG/INTERPRET/SEARCH/BROWSE).",
+  "correct": false
+}

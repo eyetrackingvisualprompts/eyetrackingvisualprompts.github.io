@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations form a horizontally elongated band in the lower-middle of the screen, resembling focus on a single text line near the top of an editing area, which matches the WRITE example more than the denser central clusters of SEARCH/BROWSE or the mid-height line of READ.",
+  "correct": false
+}

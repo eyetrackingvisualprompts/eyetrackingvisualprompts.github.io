@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the upper-left and mid-left where a search box/results list typically appear, with additional scattered glances across the page, matching the exploratory pattern of SEARCH rather than the more central focus of WATCH or the narrow code/text areas of programming and reading tasks.",
+  "correct": true
+}

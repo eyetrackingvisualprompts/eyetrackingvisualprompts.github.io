@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long fixations interleaved with medium/large saccades that jump between mid-screen text-like regions and lower vertical positions, plus frequent shifts between central and side areas, resemble the heterogeneous scanpaths of web/news browsing more than the more line-structured READ, the stationary WATCH, localized WRITE, or highly dynamic PLAY; the pattern also matches BROWSE examples\u2019 mix of vertical and horizontal navigation across varied content blocks.",
+  "correct": false
+}

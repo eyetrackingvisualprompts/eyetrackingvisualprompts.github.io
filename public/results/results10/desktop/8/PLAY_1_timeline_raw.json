@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y traces show slow, staircase-like horizontal sweeps with relatively stable plateaus and occasional line-change shifts, closely matching the structured, repetitive scan pattern of reading rather than the more erratic or multi-directional movements seen in search, browse, watch, write, or play tasks.",
+  "correct": false
+}

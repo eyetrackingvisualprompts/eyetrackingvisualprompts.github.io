@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows periods of horizontal scanning with several larger vertical jumps and irregular saccades, indicating movement between different screen regions such as results, snippets, and possibly new pages\u2014patterns most consistent with search engine use rather than the more structured reading or the steadier code-related tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are moderately dispersed around the screen center with frequent saccades among several nearby regions, indicating scanning of changing but centrally located elements (e.g., results list and query box), which aligns best with the SEARCH pattern compared to the more localized READ/WRITE or more extreme PLAY/WATCH movements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is heavily clustered on a left-central code area with repeated revisits, plus frequent long saccades to the top-right (likely console/output) resembling the DEBUG example more than WRITE or INTERPRET patterns.",
+  "correct": false
+}

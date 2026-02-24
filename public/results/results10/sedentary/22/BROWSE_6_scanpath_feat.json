@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple spatially separated regions of attention (top text-like area, mid-page horizontal region, and a lower mid-screen area) with long saccades between them, consistent with scanning search results and content rather than focused code reading/debugging or continuous narrative reading/watching.",
+  "correct": false
+}

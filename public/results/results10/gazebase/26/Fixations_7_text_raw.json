@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Reading",
+  "reason": "The gaze remains within a narrow spatial region with small, smooth shifts and no large-amplitude, stereotyped horizontal sweeps or big jumps between distant positions. This fine-grained, locally clustered pattern with modest drifts and corrections best matches the Reading example, and is unlike the wide-range jumps of Random/Horizontal Saccades or the more dispersed patterns of Video Viewing and Balura Game.",
+  "correct": false
+}

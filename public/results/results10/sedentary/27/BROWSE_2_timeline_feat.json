@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal exploration with relatively stable but stepwise vertical movements and occasional deeper vertical saccades, indicating scanning result lists and moving between snippets or pages, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

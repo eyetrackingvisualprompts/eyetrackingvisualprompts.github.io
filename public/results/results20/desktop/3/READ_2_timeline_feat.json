@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal scanning with gradual upward drift in X fixation and relatively stable mid-level Y fixation, closely resembling the structured line-by-line reading pattern seen in the READ example rather than the more scattered or dynamic patterns of search, browse, watch, play, or write.",
+  "correct": true
+}

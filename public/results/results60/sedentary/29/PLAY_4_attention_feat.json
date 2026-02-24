@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a narrow horizontal band across the mid-screen consistent with line-by-line scanning of web content, matching the browsing example heatmap more than the other activities.",
+  "correct": false
+}

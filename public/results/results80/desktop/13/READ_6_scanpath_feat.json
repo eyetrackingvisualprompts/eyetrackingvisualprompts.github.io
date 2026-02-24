@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a mid-screen region with multi-directional saccades and moderate vertical spread, resembling the exploratory, scrolling-centered pattern of web browsing more than the more linear (READ/WRITE), highly dynamic (PLAY), or top-focused (WATCH) examples.",
+  "correct": false
+}

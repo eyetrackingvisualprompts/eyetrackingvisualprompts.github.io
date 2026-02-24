@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed over a moderate central area with frequent transitions between several clusters, indicating scanning multiple regions (results, snippets, interface elements), which aligns best with the SEARCH pattern rather than the more linear READ/WRITE or constrained PLAY/WATCH behaviors.",
+  "correct": false
+}

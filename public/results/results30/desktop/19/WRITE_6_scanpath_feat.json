@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are tightly clustered in a small central region with minimal horizontal or vertical scanning, indicating sustained fixation on a compact moving stimulus (such as a focal area in a video) rather than the broader, structured scan patterns seen in reading, writing, searching, browsing, or game play.",
+  "correct": false
+}

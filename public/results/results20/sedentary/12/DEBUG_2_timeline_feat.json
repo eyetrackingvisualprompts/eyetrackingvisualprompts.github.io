@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is relatively stable with small, localized movements around a narrow central region, resembling focused inspection of a compact code snippet rather than broader horizontal/vertical exploration seen in reading, browsing, or searching; this pattern matches the INTERPRET example most closely.",
+  "correct": false
+}

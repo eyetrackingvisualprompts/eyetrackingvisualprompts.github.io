@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered and moderately dispersed in both vertical and horizontal directions, without the tight horizontal bands of READ/WRITE or the upper-screen concentration of WATCH; this pattern best matches the browsing example heatmap.",
+  "correct": false
+}

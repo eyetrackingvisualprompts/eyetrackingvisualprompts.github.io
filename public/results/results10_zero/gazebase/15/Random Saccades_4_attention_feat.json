@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen in both horizontal and vertical directions without forming horizontal lines or clustering on a central area, matching the pattern of following a randomly moving target rather than reading, horizontal-only tracking, or static fixation.",
+  "correct": true
+}

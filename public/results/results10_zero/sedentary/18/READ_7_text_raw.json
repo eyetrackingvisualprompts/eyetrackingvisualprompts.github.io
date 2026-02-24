@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points form broad, continuous movements across large horizontal and vertical regions, with smooth shifts and dispersed fixations rather than tight line-by-line or code-structured reading patterns. This wide-area, flowing scan behavior is most consistent with following dynamic visual content in a video rather than focused text/code reading, debugging, or targeted search/interaction tasks.",
+  "correct": false
+}

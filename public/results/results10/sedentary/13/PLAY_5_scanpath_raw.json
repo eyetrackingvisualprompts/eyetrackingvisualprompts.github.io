@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows multiple dispersed regions with medium-length saccades across both horizontal and vertical directions, including occasional long jumps, resembling exploration of different webpage areas rather than the more localized patterns of coding, reading, or watching video.",
+  "correct": false
+}

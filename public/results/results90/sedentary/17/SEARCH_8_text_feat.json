@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal scan paths around multiple vertical positions with many medium-length fixations, frequent jumps across distant screen regions (including off-center and extreme coordinates), and revisits to similar horizontal bands resemble exploratory webpage navigation and mixed-content inspection seen in the BROWSE examples more than the more structured, line-by-line READ patterns or focused code/IDE views of programming tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-scale gaze shifts around a central code region with many revisits, vertical and horizontal movements within a confined area, and occasional excursions to other areas match the detailed, iterative inspection patterns seen in the DEBUG examples rather than the more linear READ/WRITE or more dispersed BROWSE/SEARCH behaviors.",
+  "correct": false
+}

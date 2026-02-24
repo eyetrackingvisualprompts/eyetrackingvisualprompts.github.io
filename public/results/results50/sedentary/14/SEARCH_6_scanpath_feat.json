@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between two main vertical regions (left and center) with frequent vertical and oblique transitions, resembling movement between search results list and selected pages, matching the SEARCH example more than other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal scan paths at multiple vertical bands, frequent large saccades between distant regions (center, far right, bottom, top), and visits to off-content areas resemble exploratory navigation across a complex webpage more than structured reading or focused code work.",
+  "correct": false
+}

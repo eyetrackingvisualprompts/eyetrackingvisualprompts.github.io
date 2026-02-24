@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze data shows frequent jumps off-screen (large negative or very large coordinates), revisits between code-like regions, and oscillations between central and peripheral areas, matching the erratic and widely distributed patterns seen in the DEBUG example more than the more structured reading/searching or smooth WATCH/PLAY trajectories.",
+  "correct": true
+}

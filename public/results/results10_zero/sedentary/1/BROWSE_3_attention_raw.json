@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on two main vertical regions: one central column and a stronger cluster on the right side with limited horizontal scanning, matching typical behavior when focusing on a search results list and a side panel or specific result snippet rather than continuous line-by-line reading or code editing.",
+  "correct": false
+}

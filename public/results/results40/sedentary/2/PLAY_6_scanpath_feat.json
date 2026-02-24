@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a mid-left code area with repeated fixations and occasional long saccades towards the right, similar to the WRITE template where participants alternate between the editor and other UI elements while implementing code, rather than the more localized INTERPRET/DEBUG or highly dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

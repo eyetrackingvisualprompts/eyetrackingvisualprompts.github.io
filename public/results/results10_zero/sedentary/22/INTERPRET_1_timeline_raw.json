@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly centralized with small fluctuations and few large saccades, indicating sustained attention to a single, stable full-screen stimulus rather than line-by-line reading or scanning behavior typical of text or web navigation tasks.",
+  "correct": false
+}

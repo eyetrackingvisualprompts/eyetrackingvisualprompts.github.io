@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces show slow, systematic, predominantly horizontal progression with small vertical shifts and relatively few large saccades, matching the structured scanning pattern of reading text rather than the more scattered or dynamic movements seen in browsing, searching, playing, or watching video.",
+  "correct": false
+}

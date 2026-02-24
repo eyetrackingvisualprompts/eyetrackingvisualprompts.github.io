@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Predominantly mid-screen gaze with frequent medium-amplitude horizontal shifts around a central band, revisits to similar coordinates, and rapid large jumps to peripheral regions resemble tracking a game area and moving focus between player, enemies, and UI elements, matching the PLAY examples more than the more line-structured or reading-like tasks.",
+  "correct": true
+}

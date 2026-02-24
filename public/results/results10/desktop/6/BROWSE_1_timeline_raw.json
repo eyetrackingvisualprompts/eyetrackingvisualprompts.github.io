@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movements around mid-screen with several distinct vertical jumps and plateau-like fixations, matching the mixed reading and scanning behavior typical of search result pages, and closely resembling the SEARCH example pattern more than the others.",
+  "correct": false
+}

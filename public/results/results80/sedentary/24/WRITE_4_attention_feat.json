@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The heatmap shows a dense, elongated fixation cluster in the upper-left code area with a small secondary cluster on the right, closely matching the provided WRITE example pattern and differing from the more vertically spread INTERPRET/DEBUG maps.",
+  "correct": true
+}

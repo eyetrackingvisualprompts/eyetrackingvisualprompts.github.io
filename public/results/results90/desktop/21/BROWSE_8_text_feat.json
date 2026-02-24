@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large saccades spanning wide vertical and horizontal extents, many returns between upper and lower screen regions, and shorter, less-regular fixations indicate dynamic, multi-directional visual exploration typical of game play rather than the more line-structured, horizontally constrained patterns of reading, writing, or web browsing/watching.",
+  "correct": false
+}

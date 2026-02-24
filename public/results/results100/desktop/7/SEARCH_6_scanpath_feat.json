@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a compact cluster near the screen center with moderate dispersion in both axes, resembling the SEARCH example more than the line-like horizontal patterns of READ/WRITE or the broader, multi-regional movements of PLAY/BROWSE/WATCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are clustered in a compact region with small, oscillatory movements and repeated revisits to nearly identical coordinates, suggesting focused attention on a limited code/text area (e.g., current lines in an editor) rather than wide scanning or large scene changes typical of PLAY, WATCH, SEARCH, or BROWSE. The pattern best matches sustained, local inspection consistent with typing or editing code in the WRITE task.",
+  "correct": true
+}

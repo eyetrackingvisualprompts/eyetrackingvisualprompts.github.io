@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze cluster is concentrated on the upper-left code area with repeated vertical transitions and occasional checks to a lower region, closely matching the INTERPRET example pattern and differing from the more dispersed DEBUG behavior.",
+  "correct": false
+}

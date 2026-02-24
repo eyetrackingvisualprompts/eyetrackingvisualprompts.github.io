@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (center-to-corners, top-to-bottom), repeated rapid shifts between dispersed locations, and brief fixations with occasional longer dwells resemble target tracking and spatial exploration patterns typical of interactive gameplay rather than the more line-structured, locally clustered patterns seen in reading, code tasks, or passive watching/browsing.",
+  "correct": false
+}

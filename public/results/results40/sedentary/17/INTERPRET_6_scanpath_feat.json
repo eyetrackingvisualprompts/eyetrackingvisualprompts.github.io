@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a narrow vertical region on the left where code editing typically occurs, with occasional long saccades to the right side of the screen consistent with brief checks of output or other panels, matching the write/code implementation pattern more than other activities.",
+  "correct": false
+}

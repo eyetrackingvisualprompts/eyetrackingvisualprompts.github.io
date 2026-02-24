@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered over a compact code region on the left side of the screen with minimal spread elsewhere, closely matching the INTERPRET example heatmap and indicating focused inspection of a single code snippet rather than broader scanning or editing.",
+  "correct": false
+}

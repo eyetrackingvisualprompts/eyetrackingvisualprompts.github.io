@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations cluster in a relatively small central code-like area with frequent short bidirectional saccades along nearly the same horizontal line and nearby lines, resembling close inspection and re-reading of a snippet, which matches the INTERPRET pattern more than the broader scrolling/searching or more dispersed debugging/writing/play behaviors.",
+  "correct": false
+}

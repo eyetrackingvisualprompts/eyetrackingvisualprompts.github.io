@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show a few large, infrequent vertical shifts with relatively stable plateaus in both X and Y, consistent with watching a video where attention moves between main regions (e.g., characters and subtitles) rather than the more systematic horizontal/vertical scanning of reading, searching, browsing, writing, or the rapid multi-directional movements typical of gameplay.",
+  "correct": true
+}

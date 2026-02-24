@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across widely separated screen regions (including big jumps between mid-upper area and far bottom/right) with relatively short to moderate fixations and repeated returns to lower screen zones are characteristic of tracking changing game elements and interface areas, matching the PLAY examples more than the more line-structured, top-focused, or centrally clustered patterns of READ, SEARCH, WRITE, DEBUG, INTERPRET, WATCH, or BROWSE in this dataset.",
+  "correct": false
+}

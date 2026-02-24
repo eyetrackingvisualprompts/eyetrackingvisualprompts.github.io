@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow horizontal band with long, stable fixations and small horizontal saccades, characteristic of line-by-line reading, and matches the spatial region and dynamics seen in the READ examples more than the broader, more scattered patterns of browse/search or the larger shifts of watch/play.",
+  "correct": true
+}

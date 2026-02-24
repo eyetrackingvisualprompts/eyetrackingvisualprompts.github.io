@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in the central region with moderate vertical spread, resembling scanning of a web/news page; this pattern closely matches the BROWSE example heatmap more than the other activities.",
+  "correct": true
+}

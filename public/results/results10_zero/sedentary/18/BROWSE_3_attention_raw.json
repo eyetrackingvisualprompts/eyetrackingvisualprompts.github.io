@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap is a compact horizontal band near the center of the screen, indicating sustained fixations with small horizontal shifts and minimal vertical movement, which is characteristic of reading a single line or tightly spaced text rather than scanning code, browsing, or tracking moving game/video elements.",
+  "correct": false
+}

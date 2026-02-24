@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a relatively narrow horizontal band with many short saccades and medium-to-long fixations, characteristic of line-by-line processing of static text rather than large exploratory jumps (SEARCH/BROWSE) or peripheral, wider-range movements (WATCH/PLAY). The dense, orderly pattern around mid-screen resembles reading behavior.",
+  "correct": false
+}

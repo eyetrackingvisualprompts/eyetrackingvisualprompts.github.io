@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades with variable fixation positions, especially in Y, indicating scanning across different screen regions (results list, query box, snippets) rather than the more regular line-by-line patterns of reading or the extreme, rapid shifts seen in gameplay or video watching. This pattern best matches web search behavior.",
+  "correct": false
+}

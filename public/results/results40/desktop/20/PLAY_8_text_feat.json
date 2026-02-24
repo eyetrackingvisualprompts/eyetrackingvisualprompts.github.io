@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a compact central band with short, sequential fixations and small saccades that drift gradually along a roughly horizontal region, matching text-line scanning behavior in the READ examples more than the larger vertical movements and dispersed exploration seen in SEARCH, BROWSE, or PLAY, or the upper-screen bias of WRITE and WATCH.",
+  "correct": false
+}

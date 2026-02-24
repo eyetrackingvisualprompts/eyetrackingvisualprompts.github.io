@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact central region with frequent short saccades between nearby locations, repeated returns to similar coordinates, and relatively long fixations\u2014matching the pattern of inspecting and re\u2011inspecting a small code snippet to reason about its behavior, as seen in the INTERPRET examples, rather than the broader spatial exploration of SEARCH/BROWSE or the line\u2011like patterns of READ.",
+  "correct": false
+}

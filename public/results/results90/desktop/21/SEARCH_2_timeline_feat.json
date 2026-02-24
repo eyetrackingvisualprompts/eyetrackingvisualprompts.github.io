@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y show frequent, irregular shifts around mid-screen with many short fixations and saccades, resembling the dense, variable scanning pattern seen in the BROWSE example rather than the more structured patterns of reading, writing, searching, watching, or playing.",
+  "correct": false
+}

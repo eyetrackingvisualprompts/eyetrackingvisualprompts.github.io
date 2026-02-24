@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large horizontal shifts between distinct vertical bands with occasional rapid vertical movements, resembling scanning result lists and page regions, which matches the SEARCH pattern more than the steadier reading or code-focused tasks.",
+  "correct": false
+}

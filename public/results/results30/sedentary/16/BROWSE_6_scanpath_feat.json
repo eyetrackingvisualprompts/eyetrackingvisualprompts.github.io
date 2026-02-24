@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows horizontal reading-like lines in the middle-left (scanning results or snippets) combined with frequent long saccades to and concentrated fixations on a vertical area on the right side (likely the search results list or a selected page), plus occasional large transitions to the top area, matching the mixed scanning and navigation behavior typical of SEARCH rather than focused reading or coding.",
+  "correct": false
+}

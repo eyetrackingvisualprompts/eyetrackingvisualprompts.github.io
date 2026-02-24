@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between discrete fixation positions with both horizontal and vertical components, with step-like changes about once per second at varying amplitudes and directions, matching a target that moves randomly within a 2\u201315\u00b0 range rather than strictly horizontal (Horizontal Saccades) or static (Fixations).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered around a small central area with many short, overlapping fixations and minor saccades, consistent with focused work on a localized region of code while typing, rather than broader reading/browsing patterns or large movements typical of games or video watching.",
+  "correct": false
+}

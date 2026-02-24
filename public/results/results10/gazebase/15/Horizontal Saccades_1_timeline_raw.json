@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates regularly between two horizontal extremes with long plateaus and rapid transitions, while Y position stays near zero with small occasional transients, matching the pattern of following a horizontally moving target.",
+  "correct": true
+}

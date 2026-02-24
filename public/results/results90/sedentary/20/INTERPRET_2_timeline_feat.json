@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze stays in a narrow horizontal band with relatively small, regular saccades and minor vertical shifts, indicating focused attention on a compact code/editor area, which best matches the WRITE pattern among the examples.",
+  "correct": false
+}

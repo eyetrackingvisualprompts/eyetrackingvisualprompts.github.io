@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a code area in the mid-left of the screen with some vertical spread, closely matching the DEBUG example pattern where attention stays on a specific code block rather than the tighter single-block focus of INTERPRET or the broader exploration seen in SEARCH/BROWSE.",
+  "correct": true
+}

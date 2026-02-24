@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are heavily concentrated in the upper-left code area with a horizontally elongated cluster, plus a few scattered glances to the right\u2014matching the WRITE example pattern more than INTERPRET or DEBUG, which have dual left clusters and different spread.",
+  "correct": true
+}

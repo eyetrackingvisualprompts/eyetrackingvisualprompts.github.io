@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates show large, continuous movements across wide screen regions, including substantial vertical and horizontal shifts and off-center excursions, with relatively few stable, line-like fixation clusters. This pattern aligns better with following dynamic visual content in a full-screen video than with the more structured, line-based fixations of reading/searching/browsing or the localized, code-area focus typical of programming-related tasks.",
+  "correct": false
+}

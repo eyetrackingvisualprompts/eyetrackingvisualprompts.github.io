@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, smooth horizontal gaze progression followed by a sudden jump back to the left edge and lower vertical position indicates tracking moving game elements and rapid repositioning, which best matches the PLAY pattern rather than the more regular, line-based movements of reading/writing or the smaller-range browsing/search behaviors.",
+  "correct": false
+}

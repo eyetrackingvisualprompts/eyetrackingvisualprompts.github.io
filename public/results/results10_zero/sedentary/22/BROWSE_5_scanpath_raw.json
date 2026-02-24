@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid, diagonal sweeps across wide screen regions with relatively few line-like reading patterns or tight clusters typical of text/code processing. This suggests visually tracking moving objects or spatial navigation over the screen, which best matches the PLAY (gaming) activity among the options.",
+  "correct": false
+}

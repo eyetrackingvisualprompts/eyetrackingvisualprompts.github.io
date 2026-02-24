@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like relocations to multiple discrete positions across both horizontal and vertical axes, with each position held roughly around one second before jumping to a new, irregularly spaced location. This pattern of irregular 2\u00b0+ movements in both dimensions with sustained fixations matches the Random Saccades task rather than strictly horizontal motion, static fixation, reading, gaming, or free video viewing.",
+  "correct": false
+}

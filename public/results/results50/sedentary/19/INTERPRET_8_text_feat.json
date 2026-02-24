@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small code-like region with many medium-length fixations and short local saccades, including repeated revisits to nearly the same coordinates and back-and-forth checks between nearby lines/positions. There are a few larger jumps (e.g., between top and mid screen), but not the broad exploratory movements of SEARCH/BROWSE or the wide, dynamic shifts of PLAY/WATCH. The pattern closely matches the focused, revisitory inspection typical of mentally simulating a code snippet\u2019s behavior (INTERPRET), and is more localized and less error\u2011hunting\u2013scattered than the DEBUG examples.",
+  "correct": true
+}

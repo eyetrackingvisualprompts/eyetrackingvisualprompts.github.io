@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is spread sparsely across the screen with a few distinct clusters, including central-top and lower-side regions, rather than dense horizontal bands typical of reading or code tasks. This wide, non-structured distribution is most consistent with watching a dynamic full-screen video where attention shifts to different screen areas over time.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze Y-fixation stays in a lower vertical band with gradual drifts and moderate saccades, lacking the systematic line-by-line horizontal scans of READ/WRITE or the highly scattered patterns of SEARCH/BROWSE/PLAY, matching the more localized, smoother viewing behavior seen in the WATCH example.",
+  "correct": false
+}

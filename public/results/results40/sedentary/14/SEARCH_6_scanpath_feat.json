@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between multiple vertical regions (likely results list at left/center and a side area at right) with long cross-screen saccades and scattered fixations, matching the exploratory, multi-area pattern typical of web searching rather than the more localized patterns of reading, writing, or code tasks.",
+  "correct": true
+}

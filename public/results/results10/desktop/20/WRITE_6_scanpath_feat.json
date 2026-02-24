@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster around a central region with short, multidirectional saccades and small spatial dispersion, closely resembling the browsing example pattern rather than the more linear (READ/WRITE), focused (WATCH), exploratory (SEARCH), or widely spread (PLAY) scanpaths.",
+  "correct": false
+}

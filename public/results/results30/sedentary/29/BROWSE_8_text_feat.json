@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-to-long fixations around central code-like regions, repeated revisits between similar horizontal bands (suggesting code lines), and many saccades between mid-screen and upper areas are characteristic of careful code inspection and back-and-forth checking seen in DEBUG examples, more so than the more linear scans of INTERPRET or the more free, wide movements of BROWSE/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are densely clustered around the central region with some spread in all directions, matching the dynamic, object-following central focus seen in the PLAY example heatmap, unlike the more text- or code-structured patterns of reading, browsing, or coding tasks.",
+  "correct": true
+}

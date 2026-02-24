@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is dispersed across the entire screen with long cross-screen saccades and clusters around moving regions, resembling dynamic viewing behavior in the WATCH example rather than the more localized, structured patterns seen in reading, coding, or search tasks.",
+  "correct": false
+}

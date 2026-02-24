@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is highly concentrated in a small region slightly below screen center with minor horizontal spread, consistent with fixations on a localized text area during reading rather than the broader or more dynamic gaze patterns typical of browsing, searching, playing, watching video, or writing across the page.",
+  "correct": false
+}

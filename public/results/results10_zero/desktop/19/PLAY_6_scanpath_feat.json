@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are confined to a narrow horizontal band slightly above the bottom-center, with small progressive and regressive shifts around a limited region rather than full-line sweeps as in extended reading or larger exploratory movements seen in browsing/searching/playing/watching. This localized, stable pattern is most consistent with focusing on a small text area such as an active typing region in a word processor, indicating a WRITE task.",
+  "correct": false
+}

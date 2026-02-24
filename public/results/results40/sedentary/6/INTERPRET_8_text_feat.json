@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Very long, slow cross-screen saccades with extended dwell at top/URL regions, then repeated horizontal sweeps around a single text row band and occasional jumps to higher/lower bands and page corners fit the mixed scanning + reading pattern seen in search results pages, rather than the more locally bounded code (WRITE/INTERPRET/DEBUG) or line-regular READ behavior.",
+  "correct": false
+}

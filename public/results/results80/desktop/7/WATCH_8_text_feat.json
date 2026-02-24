@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows frequent medium-to-large saccades across wide screen regions (both horizontally and vertically) interspersed with short and moderate fixations at many distinct locations, including repeated transitions between mid-page, top, and bottom areas\u2014characteristic of scanning and navigating heterogeneous web content. It lacks the regular horizontal line structure of READ, the tight text-area clustering of WRITE, and the more constrained central focus typical of WATCH, aligning best with BROWSE behavior.",
+  "correct": false
+}

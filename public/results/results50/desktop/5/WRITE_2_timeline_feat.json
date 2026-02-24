@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, progressive horizontal movements with relatively stable vertical positions and periodic regressions, matching the line-by-line scanning pattern typical of reading rather than the more scattered (browse/search), dynamic (play), or top/bottom-focused (watch/write) patterns.",
+  "correct": false
+}

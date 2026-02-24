@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large saccades with both horizontal and vertical shifts, intermittent scanning of different screen regions, and less structured line-by-line progression than reading, closely matching the diverse exploratory pattern seen in the BROWSE example.",
+  "correct": false
+}

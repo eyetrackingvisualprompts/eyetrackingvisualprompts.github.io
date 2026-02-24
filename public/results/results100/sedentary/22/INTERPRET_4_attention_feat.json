@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on the upper-left code area with a narrow horizontal spread and a few glances to the right side (likely console or reference panels), matching the WRITE pattern more than the INTERPRET/DEBUG examples, which center slightly lower and show different spread.",
+  "correct": false
+}

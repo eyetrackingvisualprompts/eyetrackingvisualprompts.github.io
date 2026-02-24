@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small lower-central region with minimal horizontal or vertical excursions, indicating focused attention on a single localized area of the screen, which matches the writing pattern rather than the broader, more distributed scanpaths of reading, browsing, searching, playing, or watching video.",
+  "correct": true
+}

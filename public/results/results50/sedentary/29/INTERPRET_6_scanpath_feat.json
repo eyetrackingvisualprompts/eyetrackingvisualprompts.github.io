@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively narrow vertical code area on the left with dense, repeated fixations and moderate vertical movements, closely matching the DEBUG example pattern of focused inspection within the IDE rather than the more scattered or horizontally structured patterns of other tasks.",
+  "correct": false
+}

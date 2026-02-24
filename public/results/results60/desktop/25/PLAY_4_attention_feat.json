@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in the central-lower area with some horizontal spread, resembling the browsing heatmap more than the tighter, left-biased WRITE cluster or the mid-line READ pattern. The distribution matches how users scan central content blocks on web pages while browsing.",
+  "correct": false
+}

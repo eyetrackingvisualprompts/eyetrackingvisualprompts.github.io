@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with dense, short horizontal saccades and many medium-to-long fixations around the same lines, plus frequent revisits to slightly different vertical positions\u2014matching the pattern seen in INTERPRET examples rather than the broader scanning or vertical progression typical of browsing, reading articles, or search pages.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly confined to a central horizontal band with smooth, gradual shifts in X and very small, stable Y changes for most of the window, consistent with watching dynamic content rather than scanning text or code; brief large Y excursions near the end resemble transient look-aways or scene cuts typical of video watching rather than structured reading or task-focused activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between large vertical jumps (top of page to bottom regions) and extended horizontal scanning around a mid-screen text line, resembling reading and re-reading web content with scrolling and revisits to header/URL areas; this mixed, less-structured pattern aligns more closely with BROWSE examples than with the more focused, code-centered patterns of WRITE/DEBUG/INTERPRET or the more uniform line-by-line READ behavior.",
+  "correct": false
+}

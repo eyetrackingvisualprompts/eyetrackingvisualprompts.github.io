@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is confined to a relatively small horizontal region with rapid, large saccades to peripheral locations and back, consistent with tracking moving game elements and occasional glances to other UI areas rather than systematic line-by-line reading or code inspection.",
+  "correct": false
+}

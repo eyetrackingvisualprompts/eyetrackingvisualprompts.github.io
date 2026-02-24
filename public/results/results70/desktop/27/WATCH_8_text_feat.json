@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a relatively small lower-left region with long, stable fixations and short local saccades, matching the stationary text-area focus seen in the WRITE examples rather than the broader vertical scanning of READ or the more dispersed movements of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

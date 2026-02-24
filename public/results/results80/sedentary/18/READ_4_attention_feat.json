@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations form several horizontally aligned bands stacked vertically in the central area, consistent with line-by-line reading behavior similar to the READ example heatmap, rather than the more dispersed or code-clustered patterns of other tasks.",
+  "correct": true
+}

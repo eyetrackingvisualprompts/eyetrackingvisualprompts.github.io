@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, continuous horizontal movements with limited vertical change and fewer abrupt saccades, resembling tracking of dynamic on-screen content rather than line-by-line reading or code inspection, which aligns best with the WATCH task pattern among the provided examples.",
+  "correct": false
+}

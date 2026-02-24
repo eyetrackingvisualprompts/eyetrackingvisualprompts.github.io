@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered on the left-central region (typical IDE/code area) with repeated vertical movements and occasional long saccades to the right side (likely console or reference panel), matching the WRITE example pattern more than other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a relatively constrained vertical band, with many short progressive and regressive saccades and medium/long fixations along roughly horizontal segments, matching line-by-line reading behavior more than the larger, multi-region jumps seen in search, browse, or coding tasks.",
+  "correct": false
+}

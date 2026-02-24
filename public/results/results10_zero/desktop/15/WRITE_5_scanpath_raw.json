@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, sweeping saccades with broad horizontal and diagonal movements and relatively few tight clusters of fixations, indicating continuous visual tracking of dynamic elements across the screen, which is most consistent with gameplay rather than reading, writing, or web browsing/searching that typically exhibit denser, more structured fixation patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including edges/corners and off-screen coordinates), repeated shifts between central and peripheral areas, and irregular scanning without line-structured patterns are characteristic of visually tracking dynamic game elements rather than reading, coding, or static web browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal band with small progressive and regressive saccades in a limited central screen area, matching the stable line-by-line scan pattern seen in the READ example more than the broader, more scattered exploration of BROWSE or SEARCH or the dynamic spread of PLAY/WATCH.",
+  "correct": true
+}

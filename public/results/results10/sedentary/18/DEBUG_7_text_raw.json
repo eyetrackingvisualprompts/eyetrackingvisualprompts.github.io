@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a mid-screen code-like region with frequent short horizontal and small vertical shifts, revisiting nearby lines and tokens without the longer, continuous line-by-line sweeps typical of reading prose. The pattern resembles careful, localized inspections and back-and-forth comparisons among a small set of coordinates, consistent with mentally simulating code output rather than writing or broadly browsing/searching.",
+  "correct": false
+}

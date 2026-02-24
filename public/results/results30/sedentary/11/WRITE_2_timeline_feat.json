@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows two distinct phases: an initial period with moderate horizontal scanning and relatively stable vertical position, followed by a mid-interval large saccadic excursion and then a new stable region with different fixation levels. This pattern matches switching between result lists/pages and focused reading on selected items, characteristic of SEARCH, rather than the more uniform reading (READ), free but smoother browsing (BROWSE), or code-centric tasks (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated, fairly straight left\u2013right sweeps across a narrow vertical band near the top of the screen, consistent with tracking a horizontally oscillating target that holds position briefly between saccades, matching the Horizontal Saccades task rather than the more irregular or dispersed patterns expected for reading, random saccades, video, or gaming.",
+  "correct": false
+}

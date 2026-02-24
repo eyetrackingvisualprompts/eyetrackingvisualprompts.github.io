@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper-central area, resembling scanning of search results and navigation elements rather than dense central clustering (WATCH/PLAY) or narrow code/text blocks (WRITE/DEBUG/INTERPRET/READ).",
+  "correct": false
+}

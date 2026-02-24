@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated medium-length saccades and fixations along a mostly horizontal band around y\u2248220\u2013280, with frequent long jumps between left and right regions and occasional moves to higher/lower areas\u2014consistent with scanning search results/snippets on a web page rather than the tighter, line-by-line horizontal pattern of READ or the more code-block-centered patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

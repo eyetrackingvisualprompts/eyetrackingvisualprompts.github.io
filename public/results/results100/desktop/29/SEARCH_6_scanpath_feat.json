@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around the central-upper area with moderate vertical exploration and scattered fixations, closely matching the SEARCH example pattern of focusing on a results list and query area rather than the tighter horizontal band of READ or the broader spread of BROWSE.",
+  "correct": true
+}

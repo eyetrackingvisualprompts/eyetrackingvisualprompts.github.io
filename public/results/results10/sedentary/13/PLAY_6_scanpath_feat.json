@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows dispersed fixations and long saccades across multiple vertical and horizontal regions, indicative of scanning different webpage areas rather than following text lines, code blocks, or a central moving object; this best matches the heterogeneous, exploratory patterns seen in BROWSE.",
+  "correct": false
+}

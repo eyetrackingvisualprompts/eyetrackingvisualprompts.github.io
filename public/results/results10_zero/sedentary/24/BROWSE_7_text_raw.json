@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze coordinates show large, smooth shifts across wide vertical and horizontal ranges, with fewer tight regressions characteristic of reading or code inspection. The pattern suggests continuous tracking of changing on-screen content rather than line-by-line reading, searching, or focused code work, aligning best with passively watching a dynamic video.",
+  "correct": false
+}

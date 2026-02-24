@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band with small saccades and no line-by-line progression typical of reading prose; gaze is confined to a code-like region near the center-left of the screen, consistent with focusing on a short code snippet to interpret its output rather than scanning widely as in debugging, browsing, or search.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over the left-central area typical of code in an IDE, with occasional long saccades to the far right/bottom likely toward console/output or other panels, matching the DEBUG example more closely than WRITE or INTERPRET.",
+  "correct": false
+}

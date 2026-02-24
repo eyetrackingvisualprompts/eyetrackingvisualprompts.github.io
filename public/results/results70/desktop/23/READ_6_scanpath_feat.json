@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band with small vertical range and limited spatial coverage, matching the stable line-by-line gaze pattern of reading rather than the broader, more scattered patterns of browse/search or the dynamic movements in play/watch/write.",
+  "correct": true
+}

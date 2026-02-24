@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows repeated revisits between a compact code-like region (around y\u2248180\u2013210), mid-panel (y\u2248300\u2013370), and lower area (y\u2248480\u2013520), with long fixations and medium saccades\u2014matching the pattern of checking code, then predicted output, then returning to code seen in INTERPRET examples more than the steadier reading of READ or the more scattered exploration of SEARCH/BROWSE/DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively constrained horizontal and vertical ranges with moderate, regular saccades and fixations centered in a code-like region, closely matching the INTERPRET example pattern and differing from the more scattered BROWSE/SEARCH and highly vertical READ patterns.",
+  "correct": false
+}

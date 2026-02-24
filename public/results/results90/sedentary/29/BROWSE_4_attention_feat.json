@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread horizontally across multiple regions with several small fixation clusters rather than a single dense block or vertical reading column, indicating scanning of different areas such as search results and snippets, which matches the SEARCH pattern best.",
+  "correct": false
+}

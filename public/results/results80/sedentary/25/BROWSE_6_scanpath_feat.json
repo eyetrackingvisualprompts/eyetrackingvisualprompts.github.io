@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is widely dispersed over the central screen with many medium-to-long saccades in multiple directions and no clear reading lines or code/text block focus, matching the exploratory, scene-following pattern seen in the WATCH example scanpath.",
+  "correct": false
+}

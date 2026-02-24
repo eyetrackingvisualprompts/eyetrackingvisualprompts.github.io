@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a vertical strip in the left-center region (typical code area) with additional saccades and fixations extending both upward and rightward, closely matching the DEBUG example pattern of scanning through code lines and related UI elements rather than the more compact INTERPRET or WRITE patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are widely distributed across the screen with multiple dense regions, including center and upper-right, indicating frequent gaze shifts in many directions typical of visually exploring and tracking game elements rather than the more linear or centrally focused patterns seen in reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

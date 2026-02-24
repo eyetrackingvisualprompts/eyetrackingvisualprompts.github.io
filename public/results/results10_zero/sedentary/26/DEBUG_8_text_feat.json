@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows sequential fixations with moderate saccades moving mostly within constrained horizontal bands and gradual vertical shifts, consistent with line-by-line reading rather than the larger, target-driven jumps of SEARCH/BROWSE or the dynamic object tracking of PLAY/WATCH. The pattern lacks the tight code-region revisits typical of DEBUG/WRITE/INTERPRET and instead reflects continuous text scanning behavior.",
+  "correct": false
+}

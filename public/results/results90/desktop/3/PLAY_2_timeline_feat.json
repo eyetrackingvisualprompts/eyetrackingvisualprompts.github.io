@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions stay within a relatively narrow horizontal band with dense, small saccades and many short fixations, resembling line-by-line scanning of text and matching the example READ pattern more than the other activities.",
+  "correct": false
+}

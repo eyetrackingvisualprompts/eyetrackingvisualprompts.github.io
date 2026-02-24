@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are short to medium (0.17\u20130.5s) with frequent small saccades within a compact region around screen center, and occasional modest vertical shifts, resembling the mixed, exploratory scanning of web pages more than the highly horizontal, line-based pattern of READ or the top/bottom-biased regions of WRITE and SEARCH. The movements also lack the long, wide shifts and extended fixations typical for WATCH or PLAY.",
+  "correct": false
+}

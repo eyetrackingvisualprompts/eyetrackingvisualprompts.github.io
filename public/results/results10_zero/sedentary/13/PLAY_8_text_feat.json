@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-to-large saccades between dispersed screen regions (center, upper, lower areas) with many short fixations and occasional longer ones, indicating repeated checking of different code parts and outputs rather than linear reading or passive watching. This pattern is more consistent with actively locating and verifying errors in code (DEBUG) than with the more linear, localized patterns typical of READ/WRITE/INTERPRET, or the smoother tracking patterns of WATCH/PLAY/BROWSE/SEARCH.",
+  "correct": false
+}

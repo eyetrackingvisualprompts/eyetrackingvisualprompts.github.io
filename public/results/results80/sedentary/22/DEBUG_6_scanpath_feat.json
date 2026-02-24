@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered on the left side of the screen where the code editor typically resides, with occasional long saccades to the right (likely to run/console area), closely matching the DEBUG example pattern more than WRITE or INTERPRET.",
+  "correct": true
+}

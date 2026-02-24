@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The heatmap shows dense fixations around the central area with broader spread vertically and horizontally, similar to the PLAY example where gaze follows dynamic in-game elements rather than structured horizontal lines of text or code, making PLAY the most consistent class.",
+  "correct": true
+}

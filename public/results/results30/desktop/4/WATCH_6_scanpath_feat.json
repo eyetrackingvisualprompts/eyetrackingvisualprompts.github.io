@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large saccades spanning a wide horizontal range and multiple vertical regions with dispersed fixations, resembling dynamic, exploratory gaze needed to track moving game elements in different screen areas, which matches the PLAY examples more than the more localized or structured patterns of reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

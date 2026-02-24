@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large saccades between dispersed vertical positions (around 0.25\u20130.8) near screen center, with many short fixations and occasional long vertical jumps, match the exploratory, scrolling and result-checking pattern seen in the SEARCH example more than the more line-structured READ or the more center-clustered WATCH; WRITE and PLAY have very different spatial distributions and dynamics.",
+  "correct": false
+}

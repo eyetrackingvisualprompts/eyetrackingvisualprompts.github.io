@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows horizontal sweeps across upper screen regions, revisits to a central band, and occasional long saccades to far right and corners, matching search engine use more than the other tasks.",
+  "correct": false
+}

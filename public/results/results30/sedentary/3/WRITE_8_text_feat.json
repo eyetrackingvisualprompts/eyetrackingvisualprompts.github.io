@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a code-like region with many medium-long fixations, short saccades within that area, and occasional vertical shifts between a small set of nearby locations, matching the pattern of inspecting and mentally simulating code rather than broader exploration (SEARCH/BROWSE) or line-by-line progression (READ/WRITE/DEBUG).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a narrow horizontal band around mid-screen (y\u22480.44\u20130.56) with short, local saccades and few large jumps, resembling line-by-line text viewing more than the more vertically spread patterns of SEARCH/BROWSE, the upper-screen bias of WRITE, or the larger, multi-directional shifts typical of WATCH/PLAY.",
+  "correct": false
+}

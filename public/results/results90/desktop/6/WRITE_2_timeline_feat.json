@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Y fixations remain mostly in the lower half of the screen (around 0.2\u20130.5) with relatively constrained horizontal spread, resembling the WRITE template where gaze stays near the text-input area, unlike READ (higher Y band) or PLAY/WATCH (larger excursions).",
+  "correct": true
+}

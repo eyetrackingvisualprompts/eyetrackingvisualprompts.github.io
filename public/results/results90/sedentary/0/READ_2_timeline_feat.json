@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows a mix of relatively high, stable horizontal fixations with occasional large vertical jumps to much lower Y positions and back, matching scrolling and scanning between result snippets typical of search engine use, similar to the SEARCH example pattern.",
+  "correct": false
+}

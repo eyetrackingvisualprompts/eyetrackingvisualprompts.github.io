@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered along a small horizontal region around mid-upper screen, matching the stable, line-based gaze pattern seen in the READ example more than the broader, more scattered clusters of BROWSE or SEARCH.",
+  "correct": false
+}

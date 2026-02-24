@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows continuous, wide-ranging gaze movements across the central screen with frequent direction changes and no tight clustering on text-like regions, closely resembling the dynamic, object-following patterns seen in the PLAY example (e.g., tracking game elements) rather than the more localized or line-structured patterns of reading, coding, or browsing tasks.",
+  "correct": true
+}

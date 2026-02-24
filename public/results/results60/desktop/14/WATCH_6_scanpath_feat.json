@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around the screen center with substantial vertical spread and frequent transitions between upper and lower regions, resembling scanning of search results and pages rather than the more horizontal patterns of reading/writing or the wider distributions seen in watching, browsing, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around a central area with frequent medium-range saccades in multiple directions, indicating scanning of a results page and navigating between items, similar to the SEARCH example and more dispersed than READ/WRITE but less bimodal and extreme than PLAY or WATCH.",
+  "correct": false
+}

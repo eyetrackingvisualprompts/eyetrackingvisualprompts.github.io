@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are distributed across a moderately wide central region with frequent shifts among multiple locations, more scattered than READ/WRITE but less clustered than PLAY, matching the exploratory yet screen-centered pattern typical of web browsing.",
+  "correct": true
+}

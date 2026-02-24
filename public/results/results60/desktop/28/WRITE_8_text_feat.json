@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude horizontal saccades around mid-screen interleaved with occasional larger vertical transitions and brief fixations, including repeated returns to similar y-levels, match the scanning and page-navigation pattern seen in BROWSE more than the steadier line-by-line READ pattern or the more localized WATCH/WRITE behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively localized, stable fixations with modest horizontal and vertical spread and few large saccades, closely matching the INTERPRET example pattern of focused inspection of a small code snippet rather than the broader exploration or dynamic movements seen in BROWSE, SEARCH, WATCH, or PLAY.",
+  "correct": false
+}

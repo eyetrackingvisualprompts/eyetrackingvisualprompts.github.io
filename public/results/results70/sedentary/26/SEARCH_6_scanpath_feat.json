@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form mostly horizontal bands with small vertical shifts, characteristic of line-by-line reading, and closely resemble the scanpath pattern shown in the READ example compared to other more scattered or central-focused activities.",
+  "correct": false
+}

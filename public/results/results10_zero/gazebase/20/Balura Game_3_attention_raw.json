@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixation points are scattered across the entire screen in both horizontal and vertical directions, with no central clustering, linear horizontal band, or text-like structure; this broad, discrete spatial distribution best matches following a randomly moving target.",
+  "correct": false
+}

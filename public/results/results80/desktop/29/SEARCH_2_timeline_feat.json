@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations in both X and Y remain near screen center with moderate, irregular saccades and no strong directional drift or line-by-line scanning pattern, matching the mixed, central viewing behavior typical of web browsing rather than sustained reading, writing, gameplay, searching, or video watching.",
+  "correct": false
+}

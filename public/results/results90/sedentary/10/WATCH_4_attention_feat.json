@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations form a mostly horizontal band across the upper part of the screen with scattered points elsewhere, resembling scanning across search results rather than the more centralized focus of WATCH or the tight blocks of code-related tasks like DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is tightly clustered near the screen center with small surrounding movements, matching the focused central tracking pattern seen in the PLAY example (following a game object), unlike the more horizontally distributed patterns of reading/browsing/search and the dispersed code-related tasks.",
+  "correct": false
+}

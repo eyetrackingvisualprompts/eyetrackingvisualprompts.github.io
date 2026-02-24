@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across widely separated screen regions (including corners and extreme coordinates), with short and medium fixations scattered rather than line- or column-structured, match the dynamic, multi-directional gaze shifts seen in the PLAY examples rather than the more localized, structured patterns of reading, writing, searching, or browsing, or the more centrally clustered watching behavior.",
+  "correct": false
+}

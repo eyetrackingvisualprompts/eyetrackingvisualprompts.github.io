@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long horizontal scanpaths over central rows with repeated passes, interleaved with frequent large saccades between top-left query/URL regions and results area, plus occasional bottom/side excursions, best match the mixed read\u2013navigate pattern of search result pages rather than the more uniform lines of READ or the IDE-centered patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, irregular movements in both X and Y with frequent short saccades and no strong directional trend or large excursions, matching the scattered, exploratory pattern typical of web/news browsing rather than the more structured patterns of reading, writing, searching, watching video, or gameplay.",
+  "correct": false
+}

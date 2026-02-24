@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows broad, smooth shifts across large screen regions with intermittent larger saccades and relatively fewer, less-structured fixations, resembling following dynamic on-screen content rather than line-by-line or code-oriented tasks; this pattern best matches the WATCH examples.",
+  "correct": false
+}

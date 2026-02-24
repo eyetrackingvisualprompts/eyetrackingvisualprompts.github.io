@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades across wide screen regions (including toward screen edges and off-center vertical positions), alternating with short and medium fixations, and repeated jumps between top/upper areas and lower/side areas match the exploratory, scattered scan pattern seen in the SEARCH examples rather than the more line-structured READ/BROWSE or code-focused WRITE/DEBUG/INTERPRET patterns or the smoother object-following in WATCH/PLAY.",
+  "correct": false
+}

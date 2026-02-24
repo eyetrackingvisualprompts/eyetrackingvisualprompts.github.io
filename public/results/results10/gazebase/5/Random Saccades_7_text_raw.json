@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Reading",
+  "reason": "The gaze shows predominantly left-to-right horizontal movements clustered around several vertical bands, with moderate amplitudes and relatively regular, line-like progressions and regressions, matching the pattern of scanning text lines in the Reading examples rather than the more constrained central Fixations, strictly oscillatory Horizontal Saccades, or highly dispersed/random trajectories of the game and random-saccade tasks.",
+  "correct": false
+}

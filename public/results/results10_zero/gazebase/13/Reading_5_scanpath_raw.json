@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows a target that stays at discrete positions for about a second, with large, irregular jumps in both horizontal and vertical directions within a constrained region, matching the pattern of following a randomly moving bull\u2019s-eye rather than orderly reading lines, purely horizontal motion, or central fixation.",
+  "correct": false
+}

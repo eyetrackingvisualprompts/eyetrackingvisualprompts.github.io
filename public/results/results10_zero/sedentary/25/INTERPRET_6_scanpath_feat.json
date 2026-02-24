@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is clustered in a few regions with long saccades across the screen, characteristic of tracking game elements or UI in simple games, rather than the line-by-line, denser horizontal patterns expected in reading or coding-related tasks.",
+  "correct": false
+}

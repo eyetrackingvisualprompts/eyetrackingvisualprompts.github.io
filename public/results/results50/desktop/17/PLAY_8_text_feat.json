@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-screen with frequent medium-amplitude horizontal shifts and short fixations plus occasional jumps between nearby vertical regions, closely matching the browsing example patterns and less structured than the more line-based READ behavior or the more static WATCH/SEARCH fixations.",
+  "correct": false
+}

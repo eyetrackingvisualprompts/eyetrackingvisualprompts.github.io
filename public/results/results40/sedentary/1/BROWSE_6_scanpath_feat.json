@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated in the central-left code area with dense, repeated fixations and vertical movements, plus occasional long saccades to the top\u2014matching the pattern of scanning through a code listing and revisiting lines characteristic of debugging rather than the more uniform reading or more dispersed browsing/search patterns.",
+  "correct": false
+}

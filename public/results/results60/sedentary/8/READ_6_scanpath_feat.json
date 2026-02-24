@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, horizontally aligned bands across a relatively narrow vertical region, indicating systematic line-by-line reading with regressions, matching the reading scanpath pattern rather than the more scattered or wide-ranging patterns of browsing, searching, or coding tasks.",
+  "correct": true
+}

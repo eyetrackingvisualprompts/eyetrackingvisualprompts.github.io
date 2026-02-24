@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the upper-central area with some spread vertically, closely matching the SEARCH example heatmap where attention alternates between the search box, results, and snippets, rather than the more horizontally structured patterns of READ/WRITE or the peripheral clusters of PLAY/WATCH.",
+  "correct": false
+}

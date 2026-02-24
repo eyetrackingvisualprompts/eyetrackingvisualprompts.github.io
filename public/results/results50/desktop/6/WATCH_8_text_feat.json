@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Long, stationary fixations clustered in the upper screen (around y\u22480.6\u20130.8) with occasional shifts to very low positions (y\u22480.1 and below) match the pattern of watching typed text near the top of a Word document while periodically glancing down at the keyboard or interface, which is characteristic of the WRITE examples rather than the more central horizontal scanlines of READ or the more scattered dynamics of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

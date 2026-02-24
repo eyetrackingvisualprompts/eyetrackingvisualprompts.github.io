@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium horizontal spread with gradual upward drift and more irregular saccades in the middle, then transitions to a narrower, steady region\u2014matching the mixed code-inspection and localized checking pattern seen in the DEBUG example more than the other activities.",
+  "correct": false
+}

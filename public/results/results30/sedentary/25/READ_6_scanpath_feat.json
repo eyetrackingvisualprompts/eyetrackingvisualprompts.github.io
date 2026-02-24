@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form mostly horizontal scanlines within a confined vertical region, indicating systematic line-by-line reading of text rather than the broader, more scattered exploration seen in coding, browsing, or search tasks.",
+  "correct": true
+}

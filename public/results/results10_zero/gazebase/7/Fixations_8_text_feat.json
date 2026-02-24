@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze shows multiple small-to-moderate saccades in varying directions with heterogeneous, naturalistic fixation durations (200 ms to over 2.5 s) and no clear horizontal-only pattern or structured left-to-right scanpath, which is typical of free viewing of dynamic visual content rather than reading, pure fixation, constrained horizontal saccades, or game-driven target selection.",
+  "correct": false
+}

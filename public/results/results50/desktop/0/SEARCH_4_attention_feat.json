@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are centered but spread vertically and somewhat broadly, indicating scanning of multiple elements (e.g., results list plus other page regions), which aligns more with SEARCH behavior than the tighter central cluster in BROWSE or the horizontal patterns in READ/WRITE.",
+  "correct": true
+}

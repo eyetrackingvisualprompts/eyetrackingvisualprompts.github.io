@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades spanning wide screen regions (both vertically and horizontally), including to extreme top/bottom and off-center areas, with irregular revisits and scattered fixations, match the exploratory, non-structured navigation seen in BROWSE rather than the line-structured patterns of READ/WRITE/INTERPRET/DEBUG or the more stimulus-centered patterns of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

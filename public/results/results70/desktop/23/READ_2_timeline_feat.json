@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays around the screen center with small, regular horizontal shifts and limited vertical range, closely matching the stable, text-line scanning pattern seen in the READ example rather than the larger exploratory movements in browse/search or the stronger dynamics in play/watch.",
+  "correct": true
+}

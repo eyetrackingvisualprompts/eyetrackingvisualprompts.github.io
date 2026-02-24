@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are distributed mainly along a narrow horizontal band near the same vertical position, forming a left-right spread without notable vertical variation, consistent with following a target moving horizontally across the screen.",
+  "correct": false
+}

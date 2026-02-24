@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, relatively small horizontal movements within a confined band of Y-coordinates, consistent with line-by-line reading of text rather than large exploratory movements (SEARCH/BROWSE) or wide, dynamic shifts typical of WATCH or PLAY.",
+  "correct": false
+}

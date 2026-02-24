@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Target data shows frequent large saccades to screen extremes and off-screen values (e.g., x\u22481.0, rapid jumps between top/bottom regions) interleaved with periods of mid-screen reading-like fixations. This combination of scanning results pages, shifting between query box, results list, and target pages matches the SEARCH pattern more than the more locally constrained READ or WATCH examples.",
+  "correct": true
+}

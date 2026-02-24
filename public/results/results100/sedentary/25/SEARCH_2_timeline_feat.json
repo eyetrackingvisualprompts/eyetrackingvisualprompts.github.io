@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades with variable fixation positions in both X and Y, reflecting scanning different regions and jumping between result items, which aligns best with the SEARCH example pattern compared to the more structured or more random patterns of other tasks.",
+  "correct": true
+}

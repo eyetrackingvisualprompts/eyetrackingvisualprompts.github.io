@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal scan-like fixations around consistent y-levels with frequent medium saccades, interleaved with occasional large jumps to far screen regions (top, middle, bottom) resemble reading and skimming across multiple webpage regions, including jumps to likely navigation/footer areas, which best matches unconstrained web browsing rather than focused code (WRITE/DEBUG/INTERPRET) or continuous central viewing (WATCH/PLAY/READ).",
+  "correct": false
+}

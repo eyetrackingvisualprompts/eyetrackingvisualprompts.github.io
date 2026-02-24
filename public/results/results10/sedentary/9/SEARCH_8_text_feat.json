@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows frequent medium-to-large saccades between spatially separated regions (center-right code-like area around x\u2248700\u2013900 and lower-left x\u2248200\u2013450), with varied directions and no consistent horizontal line-by-line pattern seen in reading or code tasks. The pattern resembles following changing visual content rather than systematically scanning text or search results, aligning best with the WATCH activity.",
+  "correct": false
+}

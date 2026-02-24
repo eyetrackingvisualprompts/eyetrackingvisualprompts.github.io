@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze patterns alternate between a compact code region near the top-left and an output/console area mid-screen, with many re-fixations on small clusters of coordinates and relatively localized, revisiting scan paths. This resembles the INTERPRET examples\u2019 tight, code-focused inspection rather than the broader navigation and multi-region exploration seen in SEARCH, BROWSE, or DEBUG, and lacks the systematic line-by-line horizontal sweeps of READ or WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are mainly distributed along an upper horizontal band with some scattered points elsewhere, indicating scanning across different webpage elements rather than focusing on a single code block (WRITE/INTERPRET/DEBUG) or continuous central content (WATCH/READ). This pattern best matches the browsing example.",
+  "correct": false
+}

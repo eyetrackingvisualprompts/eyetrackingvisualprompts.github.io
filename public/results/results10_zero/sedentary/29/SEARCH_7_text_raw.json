@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, rapid shifts across wide screen areas (including extremes and center) with irregular, non-linear trajectories and frequent revisits\u2014characteristic of visually tracking and navigating dynamic game elements rather than the more line-structured, localized patterns typical of reading, coding, or web browsing, or the relatively smoother, clustered viewing of passive video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a tight cluster of fixations on a single code-like region on the upper-left side, closely matching the INTERPRET example pattern and lacking the more vertically extended scan path typical of DEBUG or the broader spread seen in other tasks.",
+  "correct": true
+}

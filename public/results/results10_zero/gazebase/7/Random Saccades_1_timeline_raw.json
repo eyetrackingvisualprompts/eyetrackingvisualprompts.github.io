@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete, step-like changes every ~1 second to various non-uniform (x,y) locations within the \u00b115\u00b0\u00d7\u00b19\u00b0 range, matching a target that jumps to random positions and is held briefly rather than strictly horizontal, vertical, or continuous motion.",
+  "correct": true
+}

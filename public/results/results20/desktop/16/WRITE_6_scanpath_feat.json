@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, mostly horizontal cluster with small progressive movements, consistent with fixations moving along a text line as in the READ example, unlike the broader, multidirectional exploration seen in BROWSE or SEARCH.",
+  "correct": false
+}

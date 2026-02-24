@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts near top text-like regions, moves through structured vertical and horizontal clusters consistent with scanning results, then includes large jumps to lower screen areas and side regions similar to example SEARCH data, suggesting query/result inspection rather than continuous reading or code-focused tasks.",
+  "correct": true
+}

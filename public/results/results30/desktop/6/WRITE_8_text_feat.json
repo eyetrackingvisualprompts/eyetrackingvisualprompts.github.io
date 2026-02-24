@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow, central band with predominantly short horizontal shifts and medium-to-long fixations, matching the stable line-by-line scanning pattern seen in the READ examples rather than the larger jumps of SEARCH/BROWSE, the dispersed movements of PLAY, or the peripheral clusters of WRITE/WATCH.",
+  "correct": false
+}

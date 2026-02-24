@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze heatmap is concentrated along a narrow horizontal band near the top of the screen, spanning widely in the X-direction with minimal vertical dispersion, which matches the pattern of following a horizontally moving target rather than the more scattered or centrally clustered patterns of the other tasks.",
+  "correct": false
+}

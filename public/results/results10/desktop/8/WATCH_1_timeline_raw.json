@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y positions fluctuate smoothly within a narrow band without large discrete jumps or frequent edge hits. This pattern matches the continuous tracking of moving content typical for WATCH and differs from the more step-like shifts in SEARCH/BROWSE or the large vertical/horizontal excursions in PLAY/WRITE/READ.",
+  "correct": true
+}

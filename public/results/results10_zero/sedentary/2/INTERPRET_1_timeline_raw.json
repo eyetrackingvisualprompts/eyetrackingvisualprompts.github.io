@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show predominantly horizontal movements with relatively stable vertical bands and occasional short saccades, consistent with line-by-line reading behavior rather than the larger, multi-directional shifts typical of playing games, browsing/searching, or watching video.",
+  "correct": false
+}

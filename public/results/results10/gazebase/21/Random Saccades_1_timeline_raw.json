@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y show large, discrete step-like changes to various positions across the screen, with approximately 1-second plateaus between saccades and no strict horizontal-only pattern, matching the random saccades example.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-scale vertical and horizontal shifts between dispersed regions, with many mid-length fixations and revisits, matches the heterogeneous scanpaths seen in BROWSE (mixed text, images, scrolling) more than the more regular horizontal patterns of READ, dense center/top patterns of SEARCH, or the localized upper-area focus of WRITE/WATCH/PLAY.",
+  "correct": false
+}

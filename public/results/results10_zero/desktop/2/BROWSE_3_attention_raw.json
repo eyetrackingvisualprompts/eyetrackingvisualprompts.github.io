@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a tight cluster near the screen center with minimal horizontal or vertical scanning, indicating the eyes remain mostly fixed on a central region\u2014typical when passively watching a video rather than reading, searching, browsing, writing, or playing a game, which all involve broader, systematic eye movements.",
+  "correct": false
+}

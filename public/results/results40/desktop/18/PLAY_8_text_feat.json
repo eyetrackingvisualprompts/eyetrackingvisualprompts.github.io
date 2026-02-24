@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze remains in a relatively small central area but shows frequent short saccades and changes in both x and y without the systematic horizontal scan paths of reading or the large top/bottom jumps of search/browse. The pattern of continuous, reactive micro-movements and moderate fixations matches the PLAY examples more than the other tasks.",
+  "correct": true
+}

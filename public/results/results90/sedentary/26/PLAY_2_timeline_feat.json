@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows relatively stable horizontal fixations around the code area with occasional focused saccadic bursts in a localized region, matching the WRITE pattern more than the more exploratory or highly dynamic patterns of PLAY, WATCH, SEARCH, or BROWSE.",
+  "correct": false
+}

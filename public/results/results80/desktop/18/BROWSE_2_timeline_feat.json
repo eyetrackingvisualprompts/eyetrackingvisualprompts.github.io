@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude saccades and shifts in both X and Y with no strong left-to-right reading rhythm or stable regions typical of WATCH/WRITE; this pattern best matches the more exploratory scan behavior seen in SEARCH compared to the steadier BROWSE/READ traces.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Predominantly horizontal, line-like scanpaths with regular left-to-right progressions and occasional larger regressions match the structured reading pattern seen in the READ examples more than the more scattered, multi-region patterns of search, browse, or code tasks.",
+  "correct": false
+}

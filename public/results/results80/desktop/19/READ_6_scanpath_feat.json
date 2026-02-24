@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a small lower-central region with limited horizontal span, resembling focused attention on a narrow area such as a text cursor/location while typing, which matches the WRITE pattern more than the broader, line-based or exploratory patterns of other activities.",
+  "correct": false
+}

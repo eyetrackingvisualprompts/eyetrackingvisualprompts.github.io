@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent long fixations clustered around a few vertical bands with repeated large saccades between upper and mid screen regions suggest revisiting specific code locations (e.g., error lines, function header, console/output) rather than smooth line-by-line reading. The pattern of jumping back and forth between similar coordinates (around ~500x, ~150\u2013300x, and far-right ~1100x) is characteristic of code debugging and cross-checking, not continuous reading, video watching, or free browsing.",
+  "correct": true
+}

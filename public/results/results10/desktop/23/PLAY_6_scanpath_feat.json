@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows few, large saccades traversing broad vertical and diagonal regions with relatively sparse fixations, resembling following dynamic visual content rather than dense local exploration typical of reading, browsing, searching, or gameplay; this global, sweeping gaze pattern best matches the WATCH activity.",
+  "correct": false
+}

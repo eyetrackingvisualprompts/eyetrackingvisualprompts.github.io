@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows predominantly horizontal progression with gradual X increases and relatively stable Y, plus occasional large vertical spikes and page-like jumps, closely matching the example BROWSE pattern of scrolling and reading web pages rather than the more static (READ/INTERPRET) or highly dynamic (PLAY/WATCH) behaviors.",
+  "correct": false
+}

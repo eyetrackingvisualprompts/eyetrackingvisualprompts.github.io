@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in multiple vertically separated regions in the upper-left/mid screen, similar to scanning several code lines and related UI elements, matching the DEBUG heatmap pattern more than the more localized INTERPRET or WRITE tasks.",
+  "correct": false
+}

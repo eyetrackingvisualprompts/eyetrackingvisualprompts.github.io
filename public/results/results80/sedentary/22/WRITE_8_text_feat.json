@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze repeatedly alternates between a narrow band of code lines (y\u2248550\u2013630) and upper code/GUI regions (y\u2248150\u2013250), with frequent vertical transitions to header/menu areas and occasional large excursions, closely matching the structured, revisiting scanpaths seen in the DEBUG example rather than the more linear READ patterns or broader exploratory SEARCH/BROWSE behaviors.",
+  "correct": false
+}

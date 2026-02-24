@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly stable along a single horizontal band with small shifts, suggesting following a relatively static central visual area like a video scene rather than line-by-line reading or code inspection; limited vertical transitions and one large saccade to screen corner align best with passive video watching.",
+  "correct": false
+}

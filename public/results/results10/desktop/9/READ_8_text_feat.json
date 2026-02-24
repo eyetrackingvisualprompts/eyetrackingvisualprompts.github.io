@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The data shows several long, continuous saccades across large screen regions (e.g., from (0.22,0.03) to (0.19,0.25), (0.20,0.23) to (0.40,0.61), and especially (0.82,0.58) to (0.03,0.17)), interleaved with relatively short fixations. This pattern of frequent large-amplitude gaze shifts in multiple directions is most consistent with visually tracking a game scene (PLAY), rather than the more localized, line-structured movements typical of READ/WRITE or the more moderate, scroll-like vertical movements in SEARCH/BROWSE, or the longer stable fixations in WATCH.",
+  "correct": false
+}

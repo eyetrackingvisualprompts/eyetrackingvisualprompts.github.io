@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is spread widely across the screen with long horizontal saccades and coverage of both upper and middle regions, resembling dynamic scene following rather than localized code or text inspection, which matches the WATCH pattern.",
+  "correct": false
+}

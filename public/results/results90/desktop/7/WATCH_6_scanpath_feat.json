@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around a central region with frequent multidirectional saccades and moderate vertical spread, resembling the heterogeneous, exploratory scanpath seen in browsing examples rather than the more linear (READ/WRITE) or more peripheral (WATCH/PLAY) patterns.",
+  "correct": false
+}

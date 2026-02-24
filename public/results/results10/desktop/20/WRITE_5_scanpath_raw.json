@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is clustered in a mid-screen region with short, multi-directional saccades and no strong horizontal reading lines or large exploratory movements, matching the localized, mixed-pattern behavior seen in the BROWSE example.",
+  "correct": false
+}

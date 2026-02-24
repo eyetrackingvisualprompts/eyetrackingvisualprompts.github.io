@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated near the screen center with small, incremental shifts and occasional short upward/downward adjustments, resembling scanning and brief re-fixations over a compact region. The pattern matches the BROWSE example\u2019s clustered central fixations and modest vertical shifts more than the more horizontally-structured READ pattern or the more peripheral/variable patterns of SEARCH, WATCH, WRITE, or PLAY.",
+  "correct": false
+}

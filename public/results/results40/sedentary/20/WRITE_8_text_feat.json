@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates repeatedly between a compact code region in the mid-screen and a small set of top-of-screen coordinates, with many revisits to the same code lines and short fixations around specific positions\u2014indicative of inspecting and re-inspecting potential error locations rather than linear reading or free browsing, matching the DEBUG pattern seen in examples.",
+  "correct": false
+}

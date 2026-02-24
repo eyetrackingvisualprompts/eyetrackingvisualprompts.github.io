@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small left-central code-like area with short, repeated saccades among nearby lines, consistent with focused work in an IDE such as writing or editing code, rather than the broader horizontal/vertical sweeps seen in reading, browsing, or watching video.",
+  "correct": false
+}

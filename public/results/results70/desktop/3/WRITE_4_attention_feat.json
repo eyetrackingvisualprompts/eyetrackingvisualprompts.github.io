@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a mostly horizontal band across the screen with progressive movement, characteristic of line-by-line text reading, matching the READ example pattern best.",
+  "correct": false
+}

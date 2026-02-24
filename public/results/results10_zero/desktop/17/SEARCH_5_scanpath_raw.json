@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows large, smooth gaze shifts across wide screen areas with relatively few tight clusters or line-by-line horizontal patterns. This broad, continuous movement is more consistent with following dynamic visual content in a video than with localized, text- or interface-focused tasks like READ, WRITE, SEARCH, or BROWSE, or the more directionally constrained patterns typical of PLAY in simple games.",
+  "correct": false
+}

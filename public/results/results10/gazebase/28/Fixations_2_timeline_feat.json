@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions are near the center with very small, slow drifts and minimal saccadic activity, closely matching the central fixation pattern rather than the larger or more variable movements seen in other tasks.",
+  "correct": true
+}

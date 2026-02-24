@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to widely separated positions (up to \u00b115\u00b0 horizontally and substantial vertical changes), followed by short periods of local, low-variance samples consistent with brief fixations at each new location. This pattern matches a subject tracking a randomly moving target rather than purely horizontal oscillation, continuous reading-like sweeps, or natural free viewing.",
+  "correct": true
+}

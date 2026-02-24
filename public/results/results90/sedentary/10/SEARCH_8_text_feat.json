@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long sequences of fixations and saccades along horizontal text-like lines near the top and mid-page, interleaved with frequent large vertical jumps to header/URL-like regions and back, plus occasional off-page excursions, closely match the SEARCH examples\u2019 pattern of scanning result snippets and navigating the SERP, rather than the more uniform lines of READ or the more dispersed and dynamic gaze of PLAY/WATCH/BROWSE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent gaze shifts between a mid-screen code-like area and multiple dispersed reference points (including keyboard/hand regions and occasional off-screen points), with dense clusters around horizontal bands typical of IDE text, match the WRITE examples more than the more linear READ patterns or the more top-focused SEARCH/BROWSE behaviors.",
+  "correct": false
+}

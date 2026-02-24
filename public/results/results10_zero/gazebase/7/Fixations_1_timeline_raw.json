@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze is mostly near center with brief, regular large vertical excursions approximately every second, matching the periodic, stereotyped movements when following a horizontally oscillating target; among the options, this temporal regularity and simple trajectory best corresponds to the structured Horizontal Saccades task rather than the more irregular or complex patterns of other activities.",
+  "correct": false
+}

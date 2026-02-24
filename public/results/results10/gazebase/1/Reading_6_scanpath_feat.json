@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze points cluster around a central region with short, varied saccades and no strict horizontal or random large-amplitude pattern, resembling the local exploratory movements seen during free video viewing rather than structured tasks like reading or controlled saccades.",
+  "correct": false
+}

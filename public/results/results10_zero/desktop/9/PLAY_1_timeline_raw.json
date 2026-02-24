@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show repeated, relatively smooth left-to-right drifts in X with small downward shifts in Y, consistent with line-by-line reading movements across static text rather than rapid multidirectional shifts typical of search, browsing, or gameplay.",
+  "correct": false
+}

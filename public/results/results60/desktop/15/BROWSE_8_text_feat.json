@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions in both horizontal and vertical directions, with many intermediate fixations and irregular, non-line-based scanning, match the dynamic, multidirectional gaze behavior characteristic of game play rather than the more stable, line- or region-based patterns seen in reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows gaze concentrated in a very small region at the screen center with virtually no dispersion or directional pattern, indicating sustained central fixation rather than reading, tracking moving targets, or free viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a small left-side code area with minimal excursions, similar to INTERPRET and DEBUG examples, but with even more confined spatial spread and no lower-area transitions typical of editing or execution, matching focused code-output prediction rather than writing or debugging.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated around the central area of the screen with some scattered points elsewhere, indicating focus on a central dynamic object with occasional peripheral checks, which matches the PLAY heatmap pattern more than the more linear or text-region-focused patterns of code or reading tasks.",
+  "correct": true
+}

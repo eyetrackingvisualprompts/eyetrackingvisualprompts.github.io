@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-screen with moderate vertical span and frequent medium-length saccades and short fixations, resembling the exploratory, non-linear scanning in the BROWSE example more than the systematic horizontal lines of READ or the more extreme movements of PLAY/WATCH/WRITE/SEARCH.",
+  "correct": false
+}

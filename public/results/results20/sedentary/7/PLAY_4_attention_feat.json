@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are centered around the upper-middle area with spread to the right and some lower regions, resembling scanning search results and snippets rather than the tighter bands of reading or localized code views; this spatial distribution best matches the SEARCH example heatmap.",
+  "correct": false
+}

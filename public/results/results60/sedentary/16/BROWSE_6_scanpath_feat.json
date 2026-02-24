@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze explores two main vertical regions with frequent long horizontal saccades between them and dispersed fixations, resembling switching between search results and content rather than the more localized code-focused (INTERPRET/DEBUG/WRITE) or structured line-by-line (READ) patterns; overall spatial spread and revisits best match the SEARCH example.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows few long fixations with large, smooth saccades across wide screen regions, consistent with following dynamic visual content in a video rather than dense, localized scanning or line-by-line reading/searching.",
+  "correct": false
+}

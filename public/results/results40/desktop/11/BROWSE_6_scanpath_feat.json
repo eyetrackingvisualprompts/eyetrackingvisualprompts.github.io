@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster in the upper-central region with frequent short saccades among nearby areas, resembling the example SEARCH pattern more than the others, which show more linear (READ) or localized (WRITE) behavior or wider dispersion (PLAY/WATCH/BROWSE).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows broad horizontal and vertical excursions with irregular saccades across the whole screen and relatively less structured, non-linear Y progression, matching the dynamic, scene-based viewing patterns seen in the WATCH example rather than the more structured or text/IDE-focused patterns of reading, coding, or web tasks.",
+  "correct": false
+}

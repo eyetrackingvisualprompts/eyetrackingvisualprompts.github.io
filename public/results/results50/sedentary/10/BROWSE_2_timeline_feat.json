@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The data shows frequent large saccades and broad coverage in both X and Y without clear line-by-line horizontal scanning or stable code-focused regions, matching the dynamic, scene-driven gaze patterns typical of watching a video rather than reading, coding, or searching tasks.",
+  "correct": false
+}

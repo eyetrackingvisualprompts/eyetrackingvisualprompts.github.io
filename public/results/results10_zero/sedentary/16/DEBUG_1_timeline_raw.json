@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in large stable regions with occasional long saccades and no clear horizontal line-by-line reading or focused code/IDE inspection; pattern matches following content across a video scene more than structured text or interactive tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze transitions between two main horizontal content regions with frequent shifts and moderate vertical exploration, resembling movement between search results and linked pages rather than the more dispersed WATCH/PLAY patterns or the tighter code/reading clusters of INTERPRET, DEBUG, READ, or WRITE.",
+  "correct": true
+}

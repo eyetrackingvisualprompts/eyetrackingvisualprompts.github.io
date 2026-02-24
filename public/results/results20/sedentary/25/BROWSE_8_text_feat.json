@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades across wide vertical and horizontal extents (including off-screen coordinates), alternating between top, mid, and lower regions, match scanning of SERP and result pages rather than line-by-line reading or code-focused tasks; the pattern best aligns with SEARCH behavior in the examples.",
+  "correct": false
+}

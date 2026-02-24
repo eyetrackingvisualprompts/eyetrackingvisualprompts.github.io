@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show predominantly small, clustered fixations with limited horizontal sweeps and relatively stable vertical bands, consistent with line-by-line reading or inspecting text blocks, rather than the larger, multi-directional excursions expected in PLAY/SEARCH/BROWSE or the more continuous central tracking typical of WATCH; WRITE usually has more frequent returns toward the upper-left (cursor/toolbar) and localized gaze near the text entry point, which is less evident here.",
+  "correct": false
+}

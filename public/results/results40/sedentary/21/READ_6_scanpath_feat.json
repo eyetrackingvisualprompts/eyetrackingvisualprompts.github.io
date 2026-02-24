@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows orderly, horizontal left-to-right sweeps stacked vertically with limited vertical excursions and no large jumps across the screen, matching line-by-line reading behavior similar to the READ example and unlike the more scattered patterns of browsing, coding, or gaming.",
+  "correct": true
+}

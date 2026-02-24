@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows multiple spatial clusters with medium-to-large saccades between mid/upper screen regions, consistent with scanning SERP snippets and result pages rather than line-by-line reading or focused code editing; the pattern is less constrained than READ/WRITE/DEBUG/INTERPRET and less wide-screen and dynamic than WATCH or PLAY, matching SEARCH behavior in the examples.",
+  "correct": false
+}

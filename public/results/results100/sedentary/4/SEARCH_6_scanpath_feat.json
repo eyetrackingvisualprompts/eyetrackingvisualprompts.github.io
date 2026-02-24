@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows multiple horizontal reading-like lines across different vertical levels with frequent long saccades spanning large screen areas, including to screen bottom\u2014indicative of scanning search results and navigating a search page rather than the more localized, structured patterns of READ or code-related tasks.",
+  "correct": true
+}

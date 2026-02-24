@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows wide, frequent saccades sweeping across large screen areas with less structured horizontal reading or code-like inspection patterns, closely matching the dynamic, stimulus-driven viewing behavior seen in the WATCH example rather than the more localized or line-based patterns of reading, coding, or searching tasks.",
+  "correct": false
+}

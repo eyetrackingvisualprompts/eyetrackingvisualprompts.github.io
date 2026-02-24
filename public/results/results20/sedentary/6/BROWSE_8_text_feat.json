@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between a central horizontal band and multiple vertical excursions to higher and lower regions, with frequent long saccades across the width\u2014indicative of scanning results and content areas on a search results page, matching the SEARCH examples more closely than the more line-structured READ or the more local, code-centered WRITE/DEBUG/INTERPRET patterns.",
+  "correct": false
+}

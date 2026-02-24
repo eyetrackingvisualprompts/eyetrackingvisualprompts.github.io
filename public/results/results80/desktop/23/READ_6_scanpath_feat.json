@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large saccades spanning wide screen areas in all directions with dispersed fixations, resembling continuous dynamic visual tracking across the display, which matches the PLAY examples more than the more clustered (BROWSE/SEARCH), localized (WRITE), horizontal-line (READ), or upper-screen focused (WATCH) patterns.",
+  "correct": false
+}

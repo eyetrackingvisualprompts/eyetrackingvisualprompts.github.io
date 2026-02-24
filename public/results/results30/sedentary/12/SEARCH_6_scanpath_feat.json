@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers a wide horizontal span with frequent transitions between upper and mid screen regions, resembling scanning of search results and occasional jumps to the top bar, which matches the SEARCH example pattern more than the other tasks.",
+  "correct": true
+}

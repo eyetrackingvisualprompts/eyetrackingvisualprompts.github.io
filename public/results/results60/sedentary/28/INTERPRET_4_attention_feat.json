@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow vertical strip on the left and mid-left of the screen with some movement downward, closely matching the DEBUG example heatmap and typical focused inspection of code in an IDE, rather than the more compact INTERPRET or broader patterns of READ/BROWSE.",
+  "correct": false
+}

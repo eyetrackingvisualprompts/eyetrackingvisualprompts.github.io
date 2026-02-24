@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered near the top-left corner with small, dense horizontal movements and brief jumps, matching the upper text/toolbar area typical of typing in a word processor, and closely resembles the spatial region and micro-saccadic pattern seen in the WRITE examples rather than the more central or wide-ranging patterns of other tasks.",
+  "correct": false
+}

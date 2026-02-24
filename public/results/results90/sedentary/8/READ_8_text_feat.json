@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow vertical band and progresses in small, regular horizontal sweeps at multiple y-levels (around 80, 140, 180, 200, \u2026 640), characteristic of line-by-line reading across a column of text, with occasional return sweeps; there is no object-following, wide exploratory movement, or code/IDE-like vertical scanning typical of programming tasks.",
+  "correct": true
+}

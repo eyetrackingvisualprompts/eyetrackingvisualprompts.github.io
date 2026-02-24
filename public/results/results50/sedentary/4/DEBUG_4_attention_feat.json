@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a single vertical code region on the left-center of the screen, similar to the DEBUG example and more concentrated than INTERPRET or WRITE, indicating focused inspection of a localized buggy section rather than broader reading or browsing.",
+  "correct": true
+}

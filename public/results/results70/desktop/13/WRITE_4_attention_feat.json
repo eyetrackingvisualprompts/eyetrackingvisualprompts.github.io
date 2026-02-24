@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered near the center with moderate vertical spread and limited horizontal movement, resembling the browsing heatmap pattern more than the more top-focused WRITE or horizontally elongated READ patterns.",
+  "correct": false
+}

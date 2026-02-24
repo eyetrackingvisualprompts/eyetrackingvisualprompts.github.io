@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades spanning wide screen regions (including extremes and corners), long stable fixations on central/high areas, and irregular non-line-based scanpaths match dynamic video viewing more than text- or UI-oriented tasks like READ, WRITE, BROWSE, or SEARCH, and lack the strongly goal-directed horizontal patterns typical of PLAY; this pattern is most consistent with WATCH.",
+  "correct": false
+}

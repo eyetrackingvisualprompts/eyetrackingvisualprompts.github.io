@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower vertical region with moderate horizontal sweeps and frequent short regressions, resembling code/IDE inspection with occasional checks across nearby lines, which best matches the WRITE pattern among the examples.",
+  "correct": false
+}

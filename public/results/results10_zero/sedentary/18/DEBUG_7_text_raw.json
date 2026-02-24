@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze pattern shows frequent medium-to-large saccades across wide screen regions, including substantial vertical and diagonal shifts with less stable line-based fixation structure. There is no clear horizontal line-by-line reading pattern or focused code-area scanning typical for READ/WRITE/DEBUG/INTERPRET, nor the tight clustered result-area and link-area fixations common in SEARCH or BROWSE. The broad, dynamic movements and occasional jumps toward screen edges are most consistent with visually following changing content in a video, i.e., WATCH.",
+  "correct": false
+}

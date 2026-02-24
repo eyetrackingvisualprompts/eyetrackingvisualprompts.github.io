@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-duration fixations with frequent but not strictly systematic horizontal scanning, interspersed with large vertical and diagonal saccades between mid-page, top, and bottom regions\u2014indicative of exploring heterogeneous web content rather than the more line-locked patterns of READ, the center-focused patterns of WATCH, or the localized upper-area focus typical of WRITE. The mix of local inspection and occasional long jumps best matches BROWSE behavior.",
+  "correct": false
+}

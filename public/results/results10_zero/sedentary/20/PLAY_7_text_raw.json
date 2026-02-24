@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves smoothly and continuously across wide screen regions with many moderate shifts and fewer clear horizontal line-by-line scanpaths or localized code-focused fixations, consistent with tracking dynamic visual content in a video rather than structured reading, coding, or targeted search/browsing tasks.",
+  "correct": false
+}

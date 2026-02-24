@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact code area on the left side with occasional saccades to a few reference spots, matching the focused inspection pattern seen in INTERPRET rather than the broader spread of WRITE or DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show large, rapid shifts across wide screen areas (including near edges and corners) with no clear horizontal reading lines or structured scanpaths typical of reading, coding, or web search. The pattern suggests continuous tracking and reorienting to moving targets, which best matches the dynamic visual demands of playing simple action games (Mario, Pong, Agario) rather than the more localized, text-focused, or video-watching activities.",
+  "correct": false
+}

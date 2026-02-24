@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are clustered near the screen center with slow, small horizontal drifts and long stable fixations, and there are no systematic line-by-line horizontal scans (READ) or rapid multi-directional shifts typical of SEARCH/BROWSE/PLAY or WRITE. This sustained central viewing pattern is most consistent with passively watching a video clip.",
+  "correct": false
+}

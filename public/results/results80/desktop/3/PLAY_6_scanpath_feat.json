@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, multidirectional saccades covering much of the screen with dispersed fixation clusters rather than line-like reading or localized search/browse clusters, matching the dynamic, all-direction gaze patterns typical of gameplay (especially a game like Agario).",
+  "correct": true
+}

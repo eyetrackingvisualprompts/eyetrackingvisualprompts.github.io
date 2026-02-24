@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates between far left (\u2248-15\u00b0) and far right (\u2248+15\u00b0) horizontal positions with relatively small vertical variation, matching the sustained large-amplitude, primarily horizontal tracking of the horizontal saccade stimulus rather than the more scattered or random patterns of other tasks.",
+  "correct": true
+}

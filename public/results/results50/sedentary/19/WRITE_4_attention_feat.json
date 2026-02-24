@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster around the left-central code area with additional scattered looks across other regions, matching the distributed and revisiting pattern seen in the DEBUG example heatmap rather than the more centralized or horizontally structured patterns of reading, browsing, or searching.",
+  "correct": false
+}

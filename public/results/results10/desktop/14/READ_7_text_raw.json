@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The spatial region and local movement pattern of the gaze (around x\u22480.45\u20130.60, y\u22480.34\u20130.44 with small vertical shifts and occasional transitions between two nearby bands) closely match the BROWSE example segment\u2019s early scrolling/section-switching behavior, and differ from the more static text-line band of READ/WRITE or the more dispersed dynamics of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

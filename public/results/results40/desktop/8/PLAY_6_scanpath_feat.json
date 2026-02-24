@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a moderately wide central area with varied saccade directions and dispersed fixations, resembling the heterogeneous, exploratory scanpath seen in the BROWSE example more than the more localized WRITE or the strongly task-structured READ/SEARCH patterns.",
+  "correct": false
+}

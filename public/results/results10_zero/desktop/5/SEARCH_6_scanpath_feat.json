@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a mid-screen cluster with small, local saccades and limited vertical range, consistent with monitoring a single text line and nearby UI elements while typing, rather than extensive vertical scanning (READ/BROWSE/SEARCH) or large directional movements (PLAY/WATCH).",
+  "correct": false
+}

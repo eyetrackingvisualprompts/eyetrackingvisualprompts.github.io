@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze oscillates repeatedly between large positive and negative horizontal angles around \u00b115\u00b0 with minimal vertical deviation, matching the controlled, periodic left-right tracking pattern of the Horizontal Saccades task rather than the more irregular or multi-directional movements seen in other activities.",
+  "correct": true
+}

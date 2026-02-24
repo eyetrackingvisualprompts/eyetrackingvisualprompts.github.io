@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on two main vertical regions (likely code and output/console) with frequent long saccades between them and dense fixations within each, matching behavior when locating and verifying bugs rather than the more localized INTERPRET or WRITE patterns or the dispersed BROWSE/SEARCH patterns.",
+  "correct": false
+}

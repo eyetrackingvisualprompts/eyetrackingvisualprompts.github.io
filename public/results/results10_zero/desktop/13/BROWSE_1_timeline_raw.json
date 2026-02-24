@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze trajectories show relatively smooth, slow shifts with moderate vertical movement and few rapid, repetitive horizontal scans. This pattern matches following dynamic visual content across the screen, as in watching a video, rather than the structured, line-by-line horizontal scans typical of reading/writing or the more erratic, wide-ranging movements common in play, search, or browsing tasks.",
+  "correct": false
+}

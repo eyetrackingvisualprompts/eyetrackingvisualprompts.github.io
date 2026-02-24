@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered around mid-screen with small, systematic horizontal shifts and relatively stable vertical progression, matching line-by-line reading patterns more closely than the larger, multidirectional movements seen in browsing, search, play, or watch activities.",
+  "correct": false
+}

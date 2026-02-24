@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades spanning wide screen regions in multiple directions (both horizontally and vertically), with brief, scattered fixations and several jumps to extreme coordinates beyond the typical text or web-content areas. This multidirectional, high-amplitude, dynamic pattern aligns best with interactive gameplay (PLAY) rather than the more structured or localized scanpaths seen in READ, WRITE, SEARCH, WATCH, or BROWSE.",
+  "correct": false
+}

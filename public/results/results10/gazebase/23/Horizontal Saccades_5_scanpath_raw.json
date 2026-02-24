@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trace shows repeated, large-amplitude horizontal movements between two nearly fixed vertical positions with minimal vertical variation, matching the pattern of following a target moving horizontally back and forth as in the Horizontal Saccades task.",
+  "correct": true
+}

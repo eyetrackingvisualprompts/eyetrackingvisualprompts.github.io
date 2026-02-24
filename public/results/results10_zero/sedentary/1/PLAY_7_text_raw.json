@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points rapidly traverse large vertical and horizontal distances, including off-screen coordinates, indicating fast, wide-ranging tracking of moving targets rather than line-by-line reading or focused code inspection\u2014patterns most consistent with visually following and navigating in a simple game.",
+  "correct": true
+}

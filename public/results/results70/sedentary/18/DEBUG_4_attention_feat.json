@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered in a narrow vertical region on the left side of the screen, matching the focused, code-centered viewing pattern seen in the INTERPRET example rather than the more distributed patterns of reading, browsing, or writing/editing code.",
+  "correct": false
+}

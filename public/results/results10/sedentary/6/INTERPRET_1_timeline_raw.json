@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze stays mostly in a central horizontal band with several brief vertical spikes and small horizontal shifts, resembling focused inspection around code lines with occasional jumps typical of debugging, and it best matches the DEBUG example pattern among the provided classes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are moderately scattered around the center with frequent shifts among nearby locations, resembling exploratory inspection of SERP elements and result pages rather than the tighter clustering of BROWSE or the structured horizontal patterns of READ/WRITE, and lacking the wide spatial spread typical for PLAY or WATCH.",
+  "correct": false
+}

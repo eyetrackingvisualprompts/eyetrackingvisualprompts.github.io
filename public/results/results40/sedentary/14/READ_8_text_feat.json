@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves in smooth, predominantly horizontal sweeps with small regressions and line-to-line downward shifts across a mid-screen band, matching the structured, line-by-line reading patterns seen in the READ examples rather than the more scattered or object-centric patterns of other tasks.",
+  "correct": true
+}

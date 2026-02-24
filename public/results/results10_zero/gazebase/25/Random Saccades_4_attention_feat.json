@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are clustered at several discrete positions spread widely across the upper portion of the screen, with clear gaps between locations and no structured horizontal line pattern as in reading or gameplay-related clustering. This pattern matches a bull\u2019s-eye target jumping to random positions that are then fixated for about one second, consistent with the Random Saccades task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows widespread gaze coverage across much of the screen with frequent shifts and relatively few tight clusters on text-like regions, resembling the distributed viewing pattern of dynamic full-screen video rather than the more localized or structured patterns seen in reading, coding, or search/browsing tasks.",
+  "correct": false
+}

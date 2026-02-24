@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are densely clustered around the screen center with relatively small spatial spread, resembling the example BROWSE pattern where fixation is focused on a central content area with limited horizontal reading-like motion or wide exploratory movements.",
+  "correct": true
+}

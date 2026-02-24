@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts across wide screen regions (including off-center/extreme coordinates), irregular scanning without clear line-by-line structure, and long cross-screen saccades typical of following dynamic visual content rather than reading, coding, or web page interaction, matching the WATCH activity patterns.",
+  "correct": true
+}

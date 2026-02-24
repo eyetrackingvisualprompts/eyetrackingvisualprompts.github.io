@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are densely clustered around a central region with short saccades and limited spatial spread, similar to the example SEARCH pattern where attention is focused around a search-results area rather than following lines of text (READ/WRITE) or covering broader dynamic regions (WATCH/PLAY/BROWSE).",
+  "correct": false
+}

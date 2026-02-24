@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows frequent transitions between two vertical regions (code and output/console) with substantial horizontal movement and irregular saccades, resembling the WRITE example where participants alternate between typing code and checking results rather than the more stable patterns of INTERPRET or the more exploratory patterns of BROWSE/SEARCH.",
+  "correct": true
+}

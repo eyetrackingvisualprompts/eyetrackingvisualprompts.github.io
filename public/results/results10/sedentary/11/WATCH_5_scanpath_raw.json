@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Large, frequent gaze shifts between top and bottom of the screen and across wide horizontal regions, resembling movement between code editor, console, and other IDE areas, match the WRITE example more than the other tasks.",
+  "correct": false
+}

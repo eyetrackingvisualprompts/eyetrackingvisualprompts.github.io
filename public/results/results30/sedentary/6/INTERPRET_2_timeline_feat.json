@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered near the screen center with very small, localized fixations and minimal horizontal or vertical excursions, matching the stable, focused pattern seen in the WRITE example rather than the broader scanning or reading patterns of other tasks.",
+  "correct": false
+}

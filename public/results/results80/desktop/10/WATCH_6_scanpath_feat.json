@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across both horizontal and vertical axes with frequent large saccades between dispersed clusters, indicating continuous visual exploration of many screen regions, which best matches the dynamic, multi-directional eye movements during gameplay rather than the more localized patterns seen in reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

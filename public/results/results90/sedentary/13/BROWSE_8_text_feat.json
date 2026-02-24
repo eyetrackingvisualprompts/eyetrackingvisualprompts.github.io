@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The target data is dominated by extremely long saccade intervals (several to tens of seconds) with very brief fixations, indicative of continuous smooth-like gaze movement driven by ongoing visual motion, which best matches passive video watching rather than the denser, shorter fixation\u2013saccade cycles seen in reading, coding, browsing, or interactive tasks.",
+  "correct": false
+}

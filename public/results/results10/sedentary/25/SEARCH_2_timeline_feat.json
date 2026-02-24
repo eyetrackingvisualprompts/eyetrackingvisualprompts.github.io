@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows slow, steady rightward movement in X with minimal Y variation and occasional medium saccades, similar to reading but with slightly more irregular horizontal progression and brief jumps, matching the browsing example pattern more than the more uniform READ traces.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions stay mostly within a central horizontal band with moderate, discrete vertical shifts that resemble line-to-line transitions while reading, without the rapid large-range shifts expected from searching, browsing, or gaming, and with more structured, repetitive patterns than watching video or writing.",
+  "correct": false
+}

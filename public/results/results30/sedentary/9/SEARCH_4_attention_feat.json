@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are widely distributed across the entire screen, including strong activity near the bottom area and scattered points in all directions, indicating continuous tracking of moving elements rather than focused reading or code inspection; this pattern best matches the PLAY task heatmap.",
+  "correct": false
+}

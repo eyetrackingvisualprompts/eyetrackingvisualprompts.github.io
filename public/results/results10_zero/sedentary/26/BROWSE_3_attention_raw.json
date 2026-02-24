@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze is tightly clustered in a single horizontal band in the upper-central area, indicating focused, line-by-line viewing of a small text region without large vertical or scattered movements typical of browsing, playing, or watching video\u2014characteristic of reading a specific paragraph or section.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are clustered around the screen center with moderate horizontal movement and limited vertical range, closely matching the distributed, mid-screen gaze pattern seen in the BROWSE example rather than the more top- or bottom-biased patterns of READ, WRITE, or WATCH.",
+  "correct": false
+}

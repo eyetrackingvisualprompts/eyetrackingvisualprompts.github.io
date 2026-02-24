@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points cluster around several vertical regions with frequent short saccades and revisits, including jumps to high/low y positions (e.g., near top and further down), suggesting scanning SERP results/snippets and then moving to new regions, which best matches SEARCH compared to more line-structured READ or code-focused tasks.",
+  "correct": false
+}

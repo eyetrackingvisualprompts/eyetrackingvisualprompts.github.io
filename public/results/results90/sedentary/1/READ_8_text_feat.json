@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long, continuous horizontal sweeps across a broad vertical range with relatively smooth, sustained fixations and no structured line-by-line reading or code-like region revisits. Vertical position gradually descends and then explores lower screen regions, characteristic of following dynamic visual content rather than text, code, or interactive UI elements, matching the WATCH patterns best.",
+  "correct": false
+}

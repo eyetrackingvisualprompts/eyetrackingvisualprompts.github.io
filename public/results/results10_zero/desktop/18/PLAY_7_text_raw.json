@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered near the screen center with small, smooth shifts and short horizontal/vertical adjustments, consistent with sustained fixations and line transitions typical of reading text rather than the larger, more exploratory or rapid movements seen in browsing, searching, watching videos, playing games, or writing.",
+  "correct": false
+}

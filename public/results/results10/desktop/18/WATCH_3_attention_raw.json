@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated in a compact region around upper-middle right with small local movements, matching the example SEARCH heatmap pattern more than the more horizontally extended READ pattern or the central BROWSE cluster.",
+  "correct": false
+}

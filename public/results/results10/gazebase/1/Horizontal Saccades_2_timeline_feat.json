@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates regularly between large positive and negative values while Y remains near zero, indicating repeated large-amplitude horizontal saccades with minimal vertical movement, matching the Horizontal Saccades pattern.",
+  "correct": true
+}

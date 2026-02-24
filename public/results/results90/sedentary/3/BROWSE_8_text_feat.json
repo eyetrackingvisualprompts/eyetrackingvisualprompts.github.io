@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Very long-duration saccades spanning large screen regions (including off-center/top areas), repeated returns between distant vertical and horizontal locations, and irregular, non-row-based scanning resemble exploratory web navigation rather than structured code (WRITE/DEBUG/INTERPRET) or line-by-line text (READ); patterns and amplitudes match the BROWSE examples with large jumps to page top, bottom, and side regions.",
+  "correct": true
+}

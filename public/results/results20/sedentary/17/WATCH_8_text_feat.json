@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across widely separated screen regions (including towards top/bottom extremes and even off-screen coordinates), with relatively brief, scattered fixations, match exploratory navigation over a web page rather than structured reading, focused code inspection, or smooth object tracking in games or videos.",
+  "correct": false
+}

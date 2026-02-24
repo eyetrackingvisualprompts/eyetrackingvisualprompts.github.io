@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered around a specific code area with occasional long saccades to the top region, matching the focused, localized inspection plus periodic context checks typical of debugging rather than the broader exploration seen in search, browse, or watch tasks.",
+  "correct": true
+}

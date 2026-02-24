@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large vertical transitions between top and bottom regions of the screen and variable horizontal positions, indicating scrolling through different sections of webpages with mixed content, which best matches the heterogeneous patterns observed in the BROWSE example.",
+  "correct": false
+}

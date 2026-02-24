@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze points move repeatedly back and forth along a mostly horizontal line with minimal vertical variation, consistent with following a horizontally moving target rather than static fixation, free viewing, reading, or game-driven scattered saccades.",
+  "correct": false
+}

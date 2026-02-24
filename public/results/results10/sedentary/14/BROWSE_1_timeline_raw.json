@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows reading-like horizontal sweeps with occasional large shifts in both x and y, including extended fixations at two vertical regions consistent with top results and scrolling to a new section, matching the SEARCH template more than the steadier READ or more localized coding tasks.",
+  "correct": false
+}

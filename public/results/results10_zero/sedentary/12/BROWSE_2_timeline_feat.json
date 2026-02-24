@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, step-like horizontal fixations with systematic vertical shifts, characteristic of line-by-line reading behavior rather than the broader, more dispersed or object-tracking patterns typical of browsing, searching, watching video, coding, debugging, or playing games.",
+  "correct": false
+}

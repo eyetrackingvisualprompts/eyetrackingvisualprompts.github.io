@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated mostly near the top edge of the screen (y\u22480.8\u20131.0) with long, stable fixations and relatively infrequent, large vertical transitions, consistent with watching video content (e.g., focusing on a subtitle or character region) rather than systematic line-by-line reading, typing, or highly exploratory browsing/searching/play behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide vertical and horizontal jumps across the page (including to screen edges and off-screen coordinates), repeated revisits to mid-page horizontal bands, and scattered fixations from top to bottom resemble exploratory navigation across a long scrollable webpage more than the more structured line-by-line patterns of READ or code-focused tasks; dynamics and dispersion also differ from the more centrally clustered, object-following patterns in WATCH/PLAY.",
+  "correct": true
+}

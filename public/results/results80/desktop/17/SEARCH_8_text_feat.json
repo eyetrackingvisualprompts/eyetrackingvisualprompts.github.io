@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze frequently occupies very high vertical coordinates (>0.9) with long, stable fixations and occasional large vertical and horizontal saccades across the screen, matching the WATCH pattern of following dynamic video content and subtitles more than the more text-line\u2013centered patterns seen in READ/BROWSE/SEARCH.",
+  "correct": false
+}

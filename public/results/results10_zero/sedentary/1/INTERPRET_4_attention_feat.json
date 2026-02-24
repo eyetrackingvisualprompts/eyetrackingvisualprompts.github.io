@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap is highly localized to a small region in the upper-left area of the screen with very few distinct fixation clusters, suggesting the participant is mostly looking at a single salient region rather than scanning text or interface elements. This stable, focused viewing pattern over 10 seconds is most consistent with passively watching video content rather than interactive or reading/search tasks, which typically produce more distributed, linear, or multi-area scan paths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze shows moderate, irregular drift with many small local fixations and smooth shifts, including several larger excursions and returns, matching natural exploratory viewing rather than the structured left-to-right patterns of reading, the repetitive two-position jumps of horizontal saccades, or the highly central/steady behavior of fixations. The dynamics also differ from the highly ballistic, large-amplitude alternations seen in the random and game saccade tasks, aligning best with Video Viewing.",
+  "correct": false
+}

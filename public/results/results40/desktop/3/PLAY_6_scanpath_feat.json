@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form two main clustered regions with frequent saccades between them and varied vertical positions, indicating exploration of multiple content areas on a webpage, which aligns best with browsing behavior compared with the more linear READ pattern or more constrained patterns of other tasks.",
+  "correct": false
+}

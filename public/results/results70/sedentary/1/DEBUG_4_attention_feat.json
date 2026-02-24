@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows a dominant cluster over the code area similar to INTERPRET, but with several additional scattered fixations above and below the main block, matching the more exploratory and distributed pattern seen in the DEBUG example rather than the tighter focus of INTERPRET.",
+  "correct": true
+}

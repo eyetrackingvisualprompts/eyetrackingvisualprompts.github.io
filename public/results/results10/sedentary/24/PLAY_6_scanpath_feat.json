@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a cluster in the middle-right (likely search results) and a few broader vertical excursions to upper and lower regions, resembling scanning and evaluating results rather than tight line-by-line reading or focused code inspection, which matches the SEARCH example pattern.",
+  "correct": false
+}

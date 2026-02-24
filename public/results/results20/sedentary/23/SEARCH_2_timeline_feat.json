@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a mostly monotonic increase in X with relatively smooth, slowly rising Y, resembling line-by-line progression down text with limited vertical jumps, matching the example READ pattern more than the other activities.",
+  "correct": false
+}

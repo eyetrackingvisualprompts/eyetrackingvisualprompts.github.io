@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small central region with minimal saccades or horizontal scanning, indicating sustained fixation on a relatively static central area, which best matches passive video watching rather than reading, writing, browsing, searching, or dynamic game play.",
+  "correct": false
+}

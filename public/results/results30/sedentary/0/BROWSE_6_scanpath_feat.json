@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a mid\u2011upper horizontal band with frequent vertical excursions to the lower screen, forming broad sweeps rather than orderly lines or tightly clustered code/IDE regions. This pattern matches dynamic scene viewing in WATCH more than the structured, localized patterns seen in reading, coding, or web search/browsing tasks.",
+  "correct": false
+}

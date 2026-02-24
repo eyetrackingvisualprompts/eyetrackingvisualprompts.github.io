@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Long fixations with frequent local regressions over similar coordinates, interspersed with occasional large saccades to distant screen regions, match the sustained, meticulous code-inspection and re-checking pattern seen in the DEBUG examples rather than the more linear (READ) or dispersed (SEARCH/BROWSE) behaviors.",
+  "correct": false
+}

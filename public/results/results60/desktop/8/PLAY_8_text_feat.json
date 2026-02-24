@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around central-mid screen with frequent short fixations and small to medium saccades, including occasional vertical moves toward slightly lower regions\u2014matching the mixed reading-scanning behavior of web browsing more than the more structured horizontal scans of READ, the upper-screen focus of WRITE/WATCH, or the larger, more dispersed shifts typical in SEARCH/PLAY.",
+  "correct": false
+}

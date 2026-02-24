@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows broad vertical excursions and varied, less structured scanpaths over time, resembling the dynamic, scene-following patterns in the WATCH example more than the more regular, line-based or code-focused patterns of READ/WRITE/DEBUG/INTERPRET/SEARCH/BROWSE or the highly reactive PLAY traces.",
+  "correct": false
+}

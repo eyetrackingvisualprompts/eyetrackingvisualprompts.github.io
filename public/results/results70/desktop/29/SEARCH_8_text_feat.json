@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow lower-central band (y\u22480.22\u20130.43) with many medium/long fixations and small horizontal and vertical corrections, consistent with monitoring a local region such as a text line and cursor area in a word processor, and lacking the larger horizontal sweeps of READ or the broader spatial exploration of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show long periods of near-stationary fixation interspersed with large, discrete jumps in both horizontal and vertical directions across a wide range (roughly \u00b118\u201320\u00b0 horizontally and \u00b19\u201310\u00b0 vertically), consistent with following a randomly moving target that steps to new positions and is held briefly, rather than strictly horizontal motion, static central fixation, or the shorter, patterned sweep typical of reading or game interactions.",
+  "correct": false
+}

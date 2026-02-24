@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers multiple vertical regions of the left side (likely results list, snippets, and maybe query box) with occasional long saccades downward and to the right, matching exploration of a search results page rather than focused code, continuous reading, or central game/play layout.",
+  "correct": true
+}

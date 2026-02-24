@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Long fixations alternating between upper-left code region and lower-right area consistent with code editor and console/input focus typical of writing/implementing code rather than reading-only or browsing patterns.",
+  "correct": true
+}

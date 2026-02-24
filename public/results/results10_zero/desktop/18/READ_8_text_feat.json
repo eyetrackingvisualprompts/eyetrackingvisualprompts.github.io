@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow central band (x\u22480.37\u20130.58, y\u22480.58\u20130.63) with medium to long fixations (often >500 ms) and short, small-amplitude saccades primarily along the horizontal axis. This pattern is characteristic of reading lines of text rather than the larger, more exploratory movements in browsing/searching or the wide, rapid shifts typical of playing games or watching videos; writing would also involve more frequent shifts to peripheral UI elements and keyboard-related gaze changes.",
+  "correct": true
+}

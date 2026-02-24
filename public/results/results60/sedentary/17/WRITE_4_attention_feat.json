@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small left-side code area with minimal vertical spread and almost no gaze elsewhere, matching the focused, localized viewing pattern seen in INTERPRET rather than the more vertically extended or scattered patterns of DEBUG, WRITE, or browsing-related tasks.",
+  "correct": false
+}

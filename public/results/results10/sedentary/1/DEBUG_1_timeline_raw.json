@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows several medium-length horizontal scan segments with occasional large vertical shifts and irregular jumps, resembling navigation across different web page regions or scrolling behavior, which matches the browsing pattern more than the more structured reading, coding, or game-tracking examples.",
+  "correct": false
+}

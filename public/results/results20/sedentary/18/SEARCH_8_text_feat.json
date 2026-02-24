@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Extended horizontal scan along a text-like band near the top, with repeated sweeps across a similar y-level, then large saccades to the extreme top region and back to mid-page bands, matches scanning of search results and page navigation more than the more localized, line-by-line patterns of READ or the code-focused, tighter regions of WRITE/DEBUG/INTERPRET, or the object-following/diffuse patterns of PLAY/WATCH/BROWSE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between widely separated screen regions (including off-screen coordinates), mixed with shorter scanning along mid-screen bands, and many vertical jumps between top, middle, and bottom areas match exploratory web navigation rather than line-based reading or focused code inspection/editing. The pattern closely resembles the provided BROWSE examples with similar global jumps, viewport changes, and heterogeneous fixation locations.",
+  "correct": true
+}

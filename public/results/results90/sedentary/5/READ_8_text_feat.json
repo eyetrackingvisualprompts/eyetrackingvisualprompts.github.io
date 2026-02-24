@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves in long, smooth horizontal sweeps with small regressive and intra-line saccades, progressing systematically downward through bands of y-coordinates (\u2248330\u2192900), matching line-by-line text reading behavior rather than the more scattered or object-focused patterns of other tasks.",
+  "correct": true
+}

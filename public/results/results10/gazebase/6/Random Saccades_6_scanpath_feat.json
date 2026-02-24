@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular jumps distributed across both horizontal and vertical positions with no clear horizontal-only pattern, central fixation cluster, reading-like row structure, or game-like coverage of the full screen, matching the random, discrete target jumps of the Random Saccades task.",
+  "correct": true
+}

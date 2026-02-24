@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains tightly clustered in a single region with minimal horizontal or vertical scanning over the full 10 s window, indicating prolonged fixation on one central area typical of watching a video rather than reading, writing, browsing, searching, or actively playing a game which all require more distributed eye movements.",
+  "correct": false
+}

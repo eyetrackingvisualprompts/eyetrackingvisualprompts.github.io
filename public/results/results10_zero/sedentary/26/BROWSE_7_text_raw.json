@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show rapid, frequent shifts over a relatively compact central region, with many short saccades and revisits rather than systematic horizontal or vertical scanpaths. This dense, dynamic pattern is more consistent with visually tracking moving game elements (e.g., Pong, Mario, Agario) than with reading, coding, or general web browsing, which usually exhibit more structured line-by-line or block-based scanning.",
+  "correct": false
+}

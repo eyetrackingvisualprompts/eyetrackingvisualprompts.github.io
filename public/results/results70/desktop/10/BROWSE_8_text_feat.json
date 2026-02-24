@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains in a mid-screen vertical band with many medium-length fixations and small vertical/horizontal shifts, indicating scanning within a constrained region (typical for scrolling and skimming webpage content). The pattern lacks the strong left-to-right line sweeps of READ, the central-horizontal bias of WATCH/PLAY, and the prolonged single-location fixations more common in WRITE and SEARCH examples, aligning best with BROWSE behavior.",
+  "correct": true
+}

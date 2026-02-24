@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical shifts between top and bottom of the page, many excursions to extreme screen coordinates (including off-screen), and irregular scanning without the structured line-by-line pattern of reading or the tight code-focused clusters of programming tasks are characteristic of free-form web browsing behavior.",
+  "correct": false
+}

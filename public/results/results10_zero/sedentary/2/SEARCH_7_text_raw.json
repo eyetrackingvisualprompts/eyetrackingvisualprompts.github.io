@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points move widely across the screen in both axes, including frequent rapid shifts between distant regions (center, top, bottom, far right), consistent with tracking moving game elements and navigating space rather than the more constrained, line- or block-based patterns typical of reading, coding, or web search/browsing tasks.",
+  "correct": false
+}

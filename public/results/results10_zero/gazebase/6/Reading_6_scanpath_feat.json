@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze positions are confined to a narrow vertical band near the top of the screen while spanning a wide horizontal range with back-and-forth movements, matching large amplitude horizontal saccades between two lateral positions rather than the more irregular or central patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid transitions across wide screen regions, repeated revisits between dispersed areas, and many mid-screen fixations rather than line-like or code-block reading patterns. This dynamic, spatially distributed scanning with frequent returns to moving-like loci is most consistent with visually tracking game elements in the PLAY condition rather than the more structured, line-based or panel-based patterns seen in SEARCH, BROWSE, READ, or coding tasks (WRITE/INTERPRET/DEBUG).",
+  "correct": true
+}

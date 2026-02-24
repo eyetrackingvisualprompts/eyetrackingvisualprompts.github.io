@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show frequent large-amplitude saccades across wide screen regions (both horizontally and vertically) with short fixations, indicative of continuous visual tracking and rapid spatial shifts typical of game play, especially a game like Agario or Mario, rather than the more linear, clustered, or centrally focused patterns of reading, writing, browsing, searching, or video watching.",
+  "correct": false
+}

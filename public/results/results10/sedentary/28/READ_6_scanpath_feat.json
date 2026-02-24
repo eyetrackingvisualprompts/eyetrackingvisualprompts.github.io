@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal band with small vertical variation, consistent with line-by-line reading of text located near the lower part of the screen, and lack the larger vertical excursions or scattered pattern seen in browsing or watching video.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a compact left-side region with repeated revisits and short saccades, resembling focused inspection of code in an IDE; occasional longer saccades to the right suggest glances to outputs or other panels, matching the DEBUG pattern more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a narrow horizontal band with short saccades and multiple long fixations (0.8\u20132.2s) around nearby x-positions, consistent with line-based reading rather than broader vertical or exploratory movements typical of search, browse, or play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "X and Y positions show discrete step-like shifts to various locations across both horizontal (about -10 to +10 DVA) and vertical (around +6 to +12 DVA) axes, with relatively stable plateaus between shifts\u2014consistent with following a target that jumps to random positions and holds for about a second, matching the Random Saccades task rather than strictly horizontal motion or static fixation.",
+  "correct": false
+}

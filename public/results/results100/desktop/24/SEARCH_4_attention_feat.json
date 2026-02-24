@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations are spread over a relatively broad vertical region with a concentration in the upper-middle area and scattered points elsewhere, indicating scanning across results and related content rather than following orderly text lines (READ) or focusing on limited regions (WRITE/PLAY). This pattern best matches the SEARCH example heatmap, where users explore search results and page elements.",
+  "correct": true
+}

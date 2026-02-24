@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered on a compact region in the upper-left code area with dense fixations and some vertical spread, closely matching the DEBUG example\u2019s localized, intensive inspection of a buggy function, rather than the more singular block of INTERPRET or dual-block WRITE pattern.",
+  "correct": false
+}

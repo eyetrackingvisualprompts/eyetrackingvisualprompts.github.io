@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are moderately clustered around the screen center with multidirectional, short saccades and no strong horizontal line structure, matching the browsing example more than the more dispersed PLAY/SEARCH or line-based READ/WRITE patterns.",
+  "correct": false
+}

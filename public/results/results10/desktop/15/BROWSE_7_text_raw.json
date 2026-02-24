@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-scale vertical shifts between central and upper/lower regions with many short, locally clustered fixations and intermittent jumps, closely resembling the heterogeneous, scroll-and-skim pattern seen in the BROWSE example rather than the more linear (READ), highly dynamic (PLAY), or mostly central/static (WATCH) patterns.",
+  "correct": true
+}

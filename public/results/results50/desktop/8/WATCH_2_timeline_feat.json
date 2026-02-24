@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster near screen center with moderate, irregular shifts in both X and Y, showing diverse but not highly structured scanning; this pattern aligns best with the browsing example, which has similar mid-screen, variable gaze behavior unlike the more directional patterns in read, search, watch, write, or play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are spread broadly across the screen with no tight central cluster or strong horizontal text-like band, indicating attention to moving visual content rather than static text or focused UI elements; this dispersion pattern best matches the WATCH example.",
+  "correct": false
+}

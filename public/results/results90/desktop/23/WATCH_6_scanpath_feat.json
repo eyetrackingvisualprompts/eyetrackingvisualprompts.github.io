@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around a central region with moderate vertical spread and frequent small saccades, resembling the mixed reading-and-interface inspection seen on search result pages, and matching the SEARCH example scanpath more closely than the others.",
+  "correct": false
+}

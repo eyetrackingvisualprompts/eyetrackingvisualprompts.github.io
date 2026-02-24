@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a small region in the upper-left portion of the screen with limited horizontal spread, consistent with fixations on a localized text block such as a paragraph or sentence during reading, rather than broader scanning, dynamic tracking, or code/game interaction patterns.",
+  "correct": false
+}

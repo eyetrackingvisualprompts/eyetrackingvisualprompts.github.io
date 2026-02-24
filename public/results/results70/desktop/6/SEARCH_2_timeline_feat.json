@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are mostly in the lower-left to mid-left region with relatively stable high Y fixation around 0.35\u20130.6 and X fixation clustered left, resembling the layout where text is typed while glancing occasionally around\u2014this spatiotemporal pattern most closely matches the WRITE example compared to the other activities.",
+  "correct": false
+}

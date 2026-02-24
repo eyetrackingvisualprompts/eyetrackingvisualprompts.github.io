@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cluster in a compact region with continuous smooth shifts and repeated back-and-forth tracking along similar vertical and horizontal bands, characteristic of following moving game elements rather than line-by-line reading or code inspection. The dynamics and spatial spread match the PLAY examples more than the other task types.",
+  "correct": true
+}

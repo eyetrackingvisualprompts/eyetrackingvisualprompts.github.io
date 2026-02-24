@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide spatial jumps between central text-like regions and upper areas consistent with search results and query box, plus revisits across horizontal bands resemble scanning search result pages more than focused code (WRITE/DEBUG/INTERPRET) or continuous narrative (READ/WATCH); patterns and amplitudes align best with the provided SEARCH exemplar.",
+  "correct": false
+}

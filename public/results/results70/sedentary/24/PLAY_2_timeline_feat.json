@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze positions stay in the upper half of the screen with relatively small vertical range and gradual horizontal drift, plus intermittent larger saccades\u2014matching the continuous object-tracking and anticipatory look-ahead pattern seen in the PLAY example, and differing from the more line-structured patterns of READ/BROWSE or localized code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

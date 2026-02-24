@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small, left-central code area with dense fixations and occasional vertical shifts, closely matching the INTERPRET example where participants inspect a short code snippet to reason about its output, rather than the more dispersed and exploratory patterns of DEBUG or BROWSE.",
+  "correct": false
+}

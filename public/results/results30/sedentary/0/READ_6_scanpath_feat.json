@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a single narrow code-like region with minimal vertical movement or large jumps, resembling focused inspection of one code snippet as in INTERPRET, rather than broader navigation or multiline reading required by other tasks.",
+  "correct": false
+}

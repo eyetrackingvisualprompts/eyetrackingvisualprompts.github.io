@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a dense, horizontally elongated cluster with small vertical variation and sequential left\u2013right movements, matching line-by-line reading behavior rather than the broader, more dispersed patterns of browsing, search, play, or watch activities.",
+  "correct": false
+}

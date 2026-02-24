@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows large, frequent vertical and horizontal saccades across widely separated regions (top/bottom, left/right), with many short fixations\u2014indicative of scanning SERPs and result pages rather than line-by-line reading or focused text entry, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

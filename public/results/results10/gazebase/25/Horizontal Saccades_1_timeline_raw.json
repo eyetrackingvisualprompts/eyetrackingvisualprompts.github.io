@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates regularly between two extreme horizontal positions with approximately 1-second plateaus, while Y position stays near zero with small fluctuations, matching the stereotyped pattern of horizontal saccades.",
+  "correct": true
+}

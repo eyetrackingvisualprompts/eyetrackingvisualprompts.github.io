@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over the code area with frequent vertical and diagonal shifts, plus occasional long saccades to the right (likely output/console), matching the debugging pattern rather than the more localized INTERPRET or WRITE behaviors.",
+  "correct": false
+}

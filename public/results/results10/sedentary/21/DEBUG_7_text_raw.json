@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points cluster tightly around a central code-like region with many short, local shifts and revisits, including vertical and small horizontal movements typical of tracing control flow and reasoning about a limited code snippet, matching the INTERPRET examples more than the broader scanning and larger navigation seen in SEARCH, BROWSE, DEBUG, or PLAY.",
+  "correct": false
+}

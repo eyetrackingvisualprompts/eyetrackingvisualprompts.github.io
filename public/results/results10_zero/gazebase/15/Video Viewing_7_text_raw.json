@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze moves in large jumps across a wide 2D area (up to ~\u00b118\u00b0 horizontally and ~\u00b113\u00b0 vertically) with clusters of relatively stable points between jumps, matching a subject following a randomly moving target rather than strictly horizontal motion, linear left-to-right reading, central fixation, or the more clustered/object-focused patterns expected in gaming or video viewing.",
+  "correct": false
+}

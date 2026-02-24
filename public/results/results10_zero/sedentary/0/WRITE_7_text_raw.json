@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows frequent large-amplitude saccades, rapid shifts across wide screen regions (including far periphery and off-screen/invalid points), and scattered, non-row-structured fixations rather than organized horizontal reading or code inspection patterns. This high-mobility, target-following style is most consistent with visually tracking dynamic game elements in the PLAY condition rather than the more localized, line- or block-based viewing typical of READ, INTERPRET, DEBUG, WRITE, BROWSE, SEARCH, or the smoother, more stimulus-driven patterns of WATCH.",
+  "correct": false
+}

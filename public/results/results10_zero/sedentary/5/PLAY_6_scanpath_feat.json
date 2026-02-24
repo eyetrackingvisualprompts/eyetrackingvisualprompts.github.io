@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is clustered around a central vertical region with repeated revisits and medium-length saccades, suggesting focus on a code editor with frequent checking between nearby lines/segments, typical of debugging rather than the more linear patterns of reading/writing or the wide exploratory movements of browsing/searching/playing/watching.",
+  "correct": false
+}

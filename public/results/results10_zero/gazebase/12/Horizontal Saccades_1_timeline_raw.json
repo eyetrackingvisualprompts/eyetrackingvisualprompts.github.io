@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X-position alternates regularly between about +13 and -13 degrees with long plateaus and rapid transitions roughly every second, while Y-position stays near 0 with small fluctuations. This matches the controlled, periodic \u00b115\u00b0 horizontal target steps of the Horizontal Saccades task, not the irregular or multi-directional patterns of the other activities.",
+  "correct": true
+}

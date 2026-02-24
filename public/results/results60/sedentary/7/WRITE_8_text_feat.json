@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large saccades between widely separated screen regions (including extreme top/bottom and off-screen coordinates), revisits to mid-page areas, and intermittent clusters around text-like regions match the exploratory, results\u2013snippet\u2013page switching behavior seen in the SEARCH examples more than the more line-structured READ pattern or more localized code-centric tasks.",
+  "correct": false
+}

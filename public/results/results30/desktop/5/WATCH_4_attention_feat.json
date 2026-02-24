@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a narrow horizontal band with smooth left-right progression and limited vertical dispersion, matching the reading pattern in the READ example heatmap rather than the more scattered or clustered patterns of other activities.",
+  "correct": false
+}

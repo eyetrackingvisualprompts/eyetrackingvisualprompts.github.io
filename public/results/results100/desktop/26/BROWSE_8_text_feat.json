@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts cover a mid-screen region with frequent medium-amplitude vertical and horizontal saccades between clusters, mixed dwell times, and no clear line-by-line horizontal scan pattern or prolonged central fixation. This pattern aligns better with scanning heterogeneous web/news content (BROWSE) than with the more structured, row-wise READ pattern, the top-focused SEARCH snippets, video-centric WATCH, keyboard/upper-left-biased WRITE, or the larger, more dynamic PLAY movements.",
+  "correct": true
+}

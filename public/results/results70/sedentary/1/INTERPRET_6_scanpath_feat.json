@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a dense region on the left (code editor) with repeated long saccades to the right side (likely console or output area), closely resembling the WRITE example where participants implement and test code, rather than the more localized INTERPRET or broader DEBUG patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze starts in a code/text-like region on the left with dense fixations, then makes a long saccade to a different horizontal band near the top-middle resembling a move from search results snippet list to a selected result or answer area, matching the example SEARCH pattern more than static reading or coding tasks.",
+  "correct": true
+}

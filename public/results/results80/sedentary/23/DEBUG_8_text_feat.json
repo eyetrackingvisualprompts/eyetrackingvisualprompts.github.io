@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and short saccades clustered in a relatively small region around mid\u2011lower screen coordinates with frequent revisits and micro\u2011adjustments, plus intermittent jumps to slightly higher code-like areas, match the WRITE coding examples more than the more horizontal scan patterns of READ/BROWSE/SEARCH or the broader, dynamic sweeps seen in PLAY/WATCH. The pattern is also more locally iterative than typical INTERPRET/DEBUG sequences, aligning best with active code editing (WRITE).",
+  "correct": false
+}

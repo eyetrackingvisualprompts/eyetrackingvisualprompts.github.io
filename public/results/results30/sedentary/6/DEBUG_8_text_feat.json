@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a horizontal band near the top (around y\u2248260\u2013280) and another lower band (y\u2248380\u2013450), with many left-to-right sweeps and returns, plus occasional large jumps to screen corners\u2014typical of scanning search results/snippets and navigation elements in a search engine, more so than the denser central-code focus of WRITE/DEBUG/INTERPRET or the stable mid-screen lines of READ.",
+  "correct": false
+}

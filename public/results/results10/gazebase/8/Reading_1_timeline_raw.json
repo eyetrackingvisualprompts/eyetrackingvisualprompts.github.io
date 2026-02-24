@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The X position shows step-like, mostly left-to-right progressions with occasional larger regressions, while Y drifts slowly downward across lines\u2014matching the characteristic line-by-line horizontal movements of reading rather than the larger, more random or strictly horizontal patterns of the other tasks.",
+  "correct": true
+}

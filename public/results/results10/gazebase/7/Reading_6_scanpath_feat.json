@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between two vertically separated regions with large jumps and local clusters of fixations at each location, matching a randomly moving target that holds for ~1 s rather than systematic horizontal sweeps (reading/horizontal saccades) or a single central fixation.",
+  "correct": false
+}

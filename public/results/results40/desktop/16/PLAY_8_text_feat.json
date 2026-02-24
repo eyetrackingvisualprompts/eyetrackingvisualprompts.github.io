@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including extremes and corners), mixed with short fixations and rapid vertical transitions, resemble dynamic visual monitoring and target tracking typical of gameplay rather than the more structured horizontal scan patterns seen in reading, browsing, or searching, or the localized patterns in writing and video watching.",
+  "correct": true
+}

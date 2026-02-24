@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a relatively compact area in the code region with frequent short saccades and revisits, similar to the DEBUG example and more exploratory than the tighter WRITE pattern or the focused INTERPRET cluster.",
+  "correct": true
+}

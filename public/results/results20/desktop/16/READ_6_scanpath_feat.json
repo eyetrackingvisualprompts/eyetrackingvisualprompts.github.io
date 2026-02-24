@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is confined to a compact central region with moderate horizontal spread and small vertical variation, resembling focused inspection of a specific content block (like a news/article area) rather than the wider horizontal sweeps of READ or the more dispersed patterns of WATCH/SEARCH/PLAY; this best matches the BROWSE example pattern.",
+  "correct": false
+}

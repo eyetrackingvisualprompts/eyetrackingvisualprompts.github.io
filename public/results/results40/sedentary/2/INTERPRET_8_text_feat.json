@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and diagonal jumps across wide screen regions, including off-content areas, mixed with scattered shorter fixations and revisits, resemble exploratory, non-linear navigation patterns typical of free web browsing rather than the more structured, line-based patterns of reading or code-related tasks.",
+  "correct": false
+}

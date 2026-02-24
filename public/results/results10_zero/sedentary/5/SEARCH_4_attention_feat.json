@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered tightly on a compact central-left region with limited horizontal spread, consistent with focusing on a small code snippet rather than scanning long lines of text (READ/BROWSE) or distributed dynamic elements (PLAY/WATCH). This localized, intensive viewing matches interpreting a short function\u2019s output.",
+  "correct": false
+}

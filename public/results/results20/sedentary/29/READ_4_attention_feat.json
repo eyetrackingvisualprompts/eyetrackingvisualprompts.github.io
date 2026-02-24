@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated in the lower-central area with a narrow horizontal spread and little coverage of the rest of the screen, resembling tracking a game object or character rather than scanning text or code, which matches the PLAY heatmap pattern best.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, relatively stable horizontal scanning around mid-screen with periodic small vertical shifts and occasional brief jumps, matching the browsing example pattern more closely than the more structured horizontal lines of reading or the larger, more erratic movements seen in play or search tasks.",
+  "correct": false
+}

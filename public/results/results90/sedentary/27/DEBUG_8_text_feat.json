@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent switches between code-like regions (upper-left/center) and output/console-like regions (lower area), with large vertical saccades, off-screen excursions, and long pauses indicative of inspecting, modifying, and re-running code rather than continuous reading or free browsing. The gaze repeatedly revisits similar coordinate clusters with irregular, problem-solving style patterns typical of debugging sessions.",
+  "correct": true
+}

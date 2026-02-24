@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are widely spread across both horizontal and vertical dimensions with no strong central or horizontal band, indicating frequent gaze shifts over the whole screen, which is characteristic of visually tracking dynamic game elements during PLAY rather than the more localized patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

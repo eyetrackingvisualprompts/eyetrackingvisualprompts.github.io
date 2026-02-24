@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a narrow horizontal band with small back-and-forth saccades, consistent with reading a single line region of text rather than larger spatial exploration or object tracking typical of other tasks.",
+  "correct": true
+}

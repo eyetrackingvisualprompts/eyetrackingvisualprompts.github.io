@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in two adjacent clusters in the central code area with little spread elsewhere, matching the INTERPRET example where attention is focused on a small code snippet to reason about its output rather than scanning widely (SEARCH/BROWSE/READ) or following motion (PLAY/WATCH).",
+  "correct": false
+}

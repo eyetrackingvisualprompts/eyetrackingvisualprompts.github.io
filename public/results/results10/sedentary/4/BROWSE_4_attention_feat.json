@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a few vertically distributed regions on the left side, with strong clustering around a lower-area block\u2014consistent with focusing on code and alternating between code and output/console areas as in a writing (coding) task, rather than the more horizontally sweeping patterns of reading/browsing or central focus of watching/playing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-duration fixations interleaved with saccades of varying amplitude in multiple directions, without clear linear left-to-right scanning or tight horizontal banding typical of structured reading or subtitle watching. The scattered yet content-focused pattern aligns best with general web/news browsing among the given classes.",
+  "correct": false
+}

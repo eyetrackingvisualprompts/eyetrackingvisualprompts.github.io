@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations and saccades are densely clustered around a compact code-like region (x\u2248250\u2013500, y\u2248350\u2013450) with repeated revisits, medium-length fixations, and occasional jumps to a top code/header area (around x\u2248500\u2013700, y\u224850\u2013100), matching the detailed inspection and back-and-forth verification typical of debugging rather than the more linear patterns of INTERPRET/WRITE or broad scanning of BROWSE/SEARCH.",
+  "correct": false
+}

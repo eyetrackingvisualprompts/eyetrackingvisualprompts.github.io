@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is almost confined to a narrow horizontal band (stable Y, slowly drifting X) with very few regressions, consistent with passively following content in a video rather than line-by-line reading or scanning text/code, which would show frequent vertical shifts and sharper saccades.",
+  "correct": false
+}

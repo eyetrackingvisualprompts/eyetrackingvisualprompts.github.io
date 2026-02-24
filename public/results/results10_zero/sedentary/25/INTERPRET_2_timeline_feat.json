@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show relatively large vertical transitions with extended periods of stable fixation in similar regions, and no consistent left\u2011to\u2011right or line\u2011by\u2011line scanning typical of reading or code tasks; the pattern matches following content changes in a video more than interactive tasks or text-heavy activities.",
+  "correct": false
+}

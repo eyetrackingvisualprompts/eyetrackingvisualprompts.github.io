@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a relatively small central-left region with repeated back-and-forth saccades between two nearby vertical zones, consistent with alternating attention between code lines and nearby interface elements while implementing code, rather than the wider exploration typical of SEARCH/BROWSE/PLAY or the more linear horizontal patterns of READ/WATCH.",
+  "correct": false
+}

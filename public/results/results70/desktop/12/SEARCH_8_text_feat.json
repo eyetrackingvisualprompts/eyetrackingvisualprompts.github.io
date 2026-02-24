@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide screen regions (including corners and edges), with many rapid shifts between dispersed locations and relatively short fixations. This broad, dynamic scanning pattern with repeated long jumps resembles the example PLAY data (e.g., Agario/Mario) more than the more horizontally constrained, line-based patterns of READ/WRITE or the more vertically structured patterns typical of SEARCH/BROWSE, and is less dominated by long central fixations than WATCH.",
+  "correct": false
+}

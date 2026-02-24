@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large vertical and horizontal shifts between two main horizontal bands, consistent with moving between search box, results list, and opened pages, matching the SEARCH example pattern more closely than the other activities.",
+  "correct": true
+}

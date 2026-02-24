@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions change slowly with several plateau regions and occasional vertical shifts, consistent with line-by-line reading and minor regressions rather than rapid multi-directional movements seen in browsing, searching, playing, or watching video.",
+  "correct": false
+}

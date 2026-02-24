@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows repeated vertical jumps and horizontal scanning across different screen regions, resembling the pattern of moving between search results and snippets, which matches the SEARCH example more closely than the more uniform code or reading tasks.",
+  "correct": true
+}

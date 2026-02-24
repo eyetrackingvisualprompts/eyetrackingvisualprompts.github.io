@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates between a cluster on the left (likely code editor) and a region toward the middle-right (likely output/console or other UI panel), with large transitions indicative of switching between typing/editing and checking results, matching the WRITE example pattern more than other tasks.",
+  "correct": false
+}

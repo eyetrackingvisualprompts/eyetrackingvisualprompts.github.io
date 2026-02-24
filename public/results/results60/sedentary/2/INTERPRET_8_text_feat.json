@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Predominantly concentrated fixations and short saccades around a compact region consistent with a code editor area, interleaved with occasional large jumps to screen extremities (e.g., negative or very large coordinates) that match brief glances to console/output or other UI elements. The pattern of revisiting similar lines/areas and alternating between upper and lower vertical regions aligns more with active code editing than with reading static text, watching video, or game-like continuous tracking, making WRITE the closest match among the classes.",
+  "correct": false
+}

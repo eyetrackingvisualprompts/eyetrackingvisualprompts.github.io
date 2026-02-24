@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a compact central region with moderate dispersion and no strong horizontal line structure, resembling the browsing example more than the other tasks, which show either wider exploration (SEARCH/WATCH/PLAY) or pronounced horizontal patterns (READ/WRITE).",
+  "correct": false
+}

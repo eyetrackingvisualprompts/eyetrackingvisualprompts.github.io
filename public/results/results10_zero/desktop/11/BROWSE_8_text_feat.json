@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a relatively narrow central region with frequent short saccades and medium-length fixations (200\u2013700 ms), including some >1 s fixations, and no strong directional bias (e.g., continuous horizontal sweeps) or large eccentric movements. This pattern is characteristic of sustained reading of on-screen text rather than dynamic scene scanning (WATCH/PLAY) or interface-heavy tasks (SEARCH/BROWSE/WRITE).",
+  "correct": false
+}

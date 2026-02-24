@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze path covers multiple vertically separated regions with irregular horizontal movement and several large transitions, resembling exploration of different webpage areas rather than the tighter clusters of coding tasks or the more constrained patterns of reading or watching video, matching the browsing example scanpath most closely.",
+  "correct": true
+}

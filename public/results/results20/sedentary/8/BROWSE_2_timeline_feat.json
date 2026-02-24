@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows alternating horizontal scanning across wider x-areas with occasional downward and upward shifts in y, matching the pattern of moving between search results, snippets, and possibly opening pages\u2014more dispersed and vertical than READ but less dynamic and object-following than PLAY or WATCH.",
+  "correct": false
+}

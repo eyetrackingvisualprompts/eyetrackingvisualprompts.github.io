@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are densely clustered in a compact central region with moderate vertical span and frequent small saccades, resembling focused inspection of a search results area rather than the wider horizontal sweeps of reading/writing or the broader, more dispersed movements seen in browsing, playing, or watching videos.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, multi-directional saccades across wide vertical and horizontal ranges with relatively brief, scattered fixations rather than the systematic horizontal/paragraph-like patterns of reading, code inspection, or searching. This kind of dynamic, screen-spanning movement is most consistent with visually tracking moving game elements during PLAY rather than the more localized, line-based or region-based viewing in the other tasks.",
+  "correct": true
+}

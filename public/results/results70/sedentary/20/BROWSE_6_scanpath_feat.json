@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is distributed broadly across the central screen with frequent, multidirectional saccades and no clear horizontal line-by-line structure or focused code/IDE region, matching the dynamic viewing behavior seen in the WATCH example scanpath.",
+  "correct": false
+}

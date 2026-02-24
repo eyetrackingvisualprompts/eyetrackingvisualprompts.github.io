@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains clustered in a small central area with minor movements and no clear horizontal line-by-line or columnar patterns; this stable, centrally focused scanpath over 10 seconds is most consistent with watching video content rather than reading, searching, browsing, writing, or playing a game, which typically show wider, more systematic or exploratory movements.",
+  "correct": false
+}

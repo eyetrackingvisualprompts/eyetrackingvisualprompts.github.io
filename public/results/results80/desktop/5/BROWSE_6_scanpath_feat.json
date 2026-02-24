@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the center with moderate dispersion and frequent saccades among nearby regions, similar to the SEARCH example where users scan result lists and page elements, rather than the more linear READ pattern or localized BROWSE fixation cluster.",
+  "correct": false
+}

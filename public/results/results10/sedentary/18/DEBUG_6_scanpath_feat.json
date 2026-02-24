@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a compact code-like region on the upper-left, with repeated short saccades between a few nearby lines and occasional vertical transitions, closely matching the debugging example pattern and differing from the more linear READ/WRITE or scattered BROWSE/SEARCH paths.",
+  "correct": true
+}

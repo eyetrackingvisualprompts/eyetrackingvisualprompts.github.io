@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions remain in a narrow horizontal band with small, step-like progressions and limited vertical shifts, consistent with line-by-line reading on a static page rather than the larger multidirectional movements typical of playing games, searching, browsing, watching videos, or writing where gaze often oscillates between text and other interface elements.",
+  "correct": false
+}

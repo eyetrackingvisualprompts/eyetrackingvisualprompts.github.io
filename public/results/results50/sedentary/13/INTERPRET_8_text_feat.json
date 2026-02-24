@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact code-like area with frequent short saccades and medium-long fixations, plus repeated revisits between a main block (upper left) and a secondary region (lower middle), matching the structured, line-by-line inspection and back-and-forth between code and output typical of the WRITE examples rather than the broader scanning of SEARCH/BROWSE, the more linear pattern of READ, or the more dispersed, dynamic gaze of WATCH/PLAY.",
+  "correct": false
+}

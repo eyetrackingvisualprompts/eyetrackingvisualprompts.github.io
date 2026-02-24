@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "All gaze points cluster tightly at the screen center with virtually no horizontal or vertical movement, indicating sustained fixation on a static central target rather than saccadic or exploratory behavior.",
+  "correct": true
+}

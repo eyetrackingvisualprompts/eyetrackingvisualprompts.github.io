@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze coordinates show many short fixations with frequent medium-distance saccades, scattered over different vertical regions (including upper, mid, and lower screen) without the tight horizontal line structure of focused reading or the highly localized clusters typical for code-centric tasks. The pattern suggests scanning different areas of a webpage and shifting between content blocks, consistent with general web browsing behavior rather than sustained video watching, gameplay object tracking, or concentrated code reading/writing/debugging.",
+  "correct": false
+}

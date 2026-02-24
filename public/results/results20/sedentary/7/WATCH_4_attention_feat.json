@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across top-center and mid-page with multiple distinct clusters, indicating attention to both search results and additional content, matching the SEARCH pattern more than the more localized coding or reading tasks or the broader distributions seen in PLAY/WATCH/BROWSE.",
+  "correct": false
+}

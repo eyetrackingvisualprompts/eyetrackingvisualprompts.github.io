@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the lower-central region of the screen with a compact area and moderate vertical spread, resembling the browsing example more than the horizontal scan of reading, top-center focus of watching, or edge-focused patterns of writing and playing.",
+  "correct": false
+}

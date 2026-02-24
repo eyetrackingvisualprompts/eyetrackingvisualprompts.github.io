@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated near the top-left with scattered points toward the center, lacking the systematic horizontal/vertical scan patterns of reading, coding, or search/browse pages. The sparse, less-structured gaze distribution over the screen is more consistent with passively watching a video than with interactive or text-centric tasks.",
+  "correct": false
+}

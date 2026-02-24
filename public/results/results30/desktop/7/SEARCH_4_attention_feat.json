@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the central-lower region, similar to where primary article content and mixed elements (text, images, links) on news/blog pages appear, matching the browsing pattern heatmap more than the other activities.",
+  "correct": false
+}

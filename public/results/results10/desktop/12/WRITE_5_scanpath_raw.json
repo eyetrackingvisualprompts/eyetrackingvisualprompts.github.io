@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows multiple dispersed clusters and larger saccades spanning a broad vertical range, indicating scanning different screen regions (results list, side areas, possible query box), which aligns best with the exploratory, multi-region viewing typical of web SEARCH tasks rather than the more localized patterns of READ, WRITE, or WATCH.",
+  "correct": false
+}

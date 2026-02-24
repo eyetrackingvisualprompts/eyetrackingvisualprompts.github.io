@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Fixation positions are centered with small, regular horizontal shifts and very stable vertical position, matching the sustained, line-by-line scanning pattern typical for reading and closest to the READ example plot among the provided classes.",
+  "correct": false
+}

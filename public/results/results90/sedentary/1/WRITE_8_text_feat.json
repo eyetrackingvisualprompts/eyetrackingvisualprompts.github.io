@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent medium-duration fixations and revisits within a compact central code-like area, interspersed with repeated long saccades to top-of-screen toolbar/menu coordinates and occasional large excursions to screen corners, match the structured, code-and-UI focused scanpaths seen in WRITE rather than the more linear (READ), search-results (SEARCH/BROWSE), or dynamic object-following (PLAY/WATCH) patterns.",
+  "correct": true
+}

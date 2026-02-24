@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic horizontal shifts between a few stable vertical bands with relatively small, smooth Y changes, resembling line-by-line reading patterns and matching the READ example more than the other activities.",
+  "correct": false
+}

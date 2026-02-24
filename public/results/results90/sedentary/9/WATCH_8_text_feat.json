@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide, rapid jumps across large screen areas including off-center and extreme coordinates, mixed with shorter inspection fixations at many disparate locations (top, bottom, corners) match the heterogeneous, exploratory scanpaths seen in BROWSE examples rather than the more spatially constrained patterns of code, reading, or single-scene viewing.",
+  "correct": false
+}

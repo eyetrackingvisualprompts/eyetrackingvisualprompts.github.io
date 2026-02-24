@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, slowly drifting X and Y fixations with moderate saccades and no clear line-by-line horizontal scanning or frequent vertical jumps typical of reading/searching/browsing. Pattern best matches sustained, less-structured viewing behavior seen in the WATCH example.",
+  "correct": false
+}

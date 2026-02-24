@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze follows a slow, mostly horizontal progression with small downward shifts in Y, characteristic of line-by-line reading rather than rapid, multi-directional movements typical of browsing, searching, gaming, or watching dynamic video.",
+  "correct": false
+}

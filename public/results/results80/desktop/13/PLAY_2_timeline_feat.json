@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay around mid-screen with moderate, frequent saccades in both axes and no strong horizontal sweep or lower-screen focus, matching the distributed, exploratory pattern seen in the BROWSE example more than the structured patterns of reading, writing, searching, playing, or watching video.",
+  "correct": false
+}

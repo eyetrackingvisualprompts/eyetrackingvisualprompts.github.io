@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow X-range with small horizontal shifts and frequent short saccades around a central vertical band, resembling code editing near a cursor rather than extensive vertical scanning of text (READ) or broad exploratory movements (BROWSE/SEARCH/PLAY/WATCH). This localized, stable pattern aligns best with the WRITE examples.",
+  "correct": false
+}

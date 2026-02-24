@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple clustered fixation regions with frequent medium-length saccades and revisits across a mid-screen area, resembling the dispersed yet locally clustered pattern typical of examining search results and query fields, most similar to the SEARCH example among the provided classes.",
+  "correct": false
+}

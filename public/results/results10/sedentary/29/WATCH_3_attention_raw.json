@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is widely distributed across the screen with many dispersed fixations and no clear reading or code-focus structure, matching the dynamic, full-screen tracking pattern typical of playing a game rather than the more localized clusters seen in coding, reading, or browsing tasks.",
+  "correct": false
+}

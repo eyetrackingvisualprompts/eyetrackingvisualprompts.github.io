@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across wide screen regions (from bottom-left to top-right and to HUD-like upper areas), with intermittent local scanning clusters and relatively shorter fixations, match the dynamic, multidirectional visual demands seen in the PLAY examples more than the more horizontal, line-structured patterns of READ/WRITE or the slower, scene-based movements of WATCH/BROWSE/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations show a slow, monotonic drift in X with relatively low, stable Y positions and limited vertical range, resembling line-by-line progression with occasional jumps\u2014most consistent with writing in a text editor rather than scanning varied layouts or dynamic scenes.",
+  "correct": true
+}

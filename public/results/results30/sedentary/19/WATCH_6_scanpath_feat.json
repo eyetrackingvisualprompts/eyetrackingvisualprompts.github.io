@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows multiple clusters with occasional long saccades to the screen edges and top, consistent with scanning varied webpage regions (content area, top bar, possibly tabs) rather than the more localized patterns of coding tasks or the structured line-by-line pattern of reading/searching results.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen X positions with moderate exploratory variance and Y fixations shifting between upper and mid regions, similar to the example SEARCH pattern where users alternate between query box, results list, and linked pages, rather than the more uniform lines of READ/WRITE or the highly dynamic PLAY patterns.",
+  "correct": false
+}

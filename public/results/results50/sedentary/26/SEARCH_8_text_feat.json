@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Horizontal scanning across wide central/top regions, frequent jumps between distant areas (including far right edge), and revisits to mid-page zones resemble navigating and skimming a long web page more than the more structured, line-by-line patterns of READ or the tight code-centered clusters of DEBUG/WRITE/INTERPRET or the object-following dynamics of PLAY/WATCH.",
+  "correct": false
+}

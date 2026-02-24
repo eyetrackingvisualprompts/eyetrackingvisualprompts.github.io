@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a narrow central band with very small, smooth variations in both X and Y over time, indicating sustained fixation on a central area with minimal scanning or line-by-line movements\u2014typical of passively watching a video rather than reading, coding, browsing, or game play, which would show larger, more frequent saccades across the screen.",
+  "correct": false
+}

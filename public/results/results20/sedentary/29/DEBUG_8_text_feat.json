@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to the code region (left\u2011center), with frequent short saccades and many regressions between a small set of nearby line/column positions, including up\u2013down checks between mid and upper code and repeated revisits to the same coordinates. This tight, oscillatory inspection of a few code locations matches the INTERPRET examples more than the broader, more scanline-like patterns seen in WRITE or DEBUG.",
+  "correct": false
+}

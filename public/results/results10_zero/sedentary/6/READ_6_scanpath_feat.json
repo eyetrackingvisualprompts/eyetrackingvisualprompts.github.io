@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are confined to a relatively small central-lower region with short, multidirectional saccades and no clear horizontal/vertical reading or code-inspection pattern, which is more characteristic of tracking dynamic game elements than of reading, writing, browsing, or debugging tasks.",
+  "correct": false
+}

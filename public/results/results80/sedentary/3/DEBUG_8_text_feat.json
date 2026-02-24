@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Long fixations and repeated revisits within a compact code-like region, combined with frequent vertical shifts between similar y-levels and occasional large excursions (often off-screen coordinates), match the intensive, iterative inspection and re-checking pattern seen in DEBUG examples rather than the more linear or smooth scanning patterns of reading, browsing, or watching.",
+  "correct": true
+}

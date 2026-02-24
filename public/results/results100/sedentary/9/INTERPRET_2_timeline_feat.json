@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly confined to the central code area with frequent short saccades and revisits, plus occasional larger vertical shifts\u2014matching the focused, back-and-forth inspection patterns seen in the DEBUG example more than the more linear READ trace or the more scattered SEARCH/BROWSE patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a narrow horizontal band near the upper screen, with many small, short saccades and long, repeated fixations around similar coordinates\u2014consistent with monitoring a local text/cursor area during typing rather than the larger vertical and horizontal excursions seen in reading, searching, browsing, watching, or playing.",
+  "correct": false
+}

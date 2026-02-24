@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central area slightly above mid-height, matching the browsing example where gaze focuses on the main content region of a webpage without the horizontal sweep typical of reading or the more dispersed pattern of search.",
+  "correct": false
+}

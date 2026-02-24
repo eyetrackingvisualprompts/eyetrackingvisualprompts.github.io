@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-range shifts in both X and Y with scattered fixations across a mid-screen band, indicating exploratory scanning of varied content typical of web/news browsing rather than the more structured horizontal patterns of reading or the focused regions of watching or writing.",
+  "correct": false
+}

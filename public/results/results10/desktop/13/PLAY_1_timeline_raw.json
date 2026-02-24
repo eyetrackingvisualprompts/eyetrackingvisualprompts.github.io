@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, irregular horizontal movements with several plateau-like fixations and small vertical shifts, resembling scanning and navigating different webpage regions. The pattern is more variable than READ or WRITE but less jumpy than SEARCH or PLAY, matching the BROWSE example most closely.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow central-left vertical band with small clusters at different heights, consistent with focusing on successive lines of code in an IDE during implementation rather than wide horizontal reading or dynamic object tracking.",
+  "correct": false
+}

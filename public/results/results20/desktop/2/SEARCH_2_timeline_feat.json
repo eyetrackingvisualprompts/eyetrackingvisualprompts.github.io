@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions remain around the screen center with moderate, irregular shifts in both x and y, lacking the systematic horizontal scanning of reading, the strong vertical motion of watching video, or the wide, rapid movements seen in playing games; this pattern best matches the browsing example, which shows similar centrally clustered, exploratory fixations and saccades.",
+  "correct": false
+}

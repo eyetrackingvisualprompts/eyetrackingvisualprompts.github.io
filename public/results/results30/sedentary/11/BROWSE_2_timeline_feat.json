@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "X fixations show repeated long upward sweeps with returns, while Y fixations drift slowly downward\u2014consistent with vertical page scrolling and scanning typical of web browsing, matching the BROWSE example pattern more than other tasks.",
+  "correct": true
+}

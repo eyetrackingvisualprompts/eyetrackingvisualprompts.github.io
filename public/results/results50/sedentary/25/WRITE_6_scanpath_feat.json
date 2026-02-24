@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a small region on the left side of the screen with limited horizontal and vertical spread, similar to focusing on a single code editor pane as in the WRITE example, rather than broader scanning or line-by-line reading patterns.",
+  "correct": true
+}

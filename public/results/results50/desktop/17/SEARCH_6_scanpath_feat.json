@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are tightly clustered in a narrow vertical band with small horizontal range and progressive fixations, indicating line-by-line reading of static text rather than broader exploratory movements typical of browsing, searching, or gaming.",
+  "correct": false
+}

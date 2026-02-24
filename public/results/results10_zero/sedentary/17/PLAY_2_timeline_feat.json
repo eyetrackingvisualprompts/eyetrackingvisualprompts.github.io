@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains within a relatively narrow vertical band with mostly horizontal movements and short regressions, typical of reading lines of text rather than large exploratory searches, dynamic gameplay, or code editing/debugging, which would show broader, more erratic spatial coverage.",
+  "correct": false
+}

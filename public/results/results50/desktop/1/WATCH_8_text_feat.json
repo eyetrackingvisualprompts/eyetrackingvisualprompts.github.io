@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact region in the upper screen with frequent short saccades and medium fixations, plus recurrent vertical shifts between slightly different y-levels\u2014consistent with monitoring a single text line and cursor region while typing, unlike the more horizontally sweeping patterns of READ or the broader exploratory movements in SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

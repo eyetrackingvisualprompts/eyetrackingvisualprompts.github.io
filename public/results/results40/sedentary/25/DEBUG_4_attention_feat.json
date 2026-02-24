@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster vertically over multiple code lines in a narrow left region, similar to the DEBUG example where attention alternates between several stacked areas of the code, rather than the more compact INTERPRET pattern or more dispersed SEARCH/BROWSE patterns.",
+  "correct": true
+}

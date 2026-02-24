@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Main fixation cluster is on a compact region in the upper-left code area, with a few additional fixations nearby and one to the right, resembling focused inspection of a short code snippet rather than the broader, more scattered patterns of SEARCH/BROWSE or the horizontal bands of READ/WRITE/DEBUG.",
+  "correct": false
+}

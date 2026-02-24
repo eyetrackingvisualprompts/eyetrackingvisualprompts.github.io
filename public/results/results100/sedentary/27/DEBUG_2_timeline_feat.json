@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small central area with modest horizontal/vertical spread and occasional bursts of saccades, matching focused code editing/typing patterns seen in the WRITE example rather than the broader, more exploratory movements of browsing, search, or watching.",
+  "correct": false
+}

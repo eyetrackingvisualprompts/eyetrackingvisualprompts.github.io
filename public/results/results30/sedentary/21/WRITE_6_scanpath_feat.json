@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is heavily clustered over the left side of the screen where code typically appears, with repeated vertical and horizontal movements between closely spaced lines, plus occasional long saccades to the right (likely console or output window). This localized yet revisiting pattern matches the DEBUG example more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated around the upper-middle region with frequent saccades to the right side and occasional excursions elsewhere, resembling scanning search-result lists and side content rather than structured line-by-line reading or localized code-focused patterns seen in WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

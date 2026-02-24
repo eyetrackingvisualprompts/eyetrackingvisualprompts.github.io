@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze behavior shows medium-length fixations (200\u2013700 ms, some >1 s) clustered near the screen center with mostly small horizontal and slight vertical saccades, consistent with reading text in a relatively stable layout rather than the larger, more exploratory shifts of BROWSE/SEARCH or the wider, dynamic movements typical of PLAY or WATCH. WRITE would usually include more frequent shifts toward UI elements; here the pattern is more like continuous content consumption.",
+  "correct": false
+}

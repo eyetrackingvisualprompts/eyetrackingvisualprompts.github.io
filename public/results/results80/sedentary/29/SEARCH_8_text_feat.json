@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude saccades across wide screen areas (including off-screen coordinates and big vertical shifts), many short fixations, and jumps between disparate regions resemble scanning heterogeneous web pages rather than structured code (WRITE/DEBUG/INTERPRET) or continuous media (WATCH/PLAY/READ). This exploratory, non-systematic pattern aligns best with free web browsing behavior.",
+  "correct": false
+}

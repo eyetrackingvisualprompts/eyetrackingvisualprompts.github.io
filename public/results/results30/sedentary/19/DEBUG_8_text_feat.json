@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates frequently between a compact top-left code/text area and a mid-lower region consistent with an editor\u2019s output/console area, with many short local saccades and revisits to similar coordinates\u2014matching the focused, bi-region pattern seen in coding/WRITE rather than the more exploratory patterns of SEARCH/BROWSE or the more constrained central patterns of READ/INTERPRET/DEBUG.",
+  "correct": false
+}

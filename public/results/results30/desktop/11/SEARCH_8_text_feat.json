@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays near screen center with medium-length fixations and frequent multidirectional saccades, including several larger vertical jumps and scattered revisits, matching web browsing\u2019s mixed text/image and interface scanning behavior more than the more line-structured READ or the peripheral, dynamic patterns of PLAY/WATCH or the focused text-area patterns of WRITE/SEARCH.",
+  "correct": false
+}

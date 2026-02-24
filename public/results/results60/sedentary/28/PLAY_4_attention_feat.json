@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The heatmap shows a strong, dense fixation cluster around the center of the screen with additional scattered fixations around it, matching the pattern of tracking a main game object while occasionally glancing to other areas, which is characteristic of the PLAY examples.",
+  "correct": true
+}

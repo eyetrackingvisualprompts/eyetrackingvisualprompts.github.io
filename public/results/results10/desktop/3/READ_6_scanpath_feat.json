@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows a smooth, continuous left-to-right and upward trajectory with relatively few regressions and broad coverage of the screen, resembling tracking of moving visual content rather than line-by-line reading or localized editing/interaction; this pattern best matches the WATCH activity example.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around a small central region slightly below screen center, similar to browsing where attention focuses on a limited content area (e.g., an article segment), unlike the wider horizontal spread of reading or more dispersed patterns of search, watch, write, or play.",
+  "correct": false
+}

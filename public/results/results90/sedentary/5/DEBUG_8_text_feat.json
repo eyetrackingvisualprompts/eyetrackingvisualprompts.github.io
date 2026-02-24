@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized fixations and short saccades around code-like regions (mid screen), repeatedly revisiting similar coordinates, interleaved with frequent large jumps to peripheral/upper areas (likely console, errors, or other panes) and back, match the complex, back-and-forth inspection pattern seen in DEBUG more than the more linear/intermittent patterns of WRITE or INTERPRET.",
+  "correct": true
+}

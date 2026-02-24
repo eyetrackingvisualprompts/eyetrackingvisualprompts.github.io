@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze coordinates show predominantly small, irregular movements around a region with occasional larger excursions and no clear repetitive horizontal sweeps or strict central fixation. This pattern matches natural, unconstrained viewing behavior (Video Viewing) rather than structured tracking (Horizontal/Random Saccades), static fixation, or the more systematic line-by-line shifts typical of Reading or the target-jumping behavior of the Balura Game.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Reading",
+  "reason": "Gaze positions remain within a narrow region with small, continuous shifts and many micro-corrections, without large-amplitude jumps seen in Random or Horizontal Saccades or Balura Game. The pattern resembles sustained, fine-grained scanning typical of text reading rather than fixation or free video viewing.",
+  "correct": false
+}

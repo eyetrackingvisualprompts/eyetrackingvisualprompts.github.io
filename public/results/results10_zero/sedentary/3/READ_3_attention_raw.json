@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows two closely spaced fixation clusters on a single horizontal line near the lower-middle of the screen, indicating focused attention on a narrow text region without large exploratory movements, which is characteristic of reading rather than dynamic tasks like PLAY or WATCH or code-related tasks that usually involve a taller vertical scan pattern.",
+  "correct": true
+}

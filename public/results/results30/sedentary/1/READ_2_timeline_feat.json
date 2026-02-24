@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, gradual shifts in both X and Y with moderate saccades and no structured line-by-line reading or wide exploratory jumps; this stable, continuous viewing pattern best matches watching a video rather than code- or text-centric or highly interactive tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across wide screen areas (including extreme coordinates and off-content regions), mixed with shorter inspections and revisits, match exploratory, non-linear scanning of multiple webpage regions typical of BROWSE rather than the more localized, structured patterns of coding, reading, or gameplay.",
+  "correct": true
+}

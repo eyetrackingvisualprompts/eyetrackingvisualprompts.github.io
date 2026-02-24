@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in a compact code-like area with many short, local saccades that repeatedly revisit nearby lines/regions, and include occasional vertical moves\u2014matching the tight, line-by-line inspection and re-checking characteristic of debugging, rather than the broader scanning of browse/search or the larger spatial shifts of watch/play.",
+  "correct": false
+}

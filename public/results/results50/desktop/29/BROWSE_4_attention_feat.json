@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are tightly clustered in the central lower-middle area with vertical spread, matching the pattern of focusing on search results and snippets as in the SEARCH example, rather than the more horizontal distributions of READ/WATCH or wider spread of PLAY/BROWSE.",
+  "correct": false
+}

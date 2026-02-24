@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact, mostly left-side region with repeated vertical movements and revisits, similar to the INTERPRET example where participants focus on a single code snippet rather than scanning widely as in SEARCH/BROWSE or split areas as in WRITE/DEBUG.",
+  "correct": false
+}

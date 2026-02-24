@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show frequent, rapid shifts across wide screen regions (including corners and edges), with many short fixations and saccades typical of visually tracking dynamic game elements and monitoring multiple on\u2011screen areas, rather than the more line-structured or localized patterns expected in reading, coding, or search tasks.",
+  "correct": false
+}

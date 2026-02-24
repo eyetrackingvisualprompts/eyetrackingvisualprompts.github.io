@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are spread mainly along a near-horizontal band in the upper half of the screen, forming discrete clusters from left to right with large horizontal shifts and relatively small vertical variation, consistent with tracking a target that moves horizontally at fixed vertical position rather than free viewing, reading, or random 2D motion.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered in a central region with frequent multidirectional saccades but without the systematic horizontal line structure of reading or the more dispersed exploration seen in browsing and playing, matching the more focused yet scattered pattern typical of search result inspection.",
+  "correct": false
+}

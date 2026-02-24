@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows dispersed fixations and saccades over a mid\u2011screen region with frequent shifts between localized clusters, resembling scanning between query, results, and page content typical of web search, rather than the more linear (READ/WRITE) or focused (WATCH/PLAY) patterns.",
+  "correct": false
+}

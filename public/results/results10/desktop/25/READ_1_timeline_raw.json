@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "X position shows stepwise horizontal shifts with relatively stable Y position around mid-screen, matching line-by-line reading behavior similar to the READ example rather than the more scattered or vertical movements seen in other activities.",
+  "correct": true
+}

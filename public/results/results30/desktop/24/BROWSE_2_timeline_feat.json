@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large shifts in both X and Y with variable fixation bands, alternating between upper and lower screen regions. This mixed vertical\u2013horizontal exploration with irregular transitions aligns best with searching through results and webpages, matching the SEARCH example more than the more structured READ/WRITE or smoother WATCH patterns.",
+  "correct": false
+}

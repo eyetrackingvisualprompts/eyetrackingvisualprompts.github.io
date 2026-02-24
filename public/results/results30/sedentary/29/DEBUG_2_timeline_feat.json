@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Early in the segment, fixations are clustered near the top of the screen with intermittent jumps, then later shift to a more central band with relatively constrained horizontal movement\u2014matching alternating looks between code editor and reference/output typical of the WRITE task and resembling its example pattern more than the others.",
+  "correct": false
+}

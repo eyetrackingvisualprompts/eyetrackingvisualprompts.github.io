@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in the upper-left to mid-left code area with some vertical spread and a bit of downward extension, resembling the INTERPRET example where attention shifts among code lines and output area rather than the tighter cluster of DEBUG or WRITE or the broader spread of BROWSE/PLAY.",
+  "correct": true
+}

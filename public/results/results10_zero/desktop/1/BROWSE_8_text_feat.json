@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a relatively narrow central region with short to medium horizontal saccades and repeated local refixations, plus several long fixations around mid-screen\u2014this pattern matches sustained reading of static text more than the more dispersed, multi-directional movements typical of PLAY, SEARCH, WATCH, WRITE, or BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid, and repeated saccades across a fairly broad vertical and horizontal range with less structured, line-based reading patterns. This pattern is more consistent with visually tracking dynamic game elements on the screen than with the more localized and structured gaze of reading, coding, or web search tasks, indicating a PLAY activity.",
+  "correct": false
+}

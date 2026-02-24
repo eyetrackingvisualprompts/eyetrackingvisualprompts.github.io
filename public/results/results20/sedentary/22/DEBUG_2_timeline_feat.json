@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows extended horizontal scanning with occasional larger vertical shifts and pronounced saccades, especially in the later segment, resembling moving between search results and content areas. This pattern matches the SEARCH example more closely than the more stable READ/INTERPRET or the more dynamic PLAY/DEBUG behaviors.",
+  "correct": false
+}

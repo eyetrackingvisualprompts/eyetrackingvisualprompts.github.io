@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a compact left-center region (code editor) with recurrent long saccades to a right-side cluster (console/output or reference), matching the bi-clustered pattern typical of writing code rather than the more dispersed or reading-like patterns of other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows prolonged clusters around a central coding area interspersed with large excursions to screen edges and off-screen (negative coordinates), consistent with using an IDE: typing, consulting menus or tool windows, and occasional loss/return of tracking, which matches the WRITE examples more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are extremely concentrated in a small central-right region with minimal horizontal or vertical spread, indicating prolonged gaze on a single, relatively static area (e.g., central part of a video scene) rather than the systematic line-by-line scanning of text (READ/WRITE) or wide exploratory movements typical of BROWSE/SEARCH/PLAY.",
+  "correct": false
+}

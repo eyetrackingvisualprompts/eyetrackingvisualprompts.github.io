@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region on the left-center, consistent with code editing in an IDE, with occasional long saccades downwards toward a separate area likely used for execution/output, matching the WRITE example more than other tasks.",
+  "correct": false
+}

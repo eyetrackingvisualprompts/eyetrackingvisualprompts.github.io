@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered on the left code area with repeated fixations, plus occasional long saccades to a small cluster on the far right (likely console/output window), matching the debug pattern where participants alternate between code and execution results.",
+  "correct": true
+}

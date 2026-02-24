@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze stays around mid-screen with moderate horizontal and vertical variability and intermittent saccades, resembling the provided SEARCH example more than the more static READ/WRITE patterns or the more dynamic WATCH/PLAY/BROWSE behaviors.",
+  "correct": false
+}

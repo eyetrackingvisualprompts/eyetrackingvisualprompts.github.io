@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The target gaze pattern shows relatively stable, mid-screen horizontal and vertical fixations with frequent small saccades and limited large excursions, closely matching the structured, line-by-line scanning seen in the READ example rather than the larger shifts or vertical biases of the other activities.",
+  "correct": false
+}

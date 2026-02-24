@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades that rapidly traverse both axes (e.g., between top/bottom and left/right regions), with short to moderate fixations and repeated shifts between widely separated areas of the screen. This wide-range, dynamic scanning pattern aligns best with interactive game play, where attention jumps between dispersed game elements, rather than the more structured, line-based patterns of reading/writing or the relatively more localized gaze of browsing/searching/watching.",
+  "correct": true
+}

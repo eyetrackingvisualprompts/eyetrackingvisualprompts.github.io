@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent large vertical saccades interleaved with shorter horizontal fixations, with gaze repeatedly shifting between two main horizontal bands, matches the pattern of alternating between code editor and other UI elements typical for the WRITE examples rather than the steadier scan paths of reading or browsing.",
+  "correct": true
+}

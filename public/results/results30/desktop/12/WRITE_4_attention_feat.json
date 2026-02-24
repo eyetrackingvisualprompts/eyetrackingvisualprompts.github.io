@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are distributed in a horizontally elongated band at a consistent lower vertical position, indicating systematic left-to-right scanning of a text line, which matches the reading pattern seen in the READ example more than the other activities.",
+  "correct": false
+}

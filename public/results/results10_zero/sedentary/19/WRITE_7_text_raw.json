@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points stay within a relatively narrow central region and progress with small, systematic horizontal and slight vertical shifts, consistent with line-by-line reading rather than large object tracking (PLAY/WATCH) or dispersed exploratory movements (BROWSE/SEARCH).",
+  "correct": false
+}

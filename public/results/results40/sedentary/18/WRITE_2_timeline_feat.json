@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated rightward horizontal scanning bands with gradual downward drift and intermittent large vertical saccades, matching the pattern of scrolling and reading mixed web content typical of the BROWSE example rather than the more uniform lines of READ or the more erratic movements of PLAY/WATCH.",
+  "correct": false
+}

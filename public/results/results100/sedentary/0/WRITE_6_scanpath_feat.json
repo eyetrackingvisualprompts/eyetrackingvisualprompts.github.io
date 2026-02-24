@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left/center where search results typically appear, with frequent horizontal and vertical shifts plus occasional long saccades to the right side resembling moves to a side panel or new result page, matching the SEARCH example more than the other tasks.",
+  "correct": false
+}

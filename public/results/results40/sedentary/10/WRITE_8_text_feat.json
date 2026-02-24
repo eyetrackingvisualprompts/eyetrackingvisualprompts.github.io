@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades across widely separated screen regions (including extremes and off-content areas), interleaved with short fixations around mid-page text-like coordinates, matches exploratory, non-linear navigation typical of free web browsing more than the more structured, line-based search results reading or localized code-focused tasks.",
+  "correct": false
+}

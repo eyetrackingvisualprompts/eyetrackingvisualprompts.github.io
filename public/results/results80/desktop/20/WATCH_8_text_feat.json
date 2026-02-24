@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains clustered in a relatively small region with many long fixations (often >1\u20132 s) and slow, smooth shifts, including periods at the upper part of the screen. This stable, localized viewing with infrequent large exploratory saccades matches passive video watching more than the more scanning, horizontally progressive patterns seen in reading/browsing/searching or the more erratic shifts in play/write tasks.",
+  "correct": true
+}

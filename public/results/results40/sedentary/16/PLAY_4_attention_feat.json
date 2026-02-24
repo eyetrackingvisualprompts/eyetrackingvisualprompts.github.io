@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a single central region with minimal spatial spread, matching the focused code-inspection pattern seen in the INTERPRET example rather than the broader distributions of tasks like DEBUG, SEARCH, or PLAY.",
+  "correct": false
+}

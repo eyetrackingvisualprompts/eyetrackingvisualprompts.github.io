@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a small region slightly left of center with two adjacent fixation hotspots, consistent with focusing on a local text area (e.g., a small paragraph or column) rather than scanning widely or tracking moving objects, which aligns best with reading behavior.",
+  "correct": false
+}

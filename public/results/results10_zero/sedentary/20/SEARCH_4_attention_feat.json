@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are scattered across the full screen, including top, center, and lower areas, without forming horizontal reading lines or concentrated code/IDE regions, which aligns with following dynamic visual content in a full-screen video rather than text or programming tasks.",
+  "correct": false
+}

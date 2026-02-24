@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations clustered over code-like regions with many revisits, vertical shifts between top and bottom areas, and occasional large saccades to screen corners/outside bounds resemble the complex, iterative inspection and re-inspection pattern seen in the DEBUG examples more than the more linear READ/INTERPRET or highly exploratory BROWSE/SEARCH behaviors.",
+  "correct": false
+}

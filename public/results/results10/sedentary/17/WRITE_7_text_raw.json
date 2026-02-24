@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, localized gaze clusters around a stable code-like region with frequent small horizontal/vertical shifts and revisits, plus occasional jumps toward screen margins, closely match the WRITE exemplars\u2019 pattern of repeatedly checking and editing code rather than the more linear scans (READ/SEARCH) or large, dynamic shifts (PLAY/WATCH/BROWSE).",
+  "correct": true
+}

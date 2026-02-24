@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows long, smooth saccades with relatively short fixations and substantial movement within a confined lower-central screen area, consistent with tracking moving elements or anticipating motion in a simple game (e.g., Pong or Mario) rather than line-by-line reading or code/IDE inspection, which would exhibit denser, shorter, and more structured fixation patterns.",
+  "correct": false
+}

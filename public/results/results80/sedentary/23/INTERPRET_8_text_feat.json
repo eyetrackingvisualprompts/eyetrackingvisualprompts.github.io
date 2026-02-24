@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a code-like central band with frequent short fixations and many regressive saccades between nearby lines/regions, plus repeated returns between mid and lower areas consistent with scanning code, checking effects, and revisiting error locations\u2014patterns more complex and back-and-forth than READ/INTERPRET and lacking the horizontal, uniform scan of BROWSE/SEARCH or the large-amplitude motions of PLAY/WATCH.",
+  "correct": false
+}

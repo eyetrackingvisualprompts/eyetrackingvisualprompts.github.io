@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a central column with frequent vertical shifts and occasional long saccades to the top and far right, matching interactions with search results and side elements rather than the more linear READ pattern or the more dispersed BROWSE/WATCH patterns.",
+  "correct": false
+}

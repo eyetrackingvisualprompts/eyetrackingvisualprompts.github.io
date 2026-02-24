@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including off-screen coordinates), with relatively short fixations and irregular, non-line-based scan paths suggest visually tracking and navigating dynamic stimuli rather than reading or code-focused tasks, which aligns best with gameplay behavior.",
+  "correct": false
+}

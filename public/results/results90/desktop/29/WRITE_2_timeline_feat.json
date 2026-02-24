@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "X fixation shows a slow, mostly monotonic horizontal progression with small regressions, and Y fixation stays in a narrow lower-band region with occasional small shifts\u2014this pattern matches line-by-line reading behavior more than the broader, more scattered movements seen in browsing, searching, playing, or watching examples.",
+  "correct": false
+}

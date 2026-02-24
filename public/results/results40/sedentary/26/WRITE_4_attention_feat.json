@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are heavily clustered in the left-central area with some scattered points elsewhere, closely matching the DEBUG example pattern of focusing on a code pane with occasional glances to other UI elements, rather than the tighter single-cluster of INTERPRET or the more horizontal spreads seen in READ/BROWSE.",
+  "correct": false
+}

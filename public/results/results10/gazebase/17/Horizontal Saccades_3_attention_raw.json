@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows three strong fixation clusters aligned horizontally\u2014two lateral ones at symmetric positions and one around the center\u2014indicating gaze shifting back and forth along a horizontal axis, characteristic of the Horizontal Saccades task rather than more dispersed or text-like patterns of other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large saccades with varied fixation locations across both axes, indicating exploration of different screen regions rather than structured horizontal scanning (reading/search) or narrowly focused areas (coding/video). This heterogeneous, exploratory pattern best matches the BROWSE activity.",
+  "correct": false
+}

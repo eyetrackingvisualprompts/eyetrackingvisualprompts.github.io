@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a narrow vertical strip in the left-central code area with an additional strong cluster near the top (likely error/output messages or breakpoints), matching the distributed yet code-focused pattern typical of debugging rather than the more localized (WRITE/INTERPRET) or horizontally scanning (READ/BROWSE) behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations stay near screen center with moderate, irregular saccades in both axes, lacking strong horizontal scanning (reading/writing) or large directional sweeps (play/watch/search). This pattern best matches the browsing example.",
+  "correct": false
+}

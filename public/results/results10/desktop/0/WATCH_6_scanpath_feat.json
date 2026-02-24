@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a relatively compact central region with small multidirectional saccades and no clear horizontal line-structured pattern, resembling the example BROWSE scanpath more than the linear READ pattern or the more dispersed SEARCH/PLAY/WATCH/WRITE patterns.",
+  "correct": false
+}

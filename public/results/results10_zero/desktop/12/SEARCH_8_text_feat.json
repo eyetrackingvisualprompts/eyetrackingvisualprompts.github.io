@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a compact central region with short-to-moderate fixations (\u22480.17\u20130.57s) and small, mostly horizontal/oblique saccades, consistent with reading or closely inspecting text in place rather than large exploratory movements (browse/search) or wide, rapid shifts typical of playing games or watching dynamic videos. WRITE usually shows more gaze shifts to peripheral UI areas, which are absent here.",
+  "correct": false
+}

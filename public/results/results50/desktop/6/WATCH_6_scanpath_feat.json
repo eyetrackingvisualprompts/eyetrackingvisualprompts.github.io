@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large gaze shifts across a wide vertical range with dispersed clusters and irregular transitions, resembling the dynamic, multi-directional eye movements seen in the PLAY examples rather than the more constrained horizontal patterns of reading/writing or the denser central clusters of browsing/searching/watching.",
+  "correct": false
+}

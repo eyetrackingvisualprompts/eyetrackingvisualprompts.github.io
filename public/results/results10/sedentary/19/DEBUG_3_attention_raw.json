@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated on a narrow vertical code-like region on the left with several stacked clusters and little movement elsewhere, matching the focused, line-by-line inspection typical of interpreting code rather than the broader spread seen in browsing, reading prose, or debugging with more back-and-forth checks.",
+  "correct": false
+}

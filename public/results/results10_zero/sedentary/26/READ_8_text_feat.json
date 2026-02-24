@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal, line-like scanpaths with sequential rightward saccades followed by large regressions to a similar left x-position, repeating in a band of y-coordinates\u2014typical of moving from line to line in text rather than object tracking (PLAY/WATCH) or code-oriented, more vertically distributed inspection (DEBUG/WRITE/INTERPRET/SEARCH/BROWSE).",
+  "correct": true
+}

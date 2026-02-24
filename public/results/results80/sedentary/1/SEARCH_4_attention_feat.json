@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows multiple vertically distributed fixations on the left (typical of scanning search results and snippets) combined with horizontal movements toward the center area, resembling the provided SEARCH example more than the other activities.",
+  "correct": true
+}

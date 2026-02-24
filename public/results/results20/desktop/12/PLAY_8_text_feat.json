@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between mid and upper/lower screen regions with medium-to-long fixations and varied saccade directions, indicating scanning different interface elements (results list, query box, etc.). The pattern is more dispersed and exploratory than READ/WRITE, less center-stable than WATCH, and less extreme than PLAY, matching the SEARCH examples most closely.",
+  "correct": false
+}

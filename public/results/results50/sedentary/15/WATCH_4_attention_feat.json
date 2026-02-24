@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is dispersed across the full vertical extent with strong clusters on the left and some along the top and center, resembling scanning of search results and sidebar elements rather than focused reading, code inspection, or gameplay patterns; this best matches the SEARCH example heatmap.",
+  "correct": false
+}

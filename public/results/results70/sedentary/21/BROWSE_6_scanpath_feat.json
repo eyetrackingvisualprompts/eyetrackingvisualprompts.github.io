@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow left-side column typical of an IDE text area, with repeated vertical shifts between code lines and console/auxiliary regions, matching the focused, localized patterns seen in WRITE rather than the more dispersed or horizontal patterns of browsing or reading.",
+  "correct": false
+}

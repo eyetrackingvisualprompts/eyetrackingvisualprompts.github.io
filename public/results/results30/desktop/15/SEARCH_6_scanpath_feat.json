@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is spread widely across the horizontal axis with large saccades between distant regions and fewer tight clusters, resembling tracking of dynamic visual content across the screen rather than line-by-line reading or focused central browsing/typing patterns; this matches the WATCH example most closely.",
+  "correct": false
+}

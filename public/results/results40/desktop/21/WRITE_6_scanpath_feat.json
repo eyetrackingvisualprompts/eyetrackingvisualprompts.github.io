@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a small lower-central region of the screen with limited horizontal spread, matching the pattern of focusing on a localized area such as the active text line and cursor in a word processor during writing, unlike the broader horizontal scans of reading or the dispersed movements of browsing/searching/playing/watching.",
+  "correct": true
+}

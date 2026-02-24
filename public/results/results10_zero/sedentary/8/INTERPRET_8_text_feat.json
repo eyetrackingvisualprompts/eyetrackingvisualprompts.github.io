@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze pattern shows clustered fixations with short saccades within a relatively small central region, plus occasional jumps to other nearby areas, consistent with inspecting and re-inspecting specific code elements in a small code snippet rather than scanning long lines of text (READ/SEARCH) or tracking dynamic objects (PLAY/WATCH). This focused, local comparison pattern best matches the INTERPRET (code understanding) task.",
+  "correct": true
+}

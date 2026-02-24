@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze coordinates progress in a structured left-to-right pattern within horizontal bands, with regular vertical shifts to slightly lower Y-values, consistent with line-by-line reading of text rather than the larger, more erratic movements typical of browsing, search, coding, or gameplay.",
+  "correct": false
+}

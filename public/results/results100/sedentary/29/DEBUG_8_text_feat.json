@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is highly confined to a small code-like region with many medium-length fixations, dense local regressions, and repeated revisits to specific vertical bands (around y\u2248140\u2013240 and y\u2248430\u2013580), matching the detailed, back-and-forth inspection typical for reasoning about a short code snippet, more so than the broader scanning in SEARCH/BROWSE or the line-structured patterns in READ/WRITE/DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form clusters progressing horizontally with relatively small vertical shifts, consistent with line-by-line reading behavior rather than the larger, more erratic movements typical of searching, browsing, coding, or gameplay.",
+  "correct": false
+}

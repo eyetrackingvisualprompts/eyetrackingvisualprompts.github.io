@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent vertical transitions between high and low Y positions with varied X positions, indicating repeated shifts between different screen regions (e.g., query box, result snippets, possibly new pages). This mixed scanning and reading pattern aligns best with SEARCH compared to the more uniform reading, static code-focused, or highly dynamic game/video patterns of other classes.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal scanning with occasional larger saccades and shifts in both X and Y, resembling alternation between results list, query box, and clicked pages, which best matches the SEARCH pattern compared to the more linear READ/WRITE or highly dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

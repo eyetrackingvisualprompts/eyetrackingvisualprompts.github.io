@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Long sequences of localized fixations and small saccades around a mid-screen code region with frequent short excursions to other code-like areas, plus occasional larger jumps to top/side regions, most closely resemble the WRITE examples\u2019 dense, code-editing gaze around the editing pane rather than the more horizontal scanlines of READ/SEARCH or the broader exploratory movements in BROWSE/PLAY/WATCH.",
+  "correct": false
+}

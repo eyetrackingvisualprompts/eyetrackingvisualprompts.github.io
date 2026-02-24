@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent, irregular shifts in both X and Y with dispersed fixations and saccades across mid-screen regions, resembling the variable, exploratory pattern seen in the BROWSE example rather than the more structured horizontal/vertical patterns of READ or WRITE or the more constrained layouts of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

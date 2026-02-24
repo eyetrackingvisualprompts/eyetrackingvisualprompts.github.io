@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered around the screen center with frequent multi-directional saccades and revisits, resembling the exploratory, scanning behavior seen in the SEARCH example rather than the more linear (READ/WRITE) or peripheral (WATCH/PLAY) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is heavily concentrated on a compact area on the left where the code likely is, with additional scattered fixations across other screen regions (e.g., console, other UI elements), matching the DEBUG example more than the tightly focused INTERPRET or more widely spread tasks like PLAY or WATCH.",
+  "correct": false
+}

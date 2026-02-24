@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y show large, discrete step-like position changes in multiple directions with roughly 1-second plateaus between movements, matching the pattern of following a randomly moving target rather than purely horizontal motion, structured reading lines, game-driven rapid refixations, continuous fixation, or natural video viewing.",
+  "correct": true
+}

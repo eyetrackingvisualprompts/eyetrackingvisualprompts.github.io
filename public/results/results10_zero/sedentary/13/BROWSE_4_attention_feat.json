@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a single horizontal band across the upper-middle of the screen with little vertical spread, consistent with following central content in a full-screen video rather than scanning text or code, which would show structured line-by-line or column-like patterns.",
+  "correct": false
+}

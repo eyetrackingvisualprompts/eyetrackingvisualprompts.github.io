@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, rapid shifts across wide screen regions (center to corners, substantial vertical jumps), with less structured horizontal scanning typical of reading or coding. The pattern suggests tracking dynamic, spatially distributed stimuli consistent with gameplay rather than the more localized, line-based or fixational patterns of READ, WRITE, DEBUG, INTERPRET, SEARCH, BROWSE, or the smoother central focus of WATCH.",
+  "correct": false
+}

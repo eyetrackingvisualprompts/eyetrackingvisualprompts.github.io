@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The heatmap shows a dense fixation cluster over a compact left-side area (likely code editor) with a smaller secondary cluster on the right (e.g., console or reference), closely matching the WRITE example pattern of focused coding with occasional glances elsewhere.",
+  "correct": true
+}

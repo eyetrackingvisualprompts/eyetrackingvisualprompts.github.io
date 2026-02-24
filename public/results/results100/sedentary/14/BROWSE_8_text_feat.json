@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between top UI regions (near/above screen, address/search bar area) and central content, plus repeated horizontal sweeps across mid\u2011screen text-like bands and revisits to different vertical levels resemble scanning SERPs and result pages rather than continuous line-by-line reading or focused code inspection/debugging. The strong involvement of screen edges, off-screen coordinates, and rapid context switches aligns best with SEARCH behavior.",
+  "correct": false
+}

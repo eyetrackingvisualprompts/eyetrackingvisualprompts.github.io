@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in several compact regions on the upper-left/center and one on the mid-right, consistent with focusing on code blocks, console/output, and perhaps debugging tools rather than continuous line-by-line reading or dynamic object tracking seen in games or videos.",
+  "correct": false
+}

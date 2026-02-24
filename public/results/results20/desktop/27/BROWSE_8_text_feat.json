@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around mid-screen with moderate vertical spread and frequent short saccades within a compact region, resembling scanning of mixed content (e.g., article titles, snippets, menus) rather than the highly horizontal, line-by-line progression seen in READ or the very localized left-side focus typical of WRITE. The movement pattern and fixation durations are most similar to the BROWSE example data.",
+  "correct": true
+}

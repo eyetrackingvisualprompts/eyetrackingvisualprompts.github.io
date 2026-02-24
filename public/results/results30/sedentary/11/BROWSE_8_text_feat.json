@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanpaths across mid-screen bands with many medium-duration fixations over a wide lateral range, interleaved with occasional large vertical jumps (including off-screen/top bar and down-page moves) and returns, closely resemble scrolling and skimming behavior on web pages rather than the more line-locked reading pattern, object-focused watching, or code-centered tasks.",
+  "correct": true
+}

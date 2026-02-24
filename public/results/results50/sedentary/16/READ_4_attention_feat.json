@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a horizontally elongated band across the central area, with multiple local clusters and coverage wider than the focused code/IDE patterns (INTERPRET, DEBUG, WRITE) but narrower and more structured than WATCH or PLAY, matching the browsing heatmap pattern.",
+  "correct": false
+}

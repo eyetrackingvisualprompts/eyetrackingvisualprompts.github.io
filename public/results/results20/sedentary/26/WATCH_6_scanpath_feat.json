@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread across multiple vertical regions with occasional long saccades to screen corners, indicating navigation across different webpage areas rather than focused reading or code editing, which matches the browsing pattern.",
+  "correct": false
+}

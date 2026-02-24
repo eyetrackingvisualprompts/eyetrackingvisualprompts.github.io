@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points progress in structured, mostly horizontal clusters with small vertical shifts, consistent with line-by-line reading behavior rather than the larger, more erratic movements typical of games, video watching, or free browsing. The pattern matches focused inspection of text over the 10-second window, aligning best with the READ activity.",
+  "correct": false
+}

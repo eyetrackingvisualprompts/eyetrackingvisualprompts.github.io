@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze points cluster in a relatively small central screen area with short, local saccades and many micro-adjustments, resembling careful code inspection rather than long, linear reading or large exploratory jumps; the pattern and coordinates best match the DEBUG exemplar trajectories among the provided classes.",
+  "correct": false
+}

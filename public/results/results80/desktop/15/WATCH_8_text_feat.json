@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow vertical strip in the upper part of the screen with many short fixations and small saccades plus occasional jumps upward/downward, consistent with monitoring a text line and glancing at UI elements in a word processor rather than broad horizontal scanning (READ) or wide exploratory movements (SEARCH/BROWSE/PLAY/WATCH).",
+  "correct": false
+}

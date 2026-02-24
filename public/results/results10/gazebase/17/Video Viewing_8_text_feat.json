@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze exhibits large, multi-directional saccades spanning wide horizontal and vertical ranges with ~200\u2013500 ms fixations at each location, matching the pattern of following a randomly moving target rather than the more constrained horizontal motion, line-structured reading, central fixation, or game-specific re-fixations.",
+  "correct": false
+}

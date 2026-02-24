@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long vertical transitions between mid-page and top/bottom regions, repeated revisits to similar horizontal bands, and scattered off-content excursions resemble scrolling and scanning behavior during free web browsing more than the more structured line-by-line patterns of READ or the focused central patterns of coding or gameplay tasks.",
+  "correct": false
+}

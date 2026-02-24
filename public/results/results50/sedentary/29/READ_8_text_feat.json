@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a set of nearly horizontal bands (y \u2248 90\u2013200, then 250\u2013290, then 340\u2013430), with long left\u2011to\u2011right sweeps and returns, and minimal large vertical jumps except between these bands\u2014matching line-by-line text reading. Patterns closely resemble the READ example and differ from the more scattered, multi\u2011region patterns of SEARCH/BROWSE or the code\u2011panel patterns of programming tasks.",
+  "correct": true
+}

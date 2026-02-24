@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows large vertical movements between top and middle of the screen and a very long horizontal saccade toward the right, indicating shifts between search box, results list, and possibly a result page\u2014patterns most consistent with web searching behavior compared to the more localized or structured patterns of other tasks.",
+  "correct": false
+}

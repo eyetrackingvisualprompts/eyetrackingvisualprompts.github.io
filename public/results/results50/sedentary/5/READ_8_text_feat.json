@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze behavior shows long smooth pursuits and extended saccades along similar horizontal bands without structured line-by-line progression or frequent code/text regressions. This pattern matches continuous following of moving visual content (video) more than the structured, denser, and more locally clustered patterns seen in reading, coding (WRITE/DEBUG/INTERPRET), or web browsing/searching.",
+  "correct": false
+}

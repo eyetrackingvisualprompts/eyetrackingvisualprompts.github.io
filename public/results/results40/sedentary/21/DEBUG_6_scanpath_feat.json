@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is heavily clustered on the left-central area where code editor text typically lies, with occasional long saccades toward the right (likely console or run button), matching the pattern of typing and occasionally checking output seen in WRITE, rather than the tighter, single-cluster focus of INTERPRET or the more dispersed DEBUG pattern.",
+  "correct": false
+}

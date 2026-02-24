@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a central-lower region with moderate vertical spread and frequent shifts among nearby points, resembling attention between search box, results list, and some content areas, which matches the SEARCH pattern more than the tighter READ cluster or the broader, more dispersed BROWSE/WATCH/PLAY paths.",
+  "correct": false
+}

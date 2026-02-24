@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly stationary at a single small region with long continuous fixations (up to ~2.2s) and only tiny corrective saccades, indicating passive viewing of a relatively constant stimulus rather than scanning text (READ/WRITE) or exploring/searching (BROWSE/SEARCH) or making large, frequent shifts typical of gameplay (PLAY). This stable, centrally located viewing pattern best matches the WATCH activity.",
+  "correct": false
+}

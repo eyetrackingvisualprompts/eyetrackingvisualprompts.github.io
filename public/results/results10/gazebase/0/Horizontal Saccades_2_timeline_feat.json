@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X-position alternates regularly between approximately +15 and -15 degrees with about 1-second plateaus, while Y remains near 0, matching the stereotyped periodic horizontal saccade pattern.",
+  "correct": true
+}

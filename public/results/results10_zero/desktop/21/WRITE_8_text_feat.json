@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains within a confined spatial region with long, stable fixations (mostly 1\u20132.7s) and only small, short saccades between nearby points. This pattern indicates sustained attention on a localized area of text rather than large exploratory movements typical of SEARCH, BROWSE, or PLAY, or the more dispersed/scene-based viewing in WATCH or the shifting between text and typing region in WRITE, making READ the most likely activity.",
+  "correct": false
+}

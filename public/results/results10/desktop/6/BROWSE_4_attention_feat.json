@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread around the central-upper region with multiple distinct clusters both vertically and horizontally, resembling attention shifts between query box, results list, and other interface elements typical of web searching rather than the more linear READ pattern or sparse WATCH/PLAY layouts.",
+  "correct": false
+}

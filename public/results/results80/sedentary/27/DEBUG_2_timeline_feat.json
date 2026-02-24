@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central band with relatively small, frequent fixations and occasional brief excursions upward\u2014similar to focusing on a small text/code area with sporadic shifts to UI elements, matching the WRITE example pattern more than the other activities.",
+  "correct": false
+}

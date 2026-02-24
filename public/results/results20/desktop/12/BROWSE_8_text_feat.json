@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-long saccades between mid-screen and upper/lower regions, alternating clusters of fixations in the result/title area (~0.4\u20130.6 vertical) and near top/bottom bands, consistent with scanning SERP titles/snippets and then moving to other page areas; this pattern aligns more with SEARCH than the more line-structured READ, central-stable WATCH, or left-anchored WRITE behaviors.",
+  "correct": false
+}

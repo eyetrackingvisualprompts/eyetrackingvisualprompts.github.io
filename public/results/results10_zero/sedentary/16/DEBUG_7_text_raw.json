@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show large, rapid shifts across wide screen areas (including edges and off-screen), with many brief fixations and saccades rather than structured line-by-line or code-like inspection. This spatially dispersed, dynamic pattern is most consistent with tracking moving game elements or navigation in a game environment, aligning best with the PLAY activity compared to reading, coding, or web/search tasks, which typically produce more constrained, systematic gaze paths.",
+  "correct": false
+}

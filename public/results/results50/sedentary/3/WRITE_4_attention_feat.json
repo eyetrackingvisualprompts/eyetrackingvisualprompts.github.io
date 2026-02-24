@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered on a compact region in the upper-left (likely code editor) with an additional smaller cluster to the mid-right (e.g., console/output), matching the WRITE example pattern more than other tasks.",
+  "correct": true
+}

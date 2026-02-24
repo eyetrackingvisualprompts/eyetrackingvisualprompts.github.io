@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze moves in long horizontal sweeps at multiple vertical bands (around y\u2248640\u2013950 and later 200\u2013380), with repeated left-right scanning within rows and intermittent large vertical jumps, matching web page browsing patterns more than focused code (WRITE/DEBUG/INTERPRET) or continuous central motion (WATCH/PLAY).",
+  "correct": false
+}

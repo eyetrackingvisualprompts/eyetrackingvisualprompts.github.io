@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-focused behavior with moderate horizontal span, relatively stable vertical position within a code block, and frequent but not wide saccades\u2014more exploratory and error-checking than the tighter, more linear patterns of READ/INTERPRET or the broader navigation of BROWSE/SEARCH/WATCH/PLAY, matching the DEBUG example most closely.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a compact code-like region on the left, with many short back-and-forth saccades between nearby lines and columns, frequent revisits to the same coordinates, and long fixations indicative of detailed, problem-focused inspection rather than smooth line-by-line reading or large exploratory jumps\u2014patterns most consistent with debugging activity among the provided classes.",
+  "correct": false
+}

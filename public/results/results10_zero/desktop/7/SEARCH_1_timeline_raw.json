@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, infrequent vertical jumps with relatively smooth segments between them, consistent with following changing visual content across the screen rather than line-by-line horizontal scanning or focused editing/searching behavior, which is characteristic of watching dynamic video scenes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal, line-like progressions in X with relatively stable Y levels and occasional downward jumps, consistent with reading continuous text rather than scanning code, interacting, or tracking moving objects.",
+  "correct": false
+}

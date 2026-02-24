@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered in a compact central region around mid\u2011x and upper\u2011middle y, matching the focused gaze on a small content area (e.g., central article section) typical of web browsing, and resembling the BROWSE example heatmap more than the more horizontally spread READ/WRITE patterns or dispersed PLAY/WATCH patterns.",
+  "correct": false
+}

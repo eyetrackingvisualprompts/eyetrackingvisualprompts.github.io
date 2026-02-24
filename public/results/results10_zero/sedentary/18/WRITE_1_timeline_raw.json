@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show long, stable horizontal bands with occasional step-like shifts, consistent with line-by-line reading and infrequent vertical transitions, rather than rapid multi-directional movements or large spatial exploration typical of other tasks.",
+  "correct": false
+}

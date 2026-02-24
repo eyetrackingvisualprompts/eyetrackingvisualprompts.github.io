@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent long saccades across widely separated vertical and horizontal regions (top of page to deep bottom, center to far sides), many revisits to mid-page bands, and scanning in bands around y\u2248550\u2013600 and y\u2248800 typical of scrolling and inspecting a long web page. The pattern lacks the line-by-line regularity of READ and the code-focused, denser central clustering of programming tasks, and it is less object-following and localized than PLAY or WATCH, matching exploratory BROWSE behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows multiple mid-length fixations clustered around a central code-like area with several revisits and short corrective saccades, plus occasional large relocations to screen edges (likely console/output or other IDE panels). This iterative, back-and-forth inspection pattern is more consistent with debugging activity than with the more linear reading of READ/INTERPRET or the highly dynamic, target-following movements in PLAY or the broad-scanning patterns typical of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows long horizontal reading-like sweeps across the upper-middle of the screen, combined with several vertical shifts and a large transition toward the bottom-right, consistent with scanning search results and then moving to a selected result page, matching the SEARCH pattern more than the other activities.",
+  "correct": true
+}

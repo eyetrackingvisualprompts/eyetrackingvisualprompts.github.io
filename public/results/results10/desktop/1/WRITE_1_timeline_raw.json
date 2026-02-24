@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Both x and y positions show slow, smooth drifts with small fluctuations and no large jumps or line-like patterns; this resembles the mild, continuous scanning behavior in the BROWSE example more than the more structured (READ/WRITE) or jumpy (PLAY/SEARCH/WATCH) patterns.",
+  "correct": false
+}

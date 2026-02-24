@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in the upper-left code area with minimal horizontal spread and only occasional excursions, matching the focused, local gaze pattern seen in the WRITE example rather than the broader distributions of browsing, reading, or debugging.",
+  "correct": false
+}

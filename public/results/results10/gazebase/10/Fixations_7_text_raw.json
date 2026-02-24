@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "The data show a mix of short, local fixational movements near central coordinates interspersed with occasional larger shifts in both horizontal and vertical directions, without the strictly periodic large-amplitude horizontal pattern of Horizontal Saccades or the highly central, low-variance profile of Fixations or Reading. The irregular multi-directional changes with intermittent larger excursions match the free-viewing dynamics seen in the Video Viewing examples.",
+  "correct": false
+}

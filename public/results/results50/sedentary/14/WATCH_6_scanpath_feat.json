@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover a large portion of the screen with frequent, long saccades and scattered fixations rather than line-like reading or focused code inspection, matching the dynamic, wide-ranging visual search seen in the PLAY examples (e.g., tracking moving game elements).",
+  "correct": false
+}

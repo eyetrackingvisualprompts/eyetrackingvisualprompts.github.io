@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show long, relatively stable horizontal fixations with slow drift and occasional vertical shifts rather than systematic left-to-right line scanning or dense code-inspection patterns, and lack the rapid multi-directional saccades typical of active interaction (PLAY, WRITE, DEBUG, SEARCH). This passive, smooth viewing pattern best matches watching a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple horizontal regions including top-center and mid-screen, suggesting attention to both a search box/results and selected pages, matching the varied, multi-area pattern typical of SEARCH rather than the more localized patterns of coding, reading, or watching video.",
+  "correct": false
+}

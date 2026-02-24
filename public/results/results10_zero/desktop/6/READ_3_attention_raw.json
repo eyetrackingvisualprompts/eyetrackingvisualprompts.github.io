@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly concentrated near the bottom-center of the screen, consistent with focusing on a single text line and nearby cursor area in a word processor, rather than the broader vertical scanning typical of reading or browsing full pages or the wider spatial spread expected in games or videos.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain relatively central with slow drifts and occasional sharp vertical saccades, lacking systematic horizontal scanning or line-by-line reading patterns, which is more consistent with passively watching dynamic visual content than with text/code reading, writing, searching, or game tracking.",
+  "correct": false
+}

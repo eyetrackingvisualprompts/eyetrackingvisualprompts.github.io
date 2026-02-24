@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows highly regular, line-like horizontal scanpaths in the upper and middle screen areas with short, progressive saccades and many medium-length fixations, consistent with reading lines of text. There is no strong object-following, rapid game-like motion, or large off-screen excursions typical of PLAY, WATCH, SEARCH, or BROWSE; instead the pattern matches the structured, row-wise movements seen in the READ examples.",
+  "correct": true
+}

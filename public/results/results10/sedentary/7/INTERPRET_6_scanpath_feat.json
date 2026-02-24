@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a small region on the left side of the screen with limited horizontal movement, matching the stable, code-editing focus seen in the WRITE example rather than the more scattered or linear patterns of other tasks.",
+  "correct": false
+}

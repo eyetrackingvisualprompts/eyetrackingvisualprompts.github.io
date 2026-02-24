@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations progress in highly regular horizontal scanlines at several nearby vertical levels (around y\u2248150\u2013340, then 370\u2013480), with frequent long sweeps from left-central (x\u2248700\u2013800) to right (x\u22481100\u20131200) and then return sweeps\u2014characteristic of line-by-line reading. The brief excursions to the bottom of the screen (y\u2248900s) resemble scrolling or jumping to later text, which also aligns with extended reading behavior rather than code-centric or interactive tasks.",
+  "correct": true
+}

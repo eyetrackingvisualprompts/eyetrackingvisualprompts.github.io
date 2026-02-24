@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations with many multidirectional saccades across a localized central region, plus occasional large jumps (including off-screen coordinates) suggest scanning between multiple code locations and UI areas typical of debugging rather than the more linear patterns of reading/interpreting or the smoother, object-centered movements of watching/playing.",
+  "correct": false
+}

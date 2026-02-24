@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts with dispersed exploration in the upper-left area and then stabilizes into horizontal scanning across a band in the mid-right region, matching the pattern of scanning search results and then reading selected snippets, characteristic of the SEARCH task rather than the more uniform bands of BROWSE or localized focus of code tasks.",
+  "correct": false
+}

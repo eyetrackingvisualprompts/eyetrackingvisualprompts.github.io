@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements concentrated in two main vertical zones, suggesting reading between separated text blocks (e.g., title and body or two columns) with occasional regressions, which is more typical for a READ task than the more scattered or object-focused patterns expected in browsing, searching, or playing games.",
+  "correct": false
+}

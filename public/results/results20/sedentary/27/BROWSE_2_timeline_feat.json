@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal, slow, and steady progression with small vertical changes and very few large saccades, closely matching the reading pattern example and differing from the more scattered or dynamic patterns seen in tasks like PLAY, WATCH, SEARCH, or BROWSE.",
+  "correct": false
+}

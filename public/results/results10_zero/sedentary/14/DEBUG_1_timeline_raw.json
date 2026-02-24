@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain in a narrow horizontal band with small, smooth fluctuations and no systematic left-to-right scanlines or vertical scrolling, indicating continuous attention to a relatively fixed central area typical of passively watching a video rather than reading, coding, browsing, or interactive tasks.",
+  "correct": false
+}

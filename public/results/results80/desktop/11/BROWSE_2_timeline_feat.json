@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows relatively wide vertical exploration with frequent, irregular saccades and shifts between upper and lower screen regions, consistent with scanning search results, query box, and different web pages, matching the SEARCH pattern more than the more stable READ/WRITE or the more extreme PLAY/WATCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze path shows repeated large-amplitude horizontal movements along a nearly constant vertical level, consistent with following a horizontally oscillating target rather than text reading or static fixation; the few vertical excursions appear as brief transitions, matching the Horizontal Saccades task description.",
+  "correct": true
+}

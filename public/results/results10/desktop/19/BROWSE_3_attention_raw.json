@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is concentrated around the central horizontal band with moderate spread but without distinct text-like line structures or strong top/bottom clusters, resembling the PLAY example more than the others which show clearer patterns of reading, searching, writing, browsing, or watching video content.",
+  "correct": false
+}

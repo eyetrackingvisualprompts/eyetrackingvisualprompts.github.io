@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, smooth horizontal scanpaths with short, regular saccades and sustained fixations arranged in bands that shift down the screen over time\u2014characteristic of line-by-line text reading, closely matching the READ example patterns rather than the more scattered or object-focused patterns of other tasks.",
+  "correct": true
+}

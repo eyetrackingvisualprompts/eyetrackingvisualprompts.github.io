@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread vertically across many horizontal bands but constrained to a narrow left-side region, resembling scanning multiple stacked results or snippets in a search engine column rather than the tighter central code-area clusters of WRITE/DEBUG/INTERPRET or the wider distributions of WATCH/BROWSE/PLAY/READ.",
+  "correct": false
+}

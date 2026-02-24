@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is distributed broadly across the central and horizontal extent of the screen with continuous sweeping saccades and relatively few tight clusters, resembling following dynamic visual content rather than line-by-line text or localized code/IDE regions, which matches the WATCH pattern best.",
+  "correct": false
+}

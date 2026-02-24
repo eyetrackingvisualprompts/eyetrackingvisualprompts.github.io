@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "X shows repeated left-edge resets with slow rightward drifts while Y remains in a narrow band, matching page-scrolling and line-by-line reading seen in the BROWSE example rather than the more varied or static patterns of other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near the horizontal center with small, smooth shifts and limited vertical movement, indicating passive following of on-screen content rather than systematic line-by-line scanning or code navigation, which is most consistent with watching a video.",
+  "correct": false
+}

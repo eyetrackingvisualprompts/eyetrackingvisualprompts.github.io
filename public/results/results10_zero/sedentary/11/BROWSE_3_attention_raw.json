@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows two closely spaced horizontal fixation bands in the central area, indicating concentrated back-and-forth inspection over a small code region rather than continuous reading lines or wide exploration, which is characteristic of interpreting a short code snippet.",
+  "correct": false
+}

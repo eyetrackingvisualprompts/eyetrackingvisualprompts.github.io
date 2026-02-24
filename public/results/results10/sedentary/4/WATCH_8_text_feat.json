@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shifts cover large vertical and horizontal regions without the tight horizontal line structure of reading or code tasks. Fixations cluster around moving points with moderate durations, and saccades frequently jump between disparate screen areas in a fluid, scan-like manner, matching the dynamic visual tracking behavior seen in the WATCH example rather than the more systematic patterns of SEARCH/BROWSE or the localized, pane-focused movements of programming tasks.",
+  "correct": true
+}

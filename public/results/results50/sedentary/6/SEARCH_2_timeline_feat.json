@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large saccades and shifts across both X and Y axes with no clear repetitive reading scanpath or stable code-line pattern, matching the varied, exploratory gaze behavior typical of web browsing rather than structured tasks like reading or coding.",
+  "correct": false
+}

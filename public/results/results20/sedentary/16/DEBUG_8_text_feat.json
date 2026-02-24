@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like area on the left, with long, slow saccades between a few nearby lines and short fixations, matching the intensive, localized inspection pattern seen in INTERPRET rather than the broader scanning or top-down reading/browsing seen in other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze pattern repeatedly alternates between mid-upper code-like regions and lower areas consistent with an editor\u2019s output/console or reference, with many revisits to the same clusters and vertical shifts typical of editing and verifying code rather than the more linear scans of READ/INTERPRET or the broader exploratory movements of BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": false
+}

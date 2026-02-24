@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows widespread coverage of the page with many vertical and horizontal shifts between upper-left text-like area, lower content, and a right-side region, consistent with heterogeneous navigation behavior typical for free web browsing rather than focused code reading/debugging or central video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The data shows highly regular, line-by-line horizontal scan patterns with a steadily increasing Y fixation position, characteristic of sequential text reading rather than code interaction, visual search, or dynamic stimuli.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze is highly concentrated in a narrow horizontal band in the lower quarter of the screen with small, sequential horizontal shifts, consistent with fixations moving along a single text line during reading rather than the larger, more dispersed movements typical of playing games, browsing, searching, watching videos, or writing (where gaze alternates with other UI elements).",
+  "correct": false
+}

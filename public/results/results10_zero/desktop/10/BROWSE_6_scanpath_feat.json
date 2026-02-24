@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered around a central region with small, smooth movements and no clear horizontal or vertical scanline patterns typical of reading, writing, or web browsing. The confined fixation area and modest shifts are most consistent with watching a relatively static central video scene rather than exploring text or interactive game space.",
+  "correct": false
+}

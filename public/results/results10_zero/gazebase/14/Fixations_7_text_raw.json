@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show repeated epochs of relatively stable fixation interspersed with large, abrupt multi-degree jumps in both horizontal and vertical directions, followed by new stable clusters. This pattern\u2014step-like target relocations about once per second with varied 2D positions\u2014is characteristic of following a randomly moving target rather than strictly horizontal tracking, static fixation, reading-like scanpaths, game-driven selective fixations, or free video viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows wide, irregular saccades across much of the screen with no consistent horizontal line structure typical of reading or writing. The gaze alternates between several distinct regions, suggesting exploration of different interface elements and result areas on a web page, which aligns best with SEARCH behavior.",
+  "correct": false
+}

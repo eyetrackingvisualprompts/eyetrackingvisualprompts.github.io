@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered on the upper-left region with two vertically separated code areas and almost no gaze elsewhere, matching the localized, code-focused pattern of DEBUG rather than the more central or widely distributed patterns of other tasks.",
+  "correct": true
+}

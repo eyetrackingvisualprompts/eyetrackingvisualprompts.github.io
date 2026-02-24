@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is split between two main horizontal regions (likely search results and a clicked page) with frequent long saccades between them, resembling the SEARCH example more than the other activities.",
+  "correct": true
+}

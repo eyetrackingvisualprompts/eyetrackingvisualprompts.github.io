@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay near the screen center with moderate, irregular fixations and saccades in both axes, lacking the strong horizontal scanlines of reading/writing or the larger vertical excursions of search/play/watch, matching the browsing example pattern most closely.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze stays within a very small region around the center (within roughly \u00b11\u00b0) with only slow drifts and micro\u2011fluctuations and no large, structured horizontal or random saccades, matching the stable central fixation pattern rather than reading, video viewing, or saccadic tracking tasks.",
+  "correct": true
+}

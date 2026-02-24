@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is highly localized in a compact region with minimal horizontal or vertical scanning, consistent with focusing on a small code snippet area rather than extended reading, web browsing, or dynamic game/video content; this tight focus on a short segment best matches interpreting a given function implementation.",
+  "correct": false
+}

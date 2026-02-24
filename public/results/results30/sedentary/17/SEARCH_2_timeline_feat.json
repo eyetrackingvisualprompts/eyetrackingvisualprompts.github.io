@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows mostly horizontal reading-like movement with occasional large vertical saccades and position jumps, indicating scanning results pages and shifting attention between items and possibly different parts of a web page, which best matches the SEARCH pattern compared to the more uniform READ trace or more scattered BROWSE activity.",
+  "correct": true
+}

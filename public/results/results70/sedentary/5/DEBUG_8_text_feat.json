@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a relatively small central code-like area with frequent short regressions and revisits to nearby lines/regions, indicative of mentally simulating and checking code rather than the more linear scan of READ, the more dispersed exploration of BROWSE/SEARCH, or the more peripheral and dynamic patterns of PLAY/WATCH. This pattern best matches INTERPRET behavior in the examples.",
+  "correct": false
+}

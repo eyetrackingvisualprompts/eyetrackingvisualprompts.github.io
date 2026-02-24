@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows predominantly horizontal movements with moderate, step-like shifts and brief vertical excursions, resembling code/IDE interaction. The pattern matches the WRITE example more closely than the others, indicating active code editing rather than pure reading, debugging, or free browsing.",
+  "correct": false
+}

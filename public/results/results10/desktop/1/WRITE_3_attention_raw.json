@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated near the center of the screen with a compact cluster and limited horizontal spread, closely matching the BROWSE example heatmap pattern rather than the more horizontally extended READ or upper-screen WATCH/WRITE patterns.",
+  "correct": false
+}

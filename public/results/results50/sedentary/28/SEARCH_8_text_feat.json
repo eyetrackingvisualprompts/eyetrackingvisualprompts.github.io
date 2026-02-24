@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide spatial exploration across page (including top bar and lower regions), repeated long saccades between far-apart areas, and short fixations on multiple horizontal text-like regions are characteristic of scanning search results and different SERP sections, matching the SEARCH pattern more than the more localized, line-structured READ or code-focused programming tasks.",
+  "correct": true
+}

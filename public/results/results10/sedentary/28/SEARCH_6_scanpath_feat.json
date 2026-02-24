@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts across multiple vertical regions with larger jumps and scattered fixations, indicating viewing of various webpage areas rather than the more localized, code-focused patterns of WRITE/INTERPRET/DEBUG or the smoother trajectories of WATCH/PLAY.",
+  "correct": false
+}

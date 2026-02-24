@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal band with constrained vertical range and orderly left-right movements, closely matching the characteristic scanpath of reading text, unlike the more dispersed or upper-screen patterns seen in browsing, search, watch, write, or play examples.",
+  "correct": false
+}

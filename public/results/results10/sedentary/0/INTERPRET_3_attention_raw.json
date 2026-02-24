@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in the upper-left and mid-left areas, consistent with looking at a search box and top results, matching the SEARCH example heatmap more closely than the others.",
+  "correct": false
+}

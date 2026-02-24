@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both horizontal and vertical gaze positions remain very close to screen center with only small noise and a single brief downward artifact, matching sustained central fixation on a static target rather than systematic or large-amplitude saccadic movements.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered on a code-like region on the left-center of the screen, with additional but fewer fixations across a horizontal band, matching the broader yet focused pattern seen in the DEBUG example rather than the more compact INTERPRET cluster or the WRITE pattern.",
+  "correct": true
+}

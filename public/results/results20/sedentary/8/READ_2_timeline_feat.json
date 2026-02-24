@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows smooth, continuous movements in both X and Y with moderate saccades and no clear line-by-line or structured scanning pattern typical of text or code. This resembles the example WATCH pattern of following dynamic visual content on a video rather than discrete elements like search results, code, or game objects.",
+  "correct": false
+}

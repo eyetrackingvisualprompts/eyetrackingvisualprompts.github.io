@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Video Viewing",
+  "reason": "The heatmap shows dispersed fixations over many regions of the screen without a clear horizontal band (reading) or strict central clustering (fixation task). The pattern is irregular and not limited to large discrete jumps as in controlled saccade tasks or focused clusters on a few objects as in the game, matching natural exploratory viewing of a video scene.",
+  "correct": false
+}

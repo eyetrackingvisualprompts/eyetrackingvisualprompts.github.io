@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a compact cluster near the screen center with moderate horizontal spread and limited vertical movement, closely matching the browsing example heatmap pattern rather than the more linear (READ/WRITE) or dispersed (SEARCH/WATCH/PLAY) distributions.",
+  "correct": false
+}

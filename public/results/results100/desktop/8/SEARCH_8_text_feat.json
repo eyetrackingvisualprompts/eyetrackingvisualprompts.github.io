@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small upper-left region with many medium-length fixations and short, local saccades, resembling sustained attention to a single text-entry area (like a Word document cursor line) rather than broader horizontal sweeps of reading or large exploratory movements seen in search/browse/play/watch.",
+  "correct": false
+}

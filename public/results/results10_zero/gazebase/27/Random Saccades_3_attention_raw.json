@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows a sparse set of discrete fixation clusters scattered across both horizontal and vertical directions, with roughly one cluster per second and no continuous horizontal band or central concentration. This pattern matches a target jumping to random positions (Random Saccades), rather than line-like reading patterns, purely horizontal motion, dense central fixations, or the more clustered, object-focused patterns of video viewing or gaming.",
+  "correct": true
+}

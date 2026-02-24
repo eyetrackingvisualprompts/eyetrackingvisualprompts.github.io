@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a compact left-side region with occasional longer saccades outward, closely matching the concentrated IDE/code-area exploration pattern seen in the DEBUG example rather than the more localized INTERPRET or more scattered browse/play/watch behaviors.",
+  "correct": false
+}

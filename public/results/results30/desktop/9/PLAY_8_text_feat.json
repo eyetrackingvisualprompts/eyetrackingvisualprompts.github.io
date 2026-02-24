@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-sized saccades between mid and lower screen with varied vertical positions, interspersed with short to moderate fixations and occasional larger jumps\u2014closely matching the heterogeneous, scroll-and-skim pattern seen in the BROWSE example, rather than the more line-structured READ/WRITE or highly dynamic PLAY patterns.",
+  "correct": false
+}

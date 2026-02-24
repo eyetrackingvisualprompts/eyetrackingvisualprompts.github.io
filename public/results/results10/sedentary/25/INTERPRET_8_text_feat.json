@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, rapid saccades between far-apart screen regions (including off-screen/negative coordinates and near top/bottom extremes) with short fixations and repeated revisits resemble scanning a search results page and switching between top-bar, results list, and possibly tabs, matching the SEARCH pattern more than the more localized patterns of code, reading, or videos/games.",
+  "correct": false
+}

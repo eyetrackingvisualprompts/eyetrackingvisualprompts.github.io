@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a tight horizontal band around mid-screen (y\u22480.55\u20130.7) with many short left\u2013right saccades and medium-length fixations, plus occasional vertical shifts that resemble moving between text lines or sections. The pattern closely matches the provided READ examples and is more regular and line-based than the broader, more exploratory patterns seen in SEARCH or BROWSE, and lacks the large eccentric excursions typical of PLAY or WATCH.",
+  "correct": false
+}

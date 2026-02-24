@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze stays mostly within a narrow central band with occasional brief vertical excursions, matching the relatively stable, code-focused pattern of INTERPRET rather than the larger shifts of debugging, browsing, or gameplay.",
+  "correct": false
+}

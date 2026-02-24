@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a mid\u2011lower code/editor region with repeated short horizontal scans and returns between nearby lines/areas, plus occasional jumps to upper regions and back\u2014closely matching the WRITE example\u2019s pattern of working within a code editor, rather than the more dispersed, vertical, or full\u2011screen patterns seen in BROWSE, SEARCH, or WATCH, or the tighter text\u2011line structure of READ.",
+  "correct": false
+}

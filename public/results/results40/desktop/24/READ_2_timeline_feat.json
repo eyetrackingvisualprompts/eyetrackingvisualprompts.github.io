@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gradual upward drift in X-fixation from left toward center with relatively low, slowly varying Y-fixation near the lower-middle of the screen matches the pattern of typing/writing on a document, similar to the WRITE example and distinct from the more vertical scanning in READ or dispersed movements in BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations clustered around code-like regions (y\u2248350\u2013480) with many short saccades between nearby positions, interspersed with occasional large jumps to top-of-screen coordinates and back, closely matches the detailed, back-and-forth inspection and verification patterns seen in the DEBUG examples rather than the more linear (READ/WRITE) or more dispersed (BROWSE/SEARCH/PLAY/WATCH) gaze behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze positions show irregular, multidirectional movements with variable amplitudes and no clear, repeated horizontal or random-step pattern with 1 s plateaus. They are not tightly clustered at a single point (fixation), nor do they exhibit the systematic line-by-line horizontal sweeps typical of reading or the discrete target-to-target jumps of controlled saccade tasks, which best matches free-viewing of dynamic video content.",
+  "correct": false
+}

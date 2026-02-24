@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen areas (including corners and off-center regions), rapid revisits between dispersed locations, and strong presence of upper/lower field and edge fixations match dynamic object-tracking and navigation typical of gameplay rather than the more localized, line- or code-structured patterns seen in reading, coding, or web search/debug tasks.",
+  "correct": true
+}

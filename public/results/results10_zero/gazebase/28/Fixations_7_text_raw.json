@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show many discrete relocations to new positions followed by ~1-second clusters of relatively stable points, with movements of several degrees in both horizontal and vertical directions and no strict left-right pattern. This matches the behavior of following a target that jumps to random 2\u201315\u00b0 positions and holds for 1 s (Random Saccades), rather than the continuous horizontal motion of Horizontal Saccades or the more localized, content-driven patterns of Reading, Video Viewing, Balura Game, or the near-constant position of Fixations.",
+  "correct": false
+}

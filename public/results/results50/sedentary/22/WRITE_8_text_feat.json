@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates frequently between a compact upper-left code region (around x<250,y<200) and a lower area (y\u2248480\u2013520) consistent with output/console or editor bottom, with many short revisits and vertical jumps rather than the long horizontal sweeps of reading or the stable mid-screen scan lines of browsing/search. This pattern closely matches the WRITE example, where participants repeatedly look between code lines and other interface elements while typing and checking results.",
+  "correct": true
+}

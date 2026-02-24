@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze positions remain within a narrow central band with small, infrequent saccades and minimal large-scale exploration, closely matching the stable, code-focused pattern seen in the INTERPRET example rather than the more dynamic movements of tasks like SEARCH, PLAY, or DEBUG.",
+  "correct": true
+}

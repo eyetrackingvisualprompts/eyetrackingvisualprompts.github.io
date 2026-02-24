@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades across distant screen regions and even off-screen coordinates, alternating between top bar/URL region and central content, match exploratory navigation and query/result checking typical of search engine use rather than localized reading, coding, or continuous tracking.",
+  "correct": false
+}

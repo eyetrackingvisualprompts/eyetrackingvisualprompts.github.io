@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations show moderate horizontal movement with vertical shifts between mid and upper screen, plus frequent saccades\u2014matching scan patterns between query box, results list, and browser controls typical of SEARCH, and differing from the tighter central BROWSE pattern and the more linear READ traces.",
+  "correct": false
+}

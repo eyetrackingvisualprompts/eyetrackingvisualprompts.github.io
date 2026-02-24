@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows repeated vertical shifts between two horizontal bands with relatively stable x-positions, resembling back-and-forth checking between code and output/other areas, which matches the DEBUG example pattern most closely.",
+  "correct": false
+}

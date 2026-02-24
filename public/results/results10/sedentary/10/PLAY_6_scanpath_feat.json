@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact region in the left-center similar to INTERPRET and DEBUG, but with denser, overlapping fixations and fewer horizontal shifts than DEBUG, matching focused code inspection to infer output rather than scanning widely to fix errors.",
+  "correct": false
+}

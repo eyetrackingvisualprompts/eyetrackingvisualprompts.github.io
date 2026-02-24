@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between several horizontal bands (likely text lines) with frequent medium-amplitude saccades across wide x-ranges and substantial vertical shifts, suggesting scanning and shifting between different page regions rather than sustained focus on a central area (WATCH/PLAY) or tight code blocks (WRITE/DEBUG/INTERPRET). The broad, less-structured exploration pattern fits free web browsing behavior.",
+  "correct": false
+}

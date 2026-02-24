@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows several distinct vertical transitions between code and output/console regions and a sharp transient spike around 8 s, resembling attention shifts seen when locating and testing bugs, which matches the DEBUG example pattern more than the other tasks.",
+  "correct": false
+}

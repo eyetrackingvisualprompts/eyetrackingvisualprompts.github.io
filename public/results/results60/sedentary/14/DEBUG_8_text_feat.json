@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across widely separated screen regions (including off-center coordinates), mixed with medium-length fixations and irregular scanning patterns, closely match the heterogeneous, exploratory gaze behavior seen in the BROWSE examples rather than the more line-structured patterns of READ/WRITE/INTERPRET or the focused central patterns of WATCH/PLAY.",
+  "correct": false
+}

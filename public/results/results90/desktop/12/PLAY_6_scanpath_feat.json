@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in a moderately central region with frequent saccades among multiple nearby locations, resembling the example SEARCH pattern more than the linear reading pattern or the more dispersed browse/watch/play paths, indicating scanning of search results and related interface elements.",
+  "correct": false
+}

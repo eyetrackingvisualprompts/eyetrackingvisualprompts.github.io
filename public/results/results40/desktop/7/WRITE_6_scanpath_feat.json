@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal left-to-right saccades within a narrow vertical band, with dense fixations forming line-like patterns, characteristic of reading text rather than the more scattered or vertically varied patterns seen in browsing, searching, watching, playing, or writing.",
+  "correct": false
+}

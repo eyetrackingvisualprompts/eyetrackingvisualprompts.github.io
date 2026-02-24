@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern consists of relatively short fixations with small-to-moderate saccades clustering around a narrow area, suggesting line-by-line inspection of text rather than large exploratory movements (BROWSE/SEARCH) or stimulus-driven tracking (PLAY/WATCH). The stable, localized scanning without clear code-structure jumps (between editor, console, etc.) aligns more with continuous reading than with code-centric tasks like WRITE/INTERPRET/DEBUG.",
+  "correct": false
+}

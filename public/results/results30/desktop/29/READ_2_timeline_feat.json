@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster near screen center with small, frequent multidirectional saccades and modest vertical drift, closely matching the browsing example pattern rather than the more structured horizontal scans of reading/searching or the larger excursions seen in play/watch/write.",
+  "correct": false
+}

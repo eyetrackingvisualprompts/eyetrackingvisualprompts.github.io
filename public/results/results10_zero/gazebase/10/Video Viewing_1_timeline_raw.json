@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between multiple distinct positions both horizontally (up to ~\u00b115\u00b0) and vertically (~\u00b19\u00b0) with relatively stable plateaus lasting about 1 s between rapid transitions, matching the pattern of following a randomly moving target that steps to new locations and holds there briefly.",
+  "correct": false
+}

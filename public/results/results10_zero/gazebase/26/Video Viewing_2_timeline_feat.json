@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions show step-like changes in both horizontal and vertical directions, with the target holding roughly constant for about 1-second intervals before jumping to new locations across a broad 2D range, matching the behavior of following a randomly moving bull\u2019s-eye rather than purely horizontal motion, static fixation, reading, game-driven or natural video viewing patterns.",
+  "correct": false
+}

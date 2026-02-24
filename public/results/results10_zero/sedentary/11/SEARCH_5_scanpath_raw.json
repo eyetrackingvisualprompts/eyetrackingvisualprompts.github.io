@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows several large, rapid gaze shifts between distant screen regions combined with localized clusters of fixations, a pattern consistent with tracking dynamic game elements and UI areas rather than the more linear or localized patterns expected in reading, coding, or watching video tasks.",
+  "correct": false
+}

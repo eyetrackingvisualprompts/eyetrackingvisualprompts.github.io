@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, clustered fixations on the left code area with frequent revisits and occasional long saccades to the right output/console region closely match the DEBUG example pattern, where attention alternates between code and execution results while hunting for errors.",
+  "correct": false
+}

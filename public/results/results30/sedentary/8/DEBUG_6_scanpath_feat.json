@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact region with many short, overlapping fixations and small saccades, similar to focused inspection of code in one window; pattern closely matches the DEBUG example and differs from broader horizontal READ/BROWSE patterns or dispersed PLAY/WATCH behavior.",
+  "correct": true
+}

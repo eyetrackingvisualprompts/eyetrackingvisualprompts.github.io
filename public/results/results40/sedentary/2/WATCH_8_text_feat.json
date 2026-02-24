@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across extreme screen regions (including off-screen coordinates), many vertical jumps between top and bottom, and scattered fixations at varied y-levels resemble free web browsing patterns more than the more structured, row-like reading or localized code-related tasks.",
+  "correct": false
+}

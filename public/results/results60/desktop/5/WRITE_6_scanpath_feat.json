@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across a mid-screen region with frequent shifts between multiple clusters, indicating alternating attention between query, results, and other elements, which best matches the SEARCH pattern compared with the more localized patterns of READ/WRITE or the different distributions for BROWSE/PLAY/WATCH.",
+  "correct": false
+}

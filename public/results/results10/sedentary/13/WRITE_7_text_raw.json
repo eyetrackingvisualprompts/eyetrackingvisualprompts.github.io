@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are clustered around a mid-screen code-like region with frequent short saccades and revisits to nearby coordinates, plus occasional jumps to far-off positions (e.g., console, file tree), closely matching the WRITE examples\u2019 dense, local coding-IDE pattern rather than the more linear READ/BROWSE scans or dynamic PLAY/WATCH movements.",
+  "correct": true
+}

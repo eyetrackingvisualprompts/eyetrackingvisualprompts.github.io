@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions exhibit step-like transitions to various discrete locations across the screen, with positions held for about one second before jumping to a new, irregularly spaced location in both axes, matching the behavior of following a randomly moving target rather than strictly horizontal motion, static fixation, reading, game-driven selective fixations, or natural video viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are widely distributed across central screen regions with frequent shifts between upper and lower areas and varied horizontal movements, resembling the mixed scan of results lists, snippets, and query box seen in the SEARCH example more than the more localized or structured patterns of READ, WRITE, WATCH, PLAY, or BROWSE.",
+  "correct": false
+}

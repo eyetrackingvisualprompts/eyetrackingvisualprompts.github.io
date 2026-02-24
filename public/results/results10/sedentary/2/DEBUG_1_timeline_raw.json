@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y show large, abrupt jumps between several horizontal bands along with periods of mid-level scanning, closely matching the varied, multi-region exploration pattern seen in the BROWSE example rather than the more constrained or structured patterns of the other tasks.",
+  "correct": false
+}

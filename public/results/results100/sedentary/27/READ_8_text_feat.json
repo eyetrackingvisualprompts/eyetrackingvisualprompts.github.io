@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between a high horizontal band across the page and the very top edge, with long, smooth horizontal sweeps and periodic large vertical jumps that resemble scrolling to new regions. The pattern lacks the dense, line-by-line small fixations of READ and the focal code-window behavior of WRITE/DEBUG/INTERPRET, and instead matches the broad, webpage-like scan and revisit behavior seen in the BROWSE examples, including repeated excursions to off-screen or browser-UI coordinates (negative y / very top rows).",
+  "correct": false
+}

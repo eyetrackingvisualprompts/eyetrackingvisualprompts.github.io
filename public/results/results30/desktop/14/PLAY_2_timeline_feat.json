@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large vertical excursions and broad horizontal coverage with relatively long, stable fixation bands that shift between upper and middle screen regions, matching the video-watching example more than the tighter, text- or interface-centered patterns of READ, WRITE, SEARCH, BROWSE, or the more extreme multi-directional motions of PLAY.",
+  "correct": false
+}

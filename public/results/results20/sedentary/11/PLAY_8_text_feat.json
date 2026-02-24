@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades between widely separated regions (center, top, bottom of screen), including off-center vertical excursions and revisits, indicate exploratory scanning of a complex page rather than structured line-by-line reading or code-focused work; this heterogeneous, navigation-like pattern best matches free web browsing behavior.",
+  "correct": false
+}

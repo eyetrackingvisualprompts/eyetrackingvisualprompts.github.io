@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Predominantly focused, repeated fixations within a compact central code region (x\u2248200\u2013400,y\u2248230\u2013380) with back\u2011and\u2011forth revisits to a few lines and variables, plus occasional jumps to other parts of the code, match the structured inspection pattern of reasoning about a given snippet\u2019s behavior rather than the broader scanning in DEBUG/SEARCH or the more horizontal sweeps in READ/WRITE.",
+  "correct": false
+}

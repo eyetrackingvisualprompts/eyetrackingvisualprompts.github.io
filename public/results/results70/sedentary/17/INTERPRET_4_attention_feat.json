@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on the upper-left code area with vertical spread similar to other programming tasks; the pattern closely resembles the WRITE example, showing sustained attention in a single column without the additional top/bottom exploration seen in DEBUG or INTERPRET.",
+  "correct": false
+}

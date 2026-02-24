@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact region typical of reading/code-editing with occasional vertical excursions downward and back up, resembling shifts between code and output/console, matching the WRITE example more than other activities.",
+  "correct": true
+}

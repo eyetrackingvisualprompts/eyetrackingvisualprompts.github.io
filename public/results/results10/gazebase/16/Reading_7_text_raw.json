@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze trajectory shows predominantly left-to-right, line-like progressions at fairly constant vertical levels with small intra-line jitter and occasional larger horizontal shifts, matching the structured scanpath patterns in the Reading example rather than the larger, more dispersed movements seen in game, saccade, or free-viewing tasks.",
+  "correct": true
+}

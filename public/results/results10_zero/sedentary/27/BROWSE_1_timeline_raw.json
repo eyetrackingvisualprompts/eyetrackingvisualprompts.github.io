@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long stable horizontal plateaus and occasional coordinated shifts in both X and Y without systematic line-by-line scanning or clustered code-area fixations, matching continuous attention to changing screen regions typical of watching a video rather than reading, coding, or interactive tasks.",
+  "correct": false
+}

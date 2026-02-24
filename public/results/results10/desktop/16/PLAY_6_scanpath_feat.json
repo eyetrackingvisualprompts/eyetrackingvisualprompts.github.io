@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows clustered fixations around a central area with frequent saccades branching to distinct regions, similar to the SEARCH example where users inspect a main results area then jump to other parts of the page, rather than the more linear (READ/WRITE) or localized (WATCH/PLAY/BROWSE) patterns.",
+  "correct": false
+}

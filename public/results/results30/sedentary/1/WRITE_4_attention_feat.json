@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact horizontal band on the left side, matching the focused code-region pattern of INTERPRET rather than the more vertically spread scans seen in DEBUG, WRITE, or other tasks.",
+  "correct": false
+}

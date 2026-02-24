@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated on a compact code-area region in the upper-left, similar to the INTERPRET example, with some scattered fixations elsewhere but no wide horizontal reading or central game-following pattern, indicating focused inspection of a code snippet to understand its behavior.",
+  "correct": false
+}

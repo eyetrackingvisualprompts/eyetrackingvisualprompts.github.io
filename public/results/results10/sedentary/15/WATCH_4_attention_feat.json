@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically over the left\u2013center region with multiple mid-density clusters, resembling scanning of search results and snippets rather than the tight central code clusters of INTERPRET/DEBUG or the broader dispersion in PLAY/WATCH/BROWSE.",
+  "correct": false
+}

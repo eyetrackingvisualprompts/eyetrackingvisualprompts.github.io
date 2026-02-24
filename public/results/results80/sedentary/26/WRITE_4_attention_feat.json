@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in the upper-left code area with a horizontal band, matching the WRITE example\u2019s focused attention on the implementation region, plus a few checks elsewhere (e.g., console or reference) rather than the more vertical concentration of DEBUG or INTERPRET.",
+  "correct": true
+}

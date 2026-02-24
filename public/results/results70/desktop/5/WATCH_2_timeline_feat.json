@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen X with moderate variability and scattered saccades, while Y shows two main vertical bands and irregular shifts, matching the mixed, non-linear scanning typical of web browsing rather than the more systematic patterns of reading or searching, or the larger excursions of play/watch/write.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a tight cluster near the lower-central screen (y\u22480.18\u20130.24) with long stable fixations and minimal scanning, indicating sustained attention to a localized visual element (e.g., subtitle or focal area in a video), which best matches the WATCH pattern compared with the more extensive horizontal/vertical scanning seen in READ, SEARCH, BROWSE, or PLAY, and the edge/top bias of WRITE.",
+  "correct": false
+}

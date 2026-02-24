@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, frequent shifts in both X and Y around central screen regions without strong vertical progression or large directional sweeps, closely matching the heterogeneous, scattered pattern characteristic of web/news browsing rather than more structured patterns seen in reading, writing, searching, watching videos, or gameplay.",
+  "correct": true
+}

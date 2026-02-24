@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered over a compact central-left code area with occasional vertical shifts and one long saccade to the bottom-right region, resembling attention between code and output/console typical of debugging rather than more uniform reading or dispersed browsing/play patterns.",
+  "correct": false
+}

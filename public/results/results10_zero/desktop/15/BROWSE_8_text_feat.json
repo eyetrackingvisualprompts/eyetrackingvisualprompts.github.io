@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze behavior shows sequences of short horizontal saccades with medium-length fixations clustered in a band around mid-screen, consistent with line-by-line reading of text, plus occasional longer saccades to different vertical positions that match transitions between text regions rather than the more scattered or highly dynamic patterns typical of SEARCH, BROWSE, PLAY, or WATCH.",
+  "correct": false
+}

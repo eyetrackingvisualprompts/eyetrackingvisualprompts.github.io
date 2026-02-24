@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows a gradual downward shift of Y early on, followed by an upward move and then relatively stable high Y, while X slowly drifts right with moderate saccades\u2014matching the mixed vertical scanning then focused region typical of web search result exploration, and differing from the more regular line-by-line READ and the more variable WATCH/PLAY patterns.",
+  "correct": true
+}

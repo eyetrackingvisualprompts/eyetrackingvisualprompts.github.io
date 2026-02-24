@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a compact central region with many medium-length fixations and short, local saccades, consistent with repeatedly inspecting a small code snippet rather than scanning long text lines (READ) or large, dynamic areas (PLAY/WATCH/BROWSE/SEARCH). The pattern closely resembles the INTERPRET example, where attention cycles over a limited code area to understand behavior rather than making the broader navigational jumps typical of DEBUG or WRITE.",
+  "correct": false
+}

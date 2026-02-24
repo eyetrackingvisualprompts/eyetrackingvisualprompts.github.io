@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (often to screen edges and corners), rapid revisits to central zones, and irregular scanning without clear line-by-line structure resemble dynamic tracking of game elements more than the more structured, line-oriented or code-oriented patterns seen in READ/WRITE/DEBUG/INTERPRET or the relatively smoother, scene-focused WATCH behavior.",
+  "correct": true
+}

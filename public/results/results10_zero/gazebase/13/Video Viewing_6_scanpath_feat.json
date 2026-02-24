@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete, well-separated fixation clusters with large saccades between a few distinct target locations spread across the screen, consistent with following a randomly jumping target rather than continuous tracking, central fixation, reading lines, or structured game interactions.",
+  "correct": false
+}

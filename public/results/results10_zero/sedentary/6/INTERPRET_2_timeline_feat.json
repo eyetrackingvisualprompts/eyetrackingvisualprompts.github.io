@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near the horizontal center with very small vertical changes and short, local saccades, indicating stable central viewing rather than line-by-line reading, code inspection, or wide exploratory scanning; this pattern best matches passively watching a full-screen video.",
+  "correct": false
+}

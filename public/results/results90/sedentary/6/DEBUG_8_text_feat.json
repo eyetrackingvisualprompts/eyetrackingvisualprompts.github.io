@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude vertical and diagonal saccades between top and bottom (and even off-screen regions), many visits to far screen corners and outside coordinates, short-to-moderate fixations, and repeated jumps between central text-like bands and UI-like extremes resemble exploratory navigation of web pages (scrolling, checking menus, ads, tabs) rather than the more line-structured patterns of READ/WRITE or the localized code-focused patterns of INTERPRET/DEBUG. The pattern closely matches the provided BROWSE examples with similar off-screen excursions and dispersed fixation clusters.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a horizontally elongated band in the middle of the screen, similar to line-by-line reading behavior and closely matching the READ example heatmap, rather than the more localized or dispersed patterns of the other activities.",
+  "correct": true
+}

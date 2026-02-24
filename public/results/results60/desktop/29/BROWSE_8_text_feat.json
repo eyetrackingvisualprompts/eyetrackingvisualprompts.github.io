@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly in upper-mid vertical region with frequent medium-amplitude vertical shifts between ~0.5\u20130.8 and horizontal moves around the screen center, resembling scanning SERP titles/snippets and moving between result list and upper interface elements, which matches the SEARCH exemplars more than the more central, line-locked READ pattern or the more dispersed BROWSE/PLAY/WATCH behaviors.",
+  "correct": false
+}

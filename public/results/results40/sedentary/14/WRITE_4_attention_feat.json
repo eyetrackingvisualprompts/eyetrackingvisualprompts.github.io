@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left code area with a horizontal line across one row, plus intermittent shifts to a cluster on the right side (likely console/output or error panel), matching the debugging pattern more than the other tasks.",
+  "correct": false
+}

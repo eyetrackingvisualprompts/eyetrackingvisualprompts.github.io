@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic horizontal scan patterns with relatively stable Y fixation that slowly drifts, characteristic of line-by-line reading, and resembles the READ example plot more than the other task patterns.",
+  "correct": false
+}

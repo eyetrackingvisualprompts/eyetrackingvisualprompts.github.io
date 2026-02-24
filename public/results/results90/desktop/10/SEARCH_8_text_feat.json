@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-upper screen with frequent short saccades and moderate fixations, plus repeated jumps between upper content and mid-screen regions\u2014matching scrolling and scanning behavior seen in BROWSE examples rather than the more line-structured horizontal patterns of READ or the more central, less task-switchy patterns of WATCH/PLAY.",
+  "correct": false
+}

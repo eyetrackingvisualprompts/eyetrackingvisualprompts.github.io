@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long sequences of horizontal scan-like movements at several vertical levels interleaved with large, rapid jumps to widely separated regions (including off-screen coordinates and extreme corners) and repeated returns to mid-page areas closely resemble the heterogeneous navigation and scrolling behavior seen in the BROWSE examples, rather than the more structured text lines of READ or the focused code regions of programming tasks.",
+  "correct": false
+}

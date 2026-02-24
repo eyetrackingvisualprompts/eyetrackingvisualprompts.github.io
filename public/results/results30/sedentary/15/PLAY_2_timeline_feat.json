@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows repeated horizontal sweeps in X with stepwise downward shifts in Y over time, characteristic of line-by-line reading of text rather than the more erratic or exploratory patterns seen in browsing, search, or gameplay.",
+  "correct": false
+}

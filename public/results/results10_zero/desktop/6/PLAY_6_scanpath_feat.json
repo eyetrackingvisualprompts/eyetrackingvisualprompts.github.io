@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered around a central horizontal band with short saccades and repeated fixations in a small region, typical of reading a localized portion of text rather than the broader exploratory or large-amplitude movements seen in browsing, searching, watching videos, gaming, or writing (which also involves more vertical shifts toward the keyboard/UI elements).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions are relatively centered with small, regular horizontal movements and moderate vertical shifts, resembling line-by-line text scanning, which best matches the reading pattern compared to the more scattered or extreme movements seen in other activities.",
+  "correct": false
+}

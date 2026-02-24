@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Extended periods of horizontal fixations around a mid-screen line with scroll-like shifts, revisits to top-of-page header area, and large saccades between mid-page content and upper coordinates match web search/result-page inspection patterns seen in SEARCH examples, rather than the more localized, code-centric patterns of WRITE/DEBUG/INTERPRET or the smoother narrative scanning of READ/BROWSE.",
+  "correct": true
+}

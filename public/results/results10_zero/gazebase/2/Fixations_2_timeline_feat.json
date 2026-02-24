@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain essentially constant at the screen center over the full 10-second window, with no large horizontal or vertical excursions or sequential target positions, matching sustained fixation on a static central target.",
+  "correct": true
+}

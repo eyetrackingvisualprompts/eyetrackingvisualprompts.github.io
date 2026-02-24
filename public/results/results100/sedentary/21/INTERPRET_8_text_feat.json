@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is densely clustered over a compact central code-like area with frequent short saccades and many medium/long fixations, including repeated revisits to the same lines and back-and-forth between two vertical bands\u2014matching the pattern in INTERPRET examples where participants repeatedly inspect and mentally simulate a short code snippet, rather than the broader scanning (SEARCH/BROWSE), continuous scene tracking (WATCH/PLAY), or longer vertical spans typical of READ/WRITE/DEBUG.",
+  "correct": true
+}

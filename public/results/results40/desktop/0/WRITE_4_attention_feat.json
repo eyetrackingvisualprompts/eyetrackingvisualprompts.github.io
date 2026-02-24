@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around a small central region without the horizontal scan pattern of reading or the wider dispersion seen in play/watch/search; this focused area resembles the browsing example heatmap where attention centers on a specific content block of a webpage.",
+  "correct": false
+}

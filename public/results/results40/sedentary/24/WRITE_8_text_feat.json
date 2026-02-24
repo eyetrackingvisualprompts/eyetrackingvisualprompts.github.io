@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small central area with many medium-length fixations and short revisits between nearby code-like locations (horizontal band ~200\u2013450px, repeated back-and-forth over lines/columns), plus occasional long saccades to the far right consistent with glancing at console or UI panels. The pattern closely matches the WRITE examples\u2019 dense, local code inspection and cursor/IDE interaction rather than the more global scanning of SEARCH/BROWSE or the more static line-wise progression of READ.",
+  "correct": true
+}

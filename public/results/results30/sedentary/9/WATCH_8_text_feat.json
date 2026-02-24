@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across widely separated screen regions (top, middle, bottom), revisits to multiple dispersed areas, and prolonged fixations on scattered locations resemble exploratory scanning of a web page rather than the more line-structured patterns of READ or the tighter, code-centered clusters of programming tasks; dynamics are also less object-following than PLAY and more varied than WATCH or SEARCH examples, matching BROWSE behavior.",
+  "correct": false
+}

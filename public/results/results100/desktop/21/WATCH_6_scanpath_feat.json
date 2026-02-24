@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are distributed over a broad central area with frequent shifts between multiple regions, resembling the mixed vertical and horizontal scanning seen in the BROWSE example rather than the more constrained patterns of READ or WRITE or the more lateral WATCH/PLAY paths.",
+  "correct": false
+}

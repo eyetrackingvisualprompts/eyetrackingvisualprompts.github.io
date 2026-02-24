@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements within a narrow vertical band, resembling line-by-line progression with small regressions, which matches the characteristic pattern of reading compared with the more scattered or wide-ranging movements of browse, search, play, watch, and write.",
+  "correct": false
+}

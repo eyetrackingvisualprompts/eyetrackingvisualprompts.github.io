@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points form a relatively narrow horizontal band with smooth, continuous movements and no clear line-by-line reading pattern or large vertical jumps typical of scanning pages or code. This suggests following visual content across the screen over time, consistent with watching a video rather than reading, coding, searching, or browsing.",
+  "correct": false
+}

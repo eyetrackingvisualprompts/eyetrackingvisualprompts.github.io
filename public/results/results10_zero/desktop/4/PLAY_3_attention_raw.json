@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a relatively compact central focus with moderate spread across the mid-screen area, consistent with watching dynamic video content where gaze stays near the center but shifts with scene motion, rather than the more linear (READ/WRITE) or edge-and-top biased (BROWSE/SEARCH) patterns, or the wider, more dispersed coverage typical of PLAY.",
+  "correct": false
+}

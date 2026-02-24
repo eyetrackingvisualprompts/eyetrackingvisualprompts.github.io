@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are tightly clustered in a relatively small region with modest vertical spread and small horizontal range, indicating focused attention on a localized area of the screen consistent with typing in a word processor rather than scanning lines of text or exploring multiple screen regions as in reading, browsing, searching, watching, or playing games.",
+  "correct": false
+}

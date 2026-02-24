@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight, horizontally elongated band with minimal vertical movement, characteristic of line-by-line reading rather than the broader, multidirectional exploration seen in search, browse, watch, write, or play tasks.",
+  "correct": true
+}

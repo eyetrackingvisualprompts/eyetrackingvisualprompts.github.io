@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-to-large horizontal shifts with substantial vertical variation across the whole interval, resembling continuous object tracking and spatial exploration rather than structured reading or code-focused tasks; this pattern best matches the PLAY activity examples.",
+  "correct": false
+}

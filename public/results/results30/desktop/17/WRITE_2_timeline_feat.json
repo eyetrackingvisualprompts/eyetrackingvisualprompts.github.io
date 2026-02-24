@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude shifts in both X and Y with scattered fixations across a broader vertical range than typical reading, suggesting exploration of multiple screen regions such as results lists and page elements, consistent with search behavior rather than focused reading, writing, or video watching.",
+  "correct": false
+}

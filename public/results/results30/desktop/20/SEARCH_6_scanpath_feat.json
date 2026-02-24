@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered around the screen center with frequent multidirectional saccades and revisits, resembling the exploratory, central-focused pattern of the SEARCH example more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a relatively compact region slightly right of center with moderate vertical spread, resembling scanning of a central content block on a webpage, which matches the BROWSE example pattern more than the more linear patterns of READ/WRITE or the edge-focused patterns of WATCH/PLAY.",
+  "correct": false
+}

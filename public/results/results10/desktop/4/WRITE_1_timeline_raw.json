@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions are smooth with small, slow drifts and very few abrupt jumps, indicating mostly stable fixation on a central area with minor movements\u2014this pattern best matches passively watching a video rather than the more systematic scans (READ/WRITE/SEARCH/BROWSE) or large directional shifts (PLAY).",
+  "correct": false
+}

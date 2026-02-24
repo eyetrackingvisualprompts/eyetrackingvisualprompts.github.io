@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades to off-screen/edge coordinates, repeated jumps between far-separated regions (top bar, central, bottom), and scanning-like horizontal passes across mid-screen resemble web browsing/navigation patterns more than focused code, text reading, or game tracking behaviors.",
+  "correct": false
+}

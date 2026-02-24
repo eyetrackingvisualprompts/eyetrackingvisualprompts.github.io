@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are dispersed across the screen in a scattered pattern without clear horizontal banding (reading) or strong clustering near one side (game, video). The distribution most closely matches the example of Random Saccades with multiple discrete fixation hotspots at varying positions.",
+  "correct": false
+}

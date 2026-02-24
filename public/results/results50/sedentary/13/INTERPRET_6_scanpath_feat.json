@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact code-like area on the left, with frequent small saccades and revisits but no long-range jumps to the right side of the screen, matching the focused, localized inspection typical of debugging rather than the more dispersed or horizontal patterns of browsing, reading, or watching.",
+  "correct": false
+}

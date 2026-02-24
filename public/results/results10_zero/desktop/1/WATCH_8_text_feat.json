@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shifts cover a wide 2D area (center, upper, lower regions) with medium-length fixations and multidirectional saccades, without the systematic horizontal sweep of reading or the tight focal clusters and rapid corrections typical of typing or gameplay. This broad, exploratory yet somewhat anchored pattern aligns best with watching video content involving moving elements and possibly multiple characters on screen.",
+  "correct": true
+}

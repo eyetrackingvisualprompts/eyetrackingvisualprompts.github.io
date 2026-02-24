@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, line-like horizontal sweeps across a stable vertical band (y \u2248 160\u2192260\u2192300\u2192340\u2192400\u2192500\u2192600\u2192700\u2192800\u2192900), with short progressive and occasional regressive saccades along each band\u2014characteristic of reading text laid out in lines, rather than the more clustered code-region patterns of INTERPRET/DEBUG/WRITE or the object-following and large jumps typical of PLAY/WATCH/BROWSE/SEARCH.",
+  "correct": true
+}

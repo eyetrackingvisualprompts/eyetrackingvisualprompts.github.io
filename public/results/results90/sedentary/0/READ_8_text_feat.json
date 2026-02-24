@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a few nearly horizontal bands with systematic left\u2013right sweeps and short regressions at y\u2248160\u2013220, 250\u2013310, 270\u2013380, etc., matching line-by-line text reading. Movements are smooth across these lines with long fixations and no object-following or large exploratory jumps characteristic of PLAY, WATCH, BROWSE, or SEARCH, nor the tight code-window clustering seen in INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

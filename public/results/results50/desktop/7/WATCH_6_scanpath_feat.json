@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in a relatively small central-lower region with multidirectional short saccades and no clear horizontal reading lines, resembling the more focused yet exploratory scanpath of the SEARCH example rather than the broader, top-area distributions of WATCH/WRITE or structured horizontal patterns of READ.",
+  "correct": false
+}

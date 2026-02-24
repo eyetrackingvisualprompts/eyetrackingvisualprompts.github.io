@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains in a mid-upper vertical band with modest horizontal shifts, combining medium\u2013long fixations and frequent small saccades across a confined central area. This pattern matches scrolling and scanning of web/news content seen in the BROWSE examples, and differs from the more line-structured horizontal reading, the large vertical excursions in SEARCH, and the more peripheral or highly dynamic movements in WATCH, PLAY, or WRITE.",
+  "correct": false
+}

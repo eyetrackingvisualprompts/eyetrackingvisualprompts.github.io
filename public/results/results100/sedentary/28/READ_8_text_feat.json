@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in highly regular horizontal sweeps with short regressions, slowly shifting downward in discrete bands (y\u2248180\u2192270\u2192300\u2192340\u2192370\u2192400\u2192450\u2192500\u2192580\u2192620\u2192650), matching line-by-line text reading. Saccades are mostly left-to-right within a constrained vertical strip, without large exploratory jumps or off-screen movements characteristic of SEARCH, BROWSE, PLAY, or WATCH. This spatial-temporal structure best aligns with the READ pattern shown in the examples.",
+  "correct": true
+}

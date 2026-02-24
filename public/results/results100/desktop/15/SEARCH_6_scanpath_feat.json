@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze cluster is centered mid-screen with moderate dispersion and frequent shifts within a confined region, closely resembling the browsing example pattern rather than the more linear READ or WATCH trajectories or the more left-top-focused WRITE pattern.",
+  "correct": false
+}

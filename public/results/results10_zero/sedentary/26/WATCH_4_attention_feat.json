@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a small number of compact fixation clusters concentrated in a few distinct regions, suggesting focused inspection of short, localized content (e.g., code snippet and output area) rather than extensive reading, browsing, or continuous tracking typical of games or video. This pattern aligns best with the INTERPRET task, where participants examine limited parts of a code segment to deduce its output.",
+  "correct": false
+}

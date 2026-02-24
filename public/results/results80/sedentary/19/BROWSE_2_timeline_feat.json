@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows periods of horizontal reading-like scans interspersed with large vertical shifts and varied saccades, indicating alternating attention between result lists and other page regions, which matches the SEARCH pattern more than the steadier code-focused or video/reading behaviors.",
+  "correct": false
+}

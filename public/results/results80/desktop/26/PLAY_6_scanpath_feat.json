@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around the screen center with moderate vertical spread and frequent, multidirectional saccades, closely matching the example BROWSE pattern rather than the more constrained READ/WRITE or more dispersed WATCH/PLAY patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains essentially at the screen center with minimal variation in both X and Y, aside from brief artifacts, matching the stable central fixation pattern of the Fixations class rather than the larger, structured movements seen in other tasks.",
+  "correct": true
+}

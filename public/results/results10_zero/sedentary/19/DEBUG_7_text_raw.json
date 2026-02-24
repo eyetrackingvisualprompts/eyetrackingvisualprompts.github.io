@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves continuously over a wide vertical range (including screen center, near top, and far bottom) with smooth shifts rather than line-by-line horizontal scanning or localized code/text inspection, consistent with following dynamic visual content in a full-screen video rather than reading, coding, or structured web interaction.",
+  "correct": false
+}

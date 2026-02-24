@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large vertical shifts between upper and lower screen regions, irregular horizontal movements, and varied saccades, matching the heterogeneous scanning behavior seen in the BROWSE example rather than the more structured or focused patterns of tasks like READ, WATCH, or WRITE.",
+  "correct": false
+}

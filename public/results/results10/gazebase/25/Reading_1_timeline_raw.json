@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The X position shows repeated left-to-right staircase patterns with return sweeps, while Y position drifts slowly downward across the page\u2014this matches line-by-line reading behavior rather than discrete target tracking or random viewing.",
+  "correct": true
+}

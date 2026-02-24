@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows long, smooth, continuous saccades across large screen regions and into the lower area, with short fixations\u2014consistent with following or anticipating moving game elements rather than structured line-by-line reading or code inspection patterns seen in READ/WRITE/DEBUG/INTERPRET/BROWSE/SEARCH, or more localized watching in WATCH.",
+  "correct": false
+}

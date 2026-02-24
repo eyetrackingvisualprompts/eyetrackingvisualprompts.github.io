@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around screen center with short-to-moderate fixations and many small bidirectional saccades, including frequent revisits within a compact region and some vertical excursions\u2014matching the dense, central, scanning pattern of BROWSE, and unlike the more line-structured READ, peripheral WRITE, or more dispersed PLAY/WATCH patterns.",
+  "correct": false
+}

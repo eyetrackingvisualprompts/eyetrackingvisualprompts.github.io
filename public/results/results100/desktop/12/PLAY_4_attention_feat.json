@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central region with moderate horizontal spread and limited vertical movement, resembling the browsing example more than the structured horizontal band of READ or the peripheral focus of WRITE/WATCH/PLAY.",
+  "correct": false
+}

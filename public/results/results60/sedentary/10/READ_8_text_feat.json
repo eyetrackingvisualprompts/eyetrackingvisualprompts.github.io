@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a broad vertical band and smoothly follows horizontally moving regions with long, steady fixations and moderate saccades, indicative of tracking dynamic visual content rather than scanning text/code or jumping between UI elements. This spatio\u2011temporal pattern aligns best with the WATCH examples of viewing full\u2011screen video.",
+  "correct": false
+}

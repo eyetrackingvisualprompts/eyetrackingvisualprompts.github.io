@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The fixation heatmap shows two distinct, horizontally separated clusters at similar vertical positions, indicating repeated gaze shifts between two fixed horizontal locations consistent with following a horizontally moving target rather than central fixation, random movements, reading, gaming, or natural video viewing.",
+  "correct": true
+}

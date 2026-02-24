@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are densely clustered over a single left-side code region with some limited spread slightly rightward, closely resembling the DEBUG example heatmap more than the other tasks, which show either more central, reading-like, or widely distributed patterns.",
+  "correct": true
+}

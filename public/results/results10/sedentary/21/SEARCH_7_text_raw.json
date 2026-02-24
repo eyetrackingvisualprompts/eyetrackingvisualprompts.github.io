@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a dense horizontal band in the lower half of the screen with smooth, progressive shifts along and between nearby positions, closely matching the late-episode reading pattern in the READ example rather than the more dynamic, object-following or scattered patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in the upper-left coding/IDE area with occasional long saccades to a secondary region, matching the pattern of inspecting and correcting code seen in the DEBUG example rather than the more localized INTERPRET pattern or broader exploration of other tasks.",
+  "correct": false
+}

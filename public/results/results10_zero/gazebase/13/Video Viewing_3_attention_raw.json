@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze is concentrated along a narrow horizontal band near the vertical center with several distinct fixation clusters spaced horizontally, indicating repeated left\u2013right movements of a target rather than a single central fixation or complex multi-directional pattern.",
+  "correct": false
+}

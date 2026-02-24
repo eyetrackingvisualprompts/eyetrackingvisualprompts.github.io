@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is nearly static with very small drifts and minimal saccades over the full 10 s, indicating sustained attention to a central area of the screen, which best matches passively watching a video rather than tasks that involve reading, searching, or code interaction that would show more frequent and structured eye movements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows mostly centralized, stable horizontal positions with occasional sharp vertical saccades, closely matching the INTERPRET example pattern of focused code reading with brief shifts to other screen elements, and differing from the larger, more exploratory movements seen in SEARCH, DEBUG, or PLAY.",
+  "correct": false
+}

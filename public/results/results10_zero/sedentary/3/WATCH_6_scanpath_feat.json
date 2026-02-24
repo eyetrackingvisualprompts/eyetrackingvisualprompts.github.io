@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows relatively large saccades between a few key regions and sustained fixations, with gaze shifts primarily tracking across the screen rather than following dense text lines or code structures. This pattern is more consistent with watching dynamic visual content than with reading, coding-related tasks, or active interaction like playing or searching.",
+  "correct": true
+}

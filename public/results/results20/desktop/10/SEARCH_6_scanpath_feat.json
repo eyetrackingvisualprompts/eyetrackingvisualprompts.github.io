@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed over a relatively wide central-upper area with multiple clusters and transitions, resembling the example SEARCH pattern more than the tighter clusters in BROWSE or the more linear sweeps in READ/WATCH/PLAY.",
+  "correct": true
+}

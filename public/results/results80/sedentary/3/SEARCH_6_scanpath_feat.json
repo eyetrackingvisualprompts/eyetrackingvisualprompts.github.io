@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is heavily clustered over a narrow left\u2011center area consistent with a code editor, with occasional long saccades to the right and lower regions resembling brief console or reference checks\u2014matching the WRITE example more than other tasks.",
+  "correct": false
+}

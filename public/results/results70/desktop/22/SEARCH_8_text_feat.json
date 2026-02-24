@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is centered around mid-screen with frequent medium-to-large vertical shifts between mid and lower regions, rapid relocations to corners, and irregular revisit patterns\u2014indicative of dynamic scene monitoring and target tracking typical in gameplay rather than the more stable, line-based or columnar patterns seen in reading, writing, browsing, or search interfaces.",
+  "correct": false
+}

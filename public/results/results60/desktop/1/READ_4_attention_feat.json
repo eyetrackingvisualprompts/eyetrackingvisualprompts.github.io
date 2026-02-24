@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern is a horizontally extended band at mid-screen height with sequential fixations, characteristic of line-by-line reading, closely matching the READ example heatmap and differing from the more clustered or vertically varied patterns of other activities.",
+  "correct": true
+}

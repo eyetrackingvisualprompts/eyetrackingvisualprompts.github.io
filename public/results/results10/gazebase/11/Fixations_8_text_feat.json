@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains near the screen center with extremely long, stable fixations (2\u20135+ seconds) and only tiny corrective saccades, matching the central static target fixation pattern rather than dynamic tasks like saccades, reading, game, or video viewing.",
+  "correct": true
+}

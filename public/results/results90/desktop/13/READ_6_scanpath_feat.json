@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster in a mid-screen region with moderate dispersion and multidirectional saccades, similar to browsing/search-type patterns, but the spatial spread and density best match the provided BROWSE example rather than the more central, denser SEARCH example.",
+  "correct": false
+}

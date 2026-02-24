@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal progression with occasional vertical shifts and scattered saccades, resembling scanning between results and snippets rather than continuous line-by-line reading or focused code inspection, matching the SEARCH pattern best among the examples.",
+  "correct": false
+}

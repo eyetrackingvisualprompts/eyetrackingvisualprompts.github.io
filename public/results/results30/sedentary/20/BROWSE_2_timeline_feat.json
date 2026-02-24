@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent moderate horizontal movements with repeated large vertical saccades between code and auxiliary regions, plus relatively stable fixations within bands\u2014closely matching the DEBUG example pattern and differing from the more linear READ/BROWSE sequences or the more dispersed SEARCH/PLAY behaviors.",
+  "correct": false
+}

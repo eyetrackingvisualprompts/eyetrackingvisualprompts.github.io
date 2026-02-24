@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a narrow horizontal band near the top of the screen with very limited vertical dispersion, indicating focused attention on a small code region typical of actively editing/implementing code rather than scanning widely as in debugging, browsing, or reading long text.",
+  "correct": false
+}

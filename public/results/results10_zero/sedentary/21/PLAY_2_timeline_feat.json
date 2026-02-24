@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows many short horizontal fixations with gradual downward shifts in Y, consistent with line-by-line reading rather than concentrated coding (WRITE/DEBUG/INTERPRET), dynamic object tracking (PLAY/WATCH), or scattered exploration (SEARCH/BROWSE).",
+  "correct": false
+}

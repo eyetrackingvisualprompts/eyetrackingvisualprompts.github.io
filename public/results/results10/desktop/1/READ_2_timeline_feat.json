@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions for both X and Y remain near screen center with small, frequent saccades and modest drift, closely matching the browsing example pattern rather than the more directional, structured movements seen in reading, writing, or gaming tasks.",
+  "correct": false
+}

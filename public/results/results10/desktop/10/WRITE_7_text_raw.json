@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight, slowly shifting horizontal band with very small vertical variance around y\u22480.30\u20130.35, consistent with stable line-by-line reading behavior rather than the larger vertical transitions and scattered fixations typical of browsing, searching, or gaming.",
+  "correct": false
+}

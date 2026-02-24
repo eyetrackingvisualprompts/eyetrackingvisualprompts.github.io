@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Large, repeated transitions between widely separated screen regions (including far corners), followed by long, localized inspection around mid-lower code/console area, match the exploratory and verification pattern seen in DEBUG examples rather than the more linear or passive patterns of reading, watching, or browsing.",
+  "correct": false
+}

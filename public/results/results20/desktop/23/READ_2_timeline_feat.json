@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays near screen center with small, frequent horizontal and vertical shifts and moderate saccades, resembling exploratory scanning similar to the BROWSE example rather than the more structured patterns seen in READ or the larger excursions in PLAY/WATCH.",
+  "correct": false
+}

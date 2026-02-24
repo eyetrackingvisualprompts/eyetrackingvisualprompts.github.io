@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including corners and center) with comparatively shorter fixations and multi-directional scanning resemble the dynamic gaze behavior during gameplay more than the more line-structured READ/WRITE, the top-heavy WATCH, or the more vertically constrained SEARCH/BROWSE patterns.",
+  "correct": false
+}

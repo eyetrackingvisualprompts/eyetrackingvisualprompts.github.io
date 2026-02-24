@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The data shows relatively long, stable fixations (often 0.2\u20130.7s) with saccades that are mostly constrained within central to upper-left regions and follow short horizontal/vertical shifts, consistent with scanning lines/segments of text rather than large exploratory movements (SEARCH/BROWSE) or rapid multi-directional tracking (PLAY/WATCH) or strong lower-screen focus typical for typing (WRITE).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show step-like jumps to various screen locations with roughly one-second plateaus between movements, matching a task where a target appears at random positions across the display rather than purely horizontal motion, central fixation, reading patterns, or game/video behavior.",
+  "correct": false
+}

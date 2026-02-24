@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is confined to mid-upper screen with short, scattered fixations and frequent medium-amplitude saccades among nearby UI-like points, lacking the systematic line-by-line horizontal scan of READ and the text-area confinement of WRITE, while also not showing the large multi-directional excursions of PLAY/WATCH/SEARCH; this pattern best matches typical web browsing behavior around menus, titles, and snippets.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact, code-like region with dense, short fixations and many small vertical and horizontal regressions between closely spaced lines\u2014typical of carefully tracing control/data flow to predict code output rather than broader navigation (BROWSE/SEARCH), long horizontal lines (READ), or larger dispersed movements (PLAY/WATCH/WRITE/DEBUG).",
+  "correct": false
+}

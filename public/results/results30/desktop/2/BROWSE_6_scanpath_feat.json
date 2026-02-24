@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster near the screen center with short multidirectional saccades and no long horizontal or vertical sweeps, matching the browsing example more than the structured left-to-right patterns of reading/writing or the broader exploratory patterns of search, watch, or play.",
+  "correct": true
+}

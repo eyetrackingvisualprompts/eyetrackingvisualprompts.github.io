@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, orderly horizontal fixations with limited vertical spread, matching the structured left-to-right, line-by-line gaze pattern typical of reading digital text rather than the more scattered or vertical patterns seen in browsing, searching, watching, playing, or writing.",
+  "correct": true
+}

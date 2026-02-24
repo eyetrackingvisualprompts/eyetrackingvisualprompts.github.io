@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze covers a wide area of the screen with long saccades in multiple directions and no clear reading or code-inspection structure, resembling continuous tracking of moving elements typical for game play rather than the more localized, line-based, or clustered patterns of reading, coding, or web browsing tasks.",
+  "correct": false
+}

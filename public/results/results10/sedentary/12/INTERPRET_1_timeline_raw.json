@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Both X and Y gaze positions stay within a narrow central band with small, irregular shifts and no large vertical jumps or horizontal sweeps, matching the stable, code-focused pattern seen in the DEBUG example more than the other, more dynamic or scanning tasks.",
+  "correct": false
+}

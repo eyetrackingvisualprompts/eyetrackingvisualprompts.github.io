@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large saccades between widely separated regions (upper text-like lines, side/top areas, and lower sections), revisits to header-like coordinates, and intermittent scanning of result-like horizontal bands resemble navigation of a search results page more than the more localized, line-by-line patterns of READ/WRITE or the continuous central focus of WATCH/PLAY.",
+  "correct": true
+}

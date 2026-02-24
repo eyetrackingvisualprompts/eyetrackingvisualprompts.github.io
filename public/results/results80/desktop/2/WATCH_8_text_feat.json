@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze alternates frequently between a lower-central horizontal band (~y=0.23\u20130.30) and mid-screen (~y=0.4\u20130.55) with many rapid vertical saccades and short fixations, indicating continuous monitoring of a moving focal area typical for game HUD/character tracking, unlike the more stationary, line-structured patterns of READ/WRITE or the broader, slower scan paths of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

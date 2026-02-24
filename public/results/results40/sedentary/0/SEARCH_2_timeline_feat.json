@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly concentrated in a relatively narrow central area with frequent short saccades and occasional larger vertical jumps, matching focused code-editing behavior seen in the WRITE example rather than the broader scanning or line-by-line reading patterns of other tasks.",
+  "correct": false
+}

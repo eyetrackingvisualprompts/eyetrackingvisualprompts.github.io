@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations densely clustered on the left central area (code editor) with frequent long saccades to the right (console/output or reference panels), matching the example DEBUG pattern more than other activities.",
+  "correct": false
+}

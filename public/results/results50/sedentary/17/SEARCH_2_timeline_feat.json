@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated page-like vertical shifts in Y with structured horizontal scanning segments, resembling scrolling through varied web content, matching the BROWSE pattern more than the steadier code or reading tasks or the more dynamic game/video patterns.",
+  "correct": false
+}

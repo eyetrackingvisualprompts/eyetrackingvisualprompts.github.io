@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, focused fixations on the left code/IDE area with occasional long saccades to a specific region on the right side (likely console or reference panel) match the WRITE pattern more than DEBUG, which is more confined and less frequently jumps far right.",
+  "correct": true
+}

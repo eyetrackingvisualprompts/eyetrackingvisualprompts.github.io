@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in the upper part of the screen (high Y fixation) with X fixation mostly on the left half, showing a gradual rightward drift and returns, consistent with typing in a text editor rather than scanning the whole page or video content.",
+  "correct": false
+}

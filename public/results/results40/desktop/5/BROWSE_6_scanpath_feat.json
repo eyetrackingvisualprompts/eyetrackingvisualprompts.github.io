@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze covers a wide vertical range with large, smooth shifts between upper and lower regions and lacks the orderly horizontal line structure of reading or writing; the pattern resembles following dynamic visual content as in the WATCH examples more than the denser, central clusters seen in BROWSE or SEARCH.",
+  "correct": false
+}

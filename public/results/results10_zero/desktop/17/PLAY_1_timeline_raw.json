@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal sweeps with occasional vertical shifts and relatively stable fixation bands, consistent with scanning lines of text and moving between sections, which matches reading behavior more than the more erratic or wide-ranging patterns expected for browsing, searching, playing games, watching video, or writing.",
+  "correct": false
+}

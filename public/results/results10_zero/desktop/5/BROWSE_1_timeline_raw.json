@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions stay in a narrow central band with small, regular horizontal and vertical shifts, indicative of line-by-line reading rather than large saccades or dispersed exploration typical of browsing, searching, playing, or watching video.",
+  "correct": false
+}

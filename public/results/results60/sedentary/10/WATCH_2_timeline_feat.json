@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows continuous, relatively smooth horizontal drift with moderate vertical changes and scattered saccades across most of the screen, matching the dynamic yet less structured viewing patterns seen in the WATCH example rather than the more line- or code-structured patterns of READ/WRITE/DEBUG/INTERPRET or the highly erratic SEARCH/BROWSE/PLAY behaviors.",
+  "correct": true
+}

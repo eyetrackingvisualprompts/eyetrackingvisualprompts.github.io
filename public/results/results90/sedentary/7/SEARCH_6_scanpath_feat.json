@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is dispersed across multiple vertical regions with frequent long saccades to the right side, resembling movement between search results, snippets, and possibly opened result pages, matching the SEARCH pattern more than other tasks.",
+  "correct": true
+}

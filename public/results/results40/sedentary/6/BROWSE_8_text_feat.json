@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal sweeps near top of screen, frequent large-amplitude jumps to extreme edges and off-screen coordinates, and repeated transitions between widely separated regions (top bar, side/central areas, lower regions) match web browsing/navigation patterns more than the more locally confined, line-structured movements of READ or the code-oriented clusters of WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

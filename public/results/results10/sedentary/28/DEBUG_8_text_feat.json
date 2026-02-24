@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, irregular saccades across widely separated regions (including off-screen y<0, far left/right and large vertical jumps) with varied fixation durations resemble scanning and page navigation patterns seen in BROWSE, rather than the more structured, line-based or code-focused patterns of READ/SEARCH/WRITE/DEBUG/INTERPRET or the more central, dynamic-object focus of WATCH/PLAY.",
+  "correct": false
+}

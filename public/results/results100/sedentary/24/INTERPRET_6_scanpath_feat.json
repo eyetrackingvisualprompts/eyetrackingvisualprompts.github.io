@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points are densely clustered in a single left-side code area with limited horizontal spread and no visits to separate regions like consoles or documentation, closely matching the INTERPRET example scanpath rather than the wider or multi-region patterns of other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered around the left-center code area with an additional cluster slightly below it, resembling the multi-block inspection typical of debugging rather than the single main block of WRITE/INTERPRET or the more uniform scan of BROWSE/READ/WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered around the central area with moderate dispersion and no clear horizontal reading lines or edge-focused patterns, matching the example SEARCH scanpath more closely than WATCH, WRITE, BROWSE, PLAY, or READ.",
+  "correct": true
+}

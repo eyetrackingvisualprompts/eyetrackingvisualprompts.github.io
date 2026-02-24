@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact central code-like area with frequent short regressions and back\u2011and\u2011forth movements between nearby lines/regions, resembling careful code inspection rather than long horizontal sweeps (READ) or broad exploratory movements (SEARCH/BROWSE). The spatial dispersion and pattern closely match the INTERPRET examples, where participants analyze a snippet to reason about its behavior.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-sized regressions over a localized code region with many re-fixations and back-and-forth saccades between nearby lines and areas, plus occasional large jumps to different screen regions, match the intensive inspection and verification pattern seen in DEBUG rather than the more linear (READ/WRITE/INTERPRET) or more dispersed (SEARCH/BROWSE/PLAY/WATCH) examples.",
+  "correct": false
+}

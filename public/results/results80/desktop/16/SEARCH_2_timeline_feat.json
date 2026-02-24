@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, frequent shifts in both X and Y with wide vertical excursions, indicating dynamic exploration across the screen typical of game play rather than more localized or structured patterns seen in reading, writing, browsing, or watching video.",
+  "correct": false
+}

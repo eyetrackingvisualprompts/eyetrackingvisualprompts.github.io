@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shifts smoothly along large horizontal bands with long, steady fixations and gradual drifts downward, covering wide screen areas without the tight line-by-line structure of text reading or the localized code/IDE patterns; this broad, continuous scanning over the lower half of the screen best matches viewing dynamic visual content, i.e., WATCH.",
+  "correct": false
+}

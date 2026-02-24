@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple vertically separated regions in the upper-middle of the screen, indicating scanning of different elements such as query box, results, and possibly navigation links\u2014this pattern best matches the SEARCH example rather than the more linear READ or localized WATCH/PLAY/WRITE patterns.",
+  "correct": false
+}

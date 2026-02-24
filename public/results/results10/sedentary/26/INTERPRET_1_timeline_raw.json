@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Both x and y traces show relatively smooth, slow drift with occasional large vertical excursions and no strong left\u2011right scanning or line-by-line patterns typical of reading, coding, or web search; this resembles following motion and scene changes in continuous video, matching the WATCH class examples.",
+  "correct": false
+}

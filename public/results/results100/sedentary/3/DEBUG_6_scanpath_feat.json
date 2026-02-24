@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a confined left\u2011center code area with frequent vertical and local horizontal shifts, plus occasional long saccades to the right (e.g., console/output or other panels), matching the pattern of inspecting and fixing code seen in the DEBUG example.",
+  "correct": true
+}

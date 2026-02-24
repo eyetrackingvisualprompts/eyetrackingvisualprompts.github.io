@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Extremely long saccade durations (several seconds) and very few, short fixations suggest continuous smooth pursuit of moving on-screen elements rather than discrete reading or code inspection; large vertical traversals between central and edge regions are more consistent with game play dynamics than with browsing, search, or static code/text tasks.",
+  "correct": false
+}

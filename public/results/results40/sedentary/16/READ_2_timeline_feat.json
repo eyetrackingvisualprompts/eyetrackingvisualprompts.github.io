@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Both X and Y fixations gradually shift with intermittent large saccades, reflecting alternation between result list scanning and visiting pages, matching the SEARCH pattern more than the steadier READ/INTERPRET or highly dynamic PLAY/WATCH examples.",
+  "correct": false
+}

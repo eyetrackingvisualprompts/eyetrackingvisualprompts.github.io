@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions are centered around the middle of the screen with frequent, irregular saccades in both X and Y directions and no strong upward drift or structured line-by-line pattern. This noisy, exploratory scanning resembles web browsing more than the more systematic movements seen in reading, writing, searching result pages, or watching/playing content.",
+  "correct": false
+}

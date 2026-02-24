@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show large, frequent saccades across wide screen regions, including rapid jumps to screen edges and even off-screen values, with relatively few stable horizontal line-like fixations. This pattern suggests continuous tracking of moving objects and quick shifts of attention, which is most consistent with interactive gameplay rather than reading, coding, or static content viewing.",
+  "correct": false
+}

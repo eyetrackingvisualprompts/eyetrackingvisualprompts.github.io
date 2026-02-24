@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely distributed both vertically along the left side (typical of scrolling through content) and scattered across the top and mid-right regions, resembling the varied, exploratory gaze pattern seen in the BROWSE example more than the other, more localized tasks.",
+  "correct": false
+}

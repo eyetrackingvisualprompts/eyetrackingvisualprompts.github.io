@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-long fixations interleaved with substantial vertical and diagonal saccades between central, upper, and lower screen regions, including repeated jumps between mid-page content and near-bottom/near-top areas, match the complex scanning and result-navigation patterns characteristic of web search result pages rather than the more line-structured READ or more central, less vertically extensive BROWSE behavior.",
+  "correct": false
+}

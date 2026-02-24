@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively stable, horizontally constrained fixations with modest gradual drift and few large saccades, closely matching the INTERPRET example pattern and differing from the more scattered BROWSE/SEARCH or more dynamic PLAY/DEBUG behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions including corners and outside bounds, with many revisits to mid-screen areas and rapid vertical shifts, resemble target/chase behavior in dynamic game scenes more than the more line-structured, local, or text-focused patterns of the coding, reading, or browsing tasks.",
+  "correct": true
+}

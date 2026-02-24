@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple vertical regions (upper and lower areas) with frequent transitions and scattered fixations, resembling movement between search results and detailed content, which matches the SEARCH pattern more than the other activities.",
+  "correct": false
+}

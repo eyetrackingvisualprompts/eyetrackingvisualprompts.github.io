@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered on a narrow vertical code area near the left side, with little horizontal spread or broader exploration, closely matching the INTERPRET heatmap pattern of focused inspection of a short code snippet rather than the more distributed patterns seen in DEBUG or WRITE.",
+  "correct": true
+}

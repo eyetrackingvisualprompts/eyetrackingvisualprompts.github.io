@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal movements with relatively small vertical shifts and stable fixation bands, consistent with line-by-line text reading rather than the larger multidirectional shifts typical of search, browsing, or gameplay.",
+  "correct": false
+}

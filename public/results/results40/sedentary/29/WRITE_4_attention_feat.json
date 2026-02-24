@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered on a single code-like region in the upper-left, with a few shifts slightly rightward, matching the localized, intensive inspection pattern seen in INTERPRET rather than the more distributed patterns of SEARCH/BROWSE or the center-focused WATCH/PLAY tasks.",
+  "correct": false
+}

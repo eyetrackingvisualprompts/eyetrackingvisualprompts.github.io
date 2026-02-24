@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are moderately dispersed around the screen center with small horizontal movements and repeated fixations across nearby locations, resembling the mixed scanning and local reading typical of browsing webpages rather than the more linear pattern of reading or the broader movements seen in play, watch, search, or write tasks.",
+  "correct": false
+}

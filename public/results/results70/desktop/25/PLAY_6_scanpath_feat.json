@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze cluster is centered around the mid-upper screen with moderate horizontal and vertical spread and varied fixations, closely matching the SEARCH example pattern more than the tighter READ pattern or the broader WATCH/BROWSE layouts.",
+  "correct": false
+}

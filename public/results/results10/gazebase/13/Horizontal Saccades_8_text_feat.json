@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates repeatedly between approximately \u00b115\u201317 degrees on the horizontal axis with minimal vertical deviation, with ~0.2\u20130.6 saccade durations and ~0.2\u20130.8 s fixations at each side, matching the structured left-right pattern of the Horizontal Saccades task rather than the more irregular or multidirectional patterns of the other activities.",
+  "correct": true
+}

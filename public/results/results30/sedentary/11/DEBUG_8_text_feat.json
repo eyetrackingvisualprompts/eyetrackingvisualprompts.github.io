@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region with many medium-duration fixations and short saccades between nearby code-like locations, including repeated revisits to the same lines/areas and occasional vertical shifts, closely matching the INTERPRET examples and differing from the more extensive vertical or horizontal scanning seen in READ, SEARCH, or BROWSE.",
+  "correct": false
+}

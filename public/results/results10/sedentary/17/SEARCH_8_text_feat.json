@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large saccades between widely separated screen regions (top-left UI area, then lower-right and bottom regions), mixed with medium fixations and revisits, resemble scanning navigation elements and content on a webpage more than the more localized, line-structured patterns of reading or the center-focused, smoother tracking of watching/playing tasks.",
+  "correct": false
+}

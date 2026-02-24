@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation cluster is centered in the mid-screen region with moderate vertical spread and some scattered peripheral fixations, closely matching the browsing example heatmap pattern rather than the tighter central cluster of search or the horizontal bands of reading/writing.",
+  "correct": false
+}

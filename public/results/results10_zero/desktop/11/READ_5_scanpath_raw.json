@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements along a narrow vertical band with sequential left-to-right progress and occasional regressions, characteristic of line-by-line reading behavior rather than the more dispersed or multidirectional patterns typical of browsing, searching, watching videos, gaming, or writing (which often includes revisits to a central writing area and UI elements).",
+  "correct": true
+}

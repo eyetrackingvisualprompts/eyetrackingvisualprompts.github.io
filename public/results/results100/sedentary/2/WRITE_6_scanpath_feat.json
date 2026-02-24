@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a dense cluster on the left (likely search results/text) and another dense cluster on the right (perhaps a result page or side content), with frequent long horizontal saccades between them, matching the example SEARCH scanpath more than other tasks.",
+  "correct": false
+}

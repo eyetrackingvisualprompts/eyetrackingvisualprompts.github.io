@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows clusters of long fixations (0.3\u20131.3s) within a relatively localized screen region and short saccades, consistent with reading lines or small text blocks rather than wide exploratory movements (BROWSE/SEARCH), code inspection with jumps between regions (WRITE/DEBUG/INTERPRET), or large dynamic shifts tracking moving objects (PLAY/WATCH).",
+  "correct": false
+}

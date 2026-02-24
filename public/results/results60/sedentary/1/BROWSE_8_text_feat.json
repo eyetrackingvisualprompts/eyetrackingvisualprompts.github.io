@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves predominantly in horizontal sweeps around a narrow vertical band (y\u2248530\u2013600 and then y\u2248430\u2013480, 370\u2013410, 300\u2013320), with many short saccades and sustained fixations, and occasional long jumps to top-of-screen coordinates\u2014matching line-by-line reading and paragraph transitions rather than the more scattered, vertical scrolling or object-following patterns seen in SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

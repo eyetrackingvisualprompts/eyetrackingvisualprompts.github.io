@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow vertical band with relatively small horizontal and vertical excursions, resembling focused inspection of a static code snippet; the pattern closely matches the INTERPRET example and shows less vertical scanning than DEBUG and less horizontal progression than READ or BROWSE.",
+  "correct": true
+}

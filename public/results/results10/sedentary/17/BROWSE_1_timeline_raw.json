@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "X position shows repeated left-to-right sweeps with quick returns, while Y position drifts slowly downward\u2014characteristic of line-by-line reading across multiple lines of text.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains around central-mid screen with small horizontal and vertical shifts, forming clusters consistent with line-by-line or paragraph-level inspection, and lacks the wide vertical span or top/bottom transitions typical of search/browse, nor the extreme upper-area focus of watch or write. The movement dynamics and fixation durations best match the provided READ pattern.",
+  "correct": false
+}

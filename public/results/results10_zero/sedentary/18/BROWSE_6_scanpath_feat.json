@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a narrow horizontal band with small progressive and regressive movements along one line, consistent with reading a single text line rather than scanning multiple UI elements or tracking moving objects.",
+  "correct": false
+}

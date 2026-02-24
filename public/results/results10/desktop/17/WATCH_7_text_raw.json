@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near screen center with smooth, gradual shifts and prolonged stable segments, resembling continuous following of dynamic visual content rather than the more systematic line-wise scanning of READ/WRITE or the frequent large exploratory shifts of BROWSE/SEARCH/PLAY, which is characteristic of WATCH (video viewing).",
+  "correct": true
+}

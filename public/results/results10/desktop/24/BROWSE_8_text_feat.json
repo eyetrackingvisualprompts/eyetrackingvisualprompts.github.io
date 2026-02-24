@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows scattered fixations and frequent medium-to-large saccades across both vertical and horizontal directions, with visits to multiple, spatially separated regions (center, upper, lower parts of the screen) and relatively short fixation durations. This heterogeneous, exploratory pattern aligns better with browsing mixed web content than with more constrained line-based reading, top-heavy writing, or the more localized patterns seen in search results pages or video watching.",
+  "correct": true
+}

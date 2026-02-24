@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the screen center with moderate vertical spread and frequent shifts among nearby regions, closely resembling the browsing example scanpath rather than the more constrained patterns of reading or the broader movements seen in play or watch tasks.",
+  "correct": false
+}

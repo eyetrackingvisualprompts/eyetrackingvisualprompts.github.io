@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered along a narrow horizontal band near the screen center, forming a compact left-to-right sequence typical of reading a single text line rather than the broader, more dispersed patterns seen in browsing, searching, playing, watching, or writing tasks.",
+  "correct": true
+}

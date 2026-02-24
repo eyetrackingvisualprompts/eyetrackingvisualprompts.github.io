@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The data shows predominantly horizontal scan patterns with gradual downward shifts in Y, consistent with line-by-line reading behavior rather than the more scattered or focal patterns seen in coding, debugging, or video watching tasks.",
+  "correct": false
+}

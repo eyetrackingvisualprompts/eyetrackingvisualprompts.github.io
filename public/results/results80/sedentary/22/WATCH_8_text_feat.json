@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including off-screen coordinates), many revisits between dispersed hotspots, and strong focus around mid-lower and side areas indicate continuous visual tracking and navigation typical of gameplay rather than reading or code-related tasks.",
+  "correct": false
+}

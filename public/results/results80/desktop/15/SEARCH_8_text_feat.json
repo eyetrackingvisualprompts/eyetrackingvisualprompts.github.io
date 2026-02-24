@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band with mostly short saccades and many long (0.5\u20132 s) stable fixations that progress and regress slightly along that band, matching line-based reading behavior rather than the broader, more scattered scanpaths of search/browse or the peripheral/top-focused patterns of watch/play/write.",
+  "correct": false
+}

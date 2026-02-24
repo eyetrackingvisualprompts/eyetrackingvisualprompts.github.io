@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long, repeated fixations clustered over a narrow central code-like region with frequent short regressions and revisits to nearly identical coordinates indicate intensive reasoning over a small snippet, which matches the INTERPRET (code comprehension / output prediction) pattern more than the broader scanning seen in WRITE/DEBUG or the horizontal sweeps of READ/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster centrally with medium spread in both horizontal and vertical directions, indicating frequent but localized shifts typical of scanning search engine results and related pages. This pattern aligns most closely with the SEARCH example compared to the others.",
+  "correct": false
+}

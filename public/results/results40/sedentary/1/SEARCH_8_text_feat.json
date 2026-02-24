@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large saccades between widely separated regions (top-left, center, bottom), intermittent long fixations near top of screen around (200\u2013300, ~100) consistent with address bar/search box, and repeated returns between content-like mid-page coordinates and distant peripheral points match exploratory, non-linear scanning typical of web browsing rather than focused reading or code-centric tasks.",
+  "correct": false
+}

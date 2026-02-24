@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen areas, repeated returns between mid/lower and upper regions, and many medium-length fixations around central playfield-like coordinates resemble continuous tracking and anticipatory gaze behavior typical of playing dynamic games rather than the more line-structured, text-based or UI-scanning patterns seen in coding, reading, search, or browsing tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including corners and edges), with many revisits to central/upper areas and substantial vertical excursions, match the dynamic, spatially distributed gaze patterns seen in the PLAY examples, rather than the more line-structured (READ/SEARCH) or code-panel-focused (INTERPRET/DEBUG/WRITE) patterns.",
+  "correct": false
+}

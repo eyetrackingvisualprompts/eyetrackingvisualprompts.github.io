@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a long horizontal band across mid-screen with additional scattered points, resembling scanning through varied web content rather than focused reading of a single text block or code; this pattern best matches the BROWSE example heatmap.",
+  "correct": false
+}

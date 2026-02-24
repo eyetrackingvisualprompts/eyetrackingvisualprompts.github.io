@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is confined to a small, central region with short, repetitive horizontal movements and limited vertical excursions, matching the localized, stable scanpath seen in the WRITE example rather than the broader or more dispersed patterns of browsing, reading, searching, playing, or watching video.",
+  "correct": false
+}

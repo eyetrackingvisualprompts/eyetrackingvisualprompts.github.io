@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact central region with repeated back-and-forth transitions between a few nearby lines, indicating focused inspection of a short block of code rather than long horizontal reading (READ/BROWSE) or wide scanning (SEARCH/PLAY). This localized, iterative scrutiny best matches interpreting a short code snippet (INTERPRET).",
+  "correct": false
+}

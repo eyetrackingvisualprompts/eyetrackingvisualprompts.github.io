@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze stays confined to a narrow central band with small horizontal excursions and very limited vertical scanning, matching the stable, code-focused pattern of INTERPRET rather than the broader vertical sweeps of READ/BROWSE/SEARCH or the larger, more erratic movements of PLAY/WATCH/DEBUG/WRITE.",
+  "correct": false
+}

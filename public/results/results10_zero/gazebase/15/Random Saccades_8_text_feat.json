@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large, irregular jumps in gaze across both horizontal and vertical axes (often >15\u00b0 horizontally and >9\u00b0 vertically) with intervening long fixations, and no consistent left-to-right or line-based pattern, are characteristic of tracking a randomly moving target rather than reading, watching video, or purely horizontal saccades.",
+  "correct": true
+}

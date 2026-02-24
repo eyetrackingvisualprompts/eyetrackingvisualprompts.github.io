@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete steps to various locations across both horizontal (\u00b115\u00b0) and vertical (\u00b19\u00b0) ranges, with the eyes holding relatively stable at each position before jumping to a new, non-periodic location. This pattern of irregular, multi-directional saccades with brief fixations matches the random saccade task rather than periodic horizontal sweeps, sustained central fixation, structured reading, or visually guided game or video viewing behavior.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a narrow left-side code region with occasional long saccades to the right, matching focused code inspection with sporadic checks of output or other IDE areas typical for debugging rather than the broader dispersion seen in browsing/search or the structured lines of reading.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely dispersed across both horizontal and vertical axes with many medium-length saccades and no dominant horizontal band or localized cluster, resembling exploratory viewing of varied web content as in the BROWSE example rather than the more structured patterns of reading, writing, searching results, watching video, or focused gaming.",
+  "correct": false
+}

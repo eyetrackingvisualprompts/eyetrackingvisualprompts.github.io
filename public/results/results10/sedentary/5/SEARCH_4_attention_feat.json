@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered on a mid-screen region with additional scattered fixations to the right and lower areas, indicating shifting attention between multiple webpage elements. This spatial pattern and moderate dispersion most closely matches the example BROWSE heatmap rather than the more localized READ/WRITE or code-focused INTERPRET/DEBUG patterns.",
+  "correct": false
+}

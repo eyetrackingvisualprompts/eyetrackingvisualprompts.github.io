@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a dense cluster around the central-right area and a smaller cluster on the left, with frequent long horizontal saccades between them, resembling shifts between search results list and detailed content, matching the SEARCH pattern more than other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a horizontal line in the upper-middle region, indicating sequential left-to-right scanning of a single text block, which matches the reading pattern seen in the READ example more than the other tasks.",
+  "correct": false
+}

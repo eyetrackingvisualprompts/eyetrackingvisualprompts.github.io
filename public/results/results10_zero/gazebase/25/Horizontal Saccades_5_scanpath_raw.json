@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows predominantly horizontal eye movements back and forth between two stable vertical positions at roughly constant height, with large amplitudes spanning much of the screen width and brief vertical deviations, which matches following a horizontally oscillating target rather than random or stimulus-driven viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a moderately broad central area with varied saccade directions and no strong horizontal line structure, indicating exploratory scanning of mixed web content rather than the tighter clusters of WRITE or the highly dynamic, dispersed movements of PLAY or WATCH. This pattern best matches the BROWSE example.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a narrow horizontal band with very small, slow drifts in X and almost constant Y, indicating sustained fixation on a central region rather than systematic line-by-line scanning or search-like jumps, which is most consistent with watching a video.",
+  "correct": false
+}

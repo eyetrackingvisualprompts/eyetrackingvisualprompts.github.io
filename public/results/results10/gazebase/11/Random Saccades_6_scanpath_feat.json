@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points jump between spatially separated locations across both horizontal and vertical axes with roughly one-second dwells, forming a scattered pattern similar to the Random Saccades example rather than the structured patterns of reading, horizontal-only saccades, or central fixation.",
+  "correct": true
+}

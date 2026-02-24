@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show large, abrupt jumps of ~20\u201330\u00b0 both horizontally and vertically, followed by ~1-second clusters of tightly grouped points at each location, matching a gaze following a randomly moving target that steps to discrete positions and then remains static (fixated) for about a second\u2014characteristic of the Random Saccades task rather than smooth horizontal-only motion, continuous reading-like scanpaths, video viewing, or a static fixation.",
+  "correct": true
+}

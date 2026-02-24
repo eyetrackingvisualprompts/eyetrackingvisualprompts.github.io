@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated, long, predominantly horizontal gaze shifts across almost the full screen width at a nearly constant vertical position, matching the pattern of following a horizontally moving target rather than the more varied or static patterns of the other tasks.",
+  "correct": true
+}

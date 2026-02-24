@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extremes and outside typical text/code areas), many visits between central and peripheral/edge locations, and substantial vertical span with irregular, non-linear scan paths resemble tracking moving objects and navigating a game space more than reading, coding, or structured browsing/search patterns.",
+  "correct": false
+}

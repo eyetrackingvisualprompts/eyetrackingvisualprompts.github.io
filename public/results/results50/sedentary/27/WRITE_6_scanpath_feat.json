@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, sustained fixations over the left code region with repeated long saccades to a specific area on the right (likely console/output or reference) closely match the debug example pattern of alternating attention between code and results, rather than the more scattered (BROWSE/WATCH) or line-structured (READ/WRITE) behaviors.",
+  "correct": false
+}

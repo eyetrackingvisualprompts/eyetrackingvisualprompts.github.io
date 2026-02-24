@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around the central region with substantial spread both vertically and horizontally, indicating scanning of various interface elements similar to the SEARCH example rather than the tighter center cluster of BROWSE or the linear pattern of READ/WRITE.",
+  "correct": false
+}

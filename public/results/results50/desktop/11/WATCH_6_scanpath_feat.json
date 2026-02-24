@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around a central region with frequent medium-length saccades in multiple directions, indicating active scanning of a results page or changing elements rather than stable horizontal reading (READ) or tightly localized typing focus (WRITE). This pattern best matches the SEARCH example scanpath.",
+  "correct": false
+}

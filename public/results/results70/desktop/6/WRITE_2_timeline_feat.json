@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are moderately scattered over mid-screen in both X and Y without strong horizontal scanlines or vertical separation; the pattern matches the mixed, less-structured exploration seen in the BROWSE example rather than the more systematic READ/WRITE or more extreme ranges in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

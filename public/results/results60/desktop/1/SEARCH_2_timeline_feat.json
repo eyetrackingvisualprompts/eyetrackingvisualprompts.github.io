@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions for both X and Y show moderate, irregular movements with no strong horizontal reading lines or large game-like excursions, closely matching the variability and mid-screen distribution seen in the BROWSE example rather than the more structured patterns of READ, WRITE, or the others.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band with repeated fixations around a central area and short lateral movements, typical of focusing on and editing a specific code region in an IDE rather than continuous line-by-line reading or wide exploration as in browsing, search, or games; this best matches the WRITE (code implementation) task.",
+  "correct": true
+}

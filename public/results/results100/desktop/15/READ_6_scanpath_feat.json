@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal, line-like gaze patterns with limited vertical range, consistent with reading lines of text, and it closely resembles the example READ plot more than the other activity examples.",
+  "correct": true
+}

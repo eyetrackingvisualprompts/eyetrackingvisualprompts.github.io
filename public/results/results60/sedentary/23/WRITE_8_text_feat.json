@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Very large, frequent gaze jumps between far-left and far-right/top regions (including off-text areas) with intermediate reading-like scans and repeated revisits to a central results area match the pattern of inspecting search results and SERP elements, as seen in the SEARCH examples, rather than the more localized, structured code or text inspection in WRITE/READ/DEBUG/INTERPRET or the continuous dynamic tracking of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

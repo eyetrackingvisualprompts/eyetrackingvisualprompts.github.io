@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal band with relatively small, regular saccades and a nearly constant lower vertical position, matching the stable text-line viewing pattern seen in the WRITE example rather than the broader scanning of SEARCH/BROWSE or the dynamic shifts of WATCH/PLAY/READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated around the upper-middle band of the screen with horizontal spread across that region, matching the pattern of scanning search results in the SEARCH example more than the denser central clusters of other tasks.",
+  "correct": false
+}

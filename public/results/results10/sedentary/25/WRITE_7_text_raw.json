@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly mid-screen, dense fixations with short saccades forming clustered sweeps around a code-like region, including frequent small vertical and horizontal shifts and occasional jumps to nearby interface areas; this closely matches the DEBUG example\u2019s pattern over an IDE/code window rather than the more linear patterns of READ/WRITE or the broader, more scattered movements of PLAY, WATCH, BROWSE, or SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are densely clustered in a small region with minimal horizontal or vertical movement, indicating focused attention on a limited area of the screen, which best matches the sustained localized fixation pattern seen in the WRITE example.",
+  "correct": true
+}

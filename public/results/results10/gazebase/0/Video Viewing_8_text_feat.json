@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large, irregular multi-directional saccades spanning wide horizontal and vertical ranges with 1-second fixations between positions match the random, screen-wide target jumps of the Random Saccades task rather than the more patterned or constrained movements of the other activities.",
+  "correct": false
+}

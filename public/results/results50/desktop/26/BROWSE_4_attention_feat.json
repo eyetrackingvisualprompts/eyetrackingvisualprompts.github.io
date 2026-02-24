@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around the central-upper area with vertical spread and multiple local clusters, matching the exploratory, scroll-based pattern seen in the SEARCH example rather than the more horizontal READ/WRITE or top-band WATCH/PLAY distributions.",
+  "correct": false
+}

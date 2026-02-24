@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small region at the upper-left area, matching the focused gaze on a single code snippet seen in the INTERPRET example, unlike the more distributed patterns of DEBUG or other tasks.",
+  "correct": true
+}

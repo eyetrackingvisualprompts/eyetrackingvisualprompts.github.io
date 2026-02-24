@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates remain within a relatively narrow central band with many short, stable clusters and small vertical shifts, consistent with fixations progressing line by line over text. There are no large, rapid excursions across the screen typical of PLAY or SEARCH, nor the more dispersed, multi-object scanning expected in WATCH or BROWSE, and the pattern aligns better with sustained reading than with the frequent cursor-referenced movements of WRITE.",
+  "correct": false
+}

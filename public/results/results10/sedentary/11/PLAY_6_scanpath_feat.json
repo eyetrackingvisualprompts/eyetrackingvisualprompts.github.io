@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a central screen region with smooth, moderate saccades and no systematic horizontal line-by-line pattern, matching the continuous viewing behavior seen in the WATCH example rather than the more structured or peripheral movements of tasks like READ, SEARCH, or WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows systematic, horizontal left-to-right sweeps with short saccades and sustained fixations aligned along a few nearby y-levels (\u2248200\u2013450 px), with frequent return sweeps\u2014characteristic of line-by-line text reading rather than code inspection, debugging, or wide-area visual search/browsing.",
+  "correct": false
+}

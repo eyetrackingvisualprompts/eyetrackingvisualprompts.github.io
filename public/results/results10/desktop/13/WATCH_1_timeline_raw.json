@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent, sizeable horizontal shifts with corresponding vertical changes between a few bands, indicating repeated transitions between distinct screen regions (e.g., query box, results list, different result pages). This pattern aligns best with the SEARCH example rather than the more linear READ/WRITE or more scattered PLAY/WATCH/BROWSE behaviors.",
+  "correct": false
+}

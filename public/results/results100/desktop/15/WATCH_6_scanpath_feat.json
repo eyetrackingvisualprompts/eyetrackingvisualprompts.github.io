@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the screen center with moderate vertical spread and irregular, non-linear saccades, resembling the heterogeneous, scroll-and-skim pattern seen in the BROWSE example more than the structured horizontal bands of READ/WRITE or the wider distributions of SEARCH/WATCH/PLAY.",
+  "correct": false
+}

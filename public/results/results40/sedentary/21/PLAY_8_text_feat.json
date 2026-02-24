@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, frequent long-distance saccades across wide screen areas (center, far left/right, upper/lower regions) with relatively short, scattered fixations around mid\u2011screen, consistent with tracking moving game elements rather than line-based reading or focused code inspection. This spatiotemporal pattern best matches the PLAY examples among the given classes.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small code-like region on the upper-left, with limited horizontal spread and little movement elsewhere, matching the focused inspection pattern seen in the INTERPRET example rather than the broader distributions of READ, WRITE, or DEBUG.",
+  "correct": false
+}

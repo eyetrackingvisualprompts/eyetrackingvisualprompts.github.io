@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid gaze shifts across wide screen regions (including corners and edges), frequent long saccades between distant coordinates, and brief fixations resemble target/object tracking and spatial navigation patterns typical of gameplay rather than the more line-structured, horizontally constrained patterns of reading, coding, or search/browse tasks.",
+  "correct": false
+}

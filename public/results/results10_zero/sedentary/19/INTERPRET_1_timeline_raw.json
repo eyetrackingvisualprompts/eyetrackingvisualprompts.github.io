@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "For most of the 10s window, gaze positions are relatively stable with slow drifts and few discrete shifts, lacking the systematic line-by-line horizontal scanning of READ or the dense, multi-focal movements typical of code (WRITE/INTERPRET/DEBUG) or active web navigation (SEARCH/BROWSE/PLAY). The pattern is consistent with passively following content changes on a video screen, indicating a WATCH activity.",
+  "correct": false
+}

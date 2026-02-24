@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large saccades with irregular, multi-directional movements across both axes, indicating scanning of varied webpage layouts rather than structured reading or focused code work, best matching the BROWSE pattern among the examples.",
+  "correct": false
+}

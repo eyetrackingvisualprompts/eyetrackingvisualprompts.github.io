@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated horizontal scanning with moderate vertical shifts, intermittent jumps to different regions, and variable reading-like segments, closely matching the mixed, less-structured patterns seen in the BROWSE example rather than the more stable or strongly patterned behaviors of the other tasks.",
+  "correct": false
+}

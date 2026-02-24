@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-range shifts in both X and Y with alternating fixations, resembling the mixed horizontal and vertical code-scanning pattern in the DEBUG example more than the steadier or more linear patterns of reading, watching, or browsing.",
+  "correct": false
+}

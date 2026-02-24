@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trace shows a small cluster of fixations with occasional larger movements, including both vertical and some horizontal shifts, without the strict horizontal pattern of Horizontal Saccades or the dense line-like progression typical for Reading. The motion is not confined to the screen center (Fixations) and lacks the broad, varied exploration expected in Video Viewing or game play, matching a target that jumps intermittently to discrete positions as in Random Saccades.",
+  "correct": false
+}

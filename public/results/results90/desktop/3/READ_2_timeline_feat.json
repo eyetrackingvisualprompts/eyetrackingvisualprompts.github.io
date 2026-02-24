@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a narrow horizontal band with relatively small but continuous movements and stable vertical position, resembling focused interaction with a central text input area as seen in the WRITE example, rather than the broader exploratory or vertically scanning patterns of SEARCH, BROWSE, READ, WATCH, or PLAY.",
+  "correct": false
+}

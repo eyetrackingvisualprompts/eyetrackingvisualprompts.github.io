@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions, repeated returns between central/upper and lower areas, and prolonged local tracking around specific coordinates match the dynamic, target-following gaze behavior seen in the PLAY examples rather than the more linear or text-focused patterns of reading, coding, or browsing tasks.",
+  "correct": true
+}

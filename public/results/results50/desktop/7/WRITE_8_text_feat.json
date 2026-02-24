@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude saccades between dispersed vertical regions (top, mid, and upper-mid screen) with many short-to-medium fixations and repeated revisits resemble scanning mixed text/image web pages, matching the heterogeneous, exploratory pattern seen in BROWSE more than the more line-structured READ or the more central, denser patterns of WATCH/WRITE/SEARCH.",
+  "correct": false
+}

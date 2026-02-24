@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a few horizontal bands (around y\u2248720\u2013950, then \u22480\u2013230, 230\u2013380, 420\u2013580), with long, smooth left-to-right and right-to-left scanpaths and short regressions, matching line-by-line reading patterns rather than the more scattered, multi-region exploration seen in SEARCH/BROWSE or dynamic object following in PLAY/WATCH.",
+  "correct": true
+}

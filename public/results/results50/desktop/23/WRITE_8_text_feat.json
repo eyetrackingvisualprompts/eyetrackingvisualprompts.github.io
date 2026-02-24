@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Long, relatively smooth fixations with broad vertical excursions beyond the nominal screen bounds (y>1.0), frequent shifts between widely separated regions, and absence of systematic line-like scanning or localized editing patterns are most consistent with watching dynamic video content rather than text- or search-oriented tasks.",
+  "correct": false
+}

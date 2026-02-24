@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide spatial dispersion of gaze across screen (including extreme corners and off-screen coordinates), frequent long saccades between distant regions, alternation between upper UI-like areas and lower content-like zones, and irregular revisit patterns resemble exploratory web navigation more than focused code reading/writing, debugging, or continuous tracking found in games or video watching.",
+  "correct": false
+}

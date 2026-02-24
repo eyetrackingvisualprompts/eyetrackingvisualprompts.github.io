@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide, rapid transitions between distant screen regions (including off-content areas with negative y), mixed with horizontal sweeps across the page and revisits to mid-page bands, match the heterogeneous navigation and scanning patterns seen in BROWSE examples rather than the more structured line-by-line (READ) or code-focused (WRITE/DEBUG) patterns.",
+  "correct": false
+}

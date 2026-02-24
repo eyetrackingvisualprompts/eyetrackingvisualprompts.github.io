@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between mid-screen and scattered regions (including upper, lower, and side areas) with medium-length fixations and varied saccade amplitudes, indicating scanning across heterogeneous on-screen elements rather than the more line-structured horizontal patterns of reading or the tight near-text-baseline cluster of writing. The pattern also lacks the sustained upper-screen focus typical of search result pages and the smoother, more stable central viewing of videos, making it most consistent with general web browsing behavior.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between symmetric far left and right horizontal positions around 0\u00b0 with approximately 1-second stable plateaus at each side, while vertical position stays near constant. This matches the described horizontal saccade task with \u00b115\u00b0 movements held for one second.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows multiple discrete fixation clusters at irregular positions across both left and right sides of the screen, with large and variable-amplitude saccades (including a long cross-screen jump) between them, rather than a single central cluster (fixation), systematic left-to-right lines (reading), or strictly horizontal back-and-forth motion (horizontal saccades). This irregular pattern best matches the random, multi-directional target movements of the Random Saccades task.",
+  "correct": false
+}

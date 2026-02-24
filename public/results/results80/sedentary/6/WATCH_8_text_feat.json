@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent jumps between widely separated screen regions (including off-screen coordinates), repeated transitions between content and browser chrome-like areas, and long vertical/diagonal saccades with scattered fixations resemble the exploratory, multi-area scanning and results-page navigation typical of SEARCH rather than the more localized, structured scanpaths of reading, coding, debugging, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows continuous but moderately fast horizontal movements with varying vertical shifts, resembling dynamic tracking and frequent repositioning typical of game play, and differing from the more linear, text-like patterns in READ/WRITE/BROWSE or the more stable WATCH patterns.",
+  "correct": false
+}

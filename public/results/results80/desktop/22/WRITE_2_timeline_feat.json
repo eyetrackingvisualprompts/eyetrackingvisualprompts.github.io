@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered around the middle of the screen with small horizontal and vertical shifts and relatively stable Y positions, resembling the moderate, dispersed exploration in the BROWSE example rather than the stronger vertical progression of READ/WRITE or the larger excursions of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

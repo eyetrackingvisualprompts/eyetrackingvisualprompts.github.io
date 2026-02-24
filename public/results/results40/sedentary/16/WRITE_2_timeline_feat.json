@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a narrow horizontal band with small, regular fixations and few large saccades, closely matching the stable, line-by-line pattern seen in the INTERPRET example where participants inspect a compact code snippet rather than scanning widely as in browse/search or following motion as in play/watch.",
+  "correct": false
+}

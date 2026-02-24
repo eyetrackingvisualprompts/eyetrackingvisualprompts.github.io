@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows many medium-length fixations with frequent vertical transitions between upper and mid/lower screen regions, plus repeated shifts to the top-left/top-center where browser tabs, URL bar, and navigation controls typically reside. The pattern resembles scanning headlines and sections on long web pages, matching the BROWSE exemplars more than the tighter, line-based READ pattern or the more dispersed, target-driven SEARCH and PLAY behaviors.",
+  "correct": false
+}

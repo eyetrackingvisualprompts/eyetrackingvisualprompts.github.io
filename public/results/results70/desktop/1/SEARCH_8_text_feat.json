@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large saccades spanning substantial vertical and horizontal extents of the screen, with many revisits to mid-screen regions and irregular scan paths rather than orderly line sweeps (READ) or tight top-text/center focus (SEARCH). This heterogeneous exploration pattern over varied vertical positions and occasional bottom/top excursions closely matches the browsing examples, where users scroll and inspect dispersed content blocks.",
+  "correct": false
+}

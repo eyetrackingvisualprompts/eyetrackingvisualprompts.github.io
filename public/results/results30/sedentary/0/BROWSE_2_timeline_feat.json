@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a predominantly left-to-right horizontal progression with relatively stable, slowly decreasing Y fixation values and periodic rightward X saccades, matching the line-by-line scanning pattern characteristic of reading text rather than the more scattered or object-following patterns of other tasks.",
+  "correct": false
+}

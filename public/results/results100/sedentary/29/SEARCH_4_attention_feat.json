@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple horizontal regions with concentrated clusters near the top and mid-screen, indicating scanning of separated text blocks and results, closely matching the SEARCH example pattern more than the other activities.",
+  "correct": true
+}

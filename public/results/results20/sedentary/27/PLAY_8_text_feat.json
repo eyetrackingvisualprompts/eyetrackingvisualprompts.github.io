@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-length fixations with many horizontal scans around a narrow vertical band, interspersed with larger vertical/context switches (including to the top region near y\u22480) and occasional wide jumps, matches scanning search results and page navigation more than the more linear READ pattern or code-focused WRITE/DEBUG/INTERPRET. The pattern is less global and smooth than WATCH and less erratic/game-object\u2013centric than PLAY, aligning best with SEARCH behavior.",
+  "correct": false
+}

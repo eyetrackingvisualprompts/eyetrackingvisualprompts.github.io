@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, sudden jumps spanning many degrees of visual angle (e.g., from ~1\u20132\u00b0 to over 10\u00b0 and back), with subsequent stable clusters, consistent with following a target that relocates discretely and is then fixated for about a second. The motion is not constrained to purely horizontal movement (ruling out Horizontal Saccades), nor does it show the structured left-to-right line patterns of Reading or the rich, smaller, stimulus-driven scanpaths of Video Viewing or Balura Game. This pattern best matches Random Saccades.",
+  "correct": false
+}

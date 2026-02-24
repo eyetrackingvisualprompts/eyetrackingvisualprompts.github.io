@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a mid-left code-like region with additional scattered attention over nearby areas, resembling the broader, exploratory yet focused pattern seen in the DEBUG example rather than the tighter INTERPRET cluster or the more globally distributed BROWSE/WATCH/PLAY patterns.",
+  "correct": false
+}

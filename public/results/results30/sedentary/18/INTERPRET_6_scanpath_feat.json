@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points are tightly clustered in a small code-area region with limited horizontal spread and localized re-fixations, resembling focused inspection of a short code snippet as in the INTERPRET example, rather than broader scanning or multi-line reading patterns of other tasks.",
+  "correct": true
+}

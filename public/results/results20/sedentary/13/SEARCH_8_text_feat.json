@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across the entire screen (including to extreme top/bottom regions and even near-screen-edge coordinates) with relatively brief intervening fixations and repeated returns to central/horizontal bands indicate tracking dynamic, spatially distributed stimuli, matching the PLAY/game patterns more than the more localized and structured movements in code or reading tasks.",
+  "correct": false
+}

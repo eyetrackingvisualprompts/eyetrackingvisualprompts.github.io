@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including substantial vertical and horizontal shifts), interleaved with relatively short fixations and some long pursuit-like movements, match the dynamic scanning patterns seen in the PLAY examples more than the more line-structured (READ/WRITE) or vertically clustered (SEARCH/WATCH) behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with small, systematic horizontal shifts and limited vertical spread, characteristic of line-by-line reading, unlike the broader, more scattered patterns seen in search, browse, watch, write, or play activities.",
+  "correct": false
+}

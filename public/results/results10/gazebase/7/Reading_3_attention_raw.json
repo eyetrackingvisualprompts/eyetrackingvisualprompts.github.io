@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze is concentrated in a narrow horizontal band near the top of the screen with sequential left-to-right clusters, characteristic of line-by-line text reading, plus some lower-screen fixations likely from scrolling or interface, matching the Reading pattern more than the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades with shifts between upper and lower screen regions and varied horizontal positions, resembling scanning results pages and opening different items, which matches the SEARCH pattern more than the more localized or linear patterns of reading, writing, or code-focused tasks.",
+  "correct": false
+}

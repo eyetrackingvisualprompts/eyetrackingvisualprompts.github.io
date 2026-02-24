@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target data shows regular, repetitive horizontal scan patterns with slowly increasing and resetting X fixation positions and relatively stable Y positions, characteristic of line-by-line reading behavior, matching the READ example most closely.",
+  "correct": true
+}

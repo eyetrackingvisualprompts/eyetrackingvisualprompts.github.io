@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows larger, less-regular shifts in both X and Y with substantial vertical transitions around the middle of the window, suggesting alternation between search box, results list, and different regions of a results page, which aligns best with the SEARCH pattern compared to the more stable or systematically scanning patterns of READ/WRITE/BROWSE.",
+  "correct": true
+}

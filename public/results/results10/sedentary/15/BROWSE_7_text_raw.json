@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points are tightly clustered in a central horizontal band with short, systematic shifts and revisits across a limited region, resembling careful, localized code inspection rather than long horizontal sweeps (READ) or large exploratory jumps (BROWSE/SEARCH) or dynamic object tracking (PLAY/WATCH). This compact, code-like pattern best matches the INTERPRET examples.",
+  "correct": false
+}

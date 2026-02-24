@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is largely confined to a narrow vertical band with slow, smooth positional changes, especially toward and slightly beyond the top edge (y\u22480.9\u20131.1), with relatively long fixations and several extended, low-velocity transitions that resemble smooth pursuit rather than rapid, text-line saccades. This pattern is more consistent with following dynamic video content (WATCH) than with the horizontal, line-by-line scanning typical of READ/WRITE or the more scattered, multidirectional movements of SEARCH/BROWSE/PLAY.",
+  "correct": true
+}

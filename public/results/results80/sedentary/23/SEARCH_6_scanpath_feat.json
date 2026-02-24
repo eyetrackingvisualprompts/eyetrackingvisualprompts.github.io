@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze transitions alternate between a left cluster and a right cluster with repeated shifts, resembling movement between a search results list and selected pages, matching the SEARCH example pattern more than the other tasks.",
+  "correct": true
+}

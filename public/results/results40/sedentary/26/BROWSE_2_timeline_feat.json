@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows alternating horizontal scanning segments with substantial vertical transitions and scattered large saccades, resembling movement between search results, snippets, and possibly opened pages\u2014most consistent with the SEARCH template among the provided examples.",
+  "correct": false
+}

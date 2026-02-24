@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed over a central region with frequent shifts vertically and horizontally, resembling the mixed scanning of results lists, snippets, and interface elements seen in the SEARCH example more than the more localized patterns of READ, WRITE, or WATCH.",
+  "correct": false
+}

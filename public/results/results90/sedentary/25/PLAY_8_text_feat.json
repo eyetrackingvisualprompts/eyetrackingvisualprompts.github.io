@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-screen vertical band with many medium\u2013long fixations and frequent short saccades among closely spaced code-like coordinates, interleaved with larger jumps to other regions (e.g., top, side) and back. This pattern matches scanning and revisiting code sections while reasoning about and fixing errors, and differs from the more linear horizontal sweeps of READ and the broader exploratory jumps of SEARCH/BROWSE or dynamic tracking in PLAY/WATCH.",
+  "correct": false
+}

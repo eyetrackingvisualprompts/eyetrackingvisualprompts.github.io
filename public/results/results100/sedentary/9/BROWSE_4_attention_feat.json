@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left-central area\u2014typical code region\u2014with several additional clusters above and below, matching the more scattered, multi-area pattern of DEBUG rather than the tighter INTERPRET/WRITE or horizontally sweeping READ/BROWSE layouts.",
+  "correct": false
+}

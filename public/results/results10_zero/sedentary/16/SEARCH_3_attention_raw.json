@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a few compact regions rather than forming horizontal reading lines or code blocks. There is a strong cluster in the upper-left and several along the lower central area, suggesting attention to changing visual elements instead of systematic text or code scanning, which aligns best with watching a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide spatial coverage across the screen with numerous long saccades connecting dispersed fixation clusters, indicating frequent shifts of gaze in multiple directions typical of interactive game play rather than the more localized, structured patterns seen in reading, browsing, or searching.",
+  "correct": false
+}

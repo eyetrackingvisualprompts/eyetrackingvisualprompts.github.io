@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is relatively centered with moderate vertical variance and smoother, less frequent large saccades, resembling the WATCH template more than the text-heavy (READ/WRITE/SEARCH/BROWSE) patterns or the wider, more extreme movements seen in PLAY.",
+  "correct": false
+}

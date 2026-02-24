@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows a relatively narrow horizontal range with a gradual downward shift in fixation Y over time and limited saccades, matching the focused, line-by-line inspection pattern typical of debugging compared with the more dynamic scan paths of browsing/search or the more horizontal reading patterns.",
+  "correct": false
+}

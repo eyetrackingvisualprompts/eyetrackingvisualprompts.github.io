@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows frequent large-amplitude saccades across both horizontal and vertical axes, rapid shifts between dispersed regions, and only short mid-screen fixations. This high-mobility, multi-directional pattern is more consistent with visually tracking dynamic game elements than with the more structured, line-based movements of reading/writing or the comparatively less erratic scanning in search/browse/watch tasks.",
+  "correct": false
+}

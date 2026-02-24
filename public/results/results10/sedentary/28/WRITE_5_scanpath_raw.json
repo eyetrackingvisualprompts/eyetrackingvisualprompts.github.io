@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is clustered around a compact region on the left side of the screen\u2014consistent with a code window\u2014and interspersed with several long vertical and diagonal sweeps, resembling repeated transitions between code and output/other parts of the IDE. This matches the INTERPRET example pattern more closely than other activities.",
+  "correct": false
+}

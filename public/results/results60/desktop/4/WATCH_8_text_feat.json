@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shifts rapidly between a lower region (around y\u22480.2\u20130.3) and mid\u2011screen (y\u22480.4\u20130.6), with frequent vertical jumps and revisits to similar coordinates, indicating tracking of dynamic game elements and HUD regions rather than the more stable, line\u2011like horizontal patterns of reading/writing or the largely central, moderate-motion patterns of browsing/searching/watching.",
+  "correct": false
+}

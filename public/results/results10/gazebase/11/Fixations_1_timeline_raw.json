@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y gaze positions remain near the center with only small noise-like fluctuations and no large saccadic jumps, matching the pattern of sustained fixation on a static central target.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent shifts between code/IDE regions (mid screen) and lower areas consistent with keyboard interaction, plus repeated revisits to similar horizontal bands and scattered fixations mirror the WRITE examples more than the more localized, line-based scanning of INTERPRET/DEBUG or the smoother patterns of READ/WATCH/PLAY.",
+  "correct": false
+}

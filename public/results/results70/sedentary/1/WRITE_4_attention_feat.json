@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dominant focus on the left-center code area with several revisits and a secondary hotspot on the right (likely console or other panel), matching the WRITE example pattern of alternating attention between code editor and auxiliary area rather than the more localized INTERPRET or more scattered DEBUG behavior.",
+  "correct": true
+}

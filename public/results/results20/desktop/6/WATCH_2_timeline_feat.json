@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows several extended periods of relatively stable fixation levels with occasional larger saccadic shifts, and both X and Y positions gradually shift to new bands over time rather than exhibiting systematic left-to-right scanning or dense text-like regressions, which is more characteristic of watching dynamic video content than reading, writing, browsing, searching, or fast-paced gameplay.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are mostly stable with slow drifts and a few medium-size horizontal shifts, consistent with following limited on-screen content like characters/subtitles in a video, rather than the larger, frequent saccades of reading, browsing, or searching, or the rapid multidirectional movements typical in gameplay or writing.",
+  "correct": false
+}

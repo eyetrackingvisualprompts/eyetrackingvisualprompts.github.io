@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal, tightly clustered fixations forming several lines with occasional vertical return sweeps, characteristic of line-by-line reading rather than wide exploratory movements seen in search, browse, or play activities.",
+  "correct": false
+}

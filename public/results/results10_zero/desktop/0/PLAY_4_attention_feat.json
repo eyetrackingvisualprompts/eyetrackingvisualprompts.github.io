@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are concentrated in a narrow horizontal band at a low vertical position, forming a mostly linear left-to-right pattern with limited vertical spread, consistent with reading a single text line or narrow text region rather than the broader scanning seen in browsing/search or the more distributed movements of watching, playing, or writing.",
+  "correct": false
+}

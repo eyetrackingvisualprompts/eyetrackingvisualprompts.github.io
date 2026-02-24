@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide, frequent saccades across large screen regions (including extremes and outside typical text areas), mixed with medium fixations on multiple horizontal bands and top regions, match the exploratory, results\u2011and\u2011page\u2011hopping pattern seen in the SEARCH examples more than the line\u2011by\u2011line structure of READ or the localized code focus of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in the upper half with relatively stable horizontal bands and moderate vertical movement, resembling focused activity on a fixed text area. This pattern best matches the WRITE example, where attention remains around a central writing region with fewer broad exploratory saccades than SEARCH or BROWSE and less systematic line-by-line progression than READ.",
+  "correct": false
+}

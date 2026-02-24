@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow left block with occasional shifts to a right-side region, matching attention between code editor and a secondary area (e.g., console or reference) typical for writing/implementing code, and resembling the WRITE example more than other activities.",
+  "correct": false
+}

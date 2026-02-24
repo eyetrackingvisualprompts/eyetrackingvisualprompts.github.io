@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates between central/lower code/editor region and off-screen/toolbar-like areas with many medium fixations and frequent vertical shifts, resembling intensive code inspection and navigation as seen in DEBUG examples more than the more linear patterns of READ/WRITE or the broader scanning of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

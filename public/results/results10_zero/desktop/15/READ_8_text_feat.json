@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a narrow central-horizontal band with medium-length fixations (\u22480.17\u20130.57s) and mostly small to moderate horizontal saccades, indicating line-by-line inspection of static text rather than large exploratory jumps (SEARCH/BROWSE), highly dynamic scanning (PLAY/WATCH), or repeated gaze shifts between text and keyboard/menus (WRITE).",
+  "correct": true
+}

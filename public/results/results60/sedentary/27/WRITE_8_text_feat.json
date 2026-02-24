@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long sequences of horizontal scan-like fixations around mid-screen y\u2248550\u2013600 followed by repeated horizontal sweeps near y\u2248150\u2013200 resemble reading and scanning within web pages, interspersed with occasional large jumps (including off-screen coordinates) indicative of page navigation and layout changes typical of web browsing rather than structured code (WRITE/DEBUG/INTERPRET) or continuous lines of dense text (READ).",
+  "correct": false
+}

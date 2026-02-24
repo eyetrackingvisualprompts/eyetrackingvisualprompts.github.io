@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between a central text-like area and far peripheral/top regions, with many long saccades to the upper page and back, consistent with scanning search results and related panels rather than focused code (INTERPRET/DEBUG/WRITE) or continuous line-by-line reading (READ). The mix of prolonged fixations in a narrow vertical band and repeated excursions to distant positions matches the SEARCH exemplars\u2019 behavior on SERP plus result pages.",
+  "correct": false
+}

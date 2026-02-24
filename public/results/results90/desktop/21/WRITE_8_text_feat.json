@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow band near the top (y\u22480.1\u20130.3) with many short, local saccades and long, repeated fixations around nearly identical coordinates, consistent with monitoring a single text line and the nearby cursor area in a word processor. There is no extended horizontal sweep across mid\u2011screen as in READ, nor broad exploratory movements typical of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

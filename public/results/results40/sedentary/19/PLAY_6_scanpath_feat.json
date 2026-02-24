@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a code-like region toward the left-center with occasional long saccades to the far right, resembling reference checks or running the program; this pattern best matches the WRITE example rather than the more dispersed PLAY/SEARCH/BROWSE or the denser, more localized INTERPRET/DEBUG patterns.",
+  "correct": false
+}

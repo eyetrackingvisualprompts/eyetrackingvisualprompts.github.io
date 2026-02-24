@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows frequent medium-to-large saccades radiating from a central region toward screen edges with less dense, non-linear fixation clusters, resembling pursuit of moving objects across the screen. This dynamic, dispersed pattern best matches the PLAY examples rather than the more localized and structured patterns of reading, coding, or web search tasks.",
+  "correct": true
+}

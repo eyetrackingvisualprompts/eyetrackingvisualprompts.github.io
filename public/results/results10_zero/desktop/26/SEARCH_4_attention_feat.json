@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a narrow vertical band left-of-center with a constrained vertical range, consistent with reading text in a single-column or narrow layout rather than the broader, more scattered patterns expected from browsing, searching, watching video, writing, or playing games.",
+  "correct": false
+}

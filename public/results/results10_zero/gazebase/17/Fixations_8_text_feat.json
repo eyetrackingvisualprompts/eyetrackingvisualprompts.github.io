@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze stays within a narrow region around the center with long, multi-second fixations and only small-amplitude saccades (mostly <1\u20132\u00b0) without systematic horizontal sweeps or large random jumps, characteristic of attempting to maintain central fixation rather than tracking moving targets or reading.",
+  "correct": true
+}

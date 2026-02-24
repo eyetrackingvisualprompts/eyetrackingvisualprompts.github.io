@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Predominantly mid-screen gaze with frequent rapid saccades between clustered regions, substantial vertical excursions, and many revisits to similar coordinates indicate continuous tracking of moving elements rather than line-based reading or code inspection; the spatial spread and pattern best match the dynamic object-following seen in the PLAY examples (e.g., Pong/Agario) rather than the more structured scanpaths of READ/DEBUG/WRITE/INTERPRET or the broader exploratory sweeps of BROWSE/SEARCH/WATCH.",
+  "correct": true
+}

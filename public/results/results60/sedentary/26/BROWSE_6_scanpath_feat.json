@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows long horizontal sweeps across the upper part of the screen with scattered vertical transitions, resembling reading result snippets and moving between search bar, results list, and occasional lower-page content, consistent with SEARCH behavior rather than the more localized READ or code-focused patterns.",
+  "correct": false
+}

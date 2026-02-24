@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many vertical shifts between upper and mid screen, and repeated long saccades from central/right regions down to multiple lower clusters, resemble scanning through and jumping across sections of a web page more than the more line-structured, band-limited patterns of READ or the more center-focused, less vertically extensive patterns seen in WATCH/WRITE/PLAY/SEARCH examples.",
+  "correct": false
+}

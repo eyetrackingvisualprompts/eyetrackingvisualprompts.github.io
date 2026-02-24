@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent, rapid shifts across wide horizontal distances with less structured line-by-line progression, including large jumps and scattered vertical positions, consistent with tracking moving objects and navigating in a game rather than the more orderly, line-based patterns typical of reading, interpreting, or writing code or text.",
+  "correct": false
+}

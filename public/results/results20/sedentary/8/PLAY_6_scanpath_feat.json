@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a small central area with limited horizontal scanning and short saccades, matching the focused, stationary code-editing region seen in the WRITE example rather than the broader scanning of reading, browsing, or search.",
+  "correct": false
+}

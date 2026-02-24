@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows a dense, localized fixation cluster in the upper-left code area with a few scattered checks elsewhere, closely matching the focused, narrow-region gaze pattern seen in the DEBUG example rather than the more distributed or horizontal scan patterns of other tasks.",
+  "correct": false
+}

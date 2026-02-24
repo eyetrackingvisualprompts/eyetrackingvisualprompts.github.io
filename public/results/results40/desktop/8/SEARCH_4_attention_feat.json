@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered and moderately dispersed around the middle-lower area, resembling the browsing example with multiple nearby points and some spread, unlike the tight left cluster of WRITE or the upper-band patterns of READ/SEARCH.",
+  "correct": false
+}

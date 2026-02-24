@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts cover varied regions with medium-length fixations, frequent horizontal and diagonal saccades, and irregular revisits, resembling scanning mixed text/graphics areas on web pages rather than the more line-structured, highly regular horizontal patterns of READ or the focused upper-screen patterns of WATCH. The dynamics and dispersion best match BROWSE.",
+  "correct": false
+}

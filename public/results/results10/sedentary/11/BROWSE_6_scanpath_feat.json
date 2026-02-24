@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a relatively small horizontal band with sequential left-to-right movements and short regressions, matching the localized, line-by-line scanpath typical of reading text rather than the broader or more scattered patterns of other tasks.",
+  "correct": false
+}

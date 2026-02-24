@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in upper screen regions (likely search box and top results), with medium-length fixations and frequent short horizontal saccades plus occasional shifts between slightly different vertical bands, resembling scanning and refining around a search interface more than line-by-line reading, static watching, or game-like wide-range movements.",
+  "correct": false
+}

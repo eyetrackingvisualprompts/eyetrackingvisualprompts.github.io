@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y positions change slowly and smoothly over time with few abrupt saccades, resembling continuous tracking of moving stimuli in a video, and matching the WATCH example more than the more discrete, line-based or jumpy patterns of reading, coding, browsing, or gameplay.",
+  "correct": false
+}

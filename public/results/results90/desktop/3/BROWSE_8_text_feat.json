@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated around mid-horizontal, mid-vertical positions with short, regular saccades and medium-length fixations, forming locally linear horizontal shifts and small regressions typical of line-by-line text reading, closely matching the READ exemplars and less dispersed than SEARCH/BROWSE or WATCH/PLAY, and more stable than WRITE.",
+  "correct": false
+}

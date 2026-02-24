@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are clustered in a mid-upper vertical band with frequent small vertical and horizontal shifts, resembling scanning and revisiting regions as in web/news browsing rather than the more line-structured horizontal patterns of READ or the very top-heavy focus of WRITE/SEARCH. The spatial spread and alternating mid/upper locations align best with the BROWSE example dynamics.",
+  "correct": false
+}

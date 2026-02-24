@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-page (~0.4 height) and a lower band (~0.14\u20130.2), consistent with scrolling through web content and shifting between main article area and lower elements (e.g., next section, links). Movements are mostly vertical transitions between two horizontal bands with moderate fixations, matching the BROWSE example more than the tighter horizontal band of READ or the more dispersed, goal-specific SEARCH pattern.",
+  "correct": false
+}

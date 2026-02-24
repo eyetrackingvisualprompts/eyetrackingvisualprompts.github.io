@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a horizontal mid-to-lower band with many medium-to-long fixations and short horizontal saccades, consistent with scanning text blocks or lists. There are occasional large vertical or diagonal jumps to screen edges (including off-screen coordinates), and returns to similar horizontal bands\u2014matching webpage scrolling and scanning behavior seen in the BROWSE example, rather than the more structured line-by-line READ pattern or the object-following/play dynamics of PLAY/WATCH.",
+  "correct": true
+}

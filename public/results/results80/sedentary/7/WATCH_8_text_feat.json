@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, fast saccades spanning wide screen regions (including off-text extremes), many fixations in peripheral and lower areas, and highly dynamic back-and-forth scanning across disparate locations match the broad, scene-based visual exploration typical of watching video rather than the more structured, line- or code-oriented patterns of reading, writing, debugging, interpreting, searching, or browsing text, or the tight object-tracking patterns of gameplay.",
+  "correct": true
+}

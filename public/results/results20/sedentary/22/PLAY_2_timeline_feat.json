@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several distinct phases with large saccades and changes in both X and Y, suggesting switching between query box, results list, and different regions of the page, which matches the SEARCH pattern more than the steadier reading or coding tasks.",
+  "correct": false
+}

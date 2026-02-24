@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpaths show medium-sized saccades among multiple vertical regions (upper text/graphics, mid-page, lower page), intermittent revisits, and some large jumps to screen edges and off-center areas, consistent with scrolling and freely exploring diverse web content rather than the more line-structured patterns of READ or the tightly clustered code-region focus of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

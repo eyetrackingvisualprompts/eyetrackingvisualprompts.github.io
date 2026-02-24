@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze patterns show frequent medium-to-large saccades along horizontal bands and vertically between several cluttered regions, with many short fixations and rapid revisits, consistent with tracking moving objects and UI elements in a game rather than the line-by-line, more structured scanning of code (INTERPRET/DEBUG/WRITE) or text (READ/SEARCH). The amplitudes and spread resemble the provided PLAY examples on a high-resolution display.",
+  "correct": false
+}

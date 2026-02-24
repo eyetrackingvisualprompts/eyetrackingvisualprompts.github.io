@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed over a vertically extended central region with frequent saccades between multiple clusters, unlike the horizontal band of reading/writing or the upper-screen focus of watching; this pattern matches exploratory scanning of search result pages.",
+  "correct": false
+}

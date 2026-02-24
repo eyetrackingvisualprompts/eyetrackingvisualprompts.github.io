@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a compact vertical region on the left (code editor) with occasional saccades horizontally to a second area (likely console or reference), matching the structured, limited-area scanpath typical of writing code rather than the broader exploration seen in browse/search or the dense reading patterns in READ/INTERPRET.",
+  "correct": false
+}

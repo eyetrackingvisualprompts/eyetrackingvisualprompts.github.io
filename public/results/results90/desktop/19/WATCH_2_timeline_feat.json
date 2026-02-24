@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "X fixations stay in a relatively narrow lower band while Y fixations are mostly high with gradual shifts and occasional vertical excursions, matching the pattern of focusing on a top text area while intermittently looking down at keyboard or other UI elements, which corresponds best to the WRITE example.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide vertical and horizontal ranges (e.g., between upper and lower screen regions around y\u22480.2\u20130.7 and across x\u22480.3\u20130.7), with brief fixations and repeated returns to central zones, match the dynamic, multidirectional gaze shifts seen in the PLAY examples rather than the more line-structured (READ/WRITE/SEARCH) or more centrally clustered (WATCH/BROWSE) patterns.",
+  "correct": false
+}

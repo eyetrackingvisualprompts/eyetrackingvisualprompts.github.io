@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over a single horizontal region of code with minimal vertical spread and limited exploration elsewhere, resembling focused inspection of a code snippet as seen in the INTERPRET example rather than the broader, more dispersed patterns of debugging or browsing.",
+  "correct": false
+}

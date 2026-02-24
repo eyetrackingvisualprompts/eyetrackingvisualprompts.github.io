@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a narrow horizontal band with small progressive saccades, indicating line-by-line reading behavior rather than wider exploratory movements typical of browsing, search, play, watch, or writing tasks.",
+  "correct": true
+}

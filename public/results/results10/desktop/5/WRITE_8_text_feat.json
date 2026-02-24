@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow region with mostly short to medium fixations and small horizontal/vertical shifts that resemble line-based inspection of static content, without the broader exploratory jumps typical of SEARCH/BROWSE or the large multi-directional motions of PLAY/WATCH; this pattern best matches sustained reading behavior on part of a page.",
+  "correct": false
+}

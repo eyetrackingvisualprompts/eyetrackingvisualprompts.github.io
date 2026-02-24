@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a single code region with occasional checks to a few peripheral points, closely matching the INTERPRET example\u2019s compact, localized scanpath rather than the denser, more dispersed DEBUG or browsing-like patterns.",
+  "correct": true
+}

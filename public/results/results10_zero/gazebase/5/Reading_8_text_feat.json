@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze positions progress in small, mostly horizontal steps within a constrained vertical band, with ~200\u2013300 ms fixations and short inter-word saccades punctuated by occasional longer regressions\u2014matching the left-to-right, line-based scanpath and regression behavior typical of reading rather than large, discrete target jumps or game-like/random exploration.",
+  "correct": true
+}

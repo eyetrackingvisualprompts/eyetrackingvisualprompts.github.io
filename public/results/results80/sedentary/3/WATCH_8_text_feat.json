@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between widely separated regions (top/bottom, left/right, even off-center coordinates) with many medium-length fixations, repeated returns to similar vertical bands, and no clear line-by-line or code-structured scanning. This exploratory, multi-region navigation pattern best matches free web browsing behavior rather than focused reading, coding, or gameplay.",
+  "correct": false
+}

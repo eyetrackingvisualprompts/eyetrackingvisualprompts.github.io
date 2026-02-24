@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread over multiple vertical regions resembling several columns/sections, with frequent vertical and horizontal transitions and no strict line-by-line reading pattern; this matches scanning search-results pages rather than focused reading, watching, or code-oriented tasks.",
+  "correct": true
+}

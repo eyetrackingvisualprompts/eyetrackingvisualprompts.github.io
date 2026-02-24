@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a tall vertical band on the left side of the screen spanning multiple code lines, closely matching the DEBUG example pattern of scanning and revisiting several regions within the code area rather than the tighter single-block focus of INTERPRET or the more horizontally-structured patterns of READ/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dominant, dense fixation cluster over the left code area with an additional strong cluster higher up and a smaller one on the right resembles the concentrated, repeated inspection of specific code regions seen in the DEBUG example more than the single-block focus of WRITE/INTERPRET or the broader spread of SEARCH/BROWSE/WATCH/PLAY/READ.",
+  "correct": false
+}

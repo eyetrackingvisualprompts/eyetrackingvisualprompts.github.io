@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze coordinates cluster around a few compact regions with frequent short saccades and revisits, forming patterns similar to scanning and re-checking lines/blocks of code in the DEBUG example, rather than long linear reading (READ) or broad exploratory movements (BROWSE/SEARCH/PLAY/WATCH).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-to-large saccades across wide screen regions (including extremes and near-offscreen), irregular revisits between scattered areas, and mixed vertical/horizontal exploration without clear line-by-line structure or a central static AOI resemble exploratory navigation of varied web content typical of BROWSE rather than the more structured, localized patterns seen in code, reading, or video watching tasks.",
+  "correct": false
+}

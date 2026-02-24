@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze alternates between low vertical bands near the bottom and mid-screen regions with large, rapid saccades across wide horizontal distances, interspersed with shorter local corrections. This continuous, dynamic scanning pattern across UI-like horizontal strips matches the PLAY examples more than the more vertically structured patterns of reading/browsing or the upper-screen focus of watching videos.",
+  "correct": false
+}

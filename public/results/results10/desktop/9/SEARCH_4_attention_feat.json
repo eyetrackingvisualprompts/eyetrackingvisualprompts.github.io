@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in two vertically separated clusters near the screen center, consistent with scanning mid-page regions and shifting between content blocks typical of browsing news or blogs, and unlike the more linear patterns of READ/WRITE or edge-focused WATCH/PLAY maps.",
+  "correct": false
+}

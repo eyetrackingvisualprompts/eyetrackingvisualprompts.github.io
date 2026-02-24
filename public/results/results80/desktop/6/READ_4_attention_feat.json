@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the central-lower area with moderate spread, resembling mixed attention between results and interface elements, which matches the SEARCH heatmap pattern more than the more localized BROWSE or the line-like READ pattern.",
+  "correct": false
+}

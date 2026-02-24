@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between long, discrete jumps of several degrees followed by relatively stable clusters at each new position, with movements spanning both horizontal and vertical directions and covering a wide area. This pattern matches following a target that steps to random 2\u00b0+ positions every ~1 s, consistent with the Random Saccades task and not with strictly horizontal motion, continuous free viewing, or prolonged central fixation.",
+  "correct": false
+}

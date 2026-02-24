@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points jump between widely separated positions across both horizontal and vertical axes with roughly discrete one-step movements, not confined to a central region or a simple left-right path, matching the pattern of following a target that moves to random screen locations each second.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze progresses predominantly from left to right with medium-length fixations and short horizontal saccades within similar vertical bands, interspersed with occasional larger jumps consistent with line or section changes. This structured, text-like scan pattern with relatively regular forward movements best matches the READ examples rather than the more scattered exploration of BROWSE/SEARCH or the more erratic, multidirectional movements in PLAY/WATCH/WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y show slow, monotonic drift with small oscillations and occasional short regressions, matching the stable, line-by-line scanning pattern of reading text rather than the larger jumps or dynamic movements seen in browsing, searching, coding, or playing games.",
+  "correct": false
+}

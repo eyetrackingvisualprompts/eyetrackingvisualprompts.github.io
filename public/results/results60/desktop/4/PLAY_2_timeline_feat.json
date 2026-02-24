@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows mixed horizontal and vertical exploration with frequent shifts between mid and upper screen regions, resembling the pattern of scanning results and pages in web search, rather than the more line-structured movements of READ/WRITE or the centered focus of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

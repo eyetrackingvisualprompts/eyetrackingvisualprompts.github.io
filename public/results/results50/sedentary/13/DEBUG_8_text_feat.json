@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across wide screen regions (including off-text extremes and corners), visits to both central content and far top/bottom areas, and irregular, non-line-by-line scanpaths resemble exploratory navigation of diverse web pages rather than the more structured, line-oriented patterns of READ or the localized code-focused patterns of WRITE/DEBUG/INTERPRET. The dynamics align best with the BROWSE examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are clustered in a mid-screen region with irregular, multidirectional movements and no strong horizontal line structure, matching the exploratory pattern seen in the BROWSE example rather than the orderly lines of READ/WRITE or the broader dispersion of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

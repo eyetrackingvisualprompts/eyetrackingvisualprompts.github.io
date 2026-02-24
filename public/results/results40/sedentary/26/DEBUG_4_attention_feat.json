@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered on the left side where code typically appears, with some scattered looks to the right, closely matching the DEBUG example heatmap and not the more centralized or horizontally sweeping patterns of other tasks.",
+  "correct": true
+}

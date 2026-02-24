@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal movements with X varying in steps across the page and Y progressing slowly downward in small increments, characteristic of line-by-line reading rather than rapid multi-directional scanning, focused central watching, or game-like tracking.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is distributed across a large central area with frequent rapid saccades in multiple directions and no stable horizontal reading lines or tight code-focused clusters, matching dynamic object tracking and spatial exploration typical of gameplay rather than reading, coding, or browsing tasks.",
+  "correct": false
+}

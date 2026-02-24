@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple horizontal bands and regions with frequent long saccades between left and right areas, indicating switching between results and content areas typical of using a search engine, closely matching the SEARCH example pattern.",
+  "correct": true
+}

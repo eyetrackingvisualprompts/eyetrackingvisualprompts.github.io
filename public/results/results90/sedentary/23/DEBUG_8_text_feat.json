@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades to off-screen coordinates, repeated jumps between far-separated regions (top/bottom, corners), and irregular scanpaths with many excursions to the screen borders and beyond match exploratory, unconstrained web browsing rather than structured text/code reading or game-following patterns.",
+  "correct": false
+}

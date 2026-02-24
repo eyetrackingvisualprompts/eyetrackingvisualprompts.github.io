@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades across wide screen regions with relatively few tight clusters, indicating continuous tracking and repositioning typical of following moving objects or navigating in a game environment rather than the more localized, line- or block-structured fixations seen in reading, coding, or web search tasks.",
+  "correct": false
+}

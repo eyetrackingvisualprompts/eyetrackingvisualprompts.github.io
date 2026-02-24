@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze clusters frequently around mid-left coding-like regions with repeated small revisits, vertical transitions between code and possible console/output (upper and lower screen), and several off-screen/out-of-range points, matching the complex, iterative scanning and re-checking typical of debugging rather than the more linear patterns of reading/interpreting or broader movements of browsing/searching.",
+  "correct": false
+}

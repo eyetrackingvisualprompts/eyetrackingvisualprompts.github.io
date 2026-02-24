@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The scanpath shows medium-range, multidirectional saccades within a relatively compact region, without the clear horizontal line structure of reading, the strict horizontal axis of horizontal saccades, or the large-amplitude/random jumps of random saccades or game behavior; this pattern best matches natural exploration during video viewing.",
+  "correct": false
+}

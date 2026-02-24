@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a tight, nearly horizontal band with small vertical variation, indicating systematic left-to-right scanning across a text line, which matches reading behavior more than the other activities.",
+  "correct": true
+}

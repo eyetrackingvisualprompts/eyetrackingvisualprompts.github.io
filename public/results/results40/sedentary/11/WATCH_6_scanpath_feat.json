@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is widely distributed across the screen with many long saccades and dispersed fixations, resembling dynamic visual tracking over the whole display, which matches the WATCH examples more than the other tasks that show more localized or structured patterns.",
+  "correct": true
+}

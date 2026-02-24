@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The heatmap shows several clustered fixation regions around the central area with a few scattered peripheral fixations, indicating free exploration of dynamic visual content rather than strict central fixation, structured reading lines, or systematic target tracking; this pattern best matches natural viewing of a video clip.",
+  "correct": true
+}

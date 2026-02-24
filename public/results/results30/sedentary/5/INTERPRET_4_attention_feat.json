@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in two main code regions on the upper-left side, with some vertical shifts between lines and few scattered points elsewhere, resembling the more distributed, revisiting pattern seen in the DEBUG example rather than the tighter, single-block focus of WRITE or INTERPRET.",
+  "correct": false
+}

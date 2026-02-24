@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete position steps with large, irregular jumps in both horizontal and vertical directions, without a strictly alternating horizontal pattern (rules out Horizontal Saccades) or line-structured pattern (rules out Reading). The movements cover a broad 2D area with roughly one-second plateaus between shifts, matching the random target jumps of the Random Saccades task.",
+  "correct": false
+}

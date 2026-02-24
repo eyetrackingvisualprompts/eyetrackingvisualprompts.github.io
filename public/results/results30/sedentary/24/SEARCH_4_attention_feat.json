@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Two main dense clusters: one around mid-left and another mid-center, plus a smaller one near the bottom where the console or auxiliary panel likely is\u2014matching gaze shifts between code editor, reference area, and output typical of writing/implementing code rather than debugging or reading only.",
+  "correct": false
+}

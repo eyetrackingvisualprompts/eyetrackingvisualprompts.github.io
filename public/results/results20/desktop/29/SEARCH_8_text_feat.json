@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid saccades covering most of the screen in both horizontal and vertical directions (e.g., shifts between top/bottom and left/right extremes) with relatively short, variable fixations, indicating visually scanning a dynamic scene in multiple directions, which best matches the PLAY (gaming) patterns rather than the more locally clustered, line- or region-based movements seen in READ, WRITE, BROWSE, SEARCH, or WATCH examples.",
+  "correct": false
+}

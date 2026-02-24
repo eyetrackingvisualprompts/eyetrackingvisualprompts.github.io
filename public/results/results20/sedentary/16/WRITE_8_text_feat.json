@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent horizontal scanning around a central band, revisits to similar x-ranges, and several long, fast jumps between far-apart regions (including to top and far-right areas) resemble navigating a search results page and SERP snippets more than the tighter, column\u2011bounded patterns of READ/WRITE or the highly dynamic, object-following patterns of PLAY/WATCH.",
+  "correct": false
+}

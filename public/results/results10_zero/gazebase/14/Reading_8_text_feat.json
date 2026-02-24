@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze progresses in small, mostly horizontal saccades with clustered y-values that step gradually downward over time, consistent with line-by-line reading. Movements are largely within horizontal bounds and show systematic left-to-right and return sweeps, unlike the broader, more random jumps of random or horizontal saccades, or the irregular scan paths expected in gaming or video viewing.",
+  "correct": true
+}

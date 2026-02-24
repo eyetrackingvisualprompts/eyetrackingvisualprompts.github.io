@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a single, stable fixation cluster in the upper-left area of the screen, consistent with focusing on a small block of text (e.g., the beginning of a paragraph). There is minimal gaze movement across the screen, which is more typical of sustained reading than of dynamic tasks like WATCH, PLAY, or browsing/searching multiple regions.",
+  "correct": false
+}

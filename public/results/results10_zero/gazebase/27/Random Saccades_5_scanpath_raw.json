@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, discrete jumps in multiple directions across a wide central region, with positions held briefly before shifting again. This pattern of scattered, multi-directional movements with relatively stable segments matches a target that jumps randomly around the screen rather than the more linear horizontal motion, localized central fixation, structured reading lines, or complex object-oriented paths seen in the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively stable, horizontally biased fixations with small, regular saccades and gradual upward drift in X and Y, closely matching the structured, line-by-line pattern seen in the READ example and differing from the more scattered or highly dynamic patterns of browsing, search, or play.",
+  "correct": false
+}

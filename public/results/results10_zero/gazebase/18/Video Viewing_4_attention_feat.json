@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are clustered around several discrete positions scattered over central screen with both horizontal and vertical spread, not constrained to a line (horizontal saccades) or a single central point (fixation), and more sparse/structured than expected for reading or video viewing, matching a target that jumps to random locations and is fixated briefly at each (random saccades).",
+  "correct": false
+}

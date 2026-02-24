@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows extended periods of relatively stable horizontal position with abrupt large shifts and moderate vertical variation, consistent with tracking a game character mainly moving sideways rather than the more systematic line-by-line horizontal scans of reading/writing or the more varied exploratory patterns of browsing/searching/watching.",
+  "correct": false
+}

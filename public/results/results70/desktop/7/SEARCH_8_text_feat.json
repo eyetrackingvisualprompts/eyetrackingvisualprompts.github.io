@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen (y\u22480.4\u20130.6) with frequent medium-amplitude vertical shifts between content regions, interspersed with occasional larger jumps, matching the heterogeneous, scanning-style gaze of web browsing more than the more line-structured READ pattern or the more top-focused WRITE pattern.",
+  "correct": false
+}

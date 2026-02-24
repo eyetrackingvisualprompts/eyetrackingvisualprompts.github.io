@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central mid-screen area with limited vertical spread, matching the browsing example heatmap more closely than the others (which show horizontal reading lines, writing near top-left, dispersed play/search, or top-band watching).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-width horizontal scanning around screen center with intermittent larger vertical shifts and scattered saccades, indicating alternating reading of results and movement to other page regions, which best matches the mixed exploration and focused reading pattern of web searching rather than the more uniform patterns of pure reading, watching, or gameplay.",
+  "correct": false
+}

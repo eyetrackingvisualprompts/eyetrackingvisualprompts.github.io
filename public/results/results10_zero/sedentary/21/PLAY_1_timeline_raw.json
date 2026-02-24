@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change smoothly with few large saccades and no clear repetitive line-by-line vertical progression characteristic of reading or code-related tasks; the relatively stable, slowly drifting trajectory is most consistent with following visual content in a fullscreen video rather than scanning text or interactive elements.",
+  "correct": false
+}

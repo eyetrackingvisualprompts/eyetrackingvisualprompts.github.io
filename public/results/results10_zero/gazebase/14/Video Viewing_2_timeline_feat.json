@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions shift in discrete steps of several degrees, with each position held roughly around one second and movements occurring in varying directions and amplitudes, matching the behavior of following a randomly moving target rather than strictly horizontal motion, static fixation, reading, gaming, or natural video viewing.",
+  "correct": false
+}

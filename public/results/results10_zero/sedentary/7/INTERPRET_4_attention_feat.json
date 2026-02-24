@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are highly concentrated in a small region near the upper-left, with minimal horizontal or vertical scanning. Over a 10-second window, this stable, localized gaze pattern is most consistent with watching a video where the main visual content (e.g., a character or focal area) remains in roughly the same on-screen location, rather than with reading, coding, browsing, or searching, which would show more systematic scanning across lines or interface elements.",
+  "correct": false
+}

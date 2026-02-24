@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are mostly clustered in narrow horizontal bands with small, incremental shifts and occasional vertical jumps\u2014characteristic of line-by-line reading and moving between lines\u2014rather than large multi-directional movements typical of search, browsing, playing, or watching dynamic video content.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between two horizontally separated regions (left and right) with reading-like horizontal sweeps and transitions between them, matching behavior of viewing search results and opening pages rather than focused code reading/writing or continuous text reading.",
+  "correct": false
+}

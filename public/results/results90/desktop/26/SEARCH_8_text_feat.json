@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows mid-screen exploration with frequent medium-amplitude vertical and horizontal shifts between roughly 0.3\u20130.6 in both axes, plus intermittent larger jumps to top/bottom regions\u2014consistent with scrolling and scanning mixed text/image layouts as in web browsing, and less structured than the tight line-based patterns of READ or the peripheral-heavy, highly dynamic PLAY/WATCH examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a relatively small central-left code area with many short regressions between nearby lines and columns, substantial re-reading and back-and-forth within the same region, and no long horizontal sweeps indicative of prose reading or broad exploratory scanning. This tightly clustered, iterative inspection pattern best matches the INTERPRET examples, where participants repeatedly revisit a short code snippet to reason about its behavior.",
+  "correct": false
+}

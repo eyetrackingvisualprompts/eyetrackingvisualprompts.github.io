@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze shows irregular multi-directional movements with variable amplitudes, numerous short fixations, and no consistent horizontal stepping or line-by-line pattern. Movements are neither strictly horizontal (Horizontal Saccades), constrained around a central point (Fixation), nor systematically progressing like reading. The complex, free-viewing-like pattern best matches Video Viewing rather than the structured tracking or game tasks.",
+  "correct": false
+}

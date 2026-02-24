@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The heatmap shows one dominant fixation cluster around mid-right with additional smaller clusters lower-left, indicating focused reading on a central results area with occasional shifts to other elements\u2014consistent with scanning search results rather than the more continuous horizontal patterns of reading/browsing or dispersed patterns of watching/playing.",
+  "correct": false
+}

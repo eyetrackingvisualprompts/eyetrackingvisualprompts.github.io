@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show large, discrete jumps in both horizontal and vertical directions to many irregular coordinates across the screen, with plateaus between jumps, matching a target that appears at random 2\u201315\u00b0 offsets rather than purely horizontal motion, stable fixations, or systematic reading patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-amplitude horizontal shifts with variable vertical positions and intermittent larger saccades, indicating scanning across different regions as on diverse webpages, which best matches the heterogeneous, exploratory pattern of BROWSE rather than the more structured or focused patterns of READ, WRITE, or DEBUG.",
+  "correct": false
+}

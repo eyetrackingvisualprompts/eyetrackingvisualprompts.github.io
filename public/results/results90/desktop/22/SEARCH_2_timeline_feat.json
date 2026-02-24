@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with frequent vertical shifts between mid and upper screen regions and many saccades, indicating repeated scanning of different screen areas typical of formulating queries and inspecting search results rather than the more linear patterns of READ/WRITE or the central focus of WATCH/PLAY.",
+  "correct": true
+}

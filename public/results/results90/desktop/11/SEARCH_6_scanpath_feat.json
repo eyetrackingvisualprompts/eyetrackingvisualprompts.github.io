@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered in a narrow horizontal band with limited vertical dispersion, resembling line-by-line fixation across a compact text region, which matches the reading scanpath pattern more than the broader, more scattered patterns of browsing, search, or gameplay.",
+  "correct": false
+}

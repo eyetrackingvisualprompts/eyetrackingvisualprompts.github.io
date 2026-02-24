@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a compact region on the left side of the screen with frequent short saccades and revisits, indicating intensive, localized code inspection typical for debugging rather than broader navigation or reading patterns.",
+  "correct": true
+}

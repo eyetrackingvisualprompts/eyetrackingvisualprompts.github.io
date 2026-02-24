@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains confined near the screen center with small, systematic shifts and relatively long fixations (0.2\u20130.7 s), indicating focused inspection of a localized area of text rather than large exploratory movements typical for browsing/searching or wider, more dynamic scanning seen in games or videos. This stable, text-like pattern best matches the READ activity.",
+  "correct": true
+}

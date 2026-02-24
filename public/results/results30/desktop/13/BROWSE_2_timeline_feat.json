@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze fixations cluster near mid-screen with relatively small, frequent shifts in both X and Y, resembling moderate-scatter patterns of reading mixed media and links, which matches the browsing example more than the more structured (READ/WRITE) or more dynamic (PLAY/SEARCH/WATCH) patterns.",
+  "correct": true
+}

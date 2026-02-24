@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a single horizontal band near the top-left code area, with dense clustered attention and minimal vertical spread, closely matching the WRITE exemplar heatmap and typical focused coding/typing behavior rather than the more dispersed patterns of browsing or searching.",
+  "correct": false
+}

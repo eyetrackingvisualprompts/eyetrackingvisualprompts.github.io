@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal scanning with frequent vertical shifts and irregular saccades across a broad area, resembling heterogeneous web page exploration more than structured reading, focused code work, or continuous tracking, which matches the BROWSE pattern.",
+  "correct": false
+}

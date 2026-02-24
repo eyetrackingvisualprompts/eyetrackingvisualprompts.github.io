@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates regularly between about +15 and -15 degrees with long plateaus and rapid transitions, while Y stays near 0 with minor deviations. This pattern matches a target moving horizontally and holding each position for about one second, characteristic of Horizontal Saccades rather than random or task-driven gaze behavior.",
+  "correct": true
+}

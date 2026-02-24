@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades that jump across wide screen regions (e.g., from ~0.28,0.58 to ~0.86,0.26 and back toward mid-screen) combined with many medium-length fixations around mid-screen resemble exploratory, scanning behavior typical of browsing web pages rather than the more line-structured movements of reading, the top-focused pattern of search, or the more centrally clustered patterns of writing/watching/playing.",
+  "correct": false
+}

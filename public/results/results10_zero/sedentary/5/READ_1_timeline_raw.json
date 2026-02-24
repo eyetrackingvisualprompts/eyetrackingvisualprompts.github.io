@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near the vertical center with small jitter and slow horizontal drift, lacking clear line-by-line reading or rapid saccades typical of text or code tasks. This stable, centrally focused pattern best matches passively watching a full-screen video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze path is highly scattered across the screen with many irregular saccades and fixations at multiple vertical levels, lacking the structured horizontal lines of reading or the tight code-area focus of programming tasks. This exploratory, wide-coverage pattern best matches the BROWSE example scanpath.",
+  "correct": false
+}

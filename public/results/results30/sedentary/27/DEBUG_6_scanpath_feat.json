@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region on the left side of the screen with short local saccades and minimal horizontal scanning, matching focused interaction with a code editor as seen in the WRITE example rather than the broader spread of DEBUG or INTERPRET.",
+  "correct": false
+}

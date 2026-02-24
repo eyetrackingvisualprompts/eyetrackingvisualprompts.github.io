@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely concentrated on the left-central region with some vertical spread, similar to code-focused tasks; the pattern most closely matches the DEBUG heatmap, which shows intensive inspection of a confined code area rather than the more compact INTERPRET or WRITE regions.",
+  "correct": true
+}

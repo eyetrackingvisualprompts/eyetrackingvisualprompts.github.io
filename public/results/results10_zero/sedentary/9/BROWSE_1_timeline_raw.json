@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near a constant vertical position with slow, smooth horizontal shifts and very few large saccades, indicating tracking a relatively fixed region on the screen over time, which is most consistent with passively watching a video rather than reading, coding, searching, or interactive gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows progressive rightward and downward movements with several mid-level regressions and revisits, resembling the INTERPRET example where participants inspect and re-check specific code lines rather than the more linear READ or more scattered BROWSE/SEARCH patterns.",
+  "correct": false
+}

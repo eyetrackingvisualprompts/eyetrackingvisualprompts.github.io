@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated shifts between a central horizontal band and higher Y regions with medium-to-large saccades and varied X positions, indicating alternating attention between a search box/results and other page elements. This mixed but structured exploration pattern best matches the SEARCH example compared to the more linear READ, focused INTERPRET/WRITE, or dynamic PLAY/WATCH patterns.",
+  "correct": true
+}

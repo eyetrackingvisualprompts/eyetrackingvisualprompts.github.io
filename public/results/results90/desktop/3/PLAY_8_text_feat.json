@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts are mostly within a mid-screen band with frequent short saccades among nearby positions, occasional larger vertical moves, and mixed fixation durations, closely matching the heterogeneous, scanning-like pattern seen in the BROWSE examples rather than the more structured line-wise READ pattern or the more extreme movements of PLAY/WATCH.",
+  "correct": false
+}

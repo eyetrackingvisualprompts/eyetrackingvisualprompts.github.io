@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a strong, localized fixation cluster in the upper-left code area with minimal spread, consistent with focused inspection of a short code snippet to reason about its output rather than broader navigation or scanning typical of browsing, searching, reading long text, or gameplay.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows exploration of multiple regions including top, middle, and lower parts of the screen with frequent transitions between a central cluster and dispersed areas, resembling use of a search engine results page and subsequent navigation, which best matches the SEARCH example scanpath.",
+  "correct": false
+}

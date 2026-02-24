@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows recurring shifts between a mid\u2011vertical band and higher vertical regions with horizontal scanning, consistent with alternating between search results and selected pages, matching the SEARCH pattern more than the more uniform READ/INTERPRET/DEBUG code-reading traces or the highly dynamic PLAY/WATCH behavior.",
+  "correct": true
+}

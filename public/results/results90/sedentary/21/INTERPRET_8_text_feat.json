@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered around a code-like region (x\u2248200\u2013400, y\u2248400\u2013650) with many short fixations and local regressions, plus frequent vertical shifts between slightly different y-bands, consistent with reading/writing lines in an editor. There are repeated returns between mid-code and lower areas (likely output/console), similar to WRITE examples and less exploratory or wide-ranging than SEARCH/BROWSE or the dynamic object tracking patterns in PLAY/WATCH.",
+  "correct": false
+}

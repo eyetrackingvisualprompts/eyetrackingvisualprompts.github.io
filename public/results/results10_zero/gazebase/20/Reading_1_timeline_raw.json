@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show step-like jumps to various positions across the screen, with each position held roughly around one second before jumping again, matching the pattern of following a randomly moving target rather than purely horizontal motion, central fixation, or continuous scanning/reading.",
+  "correct": false
+}

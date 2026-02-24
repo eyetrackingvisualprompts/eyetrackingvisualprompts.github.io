@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts with a relatively stable horizontal region followed by a sharp vertical shift and then gradual rightward and downward movements, resembling scanning results then moving to a specific result page, which best matches the SEARCH pattern among the examples.",
+  "correct": true
+}

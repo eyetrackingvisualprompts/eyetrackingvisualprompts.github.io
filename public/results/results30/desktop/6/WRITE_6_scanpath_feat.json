@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points progress mainly horizontally with relatively small vertical shifts, forming a band similar to line-by-line reading behavior and closely matching the READ example scanpath pattern.",
+  "correct": false
+}

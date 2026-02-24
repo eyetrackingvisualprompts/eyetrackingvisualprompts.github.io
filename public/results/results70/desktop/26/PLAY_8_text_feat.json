@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact region slightly above mid\u2011screen with many short, local saccades and medium\u2011length fixations, matching the stable, line\u2011anchored behavior over the text and cursor area seen in the WRITE examples, rather than the broader vertical scanning of READ or the larger exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

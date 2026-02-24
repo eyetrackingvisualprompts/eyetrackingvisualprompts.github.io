@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between multiple distant regions (top-left, mid-right, bottom area) with long horizontal saccades and scattered fixations, resembling movement between query box, result snippets, and possibly different parts of a search-results page rather than the more localized patterns seen in coding, reading, or watching tasks.",
+  "correct": false
+}

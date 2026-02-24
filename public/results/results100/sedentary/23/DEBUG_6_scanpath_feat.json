@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered around the left\u2011center where code would be, with frequent vertical and diagonal shifts across lines and occasional long saccades to the right/lower areas (likely console or auxiliary panes). This mixed focused-inspection and checking pattern matches the DEBUG example more than WRITE or INTERPRET.",
+  "correct": true
+}

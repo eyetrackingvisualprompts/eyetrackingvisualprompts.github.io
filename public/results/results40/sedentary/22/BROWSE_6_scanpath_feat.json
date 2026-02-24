@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Wide, dispersed scanpath covering large areas with long saccades and shifting clusters, resembling dynamic object tracking and navigation rather than localized reading or coding, which matches the PLAY pattern best among the examples.",
+  "correct": false
+}

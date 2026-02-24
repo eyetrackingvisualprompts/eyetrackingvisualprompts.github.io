@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions are confined to a narrow vertical band near mid-screen with small, slow horizontal drifts and minimal large saccades, matching the stable, center-lower focus typical of typing in a word processor rather than the broader scanning seen in reading, browsing, or searching.",
+  "correct": false
+}

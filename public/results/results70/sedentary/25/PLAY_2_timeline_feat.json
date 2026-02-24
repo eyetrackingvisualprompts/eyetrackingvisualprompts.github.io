@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades with both horizontal and vertical shifts, alternating between upper and lower regions, consistent with scanning search results and occasional reading\u2014matching the SEARCH pattern more than the more linear READ traces or highly dynamic PLAY traces.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal fixations with small, stepwise downward shifts in Y over time, consistent with line-by-line reading of text rather than large object-tracking movements or frequent vertical jumps typical of browsing, searching, or gameplay.",
+  "correct": false
+}

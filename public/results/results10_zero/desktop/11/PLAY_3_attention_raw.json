@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a compact cluster in the central lower portion of the screen with minimal horizontal sweep or vertical progression, indicating sustained attention to a small region (consistent with watching a video, e.g., focusing on characters or subtitles) rather than the systematic left-to-right, line-by-line scanning typical of reading, writing, browsing, searching, or the broader, more dispersed movements seen during gameplay.",
+  "correct": false
+}

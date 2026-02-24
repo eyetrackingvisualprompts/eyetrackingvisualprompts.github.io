@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster on the left-central area where code usually appears, with additional vertical spread suggesting scanning for issues, closely resembling the DEBUG example heatmap more than the tighter WRITE/INTERPRET patterns or the dispersed browsing/reading layouts.",
+  "correct": false
+}

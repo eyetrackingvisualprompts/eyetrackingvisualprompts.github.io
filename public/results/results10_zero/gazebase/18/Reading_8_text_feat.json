@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze shifts consist of large-amplitude, predominantly horizontal saccades around a roughly constant vertical level, with relatively regular fixation durations, matching the pattern of following a target moving back and forth horizontally rather than irregular multi-directional movements seen in random saccades, reading, video viewing, or gaming.",
+  "correct": false
+}

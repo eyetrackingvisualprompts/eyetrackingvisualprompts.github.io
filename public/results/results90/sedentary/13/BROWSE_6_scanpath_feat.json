@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a few vertically aligned regions with occasional long saccades to the right, consistent with alternation between code editor and output/controls typical of programming (WRITE) rather than the denser clusters or widespread coverage seen in other tasks.",
+  "correct": false
+}

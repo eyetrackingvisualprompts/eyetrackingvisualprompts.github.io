@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points are scattered across the screen in multiple discrete clusters without clear horizontal line structure or central fixation, resembling the distributed cluster pattern of the Random Saccades example where the target jumps to varied positions for one-second intervals.",
+  "correct": false
+}

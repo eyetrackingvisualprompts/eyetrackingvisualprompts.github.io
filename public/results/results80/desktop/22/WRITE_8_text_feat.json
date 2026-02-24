@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered around a small central-upper region with long, stable fixations and only minor local saccades, indicating passive viewing of a relatively static area on the screen, consistent with watching video content rather than the broader scanning (BROWSE/SEARCH), systematic line shifts (READ/WRITE), or larger exploratory movements (PLAY).",
+  "correct": false
+}

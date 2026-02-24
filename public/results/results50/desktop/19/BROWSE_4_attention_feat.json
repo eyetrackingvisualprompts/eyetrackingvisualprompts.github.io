@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered and moderately dispersed both horizontally and vertically, indicating scanning of a web page or news/blog content, which closely matches the browsing heatmap pattern rather than the more top-heavy WRITE/READ or localized PLAY distributions.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dense fixations scattered over a mid-screen region with frequent multidirectional saccades and no strong left-to-right reading lines or localized writing focus, matching the exploratory, mixed-visual behavior typical of web search result pages and SERP navigation seen in the SEARCH example.",
+  "correct": false
+}

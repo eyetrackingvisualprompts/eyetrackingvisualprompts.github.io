@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster around the left-middle region with a vertical spread similar to the WRITE example, indicating focused attention on an editable code area with occasional shifts, rather than the tighter INTERPRET cluster or more dispersed DEBUG pattern.",
+  "correct": false
+}

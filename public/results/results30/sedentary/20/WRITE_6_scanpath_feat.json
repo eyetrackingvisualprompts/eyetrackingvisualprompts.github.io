@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a small code-like region on the left with many revisits and minimal horizontal progression, plus one long saccade downwards suggestive of briefly checking output or another code part\u2014this pattern best matches focused code interpretation rather than reading prose or free browsing.",
+  "correct": false
+}

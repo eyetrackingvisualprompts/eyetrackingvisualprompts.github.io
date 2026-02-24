@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Multiple clustered fixation regions with moderate saccades among them, covering a mid-screen area similar to the browsing example rather than the more linear (READ), highly localized (PLAY/WRITE), or vertically sweeping (WATCH) patterns.",
+  "correct": false
+}

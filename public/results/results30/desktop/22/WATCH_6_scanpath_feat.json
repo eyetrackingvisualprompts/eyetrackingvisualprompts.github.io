@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations across a broad central region with frequent saccades in multiple directions, resembling the heterogeneous, exploratory pattern of the SEARCH example more than the more localized or structured patterns seen in READ, BROWSE, WATCH, WRITE, or PLAY.",
+  "correct": false
+}

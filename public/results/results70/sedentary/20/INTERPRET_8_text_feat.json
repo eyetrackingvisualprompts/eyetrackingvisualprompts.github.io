@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many vertical and diagonal saccades across disparate screen regions, including repeated jumps to screen edges and off-screen coordinates, indicate scanning heterogeneous web content and UI elements rather than structured code (INTERPRET/DEBUG/WRITE) or horizontal text lines (READ). The pattern closely resembles the provided BROWSE examples, with exploratory movements between content areas, address/UI regions, and large excursions to extreme coordinates.",
+  "correct": false
+}

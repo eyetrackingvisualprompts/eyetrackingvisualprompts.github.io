@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in upper-left area typical of reading search results and query box, with repeated vertical and horizontal saccades plus occasional transitions to mid-right and lower regions, matching the exploratory yet semi-structured pattern seen in the SEARCH example rather than the denser full-screen exploration of WATCH/BROWSE or the focused code regions of programming tasks.",
+  "correct": true
+}

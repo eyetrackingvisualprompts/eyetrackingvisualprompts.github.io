@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades to off-screen or extreme coordinates (e.g., x\u22481700, y<0) alternating with clusters of fixations around central gameplay-like regions (x\u2248500\u2013700, y\u2248550\u2013600), plus rapid returns across the screen, match dynamic target-following/scene-scanning typical of games rather than the more stable, line-structured patterns of reading/coding or the slower, less extreme shifts of browsing/searching.",
+  "correct": false
+}

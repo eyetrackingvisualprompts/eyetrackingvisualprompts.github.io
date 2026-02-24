@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows long, irregular sequences of varied amplitudes and directions with extended exploration across many screen regions, lacking the strict horizontal scanlines of reading or the constrained one-dimensional motion of horizontal saccades, and including several large scene shifts and local micro-movements typical of free viewing of dynamic visual content such as a movie trailer.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between a narrow band of mid-page content and multiple top-of-page regions, with repeated revisits to the same horizontal text-like lines and occasional large jumps to other areas, matches the mixed reading-and-scanning pattern typical of using a search engine results page rather than the more continuous line-wise reading of READ or the code-centered, more localized patterns of programming tasks.",
+  "correct": false
+}

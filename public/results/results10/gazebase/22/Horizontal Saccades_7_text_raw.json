@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between large, nearly symmetric horizontal positions around \u00b115 degrees with relatively small vertical variation, matching the pattern of tracking a target moving horizontally across the screen as in the Horizontal Saccades task rather than the more irregular or multi-directional movements seen in reading, random saccades, games, video viewing, or central fixations.",
+  "correct": true
+}

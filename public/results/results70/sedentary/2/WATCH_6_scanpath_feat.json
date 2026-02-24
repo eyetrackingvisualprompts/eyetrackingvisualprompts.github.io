@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is dispersed across much of the screen with varied horizontal and vertical movements, multiple regions of interest, and no clear line-by-line reading or central focus typical of coding or video watching, matching the heterogeneous scanpath seen in the BROWSE example.",
+  "correct": false
+}

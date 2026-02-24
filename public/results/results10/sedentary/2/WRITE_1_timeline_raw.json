@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large step-like shifts in both X and Y positions with periods of relative stability resemble navigating between different webpage regions and scrolling, matching the browsing pattern more than the other tasks.",
+  "correct": false
+}

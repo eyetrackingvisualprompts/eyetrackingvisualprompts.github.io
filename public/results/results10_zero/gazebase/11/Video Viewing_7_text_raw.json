@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze coordinates show large-amplitude shifts in both horizontal (around \u00b115\u00b0) and vertical (up to ~9\u00b0) directions, followed by ~1-second clusters of tightly grouped points indicative of fixations at discrete positions. The movements are not strictly horizontal (ruling out Horizontal Saccades) nor confined near the center (ruling out Fixations), and the pattern of large, evenly spaced relocations to distinct points matches a subject following a randomly positioned target rather than the more continuous, content-driven scanning expected in Reading, Video Viewing, or the game scenario.",
+  "correct": false
+}

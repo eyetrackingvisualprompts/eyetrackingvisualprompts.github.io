@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are concentrated near the very bottom of the screen with small horizontal movements and occasional short jumps, consistent with looking between the current text line and nearby interface elements while typing, which matches the WRITE pattern rather than the more central or upper-screen distributions seen in READ, SEARCH, or WATCH.",
+  "correct": false
+}

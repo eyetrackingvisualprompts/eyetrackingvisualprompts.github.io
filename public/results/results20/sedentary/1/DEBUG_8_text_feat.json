@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-scale vertical and horizontal shifts between distinct screen regions, including moves from mid-page content to top areas and even off-screen coordinates, along with scattered but revisited clusters, resemble scanning search results and page navigation more than the more linear patterns of READ or the localized code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

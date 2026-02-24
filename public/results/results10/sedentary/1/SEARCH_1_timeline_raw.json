@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows an initial period with higher vertical variability followed by a long stable horizontal scan at a lower vertical position, resembling scrolling from search results into a specific page, which matches the SEARCH example pattern more than the others.",
+  "correct": true
+}

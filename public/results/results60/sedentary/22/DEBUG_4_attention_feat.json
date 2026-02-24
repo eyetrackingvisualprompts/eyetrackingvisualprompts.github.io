@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered on the left-central area where code typically appears, but with a more dispersed, varied pattern than WRITE and slightly broader than INTERPRET, matching the DEBUG example\u2019s concentrated yet somewhat scattered focus while examining and correcting code.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cluster near screen center with small, frequent horizontal and vertical shifts and moderate saccades, indicating short, scattered fixations over locally changing content, which best matches the browsing pattern rather than the more linear scans of reading or writing or the larger movements in search, watch, or play tasks.",
+  "correct": false
+}

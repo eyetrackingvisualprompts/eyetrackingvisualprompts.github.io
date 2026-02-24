@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is highly stable with minimal saccades and almost no horizontal scanning, indicating focused attention on a small, central region such as a short code snippet, which matches the INTERPRET pattern more than the other tasks that show broader or more dynamic exploration.",
+  "correct": false
+}

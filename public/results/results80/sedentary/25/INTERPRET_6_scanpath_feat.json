@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered on the left code area with recurring long saccades to a right-side region, consistent with alternating between editing code and interacting with an IDE console or UI, which matches the WRITE pattern more than other tasks.",
+  "correct": false
+}

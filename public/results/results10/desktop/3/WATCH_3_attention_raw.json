@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the central area with vertical spread and several scattered points, resembling the browsing example pattern more than the more linear READ pattern or localized WATCH/WRITE patterns, consistent with scanning mixed-content web pages.",
+  "correct": false
+}

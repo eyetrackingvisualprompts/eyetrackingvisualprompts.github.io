@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze cluster is relatively compact near screen center with multidirectional saccades and no strong left-to-right line structure; this matches the more localized but exploratory viewing pattern typical for inspecting a search results page rather than the horizontal sweeps of reading or the broader dispersion seen in browsing or playing.",
+  "correct": false
+}

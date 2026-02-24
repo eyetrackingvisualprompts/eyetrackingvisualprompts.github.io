@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with dense, sequential fixations and short saccades, matching the line-by-line pattern typical of reading text rather than the broader, more scattered exploration seen in other tasks.",
+  "correct": false
+}

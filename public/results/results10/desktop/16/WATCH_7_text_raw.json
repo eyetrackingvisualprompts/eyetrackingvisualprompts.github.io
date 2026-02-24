@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Long stable fixations in a narrow vertical band near the upper screen, with occasional jumps to very high y (near bottom UI areas) and back, plus brief excursions to side regions, resemble monitoring and editing text in a word processor more than continuous horizontal scanning (READ/BROWSE/SEARCH) or large-amplitude dynamic movements (WATCH/PLAY).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a left-side mid-vertical code area, with a small horizontal spread and minimal activity elsewhere, matching the focused gaze pattern seen in the WRITE example rather than the tighter INTERPRET or DEBUG clusters or the more distributed BROWSE/READ/SEARCH patterns.",
+  "correct": false
+}

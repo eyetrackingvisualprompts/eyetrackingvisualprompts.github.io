@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze stays mostly in the central-middle area with medium-length fixations and frequent small saccades, interspersed with occasional larger vertical jumps (e.g., from ~0.78 to ~0.39 and back up), consistent with scrolling and scanning mixed text/graphics as seen in the BROWSE example, and less structured than the horizontal scanpaths typical of READ or WRITE.",
+  "correct": true
+}

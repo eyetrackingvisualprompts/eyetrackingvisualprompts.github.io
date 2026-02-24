@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left-central area with frequent shifts to an upper-central/right region, resembling alternation between a search-results list and selected pages. This pattern matches the SEARCH example more than other tasks, which show either more dispersed browsing, structured reading lines, or tight code-focused clusters.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations are spread vertically with a primary cluster in the mid-left and additional clusters above and below, resembling scanning search results and related content rather than the more compact patterns of READ/INTERPRET/WRITE or the full-screen spread of WATCH/PLAY. This distribution best matches the SEARCH example heatmap.",
+  "correct": true
+}

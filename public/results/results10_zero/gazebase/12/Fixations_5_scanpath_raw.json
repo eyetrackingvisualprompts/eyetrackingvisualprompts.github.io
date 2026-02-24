@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows repeated, localized shifts among a small cluster of nearby positions rather than long, regular horizontal sweeps (horizontal saccades) or line-by-line patterns (reading). It is more dispersed and dynamic than a simple central fixation, but less spatially varied than free video viewing or fully random saccades, suggesting task-driven refixations on nearby moving targets as in the Balura gaze game.",
+  "correct": false
+}

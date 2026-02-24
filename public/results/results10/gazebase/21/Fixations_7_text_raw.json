@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points remain clustered within a narrow spatial region with only small, slow drifts and no large systematic horizontal or random multi-degree jumps, matching the low-amplitude jitter characteristic of fixation data rather than the larger excursions seen in saccades, reading, game play, or video viewing.",
+  "correct": true
+}

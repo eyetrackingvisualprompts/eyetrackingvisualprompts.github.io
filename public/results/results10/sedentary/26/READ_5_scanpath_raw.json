@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is confined to a narrow horizontal band near the top-middle of the screen with small lateral movements, similar to scanning a search-results row or snippet line, closely matching the SEARCH example pattern.",
+  "correct": false
+}

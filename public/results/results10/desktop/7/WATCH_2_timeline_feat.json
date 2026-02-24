@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze follows a predominantly horizontal pattern with gradual rightward movement and relatively small vertical changes, closely matching the structured line-by-line reading behavior seen in the READ example, rather than the more scattered or multi-directional patterns of browsing, searching, playing, watching, or writing.",
+  "correct": false
+}

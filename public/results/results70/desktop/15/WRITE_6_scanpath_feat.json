@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered in a central-upper region with moderate exploratory saccades outward, resembling the SEARCH example more than the denser horizontal bands of READ/WRITE or the broader spreads seen in WATCH/PLAY/BROWSE.",
+  "correct": false
+}

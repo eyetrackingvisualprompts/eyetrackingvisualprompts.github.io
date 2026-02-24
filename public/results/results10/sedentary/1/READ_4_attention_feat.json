@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are spread horizontally across the central band of the screen with moderate dispersion and no clear line-by-line reading pattern, closely matching the WATCH example heatmap rather than the more scattered SEARCH/PLAY or narrow READ patterns.",
+  "correct": false
+}

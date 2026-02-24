@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows continuous horizontal movements with frequent medium-to-large saccades and relatively smooth changes in Y position, similar to tracking dynamic visual content rather than line-by-line reading or code inspection. This pattern best matches the WATCH examples where viewers follow motion in a video across the screen.",
+  "correct": false
+}

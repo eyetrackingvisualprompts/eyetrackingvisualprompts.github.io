@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze clusters are mostly constrained to a compact central-left code-like region with repeated short saccades between nearby lines and columns, including returns to prior locations, without the broad top-bottom scrolling, dense horizontal sweeps of reading prose, or large dynamic object tracking seen in PLAY/WATCH. The pattern closely resembles the INTERPRET examples, where participants inspect a short code snippet and mentally simulate its behavior rather than performing extended debugging or writing operations.",
+  "correct": true
+}

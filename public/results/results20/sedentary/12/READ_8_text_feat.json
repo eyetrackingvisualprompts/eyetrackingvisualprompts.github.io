@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a horizontally extended band near the lower screen with smooth, continuous shifts and moderate fixations, characteristic of tracking dynamic content in a video, and unlike the more line-structured (READ/WRITE/INTERPRET/DEBUG) or highly scattered, multi-region patterns (SEARCH/BROWSE/PLAY).",
+  "correct": false
+}

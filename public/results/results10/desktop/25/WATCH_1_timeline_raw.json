@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, slowly drifting trajectories with few abrupt saccades, and a gradual upward shift in Y around the mid-segment, matching passive viewing of dynamic content as in the WATCH examples more than the more frequent, structured horizontal shifts seen in READ, SEARCH, WRITE, or BROWSE.",
+  "correct": true
+}

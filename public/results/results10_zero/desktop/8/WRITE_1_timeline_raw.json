@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a relatively small, central region with slow drifts and minimal systematic horizontal sweeps or vertical shifts; this pattern matches passively watching a video rather than the structured line-by-line movements of reading, scattered exploration of browsing/searching/playing, or the alternating text\u2013cursor focus of writing.",
+  "correct": false
+}

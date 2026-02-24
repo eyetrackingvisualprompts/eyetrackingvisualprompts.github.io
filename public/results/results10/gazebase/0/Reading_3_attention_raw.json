@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze points form a horizontally elongated band in the lower half of the screen with small vertical shifts, closely matching the line-by-line scanpath pattern seen in the Reading example rather than the more scattered or centrally focused patterns of other tasks.",
+  "correct": true
+}

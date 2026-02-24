@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The pattern shows medium-length fixations (\u22480.2\u20130.6s) with relatively small, localized saccades around a confined horizontal band, consistent with examining lines or segments of text/code rather than large exploratory sweeps typical of SEARCH/BROWSE or dynamic object tracking seen in PLAY/WATCH. Among text/code-focused tasks (READ, INTERPRET, DEBUG, WRITE), the steady, systematic scanning without frequent back-and-forth to specific problem areas best matches a straightforward reading behavior rather than problem-solving or code editing.",
+  "correct": false
+}

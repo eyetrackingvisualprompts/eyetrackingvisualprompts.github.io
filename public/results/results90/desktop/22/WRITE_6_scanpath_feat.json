@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster around the screen center with moderate dispersion and frequent fixations, matching the browsing example pattern more closely than the more line-structured reading/writing or more widely spread watching/playing behaviors.",
+  "correct": false
+}

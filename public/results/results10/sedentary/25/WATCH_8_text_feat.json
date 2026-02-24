@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a relatively small central region with frequent short saccades within code-like coordinates and occasional vertical jumps between two bands (around y\u2248170\u2013240 and y\u2248340\u2013400), consistent with alternating attention between the code editor and nearby UI/output, which closely matches the WRITE examples rather than the broader, more scattered patterns of browsing/searching or the horizontal line sweeps of reading.",
+  "correct": false
+}

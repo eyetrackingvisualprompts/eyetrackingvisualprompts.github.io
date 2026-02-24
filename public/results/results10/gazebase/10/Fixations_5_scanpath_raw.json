@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze moves in larger, irregular jumps across both vertical and horizontal directions without forming the structured horizontal patterns of reading or horizontal saccades, and is less centrally clustered than pure fixation; this irregular multi-directional pattern best matches Random Saccades.",
+  "correct": false
+}

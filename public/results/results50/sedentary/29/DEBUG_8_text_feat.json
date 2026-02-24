@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades between extreme top/bottom and left/right regions (including off-center/top URL area and far right), mixed with shorter exploratory fixations over a wide vertical span, match the heterogeneous, page-scrolling and header\u2013content\u2013footer transitions characteristic of free web browsing rather than the more structured, line-based patterns of reading or code tasks, or the more central, stimulus-driven focus of watching or playing.",
+  "correct": false
+}

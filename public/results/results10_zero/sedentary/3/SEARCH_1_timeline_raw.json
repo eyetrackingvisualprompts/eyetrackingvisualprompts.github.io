@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long, smooth periods with relatively small, continuous shifts and no systematic left-to-right line scanning or code-structure revisits, consistent with passively following on-screen motion as in watching a video rather than discrete reading, searching, or code-focused tasks.",
+  "correct": false
+}

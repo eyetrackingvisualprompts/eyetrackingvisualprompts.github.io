@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a small region on the left side of the screen with dense, overlapping fixations and short saccades, matching focused inspection of a limited code area as seen in the DEBUG example, rather than the more distributed or systematic patterns of other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate, structured horizontal movements with intermittent vertical shifts and several abrupt transitions in both X and Y, resembling the example SEARCH pattern where users alternate between reading results, scanning the page, and switching between query/result areas, rather than the smoother, line-by-line progression characteristic of READ.",
+  "correct": false
+}

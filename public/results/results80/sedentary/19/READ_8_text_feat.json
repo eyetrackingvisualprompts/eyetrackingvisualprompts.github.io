@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, smooth, mostly horizontal scanpaths at several distinct vertical bands (around y\u2248700\u2013900 then y\u2248150\u2013300, then higher lines), with regular leftward return saccades, consistent with systematic line-by-line text reading rather than the more scattered, multi-directional patterns seen in PLAY, SEARCH, BROWSE, or coding-related tasks.",
+  "correct": true
+}

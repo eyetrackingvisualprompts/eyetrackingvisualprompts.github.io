@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a compact region (code area) with many short fixations and back\u2011and\u2011forth saccades over the same lines, interleaved with occasional long vertical/diagonal jumps to other parts of the screen (e.g., top, middle, and lower areas), consistent with scanning and re\u2011scanning code and switching between regions typical of debugging rather than the more linear patterns of reading/interpreting or the highly dynamic movements of play/watch/browse/search.",
+  "correct": false
+}

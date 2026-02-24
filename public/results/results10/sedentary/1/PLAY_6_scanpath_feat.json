@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shifts across multiple vertical regions including top, middle, and lower parts of the screen with dispersed fixations and revisits, resembling movement between search box, results list, and lower-page content typical of SEARCH, rather than the more localized patterns of coding, reading, or gaming.",
+  "correct": false
+}

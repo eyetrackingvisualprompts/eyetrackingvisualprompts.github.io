@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are moderately scattered within a central region with frequent saccades between clusters, indicating active information foraging and page navigation; this pattern matches the SEARCH example more closely than the more localized WRITE/READ or the wider PLAY/WATCH distributions.",
+  "correct": false
+}

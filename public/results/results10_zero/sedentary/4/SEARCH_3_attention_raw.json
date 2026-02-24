@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in two compact horizontal clusters, one near the top center (likely video content) and another near the lower-left (e.g., subtitles or controls), with little evidence of systematic line-by-line scanning typical of reading or code tasks; this spatial pattern is most consistent with watching a video.",
+  "correct": false
+}

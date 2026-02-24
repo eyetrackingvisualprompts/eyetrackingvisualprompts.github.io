@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, smooth, predominantly horizontal scanpaths with short saccades and sustained fixations along multiple nearby horizontal bands (different vertical positions for successive passes), consistent with line-by-line reading. There is no evidence of large erratic jumps, diagonal search, or screen-edge exploration typical of SEARCH/BROWSE/PLAY/WATCH, nor the focal code-block oscillations of WRITE/INTERPRET/DEBUG.",
+  "correct": true
+}

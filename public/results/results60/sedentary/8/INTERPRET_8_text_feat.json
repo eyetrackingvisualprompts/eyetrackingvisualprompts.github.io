@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a narrow code-like region on the left, with many short fixations and frequent small saccades interleaved with repeated returns to similar coordinates and occasional large vertical jumps\u2014typical of scanning and re-checking code while tracking down multiple issues, as seen in the DEBUG example, rather than the more linear patterns of INTERPRET/WRITE or structured horizontal lines of READ/SEARCH.",
+  "correct": false
+}

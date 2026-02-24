@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, predominantly horizontal scan paths with gradual downward shifts and dense fixations, closely matching typical reading patterns and the READ example plot, rather than the more scattered or extreme movements seen in browsing, searching, watching, playing, or writing.",
+  "correct": true
+}

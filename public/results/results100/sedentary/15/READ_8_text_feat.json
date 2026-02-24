@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, steady horizontal scanpaths with small vertical shifts across wide x-ranges in the upper and mid screen, consistent with line-by-line text reading rather than code manipulation, gaming, free-form browsing, or video watching patterns.",
+  "correct": true
+}

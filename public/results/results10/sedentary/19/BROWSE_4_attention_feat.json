@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a single horizontal band slightly below screen center, forming dense clusters over a limited central-left region\u2014very similar to the WRITE example, where gaze stays around code being typed, and less like the wider spread of SEARCH/BROWSE or the tight vertical clusters of DEBUG.",
+  "correct": false
+}

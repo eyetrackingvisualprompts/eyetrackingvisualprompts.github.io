@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows medium-range multidirectional movements confined to a central region, with frequent shifts among nearby locations but without the strong horizontal line structure of reading or the larger, faster excursions seen in play or watch tasks. This closely matches the browsing example, where users scan mixed text and elements within a webpage area.",
+  "correct": false
+}

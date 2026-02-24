@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "All gaze points are tightly clustered in a small left-side region with short vertical movements and limited horizontal spread, matching focused reading of a compact text block rather than the broader spatial exploration typical for coding, browsing, searching, or game playing.",
+  "correct": false
+}

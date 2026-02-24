@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude shifts across both axes, including movements to screen edges and even outside normalized bounds, with short, scattered fixations rather than stable horizontal bands. This high-mobility, multidirectional pattern aligns best with interactive gameplay (PLAY) rather than the more spatially constrained, banded patterns seen in reading, browsing, searching, watching, or writing examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a narrow horizontal band with small saccades and minimal vertical dispersion, matching the stable left-to-right reading pattern rather than the more scattered or peripheral patterns of browsing, searching, watching, playing, or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze behavior shows sequences of medium-length fixations with predominantly horizontal saccades clustered around stable vertical bands, interspersed with occasional large regressions to the left and upward\u2014characteristic of line-by-line text reading and line/paragraph transitions, rather than the more scattered, multi-directional patterns typical of PLAY, SEARCH, BROWSE, WATCH, or the intense central focus and shorter shifts typical of WRITE.",
+  "correct": true
+}

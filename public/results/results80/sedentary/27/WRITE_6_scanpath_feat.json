@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze covers multiple distinct screen regions with long saccades between far-apart areas and scattered fixations, resembling exploratory navigation across different webpage elements typical of free web browsing rather than the more localized or structured patterns of reading, coding, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and horizontal gaze shifts across the page, repeated transitions between top/menu-like regions and lower scroll-like positions, and scattered off-screen excursions resemble exploratory, non-linear web page navigation more than structured reading or code-focused tasks.",
+  "correct": false
+}

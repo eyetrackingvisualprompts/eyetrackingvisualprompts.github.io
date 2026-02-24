@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Balura Game",
+  "reason": "Fixations are clustered around several discrete locations, with repeated returns to similar spots and a strong concentration in the lower half of the screen, consistent with tracking and re-fixating on multiple moving game targets rather than orderly reading lines, static central fixation, or strictly horizontal/fully random saccades.",
+  "correct": false
+}

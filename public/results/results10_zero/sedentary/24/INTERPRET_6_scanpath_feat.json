@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small left-side region with short, systematic vertical shifts, consistent with examining a compact code snippet rather than scanning long text, broad browsing areas, or dynamic game/video content, matching the focused behavior of INTERPRET.",
+  "correct": true
+}

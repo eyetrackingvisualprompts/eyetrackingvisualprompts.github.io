@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Target data shows many large vertical and diagonal saccades across wide screen regions (e.g., from upper-right to lower-left and bottom to middle) with variable, mid-length fixations spread over broad areas, especially in lower and central zones. This broad, multi-directional scanning pattern with frequent big jumps matches the PLAY examples (e.g., Agario/Mario) more than the more line-structured READ/WRITE or mid-screen-focused BROWSE/SEARCH behaviors.",
+  "correct": true
+}

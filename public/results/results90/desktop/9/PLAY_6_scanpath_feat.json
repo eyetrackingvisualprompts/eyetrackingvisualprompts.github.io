@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact but moderately spread cluster in the central region with varied saccade directions, resembling the browsing example more than the linear patterns of READ or the more extreme distributions of WATCH, WRITE, PLAY, or SEARCH.",
+  "correct": false
+}

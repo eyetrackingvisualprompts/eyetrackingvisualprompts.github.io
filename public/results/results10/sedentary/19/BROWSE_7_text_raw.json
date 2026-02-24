@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are concentrated in mid-screen code/IDE regions with dense local movements, vertical oscillations within a band, and repeated returns to similar coordinates, matching the structured, line-focused yet exploratory pattern seen in WRITE examples more than the more dispersed or horizontally sweeping patterns of READ/BROWSE/SEARCH or the broader motion of PLAY/WATCH.",
+  "correct": false
+}

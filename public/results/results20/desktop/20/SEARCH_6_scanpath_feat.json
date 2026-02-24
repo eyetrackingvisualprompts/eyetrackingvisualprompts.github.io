@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered in a compact central region with modest horizontal movement and varied fixation distribution, closely matching the browsing example pattern rather than the more structured reading/writing lines or the larger, more dispersed movements in search, watch, or play.",
+  "correct": false
+}

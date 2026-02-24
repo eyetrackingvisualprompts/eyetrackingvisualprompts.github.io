@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a narrow vertical region with relatively small horizontal shifts and limited large saccades, resembling careful inspection of a compact code snippet as in the INTERPRET examples rather than the broader scanning or movement patterns of other tasks.",
+  "correct": false
+}

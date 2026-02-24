@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across a mid-screen vertical band with frequent shifts between multiple regions, resembling the heterogeneous, multi-element layouts of news/blog pages and matching the example BROWSE scanpath more closely than the more structured patterns of READ or the localized clusters of PLAY/WRITE.",
+  "correct": false
+}

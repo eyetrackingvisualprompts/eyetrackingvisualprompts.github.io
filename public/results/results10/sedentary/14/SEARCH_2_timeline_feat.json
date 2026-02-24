@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mostly horizontal reading-like movements with a notable mid-interval vertical shift and exploration burst (around 6\u20137s) followed by continued horizontal scanning, matching the mixed reading-and-results-inspection pattern typical of search engine use rather than the steadier patterns of READ or more localized code tasks.",
+  "correct": true
+}

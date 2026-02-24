@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cover a wide horizontal and vertical range with frequent long saccades criss\u2011crossing the screen and fewer dense clusters, similar to the PLAY example where eyes track moving objects across the display rather than focusing on static text or code regions.",
+  "correct": false
+}

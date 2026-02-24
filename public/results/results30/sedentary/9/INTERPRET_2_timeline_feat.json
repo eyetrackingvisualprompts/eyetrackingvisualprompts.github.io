@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band with gradual rightward X drift and occasional brief jumps, matching code editing behavior seen in WRITE example more than the wider, multi-region movements in SEARCH/BROWSE or dynamic shifts in PLAY/WATCH.",
+  "correct": false
+}

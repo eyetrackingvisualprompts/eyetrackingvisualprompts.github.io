@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-like vertical scanning with moderate horizontal movements, intermittent focused inspection of specific regions, and occasional large saccades resembling shifts between code and output/IDE areas, matching the DEBUG pattern more closely than other activities.",
+  "correct": false
+}

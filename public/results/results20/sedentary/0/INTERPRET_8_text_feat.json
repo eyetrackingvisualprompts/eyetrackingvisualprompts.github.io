@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with many medium-to-long fixations (0.3\u20131.2s) and short, local saccades within the same vertical band, indicative of scrutinizing a small snippet rather than scanning long lines (READ) or large areas (BROWSE/SEARCH), or rapidly tracking objects (PLAY/WATCH). This tightly clustered, back-and-forth inspection pattern best matches INTERPRET, where participants reason about a short function\u2019s behavior.",
+  "correct": true
+}

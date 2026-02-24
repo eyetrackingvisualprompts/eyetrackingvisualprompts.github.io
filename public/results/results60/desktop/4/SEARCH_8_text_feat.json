@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays mostly in upper-mid vertical band with frequent small vertical adjustments and occasional larger jumps between mid and upper regions, matching scanning and revisiting patterns in the SEARCH examples more than the steadier horizontal lines of READ or the more central, stable patterns of BROWSE/WRITE. The trajectory and fixation timing closely resemble SEARCH sample dynamics around y\u22480.6\u20130.8 with intermittent moves to mid-screen content.",
+  "correct": true
+}

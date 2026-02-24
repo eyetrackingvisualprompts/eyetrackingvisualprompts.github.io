@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are dispersed over a moderate central region with frequent shifts among several nearby locations, resembling scanning of heterogeneous on-screen elements (text, images, menus) seen in the BROWSE example more than the more linear READ or localized WRITE patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The data shows characteristic left-to-right staircase patterns in the horizontal (X) position with periodic large regressions and a slowly drifting downward vertical (Y) position, closely matching the example Reading pattern and unlike the more random or symmetric movements of the other tasks.",
+  "correct": true
+}

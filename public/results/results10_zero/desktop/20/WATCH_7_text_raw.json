@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains highly centralized with long stable fixations and only small local shifts, with no clear horizontal scanning or line-by-line progression. This pattern aligns better with watching video content (focused near the center/bottom where characters or subtitles appear) rather than the more structured horizontal/vertical scanpaths typical of reading, writing, searching, browsing, or gaming.",
+  "correct": true
+}

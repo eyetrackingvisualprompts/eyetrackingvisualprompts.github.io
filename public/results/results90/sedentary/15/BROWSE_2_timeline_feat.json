@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-range saccades with both horizontal and vertical shifts, and a gradual upward trend in Y fixation consistent with scanning result lists and linked pages, resembling the SEARCH example more than the more uniform patterns of READ/WRITE or the dispersed dynamics of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

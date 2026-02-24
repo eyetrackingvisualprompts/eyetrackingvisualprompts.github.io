@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, smooth horizontal scanpaths with short fixations across consistent vertical bands, followed by systematic downward shifts\u2014characteristic of reading lines of text\u2014rather than the more scattered, multi-region patterns seen in browsing, searching, coding, or watching video.",
+  "correct": false
+}

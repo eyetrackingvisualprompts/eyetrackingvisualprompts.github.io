@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated on several vertically separated code regions along the left side of the screen, with little spread across the rest of the display. This pattern closely matches the INTERPRET example, where participants focus on different code blocks to reason about program output, rather than the more linear scanning of READ/WRITE or the broader exploration seen in SEARCH/BROWSE.",
+  "correct": false
+}

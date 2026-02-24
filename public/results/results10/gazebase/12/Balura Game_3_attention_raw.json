@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows many discrete fixation clusters scattered across both horizontal and vertical axes, without confinement to a band or central region, matching the spatially widespread pattern of the Random Saccades example rather than the more structured patterns of reading, video viewing, or games.",
+  "correct": false
+}

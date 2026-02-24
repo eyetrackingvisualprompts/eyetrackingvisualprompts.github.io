@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large spatial coverage across much of the screen with frequent long saccades between dispersed clusters, indicating dynamic gaze shifts typical of tracking game elements rather than the more localized patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

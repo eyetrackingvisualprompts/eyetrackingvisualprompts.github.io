@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely dispersed across the entire screen with frequent, long saccades in many directions and no stable central cluster or reading-like horizontal structure, matching the dynamic, multi-directional viewing pattern typical of playing games rather than reading, writing, browsing, searching, or passively watching video.",
+  "correct": false
+}

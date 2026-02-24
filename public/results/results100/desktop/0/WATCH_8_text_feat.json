@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze remains confined to a small region in the lower part of the screen (y\u22480.18\u20130.35) with dense, repetitive fixations and short, local saccades, showing minimal vertical scanning typical of paragraph reading or browsing. This stable, localized pattern over time aligns best with fixations near a typing/entry area in a word processor rather than the broader horizontal sweeps of READ or the more exploratory movements in BROWSE/SEARCH or dynamic shifts in PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, rapid vertical transitions between top and bottom regions of the screen and scattered horizontal movements around mid/lower areas suggest scanning a search results page and jumping between query box/top and results/snippets, which matches the SEARCH pattern better than the more line-structured READ/BROWSE or central-focus WATCH/PLAY behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right sweeps with moderate vertical shifts and occasional deeper downward excursions, indicating scanning multiple text regions and sections of different pages, which aligns best with the varied, multi-area viewing typical of web browsing compared with the more structured patterns of reading or coding tasks.",
+  "correct": false
+}

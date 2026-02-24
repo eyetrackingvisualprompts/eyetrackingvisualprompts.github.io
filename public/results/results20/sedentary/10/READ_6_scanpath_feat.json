@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern is mostly horizontal across the mid-screen with occasional vertical transitions to upper regions, matching scanning search results and moving to top areas (e.g., query box or tabs), which resembles the SEARCH example more than the more localized code-focused or reading-only patterns.",
+  "correct": false
+}

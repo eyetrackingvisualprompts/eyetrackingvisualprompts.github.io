@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (including off-screen coordinates), revisits to varied vertical positions, and irregular scanning without the tight horizontal bands of reading or the focused code/IDE regions of programming tasks indicate exploratory webpage navigation characteristic of BROWSE rather than structured READ/SEARCH or code-centric tasks.",
+  "correct": false
+}

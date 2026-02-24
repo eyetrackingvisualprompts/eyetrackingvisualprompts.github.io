@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a relatively small region with a few large saccades and no systematic left-to-right, line-by-line pattern typical of reading or code tasks; the clustered fixations with occasional jumps are most consistent with following dynamic visual content in a video rather than scanning text or interacting heavily with interface elements.",
+  "correct": false
+}

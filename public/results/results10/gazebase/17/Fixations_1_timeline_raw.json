@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains tightly clustered near the center with only small drifts and a single brief vertical artifact, matching the near-static central pattern of the Fixations example rather than the larger, structured movements seen in other tasks.",
+  "correct": true
+}

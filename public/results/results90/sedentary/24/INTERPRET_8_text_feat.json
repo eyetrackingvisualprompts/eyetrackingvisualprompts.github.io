@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, localized fixations with repeated revisits to similar code-like coordinates, vertical oscillations between mid and lower screen regions, and occasional large excursions closely resemble the WRITE examples\u2019 coding + editing behavior more than the more scanning/reading/debug/search patterns of other classes.",
+  "correct": false
+}

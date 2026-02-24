@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster mainly around the vertical center line with two dense regions in the mid and upper parts of the screen, resembling attention on a search box/results list plus some result content, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

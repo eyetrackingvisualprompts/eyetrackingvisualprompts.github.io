@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around a central region with occasional vertical shifts, resembling inspection of a search results page (title, snippet, URL) and brief movements to other interface elements, matching the SEARCH scanpath more than the others.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a mid\u2011screen horizontal band with repeated left\u2011right movements and short regressions over a code-like region, resembling the WRITE example pattern more than the tighter INTERPRET/DEBUG clusters or the broader exploratory patterns of BROWSE/SEARCH/PLAY/WATCH/READ.",
+  "correct": false
+}

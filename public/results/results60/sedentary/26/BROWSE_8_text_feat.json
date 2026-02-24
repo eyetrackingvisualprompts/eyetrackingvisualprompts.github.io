@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, smooth horizontal scanpaths clustered in several narrow vertical bands, with frequent left-to-right sweeps and shorter regressions within a constrained vertical region\u2014matching line-by-line reading behavior. There are occasional larger saccades to other vertical positions consistent with moving between text sections, and no sustained object-following, code-structure revisits, or game-like peripheral tracking typical of PLAY, WATCH, DEBUG, WRITE, or INTERPRET. The pattern best aligns with READ.",
+  "correct": false
+}

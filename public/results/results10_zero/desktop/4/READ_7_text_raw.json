@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are concentrated in a relatively narrow horizontal band with slow, small-amplitude shifts and extended stable fixations, followed by occasional rightward drifts and regressions. This pattern is characteristic of line-by-line text reading rather than the larger, multidirectional saccades typical of browsing, searching, or gameplay.",
+  "correct": true
+}

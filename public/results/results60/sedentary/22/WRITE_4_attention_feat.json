@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered on a single code-like region on the left with a few checks elsewhere, closely matching the INTERPRET example pattern more than the denser, more dispersed DEBUG pattern.",
+  "correct": false
+}

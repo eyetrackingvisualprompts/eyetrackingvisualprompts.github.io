@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent, continuous movements across a broad horizontal and vertical region with many short, rapid shifts rather than stable line-based fixations. This pattern is more characteristic of visually tracking moving objects and navigating in a game environment than of structured code/text reading or web search/browsing, indicating the PLAY activity.",
+  "correct": false
+}

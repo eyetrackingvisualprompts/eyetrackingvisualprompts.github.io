@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a tight cluster on the right side (likely results or content area) and scattered long saccades across the screen, matching the exploratory, multi-region viewing seen in the SEARCH example rather than the more localized or structured patterns of code, reading, or video tasks.",
+  "correct": false
+}

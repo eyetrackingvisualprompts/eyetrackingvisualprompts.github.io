@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band slightly below screen center, consistent with reading a single line or small text region rather than wide exploratory or multi-directional movements seen in play, search, browse, watch, or write tasks.",
+  "correct": false
+}

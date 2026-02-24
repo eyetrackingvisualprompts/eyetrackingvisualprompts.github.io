@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in a narrow vertical strip on the left code area, similar to the DEBUG example where attention alternates between a few nearby code lines rather than scanning broadly as in WRITE or INTERPRET.",
+  "correct": false
+}

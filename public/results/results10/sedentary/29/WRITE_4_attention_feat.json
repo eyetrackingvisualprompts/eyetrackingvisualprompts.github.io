@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster on a left-side code area with additional attention near the top, resembling the DEBUG example\u2019s spread between code and auxiliary regions rather than the tighter INTERPRET cluster or horizontal READ/BROWSE patterns.",
+  "correct": false
+}

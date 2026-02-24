@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively steady horizontal fixation bands around mid-screen with moderate, frequent saccades and limited large excursions, closely matching the provided READ example pattern of sustained text scanning rather than the more scattered (BROWSE/SEARCH) or highly dynamic (PLAY/WATCH) trajectories.",
+  "correct": false
+}

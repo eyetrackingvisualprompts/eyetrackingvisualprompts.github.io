@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated along a central horizontal band with additional vertical spread below, suggesting tracking of moving objects across the middle of the screen and occasional looks elsewhere, which matches the dynamic, wide-area viewing typical in simple games rather than the more columnar/text-like or code-focused patterns of other tasks.",
+  "correct": false
+}

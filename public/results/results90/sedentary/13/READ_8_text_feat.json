@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves in long, smooth horizontal sweeps with short regressions, advancing gradually from upper to lower y-coordinates in bands that match successive text lines, with stable fixations typical of reading rather than the more scattered, vertical, or task-focused patterns of coding, browsing, games, or debugging.",
+  "correct": true
+}

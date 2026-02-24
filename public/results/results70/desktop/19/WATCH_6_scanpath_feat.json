@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central region with moderate dispersion and no strong horizontal reading lines or large exploratory movements, closely matching the BROWSE example pattern of focused attention on a central content area (e.g., an article or post) rather than the wider, more varied movements seen in PLAY, SEARCH, or WATCH.",
+  "correct": false
+}

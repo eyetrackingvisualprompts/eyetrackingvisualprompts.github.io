@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions are mostly confined to a narrow central band with relatively small, steady fixations and occasional brief vertical excursions\u2014matching the focused, localized viewing pattern over a code editor seen in the WRITE example, rather than the broader scanning or systematic line-by-line motion of other tasks.",
+  "correct": true
+}

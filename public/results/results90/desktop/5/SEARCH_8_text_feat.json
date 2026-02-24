@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across wide screen regions (including extremes), with periods of clustered fixations and dynamic vertical/horizontal transitions, match the multi-directional, target-tracking behavior seen in gameplay more than the more line-oriented or center-focused patterns of reading, browsing, searching, writing, or passive watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length fixations interleaved with short saccades within a compact code-like region, plus repeated vertical transitions between mid-screen and upper code areas and occasional jumps to far-off locations (likely console or UI elements), closely resemble the DEBUG example patterns more than the steadier reading/browsing scans or the large-amplitude, dynamic shifts seen in PLAY/WATCH.",
+  "correct": true
+}

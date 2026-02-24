@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small area near the upper-left, indicating the eyes stayed mostly in one region without systematic horizontal scanning or multiple distinct regions of interest. This pattern is more consistent with passively watching a video where a central object or character remains localized, rather than with text reading, searching, coding, or gameplay, which typically produce broader, more distributed gaze patterns across the screen.",
+  "correct": false
+}

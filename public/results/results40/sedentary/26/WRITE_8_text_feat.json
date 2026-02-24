@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades between distant regions (top toolbar/URL area, mid-page content, and far bottom/right) combined with horizontal scanning segments around y\u2248320\u2013380 and y\u2248430\u2013520, plus repeated jumps to extreme top-left/top-right, match the mixed navigation-and-reading pattern seen in BROWSE more than the more line-structured READ, code-focused WRITE/DEBUG/INTERPRET, or central object-focused PLAY/WATCH.",
+  "correct": false
+}

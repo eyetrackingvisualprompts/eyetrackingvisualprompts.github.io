@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple discrete fixation clusters scattered across both horizontal and vertical directions, without alignment to central fixation (Fixations), purely horizontal trajectory (Horizontal Saccades), or left-to-right line patterns (Reading). The spread is wider and more uniformly distributed than typical content-driven Video Viewing or targeted Balura Game fixations, matching the pattern of following a target that jumps to random positions across the screen as in Random Saccades.",
+  "correct": true
+}

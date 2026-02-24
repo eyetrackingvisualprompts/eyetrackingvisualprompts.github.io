@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent revisits to a results-like vertical region around y\u2248250\u2013300 with horizontal scans, interleaved with large jumps to screen corners and off-content areas, match the mixed reading-and-navigation pattern of search results pages rather than the more continuous lines of READ or the code-centric, tighter regions of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

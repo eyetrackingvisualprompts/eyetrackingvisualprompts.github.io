@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow upper band for X and a lower band for Y, with relatively small vertical range and modest horizontal drift, resembling the example WRITE pattern where gaze alternates between text area and writing area rather than broad vertical scanning seen in READ or SEARCH.",
+  "correct": false
+}

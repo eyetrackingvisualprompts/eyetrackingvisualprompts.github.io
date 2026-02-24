@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-amplitude shifts in both X and Y with no strong horizontal reading lines or stable writing region, resembling the scattered yet content-focused exploration seen in the BROWSE example more than the other task patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like transitions to various non-periodic locations across both horizontal and vertical axes, with each position held roughly around one second before jumping elsewhere. This pattern matches a target that moves unpredictably in 2D space and is fixated at each location, characteristic of the Random Saccades task rather than strictly horizontal motion, central fixation, reading, video viewing, or the structured Balura game interactions.",
+  "correct": true
+}

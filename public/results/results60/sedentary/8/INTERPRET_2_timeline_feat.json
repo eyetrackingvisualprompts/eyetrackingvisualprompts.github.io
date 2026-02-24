@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal movements with frequent transitions in both X and Y, more scattered than structured reading but less erratic than gameplay or watching video, closely matching the mixed scan-and-read pattern seen in the SEARCH example plot.",
+  "correct": false
+}

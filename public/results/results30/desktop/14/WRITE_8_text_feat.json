@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a very small region with long, stable fixations (up to ~8.5 s) around mid-upper screen and only tiny corrective saccades, indicating sustained attention to a single moving stimulus area typical of watching video, unlike the more frequent shifts in reading, searching, browsing, writing, or game playing.",
+  "correct": false
+}

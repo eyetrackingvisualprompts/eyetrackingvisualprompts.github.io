@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains clustered around mid-screen with small vertical excursions and moderate horizontal shifts, characteristic of scanning mixed text/layout regions in browsing. The pattern closely matches the BROWSE examples\u2019 dense, local fixations and short saccades in central coordinates rather than the more line-structured horizontal sweeps of READ or the wider, more varied movements seen in SEARCH, WATCH, or PLAY.",
+  "correct": false
+}

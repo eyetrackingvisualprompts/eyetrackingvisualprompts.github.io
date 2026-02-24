@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is distributed across multiple code-related regions: a band of fixations in the upper-left where code is typically written, additional clusters lower-left where output/console may appear, and a focused cluster on the right likely on an editor or reference area. This spread between several work areas matches the WRITE pattern more than the more localized DEBUG or INTERPRET tasks or the center-focused media/gaming activities.",
+  "correct": true
+}

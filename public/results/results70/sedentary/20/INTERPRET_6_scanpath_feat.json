@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact left-central region (code editor) with repeated vertical and short horizontal movements, plus occasional long saccades to a right-side area (likely console/output or documentation inside IDE). This pattern of intensive local inspection with periodic checks elsewhere best matches debugging behavior rather than the more static INTERPRET or broader SEARCH/BROWSE patterns.",
+  "correct": false
+}

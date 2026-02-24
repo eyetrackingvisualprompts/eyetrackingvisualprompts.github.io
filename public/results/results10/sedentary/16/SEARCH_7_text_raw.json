@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show clustered tracking around mid-screen objects with rapid shifts across wide horizontal regions, along with extended periods around similar vertical bands\u2014patterns consistent with following moving game elements and anticipating motion, unlike the more line-structured patterns of reading/searching or the code-focused clusters of interpret/debug/write.",
+  "correct": false
+}

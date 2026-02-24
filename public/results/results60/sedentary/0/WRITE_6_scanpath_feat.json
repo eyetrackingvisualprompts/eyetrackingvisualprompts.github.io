@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly concentrated on a compact code area (similar to INTERPRET) but includes several large, long-range saccades to distant screen regions, consistent with switching between code, console, and other IDE panels typical of debugging behavior.",
+  "correct": false
+}

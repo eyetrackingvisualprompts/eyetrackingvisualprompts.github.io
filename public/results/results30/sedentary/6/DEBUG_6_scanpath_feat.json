@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact region on the left side of the screen (typical code editor), with occasional long saccades upward\u2014matching patterns seen in the DEBUG example more than the denser central cluster of INTERPRET or the narrower band of WRITE/READ.",
+  "correct": true
+}

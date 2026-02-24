@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely dispersed with irregular saccades across both horizontal and vertical directions, indicating exploratory viewing of various on-screen elements, which aligns best with web/news browsing behavior rather than the more localized or patterned movements seen in reading, writing, watching videos, searching, or playing games.",
+  "correct": true
+}

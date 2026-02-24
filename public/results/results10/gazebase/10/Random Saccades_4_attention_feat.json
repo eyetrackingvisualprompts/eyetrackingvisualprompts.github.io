@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "Fixations are scattered across both sides of the screen with distinct, separated hotspots and no strong central or horizontal band pattern, indicating tracking of multiple moving targets rather than structured reading or systematic saccade tasks, which matches the Balura Game behavior.",
+  "correct": false
+}

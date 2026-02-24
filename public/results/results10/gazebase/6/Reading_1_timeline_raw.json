@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The x-position shows step-like horizontal progressions with occasional regressions, while the y-position drifts slowly and monotonically, matching line-by-line reading patterns rather than discrete target jumps or game-like/random movements.",
+  "correct": true
+}

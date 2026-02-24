@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to widely separated positions in both horizontal and vertical directions (including to near \u00b115\u201320\u00b0 horizontally and substantial vertical shifts), followed by short clusters of relatively stable samples at each location. This pattern of multi-directional, large-amplitude saccades between temporally discrete fixation points matches a controlled random target-jump task rather than purely horizontal motion, sustained central fixation, reading-like scanpaths, complex game-dependent revisits, or naturalistic video viewing.",
+  "correct": false
+}

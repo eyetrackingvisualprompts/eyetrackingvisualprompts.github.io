@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated vertical scroll-like shifts with reading-like horizontal fixations across varying Y-levels, interspersed with irregular saccades, matching the heterogeneous scanning and scrolling behavior typical of web browsing rather than the more uniform patterns of reading, watching, or coding tasks.",
+  "correct": false
+}

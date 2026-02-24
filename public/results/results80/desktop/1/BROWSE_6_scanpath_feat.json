@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover a wide area of the screen with frequent, long saccades in many directions and no dominant cluster or reading-like horizontal band, matching the dispersed, dynamic pattern seen in the PLAY example rather than the more localized or structured patterns of the other activities.",
+  "correct": false
+}

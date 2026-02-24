@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, revisiting fixations over a localized code-like region with frequent up-down scanning between line-like areas, interspersed with larger jumps and extended dwell times, best matches the sustained, error-searching gaze behavior seen in DEBUG rather than the more linear (READ/INTERPRET/WRITE) or highly dynamic (PLAY/WATCH/BROWSE/SEARCH) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread horizontally across multiple regions with strong fixations along upper text lines and additional fixations lower on the page, matching the pattern of scanning search results rather than the more vertical columns of READ or the central focus of WATCH/PLAY.",
+  "correct": true
+}

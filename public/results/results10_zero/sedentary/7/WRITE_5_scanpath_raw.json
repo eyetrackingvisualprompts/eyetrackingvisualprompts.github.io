@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, rapid movements covering a broad vertical range with fewer, less-structured horizontal reading-like patterns, indicating tracking and navigating dynamic on-screen elements rather than line-by-line reading or code inspection, which is most consistent with playing a game.",
+  "correct": false
+}

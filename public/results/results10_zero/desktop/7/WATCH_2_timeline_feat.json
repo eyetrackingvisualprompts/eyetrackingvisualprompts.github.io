@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions are mostly stable with slow, small incremental shifts in both X and Y, indicating line-by-line progression over text rather than large explorative or dynamic movements typical for games, search, video watching, browsing, or writing. This pattern best matches sustained reading behavior.",
+  "correct": false
+}

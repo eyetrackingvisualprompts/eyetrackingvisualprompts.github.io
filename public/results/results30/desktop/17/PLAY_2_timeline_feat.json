@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The fixation trajectories show relatively smooth, horizontally oriented movements with gradual shifts in both X and Y, resembling line-by-line reading behavior and matching the READ example pattern more than the higher-variability browse/search or the larger excursions in play/watch.",
+  "correct": false
+}

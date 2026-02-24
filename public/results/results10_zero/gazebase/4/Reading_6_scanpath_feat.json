@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze positions form a mostly horizontal band with small vertical spread and sequential left-to-right/right-to-left movements, characteristic of reading lines of text rather than large-amplitude or random target tracking, central fixation, or game/video viewing patterns.",
+  "correct": true
+}

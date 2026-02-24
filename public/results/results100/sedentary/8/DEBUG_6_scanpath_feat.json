@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left side where search results and query box typically appear, with frequent horizontal saccades to the right and back, matching the exploratory pattern of scanning search results and linked pages, similar to the SEARCH example.",
+  "correct": false
+}

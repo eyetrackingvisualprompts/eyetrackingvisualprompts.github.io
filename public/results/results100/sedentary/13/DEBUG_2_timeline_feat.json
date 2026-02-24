@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent shifts between two vertical regions with moderate horizontal spread and irregular saccades, resembling alternation between code and other IDE elements, which matches the DEBUG example more closely than the more linear, stable patterns for READ/WRITE or the broader, more varied movements for SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

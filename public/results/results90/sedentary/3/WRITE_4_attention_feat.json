@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are concentrated over a left-side central code area with additional clusters slightly above and to the right, resembling focused inspection and re-checking of code typical in debugging, and matching the DEBUG example heatmap more closely than other tasks.",
+  "correct": false
+}

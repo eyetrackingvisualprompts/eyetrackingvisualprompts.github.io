@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide-ranging gaze shifts across most of the screen with many long saccades and dispersed fixations, resembling the dynamic, full-screen exploration pattern seen in the PLAY example, rather than the more localized or structured patterns of reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

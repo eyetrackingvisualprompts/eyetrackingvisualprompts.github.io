@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact mid-screen region with many medium-length fixations and short horizontal/vertical saccades, plus occasional jumps to the top-left, consistent with repeatedly referencing and editing code in an IDE rather than continuous reading (READ) or wide exploratory scanning (SEARCH/BROWSE).",
+  "correct": true
+}

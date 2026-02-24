@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small region with short horizontal/vertical shifts and many medium-length fixations, resembling careful inspection of a specific code snippet area rather than broad scanning (BROWSE/SEARCH), long reading lines (READ), or large-amplitude game/video tracking (PLAY/WATCH). This localized, back-and-forth pattern best matches INTERPRET, where participants mentally simulate a small code fragment.",
+  "correct": false
+}

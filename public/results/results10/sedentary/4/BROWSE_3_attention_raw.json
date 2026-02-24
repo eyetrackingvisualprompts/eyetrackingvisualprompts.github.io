@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a vertical column on the left side with multiple clusters at different heights, consistent with scanning search-engine results along the left margin rather than horizontal line-by-line reading or central video watching.",
+  "correct": false
+}

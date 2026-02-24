@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts horizontally across a mid-screen band with frequent medium-amplitude saccades between left/center/right regions and short-to-moderate fixations, resembling line- or element-level scanning of a webpage. There is no tight oscillation on a small code block (WRITE/DEBUG/INTERPRET) nor the strong vertical text-line progression of READ, and movements are more structured than the broader, more dispersed patterns in WATCH/PLAY/SEARCH, matching the BROWSE examples most closely.",
+  "correct": true
+}

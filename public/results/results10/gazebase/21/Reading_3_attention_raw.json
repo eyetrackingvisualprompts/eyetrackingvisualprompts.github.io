@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze points form a predominantly horizontal band across the upper portion of the screen, indicating left-to-right scanning along a narrow vertical region, which matches the pattern of reading text rather than dispersed or central fixations seen in other tasks.",
+  "correct": true
+}

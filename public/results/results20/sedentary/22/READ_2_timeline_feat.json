@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows long horizontal movements with occasional large vertical saccades and a notable late shift to the bottom area, consistent with scanning search results and then moving down the page, matching the SEARCH example more than the other activities.",
+  "correct": false
+}

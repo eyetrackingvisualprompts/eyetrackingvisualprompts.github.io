@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are widely distributed across the entire screen with frequent long saccades and rapid shifts between multiple regions, resembling tracking moving objects and anticipatory looking observed in the PLAY examples, rather than the more localized or structured patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

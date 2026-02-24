@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are distributed across multiple discrete points spread over the upper central area of the screen, with no strong horizontal-line structure (reading) and no confinement to two lateral positions (horizontal saccades). The pattern most closely matches the scattered, distinct target positions seen in the Random Saccades example.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like changes in both horizontal and vertical directions, with the target holding each position for about 1 second before jumping at least ~2\u00b0 and up to ~15\u00b0 horizontally and ~9\u00b0 vertically, matching the described random saccade tracking task rather than purely horizontal motion or static fixation.",
+  "correct": false
+}

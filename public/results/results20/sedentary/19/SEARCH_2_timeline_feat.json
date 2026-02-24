@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows repeated shifts between a relatively stable vertical band (likely code/IDE center area) and higher screen regions, with periods of focused fixations interspersed with larger exploratory saccades, closely matching the DEBUG example pattern rather than the more uniform or linear behaviors of reading, browsing, or interpreting.",
+  "correct": false
+}

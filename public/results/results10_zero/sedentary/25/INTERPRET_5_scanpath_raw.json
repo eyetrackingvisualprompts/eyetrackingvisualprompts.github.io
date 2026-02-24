@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts spanning wide screen areas with less structured horizontal or vertical reading patterns, consistent with tracking moving game elements or navigating in a game rather than focused text or code inspection as in reading, writing, interpreting, debugging, searching, browsing, or watching video.",
+  "correct": false
+}

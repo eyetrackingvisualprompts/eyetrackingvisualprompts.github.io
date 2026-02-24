@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows relatively stable horizontal fixations with slow downward shifts in Y over time, consistent with line-by-line reading of text rather than the larger multidirectional movements typical of browsing, searching, gaming, video watching, or writing (which would show more vertical shifts to UI elements or keyboard-related regions).",
+  "correct": false
+}

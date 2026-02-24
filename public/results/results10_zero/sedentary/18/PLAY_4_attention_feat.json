@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered along a narrow horizontal band near the top of the screen, indicating focused left-to-right line reading on a single text line rather than broader exploration or dynamic object tracking typical of other tasks.",
+  "correct": false
+}

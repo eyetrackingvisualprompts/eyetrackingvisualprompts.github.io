@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid horizontal movements across much of the screen with occasional returns to a localized region, consistent with tracking or navigating game elements rather than the orderly line-by-line or block-based patterns typical of reading, coding, or web searching/browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around the central area with frequent multidirectional saccades and revisits, resembling the SEARCH example more than the others, which matches scanning and refocusing between query box, results, and page elements.",
+  "correct": false
+}

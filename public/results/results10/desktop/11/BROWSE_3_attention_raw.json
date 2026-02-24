@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is clustered near the screen center with a small vertical spread and two close fixation regions, resembling typical browsing behavior around the main content and nearby UI elements, and differing from the more linear horizontal pattern of reading or the peripheral/upper focus seen in other tasks.",
+  "correct": true
+}

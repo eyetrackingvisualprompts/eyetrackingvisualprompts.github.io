@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a narrow central region with minimal horizontal scanning or line-by-line reading patterns, consistent with watching a centrally focused video rather than text- or code-based tasks that show stronger systematic saccades across the screen.",
+  "correct": false
+}

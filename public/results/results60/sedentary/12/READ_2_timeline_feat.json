@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The X fixation shows repeated large rightward sweeps with abrupt resets, while Y fixation slowly drifts downward across the window\u2014matching the scrolling, multi-paragraph reading pattern seen in BROWSE rather than the more stable line structure of READ or the scattered movements of SEARCH/WATCH.",
+  "correct": false
+}

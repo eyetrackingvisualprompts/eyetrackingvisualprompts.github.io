@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is centered with moderate vertical spread and several nearby fixation clusters, resembling scanning of mixed text and images typical for web browsing, and differing from the more linear READ pattern or the upper-screen focus of other tasks.",
+  "correct": false
+}

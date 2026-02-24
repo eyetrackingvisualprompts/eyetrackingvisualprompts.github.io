@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions interleaved with dense fixations clustered around mid-lower screen coordinates, with many back-and-forth corrections in a relatively confined band, are characteristic of tracking dynamic game elements rather than line-by-line reading or static code inspection; the pattern best matches the PLAY examples where gaze follows moving objects while periodically jumping to other on-screen cues.",
+  "correct": false
+}

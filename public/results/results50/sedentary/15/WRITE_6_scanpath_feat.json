@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on a compact area on the left (code region) with repeated fixations and occasional long saccades to a smaller region on the right (e.g., console/output), closely matching the INTERPRET example scanpath pattern.",
+  "correct": false
+}

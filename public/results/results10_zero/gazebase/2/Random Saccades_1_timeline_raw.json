@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y gaze positions show step-like jumps to discrete, widely separated locations (up to ~\u00b115\u00b0 vertically and similar horizontally), with each position held roughly about a second before the next jump. This pattern of 2D, irregular, but temporally regular target changes matches the Random Saccades task description rather than purely horizontal motion, continuous free viewing, or static fixation.",
+  "correct": true
+}

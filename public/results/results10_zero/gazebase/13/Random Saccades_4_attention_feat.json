@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered over a moderate area without a clear horizontal line (ruling out reading and horizontal saccades) and are not confined to a single static point (ruling out central fixation). The clustered yet spatially separated fixation points resemble following a single target that jumps to discrete positions across the screen, consistent with the random saccades task.",
+  "correct": true
+}

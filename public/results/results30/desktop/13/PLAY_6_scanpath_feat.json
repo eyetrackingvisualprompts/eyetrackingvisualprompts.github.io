@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a relatively compact cluster near the screen center with moderate dispersion and no strong left-to-right line structure, closely matching the example BROWSE pattern rather than the more linear READ or more scattered SEARCH/PLAY/WATCH/WRITE patterns.",
+  "correct": false
+}

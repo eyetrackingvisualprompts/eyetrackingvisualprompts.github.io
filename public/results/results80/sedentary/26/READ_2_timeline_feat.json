@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic horizontal sweeps with slowly increasing X position and a pronounced downward shift in Y around 40s, matching line-by-line reading behavior similar to the READ example pattern.",
+  "correct": true
+}

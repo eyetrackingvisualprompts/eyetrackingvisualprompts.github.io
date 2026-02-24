@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions jump between multiple discrete locations spanning roughly \u00b115\u00b0 horizontally and \u00b19\u00b0 vertically, with each plateau lasting about 1 second before a sudden transition, matching the bull\u2019s-eye target\u2019s random step-like movements described for the Random Saccades task rather than purely horizontal motion, static fixation, or more continuous/natural patterns from reading, gaming, or video viewing.",
+  "correct": false
+}

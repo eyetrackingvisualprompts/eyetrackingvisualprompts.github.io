@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small central region with minimal vertical spread, suggesting the gaze is anchored near the screen center\u2014typical of watching a video where attention stays around the main action area, rather than the wider horizontal sweeps of reading/writing or the more dispersed exploration of search/browse/play.",
+  "correct": false
+}

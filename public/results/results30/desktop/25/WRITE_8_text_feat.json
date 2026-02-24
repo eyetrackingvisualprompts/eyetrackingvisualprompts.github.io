@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band around y\u22480.30\u20130.35 with sequential left\u2013right movements, long fixations (0.3\u20131.4s), and occasional larger horizontal shifts\u2014characteristic of line-by-line reading near the upper part of a document rather than the more scattered, multi-directional patterns seen in search, browse, play, or watch, and unlike the more localized upper-area focus typical of writing.",
+  "correct": false
+}

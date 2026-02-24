@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze repeatedly alternates between large, near-symmetric horizontal positions around \u00b115 degrees with very small vertical variation and long plateaus at each side, matching the structured \u00b115\u00b0 horizontal tracking pattern of the Horizontal Saccades class rather than the more varied 2D movements in other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large saccades in both X and Y with several vertical resets and varied fixation bands, indicating scanning and shifting between different regions of changing web content, which best matches the heterogeneous, exploratory patterns of BROWSE rather than the more structured patterns of reading, coding, or watching video.",
+  "correct": true
+}

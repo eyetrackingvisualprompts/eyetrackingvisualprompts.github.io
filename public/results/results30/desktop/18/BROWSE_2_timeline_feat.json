@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal progression with frequent shifts in both x and y, and y-position oscillates between mid and lower screen regions, resembling mixed reading and scanning across different screen areas typical of using a search engine, rather than the more linear pattern of READ or the more stable WRITING and WATCH behaviors.",
+  "correct": false
+}

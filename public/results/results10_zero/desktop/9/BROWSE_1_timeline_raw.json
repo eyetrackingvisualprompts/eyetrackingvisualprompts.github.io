@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze positions show frequent, multi-directional shifts across both axes with substantial vertical and horizontal excursions and few long, stable fixations, indicating continuous explorative tracking consistent with visually navigating an online game rather than the more line-structured or stationary patterns expected in reading, writing, or browsing/searching text, or the smoother focus seen when watching video.",
+  "correct": false
+}

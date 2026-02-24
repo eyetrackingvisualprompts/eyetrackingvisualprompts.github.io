@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several distinct horizontal bands with step-like transitions in both X and Y, indicating repeated shifts between different regions of the screen (e.g., results list, answer panels, possibly new pages). This multi-region, scanning-and-switching pattern aligns best with SEARCH compared to the more continuous or localized patterns of the other tasks.",
+  "correct": false
+}

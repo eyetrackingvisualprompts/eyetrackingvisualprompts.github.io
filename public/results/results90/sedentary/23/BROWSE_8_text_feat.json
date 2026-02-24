@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude saccades on and off screen, many fixations at extreme or negative coordinates, and rapid jumps between disparate page regions match free web browsing behavior and differ from the more structured, line-based or code-block patterns of READ/WRITE/DEBUG/INTERPRET, and from the object-following dynamics of PLAY or the smoother scene scanning of WATCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shifts cover a mid-screen region with frequent medium-length saccades in varying directions and moderate fixations, resembling exploratory scanning seen in the BROWSE example rather than the more structured horizontal patterns of READ/WRITE or the larger, more dynamic jumps typical for PLAY/WATCH/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between far\u2011apart regions (often to screen edges/outside), many revisits to scattered clusters, and irregular vertical positions without stable line\u2011by\u2011line scanning resemble exploratory webpage navigation rather than structured code (DEBUG/WRITE/INTERPRET), focused reading lines (READ), or object tracking (PLAY/WATCH). This pattern best matches the heterogeneous, exploratory gaze behavior seen in BROWSE examples.",
+  "correct": false
+}

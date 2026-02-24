@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated, long, predominantly horizontal sweeps across a narrow vertical band with occasional return saccades, consistent with tracking a target moving left\u2013right at fixed vertical position rather than random multi-directional movement or clustered text-like fixations.",
+  "correct": true
+}

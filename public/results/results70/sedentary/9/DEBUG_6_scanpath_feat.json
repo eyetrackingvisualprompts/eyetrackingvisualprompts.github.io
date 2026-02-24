@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a single left-side code area with no excursions to the right (console, web, or other UI regions), resembling the focused code-comprehension pattern of INTERPRET rather than the broader spread seen in DEBUG, WRITE, or browsing-related tasks.",
+  "correct": false
+}

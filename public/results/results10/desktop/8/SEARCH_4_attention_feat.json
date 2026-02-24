@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed over multiple vertical regions with both central and lower clusters, indicating scanning of varied content areas similar to browsing patterns rather than the more linear READ pattern or localized WATCH/PLAY behaviors.",
+  "correct": false
+}

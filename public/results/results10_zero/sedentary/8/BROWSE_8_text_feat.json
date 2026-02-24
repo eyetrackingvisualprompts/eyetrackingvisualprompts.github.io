@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze pattern shows frequent, long, multidirectional saccades across a wide vertical and horizontal range with relatively short fixations, indicative of tracking and shifting attention to moving targets rather than line-based reading or code inspection. This broad, dynamic scanning behavior best aligns with gameplay (e.g., following objects or navigating) among the given activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, gradual horizontal shifts with small vertical changes and extended fixations, consistent with following on-screen motion in a full-screen video rather than line-by-line reading or code-related tasks, which would exhibit more structured horizontal-then-vertical scan patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a compact cluster of short, localized saccades around a fixed screen region without large directional shifts or wide exploration. This pattern is consistent with sustained attention on a small text area during reading, rather than broader navigation (BROWSE/SEARCH), large-amplitude movements (PLAY/WATCH), or shifts between text and typing area (WRITE).",
+  "correct": false
+}

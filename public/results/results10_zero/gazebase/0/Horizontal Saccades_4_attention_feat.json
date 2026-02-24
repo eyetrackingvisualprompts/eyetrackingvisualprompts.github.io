@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are clustered along a single horizontal line at roughly constant vertical position with a few discrete horizontal locations spanning much of the screen width, matching following a target moving horizontally between two extremes rather than random or complex viewing patterns.",
+  "correct": true
+}

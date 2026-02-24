@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread vertically over a mid-screen column with multiple clusters and some deeper scrolling, resembling varied reading and exploration typical of web browsing, and differing from the more top-aligned READ pattern or the denser code-focused tasks (WRITE/DEBUG/INTERPRET).",
+  "correct": true
+}

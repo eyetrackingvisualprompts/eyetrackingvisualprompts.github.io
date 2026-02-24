@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are widely distributed horizontally near the top of the screen with additional vertical scan down the left side, matching scanning of search results and sidebar typical in the SEARCH examples rather than the more localized or structured patterns of other tasks.",
+  "correct": false
+}

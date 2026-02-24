@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact code-like area with frequent short saccades and revisits, plus occasional long shifts to another region (likely console or other window), closely matching the DEBUG example pattern.",
+  "correct": false
+}

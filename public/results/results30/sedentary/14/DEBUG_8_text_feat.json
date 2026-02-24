@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a narrow horizontal band around y\u2248500\u2013650 with many short, local saccades along that band and repeated passes, matching scanning of a search-results list. Occasional jumps to the top (y\u2248130\u2013260) resemble checking the query box or top snippet, consistent with SEARCH rather than the more line-structured READ or the code-centered tasks (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

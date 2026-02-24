@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains within a very small spatial region around the screen center with only slow, low-amplitude drifts and micro-adjustments, and no large, systematic jumps across wider visual angles. This tightly clustered, nearly static pattern best matches sustained fixation behavior on a central target rather than the broader excursions or structured scanpaths of the other tasks.",
+  "correct": true
+}

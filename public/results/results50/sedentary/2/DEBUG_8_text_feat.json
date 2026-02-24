@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in mid-to-lower screen code regions with repeated revisits between a small set of coordinates, oscillating between slightly different vertical positions as if editing and checking lines. There are no long horizontal sweeps typical of reading text nor large, frequent global jumps seen in search/browse or play; instead, patterns resemble iterative code editing and cursor-area monitoring characteristic of WRITE tasks in the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains constrained to a few nearly horizontal bands around y\u2248220\u2013380\u2013460, with systematic left\u2011to\u2011right and right\u2011to\u2011left sweeps and short regressions, closely matching the line-by-line reading patterns seen in the READ examples rather than the larger jumps or scattered exploration of SEARCH/BROWSE or the dynamic object tracking of PLAY/WATCH.",
+  "correct": true
+}

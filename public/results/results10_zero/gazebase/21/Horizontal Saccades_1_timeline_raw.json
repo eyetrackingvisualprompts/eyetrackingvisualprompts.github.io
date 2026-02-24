@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates in a regular, large-amplitude square-wave pattern between about \u00b113\u201314\u00b0 with ~1 s plateaus, while Y position stays near 0\u00b0 with minor noise. This matches a target moving horizontally with 1-second holds, characteristic of the Horizontal Saccades task, rather than random or complex 2D movements.",
+  "correct": true
+}

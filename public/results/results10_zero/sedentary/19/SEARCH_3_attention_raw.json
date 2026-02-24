@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a small region near the upper-left, consistent with sustained fixation on a narrow block of text (e.g., an early part of a paragraph) rather than widespread exploration or dynamic tracking typical of PLAY, WATCH, SEARCH, or BROWSE.",
+  "correct": false
+}

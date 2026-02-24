@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly confined to a horizontal band with clusters and medium-length saccades across the page, resembling scanning of web content with occasional shifts, which matches the BROWSE example more than the more chaotic SEARCH or localized coding-related tasks.",
+  "correct": false
+}

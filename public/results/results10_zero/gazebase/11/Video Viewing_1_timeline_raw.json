@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like shifts to various positions across both horizontal (\u00b115\u00b0) and vertical (\u00b19\u00b0) ranges, with brief holds between movements rather than continuous scanning or stable fixation. This pattern best matches following a randomly moving target that jumps to different screen locations and is then fixated, consistent with the Random Saccades task.",
+  "correct": false
+}

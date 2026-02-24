@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the central region with moderate vertical spread, resembling the SEARCH example where gaze shifts between the search box, results, and snippets, rather than the tighter central cluster of BROWSE or the top-heavy distributions of READ/WRITE/WATCH.",
+  "correct": false
+}

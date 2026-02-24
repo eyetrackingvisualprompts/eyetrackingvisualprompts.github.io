@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed horizontal and vertical movements with frequent shifts between upper and lower screen regions, resembling scanning result lists and opening pages. This pattern aligns more with the SEARCH example than the steadier code-related tasks or the more repetitive PLAY and WATCH trajectories.",
+  "correct": false
+}

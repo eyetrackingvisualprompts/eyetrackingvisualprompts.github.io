@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered near the screen center with moderate dispersion and occasional vertical shifts, closely matching the browsing example pattern rather than the more horizontally-structured reading/searching or wider movements in watching/playing.",
+  "correct": false
+}

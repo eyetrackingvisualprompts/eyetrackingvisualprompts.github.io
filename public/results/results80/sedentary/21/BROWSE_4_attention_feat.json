@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered on a mid-left region typical of focused code inspection, with some scattered looks elsewhere (e.g., console or other panels), matching the DEBUG example more than the tighter INTERPRET cluster or more linear READ/WRITE patterns.",
+  "correct": false
+}

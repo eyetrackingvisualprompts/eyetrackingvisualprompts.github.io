@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze stays mostly within a constrained central X region with moderate horizontal shifts and several brief vertical excursions, resembling focused inspection over code lines with occasional jumps\u2014matching the DEBUG pattern more than the more dynamic PLAY/WATCH or systematic READ/BROWSE/SEARCH behaviors.",
+  "correct": true
+}

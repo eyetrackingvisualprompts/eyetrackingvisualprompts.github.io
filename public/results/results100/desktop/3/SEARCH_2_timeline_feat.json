@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The target data shows frequent, irregular saccades with gaze positions spread broadly in both X and Y, lacking the orderly horizontal scanning of READ/WRITE and the more constrained patterns of WATCH/PLAY. This heterogeneous, exploratory pattern best matches the browsing behavior example.",
+  "correct": false
+}

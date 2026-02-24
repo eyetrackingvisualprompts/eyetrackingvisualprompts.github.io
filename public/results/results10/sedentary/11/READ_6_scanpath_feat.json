@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread horizontally across a mid-screen band with multiple short fixations and small saccades, resembling scanning of web content, similar to the BROWSE example and less structured than READ or code-focused tasks.",
+  "correct": false
+}

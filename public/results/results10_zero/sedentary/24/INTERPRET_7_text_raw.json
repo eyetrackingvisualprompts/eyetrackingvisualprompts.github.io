@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show large, rapid shifts across wide screen areas (including off-screen coordinates), frequent transitions between central and peripheral regions, and less structured horizontal scanning, which is characteristic of visually tracking dynamic game elements and occasional screen-edge or UI checks, rather than the more localized, line-based patterns seen in reading, coding, or web/search tasks.",
+  "correct": false
+}

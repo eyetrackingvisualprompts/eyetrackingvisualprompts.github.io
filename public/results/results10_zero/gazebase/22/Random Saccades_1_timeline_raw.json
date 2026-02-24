@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions show discrete step-like jumps in both horizontal and vertical directions to various locations that are then held approximately stable for about one second before jumping again, matching a target that moves to random screen positions with 1 s dwell times, characteristic of the Random Saccades task rather than purely horizontal motion, central fixation, or natural viewing/reading patterns.",
+  "correct": true
+}

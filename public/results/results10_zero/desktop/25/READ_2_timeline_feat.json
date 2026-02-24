@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions stay near screen center with very small, gradual horizontal changes and minimal vertical movement, consistent with focused typing in a word processor rather than larger systematic horizontal scans of reading or broader exploratory movements of browsing, searching, playing, or watching video.",
+  "correct": false
+}

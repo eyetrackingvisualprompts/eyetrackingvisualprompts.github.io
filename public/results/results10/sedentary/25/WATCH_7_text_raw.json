@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in relatively small regions with frequent short saccades and revisits around code-like coordinate bands, plus occasional jumps to other UI areas (e.g., menus/console), resembling the WRITE exemplar more than the more chaotic SEARCH/BROWSE or the smoother scanning in READ/WATCH. The pattern also includes returns to similar clusters as if editing and checking code rather than free exploration or game tracking.",
+  "correct": false
+}

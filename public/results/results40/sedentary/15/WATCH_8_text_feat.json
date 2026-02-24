@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades between widely separated screen regions (center, far top/bottom, and extreme right), with many visits to bottom areas consistent with scrolling, and intermittent medium-length fixations. This exploratory, non-linear navigation across the page matches browsing behavior more than the tighter code-centered patterns of WRITE/DEBUG/INTERPRET, the line-structured patterns of READ/SEARCH, or the object-following trajectories of WATCH/PLAY.",
+  "correct": false
+}

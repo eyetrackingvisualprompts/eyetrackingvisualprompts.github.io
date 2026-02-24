@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent shifts between central code-like regions and dispersed peripheral/edge locations, including off-screen coordinates, along with repeated returns to mid-screen working areas, match the edit\u2013scroll\u2013cursor-move behavior seen in WRITE examples more than the more localized, line-scan patterns of READ/INTERPRET or the smoother horizontal bands of BROWSE/SEARCH.",
+  "correct": false
+}

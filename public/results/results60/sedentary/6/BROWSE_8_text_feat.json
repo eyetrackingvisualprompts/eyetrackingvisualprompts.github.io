@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scans along mid-screen bands with repeated left-right sweeps over similar y-coordinates, intermittent jumps to higher/lower bands, occasional off-screen excursions and return, and no clear line-by-line progression or code-like cluster revisits; this pattern best matches web browsing behavior rather than focused reading or code tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is clustered in a few compact regions with gradual drifts and local small saccades, including many points in lower/central screen areas and some off-content excursions, matching the relatively loose, non-line-based viewing seen in the WATCH examples rather than the tighter line/column structures of text or code tasks or the large rapid jumps of game play or browsing.",
+  "correct": false
+}

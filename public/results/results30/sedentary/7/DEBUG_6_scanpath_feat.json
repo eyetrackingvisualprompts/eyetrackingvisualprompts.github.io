@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated over the left-central area where code is likely displayed, with repeated returns to a few regions and occasional long saccades to other parts of the screen (e.g., console, error messages), matching the exploratory and verification pattern typical of debugging rather than the more localized WRITE or more dispersed BROWSE/PLAY/WATCH behaviors.",
+  "correct": true
+}

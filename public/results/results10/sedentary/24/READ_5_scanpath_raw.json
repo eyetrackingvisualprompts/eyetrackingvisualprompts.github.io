@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on a narrow vertical code-like area with repeated up-down scanning and revisits, resembling the INTERPRET example more than the broader, multi-region movements seen in DEBUG, BROWSE, or SEARCH.",
+  "correct": false
+}

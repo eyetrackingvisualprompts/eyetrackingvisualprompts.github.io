@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical transitions between mid-page and near-bottom regions, interspersed with horizontal scans around central bands, plus occasional jumps to extreme top and off-content coordinates, match web browsing/scrolling patterns better than the more structured line-by-line READ traces or the localized code-centric WRITE/DEBUG/INTERPRET patterns. The behavior closely resembles the provided BROWSE examples with mixed navigation, revisits, and broad exploratory movements.",
+  "correct": true
+}

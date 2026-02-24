@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including corners and diagonals), with relatively brief fixations and repeated returns to central-lower/central-right areas, resemble tracking dynamic game elements rather than the more line-structured or localized patterns seen in code reading/debugging, web search, or passive video watching.",
+  "correct": true
+}

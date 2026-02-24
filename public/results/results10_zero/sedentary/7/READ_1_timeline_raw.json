@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near screen center vertically with slow, smooth horizontal drift and few rapid shifts, consistent with following content in a video rather than line-by-line reading, code editing, or interactive tasks that induce frequent saccades and larger positional changes.",
+  "correct": false
+}

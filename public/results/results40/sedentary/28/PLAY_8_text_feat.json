@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, frequent jumps across wide screen regions (including edges and corners), short to moderate fixations, and no systematic line-by-line pattern. This heterogeneous scanning with revisits to mid-page areas and occasional excursions to extremes matches the free-form, multi-area exploration seen in BROWSE, rather than the more localized, structured patterns of reading, coding tasks, or game tracking.",
+  "correct": false
+}

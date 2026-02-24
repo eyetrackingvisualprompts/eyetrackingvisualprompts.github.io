@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a left cluster and a right cluster with horizontal movements across mid-screen and some vertical scanning, resembling transitions between search results list and selected pages, matching the SEARCH pattern more than the more localized code or reading tasks or the more globally scattered watch/play behavior.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow vertical strip on the left, spanning multiple code lines with frequent up\u2011down transitions and minimal viewing elsewhere, which aligns best with the DEBUG pattern compared to the more centralized WRITE/INTERPRET clusters or the more dispersed SEARCH/BROWSE layouts.",
+  "correct": false
+}

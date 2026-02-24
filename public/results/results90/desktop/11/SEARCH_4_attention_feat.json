@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a compact horizontal region in the lower-middle part of the screen, unlike the more central clusters for BROWSE/SEARCH or mid-height bands for READ. This localized lower-area focus matches the WATCH pattern, likely corresponding to attention on a video region or subtitles near the bottom of the display.",
+  "correct": false
+}

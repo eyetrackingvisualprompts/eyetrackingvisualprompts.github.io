@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze alternates repeatedly between a left-central region (x\u2248220\u2013420, y\u2248300\u2013370) and a far-right area (x\u22481600\u20131750, y\u2248480\u2013550), with medium-length fixations at each cluster. This pattern matches switching between code and an output/console or debugger panel, typical for debugging, rather than the more linear scan of reading/browsing or the smoother motion of watching/playing video.",
+  "correct": false
+}

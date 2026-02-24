@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cluster within a relatively confined central-lower region with continuous, smooth shifts and no clear horizontal line-by-line scanning or structured vertical revisits. The pattern suggests sustained attention to dynamic content rather than reading or code-related tasks, and lacks the large, goal-directed saccades typical of active search, browsing, or gameplay\u2014most consistent with passively watching a video.",
+  "correct": false
+}

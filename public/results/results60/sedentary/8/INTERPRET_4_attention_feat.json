@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the upper-left code area with several separated hotspots vertically, similar to the DEBUG example where attention alternates between different parts of the code and outputs, unlike the more compact INTERPRET or WRITE patterns.",
+  "correct": false
+}

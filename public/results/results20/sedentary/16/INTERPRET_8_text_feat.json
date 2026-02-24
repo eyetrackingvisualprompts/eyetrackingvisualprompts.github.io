@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow code-like region with many short horizontal and small vertical shifts, repeated revisits to nearby lines, and no large-scale vertical scanning typical of reading articles or search results. The pattern closely matches the WRITE examples\u2019 local code navigation rather than the more top-to-bottom sweeps seen in READ/SEARCH or the wide, scene-level movements in WATCH/PLAY/BROWSE.",
+  "correct": false
+}

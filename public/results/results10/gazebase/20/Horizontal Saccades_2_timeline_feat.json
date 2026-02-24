@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates regularly between two extreme horizontal values while Y remains near constant around 0 DVA, matching the pattern of repeated large-amplitude horizontal saccades with 1-second fixations at each side.",
+  "correct": true
+}

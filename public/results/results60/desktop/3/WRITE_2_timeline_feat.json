@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions fluctuate around mid-screen with frequent, irregular saccades and no strong left-to-right line structure, indicating scattered exploration typical of browsing heterogeneous web pages rather than orderly reading, writing, or focused gameplay/video watching patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster within a relatively small central code-like area with frequent short saccades and occasional medium jumps, consistent with inspecting and re\u2011inspecting a few lines or tokens (typical of debugging) rather than long, systematic line sweeps of reading/browsing or broader exploratory movements of watching/playing/searching.",
+  "correct": false
+}

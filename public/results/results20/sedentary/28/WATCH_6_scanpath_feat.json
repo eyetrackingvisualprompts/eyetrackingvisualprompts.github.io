@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze pattern shows wide spatial coverage across the central screen with frequent medium-length saccades and scattered fixations, lacking the structured horizontal lines of reading/browsing or the tight clusters near code regions. This free-viewing, distributed exploration closely matches the WATCH example scanpath for video watching.",
+  "correct": true
+}

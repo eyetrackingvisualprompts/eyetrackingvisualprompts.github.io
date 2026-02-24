@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze fixations cluster around mid-screen with frequent small saccades and irregular horizontal/vertical shifts, matching the mixed, less-structured viewing pattern seen in the BROWSE example rather than the more linear (READ/WRITE) or more extreme (WATCH/PLAY) movements.",
+  "correct": true
+}

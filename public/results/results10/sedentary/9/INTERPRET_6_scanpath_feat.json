@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on one code block with occasional long vertical saccades to a lower area, matching the pattern of repeatedly checking parts of faulty code and output/other regions typical in debugging rather than the tighter, more localized pattern of simple interpretation.",
+  "correct": false
+}

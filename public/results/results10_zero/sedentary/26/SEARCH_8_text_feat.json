@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal movements with clusters of medium-length fixations aligned in bands (around y\u2248300 then y\u224880\u2013150), plus occasional regressions within the same region, which is characteristic of reading lines of text rather than dynamic tracking, coding, or free-form browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region with moderate horizontal and vertical shifts, showing repeated short inspections and returns to similar positions, matching the focused yet revisiting pattern seen in the INTERPRET example rather than the broader scanning of SEARCH/BROWSE or the line-wise progression of READ/WRITE.",
+  "correct": false
+}

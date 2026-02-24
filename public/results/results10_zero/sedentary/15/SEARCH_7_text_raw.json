@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show rapid, large-amplitude saccades across wide screen regions (e.g., jumps between far right and central/left areas, and large vertical shifts), with relatively few stable, line-like fixation patterns characteristic of reading or code inspection. This broad, dynamic scanning pattern is more consistent with visually tracking moving elements in a game than with the more horizontally structured, line-by-line eye movements seen in WRITE/READ/INTERPRET/DEBUG/SEARCH/BROWSE, or the more continuous central focus typical of WATCH.",
+  "correct": false
+}

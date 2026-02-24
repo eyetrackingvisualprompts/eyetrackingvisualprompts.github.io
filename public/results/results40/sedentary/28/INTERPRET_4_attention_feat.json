@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a dense, localized cluster of fixations in the upper-left code/text area with a few scattered looks elsewhere, closely matching the INTERPRET example pattern where attention is focused on a single code snippet rather than broadly scanning or interacting with multiple regions.",
+  "correct": true
+}

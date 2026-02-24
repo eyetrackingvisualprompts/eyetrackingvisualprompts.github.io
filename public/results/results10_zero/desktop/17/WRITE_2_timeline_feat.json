@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations remain in a narrow horizontal band with slow, small incremental shifts and few saccades, indicating stable gaze on static text lines typical of reading rather than the larger, more frequent shifts seen in browsing, searching, writing, playing, or watching video.",
+  "correct": false
+}

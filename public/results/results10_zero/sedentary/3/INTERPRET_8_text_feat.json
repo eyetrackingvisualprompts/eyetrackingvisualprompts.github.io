@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long, repeated fixations clustered in a relatively small central region with occasional short saccades and a single very long fixation (~2.8s) suggest focused inspection of a compact code snippet or expression, consistent with mentally simulating code for INTERPRET rather than the more spatially distributed or systematically linear patterns typical of READ, BROWSE, or PLAY.",
+  "correct": true
+}

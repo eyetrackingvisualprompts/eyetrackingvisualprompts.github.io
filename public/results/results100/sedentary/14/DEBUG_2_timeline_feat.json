@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent vertical shifts between two main horizontal bands and irregular saccades, indicating alternating between reading snippets and scanning result lists, which best matches the SEARCH pattern compared with the provided examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, mostly monotonic horizontal sweeps with relatively stable vertical position and periodic resets, matching the left-to-right line reading pattern seen in the READ example more than the other activities.",
+  "correct": true
+}

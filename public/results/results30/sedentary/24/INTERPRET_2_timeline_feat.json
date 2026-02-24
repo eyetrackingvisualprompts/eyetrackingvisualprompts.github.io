@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays mostly in a narrow upper-left band with occasional vertical excursions and several sharp jumps around mid and late window, closely matching the WRITE example where attention alternates between code area and other UI elements while typing, unlike steadier INTERPRET/READ or more dispersed SEARCH/BROWSE patterns.",
+  "correct": false
+}

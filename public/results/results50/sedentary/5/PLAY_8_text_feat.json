@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "After initial wide exploratory saccades across screen regions (code/output areas), gaze settles into long, dense fixations and short local saccades around a relatively small mid-screen band, repeatedly revisiting nearby coordinates. This pattern matches carefully reasoning over a given code snippet and its state, typical for the INTERPRET task, rather than the more line-scanning READ/WRITE patterns or the highly dynamic SEARCH/BROWSE/PLAY behaviors.",
+  "correct": false
+}

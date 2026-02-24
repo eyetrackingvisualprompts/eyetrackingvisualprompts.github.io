@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points cluster in stable horizontal bands with small, systematic vertical shifts, consistent with line-by-line reading of text rather than large exploratory movements typical of browsing, searching, or gameplay, and more structured than free watching of video.",
+  "correct": false
+}

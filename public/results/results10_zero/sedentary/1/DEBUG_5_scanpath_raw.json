@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow vertical region with dense, short horizontal and vertical movements and no large jumps across the screen, consistent with reading text in a column rather than scanning code, browsing multiple elements, or tracking moving objects.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "X position shows progressive left-to-right steps with regressions, while Y position drifts slowly downward with occasional line-change saccades, matching characteristic reading scan patterns rather than large random or strictly horizontal target movements.",
+  "correct": true
+}

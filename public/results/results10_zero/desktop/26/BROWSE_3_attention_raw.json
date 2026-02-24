@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered mainly in a central vertical band with scattered points at various horizontal positions and mid\u2013upper screen regions, suggesting scanning of changing, vertically scrolling content and results areas rather than systematic left-to-right line-by-line reading or focused writing; this pattern aligns best with web search behavior on a results page.",
+  "correct": false
+}

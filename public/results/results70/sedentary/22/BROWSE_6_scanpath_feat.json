@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely spread across the screen with frequent long saccades in multiple directions, indicating continuous tracking of moving targets and navigation typical of interactive gameplay rather than the more localized or structured patterns seen in reading, coding, or web browsing.",
+  "correct": false
+}

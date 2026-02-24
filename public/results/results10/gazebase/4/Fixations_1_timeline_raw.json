@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze positions show slow, smooth drifts with small fluctuations and one brief larger vertical excursion, matching natural, unconstrained eye movements during video viewing rather than the repetitive or highly discrete patterns seen in reading, games, or controlled saccade tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is tightly clustered around the central horizontal band with limited vertical movement, indicating sustained attention to a relatively static central area typical of watching video content rather than the systematic horizontal/vertical sweeps seen in reading, browsing, or coding tasks.",
+  "correct": false
+}

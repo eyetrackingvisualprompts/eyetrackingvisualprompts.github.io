@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a relatively central vertical band with scattered clusters around mid-screen, resembling attention shifts between search box, results list, and related UI elements, which matches the SEARCH example pattern more than the other activities.",
+  "correct": false
+}

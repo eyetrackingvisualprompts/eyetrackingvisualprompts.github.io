@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is dominated by medium-to-long fixations progressing mainly horizontally within a constrained vertical band, with occasional line shifts downward\u2014closely matching the structured, line-by-line horizontal scanning patterns seen in the READ examples rather than the more dispersed, large-amplitude or peripheral movements typical of SEARCH, BROWSE, WATCH, PLAY, or the left-biased WRITE behavior near the text-entry area.",
+  "correct": false
+}

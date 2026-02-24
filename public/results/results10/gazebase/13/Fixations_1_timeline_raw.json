@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y gaze positions remain tightly clustered near the center with only small noise-like fluctuations, indicating sustained fixation on a static central target rather than systematic saccades or exploratory movements.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a central region with moderate horizontal and vertical spread, resembling the browsing example where gaze moves around clustered content blocks, rather than the more linear patterns of READ/WRITE or the wider, more dynamic ranges of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

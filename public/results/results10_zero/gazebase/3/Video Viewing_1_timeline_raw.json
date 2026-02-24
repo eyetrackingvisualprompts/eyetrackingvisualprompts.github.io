@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete position jumps in both horizontal and vertical directions with relatively stable plateaus of about one second between them, covering a broad 2D range. This pattern matches the bull\u2019s-eye target moving randomly across the screen (Random Saccades), rather than strictly horizontal motion, static fixation, or more irregular exploratory patterns seen in reading, gaming, or video viewing.",
+  "correct": false
+}

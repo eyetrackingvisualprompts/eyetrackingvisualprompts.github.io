@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide screen regions, with many revisits between upper and lower areas and around central bands\u2014indicative of tracking moving game elements rather than structured line-by-line text or code inspection. The pattern closely resembles the PLAY example, with dynamic, multi-directional movements and relatively shorter, more frequent fixations distributed over the play field.",
+  "correct": false
+}

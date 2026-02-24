@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows gaze concentrated in a narrow horizontal band around screen center, with multiple discrete fixation clusters spread laterally but very limited vertical dispersion, consistent with following a target moving horizontally back and forth rather than random 2D motion, static fixation, or complex patterns from reading, gaming, or video viewing.",
+  "correct": false
+}

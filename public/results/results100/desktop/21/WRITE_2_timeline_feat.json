@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, smooth shifts in both X and Y with relatively long fixations and broad vertical coverage, resembling dynamic tracking of moving visual content rather than dense, line-based reading or text editing. This pattern best matches the WATCH activity where participants follow video scenes and characters.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely distributed across the central and lower parts of the screen with frequent, irregular saccades and no clear line-by-line reading or code-area focus. This broad, continuous exploration closely matches the WATCH scanpath example, characteristic of following dynamic visual content in a video.",
+  "correct": true
+}

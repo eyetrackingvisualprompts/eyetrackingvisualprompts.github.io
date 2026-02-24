@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow left-side code/text region with frequent revisits between a mid-upper area (~y\u2248230\u2013330) and a mid-lower area (~y\u2248450\u2013580), plus occasional jumps to a higher horizontal band (~x\u2248500) resembling brief checks of problem description or output. The pattern shows many medium-length fixations and repeated up-down sweeps within the same code-like area, characteristic of editing and monitoring one\u2019s own code while typing, and matches the WRITE exemplars more closely than the more top-heavy INTERPRET or more globally-scattered DEBUG/SEARCH/BROWSE patterns.",
+  "correct": false
+}

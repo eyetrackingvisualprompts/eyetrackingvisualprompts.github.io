@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a narrow left-side vertical band with frequent short saccades and re-fixations, typical of focused interaction with a small code editor region while typing, rather than broader exploration or line-by-line reading alone; this pattern best matches code writing behavior.",
+  "correct": false
+}

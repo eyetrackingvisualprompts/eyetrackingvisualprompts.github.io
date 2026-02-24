@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains mostly around the horizontal center with very small, slow drifts in X and almost constant Y, plus a brief vertical spike\u2014consistent with passively watching a video where eyes stay near screen center and occasionally move to track transient events, unlike the structured horizontal/vertical scanning seen in reading, coding, or web tasks.",
+  "correct": false
+}

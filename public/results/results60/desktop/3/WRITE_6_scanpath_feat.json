@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a predominantly horizontal band with orderly left-to-right saccades and limited vertical movement, closely matching the typical scanpath of reading text, and resembling the READ example more than the other activity patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze covers multiple horizontal bands with frequent vertical transitions between them and occasional excursions across the screen, resembling scanning of different webpage sections rather than the more localized patterns of coding tasks or the more uniform line-by-line progression of pure reading.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trajectory shows large, irregular multi-directional jumps across wide regions of the screen (both horizontally and vertically) followed by short local fixations, consistent with following a target that moves unpredictably to new positions for about one second each, which matches the Random Saccades pattern rather than the more regular horizontal-only saccades or the scanline-like structure of Reading.",
+  "correct": true
+}

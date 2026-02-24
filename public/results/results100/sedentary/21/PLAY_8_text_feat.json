@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extremes and off-center areas), many revisits between dispersed hotspots, and strong vertical excursions toward screen edges indicate visually tracking dynamic, game-like elements rather than reading, coding, or static browsing content, matching the PLAY activity patterns.",
+  "correct": true
+}

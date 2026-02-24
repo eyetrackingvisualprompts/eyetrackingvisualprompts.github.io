@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are tightly clustered around the screen center with limited overall spread, resembling the example BROWSE pattern more than the other activities, which show either more horizontal reading lines, wide exploratory movements, or distinct multi-region clusters.",
+  "correct": true
+}

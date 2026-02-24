@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper-left quadrant and near the top of the screen, with many small vertical adjustments and revisits to nearby positions, consistent with tracking typed text and the cursor in a word processor rather than systematic horizontal line sweeps of reading or the broader exploratory movements seen in browsing/searching/playing/watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points progress in predominantly horizontal bands with relatively smooth left-right movements and occasional regressions, consistent with line-by-line reading across paragraphs rather than the more clustered (code/IDE) or highly scattered (web browsing, search, gameplay, or video watching) patterns.",
+  "correct": false
+}

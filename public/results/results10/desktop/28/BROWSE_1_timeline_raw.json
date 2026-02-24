@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent, and irregular shifts in both X and Y positions with substantial vertical excursions and rapid oscillations resemble continuous, multidirectional gaze movements typical of tracking dynamic game elements rather than the more structured or constrained patterns seen in reading, writing, browsing, watching, or searching tasks.",
+  "correct": false
+}

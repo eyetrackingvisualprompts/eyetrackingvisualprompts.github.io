@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show frequent, irregular changes in both X and Y with many short fixations and saccades scattered across mid-screen, matching the noisy, exploratory pattern typical of web browsing rather than the more structured, directional movements seen in reading, writing, playing, searching, or watching video.",
+  "correct": true
+}

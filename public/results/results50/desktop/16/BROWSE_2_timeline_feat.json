@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate, shifting exploration across both axes with frequent mid-screen fixations and varied saccades, resembling mixed reading and scanning behavior typical of using a search engine rather than the more stable patterns of READ/WRITE or the distinct dynamics of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal scanning with small, frequent shifts and revisits at similar vertical levels, resembling the DEBUG example more than the others; it lacks the strong linear progression of READ, the large dispersed movements of PLAY/SEARCH/BROWSE, and the more static or centrally focused patterns of WATCH/INTERPRET/WRITE.",
+  "correct": true
+}

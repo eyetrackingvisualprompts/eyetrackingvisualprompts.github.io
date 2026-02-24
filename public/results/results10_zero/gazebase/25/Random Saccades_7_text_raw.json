@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, abrupt multi-directional jumps across a wide visual field (both horizontally and vertically), followed by short, relatively stable clusters around new positions. This pattern\u2014discrete relocations to scattered positions rather than predominantly horizontal sweeps, central fixation, or line-structured scanning\u2014is most consistent with following a randomly moving target, i.e., Random Saccades.",
+  "correct": true
+}

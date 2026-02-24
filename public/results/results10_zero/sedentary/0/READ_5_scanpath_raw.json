@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is confined to a narrow horizontal band in the lower-middle part of the screen, suggesting sustained attention on a single region such as a code editor line area, with small back-and-forth movements consistent with reading and editing code during implementation rather than scanning multiple regions or following dynamic objects.",
+  "correct": false
+}

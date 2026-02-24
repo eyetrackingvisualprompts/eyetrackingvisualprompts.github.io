@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The heatmap shows widespread fixations across the screen, both horizontally and vertically, with no single dominant cluster\u2014indicating dynamic, exploratory gaze behavior typical of tracking moving game elements during PLAY rather than the more localized, banded, or top-focused patterns seen in writing, reading, browsing, searching, or watching video.",
+  "correct": false
+}

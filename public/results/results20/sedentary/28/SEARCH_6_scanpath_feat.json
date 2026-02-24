@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is clustered over a left-side code/console area with repeated vertical shifts and occasional long saccades to the right, matching patterns of checking code, errors, and output seen in debugging rather than continuous reading or browsing.",
+  "correct": false
+}

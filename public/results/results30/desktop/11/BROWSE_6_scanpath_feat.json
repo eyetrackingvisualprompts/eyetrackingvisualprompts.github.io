@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around a central region with medium-range saccades in multiple directions and no clear horizontal reading lines, closely matching the browsing example pattern rather than structured reading, writing, or wide-range movements seen in play or watch tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered around a compact code region with frequent vertical and small horizontal shifts plus occasional long saccades, closely matching the DEBUG example scanpath and typical code-inspection and correction behavior.",
+  "correct": false
+}

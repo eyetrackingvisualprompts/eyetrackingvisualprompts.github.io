@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with moderate horizontal spread and irregular vertical shifts, plus frequent saccades without strong monotonic trends. This pattern best matches the variable, scattered viewing behavior seen in BROWSE, rather than the more structured scan paths of READ/WRITE or the larger directional sweeps of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

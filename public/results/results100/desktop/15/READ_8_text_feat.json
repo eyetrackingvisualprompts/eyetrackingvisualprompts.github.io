@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Predominantly horizontal, line-like scanpaths with moderate saccade amplitudes and sustained fixations at mid-to-lower vertical positions, repeatedly progressing left-to-right and then jumping down, closely match the structured reading patterns seen in the READ examples rather than the more scattered, viewport-level exploration of SEARCH/BROWSE or the central clustering of WATCH/WRITE/PLAY.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shifts cover large vertical and horizontal extents (near 0.0\u20131.0 in y and wide in x) with long saccades between dispersed regions and medium-length fixations, indicating following dynamic, screen-wide visual content rather than line-by-line text or focused document/web regions, which is characteristic of watching video.",
+  "correct": false
+}

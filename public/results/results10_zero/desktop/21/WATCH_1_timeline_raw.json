@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze Y-position is mostly high (top of screen) with gradual drifts and occasional step-like shifts, while X-position varies only slightly around a band. This pattern matches passively following content in a fixed region\u2014typical of watching a video\u2014rather than systematic horizontal scanning (READ/SEARCH/BROWSE), localized typing focus (WRITE), or wide exploratory movements (PLAY).",
+  "correct": true
+}

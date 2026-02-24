@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data shows large, irregular multi-directional saccades with varied amplitudes across both axes and fixations around many distinct positions, matching the random target-jumping pattern of Random Saccades rather than the more constrained or structured movements of the other tasks.",
+  "correct": false
+}

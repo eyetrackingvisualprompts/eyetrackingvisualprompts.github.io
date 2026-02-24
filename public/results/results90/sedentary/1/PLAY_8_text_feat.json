@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large saccades across wide screen regions (including corners and edges), many revisits between central and peripheral locations, and strong involvement of upper and lower screen areas resemble continuous target tracking and spatial monitoring typical for gameplay, and differ from the more line- or block-structured, text/IDE-centered patterns seen in READ/DEBUG/WRITE/INTERPRET or the more results-page/toolbar-oriented SEARCH/BROWSE patterns.",
+  "correct": true
+}

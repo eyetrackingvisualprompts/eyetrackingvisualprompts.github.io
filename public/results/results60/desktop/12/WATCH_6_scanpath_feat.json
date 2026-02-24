@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around the central area with moderate vertical spread and scattered fixations, resembling the search example more than the tight horizontal band of reading/writing or the peripheral concentration of playing/watching. This pattern is typical of scanning SERPs and result pages during web search.",
+  "correct": false
+}

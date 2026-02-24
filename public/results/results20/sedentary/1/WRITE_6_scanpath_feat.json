@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is split between a tight cluster on the left (code editor) and a smaller cluster on the right (console or reference area) with long saccades between them, matching the WRITE example where participants alternate between writing code and checking output.",
+  "correct": true
+}

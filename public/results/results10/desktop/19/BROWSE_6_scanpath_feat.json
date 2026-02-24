@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows a few larger saccades between two main spatial regions with relatively sparse fixations, resembling shifts between objects or characters on a video rather than systematic line-by-line text reading or dense page exploration typical of search/browse/write/play tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small left-side code area with limited vertical range and dense local fixations, matching the focused, localized scanpath typical of typing/editing code in the WRITE condition rather than the slightly more vertically distributed pattern seen in INTERPRET.",
+  "correct": true
+}

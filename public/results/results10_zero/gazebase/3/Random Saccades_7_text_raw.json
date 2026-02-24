@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show long, discrete gaze jumps between widely separated positions (up to ~30\u00b0 horizontally and ~15\u00b0 vertically) with extended clusters of small variability between jumps, consistent with 1-second fixations on a single moving target at varying 2\u00b0+ steps in both axes, matching the Random Saccades paradigm rather than strictly horizontal motion, continuous reading scanpaths, central fixation, or free-viewing/game-like exploration.",
+  "correct": true
+}

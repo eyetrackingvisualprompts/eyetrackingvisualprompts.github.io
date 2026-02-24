@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a limited central code area with many short, local saccades and repeated revisits to nearby lines/regions, interspersed with occasional upward jumps, which matches intensive line-by-line inspection and re-inspection typical of debugging rather than smoother reading, broad search/browse scans, or dynamic game/video tracking.",
+  "correct": true
+}

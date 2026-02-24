@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long, smooth horizontal drifts with relatively small vertical changes and occasional step-like shifts, resembling tracking of moving elements on a video rather than the systematic line-by-line scanning of reading or the more erratic jumps of browsing/searching/coding tasks, matching the WATCH pattern best.",
+  "correct": true
+}

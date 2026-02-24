@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent, and rapid saccades across wide screen regions (including off-screen/negative coordinates), repeated jumps between central play area and screen edges, and substantial vertical excursions toward top/bottom are characteristic of visually tracking dynamic game elements rather than reading or code-related tasks, matching the PLAY patterns in the examples.",
+  "correct": false
+}

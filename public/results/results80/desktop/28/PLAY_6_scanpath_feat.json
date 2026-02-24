@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated around the central region with frequent medium-length saccades and revisits, showing exploratory yet text-focused behavior that closely matches the SEARCH example pattern rather than the more localized READ/WRITE or more dispersed PLAY/WATCH paths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple vertical regions from near the top towards mid-screen, with clusters resembling scanning of search results (title area and snippets) rather than the tight central code-focused clusters of INTERPRET/DEBUG or the more dispersed exploration in BROWSE/WATCH/PLAY.",
+  "correct": false
+}

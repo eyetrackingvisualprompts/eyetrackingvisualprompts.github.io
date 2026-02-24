@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent, irregular saccades and fixations scattered around mid-screen in both axes without strong directional trends or long stable regions, matching the dynamic, exploratory patterns typical of web/news browsing rather than the more structured scanpaths of reading, writing, watching video, searching results lists, or game play.",
+  "correct": false
+}

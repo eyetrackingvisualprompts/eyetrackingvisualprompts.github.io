@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal scanning around mid-screen with frequent but not extreme saccades and variable vertical positions, suggesting shifting between query field, results list, and page content, which aligns best with the SEARCH pattern compared to the more structured READ traces or the more extreme distributions in PLAY/WATCH/WRITE.",
+  "correct": false
+}

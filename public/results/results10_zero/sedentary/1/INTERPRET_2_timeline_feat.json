@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains near the screen center with very small, infrequent saccades and stable fixations, indicating passive viewing of centrally presented dynamic content rather than systematic reading, code-related tasks, or interactive searching/playing, which would show more structured or larger gaze shifts.",
+  "correct": false
+}

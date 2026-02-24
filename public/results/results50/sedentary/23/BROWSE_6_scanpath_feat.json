@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points form multiple horizontal sweeps across the very top of the screen, consistent with scanning headings/menus and short text lines typical of web browsing, rather than the more centrally located blocks seen in reading passages.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze positions show medium central clustering with frequent moderate-amplitude saccades and gradual shifts in both X and Y, resembling scanning result pages and switching between query/results, which best matches the SEARCH pattern compared to the more stable READ or more erratic PLAY/WATCH examples.",
+  "correct": false
+}

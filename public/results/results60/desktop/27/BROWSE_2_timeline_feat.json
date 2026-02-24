@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixation positions cluster around screen center with moderate, irregular horizontal and vertical shifts and scattered saccades, closely resembling the browsing example pattern rather than the more structured scanpaths of READ/WRITE or the larger excursions of WATCH/PLAY/SEARCH.",
+  "correct": true
+}

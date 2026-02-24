@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated near the top area like on a search results page, with horizontal scanning across a few lines and some later downward movements to mid-page content, matching the SEARCH pattern more than the others.",
+  "correct": false
+}

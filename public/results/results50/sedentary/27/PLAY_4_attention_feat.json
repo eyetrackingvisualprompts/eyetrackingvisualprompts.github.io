@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are densely clustered around the central area with vertical and modest horizontal spread, resembling the PLAY example heatmap where gaze follows game elements near screen center, rather than the broader dispersion of WATCH/BROWSE or the more linear patterns of READ/SEARCH/WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

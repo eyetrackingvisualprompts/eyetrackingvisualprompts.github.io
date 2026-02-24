@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, smooth shifts in both X and Y with extended periods of relatively stable viewing at different regions, resembling following dynamic on-screen content. This pattern aligns best with the WATCH example, which features broader, slower movements than the more line- or text-structured tasks like READ, WRITE, or DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a compact, horizontally-elongated region near the screen center, matching the stable, line-based gaze pattern typical of reading and differing from the more scattered or vertically distributed patterns seen in browse/search/watch/play/write.",
+  "correct": false
+}

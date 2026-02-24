@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central region with moderate dispersion and no strong horizontal reading lines or large scene-wide shifts, matching the browsing example pattern more closely than reading, watching, or gaming behaviors.",
+  "correct": false
+}

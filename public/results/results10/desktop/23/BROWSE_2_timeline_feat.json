@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate horizontal movement with gradual vertical shifts, including occasional larger vertical transitions suggesting scrolling and refocusing on new regions\u2014patterns most consistent with web searching rather than the more linear, stable reading or highly dynamic watching/playing behaviors.",
+  "correct": false
+}

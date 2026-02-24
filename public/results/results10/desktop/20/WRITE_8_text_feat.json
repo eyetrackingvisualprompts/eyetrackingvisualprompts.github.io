@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around the central region with small horizontal and vertical adjustments, medium-length fixations, and no clear left-to-right line sweeps or large exploratory jumps. This localized, scanning behavior matches the browsing example patterns more than the structured horizontal movements of reading or the larger-amplitude shifts seen in search, watch, or play.",
+  "correct": false
+}

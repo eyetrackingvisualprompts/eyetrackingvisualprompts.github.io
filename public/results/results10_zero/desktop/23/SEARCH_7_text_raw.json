@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points stay mostly within a narrow horizontal band around the mid-lower screen with small progressive horizontal shifts and short saccades, consistent with line-by-line reading behavior rather than the larger, more scattered movements typical of browsing, searching, gaming, watching video, or tracking a cursor while writing.",
+  "correct": false
+}

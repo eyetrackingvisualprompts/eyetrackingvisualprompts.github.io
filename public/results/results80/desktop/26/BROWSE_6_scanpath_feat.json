@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are concentrated around the central region with frequent medium-range saccades in multiple directions, resembling exploratory viewing of varied webpage content. The pattern closely matches the provided BROWSE example more than the more linear READ pattern, the localized WRITE pattern, or the more widely spread PLAY/WATCH behaviors.",
+  "correct": true
+}

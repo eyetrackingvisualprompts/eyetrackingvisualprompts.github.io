@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a compact central region with moderate dispersion and relatively short saccades, resembling the example BROWSE pattern more than the more horizontally-extended READ/WATCH or multi-cluster PLAY patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region around the center of the screen, similar to typical browsing where attention is focused on a central content area rather than spread widely (PLAY/SEARCH) or aligned in text lines (READ/WRITE).",
+  "correct": false
+}

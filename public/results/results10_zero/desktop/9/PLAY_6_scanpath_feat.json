@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains clustered in a small central region with minor local shifts over 10 seconds, indicating sustained attention to a relatively static central area (such as main characters or subtitles) rather than systematic horizontal scanning (READ/WRITE) or wide exploratory movements (SEARCH/BROWSE/PLAY).",
+  "correct": false
+}

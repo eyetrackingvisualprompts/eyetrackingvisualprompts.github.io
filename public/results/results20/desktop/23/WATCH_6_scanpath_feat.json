@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the screen center with moderate horizontal and vertical spread, similar to the SEARCH example where users scan results and query boxes, rather than the tighter lines of READ/WRITE or the broader movements of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

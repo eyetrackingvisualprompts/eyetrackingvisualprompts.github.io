@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact vertical region with short transitions and no wide horizontal sweeps typical of reading long text or browsing. The gaze appears confined to a small code snippet-sized area, with revisits between a few lines, matching focused code inspection to predict output rather than extensive editing or searching.",
+  "correct": false
+}

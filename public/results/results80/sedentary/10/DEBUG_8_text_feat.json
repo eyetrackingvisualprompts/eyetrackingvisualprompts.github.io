@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively small IDE-like region with many short, local saccades and repeated revisits between closely spaced code-like coordinates, including vertical movements consistent with scanning code lines and state checking. There are occasional long saccades to off-content areas (e.g., edges/negative coordinates) suggestive of GUI interactions or console/output checks, a pattern matching the debugging examples more than the more uniform line-wise READ, search-result\u2013level SEARCH, or dynamic PLAY/WATCH behavior.",
+  "correct": true
+}

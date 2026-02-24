@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are centered horizontally with moderate variability and saccades scattered around the middle of the screen, resembling the SEARCH pattern more than the more uniformly central BROWSE or the line-structured READ; vertical position stays low and stable, consistent with looking between query/results areas.",
+  "correct": true
+}

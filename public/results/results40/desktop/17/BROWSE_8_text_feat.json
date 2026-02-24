@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around central screen with small horizontal/vertical shifts, medium-length fixations, and occasional jumps within a limited region\u2014matching the browsing example\u2019s pattern of localized exploration around the mid-screen rather than the more line-structured scans of READ or the larger, more erratic movements in PLAY/WATCH/SEARCH.",
+  "correct": true
+}

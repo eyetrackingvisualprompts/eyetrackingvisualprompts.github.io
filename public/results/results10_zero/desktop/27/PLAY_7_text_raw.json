@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show predominantly small, horizontal movements with long stable fixations around similar y-coordinates, consistent with line-by-line reading of text rather than the larger, more scattered exploratory movements typical of search, browse, or play, or the stronger central and object-driven shifts expected in watch or write tasks.",
+  "correct": false
+}

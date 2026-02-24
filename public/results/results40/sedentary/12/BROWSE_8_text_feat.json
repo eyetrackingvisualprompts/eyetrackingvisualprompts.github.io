@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays in a constrained horizontal band with repetitive left-right sweeps and short to moderate fixations, consistent with line-by-line scanning of a text block as seen in the READ examples, rather than the larger vertical shifts and scattered navigation typical of SEARCH or BROWSE or the more global, scene-centered shifts of WATCH or PLAY.",
+  "correct": false
+}

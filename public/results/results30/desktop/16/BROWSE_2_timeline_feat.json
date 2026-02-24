@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude shifts in both X and Y with varied vertical positions, indicating scanning different regions such as result lists, snippets, and query box. This pattern best matches the more exploratory, multi-region viewing seen in the SEARCH examples rather than the more linear (READ/WRITE) or more constrained (WATCH/PLAY/BROWSE) patterns.",
+  "correct": false
+}

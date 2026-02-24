@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shifts are predominantly horizontal within a narrow vertical band, with medium-length fixations and systematic left\u2013right sweeps across a confined region, matching line-by-line reading behavior more than the more scattered, multi-directional movements seen in WATCH, PLAY, BROWSE, or SEARCH, and lacking the very localized clustering typical of WRITE.",
+  "correct": false
+}

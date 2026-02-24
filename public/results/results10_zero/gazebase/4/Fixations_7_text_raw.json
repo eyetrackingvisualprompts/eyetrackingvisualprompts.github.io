@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze coordinates show continuous, irregular movements with varying amplitudes in both horizontal and vertical directions, including small drifts, occasional larger shifts, and no sustained central fixation or strictly periodic horizontal motion. This pattern matches natural free-viewing behavior during dynamic video more than the structured target-following (horizontal or random saccades), static fixation, constrained line-by-line patterns of reading, or discrete target-hitting behavior of the Balura game.",
+  "correct": false
+}

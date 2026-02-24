@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical fixation positions step between multiple discrete locations spread across the screen (\u00b1 about 10\u201315\u00b0), with roughly 1-second plateaus at each position and intervening saccades, matching a randomly moving target rather than pure horizontal motion, central fixation, or continuous free viewing/game/reading patterns.",
+  "correct": false
+}

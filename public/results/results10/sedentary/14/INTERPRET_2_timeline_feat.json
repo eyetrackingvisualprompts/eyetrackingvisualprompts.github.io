@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a narrow horizontal band with modest horizontal shifts and relatively stable vertical position, resembling focused inspection of code lines with occasional small revisits; this pattern closely matches the DEBUG example more than the other activities.",
+  "correct": false
+}

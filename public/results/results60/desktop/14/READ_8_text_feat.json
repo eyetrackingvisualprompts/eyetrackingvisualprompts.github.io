@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid gaze shifts across wide screen areas, extended clusters in upper and peripheral regions, and dynamic scanning patterns match the PLAY examples more than the more centrally/text-anchored patterns of READ/WRITE or the less erratic WATCH/BROWSE/SEARCH behaviors.",
+  "correct": false
+}

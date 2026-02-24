@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster in a compact central region with short, varied saccades and no strong horizontal reading pattern or upper-screen focus typical of READ, WRITE, or WATCH; the localized yet exploratory pattern best matches browsing behavior on a webpage section.",
+  "correct": false
+}

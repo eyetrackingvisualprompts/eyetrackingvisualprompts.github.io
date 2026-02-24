@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, frequent saccades between widely separated screen regions (top/bottom, left/right) with relatively short, scattered fixations, matching exploratory scanning of varied webpage content rather than the more line-structured, horizontal patterns of READ or the more localized regions of WRITE; it is also more spatially dispersed and non-repetitive than WATCH, thus best fitting BROWSE.",
+  "correct": false
+}

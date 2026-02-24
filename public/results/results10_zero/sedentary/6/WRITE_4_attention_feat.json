@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a small, tight cluster of fixations in a single region with little horizontal/vertical spread, consistent with visually tracking a localized, salient area in a video rather than scanning lines of text or code across the screen.",
+  "correct": false
+}

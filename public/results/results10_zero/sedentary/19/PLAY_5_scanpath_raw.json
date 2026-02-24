@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows concentrated gaze around a central region with repeated directional shifts and some longer horizontal movements, consistent with tracking dynamic game elements rather than systematic line-by-line reading or code inspection, suggesting a gameplay task such as following or anticipating moving objects.",
+  "correct": true
+}

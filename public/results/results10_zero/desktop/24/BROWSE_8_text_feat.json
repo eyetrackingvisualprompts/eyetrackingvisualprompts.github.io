@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows frequent medium- to long-range saccades in multiple directions with fixations scattered over a broad vertical span (from upper to lower screen) and no clear horizontal line-by-line progression or repeated revisits to text-entry regions. This multidirectional, scene-oriented viewing pattern with variable fixation durations aligns best with watching dynamic video content rather than structured reading, writing, or search/browsing behavior focused on text blocks.",
+  "correct": false
+}

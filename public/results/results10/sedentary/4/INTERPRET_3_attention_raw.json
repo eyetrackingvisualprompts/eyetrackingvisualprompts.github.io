@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are split between a mid-upper left area and a lower-left area, with additional scattered points, resembling alternating focus between code and console/output as seen in the DEBUG example more than the other tasks.",
+  "correct": false
+}

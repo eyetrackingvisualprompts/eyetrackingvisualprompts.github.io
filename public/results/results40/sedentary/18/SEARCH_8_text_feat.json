@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical transitions between top, middle, and bottom regions (e.g., jumps to ~1000px then back up), mixed with horizontal sweeps across wide x-ranges, suggest scanning long web pages and different sections rather than the more structured line-by-line pattern of READ or focused regions of code tasks; the heterogeneous, exploratory scanpaths best match BROWSE behavior.",
+  "correct": false
+}

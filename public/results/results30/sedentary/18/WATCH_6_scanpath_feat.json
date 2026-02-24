@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze covers a wide portion of the screen with large saccades and scattered fixations, including many movements between upper and lower areas rather than being constrained to text lines or code blocks, matching the dynamic, screen-wide viewing pattern typical of watching a video.",
+  "correct": true
+}

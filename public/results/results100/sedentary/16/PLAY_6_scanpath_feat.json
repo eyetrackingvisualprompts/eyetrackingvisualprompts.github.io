@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Two main gaze clusters on the left and near center suggest alternation between code editor and another panel (e.g., console/output) with occasional long saccades to top menus or other UI areas, matching writing/implementing code behavior more than the other activities.",
+  "correct": false
+}

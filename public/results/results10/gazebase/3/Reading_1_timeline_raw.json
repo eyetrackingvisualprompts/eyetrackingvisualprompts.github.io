@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "X position shows systematic left-to-right saccades with regressions and line-change jumps, while Y position is relatively stable with small downward steps over time, matching the typical scanpath of reading text rather than random or purely horizontal saccades.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The gaze shows predominantly rightward horizontal progression with moderate vertical drift and intermittent regressions, matching the systematic scanpath pattern seen in the reading example rather than the more random or symmetric movements of other tasks.",
+  "correct": false
+}

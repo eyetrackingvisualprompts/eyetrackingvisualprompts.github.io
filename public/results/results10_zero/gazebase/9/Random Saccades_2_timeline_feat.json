@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions step between multiple discrete locations with roughly 1-second dwells at each position and irregular, non-repeating amplitudes within \u00b115\u00b0 horizontally and \u00b19\u00b0 vertically, matching the randomly moving bull\u2019s-eye target rather than strictly horizontal-only motion, static fixation, reading, gaming, or free video viewing.",
+  "correct": true
+}

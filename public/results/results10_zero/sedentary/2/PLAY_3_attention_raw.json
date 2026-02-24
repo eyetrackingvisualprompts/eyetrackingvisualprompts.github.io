@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is tightly clustered in a small central region with minimal horizontal or vertical scanning, indicating prolonged fixation on a single area typical of watching a video rather than reading, coding, or browsing, which all show more distributed scanpaths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated near the screen center with moderate vertical spread and scattered peripheral points, closely matching the SEARCH example pattern where users alternate between the central search box, results list, and other page elements, rather than the tighter central cluster of BROWSE or the more horizontally constrained READ/WRITE patterns.",
+  "correct": false
+}

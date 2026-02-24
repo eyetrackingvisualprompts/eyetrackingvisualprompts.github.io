@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Most fixations cluster on a code/IDE area with repeated vertical movements to a lower region (likely console or editor lines) and occasional long saccades to the left toolbar/menu, closely matching the WRITE example scanpath pattern rather than the more localized INTERPRET/DEBUG or more scattered SEARCH/BROWSE/WATCH/PLAY patterns.",
+  "correct": false
+}

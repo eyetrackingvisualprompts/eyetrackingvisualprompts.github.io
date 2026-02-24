@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows large, frequent jumps across widely separated screen regions (including extreme coordinates and off-screen values), alternating between top, middle, and bottom areas, consistent with scanning search results and navigating a search page rather than the more linear reading/browsing or focused code-oriented patterns of WRITE/DEBUG/INTERPRET/READ.",
+  "correct": false
+}

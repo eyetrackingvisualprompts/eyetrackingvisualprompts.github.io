@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered on a compact left-side region consistent with reading short code, with a few long saccades to the right (likely console or problem statement), closely matching the INTERPRET example pattern more than WRITE or DEBUG, which show broader, more dispersed scanpaths.",
+  "correct": false
+}

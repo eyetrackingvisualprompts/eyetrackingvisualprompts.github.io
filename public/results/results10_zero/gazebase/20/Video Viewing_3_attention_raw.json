@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows a highly concentrated gaze distribution near the screen center with minimal spatial dispersion, indicating sustained central fixation rather than systematic horizontal sweeps, random large-amplitude moves, or scattered viewing typical of reading, saccade tasks, gaming, or video watching.",
+  "correct": false
+}

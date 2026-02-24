@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around central-mid screen (x\u22480.35\u20130.44, y\u22480.47\u20130.62) with frequent medium-amplitude vertical shifts between content regions (e.g., y\u22480.1 to y\u22480.6 and back), resembling scanning headlines, sidebars, and sections on heterogeneous web pages more than the more regular horizontal scanpaths of READ or the localized upper-area focus of WRITE. The dynamics and spread best match the provided BROWSE example.",
+  "correct": false
+}

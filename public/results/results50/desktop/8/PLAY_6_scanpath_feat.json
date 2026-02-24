@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a mid-screen region with moderate dispersion and varied fixation sizes, indicating exploration of a content area without the strong horizontal line structure of reading or the broader, more dynamic movements typical for watching videos or playing games; this pattern best matches browsing behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades covering wide screen regions (center \u2194 corners, top \u2194 bottom), with many vertical movements and scattered fixations, match dynamic gaze following moving objects in a game rather than the more localized, structured patterns of reading, coding, or web search/browsing.",
+  "correct": false
+}

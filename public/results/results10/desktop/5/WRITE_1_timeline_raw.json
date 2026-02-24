@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The x-position shows step-like horizontal sweeps with relatively stable y-position segments, indicating systematic left-to-right scanning across lines with occasional line changes, which is characteristic of reading behavior compared to the more erratic or multidirectional patterns of the other activities.",
+  "correct": false
+}

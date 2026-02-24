@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact region with dense, repetitive fixations and short saccades, indicating focused inspection of a small code snippet rather than extended horizontal sweeps for reading text or larger-area exploration typical of browsing, search, or video watching. This pattern best matches interpreting a short function\u2019s output.",
+  "correct": true
+}

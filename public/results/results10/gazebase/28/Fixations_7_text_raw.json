@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze shows relatively small, smooth, continuous drifts with many short local adjustments and no large, regular jumps between discrete positions. This pattern matches free-viewing behavior during video watching rather than discrete target following (saccade tasks), static central fixation, structured reading lines, or the larger task-driven jumps of the Balura game or random saccades.",
+  "correct": false
+}

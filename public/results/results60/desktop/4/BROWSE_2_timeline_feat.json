@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay near screen center with moderate, irregular horizontal and vertical shifts and no strong directional scanning pattern, matching the dispersed, center-biased viewing behavior seen in the BROWSE examples rather than the more structured left-to-right (READ/WRITE) or large exploratory movements (PLAY/SEARCH/WATCH).",
+  "correct": true
+}

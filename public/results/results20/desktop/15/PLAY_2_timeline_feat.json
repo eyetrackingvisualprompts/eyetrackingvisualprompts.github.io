@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, irregular horizontal and vertical movements with frequent mid\u2011screen fixations and varied saccades, matching the mixed exploratory pattern seen in the BROWSE example rather than the more structured scan paths of READ/WRITE or the more constrained patterns of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

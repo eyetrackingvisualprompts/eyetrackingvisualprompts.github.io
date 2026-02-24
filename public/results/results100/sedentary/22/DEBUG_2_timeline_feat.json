@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several distinct clusters with occasional large saccades to new regions and varied horizontal\u2013vertical shifts, resembling the mixed scanning of results and occasional page changes typical in SEARCH, rather than the more systematic line-wise patterns of READ/BROWSE or the tighter code-focused patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

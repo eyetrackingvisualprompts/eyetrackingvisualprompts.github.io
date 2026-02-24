@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively stable horizontal fixation band with slow drift and few large saccades, indicating following central screen content without systematic line-by-line or code-structured scanning, which aligns best with passive video watching compared to the more scattered or structured patterns in other tasks.",
+  "correct": false
+}

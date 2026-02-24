@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on a single left-side code block with limited horizontal spread and some vertical transitions, closely matching the INTERPRET example where participants focus on one snippet to reason about its output rather than scanning broadly as in DEBUG or other tasks.",
+  "correct": false
+}

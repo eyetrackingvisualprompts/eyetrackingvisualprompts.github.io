@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered in a small central region with short, irregular saccades but without systematic horizontal line sweeps typical of reading or browsing; this focused yet locally mobile pattern is consistent with monitoring a central text area and nearby UI elements while typing in a word processor.",
+  "correct": false
+}

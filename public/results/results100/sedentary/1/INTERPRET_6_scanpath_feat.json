@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations over a compact code area with frequent vertical moves and occasional long saccades to distant interface elements (e.g., console or run button) closely match the debugging scanpath pattern rather than the sparser INTERPRET or more structured WRITE behavior.",
+  "correct": false
+}

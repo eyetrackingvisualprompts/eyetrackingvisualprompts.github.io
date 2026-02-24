@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow horizontal band with smooth, gradual shifts and limited vertical movement, indicating following central screen content rather than systematic line-by-line scanning or frequent repositioning typical of reading, writing, searching, or browsing; this pattern best matches passively watching a video.",
+  "correct": false
+}

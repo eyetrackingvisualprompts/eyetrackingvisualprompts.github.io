@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a narrow vertical band on the left side and mid-to-upper portion of the screen, consistent with fixations along the left margin/text column during reading rather than the broader or more dispersed patterns typical of search, browsing, watching videos, playing games, or writing (which would involve central and wider horizontal movements).",
+  "correct": false
+}

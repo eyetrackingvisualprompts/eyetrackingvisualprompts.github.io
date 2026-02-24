@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points show frequent large jumps across widely separated screen regions (including off-screen/negative coordinates), intermittent short reading-like clusters, and substantial vertical excursions\u2014patterns consistent with free-form web browsing and scrolling rather than focused code, search results, or continuous video watching.",
+  "correct": false
+}

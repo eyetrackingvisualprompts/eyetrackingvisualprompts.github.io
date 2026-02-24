@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length fixations clustered around a central vertical band with repeated returns to nearby coordinates and occasional larger jumps are characteristic of inspecting and re-inspecting lines of code during debugging rather than the more linear scan of reading, the smoother following of WATCH/PLAY, or the broader exploratory jumps of SEARCH/BROWSE.",
+  "correct": false
+}

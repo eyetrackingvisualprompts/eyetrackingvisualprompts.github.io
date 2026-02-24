@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows multiple vertical shifts between upper and lower screen regions with intermittent horizontal reading-like segments, resembling transitions between results list, search box, and opened pages, matching the SEARCH pattern more than the steadier READ or more chaotic WATCH/PLAY examples.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shows clustered fixations around a central code-like area with frequent medium-amplitude vertical and diagonal saccades, plus repeated returns to similar y-bands, consistent with scanning through and revisiting code lines to locate and verify errors rather than linear reading (READ) or broad exploratory movement (BROWSE/SEARCH) or object-tracking (PLAY/WATCH).",
+  "correct": false
+}

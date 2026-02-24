@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers almost the entire screen with frequent long saccades between distant regions and irregular fixation clusters, closely matching the heterogeneous, wide-ranging scanpath pattern seen in the BROWSE example rather than the more localized or structured patterns of the other tasks.",
+  "correct": false
+}

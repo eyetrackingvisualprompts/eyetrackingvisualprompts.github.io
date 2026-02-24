@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains in a relatively narrow horizontal band with long, stable fixations and short, local saccades that gradually shift left/right and slightly up/down\u2014closely matching the systematic line-by-line scanning pattern seen in the READ examples, rather than the larger, more exploratory movements of SEARCH/BROWSE or the dispersed dynamics of PLAY/WATCH/WRITE.",
+  "correct": false
+}

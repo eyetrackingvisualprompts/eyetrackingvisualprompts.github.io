@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered on a single small code area in the upper-left region with minimal vertical spread, matching the focused pattern seen in the INTERPRET example rather than the broader, multi-region patterns of debugging, searching, or browsing.",
+  "correct": false
+}

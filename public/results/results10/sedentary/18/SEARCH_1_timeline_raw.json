@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows moderately frequent horizontal shifts among a few stable regions with limited large explorations, and a notable vertical jump later in the window, closely resembling the INTERPRET pattern where participants inspect and compare code fragments and outputs in a confined IDE layout.",
+  "correct": false
+}

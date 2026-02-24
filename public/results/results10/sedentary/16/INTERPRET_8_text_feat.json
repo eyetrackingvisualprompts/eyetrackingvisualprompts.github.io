@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Large vertical and diagonal saccades between central/upper screen and far lower regions (near keyboard/console areas), including off-screen coordinates, plus clusters of shorter fixations around code-like central areas, match the WRITE example\u2019s pattern of alternating between typing/IDE controls and code, rather than the more locally confined scanpaths seen in INTERPRET/DEBUG/READ/SEARCH.",
+  "correct": false
+}

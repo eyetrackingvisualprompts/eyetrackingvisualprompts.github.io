@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "X/Y fixations stay near mid-screen for a while, then show a strong downward jump followed by upward movements and several large saccades, matching the heterogeneous scan and scroll behavior seen in the SEARCH example rather than the steadier patterns of READ/WRITE or the more uniformly dynamic PLAY/WATCH/BROWSE.",
+  "correct": false
+}

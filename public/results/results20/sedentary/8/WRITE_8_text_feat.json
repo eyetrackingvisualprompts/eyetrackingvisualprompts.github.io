@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations with many returns within a compact code-like region, interspersed with occasional large saccades to far-off interface areas (high x,y coordinates) match the IDE-focused, back-and-forth inspection pattern seen in the DEBUG example more than the other tasks.",
+  "correct": false
+}

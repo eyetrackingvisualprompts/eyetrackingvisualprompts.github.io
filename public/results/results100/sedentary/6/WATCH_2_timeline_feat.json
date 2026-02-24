@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-range saccades with both X and Y varying, revisits to similar regions, and no strong horizontal line-by-line pattern typical of reading. The pattern closely resembles the example BROWSE data, indicating free web browsing with mixed scanning and short reading segments.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows several isolated fixation clusters scattered across the screen (both horizontally and vertically) without alignment to text lines or concentration at center. This pattern matches a gaze following a randomly moving target rather than stable central fixation, structured reading, horizontal-only saccades, or complex game/video viewing distributions.",
+  "correct": true
+}

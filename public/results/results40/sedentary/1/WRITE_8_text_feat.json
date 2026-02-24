@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze shifts between widely separated screen regions (including off-screen/negative coordinates and bottom corners), interleaved with shorter local inspections, resemble exploratory navigation and scrolling on varied web content rather than structured code reading/writing or continuous media viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are widely distributed across both horizontal and vertical axes, covering upper, middle, and lower screen areas without forming dense horizontal reading-like bands or a localized typing area, which matches the exploratory, all-directions gaze pattern typical of playing games (especially Agario) rather than reading, writing, searching, browsing, or passively watching video.",
+  "correct": false
+}

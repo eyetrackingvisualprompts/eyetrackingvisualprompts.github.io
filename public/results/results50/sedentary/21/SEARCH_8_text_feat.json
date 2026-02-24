@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long horizontal saccades across the top of the screen, repeated returns to similar top-row coordinates, and periodic large jumps to the very bottom followed by top resets are characteristic of scrolling and scanning a web page\u2019s content rather than the more line-structured patterns of READ or the code-focused, central-cluster patterns of WRITE/DEBUG/INTERPRET. The gaze behavior closely resembles the BROWSE example dynamics over header/toolbar and content regions.",
+  "correct": false
+}

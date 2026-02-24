@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a horizontal band in the upper-left code area with some spread downward, closely matching the WRITE example pattern of focused attention on the code editor while typing, rather than the tighter DEBUG/INTERPRET clusters or broader SEARCH/BROWSE/WATCH dispersions.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze points progress in small, horizontally clustered steps with frequent but limited vertical shifts, consistent with line-by-line text reading and occasional regressions, rather than large exploratory jumps or focal tracking typical of search, browsing, coding, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, localized fixations with short saccades in a confined central-left region, consistent with reading text in a relatively stable layout rather than large exploratory movements typical of browsing/search or broader directional shifts seen in playing games or watching videos.",
+  "correct": false
+}

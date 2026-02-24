@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-left vertical code-like region with frequent revisits between a few line bands (around y\u2248230\u2013280 and y\u2248380\u2013460), including repeated top\u2013middle\u2013bottom transitions and backtracking typical of checking and re-checking code sections. The pattern closely resembles the DEBUG example: dense local fixations, many short saccades within a block, and recurrent jumps between higher and lower code areas, unlike the more linear READ/BROWSE or more dispersed WATCH/PLAY patterns.",
+  "correct": true
+}

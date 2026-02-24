@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze moves mainly horizontally within a narrow vertical band, showing sequential left-to-right sweeps and small regressions typical of reading lines of text rather than broader exploratory or task-focused movements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small region on the left, with limited horizontal spread and repeated fixations, matching the focused inspection of a short code snippet as in INTERPRET, rather than the more horizontally extended patterns seen in WRITE, READ, or BROWSE.",
+  "correct": false
+}

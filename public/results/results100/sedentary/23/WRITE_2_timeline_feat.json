@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations hover around a central band with moderate horizontal movement and intermittent larger saccades, resembling focused but wide-ranging inspection of code regions and error locations; this pattern best matches the DEBUG example compared to the more linear READ/INTERPRET traces or the more scattered BROWSE/SEARCH/PLAY/WATCH behaviors.",
+  "correct": false
+}

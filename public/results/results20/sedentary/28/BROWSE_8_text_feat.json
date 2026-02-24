@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts predominantly along horizontal bands around mid and lower screen, with frequent medium-distance saccades between content regions and repeated passes over similar vertical levels, matching typical web page scanning/scrolling; lacks the tight line-by-line structure of READ or the large, highly dynamic jumps of PLAY or WATCH.",
+  "correct": true
+}

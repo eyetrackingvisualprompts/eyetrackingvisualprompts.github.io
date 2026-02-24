@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated in a few clustered regions around the screen center with moderate vertical spread, resembling attention shifts between search box, results, and snippets, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

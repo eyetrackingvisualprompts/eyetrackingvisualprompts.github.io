@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points are scattered across a wide area in both horizontal and vertical directions with large, discrete jumps between locations and no clear linear pattern (like text lines) or strict horizontal-only motion, matching a target that appears at random positions for about 1 s each as in the Random Saccades task.",
+  "correct": false
+}

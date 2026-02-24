@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows mostly stable vertical (Y) position near a text line with frequent horizontal (X) shifts and occasional jumps, matching the line-by-line, cursor-following pattern in the WRITE example more closely than the other activities.",
+  "correct": true
+}

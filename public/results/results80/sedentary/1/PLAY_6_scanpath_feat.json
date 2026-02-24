@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely distributed across the screen without structured horizontal reading lines or focused code regions, showing large fixations and broad, irregular saccades similar to the WATCH example, consistent with following dynamic video content.",
+  "correct": false
+}

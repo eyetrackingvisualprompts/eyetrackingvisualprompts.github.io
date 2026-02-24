@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gradual rightward drift in X with step-like regressions and moderate vertical movement resembles scrolling through vertically arranged web content, matching the BROWSE pattern more than the more stable READ or the more chaotic SEARCH/PLAY activities.",
+  "correct": false
+}

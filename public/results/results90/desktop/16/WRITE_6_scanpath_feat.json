@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations form dense, horizontally aligned clusters with limited vertical range, resembling line-by-line text reading; saccades are mostly horizontal and constrained, unlike the broader exploratory patterns of browsing, searching, or playing games.",
+  "correct": false
+}

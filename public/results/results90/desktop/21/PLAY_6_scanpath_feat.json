@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows dispersed fixations over a mid-screen region with frequent saccades and no strong left-to-right line structure, resembling exploratory viewing of varied web content, which best matches the BROWSE pattern among the examples.",
+  "correct": false
+}

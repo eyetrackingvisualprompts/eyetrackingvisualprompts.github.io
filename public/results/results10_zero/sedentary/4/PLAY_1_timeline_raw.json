@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near the screen center with small jitter and occasional brief vertical excursions, consistent with following dynamic content in a video rather than systematic horizontal/vertical scanning or code/text inspection patterns typical of reading, writing, debugging, or searching tasks.",
+  "correct": false
+}

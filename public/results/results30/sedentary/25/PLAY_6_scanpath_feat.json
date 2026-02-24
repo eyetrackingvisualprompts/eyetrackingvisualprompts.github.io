@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on a single code region with moderate horizontal spread and limited vertical movement, similar to the INTERPRET example and less vertically divided than DEBUG, indicating focused reasoning about a single snippet rather than extensive scanning or editing.",
+  "correct": false
+}

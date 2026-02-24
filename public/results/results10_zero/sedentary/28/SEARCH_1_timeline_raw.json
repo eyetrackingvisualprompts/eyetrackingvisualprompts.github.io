@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show long, relatively smooth trajectories with occasional step-like shifts in both X and Y rather than dense horizontal saccade\u2013fixation patterns typical of reading or code tasks, and without the rapid, wide, game-like movements; this pattern aligns best with passively following content in a video-watching scenario.",
+  "correct": false
+}

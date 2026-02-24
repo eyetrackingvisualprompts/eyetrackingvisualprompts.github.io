@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, tight fixation region centered horizontally with minimal vertical movement, consistent with watching a central visual stimulus (e.g., main characters in a video) rather than the systematic vertical scanning of reading/writing or the broader exploratory patterns typical of browsing, searching, or gaming.",
+  "correct": false
+}

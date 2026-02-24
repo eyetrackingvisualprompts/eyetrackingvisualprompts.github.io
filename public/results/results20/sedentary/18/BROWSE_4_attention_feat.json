@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread over a central vertical band with multiple distinct clusters at different heights, indicating scanning of several regions (e.g., titles, snippets, images) rather than focused code or continuous text reading. The spatial distribution and variability best match the browsing example pattern.",
+  "correct": true
+}

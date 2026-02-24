@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions are centered with moderate, frequent horizontal saccades and relatively small vertical range, resembling the balanced, mid-screen scanning pattern of the BROWSE example rather than the more text-line structured READ or the top/bottom-biased patterns of WATCH/WRITE/PLAY/SEARCH.",
+  "correct": false
+}

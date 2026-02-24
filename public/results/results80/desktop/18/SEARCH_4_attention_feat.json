@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central region with limited horizontal spread, similar to the BROWSE example and less horizontally elongated than READ; other tasks (PLAY, WATCH, SEARCH, WRITE) show broader or different spatial distributions.",
+  "correct": false
+}

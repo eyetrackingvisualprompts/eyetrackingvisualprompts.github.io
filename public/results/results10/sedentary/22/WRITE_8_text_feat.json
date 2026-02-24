@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, repeated saccades between far-left mid-page coordinates (~200\u2013400x, ~300\u2013360y) and far-right upper-mid coordinates (~1600\u20131750x, ~460\u2013550y) resemble scanning SERP snippets and then jumping to a right-hand area (e.g., browser/UI elements or another pane). The pattern of revisits to the same left text region with intermittent long horizontal jumps matches the provided SEARCH example more closely than the other tasks.",
+  "correct": false
+}

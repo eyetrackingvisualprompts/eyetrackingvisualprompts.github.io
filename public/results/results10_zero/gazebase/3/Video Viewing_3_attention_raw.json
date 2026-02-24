@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The heatmap shows multiple discrete fixation clusters arranged roughly in a horizontal band with small vertical dispersion, consistent with sequential word/line fixations during reading rather than large-amplitude horizontal-only saccades, random jumps, central fixation, or game/video viewing patterns.",
+  "correct": false
+}

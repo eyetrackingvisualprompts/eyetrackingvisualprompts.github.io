@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates between a dense cluster on the left (code area) and scattered fixations across the middle and lower-right (console, errors, other UI), with long saccades and revisits, matching the multi-region, back-and-forth pattern typical of debugging rather than the more localized or linear patterns of reading, writing, or interpreting.",
+  "correct": true
+}

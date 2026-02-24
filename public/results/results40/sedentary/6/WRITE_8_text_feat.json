@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a mid-screen code-like area with many short saccades and long revisits to nearly the same lines/regions, indicating intensive local re-reading and back-and-forth checking typical of mentally simulating code output rather than broader navigation (BROWSE/SEARCH) or more extensive vertical scanning (READ/WRITE/DEBUG). This pattern best matches the INTERPRET task examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze stays around mid-screen with moderate fixation durations and irregular multi-directional saccades, lacking the systematic horizontal line sweeps of READ or the large exploratory jumps of SEARCH/PLAY. The pattern closely matches the example BROWSE data, which shows similar central clustering with medium-range, variable saccades during scrolling/skim reading on web pages.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows frequent medium-to-large vertical shifts and varied horizontal movements without the systematic left-to-right line patterns of reading or the localized code/IDE focus seen in programming tasks; its variability and scanning resemble the WATCH example most closely.",
+  "correct": false
+}

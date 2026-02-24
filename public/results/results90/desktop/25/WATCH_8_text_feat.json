@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze covers large portions of the screen with frequent long vertical and diagonal saccades between dispersed regions (center, lower, and far upper areas) and relatively long, stable fixations, including in off-text areas (y>1). This broad, dynamic viewing pattern with less structured horizontal scanning is more consistent with following changing visual content in a video (WATCH) than with the more line-structured, mid-band, or interface-focused patterns seen in READ, WRITE, SEARCH, PLAY, or BROWSE.",
+  "correct": true
+}

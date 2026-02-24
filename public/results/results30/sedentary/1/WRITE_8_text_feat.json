@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-code band with many short horizontal saccades and revisits between nearby x-positions, consistent with scanning and re-checking lines while editing/debugging. There are occasional larger jumps to top/side regions (e.g., near 70\u201380 y and ~45 y), resembling shifts to other code areas or UI panels, which matches the DEBUG pattern more than the more linear READ or more dispersed BROWSE/SEARCH behaviors.",
+  "correct": false
+}

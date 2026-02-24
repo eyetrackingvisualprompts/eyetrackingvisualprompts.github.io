@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-left code area with repeated vertical shifts and some longer jumps, resembling the DEBUG example more than the tighter WRITE/INTERPRET clusters or the broader WATCH/BROWSE/PLAY/SEARCH patterns.",
+  "correct": false
+}

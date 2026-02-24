@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show medium-amplitude, irregular movements in both X and Y with frequent saccades and no clear horizontal line-by-line reading pattern, matching the more scattered, exploratory pattern characteristic of web browsing rather than the more structured patterns of reading, writing, or watching video.",
+  "correct": false
+}

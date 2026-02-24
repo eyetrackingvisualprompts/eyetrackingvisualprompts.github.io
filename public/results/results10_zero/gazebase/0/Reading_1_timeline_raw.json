@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates in large, mostly horizontal steps between negative and positive positions with long, almost flat plateaus lasting about a second, while Y remains relatively stable with only small drift. This pattern matches systematic back-and-forth horizontal target following rather than random or complex movements.",
+  "correct": false
+}

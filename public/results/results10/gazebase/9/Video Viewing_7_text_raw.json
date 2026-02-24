@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The data shows long, continuous sequences of smooth pursuit-like movements with gradual drifts, interspersed with occasional large transitions in position and depth, closely matching the complex, varied gaze behavior seen in the Video Viewing example rather than the more regular, discrete patterns of saccade tasks or the structured line-by-line movements of reading.",
+  "correct": true
+}

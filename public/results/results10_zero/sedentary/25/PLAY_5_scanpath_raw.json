@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows continuous, dynamic gaze shifts across a wide horizontal range with few stable line-like fixation patterns, consistent with visually tracking moving game elements across the screen rather than line-by-line reading or focused code inspection typical of programming-related tasks.",
+  "correct": true
+}

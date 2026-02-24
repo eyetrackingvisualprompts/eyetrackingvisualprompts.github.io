@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow band near the upper screen (y\u22480.18\u20130.29) with very long, repeated fixations around a stable horizontal position and only small local saccades\u2014matching staring at a single region such as the current text line and cursor in a word processor, as seen in the WRITE examples, rather than the broader vertical scanning of READ or the more dispersed patterns of BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": true
+}

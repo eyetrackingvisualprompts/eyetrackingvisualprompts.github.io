@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixation and saccade patterns show relatively dense, horizontally constrained movements around the screen center with moderate vertical variation, closely matching the example READ plot and typical line-by-line text reading behavior rather than the broader exploratory patterns of SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

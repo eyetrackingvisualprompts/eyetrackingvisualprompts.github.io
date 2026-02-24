@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central area with frequent vertical shifts between two nearby horizontal bands, matching the pattern of looking between code and immediate output/typing area typical in the WRITE examples, rather than the more dispersed or line-structured patterns of other tasks.",
+  "correct": false
+}

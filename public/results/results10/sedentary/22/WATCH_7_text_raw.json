@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large spatial movements across central and peripheral areas, frequent shifts between dispersed clusters (likely player avatar, enemies, HUD), and vertical excursions, matching dynamic, multi-focus patterns typical of gameplay rather than the more line-based or locally clustered patterns of reading, coding, or web search.",
+  "correct": false
+}

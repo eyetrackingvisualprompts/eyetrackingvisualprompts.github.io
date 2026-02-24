@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large horizontal and vertical saccades with shifting fixation bands, indicating repeated transitions between result lists and content pages, matching the SEARCH example more closely than the other activities.",
+  "correct": false
+}

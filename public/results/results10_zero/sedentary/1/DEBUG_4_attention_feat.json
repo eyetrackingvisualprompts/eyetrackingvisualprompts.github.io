@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a small, left-of-center region with minimal horizontal spread, indicating sustained attention to a compact block of text (e.g., a short paragraph) rather than distributed scanning, interaction, or dynamic targets typical of coding, web browsing, search, or gameplay.",
+  "correct": false
+}

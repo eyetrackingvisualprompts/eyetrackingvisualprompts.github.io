@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze pattern shows moderate, locally clustered fixations with intermittent short saccades and occasional shifts, similar to the WRITE example where attention alternates between code editing and nearby UI elements, rather than the larger, more dispersed movements seen in PLAY, BROWSE, or WATCH.",
+  "correct": false
+}

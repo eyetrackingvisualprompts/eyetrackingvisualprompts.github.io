@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are densely clustered in a narrow horizontal band with small vertical variation, indicating line-by-line scanning of text typical for reading, unlike the wider spread or vertical movements seen in browse, search, play, watch, or write tasks.",
+  "correct": true
+}

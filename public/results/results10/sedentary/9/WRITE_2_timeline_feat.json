@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a narrow vertical band with small, stepwise horizontal movements and very few large saccades, matching the stable, line-by-line inspection typical of interpreting a short code snippet rather than the broader scanning seen in debugging, browsing, or search.",
+  "correct": false
+}

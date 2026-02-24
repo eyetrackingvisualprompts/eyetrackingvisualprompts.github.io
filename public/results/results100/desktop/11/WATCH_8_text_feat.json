@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in mid-screen regions with many medium-length fixations and short, local saccades, plus occasional vertical shifts between mid and slightly upper areas\u2014matching the navigation and scanning pattern seen in the BROWSE examples, and lacking the strong horizontal line sweeps of READ or the large multi-directional excursions typical of PLAY or WATCH.",
+  "correct": false
+}

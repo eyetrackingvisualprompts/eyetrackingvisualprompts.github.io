@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal band near the bottom of the screen with some vertical drift, matching the pattern of looking at and slightly above the text cursor area in a word processor during writing, unlike the higher-band patterns of reading, searching, or watching.",
+  "correct": false
+}

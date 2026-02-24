@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a relatively narrow vertical band with smooth, continuous horizontal drift and few large saccades or line-by-line scan patterns, consistent with following on-screen motion in a video rather than structured reading, code inspection, or interactive tasks like search, browse, play, or writing/debugging code.",
+  "correct": false
+}

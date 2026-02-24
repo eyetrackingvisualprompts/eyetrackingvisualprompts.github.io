@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions occupy a mid\u2011screen region with scattered clusters and frequent medium\u2011amplitude saccades, resembling mixed reading and interface navigation typical of browsing, rather than the more linear horizontal patterns of READ/WRITE or the broader, multi\u2011directional exploration in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

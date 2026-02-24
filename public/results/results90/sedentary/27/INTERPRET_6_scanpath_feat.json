@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact left-side region (code area) with a few long saccades to the far right (console/output region), matching the pattern seen in the DEBUG example where participants alternate between inspecting/fixing code and checking execution results.",
+  "correct": false
+}

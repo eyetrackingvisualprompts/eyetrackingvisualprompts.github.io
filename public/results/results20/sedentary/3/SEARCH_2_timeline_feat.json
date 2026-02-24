@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated rightward horizontal scanning with small, gradual downward drifts in Y and periodic saccadic resets, closely matching the browsing example pattern and differing from the more stable single-line READ pattern or the more variable SEARCH/PLAY behaviors.",
+  "correct": false
+}

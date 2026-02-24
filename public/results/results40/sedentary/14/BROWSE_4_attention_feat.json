@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are widely distributed across the upper half of the screen with multiple scattered clusters and vertical transitions, resembling the exploratory pattern of scanning search results and related content rather than the more linear patterns of reading/browsing or the focused code-related tasks.",
+  "correct": false
+}

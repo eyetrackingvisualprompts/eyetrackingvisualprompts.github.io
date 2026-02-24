@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze traverses a wide horizontal span across two main vertical bands with repeated back-and-forth saccades between upper (likely results) and mid-lower areas (details), matching the exploratory multi-region pattern typical for search engine use rather than the more linear READ pattern or more localized code-focused tasks.",
+  "correct": true
+}

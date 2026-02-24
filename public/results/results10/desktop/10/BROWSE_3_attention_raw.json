@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern is a horizontally-elongated band around mid-screen with smooth left-right progression and limited vertical movement, closely matching the reading example heatmap and typical line-by-line reading behavior, rather than the more clustered (browse/search), multi-region (play), or upper-screen (write/watch) patterns.",
+  "correct": false
+}

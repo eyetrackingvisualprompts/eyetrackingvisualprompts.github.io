@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The first half shows large, frequent saccades in both X and Y consistent with tracking moving stimuli, followed by more moderate but still variable gaze shifts. This dynamic pattern matches the example WATCH data more than the more structured, text- or code-centered tasks like READ, WRITE, or DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across mid-screen with several dispersed points, indicating scanning multiple elements on a webpage rather than focused code (WRITE/INTERPRET/DEBUG) or dense text lines (READ). Pattern best matches the BROWSE example heatmap.",
+  "correct": false
+}

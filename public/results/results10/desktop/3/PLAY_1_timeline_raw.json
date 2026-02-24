@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic horizontal sweeps with stepwise downward shifts and repeated returns to similar vertical bands, closely matching the structured line-by-line scan pattern seen in the READ example rather than the more erratic or dispersed movements of other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trace shows a long, predominantly one-dimensional movement with minimal vertical dispersion, consistent with following a horizontally moving target as in the Horizontal Saccades task, rather than the more dispersed or text-like patterns of other activities.",
+  "correct": false
+}

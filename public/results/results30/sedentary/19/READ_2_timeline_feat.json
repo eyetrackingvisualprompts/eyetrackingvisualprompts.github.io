@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows moderate horizontal movement along with gradual vertical shifts and intermittent saccades, resembling code editing behavior. The pattern closely matches the WRITE example rather than the more static INTERPRET, highly dynamic PLAY/SEARCH/BROWSE, or the smoother WATCH traces.",
+  "correct": false
+}

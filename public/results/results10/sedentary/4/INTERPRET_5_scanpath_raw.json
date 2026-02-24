@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The scanpath shows large vertical transitions between upper and lower screen regions combined with dense, repeated fixations in a central area\u2014matching the complex, back-and-forth gaze between code, errors, and console typical of debugging, and resembling the DEBUG example more than other classes.",
+  "correct": false
+}

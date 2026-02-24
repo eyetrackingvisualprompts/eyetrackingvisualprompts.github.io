@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are densely clustered around the center with relatively small saccades and no strong horizontal reading lines, matching the compact, centrally focused pattern seen in the BROWSE example rather than the more distributed or directional patterns of the other activities.",
+  "correct": false
+}

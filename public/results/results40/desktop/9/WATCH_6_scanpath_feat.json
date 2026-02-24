@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is concentrated in a relatively narrow horizontal band with smooth, progressive shifts along the x-axis, similar to following motion in a video. It lacks the structured line-by-line pattern of reading and the more scattered, multi-regional exploration seen in search or browsing, matching the WATCH example most closely.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across the full screen (including off-center/top/bottom), repeated jumps to screen borders and outside coordinates, and mixed shorter horizontal scanning segments match the heterogeneous, exploratory patterns seen in BROWSE, rather than the more structured horizontal bands of READ/WRITE/INTERPRET/DEBUG or centrally focused WATCH/PLAY.",
+  "correct": true
+}

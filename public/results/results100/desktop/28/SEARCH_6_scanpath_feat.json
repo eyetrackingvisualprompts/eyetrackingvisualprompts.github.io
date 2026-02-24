@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a broad central area with frequent medium-length saccades in many directions and no stable horizontal band, indicating exploratory viewing of varied on-screen elements typical of web browsing rather than the more localized or structured patterns of reading, writing, watching, playing, or targeted search.",
+  "correct": false
+}

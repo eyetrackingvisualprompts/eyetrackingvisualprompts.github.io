@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between upper-central/upper-left (around y\u22480.25\u20130.35) and mid-screen (around y\u22480.45\u20130.55) with many medium/long fixations and vertical shifts, consistent with scanning search results/snippets and then reading selected items, matching the SEARCH pattern more than the more stable horizontal bands of READ or the more central-dynamic patterns of WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze remains predominantly in the left-to-center vertical band with frequent shifts between mid-screen and upper regions beyond the nominal screen height (y\u22481.0\u20131.18), consistent with looking between text lines and UI elements in a word processor. Movements are mostly local with occasional larger vertical transitions, matching the WRITE example\u2019s spatial region (left side, y>0.8 header/toolbar area and >1.0 off-text), rather than the more central-horizontal stripes seen in READ or the broader exploratory patterns in SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

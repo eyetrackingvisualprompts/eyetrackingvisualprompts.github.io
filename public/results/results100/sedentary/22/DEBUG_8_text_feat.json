@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent mid-length fixations with many local saccades within code-like horizontal bands, repeated revisits to similar regions, and occasional large jumps to screen extremes match the complex, iterative inspection and re-inspection pattern seen in DEBUG examples more than the more linear patterns in READ/WRITE or the more horizontal scanning in BROWSE/SEARCH.",
+  "correct": true
+}

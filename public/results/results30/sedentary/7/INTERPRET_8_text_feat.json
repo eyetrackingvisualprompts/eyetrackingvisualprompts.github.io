@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps across wide screen areas (including off-screen-like coordinates), alternating between top, bottom, and side regions, with relatively short fixations and highly scattered patterns resemble exploratory web browsing rather than structured code reading/writing or focused game tracking.",
+  "correct": false
+}

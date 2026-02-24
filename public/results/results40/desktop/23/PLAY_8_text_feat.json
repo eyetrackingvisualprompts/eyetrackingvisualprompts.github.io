@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Spatially constrained gaze around mid-upper screen with predominantly horizontal, line-like shifts and many medium-to-long fixations closely matches the reading pattern examples, unlike the larger exploratory jumps in BROWSE/SEARCH or the broader spatial spread in PLAY/WATCH/WRITE.",
+  "correct": false
+}

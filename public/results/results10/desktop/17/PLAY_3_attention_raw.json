@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across the screen in all directions with no strong central or horizontal band, indicating frequent, rapid shifts typical of visually exploring a game scene rather than the more localized or band-like patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": true
+}

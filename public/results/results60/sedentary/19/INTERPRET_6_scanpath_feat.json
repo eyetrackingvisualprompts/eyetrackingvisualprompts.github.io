@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered over a small left-side region with occasional long downward and lateral saccades, matching focused code-editing behavior seen in WRITE examples rather than broader exploration or reading patterns of other tasks.",
+  "correct": false
+}

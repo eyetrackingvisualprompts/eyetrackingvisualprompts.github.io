@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between distinct, sustained positions with step-like changes in both horizontal and vertical coordinates about once per second, matching a target that jumps to random locations and is then fixated, as in the Random Saccades task rather than smooth tracking, central fixation, reading, or game/video behavior.",
+  "correct": false
+}

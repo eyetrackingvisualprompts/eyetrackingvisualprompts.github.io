@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central band with very small vertical changes and modest horizontal movement, resembling focus on a single text line and nearby UI elements, which matches the stable, top-area fixation pattern characteristic of writing in a word processor rather than the larger vertical or varied scanning seen in reading, searching, browsing, watching, or playing.",
+  "correct": false
+}

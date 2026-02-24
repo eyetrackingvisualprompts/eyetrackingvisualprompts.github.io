@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are dispersed across a mid-screen region with frequent shifts between multiple vertically distributed areas, indicating scanning of heterogeneous content (e.g., text blocks, images, links) typical of web browsing, and differing from the more structured horizontal patterns of reading or the focused clusters of watching or playing.",
+  "correct": false
+}

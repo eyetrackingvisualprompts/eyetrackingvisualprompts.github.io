@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on a central-left code/editor area with repeated revisits and some long saccades to the right, matching the WRITE example pattern of focusing on the code while occasionally checking output or other UI elements, unlike the more dispersed SEARCH/DEBUG or line-structured READ patterns.",
+  "correct": false
+}

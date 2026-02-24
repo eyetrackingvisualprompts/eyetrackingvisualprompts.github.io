@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are highly concentrated in a small cluster slightly right of center and lower on the screen, resembling a stable gaze point near the text cursor area in a word processor, consistent with the WRITE example heatmap rather than the more horizontally distributed patterns of READ or BROWSE or the dispersed patterns of SEARCH/PLAY/WATCH.",
+  "correct": true
+}

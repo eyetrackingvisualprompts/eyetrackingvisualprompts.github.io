@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The heatmap shows a dense, compact fixation cluster in the upper-left coding area with some scattered looks to lower and right regions, closely matching the WRITE example pattern where attention is focused on the code editor while occasionally glancing elsewhere.",
+  "correct": false
+}

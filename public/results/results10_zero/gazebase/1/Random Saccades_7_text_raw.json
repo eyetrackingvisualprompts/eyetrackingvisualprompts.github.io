@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show long periods of near-stationary gaze (fixation clusters) separated by large jumps in both horizontal and vertical gaze position, with amplitudes of several degrees and variable directions. These step-like position changes with ~1 s stable intervals match a subject following a randomly moving target rather than purely horizontal motion, continuous reading-like scanning, free video viewing, or game-driven selective fixations.",
+  "correct": true
+}

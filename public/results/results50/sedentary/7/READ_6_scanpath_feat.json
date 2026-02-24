@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows horizontal, line-by-line reading patterns concentrated in two vertically separated text blocks with a few transitions between them, closely matching the example READ pattern and typical reading behavior on a static text page.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, mostly horizontal progression with gradual X-position increases and moderate Y shifts, resembling line-by-line scanning of text, which best matches the READ pattern among the examples.",
+  "correct": false
+}

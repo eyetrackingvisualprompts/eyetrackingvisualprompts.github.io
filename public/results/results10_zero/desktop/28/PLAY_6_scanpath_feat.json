@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a relatively small central-horizontal region with smooth, continuous movements and few large jumps, consistent with following limited dynamic content in a video rather than scanning text lines (READ/WRITE) or performing extensive spatial exploration and revisits typical of BROWSE/SEARCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a small, localized cluster of gaze points around a single area without horizontal line-like scan patterns or widespread exploration. This concentrated focus in one region is more consistent with watching a video (fixating on a central area of motion, such as characters) than with reading, writing, searching, browsing, or playing, which typically produce broader or more structured scan paths across the screen.",
+  "correct": false
+}

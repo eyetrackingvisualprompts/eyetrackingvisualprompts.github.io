@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Predominantly mid-screen cluster of fixations with rapid, repeated saccades around a compact region (x\u2248900\u20131050,y\u2248350\u2013500), interspersed with occasional very large jumps across the screen and to extreme positions. This pattern of tight local tracking around a moving focal point plus abrupt relocations matches the dynamic object-following and repositioning characteristic of gameplay, and differs from the more line-structured (READ/SEARCH), code-panel (WRITE/DEBUG/INTERPRET), or broader exploratory (BROWSE/WATCH) patterns in the examples.",
+  "correct": true
+}

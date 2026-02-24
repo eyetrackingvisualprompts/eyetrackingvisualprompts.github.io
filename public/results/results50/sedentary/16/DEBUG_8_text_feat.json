@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a central/top region (likely query box or result header) and multiple lower scroll regions with clusters of medium fixations, including repeated vertical excursions to high and low y-coordinates. This pattern of scanning and revisiting result areas with intermittent moves to the top is more consistent with SEARCH behavior than with continuous line-by-line READ or focused code-centric tasks like INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movements with frequent vertical shifts and scattered fixations, matching the mixed reading-and-scanning pattern seen in the SEARCH example more than the more regular lines of READ or the more static patterns of code-related tasks.",
+  "correct": false
+}

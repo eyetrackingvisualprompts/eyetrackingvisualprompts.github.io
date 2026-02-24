@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are concentrated along a narrow horizontal band near the top of the screen, with discrete clusters spread laterally and minimal vertical dispersion, consistent with tracking a target moving horizontally at fixed vertical position rather than free viewing, reading, or random 2D movements.",
+  "correct": false
+}

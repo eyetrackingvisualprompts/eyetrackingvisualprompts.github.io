@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze first scans mainly horizontally at a stable vertical level, then around 10s shows a large downward saccade followed by exploration across a wider vertical range, matching the pattern of moving from search results to detailed content typical for SEARCH, and differing from the more uniform line-by-line movement of READ or the steadier patterns of WATCH/WRITE.",
+  "correct": true
+}

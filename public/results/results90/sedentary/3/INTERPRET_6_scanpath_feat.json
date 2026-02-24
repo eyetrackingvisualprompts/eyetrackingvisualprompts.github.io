@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is highly clustered in a narrow region on the left-center of the screen with occasional long saccades to the right and bottom, matching focused coding in an IDE (code area plus sporadic looks to console or other UI), which is characteristic of the WRITE task examples.",
+  "correct": false
+}

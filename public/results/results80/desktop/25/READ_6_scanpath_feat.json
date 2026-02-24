@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a narrow, predominantly horizontal band with limited vertical movement, matching the scanpath pattern typical for reading text lines on a screen rather than the more dispersed or multi-directional patterns seen in other activities.",
+  "correct": true
+}

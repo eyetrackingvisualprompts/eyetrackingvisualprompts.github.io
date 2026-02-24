@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated around a central text-like band with occasional long saccades to the top and far right, consistent with inspecting search results while frequently shifting to query box, tabs, or other UI elements, matching the SEARCH pattern more than the other tasks.",
+  "correct": false
+}

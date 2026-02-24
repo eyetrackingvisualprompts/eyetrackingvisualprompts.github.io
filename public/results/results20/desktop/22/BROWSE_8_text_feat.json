@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the central band (y\u22480.35\u20130.55) with frequent medium-amplitude horizontal moves and intermittent vertical shifts between upper and mid regions, resembling scanning of mixed text/graphics sections (like a webpage) rather than the more line-structured, monotonically horizontal pattern of READ or the top-left concentration and short-range movements of WRITE. The pattern closely matches the spatial dispersion and saccade structure seen in the BROWSE example.",
+  "correct": true
+}

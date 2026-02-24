@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a left-center code area with some spread slightly below and around it, similar to the DEBUG example where attention clusters around a code block with occasional shifts, rather than the tighter WRITE/INTERPRET focus or the more dispersed BROWSE/PLAY/SEARCH patterns.",
+  "correct": false
+}

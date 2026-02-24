@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The target data shows complex, multi-directional gaze trajectories with varying amplitudes, many small local adjustments, and no strict repetitive pattern or confinement to a narrow region. This pattern matches natural exploratory viewing of dynamic visual content (Video Viewing) rather than the more constrained, repetitive, or structured patterns seen in reading, game fixations, simple horizontal saccades, static fixations, or discrete random target jumps.",
+  "correct": true
+}

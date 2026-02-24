@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact mid-left code-like area with many short saccades and medium fixations, including repeated revisits between nearby lines and occasional jumps to a lower region (likely console or auxiliary panel). This localized, iterative pattern closely matches the WRITE examples and is less scattered or global than BROWSE/SEARCH, less horizontally systematic than READ, and less wide-ranging than WATCH/PLAY/DEBUG/INTERPRET.",
+  "correct": false
+}

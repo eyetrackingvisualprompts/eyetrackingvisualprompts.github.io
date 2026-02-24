@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in two closely stacked horizontal bands in the upper-middle of the screen, consistent with viewing a search bar and top result snippets, matching the SEARCH heatmap pattern more than the other activities.",
+  "correct": false
+}

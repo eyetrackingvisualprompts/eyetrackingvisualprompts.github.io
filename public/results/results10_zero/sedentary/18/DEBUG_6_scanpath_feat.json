@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a compact left-side vertical region with small horizontal saccades and limited vertical movement, consistent with reading a narrow text column rather than wide-area exploration, dynamic object following, or code-debugging/navigation patterns.",
+  "correct": false
+}

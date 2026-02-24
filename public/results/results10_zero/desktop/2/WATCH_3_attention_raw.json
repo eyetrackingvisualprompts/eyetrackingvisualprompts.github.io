@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a compact cluster around the screen center with small vertical dispersion and no long horizontal scanning typical of text reading, writing, or web search/browsing. Such centrally focused, relatively stationary viewing aligns best with watching a video where key visual content is near the center of the screen.",
+  "correct": true
+}

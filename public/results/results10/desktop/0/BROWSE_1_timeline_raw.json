@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal sweeps with step-like X movements across several vertical levels and occasional larger relocations, indicating scanning multiple result regions and switching between them, which best matches the SEARCH pattern compared to the other example classes.",
+  "correct": false
+}

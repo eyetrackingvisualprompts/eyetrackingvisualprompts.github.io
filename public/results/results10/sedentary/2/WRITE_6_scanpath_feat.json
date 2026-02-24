@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers large vertical and horizontal extents with long saccades between distant regions (top bar, mid-content, bottom area), resembling heterogeneous web page exploration seen in the BROWSE example rather than the more localized or structured patterns of the other tasks.",
+  "correct": false
+}

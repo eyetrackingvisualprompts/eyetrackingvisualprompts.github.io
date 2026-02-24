@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in wide horizontal bands around several vertical levels (near y\u2248500\u2013600, then 700\u2013900, then ~0\u2013300), with long left\u2013right sweeps across much of the screen width and occasional big vertical jumps, consistent with scanning long web pages and then moving to the browser\u2019s top area (tabs/URL/search bar). The pattern matches the BROWSE exemplar, which shows extended horizontal reading-like motions across a wide viewport with periodic large jumps, rather than the tighter, line-structured READ pattern or localized code/IDE regions seen in programming tasks.",
+  "correct": false
+}

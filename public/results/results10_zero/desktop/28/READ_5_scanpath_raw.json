@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a small central region with subtle, smooth shifts and no systematic horizontal/vertical sweeps or large jumps typical of reading, searching, browsing, writing, or gaming. This stable, localized scanpath best matches watching a video where attention stays near a central area (e.g., faces/subtitle region).",
+  "correct": false
+}

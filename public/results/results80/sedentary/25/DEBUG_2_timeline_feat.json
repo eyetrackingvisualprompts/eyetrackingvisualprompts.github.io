@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows focused but moderately shifting fixations around a central vertical band, with occasional larger saccades\u2014matching the pattern of coding in an IDE (WRITE) rather than more dynamic scanning (SEARCH/BROWSE) or line-by-line horizontal movements (READ).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions in both X and Y change in discrete steps of varying amplitudes, including combined horizontal and vertical shifts in multiple directions, with each position held roughly around one second. This pattern matches a target that jumps to random 2\u00b0+ locations within a bounded 2D range, consistent with the Random Saccades task rather than strictly horizontal motion, continuous exploration, or static fixation.",
+  "correct": false
+}

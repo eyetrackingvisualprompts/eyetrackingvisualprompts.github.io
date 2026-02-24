@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The dense fixation cluster is elongated horizontally across the upper-middle screen, with additional scattered fixations further right and some below\u2014closely resembling the SEARCH example heatmap, where users scan result titles/snippets and occasionally move to lower content, rather than the more centrally focused WATCH or PLAY patterns or the left-heavy coding tasks.",
+  "correct": false
+}

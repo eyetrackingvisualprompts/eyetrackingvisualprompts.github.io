@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gradual, monotonic increase in X fixation from left toward the center/right and Y fixation staying in the lower half with slow upward drift matches the example WRITE pattern of typing/authoring text, unlike the more vertical scanning of READ or dispersed patterns of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

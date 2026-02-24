@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze stays within a compact code-like region with medium-length fixations, frequent short saccades along similar coordinates, and occasional shifts between two nearby vertical areas, matching the structured back-and-forth scanning typical of mentally simulating code output rather than the wider navigation of SEARCH/BROWSE or the line-wise motion of READ.",
+  "correct": false
+}

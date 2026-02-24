@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between widely separated positions, including large horizontal and vertical shifts (up to ~20\u00b0 horizontally and ~10\u00b0 vertically), with each new position followed by a ~200\u2013700 ms fixation. This pattern of discrete, relatively long fixations at scattered locations with substantial, irregular saccades matches a target that jumps to random screen positions held for about one second, characteristic of the Random Saccades task rather than the more regular horizontal-only motion, stationary fixation, structured reading, or continuous free-viewing/game interactions.",
+  "correct": false
+}

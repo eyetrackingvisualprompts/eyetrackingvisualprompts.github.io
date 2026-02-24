@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze clusters around a small central code-like region with frequent short saccades and revisits between closely spaced lines/areas, plus repeated shifts between mid-screen and lower regions consistent with alternating between reading and editing code, matching the WRITE patterns more than the other activities.",
+  "correct": false
+}

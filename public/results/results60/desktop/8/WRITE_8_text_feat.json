@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow region along the upper part of the screen with long, stable fixations and very small, local saccades, matching a user focusing on a single text line and nearby UI elements as in word processing, rather than the broader vertical/horizontal scanning seen in reading, searching, or browsing, or the large dispersed movements in play/watch tasks.",
+  "correct": true
+}

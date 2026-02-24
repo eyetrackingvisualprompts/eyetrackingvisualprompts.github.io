@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with several large, multidirectional saccades spanning wide horizontal and vertical extents, including occasional long jumps from right/center to far left and then to other regions. This scattered, exploratory pattern with revisits is more typical of browsing heterogeneous web pages (mixed text, images, changing layouts) than the more linear patterns of READ/WRITE or the more constrained, often central movements of WATCH/PLAY, and is less goal-focused than typical SEARCH behavior within a single results page.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, irregular movements across both axes without strong linear horizontal scanning (as in READ) or large dynamic shifts (as in PLAY or WATCH). The pattern of short fixations and small saccades around mid-screen aligns best with browsing mixed web content, similar to the BROWSE example.",
+  "correct": false
+}

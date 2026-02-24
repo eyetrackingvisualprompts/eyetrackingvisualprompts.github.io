@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a narrow horizontal band with modest lateral movements, resembling scanning a small region of a webpage (e.g., a menu or short text block). The pattern is more localized and less structured than READ and less dispersed than tasks like PLAY or WATCH, matching the BROWSE example most closely.",
+  "correct": false
+}

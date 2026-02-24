@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between upper and mid screen regions with medium-length fixations and frequent medium/long saccades across different areas, indicating scanning heterogeneous web content rather than the more line-structured horizontal patterns of READ, the central stable focus of WATCH, the left-upper bias of WRITE, or the tightly clustered game-region gaze of PLAY. This broader exploratory pattern best matches BROWSE.",
+  "correct": false
+}

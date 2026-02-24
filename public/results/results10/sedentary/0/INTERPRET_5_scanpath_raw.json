@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a compact area on the left side with dense, back-and-forth saccades and revisits, resembling focused inspection of code regions similar to the DEBUG example, rather than the broader sweeps of BROWSE/SEARCH or the more linear pattern of READ/INTERPRET.",
+  "correct": false
+}

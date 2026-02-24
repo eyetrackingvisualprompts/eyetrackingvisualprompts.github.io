@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered in a small central region with little horizontal spread, matching the focused central viewing pattern seen in the BROWSE example rather than the wider scan paths of READ, SEARCH, PLAY, WATCH, or WRITE.",
+  "correct": false
+}

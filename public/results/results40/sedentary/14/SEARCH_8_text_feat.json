@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, rapid gaze jumps between widely separated on-screen and off-screen (negative / very large) coordinates, alternating with shorter inspection fixations, match exploratory navigation and SERP/content switching typical of the SEARCH examples rather than the more locally constrained patterns of coding, reading, or watching video.",
+  "correct": true
+}

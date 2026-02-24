@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around central horizontal positions with moderate vertical variability and frequent, irregular saccades across both axes, resembling the mixed scanning patterns over diverse webpage layouts seen in the BROWSE example more than the structured, line-by-line movements of READ or the more constrained patterns of WRITE and WATCH.",
+  "correct": false
+}

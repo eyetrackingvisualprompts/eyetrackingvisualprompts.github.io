@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "X fixation is mostly high and slowly drifting with occasional larger saccades, while Y fixation stays around the screen center with moderate vertical changes and bursts of rapid saccades between 20\u201325 s. This pattern of broad, stimulus-driven scanning without structured line-by-line reading or code inspection best matches the WATCH (video viewing) behavior compared to the other classes.",
+  "correct": false
+}

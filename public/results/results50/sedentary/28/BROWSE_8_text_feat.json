@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades spanning the full screen (including extreme edges and corners), frequent vertical and diagonal jumps between distant regions, and mixed clusters around mid\u2011screen reflect dynamic tracking and anticipatory gaze consistent with game play rather than reading, coding, or web search/browsing layouts.",
+  "correct": false
+}

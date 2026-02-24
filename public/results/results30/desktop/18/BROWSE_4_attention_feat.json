@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the central area with dispersed vertical exploration, resembling the SEARCH example heatmap (central focus on results list and query area) more than the more linear READ pattern or the more peripheral/upper distributions of other tasks.",
+  "correct": false
+}

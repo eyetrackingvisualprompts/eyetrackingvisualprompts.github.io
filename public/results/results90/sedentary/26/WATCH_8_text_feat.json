@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across extreme screen regions (including off-screen coordinates), alternation between top/bottom and left/right, and many short fixations over heterogeneous areas resemble exploratory navigation of multiple web page regions in BROWSE rather than the more structured, line-based or code-centered patterns in READ/WRITE/DEBUG/INTERPRET or the object-following patterns in PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (including far left/right and substantial vertical jumps), mixed with medium fixations on various areas, indicate scanning a long, scrollable, heterogeneous page rather than the more line-structured, band-limited patterns of READ/WRITE/INTERPRET/DEBUG or the object-following patterns of WATCH/PLAY. This pattern best matches the BROWSE examples.",
+  "correct": false
+}

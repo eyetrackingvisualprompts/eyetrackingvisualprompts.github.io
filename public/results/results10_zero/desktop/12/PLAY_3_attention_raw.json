@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is highly concentrated in a small central region with minimal vertical or horizontal scanning, consistent with watching a video where attention stays near the center of the screen rather than line-by-line reading, wide search/browse exploration, or large writing movements.",
+  "correct": false
+}

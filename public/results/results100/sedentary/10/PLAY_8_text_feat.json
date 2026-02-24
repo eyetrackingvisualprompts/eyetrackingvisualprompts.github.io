@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The data shows long, stable fixations with relatively smooth, wide-ranging saccades across the screen, minimal systematic line-by-line scanning, and no tight looping over code/text regions. The pattern matches passive visual following of dynamic content typical for WATCH rather than the more structured horizontal scanning of READ/BROWSE or focal revisits of code in DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

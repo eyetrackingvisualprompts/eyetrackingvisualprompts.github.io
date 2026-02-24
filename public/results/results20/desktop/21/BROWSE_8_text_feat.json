@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are mostly mid-duration (0.2\u20130.9s) and clustered along a horizontal band in the lower half of the screen, with frequent short horizontal saccades and occasional regressions, closely resembling the structured, line-based scanpath pattern in the READ example rather than the more scattered or peripheral patterns seen in SEARCH, BROWSE, WATCH, PLAY, or the left-biased WRITE behavior.",
+  "correct": false
+}

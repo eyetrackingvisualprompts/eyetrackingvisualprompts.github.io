@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a single horizontal band near the top-left to mid-screen, similar to code editing in an IDE as in the WRITE example, with occasional glances to the right and lower areas, unlike the more vertically distributed patterns seen in READ or the scattered layouts in SEARCH/BROWSE.",
+  "correct": false
+}

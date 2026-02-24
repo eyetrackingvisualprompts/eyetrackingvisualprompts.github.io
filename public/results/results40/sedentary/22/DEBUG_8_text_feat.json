@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and short saccades clustered in a mid\u2011lower screen region (code/IDE area), with frequent revisits to nearby coordinates and occasional long vertical/diagonal jumps to upper regions (reference / other code segments) match the WRITE example patterns more closely than the more horizontal scanpaths of READ/BROWSE or the highly dispersed, large-amplitude movements of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

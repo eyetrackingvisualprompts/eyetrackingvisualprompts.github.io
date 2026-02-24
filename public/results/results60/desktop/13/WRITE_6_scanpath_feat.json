@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a small region in the lower-central part of the screen with limited horizontal scanning, suggesting passive viewing of a localized area (e.g., subtitle or focal region in a video), which best matches the WATCH pattern rather than the more extensive horizontal/vertical movements seen in reading, searching, browsing, or playing.",
+  "correct": false
+}

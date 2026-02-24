@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered near the very top of the screen with a couple in the upper-middle region, matching attention to a search bar and top search results rather than continuous text lines (READ) or central video/game content (WATCH/PLAY).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The gaze positions stay within a narrow vertical band (y\u22481.1\u20134.1) and move predominantly horizontally with short to medium saccades and intervening fixations, closely matching the line-by-line, left\u2013right then partial regressions pattern seen in the Reading example rather than the broader, more scattered patterns of random saccades or video viewing.",
+  "correct": false
+}

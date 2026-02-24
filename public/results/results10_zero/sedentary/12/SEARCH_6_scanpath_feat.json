@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a narrow horizontal band with minimal vertical movement, indicating steady gaze at a single region\u2014typical of watching a video rather than scanning text lines or interacting with code or web pages, which would show larger vertical shifts and more dispersed scanpaths.",
+  "correct": false
+}

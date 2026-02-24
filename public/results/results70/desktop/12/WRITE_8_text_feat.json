@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small lower-left region with long, stable fixations and tiny corrective saccades, consistent with monitoring typed text or cursor position rather than scanning across lines (READ) or exploring larger vertical spans (BROWSE/SEARCH). Pattern closely matches the localized, repetitive fixation behavior seen in the WRITE examples.",
+  "correct": true
+}

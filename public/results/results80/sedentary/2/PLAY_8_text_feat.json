@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Predominantly mid-screen to lower-screen gaze around a compact region with frequent, rapid revisits and long fixations on a central band (x\u2248800\u20131100, y\u2248500\u2013600), plus occasional large jumps to screen corners, matches tracking a game area and peripheral HUD/scene elements typical of PLAY, rather than the more line-structured or code-structured patterns of READ/WRITE/DEBUG/INTERPRET or the broader exploratory scans of SEARCH/BROWSE/WATCH.",
+  "correct": true
+}

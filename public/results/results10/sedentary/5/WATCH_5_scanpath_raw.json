@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, continuous movements across wide screen areas with fewer localized clusters, resembling tracking moving objects in games. This pattern matches the PLAY example more than the more text- or code-focused tasks, which exhibit tighter, localized fixations.",
+  "correct": false
+}

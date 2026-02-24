@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a narrow central band with smooth, gradual drifts and few large saccades, suggesting continuous attention to a central region (like faces/subtitles in a video) rather than systematic horizontal scanning (READ/BROWSE/SEARCH), rapid directional shifts (PLAY), or localized editing behavior (WRITE).",
+  "correct": false
+}

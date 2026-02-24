@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple, spatially dispersed fixation clusters spanning much of the screen, without confinement to a central area (Fixations) or a predominantly horizontal band (Horizontal Saccades). The clusters correspond to discrete, widely separated target positions consistent with a bull\u2019s-eye jumping to random locations and being held there for about a second, matching the Random Saccades task.",
+  "correct": false
+}

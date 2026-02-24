@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze starts with horizontal scan at mid\u2011height like reading a results snippet, then shows a large vertical transition and new horizontal scan region, matching the pattern of moving between search results and selected pages characteristic of the SEARCH example plot.",
+  "correct": true
+}

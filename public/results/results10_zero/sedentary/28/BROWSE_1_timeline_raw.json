@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a few broad horizontal bands with relatively smooth, continuous shifts and no systematic left-to-right or top-to-bottom scanning typical of reading or browsing. The pattern reflects following on-screen motion in a video rather than discrete targets like text lines, code, or UI elements.",
+  "correct": false
+}

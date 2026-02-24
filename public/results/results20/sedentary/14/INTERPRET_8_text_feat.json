@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact central region with short saccades and repeated fixations oscillating over nearly the same lines/locations, matching code editing/typing behavior rather than broader scanning (BROWSE/SEARCH), line-structured reading (READ), or wide, dynamic movements (WATCH/PLAY). The pattern closely resembles the WRITE example segment in spatial extent and fixation\u2013saccade rhythm.",
+  "correct": false
+}

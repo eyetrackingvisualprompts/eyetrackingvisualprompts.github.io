@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band with modest horizontal movement and intermittent saccades to a few distinct regions, resembling the WRITE example more than the other tasks that show broader scanning (SEARCH/DEBUG/BROWSE) or structured line-by-line patterns (READ/INTERPRET).",
+  "correct": true
+}

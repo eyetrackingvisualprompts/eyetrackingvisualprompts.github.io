@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The data shows repeated, prolonged fixations (0.6\u20131.4s) with short saccades within a confined mid-screen region, and several back-and-forth revisits between nearby points. This pattern matches careful, localized inspection and reinspection typical of debugging code, rather than the more linear scanpaths of reading/browsing or the larger, more dynamic gaze shifts common in watching videos or playing games.",
+  "correct": false
+}

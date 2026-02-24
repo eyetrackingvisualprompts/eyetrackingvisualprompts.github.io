@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Multiple long fixations with vertical transitions between mid-screen content and upper/lower regions, plus several revisits to different vertical bands, resemble scanning SERP titles/snippets and jumping between results rather than the more uniform line-wise motions of reading or the highly top-focused pattern of watching/writing. This mixed exploratory pattern aligns best with SEARCH.",
+  "correct": false
+}

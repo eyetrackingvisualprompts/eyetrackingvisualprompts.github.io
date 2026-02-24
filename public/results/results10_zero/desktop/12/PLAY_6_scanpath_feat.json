@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a narrow central band with very small horizontal and vertical excursions, indicating sustained fixation on a small region such as the text insertion area/toolbar in a word processor rather than continuous horizontal sweeps typical of reading or larger movements from browsing, searching, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a central-left code area with frequent short saccades and revisits, plus occasional long shifts toward the right (likely console or auxiliary panel), closely matching the WRITE example pattern of coding with periodic checks rather than the denser local clustering of DEBUG or INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular jumps in both horizontal and vertical directions between distinct spatial regions, with brief dwells at each location. This pattern matches following a target that moves unpredictably across the screen rather than strictly horizontally, remaining static between moves, which is characteristic of Random Saccades.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large-amplitude saccades with both horizontal and vertical shifts between separated areas (results list, query box, target pages), resembling the provided SEARCH example more than the steadier, line-by-line patterns of READ/WRITE or the more chaotic PLAY/WATCH patterns.",
+  "correct": false
+}

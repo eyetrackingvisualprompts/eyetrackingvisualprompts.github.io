@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path is widely distributed across the screen with many long, oblique saccades and shifting fixation clusters, resembling the dynamic, full-screen tracking pattern of game play rather than the more structured or localized patterns seen in reading, coding, searching, or watching video.",
+  "correct": false
+}

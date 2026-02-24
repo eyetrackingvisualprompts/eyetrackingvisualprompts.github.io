@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is widely distributed across the screen with frequent long saccades to different regions, including top, middle, and bottom, resembling exploratory web navigation rather than focused reading, coding, or game/object tracking patterns; this best matches the BROWSE example scanpath.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions stay very close to the center with minimal variation for almost the entire 10 s window, showing no systematic horizontal sweeps or multi-location scanning. Aside from a single brief artifact-like excursion, the pattern matches sustained central fixation on a static target.",
+  "correct": true
+}

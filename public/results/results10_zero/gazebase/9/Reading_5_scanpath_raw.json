@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows sequential, left-to-right horizontal sweeps with small vertical regressions between lines, confined to an upper-central band of the screen\u2014characteristic of reading text rather than large-amplitude or purely horizontal target tracking, static fixation, or game/video exploration.",
+  "correct": true
+}

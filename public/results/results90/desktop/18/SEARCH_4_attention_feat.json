@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations are concentrated in a central region with vertical spread and multiple scattered points around, matching the exploratory but still center-focused pattern of SEARCH rather than the more linear (READ/WRITE) or widely dispersed (PLAY/WATCH) patterns.",
+  "correct": true
+}

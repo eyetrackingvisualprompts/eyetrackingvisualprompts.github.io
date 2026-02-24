@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in an upper-central band with small, local saccades and occasional short vertical shifts, matching the stationary, line-focused gaze near the text/cursor region seen in the WRITE example rather than the more horizontally sweeping READ pattern or the broader exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

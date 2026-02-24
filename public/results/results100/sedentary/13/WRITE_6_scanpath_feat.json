@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations over the left code area with repeated horizontal scans, plus intermittent long saccades to a right-side region (likely console/output or docs) and occasional excursions elsewhere, closely match the DEBUG example pattern rather than the more localized INTERPRET/WRITE or broader BROWSE/SEARCH behaviors.",
+  "correct": false
+}

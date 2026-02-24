@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small central region with a dominant lower fixation indicating prolonged attention at one spot (likely the text entry area/cursor), with short local saccades rather than systematic horizontal or vertical scanning typical of reading or search/browse tasks; this localized, stable pattern best matches the WRITE activity where users focus near the typing location in a word processor.",
+  "correct": true
+}

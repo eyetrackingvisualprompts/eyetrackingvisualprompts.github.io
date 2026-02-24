@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated near screen center with moderate dispersion and relatively small saccades, closely matching the example BROWSE pattern and differing from the more linear READ/WRITE paths or wider PLAY/WATCH movements.",
+  "correct": false
+}

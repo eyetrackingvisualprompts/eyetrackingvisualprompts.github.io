@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread over multiple vertical regions with no tight central cluster, resembling scanning of search results and different snippets rather than focused reading or stationary gameplay/video watching; this matches the SEARCH example most closely.",
+  "correct": false
+}

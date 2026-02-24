@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a small region with a few moderate shifts and long fixations, indicating following salient areas on a dynamic stimulus rather than scanning text or code, which matches the WATCH pattern in the examples.",
+  "correct": false
+}

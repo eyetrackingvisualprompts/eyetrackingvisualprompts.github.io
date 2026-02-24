@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows reading-like horizontal movements near the top, combined with large saccades to lower regions and far right areas of the screen, indicating shifts between results, snippets, and possibly scrolling\u2014patterns most consistent with search engine use rather than continuous reading or coding-focused tasks.",
+  "correct": false
+}

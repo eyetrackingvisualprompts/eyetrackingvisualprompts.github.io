@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively stable horizontal X fixations near the upper part of the screen with moderate, irregular saccades and slowly drifting Y positions, matching the viewing pattern of watching dynamic video content rather than the more structured line-by-line or code-scanning movements of reading, writing, or debugging tasks.",
+  "correct": false
+}

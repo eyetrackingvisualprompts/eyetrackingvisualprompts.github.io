@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central-lower region with small, local saccades and many medium-length fixations plus occasional brief vertical shifts, closely matching the fine-grained, line-local movements seen in the WRITE examples rather than the broader scanning or vertical reading patterns of BROWSE/READ/SEARCH or the large-amplitude shifts of PLAY/WATCH.",
+  "correct": false
+}

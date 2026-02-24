@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze remains predominantly in the lower screen region with frequent short saccades between very similar vertical positions and intermittent returns slightly higher, matching the pattern of monitoring typed text and the nearby keyboard/GUI seen in the WRITE examples, rather than the more central, line\u2011structured horizontal scans of READ or the broader exploratory movements in BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": false
+}

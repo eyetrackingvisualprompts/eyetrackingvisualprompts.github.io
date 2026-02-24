@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent long-range saccades across large screen regions (including corners and edges), repeated vertical excursions between mid-screen and top/bottom, and many revisits to dynamic, spatially disparate areas, which matches the high-amplitude, multi-directional tracking and target-following typical of game play rather than the more structured, line-based or region-focused patterns of reading, coding, browsing, or debugging.",
+  "correct": false
+}

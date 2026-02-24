@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a compact region on the left-center of the screen, similar to focusing on a small code snippet, matching the INTERPRET example more closely than the other activities.",
+  "correct": false
+}

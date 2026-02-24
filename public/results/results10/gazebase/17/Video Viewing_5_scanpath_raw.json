@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows broad, irregular movements across much of the central screen with many curved trajectories and revisits, unlike the structured horizontal lines of reading or horizontal saccades, and more dispersed and task-driven than the tighter cluster of video viewing; this pattern best matches the dynamic, multi-target fixate-and-avoid behavior of the Balura Game.",
+  "correct": false
+}

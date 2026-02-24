@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact central region with a small secondary cluster to the right, consistent with focusing on a code snippet and perhaps briefly glancing at related elements (e.g., input/output or prompt). The pattern lacks the wide horizontal sweeps typical of long-form reading or browsing, and does not show the larger, more dispersed search or debugging exploration, making INTERPRET the most likely activity.",
+  "correct": false
+}

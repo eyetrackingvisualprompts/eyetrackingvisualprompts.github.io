@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze behavior shows clusters of relatively long fixations (around 0.4\u20131.2s) with short, mostly horizontal saccades within a constrained vertical band (~y=350\u2013440), plus occasional longer horizontal jumps\u2014consistent with reading lines of text and returning to earlier positions, rather than the larger, more scattered movements typical of browsing/searching or the highly dynamic tracking of PLAY/WATCH.",
+  "correct": false
+}

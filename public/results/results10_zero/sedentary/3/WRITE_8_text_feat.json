@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered within a relatively narrow horizontal band with short saccades and frequent small regressions, consistent with reading lines of text rather than the larger, more dispersed movements typical of PLAY, WATCH, or general web BROWSE/SEARCH behaviors.",
+  "correct": false
+}

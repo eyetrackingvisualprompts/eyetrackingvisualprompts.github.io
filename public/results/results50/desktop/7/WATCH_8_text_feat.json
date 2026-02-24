@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a small region in the lower vertical area (y\u22480.2\u20130.4) with long, stable fixations and short local saccades around a baseline line, matching looking at the current typing line and nearby UI elements in a word processor; unlike READ/BROWSE/SEARCH, there are no systematic horizontal line sweeps, and unlike PLAY/WATCH there is no wide-range exploration across the screen.",
+  "correct": false
+}

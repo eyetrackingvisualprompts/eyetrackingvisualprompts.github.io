@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern is concentrated near screen center with short, multidirectional saccades and no clear horizontal line structure, resembling the example BROWSE scanpath more than the more structured READ/WRITE or the wider, more dynamic PLAY/WATCH patterns.",
+  "correct": true
+}

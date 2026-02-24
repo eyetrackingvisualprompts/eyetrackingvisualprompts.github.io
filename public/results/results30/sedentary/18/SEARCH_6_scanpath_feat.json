@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on the left-central area typical for code, with repeated vertical scans between several code lines and occasional long saccades to the right (likely console or reference points), matching the WRITE example more closely than other tasks.",
+  "correct": false
+}

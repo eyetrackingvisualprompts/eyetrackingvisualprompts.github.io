@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions, many movements toward screen edges and off-screen coordinates, repeated revisits to central interaction areas, and dynamic vertical relocations match the spatiotemporal pattern of tracking moving game elements rather than the more structured, line-based or code-panel-focused patterns seen in reading, coding, or web tasks.",
+  "correct": true
+}

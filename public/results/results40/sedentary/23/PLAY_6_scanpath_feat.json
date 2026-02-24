@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form tight, orderly horizontal clusters with small vertical shifts, characteristic of line-by-line reading, and lack the wider exploratory or multi-region movements seen in browsing, searching, gaming, or debugging tasks.",
+  "correct": false
+}

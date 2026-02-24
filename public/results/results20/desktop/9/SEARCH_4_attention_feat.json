@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated around the central area with a moderate vertical spread, resembling the BROWSE example more than the tighter clustered SEARCH pattern or the horizontal distributions of READ/WRITE/WATCH, and unlike the localized corner focus of PLAY.",
+  "correct": false
+}

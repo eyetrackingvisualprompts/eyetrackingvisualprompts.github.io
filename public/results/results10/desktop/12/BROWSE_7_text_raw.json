@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points stay in a central horizontal band with small, smooth progressions and brief regressions, closely matching the stable, line-by-line scanning and limited vertical movement seen in the READ examples, and lacking the large excursions of PLAY/SEARCH or the extreme top/bottom focus of WATCH/WRITE.",
+  "correct": false
+}

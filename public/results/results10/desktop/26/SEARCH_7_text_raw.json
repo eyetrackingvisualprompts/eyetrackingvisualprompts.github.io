@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze pattern shows frequent large-amplitude shifts across wide screen regions, including rapid movements to screen edges, dispersed clusters, and repeated repositioning\u2014characteristics of continuous visual scanning and spatial navigation in games\u2014rather than the more vertically constrained, line- or column-structured movements seen in reading, writing, searching, or browsing, or the more centrally clustered viewing typical of video watching.",
+  "correct": false
+}

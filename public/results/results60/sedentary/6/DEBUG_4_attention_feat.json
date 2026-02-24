@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a narrow vertical strip on the left-center of the screen, spanning multiple code lines with some shifts between mid and lower regions, closely matching the DEBUG example heatmap pattern and differing from the more compact INTERPRET cluster or the more distributed WRITE/BROWSE patterns.",
+  "correct": true
+}

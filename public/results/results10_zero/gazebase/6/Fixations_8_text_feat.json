@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Balura Game",
+  "reason": "The gaze shows many medium-to-long fixations at dispersed positions with irregular saccades in both horizontal and vertical directions, including repeated returns to nearby locations. This pattern of selectively fixating multiple, spatially separated targets over ~10 seconds best matches the goal-directed, multi-target behavior of the Balura Game rather than the more patterned (horizontal or random saccades), centrally clustered (fixation), line-structured (reading), or highly variable cinematic (video viewing) gaze patterns.",
+  "correct": false
+}

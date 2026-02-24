@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated around the central vertical region with substantial vertical spread and moderate horizontal movement, matching the dynamic, object-following gaze pattern seen in the PLAY example rather than the more linear (READ/SEARCH) or tightly clustered code-focused (DEBUG/WRITE/INTERPRET) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a small central region with irregular but continuous movements and no clear horizontal line- or column-structured pattern; this localized, free-form exploration is more consistent with watching dynamic video content than with reading, writing, searching, browsing, or playing, which typically show wider or more structured scanpaths.",
+  "correct": false
+}

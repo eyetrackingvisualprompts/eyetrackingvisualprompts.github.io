@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in an upper-left region consistent with a search box and top results, with occasional long saccades to the right side of the screen like scanning result snippets or related content\u2014matching the example SEARCH pattern more than other tasks.",
+  "correct": false
+}

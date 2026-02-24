@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze frequently leaves the normal screen bounds (large negative and very large positive coordinates) and shows jumps between code/IDE regions and far-off UI elements, matching the erratic, wide-range patterns seen in the WRITE example more than the more localized, structured movements of reading, browsing, or debugging.",
+  "correct": false
+}

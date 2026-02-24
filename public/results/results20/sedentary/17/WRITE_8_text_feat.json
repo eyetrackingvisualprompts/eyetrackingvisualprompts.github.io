@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large vertical saccades between mid-page content and lower/near-bottom regions (y\u2248380\u2013480 to y\u2248900\u20131150), with intermittent reading-like horizontal fixations in a mid-height band, match scrolling and inspecting different SERP sections typical of SEARCH rather than the more continuous line-by-line patterns of READ or the denser code-region focus of programming tasks.",
+  "correct": false
+}

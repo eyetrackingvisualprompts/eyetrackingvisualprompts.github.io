@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains tightly clustered in a small, upper-left region with limited horizontal progression and no clear line-by-line reading pattern, suggesting focused inspection of a compact code snippet rather than continuous text reading, broad web browsing, or dynamic gameplay; this localized, intensive scrutiny best matches interpreting a short function\u2019s behavior.",
+  "correct": true
+}

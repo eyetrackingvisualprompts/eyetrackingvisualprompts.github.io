@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The target data shows long sequences of horizontal, line-like scanpaths with dense, small-amplitude saccades and medium fixations around y\u2248140\u2013230, 270\u2013320, 380\u2013420 etc., closely matching the structured left-to-right line progression seen in the READ examples. While there are occasional large jumps (top/bottom of page or UI), the dominant pattern is systematic horizontal reading-like movement rather than the more scattered, multi-region exploration of SEARCH/BROWSE or the dynamic object-following of PLAY/WATCH.",
+  "correct": false
+}

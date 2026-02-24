@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed across multiple horizontal bands (top, middle, and bottom) with frequent long saccades between central and side regions, resembling movement between query box, result snippets, and lower content\u2014matching the SEARCH example more than the more localized code or reading patterns.",
+  "correct": false
+}

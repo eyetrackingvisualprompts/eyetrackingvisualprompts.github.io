@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixation positions show gradual, monotonic drifts over time with relatively small saccades, indicating a steady downward/rightward movement typical of typing and composing text in a document rather than scanning or dynamic viewing; this pattern best matches the WRITE example.",
+  "correct": false
+}

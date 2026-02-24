@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts are large in both horizontal (\u224820\u201330\u00b0) and vertical (up to \u224820\u00b0) directions, with fixations of ~200\u2013350 ms between distinct positions and no strict left\u2013right pattern or central holding, matching a target that jumps to random screen locations rather than smooth reading lines, pure horizontal tracking, static fixation, or game/video-like clustered exploration.",
+  "correct": false
+}

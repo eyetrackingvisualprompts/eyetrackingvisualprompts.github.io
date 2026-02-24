@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated mostly in the left\u2013center region typical of code in an IDE, with frequent shifts between clustered areas and occasional long saccades, resembling the complex, back-and-forth inspection seen in the DEBUG example more than the other activities.",
+  "correct": false
+}

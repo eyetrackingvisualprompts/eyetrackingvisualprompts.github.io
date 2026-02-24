@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show mostly horizontal movements with relatively constrained vertical shifts and several stable fixation periods, consistent with scanning lines of text and moving occasionally between text regions, which aligns best with a reading task compared with the more dispersed or dynamic patterns expected in browsing, searching, gaming, watching video, or writing.",
+  "correct": true
+}

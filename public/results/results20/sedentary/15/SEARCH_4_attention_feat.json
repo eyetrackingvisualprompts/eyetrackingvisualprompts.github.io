@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread broadly across the upper-middle horizontal band with some scattered lower fixations, resembling scanning across multiple webpage elements rather than the tight code-focused clusters of WRITE/INTERPRET/DEBUG or the central focus of PLAY/WATCH/READ/SEARCH.",
+  "correct": false
+}

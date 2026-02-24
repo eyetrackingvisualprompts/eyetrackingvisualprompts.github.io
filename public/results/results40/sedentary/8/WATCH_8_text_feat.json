@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including off-center extremes), repeated returns to mid\u2013lower screen bands, and rapid shifts between dispersed clusters match the dynamic, multi-directional tracking behavior seen in the PLAY examples, rather than the more line-structured (READ/SEARCH) or code-centered (INTERPRET/DEBUG/WRITE) patterns.",
+  "correct": false
+}

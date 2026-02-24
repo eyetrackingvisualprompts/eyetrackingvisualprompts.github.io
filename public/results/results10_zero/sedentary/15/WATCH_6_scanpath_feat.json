@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a relatively narrow horizontal band with small regressions and limited vertical movement, consistent with reading lines of text rather than code manipulation, dynamic content, or wide exploratory browsing.",
+  "correct": false
+}

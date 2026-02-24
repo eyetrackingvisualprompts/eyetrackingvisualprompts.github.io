@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades spanning wide horizontal and vertical regions with scattered fixations, indicating dynamic visual exploration over much of the screen, which best matches the eye-movement patterns seen during gameplay compared with the more clustered or line-structured patterns for reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

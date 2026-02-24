@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread across a broad central region with frequent shifts between multiple vertical and horizontal areas, resembling navigation of search results and query box rather than tight line-by-line reading or clustered video watching/typing patterns.",
+  "correct": false
+}

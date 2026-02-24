@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, focused cluster of fixations on the left where the code editor likely is, with repeated long saccades to the far right side consistent with glances to console/output or documentation, matching the WRITE example more than INTERPRET or DEBUG.",
+  "correct": false
+}

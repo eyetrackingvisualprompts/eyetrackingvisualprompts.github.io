@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across widely separated screen regions (including off-screen coordinates), revisits between top navigation-like areas and lower content regions, and irregular horizontal/vertical scan paths with heterogeneous fixation locations match the heterogeneous, non-linear viewing typical of free web browsing rather than the more structured, line-based patterns of reading or code-related tasks, or the smoother object-centric movements of playing or watching.",
+  "correct": false
+}

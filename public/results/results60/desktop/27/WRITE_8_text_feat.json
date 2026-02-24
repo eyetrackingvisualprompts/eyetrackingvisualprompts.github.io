@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a narrow area with many small corrective saccades and long, stable fixations, characteristic of monitoring a local region such as the current line and nearby text while typing in a word processor, and unlike the broader horizontal sweeps of READ or the larger exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

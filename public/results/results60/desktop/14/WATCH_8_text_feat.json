@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in central-mid vertical regions with moderate horizontal movements, medium-length fixations, and occasional shifts up toward ~0.7\u20130.8, matching scanning of mixed content (titles, snippets, images) seen in BROWSE examples more than the tight horizontal bands of READ/WRITE or the larger vertical excursions and dispersed pattern of SEARCH/WATCH/PLAY.",
+  "correct": false
+}

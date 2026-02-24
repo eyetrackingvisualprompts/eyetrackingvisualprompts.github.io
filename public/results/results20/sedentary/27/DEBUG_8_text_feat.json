@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, local gaze around a limited central code-like area with frequent short saccades between nearby coordinates, revisits to the same regions (around y\u2248380\u2013420 and y\u2248480\u2013540), and occasional shifts to upper lines is characteristic of scanning and re-checking code while debugging rather than linear reading, broad browsing, or game/video-like large excursions.",
+  "correct": true
+}

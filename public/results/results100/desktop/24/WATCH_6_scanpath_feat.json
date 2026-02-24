@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the central area with moderate vertical spread and frequent shifts, resembling mixed reading and navigation behavior. This pattern best matches the SEARCH example, which combines reading results with scanning and moving between elements, rather than the more linear READ or the more peripheral WRITE and PLAY patterns.",
+  "correct": false
+}

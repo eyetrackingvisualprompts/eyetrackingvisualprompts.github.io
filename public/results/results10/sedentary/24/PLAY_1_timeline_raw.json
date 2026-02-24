@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth horizontal movements with moderate vertical shifts and occasional larger jumps, lacking the tight line-by-line patterns of reading or code-related tasks and the sharp, rapid object-following of gameplay; this pattern best matches the more continuous, scene-driven viewing behavior seen in the WATCH examples.",
+  "correct": false
+}

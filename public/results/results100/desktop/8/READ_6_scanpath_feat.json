@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact horizontal band with limited vertical dispersion, indicating line-by-line scanning of a static region, which best matches the reading pattern rather than the more scattered or multi-cluster patterns seen in search, browse, watch, write, or play tasks.",
+  "correct": true
+}

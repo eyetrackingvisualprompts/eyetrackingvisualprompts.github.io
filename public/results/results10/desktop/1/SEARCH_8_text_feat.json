@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around a central region with moderate vertical shifts and short-to-medium fixations, resembling scanning of a small content area (like a paragraph or section) without the systematic horizontal sweep and long line-by-line progressions characteristic of READ, and lacking the large, frequent multidirectional shifts typical of PLAY or WATCH. This pattern matches the browsing example, which shows localized exploration with similar saccade amplitudes and fixation durations.",
+  "correct": false
+}

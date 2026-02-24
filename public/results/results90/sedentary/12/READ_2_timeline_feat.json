@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows continuous left-to-right sweep patterns in X with a steadily drifting Y position across a large vertical range, indicating progression down a long scrolling page. This closely matches the BROWSE example, which combines reading-like horizontal scans with gradual downward movement, unlike the more vertically constrained READ pattern.",
+  "correct": false
+}

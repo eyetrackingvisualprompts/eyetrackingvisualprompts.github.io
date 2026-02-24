@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a tight code-like region with many medium-length fixations and frequent short saccades within that area, interspersed with occasional long vertical jumps (likely between code and output/console), which best matches the debugging pattern compared to the other activities.",
+  "correct": false
+}

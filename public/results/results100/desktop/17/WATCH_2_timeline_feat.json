@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "X and Y fixations cluster around the screen center with moderate variability and frequent short saccades in both axes, resembling the mixed, less-structured scanning behavior seen in the BROWSE example rather than the more systematic horizontal (READ), focused center (WATCH), or strongly vertical/edge-biased (WRITE/PLAY/SEARCH) patterns.",
+  "correct": false
+}

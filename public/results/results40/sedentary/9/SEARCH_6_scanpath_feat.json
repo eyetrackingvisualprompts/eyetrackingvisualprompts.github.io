@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern covers multiple distinct vertical regions including top menu, central content, and lower areas, with frequent long saccades across wide horizontal extents, matching the dispersed, exploratory behavior typical of web browsing rather than the more localized or structured patterns of the other tasks.",
+  "correct": false
+}

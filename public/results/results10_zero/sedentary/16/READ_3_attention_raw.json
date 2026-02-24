@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band in the lower-central part of the screen, consistent with focusing on a single code editor area while typing, rather than scanning multiple elements as in browsing, searching, or reading long text, or tracking moving objects as in games or videos.",
+  "correct": false
+}

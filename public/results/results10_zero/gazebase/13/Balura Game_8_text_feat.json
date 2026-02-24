@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between discrete fixation points scattered across both horizontal (\u2248\u00b120\u00b0) and vertical (\u2248\u00b111\u00b0) ranges, with relatively long fixations (~0.2\u20130.5 s) separated by large-amplitude saccades in varying directions. This matches following a randomly moving target within the specified \u00b115\u00b0\u00d7\u00b19\u00b0 area rather than strictly horizontal motion, sustained central fixation, structured reading scans, or game-like clustered refixations.",
+  "correct": false
+}

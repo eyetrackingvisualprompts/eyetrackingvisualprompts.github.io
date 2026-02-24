@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region in the upper-left, with repeated regressions between closely spaced horizontal lines and columns, and several long, stable fixations on small clusters\u2014matching focused inspection of a short code snippet rather than broader navigation (SEARCH/BROWSE), extended horizontal lines (READ), or wide, dynamic movements (PLAY/WATCH).",
+  "correct": true
+}

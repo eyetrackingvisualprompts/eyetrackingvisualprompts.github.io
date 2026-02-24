@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are tightly clustered around a small central area with minimal horizontal or vertical progression, indicating the participant kept looking at nearly the same on-screen region (consistent with watching a video\u2019s central content) rather than scanning lines of text, navigating pages, or exploring interactive elements.",
+  "correct": false
+}

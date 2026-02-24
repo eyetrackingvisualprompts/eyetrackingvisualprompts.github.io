@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between a dense cluster on the left (likely code or result list) and another region to the right (search box or opened page), with frequent long saccades between them, closely matching the SEARCH pattern shown in the examples rather than the more dispersed BROWSE or focused coding tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the screen center with moderate saccade amplitudes and no strong horizontal reading lines, closely matching the browsing example pattern rather than the more structured READ/WRITE or more dynamic PLAY/WATCH behaviors.",
+  "correct": true
+}

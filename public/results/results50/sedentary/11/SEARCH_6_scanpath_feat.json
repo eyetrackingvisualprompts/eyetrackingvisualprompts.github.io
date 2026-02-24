@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath is dominated by long, nearly horizontal fixations across the upper-central region (typical of reading result titles/snippets) with occasional large vertical shifts to lower areas, resembling the SEARCH example more than the denser, more uniform BROWSE pattern or the localized coding tasks.",
+  "correct": true
+}

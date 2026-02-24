@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves in smooth, horizontal sweeps across a narrow vertical band, with many short saccades and mid-length fixations that step downward in regular blocks (y\u2248450\u2192500\u2192540\u2192600\u2192650\u2192700\u2192750\u2192780), closely matching the line-by-line reading scanpaths seen in the READ examples and unlike the more scattered, multi-region exploration in SEARCH/BROWSE or the code-focused clusters in WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

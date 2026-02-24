@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows predominantly small to medium saccades with relatively stable fixations clustered in a band around mid-vertical screen coordinates, with occasional vertical shifts\u2014consistent with scanning lines of text and progressing through paragraphs, as in on-screen reading, more than the larger, more dispersed exploration expected in PLAY, WATCH, SEARCH, or BROWSE, or the strong gaze\u2013keyboard alternation typical of WRITE.",
+  "correct": false
+}

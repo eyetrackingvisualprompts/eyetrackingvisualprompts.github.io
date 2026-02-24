@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered around the mid-screen with moderate vertical shifts (roughly 0.3\u20130.55), alternation between medium-length fixations (~0.3\u20131.2s) and short saccades, and no clear left-to-right line scanning pattern of reading or the extreme upper-region focus of writing. The pattern best matches browsing/news-page style inspection similar to the BROWSE example, with localized exploration in a central region and occasional jumps rather than systematic text-line progression or highly dynamic PLAY/WATCH movements.",
+  "correct": false
+}

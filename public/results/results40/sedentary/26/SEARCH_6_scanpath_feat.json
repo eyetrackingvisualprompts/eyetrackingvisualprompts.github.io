@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows two main vertical content regions (left and mid-right) with repeated transitions between them and some top-area fixations, matching search engine result scanning and occasional result page visits more than the more localized patterns of code tasks or the horizontal lines of reading/browsing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly confined to a narrow horizontal band with small, incremental shifts and limited vertical movement, consistent with repeatedly looking at a single code region while typing/editing, rather than larger line-by-line reading sweeps or broad exploratory movements seen in browsing, searching, or watching.",
+  "correct": true
+}

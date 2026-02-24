@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed over multiple vertically separated regions on the left side, similar to scanning search results rather than focused code (WRITE/DEBUG/INTERPRET) or continuous horizontal reading (READ).",
+  "correct": true
+}

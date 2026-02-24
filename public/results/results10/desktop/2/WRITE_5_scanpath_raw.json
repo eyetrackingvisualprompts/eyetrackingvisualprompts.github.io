@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze path is a compact, predominantly horizontal band with small saccades and limited vertical spread, closely matching the structured left-to-right scanning pattern seen in the READ example rather than the broader, more scattered movements of search, browsing, watching, writing, or playing.",
+  "correct": false
+}

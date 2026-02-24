@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze remains in a relatively narrow vertical band in the lower half of the screen with small, progressive horizontal shifts and limited large saccades, matching the stable, line-by-line viewing pattern seen in the WRITE example more than the broader, more scattered movements of SEARCH, BROWSE, WATCH, PLAY, or READ.",
+  "correct": false
+}

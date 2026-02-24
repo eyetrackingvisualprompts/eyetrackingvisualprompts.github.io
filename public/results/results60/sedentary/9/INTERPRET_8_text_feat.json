@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small code-like region with many short, local regressions and re-inspections of nearly the same coordinates, plus occasional vertical shifts\u2014matching the tight, line-by-line code focus seen in WRITE/DEBUG. Compared to DEBUG, there are fewer large jumps to error locations or between distant code blocks and more steady dwelling and micro-corrections around one area, which aligns better with implementing code than searching for and verifying multiple bugs.",
+  "correct": false
+}

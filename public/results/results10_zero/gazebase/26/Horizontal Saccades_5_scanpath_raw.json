@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze path is dominated by repeated long left-right movements at nearly constant vertical position, matching a target moving horizontally across the screen; vertical excursions appear only at the ends, consistent with overshoot or corrective movements during horizontal saccades rather than random or reading-like patterns.",
+  "correct": true
+}

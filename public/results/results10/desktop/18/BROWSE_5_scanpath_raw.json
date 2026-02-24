@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations and multidirectional saccades within a moderate area, resembling exploratory viewing across different page regions, which aligns best with the SEARCH example rather than the more linear READ or more localized WATCH/WRITE patterns.",
+  "correct": false
+}

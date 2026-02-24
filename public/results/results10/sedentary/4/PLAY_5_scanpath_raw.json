@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze alternates between a compact region (likely code) and long vertical excursions toward the bottom of the screen, resembling the INTERPRET example where participants shift between reading the snippet and checking output/mental notes, rather than the more dispersed patterns of DEBUG/WRITE or continuous movement of WATCH/PLAY.",
+  "correct": false
+}

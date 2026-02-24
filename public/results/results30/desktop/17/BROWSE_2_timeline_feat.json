@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades and varied fixation positions in both X and Y, indicating dynamic scanning of different page regions and result lists, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

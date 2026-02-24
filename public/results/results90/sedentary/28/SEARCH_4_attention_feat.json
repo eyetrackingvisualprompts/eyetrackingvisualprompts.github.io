@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper half of the screen with several dense clusters resembling scanning of search results and the result snippet area, plus some attention to a region on the right side, matching the SEARCH example heatmap more than the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with many short horizontal saccades and repeated revisits to the same lines/segments, along with long fixations indicative of mentally simulating code rather than scanning long lines (READ) or exploring (SEARCH/BROWSE). The spatial pattern and revisiting behavior closely resemble the INTERPRET examples, where participants focus on understanding a small snippet to predict its output.",
+  "correct": false
+}

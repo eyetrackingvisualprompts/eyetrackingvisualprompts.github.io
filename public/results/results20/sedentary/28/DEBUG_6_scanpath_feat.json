@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered on the left side in a relatively small area with some vertical shifts, resembling focused attention on a narrow code editor region as in the WRITE example, without the wide horizontal spread seen in SEARCH/DEBUG or the more dispersed dynamics of PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across mid-screen with several dense clusters near the top and center, indicating scanning of multiple elements like search results and snippets rather than the tighter block-like pattern of reading or code-focused tasks, closely matching the SEARCH example heatmap.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a narrow, code-like region on the left with short, local saccades and repeated revisits between nearby lines/positions, matching the dense, line-focused inspection pattern seen in the DEBUG example more than the broader scanning of BROWSE/SEARCH or the horizontal sweeps of READ/WRITE.",
+  "correct": false
+}

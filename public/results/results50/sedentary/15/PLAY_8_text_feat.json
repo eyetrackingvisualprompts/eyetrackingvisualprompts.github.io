@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows rapid, large-amplitude shifts across wide screen regions with many revisits to a central horizontal band, consistent with tracking dynamic game elements rather than the more line-structured patterns of reading/searching or the code-focused patterns of write/debug/interpret. The spatial spread and alternation between central and peripheral areas best matches PLAY examples.",
+  "correct": true
+}

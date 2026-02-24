@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in several horizontal clusters across the upper half of the screen, resembling scanning of search results (title/snippet lines and top answer area), similar to the SEARCH example and unlike the more vertical/text-block patterns of READ or the focal left-side clusters of coding tasks.",
+  "correct": true
+}

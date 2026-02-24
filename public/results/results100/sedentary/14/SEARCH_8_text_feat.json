@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large saccades between widely separated regions (top bar, central content, off-screen coordinates), repeated returns to header-like horizontal bands, and scans across wide horizontal extents resemble navigating SERPs and result pages more than the more line-structured code (WRITE/INTERPRET/DEBUG) or continuous paragraph reading; the pattern closely matches the provided SEARCH examples with similar top-bar jumps, off-screen excursions, and mixed vertical/horizontal exploration.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered around the central-right region with moderate vertical spread and frequent short saccades, resembling the mixed scanning of text and elements seen in browsing, and it visually matches the BROWSE example more closely than the others.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (center to top, then to far right and corners, and back), frequent vertical and diagonal jumps, and relatively brief fixations resemble tracking dynamic game elements rather than line-by-line reading, code inspection, or IDE-focused work.",
+  "correct": true
+}

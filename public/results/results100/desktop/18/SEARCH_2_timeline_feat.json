@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, irregular horizontal and vertical shifts without strong directional scanning patterns or large excursions, resembling the mixed, less-structured fixations and saccades typical of browsing webpages rather than the more linear patterns of reading/writing or the larger movements seen in playing or watching videos.",
+  "correct": false
+}

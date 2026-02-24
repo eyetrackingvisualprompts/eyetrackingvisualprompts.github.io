@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a moderately dispersed cluster with frequent shifts in both horizontal and vertical directions, suggesting scanning of mixed text and interface elements rather than orderly line-by-line reading or focused typing; this pattern aligns best with the SEARCH example scanpath.",
+  "correct": false
+}

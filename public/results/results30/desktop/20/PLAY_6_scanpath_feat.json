@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are dispersed across a mid-screen region with frequent shifts among several nearby clusters, resembling mixed reading and exploratory movements. This pattern matches the browsing example more than the more localized SEARCH or structured horizontal READ/WRITE patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered around the central region with a vertically elongated spread, indicating attention across multiple interface elements typical of scanning search results pages, matching the SEARCH template heatmap most closely.",
+  "correct": false
+}

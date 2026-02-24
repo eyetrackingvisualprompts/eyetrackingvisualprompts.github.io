@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are spread over a central region covering a large vertical extent, with no tight clustering on code or text blocks, resembling the dispersed, object-following gaze pattern seen when watching full-screen video rather than the more linear or localized patterns of reading, writing, or debugging code.",
+  "correct": false
+}

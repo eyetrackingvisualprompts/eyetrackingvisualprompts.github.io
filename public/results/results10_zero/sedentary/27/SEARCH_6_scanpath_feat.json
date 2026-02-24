@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within two narrow horizontal bands with small left-to-right progressions and regressions, consistent with line-by-line reading rather than the larger, more scattered or dynamic movements expected in playing, coding, or web search/browsing.",
+  "correct": false
+}

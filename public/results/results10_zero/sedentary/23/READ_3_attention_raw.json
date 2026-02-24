@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a relatively small central-lower region without clear horizontal or vertical scanlines typical of reading or code inspection, suggesting attention to a localized dynamic element such as a character or object in a video, consistent with the WATCH activity.",
+  "correct": false
+}

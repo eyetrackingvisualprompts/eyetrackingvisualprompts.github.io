@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium horizontal spread with relatively localized, repetitive fixations and modest saccades around the same code region, resembling focused inspection and back-and-forth checking typical of debugging, and matching the DEBUG example pattern more closely than other tasks.",
+  "correct": false
+}

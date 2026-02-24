@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long vertical and diagonal saccades between widely separated regions (top, mid, bottom, off-screen) with scattered, variable fixations, including to browser-UI-like coordinate extremes and large excursions to negative/out-of-page coordinates, matches heterogeneous webpage navigation rather than the more structured, strip-like patterns of reading/searching or the code-centered clustering of programming tasks and the object-following of games/videos.",
+  "correct": false
+}

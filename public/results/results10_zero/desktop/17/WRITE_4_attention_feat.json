@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, tight cluster of fixations slightly above the screen center, indicating prolonged attention to a small, stable region\u2014consistent with watching a video where gaze remains near the main focal area rather than scanning text or interfaces extensively.",
+  "correct": false
+}

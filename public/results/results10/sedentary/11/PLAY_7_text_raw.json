@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze moves in clustered regions with many medium-range horizontal and vertical shifts across mid-screen areas, consistent with scanning and navigating web pages rather than the more linear patterns of READ or more static focal regions of WRITE/DEBUG/INTERPRET; movement dynamics resemble the BROWSE example\u2019s mix of local reading-like clusters and frequent relocations.",
+  "correct": false
+}

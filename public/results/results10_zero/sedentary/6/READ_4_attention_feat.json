@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small central-lower area with minimal horizontal spread, suggesting focused attention on a compact code snippet or specific output area rather than the broader, line-by-line scanning seen in READ/BROWSE/SEARCH or the more dynamic spread of WATCH/PLAY/DEBUG; this pattern best matches concentrating on a single code segment to interpret its behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are centered slightly below screen middle with moderate vertical excursions and irregular, non-line-based scanning\u2014more scattered than READ, less systematic than SEARCH, and without the constrained horizontal band of WRITE or the wide, multi-directional excursions of PLAY/WATCH\u2014matching the mixed vertical\u2013horizontal navigation pattern typical for web browsing pages.",
+  "correct": false
+}

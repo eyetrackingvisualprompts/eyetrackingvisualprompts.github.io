@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is highly concentrated in a small, central region with only slight local shifts, indicating prolonged fixation on a limited area of the screen. This pattern matches watching a video (focus on central content or characters) more than the broader horizontal scanning seen in reading/writing or the wider exploratory movements typical of browsing, searching, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in central-upper and mid screen with frequent medium-range vertical and small horizontal saccades between clustered fixations, including jumps between content and higher/lower areas, closely matching the heterogeneous yet text-oriented scanpaths seen in the BROWSE examples rather than the more regular horizontal sweeps of READ or the top-heavy distributions of WRITE/WATCH/SEARCH.",
+  "correct": false
+}

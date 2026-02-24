@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations cluster near screen center with moderate, irregular saccades in all directions, resembling the mixed, less-structured scanning pattern seen in browsing examples rather than the more linear (READ/WRITE), top-biased (WATCH/SEARCH), or large-range directional shifts (PLAY).",
+  "correct": false
+}

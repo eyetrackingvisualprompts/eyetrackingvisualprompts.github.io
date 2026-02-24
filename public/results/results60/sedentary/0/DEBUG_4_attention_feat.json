@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically and horizontally over the upper-left area with additional attention lower on the page, matching the pattern of scanning search results and then focusing on a specific result, similar to the SEARCH example heatmap.",
+  "correct": false
+}

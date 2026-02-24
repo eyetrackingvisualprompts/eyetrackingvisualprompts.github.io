@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows horizontally aligned fixations with limited vertical dispersion, closely matching the structured left-to-right reading pattern seen in the READ example, unlike the more scattered or central clusters of browsing, search, or play activities.",
+  "correct": true
+}

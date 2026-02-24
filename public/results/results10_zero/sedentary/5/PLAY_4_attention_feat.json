@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered around the central region with minimal horizontal scanning or line-wise reading, indicating sustained attention to a central visual stimulus typical of watching a fullscreen video rather than reading, coding, or web browsing which show broader, structured scanpaths.",
+  "correct": false
+}

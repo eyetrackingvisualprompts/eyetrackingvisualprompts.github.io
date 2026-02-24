@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in two horizontally separated regions with a band around mid-screen, resembling attention split between a search box/results list and clicked content, matching the SEARCH example more than the other activities.",
+  "correct": false
+}

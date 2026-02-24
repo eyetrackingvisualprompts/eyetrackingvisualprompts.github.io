@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are concentrated in a compact mid-screen region with many short, back\u2011and\u2011forth shifts over a small area, consistent with repeatedly checking and editing code in an IDE, and unlike the larger vertical sweeps of reading/searching or wide, dynamic movements of games or video watching.",
+  "correct": false
+}

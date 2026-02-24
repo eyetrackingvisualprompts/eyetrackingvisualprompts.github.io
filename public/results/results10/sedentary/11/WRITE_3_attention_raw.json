@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Two main fixation clusters on the left and right suggest alternation between code editor and another UI element (e.g., console or reference panel), with vertical dispersion on the left like scanning multiple code lines\u2014matching the WRITE example more than other tasks.",
+  "correct": true
+}

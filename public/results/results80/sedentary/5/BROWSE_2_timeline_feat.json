@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, irregular saccades and variable fixations distributed across wide screen regions, resembling dynamic object tracking and spatial navigation patterns typical of gameplay rather than the more structured, linear or code-focused patterns in reading, writing, browsing, or debugging tasks.",
+  "correct": false
+}

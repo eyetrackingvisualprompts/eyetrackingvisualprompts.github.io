@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Reading",
+  "reason": "The data show a long downward then upward progression in vertical gaze (around -16 to near 0) with relatively small horizontal changes and many short fixations with small regressions, matching line-by-line reading scanpaths rather than discrete saccade tasks, central fixation, game-like scattered fixations, or natural viewing of a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are densely clustered around a central region with limited spread and relatively short saccades, resembling the compact, focal pattern of the BROWSE example more than the broader or more directional patterns seen in READ, WRITE, WATCH, SEARCH, or PLAY.",
+  "correct": false
+}

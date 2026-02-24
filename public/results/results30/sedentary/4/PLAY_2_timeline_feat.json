@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively central, slowly drifting horizontal fixations with frequent but moderate vertical shifts, resembling tracking dynamic content across a video rather than structured left-to-right line reading or code-focused tasks. The pattern best matches the WATCH example timeline among the provided classes.",
+  "correct": false
+}

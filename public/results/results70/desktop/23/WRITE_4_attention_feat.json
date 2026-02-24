@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the screen center with moderate horizontal spread and some scattered points, closely matching the browsing example heatmap pattern more than the other activities.",
+  "correct": false
+}

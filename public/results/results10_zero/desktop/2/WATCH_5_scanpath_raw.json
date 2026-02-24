@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is constrained to a compact central region with frequent small saccades and revisits, consistent with monitoring a local area such as the current typing line and nearby text in a word processor, rather than the wider horizontal sweeps of reading passages or larger spatial exploration seen in search, browse, play, or watch tasks.",
+  "correct": false
+}

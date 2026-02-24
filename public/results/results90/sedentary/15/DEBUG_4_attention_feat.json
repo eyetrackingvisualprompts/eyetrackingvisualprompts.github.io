@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are densely concentrated on a single code region in the upper-left area with minimal spread elsewhere, closely matching the INTERPRET example heatmap where participants focus on understanding a given snippet rather than scanning widely as in DEBUG or WRITE.",
+  "correct": false
+}

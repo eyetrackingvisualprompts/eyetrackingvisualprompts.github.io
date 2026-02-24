@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple spatially separated clusters of fixations with frequent transitions between upper and lower regions, indicating exploration of distinct interface areas (query box, results list, other elements), which best matches the SEARCH pattern compared to the more linear READ traces or more localized WRITE behavior.",
+  "correct": true
+}

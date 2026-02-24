@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered around a central area with moderate dispersion and short saccades, resembling focused inspection of a search results region rather than the more linear pattern of reading or the wider spread of browsing or playing.",
+  "correct": false
+}

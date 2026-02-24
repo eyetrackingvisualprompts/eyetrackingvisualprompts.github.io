@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively constrained horizontal movements with moderate vertical shifts and frequent short saccades, closely matching the structured, line-by-line scanning pattern seen in the READ example rather than the broader exploratory or strongly vertical patterns of other activities.",
+  "correct": false
+}

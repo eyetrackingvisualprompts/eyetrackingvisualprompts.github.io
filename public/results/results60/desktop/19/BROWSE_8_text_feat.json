@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large vertical shifts between upper and lower screen regions, with many medium-length fixations and scattered exploration patterns rather than orderly line-by-line scanning, localized keyboard/toolbar focus, or sustained central video watching. This broad, irregular navigation across different screen areas best matches web search behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed vertically along the right side where a SERP\u2019s results and snippets typically appear, with additional scattered fixations higher and more central, matching the multi-region scanning pattern seen in the SEARCH example rather than the more centralized or line-structured patterns of other tasks.",
+  "correct": false
+}

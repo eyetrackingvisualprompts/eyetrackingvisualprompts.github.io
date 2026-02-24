@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered in the middle of the screen with a vertical spread from mid to lower area, resembling scanning of mixed content in web pages and matching the BROWSE example more closely than the other activities.",
+  "correct": false
+}

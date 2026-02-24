@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-screen content and regions near the top/bottom, with medium-length fixations and frequent medium/large vertical and horizontal saccades, resembling scanning and jumping between disparate page areas typical of web/news browsing rather than the more line-structured patterns of reading or the very bottom-focused patterns of writing.",
+  "correct": false
+}

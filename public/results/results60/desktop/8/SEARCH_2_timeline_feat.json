@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-range, irregular horizontal and vertical movements with scattered saccades and no strong directional pattern (unlike systematic lines for READ/WRITE or large shifts for WATCH/PLAY/SEARCH), matching the exploratory, moderate-variability pattern typical of web browsing.",
+  "correct": false
+}

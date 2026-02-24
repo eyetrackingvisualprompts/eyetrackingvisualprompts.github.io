@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are concentrated in a narrow central band with frequent short horizontal saccades and medium-long fixations, including stepwise downward shifts\u2014this pattern closely matches the structured line-by-line scanning seen in the READ examples and is less dispersed or exploratory than SEARCH/BROWSE or dynamic like WATCH/PLAY, and less top-focused than WRITE.",
+  "correct": false
+}

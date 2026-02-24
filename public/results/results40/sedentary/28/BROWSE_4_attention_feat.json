@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically across the left side (likely search results and page elements) with a strong horizontal band in the mid-upper area resembling scanning through a result list, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

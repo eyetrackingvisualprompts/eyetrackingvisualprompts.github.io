@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large saccades across wide screen regions (including from bottom to top and far left to right), many visits to upper screen edges, and irregular, multidirectional scanning align with dynamic game tracking rather than the more constrained, horizontal band patterns of reading/browsing/searching or the localized areas typical of writing; the pattern best matches PLAY.",
+  "correct": true
+}

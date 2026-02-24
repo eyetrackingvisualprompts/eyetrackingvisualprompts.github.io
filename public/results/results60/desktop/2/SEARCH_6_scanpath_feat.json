@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are spread widely across both horizontal and vertical dimensions with many short fixations and frequent transitions, closely matching the exploratory, scattered scanpath seen in the SEARCH example rather than the more constrained patterns of reading, writing, browsing, watching, or playing.",
+  "correct": true
+}

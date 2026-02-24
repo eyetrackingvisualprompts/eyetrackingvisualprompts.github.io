@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is widely distributed across the central screen with frequent rapid shifts and crossings, lacking the structured left-to-right reading lines of READ/BROWSE and the code-area clustering of INTERPRET/DEBUG/WRITE. This broad, dynamic scanpath best matches the visual tracking and exploration typical during PLAY.",
+  "correct": false
+}

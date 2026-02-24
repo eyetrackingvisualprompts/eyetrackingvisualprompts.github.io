@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length saccades interleaved with short fixations around a central screen region, with repeated returns to nearby coordinates, indicate intensive, localized inspection typical of debugging code in an IDE rather than the more linear patterns of reading/writing or the broader sweeps of browsing/searching or watching/playing.",
+  "correct": false
+}

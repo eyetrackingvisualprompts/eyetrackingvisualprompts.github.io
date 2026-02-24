@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a single code-sized region on the left side with minimal horizontal spread and no jumps to far UI elements, matching focused inspection of a short code snippet as in the INTERPRET task rather than the wider, more dispersed patterns seen in READ, WRITE, or DEBUG.",
+  "correct": true
+}

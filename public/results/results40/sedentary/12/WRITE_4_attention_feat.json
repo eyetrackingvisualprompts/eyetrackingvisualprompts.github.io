@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Highly concentrated fixations in a compact area on the upper-left/central region, similar to the WRITE example heatmap where attention is focused on the code editor text area with minimal spread elsewhere, unlike the broader distributions seen in browsing, searching, or watching tasks.",
+  "correct": true
+}

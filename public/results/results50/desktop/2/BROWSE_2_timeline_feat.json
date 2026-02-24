@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions for both X and Y remain near the screen center with moderate, irregular saccades and no strong directional drift (horizontal or vertical), matching the scattered, exploratory pattern typical of web/news browsing rather than the more structured scan paths of reading, writing, search results inspection, video watching, or game play.",
+  "correct": true
+}

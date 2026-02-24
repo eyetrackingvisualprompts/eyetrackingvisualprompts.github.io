@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains confined to a narrow horizontal band in the lower half of the screen with long, sequential fixations and short, small-amplitude horizontal saccades, closely matching the line-by-line text scanning pattern seen in the READ examples and unlike the larger, more scattered movements in SEARCH/BROWSE/PLAY or the more vertical/subtitle and character-driven shifts in WATCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is distributed across a central region without clear line-by-line reading structure or distinct code/text blocks, with many medium-length saccades and varied fixation locations similar to dynamic visual following in the WATCH example rather than focused code or search/browse patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively small left-central code area with repeated fixations and revisits, plus occasional large vertical saccades (likely between code and console/output). This pattern matches focused code inspection and verification typical of debugging rather than the broader navigation of browsing or the smoother patterns of reading or watching.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions, many horizontal sweeps at similar vertical levels, and revisits between central and peripheral areas resemble tracking moving game elements rather than structured line-by-line reading or code inspection, matching the PLAY patterns best.",
+  "correct": false
+}

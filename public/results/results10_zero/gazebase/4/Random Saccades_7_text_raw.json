@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, irregular jumps across wide horizontal and vertical ranges (including far eccentricities) with brief clusters of relatively stable points, consistent with following a target that moves unpredictably to different screen locations each second, as in the Random Saccades task rather than the more patterned or central behaviors of the other classes.",
+  "correct": true
+}

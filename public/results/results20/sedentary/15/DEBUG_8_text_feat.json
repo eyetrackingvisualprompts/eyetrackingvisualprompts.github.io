@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent long saccades between a top code region (around y\u224850\u201380) and mid/lower panels (y\u2248300\u2013550), plus revisits to similar coordinates with medium-long fixations, match the multi-pane, back-and-forth inspection pattern seen in the DEBUG example more than the more localized scanning of WRITE/INTERPRET or the broader, faster shifts of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": true
+}

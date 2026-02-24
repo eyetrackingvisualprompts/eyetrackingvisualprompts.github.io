@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right horizontal sweeps with gradual downward drift in Y over time, resembling reading lines interleaved with occasional larger vertical saccades indicative of scrolling or moving between web elements, which best matches the mixed reading-and-navigation pattern of BROWSE.",
+  "correct": true
+}

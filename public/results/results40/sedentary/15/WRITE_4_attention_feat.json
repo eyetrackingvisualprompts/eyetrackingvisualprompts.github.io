@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a single left-central code region with small vertical spread and minimal activity elsewhere, matching the focused examination of a short code snippet typical of the INTERPRET task rather than the broader distributions seen in WRITE, DEBUG, or browsing-related activities.",
+  "correct": false
+}

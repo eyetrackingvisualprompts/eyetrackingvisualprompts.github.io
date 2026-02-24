@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are spread vertically along a central column with multiple clusters at different heights, indicating scrolling and scanning behavior over varying content regions, which best matches the browsing pattern rather than the more horizontally constrained reading or writing layouts.",
+  "correct": false
+}

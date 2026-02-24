@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated in a compact area on the upper-left side, matching the focused code-snippet inspection pattern of INTERPRET, with minimal scanning elsewhere compared to the broader spreads seen in DEBUG or other tasks.",
+  "correct": true
+}

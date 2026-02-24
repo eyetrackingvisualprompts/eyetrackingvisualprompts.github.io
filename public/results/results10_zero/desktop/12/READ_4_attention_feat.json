@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band near the center, indicating stable left-to-right gaze along a single text line with minimal vertical movement, which is characteristic of reading rather than browsing, searching, gaming, watching video, or writing.",
+  "correct": true
+}

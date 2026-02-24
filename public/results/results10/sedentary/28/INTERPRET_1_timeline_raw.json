@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows extended periods of relatively stable horizontal X with step-like vertical Y shifts between bands and occasional sharp vertical spikes, closely matching the INTERPRET example where participants inspect a code snippet line-by-line and occasionally shift to different parts for reasoning, rather than the smoother scanning of READ or the more erratic patterns of BROWSE/PLAY.",
+  "correct": true
+}

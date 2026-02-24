@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow central region with small horizontal shifts and moderate vertical changes, resembling code inspection with occasional revisits, which matches the INTERPRET example more closely than the more dynamic SEARCH/BROWSE or the steadier WRITE/READ patterns.",
+  "correct": true
+}

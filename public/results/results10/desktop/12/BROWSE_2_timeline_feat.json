@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal progression with gradual upward Y shifts and occasional larger exploratory saccades, matching the mixed reading-and-scanning pattern typical of search results pages rather than the more regular line-by-line motion of READ or the more dispersed patterns of BROWSE and PLAY.",
+  "correct": false
+}

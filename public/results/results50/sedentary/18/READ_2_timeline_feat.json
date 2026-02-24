@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a dominant left-to-right horizontal progression with slowly increasing Y positions, characteristic of line-by-line reading, plus a single large vertical return sweep around 37s, matching the READ pattern more than the other activities.",
+  "correct": true
+}

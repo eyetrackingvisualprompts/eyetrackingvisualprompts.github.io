@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements with relatively small vertical changes, forming step-like fixations consistent with line-by-line reading across text rather than large exploratory shifts typical of search, browse, watch, or play activities.",
+  "correct": false
+}

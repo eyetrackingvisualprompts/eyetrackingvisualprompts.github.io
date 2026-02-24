@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades between widely separated regions (upper, mid, and lower parts of the screen) with relatively short fixations and some long saccade durations, indicating active, spatially distributed visual exploration consistent with tracking moving game elements rather than the more line-structured, band-limited patterns seen in reading, writing, or browsing/searching text, or the more stable clustering typical of passive video watching.",
+  "correct": false
+}

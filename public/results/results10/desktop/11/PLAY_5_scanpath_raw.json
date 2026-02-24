@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal eye movements with limited vertical range and relatively orderly progression, which is characteristic of reading text lines rather than the more dispersed or multi-directional patterns seen in browsing, searching, gaming, or watching video.",
+  "correct": false
+}

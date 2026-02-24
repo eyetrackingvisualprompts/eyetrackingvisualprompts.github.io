@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a smooth, monotonic drift in X with relatively stable Y, resembling line-by-line progression with occasional vertical shifts, which matches the reading example pattern better than the other activities.",
+  "correct": false
+}

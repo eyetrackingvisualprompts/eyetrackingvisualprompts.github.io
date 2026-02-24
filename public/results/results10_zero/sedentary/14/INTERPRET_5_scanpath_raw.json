@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in the upper-left region where a code editor would typically be, with occasional long saccades downward likely toward console/output, matching focused editing behavior rather than broad reading, browsing, or dynamic object tracking.",
+  "correct": false
+}

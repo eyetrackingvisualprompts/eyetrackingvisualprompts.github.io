@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large gaze shifts across almost the entire screen with multiple spatially separated fixation clusters and frequent long saccades, indicating dynamic, multidirectional viewing consistent with tracking game elements rather than the more localized patterns of reading, writing, browsing, searching, or passive watching.",
+  "correct": false
+}

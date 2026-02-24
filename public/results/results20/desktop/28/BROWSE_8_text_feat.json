@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows frequent medium-to-large saccades between widely separated vertical regions (upper text/results, mid-page, and lower areas), with intermittent longer fixations\u2014matching the exploratory, multi-region scanning pattern seen in the SEARCH examples more than the more localized patterns of READ, WRITE, or WATCH.",
+  "correct": false
+}

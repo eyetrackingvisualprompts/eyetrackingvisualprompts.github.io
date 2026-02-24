@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and diagonal saccades between top and bottom of the page, many fixations in mid/lower screen bands, and occasional jumps to off-screen or extreme coordinates match the heterogeneous, exploratory scanpaths typical of web browsing rather than the more structured horizontal (READ), code-focused (WRITE/DEBUG/INTERPRET), or continuous object/scene tracking (PLAY/WATCH) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with frequent medium-to-large vertical saccades and variable fixation bands, matching the mixed scanning of search results pages more than the more stable patterns of READ/INTERPRET or the heavier motion in PLAY/BROWSE.",
+  "correct": false
+}

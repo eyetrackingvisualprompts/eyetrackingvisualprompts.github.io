@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay near the screen center with small, continuous jitter and no clear horizontal line-by-line scanning or large task-driven shifts; this stable central fixation pattern is most consistent with passively watching a video rather than reading, coding, searching, or game play.",
+  "correct": false
+}

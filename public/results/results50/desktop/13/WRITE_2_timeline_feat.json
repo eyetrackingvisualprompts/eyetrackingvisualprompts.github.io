@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows extended periods with Y-fixation near the bottom of the screen (0\u20130.1) followed by a sudden shift back to mid-level, while X-fixation fluctuates more broadly. This pattern matches game-like behavior (e.g., focusing on a lower HUD/ground area then returning to center) seen in the PLAY example, rather than the more stable, systematic scanning of reading, browsing, or writing tasks.",
+  "correct": false
+}

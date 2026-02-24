@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze shifts across widely separated screen regions (including extremes and even off-screen coordinates), alternating between top text-like bands and lower content, with irregular revisits and mixed vertical/horizontal navigation, match the heterogeneous, exploratory scanpaths seen in the BROWSE examples rather than the more structured, localized patterns of coding, reading, or watching tasks.",
+  "correct": true
+}

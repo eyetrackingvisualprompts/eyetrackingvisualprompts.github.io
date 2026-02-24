@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide screen regions (center to top, to bottom corners, and far periphery) with short to moderate fixations, resembling dynamic, multi-directional tracking of moving targets typical in gameplay, and unlike the more line-structured (READ/WRITE) or vertically constrained (SEARCH/BROWSE) patterns.",
+  "correct": false
+}

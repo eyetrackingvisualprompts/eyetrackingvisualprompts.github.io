@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, continuous horizontal movement with small vertical fluctuations and occasional shifts, resembling the relatively stable yet exploratory pattern of web browsing, and differing from the stronger vertical jumps of reading/typing or the larger, more erratic shifts seen in playing or watching videos.",
+  "correct": false
+}

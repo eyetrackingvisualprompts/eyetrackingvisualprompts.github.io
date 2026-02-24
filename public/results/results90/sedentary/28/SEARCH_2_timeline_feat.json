@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium-to-large, irregular excursions in both X and Y with frequent shifts between upper and lower areas of the screen, resembling the heterogeneous, code-and-interface switching pattern seen in the DEBUG example more than the steadier or more linear patterns of reading, writing, or interpreting.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows extensive, rapid gaze shifts covering almost the entire screen with multiple dispersed clusters and long transitions between them, matching the highly dynamic, multi-directional viewing behavior typical of playing games rather than the more localized or structured patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

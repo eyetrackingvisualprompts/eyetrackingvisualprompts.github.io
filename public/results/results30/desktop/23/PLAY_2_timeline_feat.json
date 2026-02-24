@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered around mid-screen with small, regular horizontal shifts and minimal large saccades, matching the stable, line-by-line gaze pattern typical of reading text rather than the broader, more scattered movements seen in browsing, searching, watching, or playing games.",
+  "correct": false
+}

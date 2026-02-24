@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple dispersed fixation clusters at different screen regions with frequent transitions between them, indicating alternating attention between results, snippets, and other interface elements, which best matches the exploratory and multi-area viewing behavior of the SEARCH task rather than the more linear (READ), localized (WRITE), or highly dynamic (PLAY/WATCH) patterns.",
+  "correct": false
+}

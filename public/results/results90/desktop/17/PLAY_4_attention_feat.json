@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread around the central-lower region with multiple clusters and vertical shifts, resembling the pattern of scanning search results (similar dispersion and position as the SEARCH example) rather than the more linear READ or localized WRITE/PLAY/ WATCH patterns.",
+  "correct": false
+}

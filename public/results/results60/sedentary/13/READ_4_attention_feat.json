@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed vertically over the central area with some horizontal shifts, resembling scrolling and scanning behavior seen in the BROWSE example rather than the more horizontally constrained READ or centrally clustered WATCH patterns.",
+  "correct": false
+}

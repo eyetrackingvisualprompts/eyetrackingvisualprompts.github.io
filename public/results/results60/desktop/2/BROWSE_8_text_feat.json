@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent transitions across wide screen regions (including extremes in both x and y), with irregular, multi-directional saccades and relatively short fixations, matching the exploratory, target-tracking behavior seen in the PLAY examples rather than the more constrained, line- or region-bound patterns of READ, WRITE, or BROWSE/SEARCH, or the longer, more localized fixations of WATCH.",
+  "correct": false
+}

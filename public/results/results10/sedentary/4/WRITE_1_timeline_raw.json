@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The data shows mostly stable horizontal gaze with occasional large, brief vertical saccades and minor repositioning\u2014matching the INTERPRET example where participants read short code and periodically shift gaze to another area (e.g., predicted output/IDE) rather than the more continuous scanning or wide movements seen in other tasks.",
+  "correct": false
+}

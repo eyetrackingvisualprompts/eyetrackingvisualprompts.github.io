@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades to screen extremes and even off-screen coordinates, with scattered fixations over wide vertical range and no orderly line-by-line pattern, resemble exploratory scrolling and page navigation seen in BROWSE rather than the more structured, code- or text-line\u2013oriented patterns of READ/WRITE/DEBUG/INTERPRET or the central/object-focused patterns of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

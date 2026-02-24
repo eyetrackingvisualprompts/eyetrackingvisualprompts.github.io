@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster over a left-central region like reading content, but with several additional distinct hotspots in the upper-right and mid-screen suggesting navigation elements or separate items, matching the more scattered, multi-region pattern typical of free web browsing rather than focused code or continuous video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple dispersed regions of focus with long cross-screen saccades and revisits, resembling the mixed attention between results list, snippets, and opened pages typical for search, and matching best with the SEARCH example pattern compared to the other coding- or reading-centric tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally near the top (likely menu/toolbar or headline area) and also concentrated on the right side and lower-right (scroll area or sidebar), resembling the distributed, navigation-oriented pattern seen in the BROWSE example rather than the more localized clusters of coding, reading, or watching tasks.",
+  "correct": false
+}

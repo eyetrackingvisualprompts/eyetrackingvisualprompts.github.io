@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain in a narrow horizontal band with minimal vertical transitions and few long saccades, indicating sustained attention to a relatively static central region of the screen, which best matches watching a video rather than text-based or code-centric tasks that show more systematic scanning or line-by-line vertical movements.",
+  "correct": false
+}

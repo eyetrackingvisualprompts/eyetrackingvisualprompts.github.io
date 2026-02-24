@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a narrow left-side vertical band with repeated fixations between two nearby code-like regions (top and mid screen), suggesting focused editing/typing in an IDE rather than broader reading, browsing, or dynamic tracking associated with other tasks.",
+  "correct": true
+}

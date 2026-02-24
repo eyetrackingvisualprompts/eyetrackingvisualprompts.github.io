@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band with small, smooth shifts and very limited vertical movement, resembling fixation around a text-editing area and cursor, which matches the WRITE pattern more than the larger, more varied movements seen in browse/search/watch/play/read examples.",
+  "correct": false
+}

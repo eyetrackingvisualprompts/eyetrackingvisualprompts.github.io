@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts across a relatively wide vertical range with irregular, non-linear patterns rather than structured horizontal lines typical of reading/browsing or the more localized clusters seen in coding tasks. This pattern is consistent with visually tracking moving objects or game elements during gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show structured horizontal clusters with small vertical shifts, consistent with line-by-line reading patterns rather than large scene shifts (WATCH/PLAY) or denser code/IDE regions (DEBUG/WRITE/INTERPRET). The movements are mostly within constrained bands, suggesting systematic scanning of text blocks as in a reading task.",
+  "correct": false
+}

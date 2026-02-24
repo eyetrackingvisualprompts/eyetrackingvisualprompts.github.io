@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form clustered, horizontally oriented patterns with relatively small vertical shifts, consistent with line-by-line reading behavior rather than the larger, more scattered movements typical of search, browsing, coding, or gameplay. The data shows sustained focus in a central text-like region with occasional larger jumps resembling line transitions or brief off-text glances, which aligns best with the READ activity.",
+  "correct": false
+}

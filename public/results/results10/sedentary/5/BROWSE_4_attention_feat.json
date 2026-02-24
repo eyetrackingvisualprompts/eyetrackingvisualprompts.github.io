@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are spread over multiple vertically separated code regions with repeated returns to several areas, similar to the DEBUG example where users scan and rescan different parts of the code rather than concentrating on a single block (WRITE/INTERPRET) or following line-by-line text (READ).",
+  "correct": false
+}

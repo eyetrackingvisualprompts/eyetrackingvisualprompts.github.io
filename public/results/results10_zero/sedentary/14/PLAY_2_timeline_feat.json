@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay within a narrow vertical band around mid\u2011screen with relatively small horizontal shifts and no systematic left\u2011right scanning or line breaks. This stable, central focus with modest saccades is most consistent with watching a fullscreen video rather than reading, coding, browsing, or game play, which typically show larger, more structured or more erratic exploration patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (top/bottom, left/right, near screen edges), many revisits to disparate areas, and irregular scanning without a clear line-by-line or code-structured pattern resemble exploratory web navigation more than focused tasks like reading, coding, or watching a fixed video area.",
+  "correct": true
+}

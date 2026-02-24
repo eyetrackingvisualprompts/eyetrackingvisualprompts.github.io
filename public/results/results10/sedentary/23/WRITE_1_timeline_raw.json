@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mostly left-to-right horizontal reading with occasional short downward shifts, plus several sharp vertical saccades likely corresponding to glances at search results or query box, matching the SEARCH pattern more than the steadier READ or more scattered BROWSE traces.",
+  "correct": false
+}

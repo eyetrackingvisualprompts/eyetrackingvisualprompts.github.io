@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays in a central horizontal band with short-to-moderate fixations (200\u2013700 ms) and small progressive saccades, occasionally making a larger vertical jump (e.g., to y\u22480.76) resembling line or section transitions. This spatial-temporal pattern closely matches the provided READ example and is less dispersed or extreme in position than SEARCH/PLAY or WATCH, and less top-left anchored than WRITE.",
+  "correct": false
+}

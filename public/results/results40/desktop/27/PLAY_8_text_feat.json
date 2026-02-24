@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across wide screen regions (including edges and corners), with revisits to HUD-like upper areas and irregular, non-linear scan paths match the exploratory, multi-directional viewing behavior typical of gameplay rather than the more structured and horizontally constrained patterns of reading, writing, search, or browsing, or the long central fixations of passive video watching.",
+  "correct": true
+}

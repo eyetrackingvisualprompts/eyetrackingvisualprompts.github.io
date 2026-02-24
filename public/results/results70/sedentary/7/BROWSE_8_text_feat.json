@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shifts rapidly and repeatedly across large screen areas including extreme edges and off-screen coordinates, with many diagonal saccades between dispersed regions and little sustained line- or code-like reading. This broad, dynamic scan pattern with frequent returns to central action regions matches the PLAY examples more than the structured, line-based patterns of READ/WRITE/DEBUG/INTERPRET or the more vertically oriented BROWSE/SEARCH, and is less passive than WATCH.",
+  "correct": false
+}

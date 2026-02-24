@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent long-range saccades between a focused central code-like region (~x=250\u2013650) and far-right/top locations (~x=1600+), with many revisits and local inspections around horizontal code lines, closely matches the DEBUG examples\u2019 back\u2011and\u2011forth between code, error/output areas, and UI elements rather than the more linear patterns of READ/WRITE or broader scanning of SEARCH/BROWSE.",
+  "correct": false
+}

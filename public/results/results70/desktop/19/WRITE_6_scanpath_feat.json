@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in two main horizontal bands near the lower half of the screen, with limited vertical range and some movement between bands, matching typical eye movements between text lines and the writing area in a word processor rather than the broader exploration seen in PLAY, SEARCH, BROWSE, or WATCH.",
+  "correct": true
+}

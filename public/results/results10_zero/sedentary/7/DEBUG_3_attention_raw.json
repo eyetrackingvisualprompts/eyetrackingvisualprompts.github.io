@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a few compact clusters near the left-bottom, center-right, and top-right with large empty areas elsewhere, suggesting attention to changing visual elements in a video rather than systematic line-by-line reading or code inspection patterns seen in tasks like READ, WRITE, DEBUG, or INTERPRET.",
+  "correct": false
+}

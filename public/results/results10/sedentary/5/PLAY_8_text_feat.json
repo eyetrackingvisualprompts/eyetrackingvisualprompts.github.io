@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including big vertical and diagonal jumps), with relatively short fixations and repeated returns to central areas, match the dynamic object-tracking and scanning behavior seen in the PLAY examples more than the more line-structured or locally clustered patterns of reading, coding, or browsing tasks.",
+  "correct": true
+}

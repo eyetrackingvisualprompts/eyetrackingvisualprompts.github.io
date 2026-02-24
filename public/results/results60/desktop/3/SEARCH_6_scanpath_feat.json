@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, horizontally elongated cluster with short progressive and regressive saccades, matching the stable line-by-line pattern typical of reading rather than the broader or multi-cluster exploration seen in search, browse, or play activities.",
+  "correct": false
+}

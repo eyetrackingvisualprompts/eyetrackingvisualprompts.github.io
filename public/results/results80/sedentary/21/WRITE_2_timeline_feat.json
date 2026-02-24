@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains in a relatively narrow horizontal band with modest, localized saccades and few large excursions, indicating concentrated inspection of a small code snippet rather than extensive navigation or line-by-line reading; this pattern best matches the INTERPRET example.",
+  "correct": false
+}

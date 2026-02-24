@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces show slow, monotonic upward trends with periodic small regressions, resembling line-by-line scanning of static text. Saccades are moderate in amplitude and mostly vertical/horizontal without large abrupt shifts typical of PLAY or WATCH, and the gaze is more structured than in BROWSE or SEARCH, matching the READ pattern best.",
+  "correct": true
+}

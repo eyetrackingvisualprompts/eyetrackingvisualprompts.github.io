@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long fixations around a central horizontal band with repeated returns to similar x-positions, interspersed with large vertical and horizontal saccades between left and right regions, match the pattern of scanning search results and snippets rather than the more line-structured READ pattern or the localized code-centric patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

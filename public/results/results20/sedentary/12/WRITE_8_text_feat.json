@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered around a horizontal band consistent with a single code pane, with many short saccades and medium-length fixations reflecting line-by-line inspection and re-checking. Occasional large jumps to far-right coordinates suggest quick glances to interface elements (e.g., output/console) before returning to the code area, a pattern that matches the DEBUG examples more than other tasks.",
+  "correct": false
+}

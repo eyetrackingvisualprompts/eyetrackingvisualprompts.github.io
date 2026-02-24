@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered on the upper-left coding area with a few looks to a lower region (likely console or helper panel), matching the WRITE example pattern more than other tasks.",
+  "correct": false
+}

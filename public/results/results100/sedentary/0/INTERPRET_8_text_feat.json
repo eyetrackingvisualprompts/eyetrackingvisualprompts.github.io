@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a compact code-like region with many medium-length fixations and short local saccades, frequent revisits to nearly identical coordinates (line/column positions), and occasional large off-screen jumps then returns\u2014all characteristic of code comprehension rather than broad navigation (BROWSE/SEARCH), continuous narrative scanning (READ/WATCH), or wide dynamic tracking (PLAY). Among coding tasks, the pattern matches interpretive rereading more than the more dispersed, error-hunting exploration typical of DEBUG or the more top\u2013down-to-bottom progression of WRITE.",
+  "correct": true
+}

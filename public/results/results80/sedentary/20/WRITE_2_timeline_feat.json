@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows varied horizontal and vertical movements with frequent shifts between different screen regions and no strict line-by-line pattern, resembling the exploratory, multi-area viewing seen in the SEARCH example rather than the more constrained patterns of reading, coding, or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal, regular left-to-right scanning with small vertical shifts and periodic saccades, closely matching the structured line-by-line pattern seen in the READ example and unlike the more scattered or dynamic patterns of PLAY, SEARCH, WATCH, WRITE, or BROWSE.",
+  "correct": true
+}

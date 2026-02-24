@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows long, oblique saccades spanning a wide horizontal range with substantial vertical shifts and irregular, non-repetitive patterns, consistent with dynamic game interaction rather than the more structured, line-based patterns of reading, writing, or typical web browsing/searching, or the more localized fixations often seen during video watching.",
+  "correct": false
+}

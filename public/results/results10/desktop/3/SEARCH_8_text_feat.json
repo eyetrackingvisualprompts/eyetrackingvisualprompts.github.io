@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between a central horizontal band (~0.58\u20130.62 y) and higher positions (~0.72\u20130.83 y) with medium-length fixations and moderate saccades, resembling scanning between article text and upper/lower regions as in the BROWSE example, rather than the more strictly line-bound horizontal movements of READ or the localized patterns of WRITE/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large vertical saccades between mid/upper and lower screen regions, frequent jumps to high y-coordinates (near bottom), and long scrolling-like transitions resemble webpage navigation more than focused code reading/debugging or object-following in games.",
+  "correct": true
+}

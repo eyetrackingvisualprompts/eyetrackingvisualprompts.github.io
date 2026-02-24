@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Wide spatial gaze shifts across large screen regions, long sustained fixations, and repeated returns to salient areas without structured line-by-line or code-like scanning match the free-viewing patterns seen in the WATCH examples rather than the more systematic, text- or code-oriented patterns of READ/WRITE/DEBUG/INTERPRET or the highly erratic navigation of SEARCH/BROWSE/PLAY.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including towards screen edges/corners) with many revisits to a central action area, frequent vertical excursions, and irregular, non-line-based scanpaths match the dynamic, object-following patterns seen in the PLAY examples rather than the more structured, line- or block-based patterns of reading, coding, or debugging tasks.",
+  "correct": true
+}

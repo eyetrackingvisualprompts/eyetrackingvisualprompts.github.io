@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, relatively central fixations with frequent but not highly structured saccades in both axes, lacking the systematic horizontal scanlines of reading or writing and the extreme directional shifts of play or watch; this pattern best matches the exploratory, mixed scrolling and scanning behavior seen in browsing examples.",
+  "correct": false
+}

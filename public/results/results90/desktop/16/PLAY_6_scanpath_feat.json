@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered near the central area with moderate dispersion and multidirectional saccades, resembling the example SEARCH pattern more than the more horizontally-structured READ/WRITE or the broader PLAY/BROWSE/WATCH distributions.",
+  "correct": false
+}

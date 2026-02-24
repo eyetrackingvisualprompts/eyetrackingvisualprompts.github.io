@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze repeatedly oscillates between a lower-central region (~y=0.2\u20130.3, likely HUD or character area) and mid-screen (~y=0.4\u20130.6) with many medium-length saccades and brief fixations, plus occasional jumps toward upper/side areas, indicating continuous visuomotor tracking typical of game play rather than the more line-structured scanning of reading/browsing or the longer static fixations of watching video.",
+  "correct": false
+}

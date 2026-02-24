@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, frequent saccades spanning a broad vertical range with rapid shifts and revisits, resembling the dynamic, multi-directional scanpath pattern seen in the PLAY example rather than the more clustered (WRITE), linear (READ), or moderately dispersed (BROWSE/SEARCH) patterns.",
+  "correct": false
+}

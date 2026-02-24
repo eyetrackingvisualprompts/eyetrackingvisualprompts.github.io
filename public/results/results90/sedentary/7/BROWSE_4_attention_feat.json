@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across the upper-left to mid screen with multiple distinct clusters and some vertical scanning, resembling looking between search box, results list, and snippets rather than the more constrained code-focused or central patterns of other tasks.",
+  "correct": false
+}

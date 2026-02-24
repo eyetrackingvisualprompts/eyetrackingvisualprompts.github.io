@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are dispersed across the entire screen with large, frequent saccades in multiple directions and several spatially separated fixation clusters, matching the exploratory, full-screen scanning behavior typical of playing games rather than the more localized patterns seen in reading, writing, searching, or browsing.",
+  "correct": true
+}

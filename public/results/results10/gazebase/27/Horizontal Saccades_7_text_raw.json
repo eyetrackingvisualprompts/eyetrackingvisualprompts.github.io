@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze coordinates oscillate predominantly along the horizontal axis around \u00b115 deg with minimal vertical change, and show repeated long left\u2013right sweeps with brief fixation-like plateaus, matching the structured horizontal target tracking pattern of the Horizontal Saccades class rather than the more irregular or multi-directional patterns of the other activities.",
+  "correct": true
+}

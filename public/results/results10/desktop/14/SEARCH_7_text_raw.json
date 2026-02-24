@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly confined to a mid-screen band with many short fixations and small vertical shifts, including occasional jumps to slightly higher/lower regions and back, matching the mixed scanning-and-reading pattern seen in the BROWSE example more than the more regular horizontal bands of READ or the more dispersed, dynamic movements of PLAY or WATCH.",
+  "correct": false
+}

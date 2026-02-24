@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like area with many short saccades and medium/long fixations, frequent regressions within the same region, and no large jumps across screen or lines typical of reading or browsing. The pattern closely matches INTERPRET examples where participants repeatedly inspect and re\u2011inspect a small snippet to reason about program behavior, rather than scanning broadly as in SEARCH/BROWSE or following motion as in WATCH/PLAY.",
+  "correct": true
+}

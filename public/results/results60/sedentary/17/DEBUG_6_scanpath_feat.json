@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in two vertical regions: an upper-left column and a middle-left block, with frequent vertical transitions between them, consistent with scanning search results and then reading a selected snippet, matching the SEARCH example more than other tasks.",
+  "correct": false
+}

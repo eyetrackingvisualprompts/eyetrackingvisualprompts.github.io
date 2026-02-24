@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a relatively small code-like region with many short, local saccades back and forth among neighboring coordinates, reflecting detailed inspection and re\u2011inspection typical of reasoning through a code snippet\u2019s behavior rather than scanning widely (SEARCH/BROWSE) or following moving objects (PLAY/WATCH).",
+  "correct": false
+}

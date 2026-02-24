@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze is constrained to a low vertical band with predominantly horizontal movements and short regressions, matching the line-by-line scanning pattern of reading rather than the broader, multi-directional exploration seen in browsing, searching, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around the central-upper region with moderate dispersion and frequent shifts among nearby areas, resembling the SEARCH example more than the narrower, line-like READ pattern or the more widely scattered BROWSE/PLAY/WATCH patterns.",
+  "correct": false
+}

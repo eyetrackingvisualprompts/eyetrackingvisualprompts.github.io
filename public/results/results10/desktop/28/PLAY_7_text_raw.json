@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points show frequent medium-amplitude shifts between mid-screen and lower/upper areas, with many short fixations and revisits to a few horizontal bands\u2014resembling scanning across segments, brief vertical transitions, and intermittent jumps typical of web page browsing rather than the more structured, line-wise patterns of reading or the large erratic shifts of gameplay.",
+  "correct": false
+}

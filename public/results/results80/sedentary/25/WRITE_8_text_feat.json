@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many horizontal scans around a few text-like bands, interleaved with rapid large-amplitude saccades to far-off regions (including off-center extremes), plus occasional jumps to very high/low y-positions and back, match the heterogeneous, scrolling and tab-switching behavior seen in BROWSE examples rather than the more structured, line-by-line patterns of READ or focused code-centric patterns of programming tasks.",
+  "correct": false
+}

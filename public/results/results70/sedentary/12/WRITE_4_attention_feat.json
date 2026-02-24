@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a compact region on the left-center of the screen with minimal spread elsewhere, matching the focused, localized viewing pattern seen in the INTERPRET example heatmap of inspecting a short code snippet.",
+  "correct": false
+}

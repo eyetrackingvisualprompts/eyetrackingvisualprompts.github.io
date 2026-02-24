@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large vertical saccades between central and upper screen regions, interleaved with moderate-length fixations, match the pattern of scanning results and moving between query box and result list typical of the SEARCH task rather than the more line-structured READ or top-focused WRITE behaviors.",
+  "correct": false
+}

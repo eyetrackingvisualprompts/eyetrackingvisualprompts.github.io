@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows repeated returns to a few nearby code-like regions (clusters around mid-to-upper screen coordinates) with relatively long fixations and medium-length saccades between them, consistent with systematically re-checking and comparing parts of a function\u2014typical of debugging\u2014rather than the more linear scan of reading/searching or the broader, more dynamic movements of watching videos or playing games.",
+  "correct": false
+}

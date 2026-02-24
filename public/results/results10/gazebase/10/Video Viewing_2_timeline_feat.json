@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete jumps with both horizontal and vertical components across a wide area, with roughly 1-second dwells at each position, matching the random target jumps in the Random Saccades task rather than the more structured patterns of reading, horizontal-only motion, or the more central, smooth patterns of video viewing or gaming.",
+  "correct": false
+}

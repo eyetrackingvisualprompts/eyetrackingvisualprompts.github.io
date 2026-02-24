@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a compact region near the top-center with small jitter, consistent with following content in a video; there is one large excursion likely due to a salient event or distraction, unlike the systematic horizontal/vertical scan patterns typical of reading, coding, or web search/browsing.",
+  "correct": false
+}

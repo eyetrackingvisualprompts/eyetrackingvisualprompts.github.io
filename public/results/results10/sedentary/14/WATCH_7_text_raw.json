@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze data shows dense clusters and revisits around a few vertical regions (likely search bar, results list, side areas) with frequent medium-range saccades and occasional large jumps to different screen zones, closely matching the SEARCH example\u2019s mixed pattern of localized inspection and broader navigation rather than the more uniform line-by-line READ pattern or the focused code regions in WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

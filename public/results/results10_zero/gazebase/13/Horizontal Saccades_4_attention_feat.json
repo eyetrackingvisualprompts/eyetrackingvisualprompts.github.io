@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations cluster in three horizontally aligned locations at similar vertical level and near symmetric horizontal spacing, matching a target stepping horizontally between fixed positions rather than random or content-driven viewing.",
+  "correct": true
+}

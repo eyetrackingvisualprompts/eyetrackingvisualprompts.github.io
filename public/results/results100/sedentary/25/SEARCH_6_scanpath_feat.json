@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed across multiple horizontal bands with frequent shifts between upper and middle regions and occasional moves to the right side, consistent with scanning search results and occasionally inspecting a specific result page, matching the SEARCH pattern more than the other activities.",
+  "correct": true
+}

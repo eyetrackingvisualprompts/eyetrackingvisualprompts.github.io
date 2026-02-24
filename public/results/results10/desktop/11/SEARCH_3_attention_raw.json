@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated slightly left of center with some vertical spread, closely matching the SEARCH example heatmap pattern more than the other activities, which show different spatial distributions (e.g., horizontal scanning for READ, far upper area for WATCH, far left for WRITE/PLAY).",
+  "correct": true
+}

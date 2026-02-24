@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, cyclic horizontal sweeps in X with small, slowly increasing Y steps, characteristic of line-by-line reading rather than the larger, irregular movements seen in search, browsing, or coding tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central area with moderate vertical spread and limited horizontal range, resembling the BROWSE exemplar where gaze focuses on a central content block rather than extended horizontal scanning seen in READ or more dispersed patterns in SEARCH/WATCH/PLAY/WRITE.",
+  "correct": false
+}

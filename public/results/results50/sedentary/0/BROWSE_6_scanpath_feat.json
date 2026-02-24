@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple regions including central content and far corners, with frequent long saccades across the page and scattered fixations, resembling movement between search results, query box, and answer areas, which matches the SEARCH pattern more than the more localized or systematic patterns of other tasks.",
+  "correct": false
+}

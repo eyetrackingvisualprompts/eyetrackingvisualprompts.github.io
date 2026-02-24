@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The target plot shows relatively constrained gaze around a narrow vertical band with modest, systematic horizontal movements and occasional small saccades, closely matching the DEBUG example\u2019s dense, localized inspection of code rather than the broader scanning of BROWSE/SEARCH or the more linear patterns of READ/WRITE/INTERPRET.",
+  "correct": false
+}

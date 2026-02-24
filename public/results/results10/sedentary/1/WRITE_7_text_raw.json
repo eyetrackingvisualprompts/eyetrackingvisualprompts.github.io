@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points progress in relatively small, clustered horizontal movements around similar y-values with occasional vertical shifts, consistent with line-by-line text reading rather than large dynamic movements typical of games, videos, or web browsing layouts.",
+  "correct": false
+}

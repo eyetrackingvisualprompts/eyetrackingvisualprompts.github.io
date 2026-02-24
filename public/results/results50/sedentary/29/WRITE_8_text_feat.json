@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades to screen edges and off-screen coordinates, vertical transitions suggesting scrolling, and irregular, non-linear inspection of dispersed areas match the exploratory, wide-range patterns seen in BROWSE rather than the more localized, line- or code-structured patterns of READ/WRITE/DEBUG/INTERPRET or the smoother, central focus of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

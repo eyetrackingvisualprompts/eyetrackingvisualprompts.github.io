@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "X fixation drifts steadily in one direction with small regressions while Y fixation stays almost constant, matching the horizontal line-by-line reading pattern seen in the READ example and unlike the more varied vertical movements in coding, browsing, or playing tasks.",
+  "correct": true
+}

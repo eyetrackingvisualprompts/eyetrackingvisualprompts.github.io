@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left\u2011center code area with repeated vertical and small horizontal movements, plus occasional shifts to a lower region (likely console/output) and brief top-area checks\u2014matching iterative code inspection and testing typical of debugging rather than the more localized interpret task or broader exploration of browsing/searching.",
+  "correct": false
+}

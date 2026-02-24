@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large vertical and horizontal saccades between widely separated regions (top, middle, bottom of page and even off-screen coordinates), interleaved with medium fixations on mid-screen text-like areas, closely resemble the heterogeneous scan-and-evaluate pattern seen in the SEARCH examples rather than the more line-structured READ pattern or the more localized code-focused tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the upper-left region consistent with reading search results, with frequent vertical and horizontal saccades and occasional long jumps to the right and lower areas, matching the example SEARCH pattern more than the other activities.",
+  "correct": false
+}

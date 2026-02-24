@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band with relatively few large saccades and moderate vertical shifts, matching the stable, code-focused pattern of WRITE rather than the more scanning-heavy or dynamic patterns of SEARCH, DEBUG, or PLAY.",
+  "correct": false
+}

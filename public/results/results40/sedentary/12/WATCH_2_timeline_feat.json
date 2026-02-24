@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-range horizontal movements with frequent but not highly erratic saccades and moderate vertical shifts, indicating scanning across different regions rather than line-by-line reading or intense code focus. This pattern best matches the varied, exploratory viewing behavior seen in the BROWSE example plot.",
+  "correct": false
+}

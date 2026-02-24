@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around code-like regions (mid-left), with many medium-length fixations, frequent re-visits to the same clusters, and repeated transitions between top, middle, and bottom code areas, including long pauses that suggest thinking about errors and changes rather than linear reading. The spatial-temporal pattern and back-and-forth between distinct code zones closely resemble the DEBUG examples more than the other tasks.",
+  "correct": true
+}

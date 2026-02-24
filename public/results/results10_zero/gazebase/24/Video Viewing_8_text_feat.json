@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The gaze shifts show predominantly left\u2013right movement with small vertical steps and clusters of nearby fixations, consistent with scanning lines of text during reading rather than large, regular horizontal sweeps, central fixation, random multi-directional jumps, or game/video-style exploratory viewing.",
+  "correct": false
+}

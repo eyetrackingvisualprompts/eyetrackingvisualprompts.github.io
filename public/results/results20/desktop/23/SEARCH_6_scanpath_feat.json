@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows two main spatial clusters (center-bottom and upper-right) connected by long saccades, with frequent large transitions across the screen rather than confined reading or browsing regions. This pattern matches the dynamic, wide-ranging gaze movements typical of playing a game.",
+  "correct": false
+}

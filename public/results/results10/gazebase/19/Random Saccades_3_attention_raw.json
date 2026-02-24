@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple discrete fixation clusters scattered widely across both horizontal and vertical extents of the screen, with roughly similar density at each location and no structured horizontal band (reading) or central concentration (fixation/video). This sparse, dispersed pattern best matches the Random Saccades example, where the gaze follows a target jumping to many random positions held for about one second each.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze moves primarily along the horizontal axis between about -15\u00b0 and +13\u00b0 with relatively small vertical variation, showing large, regular horizontal shifts and intervening stable clusters consistent with following a horizontally moving target rather than the more scattered patterns of random saccades or the localized progression typical of reading or fixations.",
+  "correct": false
+}

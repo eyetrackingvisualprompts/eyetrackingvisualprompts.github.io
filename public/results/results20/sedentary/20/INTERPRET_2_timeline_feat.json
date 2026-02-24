@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "X fixation remains in a narrow horizontal band while Y fixation slowly drifts upward with occasional short regressions, resembling a mostly line-by-line scan of short code with periodic re-checks rather than extensive navigation (SEARCH/BROWSE), large vertical shifts (READ/WATCH), intense localized focus (WRITE/DEBUG), or rapid dispersed tracking (PLAY). This pattern best matches INTERPRET.",
+  "correct": true
+}

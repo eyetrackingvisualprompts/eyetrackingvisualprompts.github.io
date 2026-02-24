@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a small region with short horizontal movements and minimal vertical shifts, indicating focused inspection of a compact code snippet rather than wide reading, browsing, or dynamic tracking. This localized, sustained attention matches the INTERPRET task pattern.",
+  "correct": false
+}

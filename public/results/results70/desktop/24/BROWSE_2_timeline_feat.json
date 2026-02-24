@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Both X and Y fixations cluster around mid-screen but with frequent, irregular shifts and wider vertical range than READ, resembling the mixed scanning and result-inspection pattern of SEARCH rather than the more linear, structured movements of READ or WRITE.",
+  "correct": false
+}

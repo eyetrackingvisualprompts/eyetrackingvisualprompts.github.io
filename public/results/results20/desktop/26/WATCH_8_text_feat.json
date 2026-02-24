@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is predominantly in the upper screen region around (x\u22480.2\u20130.5, y\u22480.6\u20131.1) with clusters of relatively long fixations and small local saccades, plus occasional medium jumps between nearby regions\u2014this pattern closely matches the WRITE example, where the user\u2019s focus oscillates around the text cursor and nearby lines, rather than the more horizontal scanlines of READ or the more dispersed movements of BROWSE/SEARCH or the large dynamic shifts of PLAY/WATCH.",
+  "correct": false
+}

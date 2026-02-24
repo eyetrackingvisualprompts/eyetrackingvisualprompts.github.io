@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze positions cluster along a mostly horizontal band near the screen center with back-and-forth jumps between a few lateral positions and minimal vertical variation, matching the pattern of following a horizontally moving target rather than the more dispersed or vertical movements expected in reading, random saccades, video viewing, or gaming.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows highly regular, line-like horizontal scanpaths with small regressions and smooth downward shifts through multiple vertical bands, characteristic of reading text lines, and closely matches spatial-temporal patterns in the provided READ examples rather than the more scattered or object-focused patterns in other activities.",
+  "correct": true
+}

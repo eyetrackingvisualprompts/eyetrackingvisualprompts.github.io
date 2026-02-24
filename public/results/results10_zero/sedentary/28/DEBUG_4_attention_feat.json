@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a few compact regions on the left and upper-center of the screen, consistent with focusing on a short code snippet or small text block rather than scanning long passages (READ/BROWSE) or following motion (WATCH/PLAY). This focused, localized viewing aligns best with interpreting a small piece of code.",
+  "correct": false
+}

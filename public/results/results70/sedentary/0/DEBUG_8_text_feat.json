@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around code-like regions (mid-screen vertical band), with frequent short saccades and many long fixations, plus repeated returns between similar coordinates indicative of re-checking and verification behavior. There is limited wide-range exploration (unlike BROWSE/SEARCH) and no clear line-by-line reading sweep (unlike READ), matching the more localized, iterative inspection pattern typical of debugging tasks.",
+  "correct": true
+}

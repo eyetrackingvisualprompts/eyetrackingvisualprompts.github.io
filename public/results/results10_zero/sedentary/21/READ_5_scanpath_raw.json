@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades between two distinct vertical regions and irregular, non-linear gaze movements typical of tracking dynamic game elements rather than the more systematic horizontal/vertical reading or code-inspection patterns seen in READ, WRITE, DEBUG, or INTERPRET tasks, nor the more centrally focused, smoother patterns expected in WATCH; this behavior best matches interactive PLAY activity, such as following moving objects on the screen.",
+  "correct": false
+}

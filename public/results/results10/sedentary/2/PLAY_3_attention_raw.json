@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated around the screen center with several vertically distributed hotspots, indicating tracking of moving game elements rather than line-based reading or code-focused tasks, matching the PLAY pattern.",
+  "correct": true
+}

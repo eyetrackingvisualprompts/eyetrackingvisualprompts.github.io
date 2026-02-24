@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are concentrated around the left-central area where code would be, with additional scattered looks above and below similar to the DEBUG example, indicating focused inspection of multiple code regions rather than the more compact cluster seen in INTERPRET or WRITE.",
+  "correct": false
+}

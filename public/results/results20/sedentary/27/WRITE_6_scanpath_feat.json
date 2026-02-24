@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in the upper-left region (typical of search result lists) with vertical movements between rows and occasional horizontal shift to the right, matching scan patterns seen in the SEARCH example more than the other tasks.",
+  "correct": false
+}

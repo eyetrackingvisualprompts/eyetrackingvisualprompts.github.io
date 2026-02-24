@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, abrupt jumps in both horizontal (x from about -12\u00b0 to +15\u00b0) and vertical (y from about -9\u00b0 to +5\u00b0) directions, followed by relatively stable clusters indicative of brief fixations at each location. Movements are not constrained to a single horizontal line, ruling out Horizontal Saccades, and the pattern is more structured and step-like than the smoother, varied scanpaths expected in Reading or Video Viewing. The repeated, sizeable 2D position changes with plateau-like holds best match the Random Saccades task where a target jumps to random screen positions and is held for one second each.",
+  "correct": false
+}

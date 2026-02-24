@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades across large screen regions (including off-screen), alternating between disparate vertical levels (top bars, mid content, bottom), and irregular revisits to scattered areas resemble exploratory web navigation rather than structured code reading/writing or line-by-line text reading. The pattern matches the heterogeneous, wide-ranging gaze behavior seen in the BROWSE examples.",
+  "correct": false
+}

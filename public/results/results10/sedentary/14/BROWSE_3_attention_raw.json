@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is dispersed across the screen with multiple clusters in both central and peripheral regions, indicating frequent shifts and tracking of moving elements rather than line-by-line reading or focused code inspection, which best matches the dynamic visual behavior during gameplay.",
+  "correct": false
+}

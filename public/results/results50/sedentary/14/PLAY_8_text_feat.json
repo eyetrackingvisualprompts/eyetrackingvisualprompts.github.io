@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including off-screen coordinates), mixed with shorter local adjustments, and many revisits between dispersed areas match dynamic visual tracking typical of gameplay rather than the more line- or block-structured patterns seen in reading, coding, or standard web search/browsing.",
+  "correct": true
+}

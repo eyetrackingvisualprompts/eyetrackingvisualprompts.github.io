@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between mid/lower and upper screen regions with varied saccade amplitudes and moderate fixations, lacking the tight vertical band of WRITE, the stable reading-line pattern of READ, or the sustained upper-screen focus of SEARCH. The irregular, exploratory scanning across different vertical levels best matches BROWSE behavior on heterogeneous web pages.",
+  "correct": false
+}

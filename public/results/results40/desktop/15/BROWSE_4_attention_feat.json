@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central region with some vertical spread, resembling viewing a news or blog page with main content in the middle, similar to the BROWSE example heatmap and unlike the more horizontal patterns of READ/WRITE or the dispersed patterns of WATCH/PLAY.",
+  "correct": true
+}

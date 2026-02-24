@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions remain very stable with only small smooth drifts and brief minor excursions, indicating sustained fixation near the same screen region without systematic horizontal scanning or repeated jumps typical for reading, writing, browsing, searching, or active game play. This pattern best matches passively watching a video.",
+  "correct": false
+}

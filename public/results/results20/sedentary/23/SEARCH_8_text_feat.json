@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length fixations with many returns between upper and mid code regions, plus repeated vertical transitions suggest systematic inspection and re-inspection of code areas rather than linear reading or broad browsing, matching the debugging pattern in the examples.",
+  "correct": false
+}

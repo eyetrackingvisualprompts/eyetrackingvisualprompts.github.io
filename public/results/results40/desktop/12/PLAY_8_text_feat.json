@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts broadly across mid-lower screen with mixed horizontal and vertical saccades, moderate fixation durations, and no clear line-by-line horizontal scanning (READ) nor sustained top-area focus (WRITE). The pattern shows exploratory navigation among dispersed elements, matching the heterogeneous, nonlinear viewing behavior typical of BROWSE rather than the more stable, clustered patterns of WATCH/SEARCH or the constrained, peripheral-heavy patterns of PLAY/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show frequent multi-directional shifts with pauses at many distinct positions across both horizontal and vertical axes, consistent with following a target that jumps to random screen locations and holds for about a second, rather than the more strictly horizontal motion, static fixation, line-structured reading pattern, or game-/video-like free viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze coordinates show dense, localized horizontal movements with small vertical shifts, consistent with line-by-line reading rather than the larger scene changes of WATCH/PLAY or the more scattered patterns of SEARCH/BROWSE/CODING tasks.",
+  "correct": false
+}

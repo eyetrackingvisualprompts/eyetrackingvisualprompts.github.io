@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows large vertical sweeps between upper and lower screen regions with scattered, non-linear fixations and revisits, matching the complex, multi-area inspection typical of debugging code rather than the more localized, linear, or screen-centered patterns of the other tasks.",
+  "correct": false
+}

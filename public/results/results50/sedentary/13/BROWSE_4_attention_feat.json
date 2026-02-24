@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations form a horizontally extended band across the mid-screen with multiple local hotspots, indicating scanning across several result snippets or lines, closely matching the provided SEARCH example pattern.",
+  "correct": false
+}

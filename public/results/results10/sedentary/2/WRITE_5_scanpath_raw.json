@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple vertical regions from top to bottom with large transitions and dispersed fixations, similar to scanning a search results page and visiting links, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

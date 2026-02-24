@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered over a narrow left-side code area with occasional long saccades to the right, matching the WRITE pattern where users focus on the editor and sporadically check other UI elements or output, unlike more distributed SEARCH/BROWSE or central WATCH patterns.",
+  "correct": true
+}

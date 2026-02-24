@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Extensive large-amplitude saccades across the screen (including far off-screen coordinates), repeated returns to central horizontal bands, and frequent rapid shifts between widely separated regions match dynamic visual tracking and spatial re-orientations typical of game play rather than the more structured, line-based or code-panel-focused patterns of reading, coding (INTERPRET/DEBUG/WRITE), or web/search browsing.",
+  "correct": false
+}

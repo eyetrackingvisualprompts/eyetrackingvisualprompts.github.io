@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixations stay in the lower part of the screen with small, slow drifts and limited vertical range, matching the pattern of focusing on a single text-entry area as in the WRITE example rather than the larger vertical movements seen in reading or browsing full pages.",
+  "correct": true
+}

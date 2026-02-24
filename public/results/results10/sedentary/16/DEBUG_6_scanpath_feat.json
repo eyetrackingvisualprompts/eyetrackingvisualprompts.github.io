@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze alternates between a tight cluster in the upper-left/center region and the lower edge of the screen with long saccades, matching the pattern of switching between code editor and keyboard/console typical of the WRITE task example.",
+  "correct": false
+}

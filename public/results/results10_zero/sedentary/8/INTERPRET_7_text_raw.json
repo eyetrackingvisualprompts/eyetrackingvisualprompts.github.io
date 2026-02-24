@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze points cluster in horizontally elongated bands with relatively small vertical dispersion and frequent short regressions, consistent with line-by-line text reading rather than large exploratory movements (search/browse), dynamic object following (play/watch), or focused code/IDE regions (interpret/debug/write).",
+  "correct": false
+}

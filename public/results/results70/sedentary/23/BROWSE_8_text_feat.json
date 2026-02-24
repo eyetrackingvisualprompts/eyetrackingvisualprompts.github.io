@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and horizontal jumps across the page (including to extreme top and bottom regions), revisits to header-like coordinates, and scanning across mid-page lines resemble web browsing patterns more than the more localized, code-focused gaze of WRITE/DEBUG/INTERPRET or the smoother, row-structured patterns of READ/WATCH. The gaze repeatedly traverses wide horizontal ranges at several vertical bands, consistent with navigating and skimming a web page.",
+  "correct": true
+}

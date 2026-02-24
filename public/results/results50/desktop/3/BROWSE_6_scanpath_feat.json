@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across both horizontal and vertical axes with frequent large saccades in all directions, resembling the exploratory, omni-directional scanpath of the PLAY example more than the more clustered or line-structured patterns of SEARCH, BROWSE, READ, WATCH, or WRITE.",
+  "correct": false
+}

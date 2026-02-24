@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains in a narrow region with long, stable fixations and only small local shifts, indicating passive viewing of a central area rather than systematic scanning or horizontal text traversal typical of reading, writing, searching, or browsing. This pattern aligns best with watching video content where the main action is centrally located.",
+  "correct": false
+}

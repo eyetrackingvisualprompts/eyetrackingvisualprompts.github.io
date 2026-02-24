@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in multiple nearby regions with moderate saccades between them, indicating repeated shifts between central content and surrounding elements (e.g., results list, search box, page controls). This mixed, exploratory yet focused pattern aligns best with web search behavior rather than the more linear (READ/WRITE) or highly dynamic (PLAY/WATCH) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a central band with small horizontal shifts and medium-length fixations, forming a stable, line-like scan pattern without large excursions or vertical jumps. This closely matches the structured, horizontal reading behavior seen in the READ examples rather than the more scattered, multi-directional movements of SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

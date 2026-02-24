@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered around the horizontal center near the upper-middle of the screen with limited vertical spread and no clear line-by-line reading pattern, matching the watch-example heatmap of gaze concentrated on the main video region rather than the more dispersed or text-structured patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

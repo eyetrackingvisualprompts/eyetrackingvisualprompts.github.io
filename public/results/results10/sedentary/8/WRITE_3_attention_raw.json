@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a dominant tight fixation cluster in the upper-left coding area with a few brief shifts vertically and slightly horizontally, closely matching the INTERPRET example where participants focus on a small code snippet rather than scanning widely as in DEBUG or SEARCH.",
+  "correct": false
+}

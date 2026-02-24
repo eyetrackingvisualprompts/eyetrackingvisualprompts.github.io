@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around mid-screen with frequent short saccades and modest vertical variation, resembling the mixed, localized scanning seen in the BROWSE example rather than the more linear (READ/WRITE) or larger-range (PLAY/WATCH/SEARCH) patterns.",
+  "correct": false
+}

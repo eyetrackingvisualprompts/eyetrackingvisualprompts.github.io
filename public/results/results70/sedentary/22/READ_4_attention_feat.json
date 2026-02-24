@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a compact, band-like region in the upper-middle of the screen with dense, horizontally distributed clusters and limited vertical spread, closely matching the pattern of line-by-line text reading seen in the READ example heatmap, rather than the more dispersed or code-focused patterns of other tasks.",
+  "correct": true
+}

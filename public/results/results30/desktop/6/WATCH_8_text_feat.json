@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains around screen center with medium-length fixations and moderate, multidirectional saccades, occasionally jumping to nearby regions before returning centrally. The pattern lacks the strong line-structured horizontal sweeps of READ, the extreme peripheral jumps and large-range shifts of PLAY or WATCH, and the very top-left\u2013biased, relatively stationary behavior typical of WRITE. It best matches the exploratory yet central, moderately shifting pattern characteristic of BROWSE in the examples.",
+  "correct": false
+}

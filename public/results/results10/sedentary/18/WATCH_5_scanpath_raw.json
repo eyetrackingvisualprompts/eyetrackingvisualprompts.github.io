@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band corresponding to a code editor, with frequent local back-and-forth movements around a few lines and occasional long saccades to the bottom/right (e.g., console or run button), closely matching the WRITE example pattern of coding with intermittent checks elsewhere on the screen.",
+  "correct": false
+}

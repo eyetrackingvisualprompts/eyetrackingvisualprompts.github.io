@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (center-bottom to corners and back), with many short fixations tracking positions that shift rapidly in both axes, match dynamic object-following patterns typical of gameplay rather than the more localized, line- or block-based scanning seen in code, text, or web pages.",
+  "correct": true
+}

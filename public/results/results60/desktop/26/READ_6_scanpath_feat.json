@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a narrow horizontal band with limited vertical spread, indicating line-by-line scanning of a confined text area typical of reading rather than the broader, multi-region exploration seen in search, browse, or play tasks.",
+  "correct": true
+}

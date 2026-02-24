@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated on the upper-left and mid-left regions\u2014typical for search results and snippet scanning\u2014while sparser, scattered fixations extend across the top and some central areas, resembling the SEARCH example more than the more localized READ/WRITE/INTERPRET or the more globally distributed WATCH/PLAY patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are highly concentrated near the bottom-center of the screen with a few nearby clusters, consistent with watching a video where attention is focused on a central area (e.g., main characters or subtitles) rather than the systematic horizontal/vertical scanning seen in reading, writing, or searching/browsing text-heavy pages.",
+  "correct": false
+}

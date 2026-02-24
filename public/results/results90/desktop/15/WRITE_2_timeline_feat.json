@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze exhibits frequent small fixations and saccades clustered around mid\u2010screen with moderate variability in both X and Y, resembling the scattered, mixed navigation pattern seen in the BROWSE example rather than the more structured horizontal (READ/WRITE) or large-shift patterns (SEARCH/WATCH/PLAY).",
+  "correct": false
+}

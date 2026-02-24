@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze pattern shows broad vertical coverage with sustained fixations that shift gradually across the screen, and saccades distributed over a wide Y range, resembling the example WATCH data rather than the more horizontally constrained or text-structured patterns of READ/WRITE/BROWSE/SEARCH or the more erratic PLAY behavior.",
+  "correct": true
+}

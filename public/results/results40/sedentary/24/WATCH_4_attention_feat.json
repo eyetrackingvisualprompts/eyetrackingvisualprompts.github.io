@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The heatmap shows dispersed fixations across the entire screen, with no dominant cluster on a central object or text block, matching the varied, exploratory gaze patterns typical of general web browsing rather than focused tasks like reading, coding, or watching video.",
+  "correct": false
+}

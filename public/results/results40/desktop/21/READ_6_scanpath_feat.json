@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, horizontally oriented band with small saccades and dense fixations, indicating line-by-line scanning of a localized text block, matching the reading pattern more than the broader, more dispersed movements seen in search or browse tasks.",
+  "correct": true
+}

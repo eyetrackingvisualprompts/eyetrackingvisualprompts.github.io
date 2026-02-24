@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades show medium variability in both X and Y with frequent short shifts and no strong horizontal line-by-line reading pattern; this mixed scanning behavior over a relatively central band of the screen best matches the browsing example rather than the more structured READ or the more concentrated WRITE/WATCH patterns.",
+  "correct": false
+}

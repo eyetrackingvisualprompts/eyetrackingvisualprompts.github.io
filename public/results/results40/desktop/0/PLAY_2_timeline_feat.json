@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations remain in the lower-left region (low X and Y) typical of looking at an input area while typing, with relatively constrained vertical range and gradual horizontal drift, matching the WRITE template more than the others.",
+  "correct": false
+}

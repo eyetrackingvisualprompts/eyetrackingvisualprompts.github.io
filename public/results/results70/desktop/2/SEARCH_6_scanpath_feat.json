@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a central region with moderate vertical spread and occasional excursions, showing scattered yet locally dense fixations similar to the BROWSE example rather than the more structured patterns of READ/WRITE or the wider, more dynamic spread of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

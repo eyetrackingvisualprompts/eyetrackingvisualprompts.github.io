@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-side code/IDE area with frequent short saccades among several vertically separated clusters, plus occasional long saccades to a right-side region (likely console/output) and back\u2014matching the example DEBUG pattern of switching between code and execution results rather than the more central, fluid patterns of WATCH/PLAY or the linear patterns of READ/BROWSE.",
+  "correct": false
+}

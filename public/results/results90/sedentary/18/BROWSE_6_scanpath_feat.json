@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a compact central code area with occasional shifts to a few peripheral points, similar to INTERPRET and DEBUG, but show fewer wide exploratory sweeps typical of debugging or writing; the concentrated inspection of one snippet best matches the INTERPRET task.",
+  "correct": false
+}

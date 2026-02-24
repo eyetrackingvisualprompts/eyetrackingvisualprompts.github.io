@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is mostly confined to narrow horizontal bands in the lower part of the screen (y\u22480.14\u20130.22 and y\u22480.37\u20130.44) with repeated left\u2013right sweeps and short regressions, characteristic of line-by-line reading. There are occasional vertical transitions between these bands, consistent with moving between text lines/paragraphs, and relatively long, stable fixations, which together align best with the READ pattern rather than the more dispersed or central patterns of the other tasks.",
+  "correct": false
+}

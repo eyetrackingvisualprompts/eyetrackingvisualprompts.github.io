@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is relatively stable with modest horizontal movement and small vertical shifts, closely matching the INTERPRET example where participants inspect a short code snippet and mentally simulate it, unlike the larger vertical sweeps of READ/BROWSE or the more scattered patterns of SEARCH/WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, irregular jumps in both horizontal and vertical directions, covering multiple disparate regions of the screen without a consistent pattern or central focus. This matches the behavior of following a target that moves unpredictably across the display, characteristic of the Random Saccades task, rather than the more structured, constrained, or centrally focused patterns seen in the other activities.",
+  "correct": true
+}

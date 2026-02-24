@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Long horizontal sequences of fixations around a mid-screen row followed by a large saccade to the top-left and then along the top bar are characteristic of scanning search results and then moving to the browser/search bar area, matching the SEARCH pattern more than the other tasks.",
+  "correct": false
+}

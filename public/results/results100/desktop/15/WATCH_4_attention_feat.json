@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the vertical center and lower-middle of the screen with moderate dispersion, resembling the centralized search-results viewing pattern rather than the top-aligned WRITE layout, horizontal READ scanpath, or scattered PLAY/WATCH distributions.",
+  "correct": false
+}

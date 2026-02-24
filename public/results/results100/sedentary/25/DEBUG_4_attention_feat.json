@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a single, vertically extended code area on the left side of the screen, with little spread elsewhere. This concentrated but vertically distributed pattern closely matches the DEBUG example, where attention moves up and down through a code block to locate and fix errors, rather than the more horizontal sweep of READ or the tighter, smaller cluster of INTERPRET/WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a mostly horizontal band across mid-screen with sequential clusters and some vertical transitions, matching the reading pattern example more than the other activities, which are either more centralized, upper-screen, or widely scattered.",
+  "correct": false
+}

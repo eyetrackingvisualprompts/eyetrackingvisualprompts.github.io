@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze coordinates show frequent medium-to-large saccades across wide horizontal and vertical extents, visiting dispersed regions of the screen with no stable line-by-line reading pattern or tight clustering on a single object. This heterogeneous, exploratory scanning is more consistent with free web browsing across varied page layouts than with the more structured and localized patterns typical of reading, coding (WRITE/INTERPRET/DEBUG), focused search results inspection, or game play/watching where gaze tends to follow specific elements or regions.",
+  "correct": false
+}

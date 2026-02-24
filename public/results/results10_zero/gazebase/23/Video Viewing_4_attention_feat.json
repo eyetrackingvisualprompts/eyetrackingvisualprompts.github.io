@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "Fixations are clustered on several small, separated locations in the upper and central parts of the screen, with no clear horizontal line (horizontal saccades) or vertical scanlines (reading). The pattern suggests repeated, discrete fixations on multiple moving targets rather than sustained central fixation or broad free viewing, consistent with tracking and re-fixating on game objects in the Balura Game.",
+  "correct": false
+}

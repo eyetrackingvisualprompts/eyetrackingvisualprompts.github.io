@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid gaze shifts across wide screen areas (including corners and edges), frequent vertical transitions between distant regions, and visits to extreme coordinates with relatively brief fixations resemble dynamic tracking of game elements more than the more line-structured, localized patterns seen in reading, writing, interpreting, or debugging code, or the more center-focused stable fixations in watching videos or general browsing/searching.",
+  "correct": false
+}

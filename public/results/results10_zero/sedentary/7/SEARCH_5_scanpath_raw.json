@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts across wide screen areas with comparatively fewer localized, line-like fixations, suggesting continuous tracking and navigation behavior typical of following or guiding game elements rather than reading or code-related tasks.",
+  "correct": false
+}

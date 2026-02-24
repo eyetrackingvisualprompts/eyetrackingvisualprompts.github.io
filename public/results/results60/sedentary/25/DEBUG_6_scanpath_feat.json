@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated over the left-central region like code reading, but with several long saccades to the far right and lower areas (likely console/output or other panes), matching the pattern of debugging where attention alternates between code and execution feedback rather than the more localized INTERPRET or WRITE patterns.",
+  "correct": true
+}

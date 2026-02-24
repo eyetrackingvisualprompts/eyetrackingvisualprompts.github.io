@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show extended periods of relatively linear, horizontal movements with small vertical shifts\u2014consistent with line-by-line text reading\u2014interspersed with shorter saccades and returns, and lacking the large, highly dynamic multi-directional shifts typically seen in PLAY or the more scattered exploratory patterns of SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a compact central region with minor nearby shifts, indicating focused inspection of a small code snippet rather than extended reading, scrolling, or wide exploratory viewing, which best matches the concentrated code-output prediction task in INTERPRET.",
+  "correct": false
+}

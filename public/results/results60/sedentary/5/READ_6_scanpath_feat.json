@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows orderly, horizontal left-to-right sweeps stacked vertically with relatively uniform spacing, characteristic of line-by-line reading behavior rather than the more scattered or clustered patterns seen in other tasks.",
+  "correct": true
+}

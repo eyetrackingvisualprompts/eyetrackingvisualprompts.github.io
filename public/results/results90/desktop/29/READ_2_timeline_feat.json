@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered with relatively small horizontal movements and modest vertical variation, lacking the systematic line-by-line progression of reading and the larger, more erratic shifts seen in play, search, or watch tasks; this pattern best matches the browsing example.",
+  "correct": false
+}

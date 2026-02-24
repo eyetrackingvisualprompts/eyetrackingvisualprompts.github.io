@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The data show irregular, multi-directional gaze shifts with varying amplitudes and many localized fixations, without the strict horizontal pattern of horizontal saccades, the discrete large jumps of random saccades, or the line-structured progression of reading. The complex, free-viewing-like trajectories best match the Video Viewing class.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows frequent transitions between two vertical bands (likely query box and result list) with mixed horizontal and vertical saccades and moderate scroll-like downward movement, which best matches the example SEARCH timeline rather than the more linear READ or concentrated code-oriented tasks.",
+  "correct": true
+}

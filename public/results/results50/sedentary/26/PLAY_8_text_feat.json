@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Very large, frequent saccades across wide screen regions with relatively short fixations and no systematic line-by-line scanning pattern resemble following moving objects or shifting focal points as in gameplay, rather than the more structured, text- or code-based patterns seen in READ/WRITE/DEBUG/INTERPRET or the more passive, smoother patterns common in WATCH/BROWSE/SEARCH.",
+  "correct": true
+}

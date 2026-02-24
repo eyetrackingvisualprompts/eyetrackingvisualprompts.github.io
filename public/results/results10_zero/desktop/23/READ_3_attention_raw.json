@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a compact cluster of fixations slightly below the screen center, consistent with sustained attention to a small region of text rather than wide exploratory movements typical of browsing, searching, playing, or watching video; writing would likely involve more dispersed gaze between text and UI elements, so a focused reading pattern is most plausible.",
+  "correct": true
+}

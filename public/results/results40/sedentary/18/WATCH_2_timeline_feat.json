@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively large, smooth shifts with extended fixations at a few horizontal positions and variable vertical movement, matching the more global, scene-scanning pattern of WATCH rather than the line-based or code-structured patterns seen in READ/WRITE/DEBUG/INTERPRET or the highly dynamic object-tracking of PLAY.",
+  "correct": true
+}

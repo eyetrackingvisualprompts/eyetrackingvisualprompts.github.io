@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a relatively central region with short, multidirectional saccades and frequent shifts, resembling mixed attention over a compact area similar to the browsing example rather than the more linear (READ/WRITE) or broader exploratory (PLAY/SEARCH/WATCH) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete jumps to widely separated positions in both horizontal (\u2248\u00b120+) and vertical (\u2248\u00b120) directions, followed by short, stable clusters consistent with 1-second fixations at each target. The pattern is multi-directional and not constrained to a single axis, which matches the Random Saccades task rather than horizontal-only saccades, continuous game tracking, or the more localized patterns typical of reading, video viewing, or central fixations.",
+  "correct": false
+}

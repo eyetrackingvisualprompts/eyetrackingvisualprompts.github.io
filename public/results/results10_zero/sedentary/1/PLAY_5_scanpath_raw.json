@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades across a wide vertical and horizontal range with relatively few tight clusters, indicating continuous tracking of moving objects or navigation rather than line-by-line reading or focused code inspection\u2014patterns most consistent with playing a simple action game (e.g., Pong or Agario).",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered around the screen center with moderate dispersion and frequent shifts, closely matching the SEARCH example pattern and differing from the more horizontally-structured READ layout or the wider exploratory BROWSE and WATCH patterns.",
+  "correct": false
+}

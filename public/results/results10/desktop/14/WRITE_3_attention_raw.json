@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered in a single, small region near the lower-central area of the screen, indicating sustained fixation with minimal horizontal or vertical scanning. This pattern best matches the WRITE example, where attention is focused on a local area (e.g., typing line) rather than distributed as in reading, searching, browsing, watching, or playing.",
+  "correct": true
+}

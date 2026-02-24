@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a narrow vertical band on the left side, with fixations stepping between two main vertical regions (code lines and lower console/controls) rather than sweeping horizontally as in reading. This pattern of focused, line-to-line and code-to-output checking is most consistent with debugging behavior.",
+  "correct": false
+}

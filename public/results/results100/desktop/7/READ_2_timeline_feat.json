@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions are clustered around mid\u2011screen with frequent small saccades and modest drift in both X and Y, resembling mixed scanning and local reading typical of web browsing rather than the more structured line-by-line patterns of reading or the larger directional shifts seen in play, search, watch, or write tasks.",
+  "correct": false
+}

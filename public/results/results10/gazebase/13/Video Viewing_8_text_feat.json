@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Large, primarily horizontal saccades between far lateral positions (e.g., from x\u2248-2.8 to x\u224816.5 and back toward central/other lateral positions) with relatively long intervening fixations match the pattern of following a horizontally oscillating target rather than the more scattered, multi-directional jumps of random/ Balura saccades or the localized patterns of reading/video viewing.",
+  "correct": false
+}

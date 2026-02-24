@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely concentrated in a narrow left-central band with minimal spread, closely matching the focused code-editing pattern seen in the WRITE example rather than the broader, more distributed patterns of READ, BROWSE, or DEBUG.",
+  "correct": false
+}

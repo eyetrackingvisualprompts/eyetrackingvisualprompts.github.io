@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y gaze positions remain in a narrow band with slow, smooth horizontal drift and minimal large saccades, resembling stable line-by-line reading behavior more than the larger, multidirectional shifts seen in search, browse, play, watch, or write examples.",
+  "correct": false
+}

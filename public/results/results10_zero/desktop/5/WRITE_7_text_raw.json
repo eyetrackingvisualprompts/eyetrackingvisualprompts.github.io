@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered around a narrow horizontal band (y \u2248 0.17\u20130.40) with small, regular shifts and many repeated fixations, consistent with line-by-line reading of text rather than larger exploratory movements typical of browsing, searching, watching video, or game play.",
+  "correct": false
+}

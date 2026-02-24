@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The scanpath shows frequent large vertical transitions between lower and upper screen regions (code and console/IDE areas) combined with dense, irregular fixations in the lower area, closely matching the DEBUG example pattern of alternating between code, errors, and outputs rather than the more localized or smoother patterns of other tasks.",
+  "correct": false
+}

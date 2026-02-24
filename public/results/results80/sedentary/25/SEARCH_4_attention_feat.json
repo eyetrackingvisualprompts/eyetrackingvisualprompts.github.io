@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on the upper-left code area with multiple hotspots and scattered checks across the rest of the screen, closely matching the DEBUG example heatmap where participants inspect and re-inspect various code regions while occasionally looking elsewhere in the IDE.",
+  "correct": false
+}

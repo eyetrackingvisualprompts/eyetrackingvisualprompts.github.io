@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large saccades across wide screen regions (center\u2013corners\u2013edges), substantial movement into extreme coordinates, and many clustered fixations around mid-lower screen zones match the dynamic, spatially distributed tracking typical of gameplay rather than the more line- or block-structured patterns seen in code tasks or reading/browsing/searching.",
+  "correct": false
+}

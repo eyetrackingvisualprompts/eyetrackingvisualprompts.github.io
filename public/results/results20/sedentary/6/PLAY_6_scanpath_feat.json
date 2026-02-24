@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is centered around the middle of the screen with moderate horizontal spread, occasional downward movements (likely to result snippets) and a few long saccades to peripheral areas, resembling the mixed scanning of a search-results page rather than the tight code-focus of WRITE/DEBUG/INTERPRET or the line-by-line patterns of READ/BROWSE.",
+  "correct": false
+}

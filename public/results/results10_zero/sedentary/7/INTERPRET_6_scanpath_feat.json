@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a small region with multiple overlapping fixations and minimal saccades, suggesting sustained attention on a single text area (e.g., a line or short paragraph) rather than the broader exploration typical of browsing, searching, playing, or watching video.",
+  "correct": false
+}

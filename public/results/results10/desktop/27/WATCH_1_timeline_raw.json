@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The target gaze traces show frequent medium-sized horizontal shifts with corresponding vertical adjustments, producing a staircase-like pattern similar to scanning varied webpage regions. This closely matches the BROWSE example, which has comparable jumpy but structured movements, and differs from the more regular line-by-line READ pattern or the more erratic PLAY/WATCH behaviors.",
+  "correct": false
+}

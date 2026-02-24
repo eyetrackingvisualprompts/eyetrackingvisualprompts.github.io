@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a compact region with short horizontal saccades and minimal vertical progression, consistent with reading a short block of text rather than scanning interfaces, code editing, or tracking moving objects.",
+  "correct": false
+}

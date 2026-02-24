@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show frequent, small-amplitude shifts in both X and Y with scattered saccades across the central area, resembling the mixed, less-structured scanning seen in the BROWSE example rather than the more linear (READ/WRITE) or more static (WATCH/PLAY/SEARCH) patterns.",
+  "correct": true
+}

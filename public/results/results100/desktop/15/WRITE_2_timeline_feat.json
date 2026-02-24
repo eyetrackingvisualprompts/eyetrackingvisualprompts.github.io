@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is constrained to a narrow horizontal band with low Y fixation values and relatively small, systematic X movements, resembling line-by-line monitoring of a single text area typical of writing in a word processor, and differs from the broader, more exploratory patterns seen in SEARCH or BROWSE.",
+  "correct": true
+}

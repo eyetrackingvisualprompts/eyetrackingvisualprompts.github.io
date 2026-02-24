@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a central region with frequent multidirectional saccades and dispersed fixations, indicating scanning of multiple elements (e.g., search results and page content) rather than orderly horizontal lines (READ) or narrow top-band focus (WATCH/WRITE). This pattern best matches SEARCH.",
+  "correct": false
+}

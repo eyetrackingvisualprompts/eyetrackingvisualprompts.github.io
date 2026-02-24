@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a few compact regions with little vertical scanning and no clear left-to-right, top-to-bottom reading or search pattern. The strong central-upper cluster plus several stable peripheral points are characteristic of watching a video where gaze stays on key visual elements rather than systematically exploring text or interactive content.",
+  "correct": false
+}

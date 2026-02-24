@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-to-large saccades between mid/upper page and lower regions, repeated revisits to similar vertical bands, and scanning across a wide horizontal span resemble scrolling and skimming behavior on heterogeneous web pages more than the structured horizontal scanlines of READ or the focused code-region patterns of programming tasks. Movement pattern and spread best match the BROWSE examples.",
+  "correct": false
+}

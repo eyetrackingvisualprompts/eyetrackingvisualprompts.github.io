@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around the code/text area with many medium-long fixations, frequent short saccades within a small region, and occasional jumps to a higher area\u2014matching focused reasoning on a code snippet (INTERPRET) rather than the more extensive vertical scanning of READ/SEARCH or the broader spatial exploration of WRITE/DEBUG/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze shows relatively smooth, moderate changes in both horizontal and vertical positions without strict periodicity or large, discrete jumps. This pattern reflects natural, free-viewing eye movements rather than structured saccade tasks, reading lines of text, or game-like rapid target shifts, making Video Viewing the most consistent class.",
+  "correct": true
+}

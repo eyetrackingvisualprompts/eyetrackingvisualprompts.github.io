@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is heavily concentrated on a single left code area with a smaller cluster to the right (likely reference/output), closely matching the WRITE example pattern and differing from the more dispersed or vertically extended patterns of other tasks.",
+  "correct": true
+}

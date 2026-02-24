@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a horizontally-elongated cluster of fixations in a relatively narrow vertical band, characteristic of line-by-line reading behavior and closely matching the READ example distribution more than the other task patterns.",
+  "correct": true
+}

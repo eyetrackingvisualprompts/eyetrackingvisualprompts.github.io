@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze pattern shows predominantly horizontal movements within a constrained vertical band, with short-to-moderate fixations (~0.2\u20130.3s) and frequent left-right regressions along similar y-levels, closely matching the line-by-line scanning and occasional regressions characteristic of reading rather than the large, more random or centrally anchored movements seen in the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow vertical region on the left side of the screen, extending more in the vertical than horizontal direction, matching the pattern of scanning and re-checking code typical of the DEBUG example heatmap rather than the more horizontally spread WRITE or INTERPRET patterns.",
+  "correct": false
+}

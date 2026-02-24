@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including corners and off-center areas), repeated revisits to a compact central area, and rapid oscillations around object-like coordinates resemble target-tracking behavior in dynamic games more than the structured line-based patterns of reading/searching or the columnar, code-line movements of programming tasks.",
+  "correct": true
+}

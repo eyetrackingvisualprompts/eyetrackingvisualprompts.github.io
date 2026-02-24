@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a narrow horizontal band with small, step-like shifts and relatively stable Y position, indicating line-by-line scanning of static text rather than large exploratory or vertical movements typical of browsing, searching, gaming, or video watching.",
+  "correct": false
+}

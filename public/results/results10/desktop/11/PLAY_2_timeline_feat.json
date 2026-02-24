@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows horizontally constrained X positions with gradual rightward shifts and relatively stable Y bands, matching line-by-line text scanning typical of reading, similar to the READ example and less variable than browsing or searching patterns.",
+  "correct": false
+}

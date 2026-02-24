@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points cluster in a mid-screen region with moderate dispersion and frequent saccades between nearby areas, resembling web-search result scanning more than the more linear READ pattern or the wider, more dynamic PLAY or WATCH patterns.",
+  "correct": false
+}

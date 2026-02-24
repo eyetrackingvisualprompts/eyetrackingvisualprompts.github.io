@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The heatmap shows a tight band of fixations at a consistent vertical level with multiple horizontally spaced clusters, characteristic of line-by-line reading with saccades along a text line rather than large structured jumps (Horizontal/Random Saccades) or central-only gaze (Fixations).",
+  "correct": false
+}

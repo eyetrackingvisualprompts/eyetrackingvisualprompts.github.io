@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze position shows large, regular, primarily horizontal steps between two lateral extremes with roughly 1-second dwell periods, matching the pattern of following a horizontally oscillating target rather than random, reading-like, or free-viewing movements.",
+  "correct": false
+}

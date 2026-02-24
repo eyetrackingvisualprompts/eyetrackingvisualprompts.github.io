@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated near the very bottom of the screen (y\u22480.01\u20130.22) with predominantly horizontal movements and short, local adjustments, matching fixation around a typing/toolbar area in a word processor. This spatial pattern and restricted vertical range align best with the WRITE examples, which also cluster near the lower screen edge, rather than with reading or browsing, which show higher and broader vertical coverage.",
+  "correct": false
+}

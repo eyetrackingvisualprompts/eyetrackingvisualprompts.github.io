@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is distributed across multiple horizontally separated regions, with dense fixations on a left text-like area and another cluster on the right, plus some scattered points, matching the pattern of scanning search results and reading snippets rather than focused code (WRITE/DEBUG/INTERPRET) or continuous reading/playing/watching.",
+  "correct": false
+}

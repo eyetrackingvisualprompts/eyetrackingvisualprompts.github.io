@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Large saccades across wide screen regions, frequent shifts between disparate areas (center, corners, top/bottom), and relatively fewer tight, line-like scanpaths indicate free visual exploration of dynamic stimuli rather than structured reading, coding, or text search; the pattern best matches the WATCH (video viewing) examples.",
+  "correct": false
+}

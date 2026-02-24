@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Highly concentrated fixations in a compact area on the left-center of the screen with minimal horizontal spread match the INTERPRET example pattern, indicating focused inspection of a small code snippet rather than the broader scanning seen in READ, WRITE, or DEBUG.",
+  "correct": true
+}

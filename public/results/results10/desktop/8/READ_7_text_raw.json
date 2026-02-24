@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points remain in a narrow horizontal band around y\u22480.36\u20130.41 with slow drifts and small saccades, indicative of scanning mid\u2011screen web content or menus rather than the denser, line\u2011by\u2011line horizontal progressions of READ; the spatial pattern and coordinates closely resemble the BROWSE example segment around (0.5\u20130.6, 0.37\u20130.4).",
+  "correct": false
+}

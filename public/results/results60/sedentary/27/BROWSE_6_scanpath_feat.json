@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered in a compact region on the left-middle of the screen (typical code/IDE area) with occasional long saccades to the right/edges, resembling reference-checking or output area; this pattern best matches the WRITE example among the tasks.",
+  "correct": false
+}

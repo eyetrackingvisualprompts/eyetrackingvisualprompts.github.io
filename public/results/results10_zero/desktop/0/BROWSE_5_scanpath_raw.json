@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, localized horizontal movements with limited vertical range, consistent with line-by-line reading over a small text region rather than wide exploratory browsing, game-like rapid shifts, or large-area search or watching behavior.",
+  "correct": false
+}

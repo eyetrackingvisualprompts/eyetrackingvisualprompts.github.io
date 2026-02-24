@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a relatively narrow vertical band with moderate horizontal shifts and revisits, resembling focused inspection of a compact code snippet, similar to the INTERPRET example and less dispersed than SEARCH/BROWSE or dynamic like WATCH/PLAY.",
+  "correct": false
+}

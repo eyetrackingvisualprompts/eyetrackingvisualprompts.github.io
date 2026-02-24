@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points span a wide horizontal range with frequent long saccades and scattered fixations in multiple vertical bands, indicating continuous, multi-directional visual exploration typical of tracking dynamic game elements rather than the more localized or structured patterns seen in reading, writing, search, or browsing.",
+  "correct": false
+}

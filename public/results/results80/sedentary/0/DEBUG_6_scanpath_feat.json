@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a compact vertical region on the left side of the screen, similar to focusing on a block of code in an IDE, with limited horizontal movement and no structured line-by-line reading pattern; this matches the DEBUG example most closely.",
+  "correct": true
+}

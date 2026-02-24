@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates repeatedly between a central/left band typical of search result text (x\u2248200\u2013500) and far right positions (x>1600) consistent with scanning result snippets or page elements, with horizontal sweeps across a single text line height (y\u2248300\u2013380) and occasional jumps to other regions. This pattern strongly matches SEARCH exemplars and differs from the more continuous reading lines (READ) or tight code-window focus (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

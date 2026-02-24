@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated on two vertically separated regions (likely result list and a lower content area) with occasional excursions to the top area, matching the multi-region, exploratory pattern seen in SEARCH rather than the more localized code (DEBUG/WRITE/INTERPRET) or structured horizontal reading/browsing patterns.",
+  "correct": false
+}

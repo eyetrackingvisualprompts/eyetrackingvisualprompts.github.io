@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are dense but spread over a moderately large central area with frequent multi-directional saccades and revisits, resembling the exploratory and back-and-forth inspection pattern seen in DEBUG rather than the tighter clusters of WRITE/INTERPRET or the horizontal sweeps of READ/BROWSE.",
+  "correct": false
+}

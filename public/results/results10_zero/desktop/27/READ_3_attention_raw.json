@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly concentrated in a small horizontal region with minimal vertical movement, consistent with visually following a small area such as the main focus region of a video, rather than scanning text lines (READ/WRITE) or exploring larger areas (SEARCH/BROWSE/PLAY).",
+  "correct": false
+}

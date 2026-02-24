@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal movement with frequent small shifts and occasional vertical jumps, resembling mixed scanning of different regions on a page. This pattern is closest to the example BROWSE data, which features variable, intermittent shifts rather than the more regular sweep of READ or the steadier patterns of WATCH/WRITE.",
+  "correct": true
+}

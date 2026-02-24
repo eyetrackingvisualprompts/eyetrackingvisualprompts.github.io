@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a sequence of short horizontal advances with small regressions at a nearly constant vertical level, matching line-by-line reading behavior rather than large spatial shifts or dynamic tracking seen in browsing, searching, or playing games.",
+  "correct": false
+}

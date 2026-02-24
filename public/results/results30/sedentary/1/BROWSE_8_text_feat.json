@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades spanning extreme screen regions (including off-screen coordinates), mixed with shorter inspections of many scattered locations, match exploratory, non-linear navigation typical of free web browsing rather than focused, localized viewing seen in coding, reading, or video watching.",
+  "correct": true
+}

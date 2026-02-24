@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is dispersed across much of the screen, including top, middle, and bottom regions with multiple small clusters, resembling the varied, multi-area exploration seen in the BROWSE example more than the more centralized or structured patterns of other tasks.",
+  "correct": false
+}

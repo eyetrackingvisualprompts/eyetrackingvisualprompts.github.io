@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and off-center areas), many visits to extreme eccentricities, substantial vertical movements, and irregular, non-linear scanning with intermittent long fixations are characteristic of visually tracking dynamic game elements rather than reading, coding, or structured browsing/searching patterns; this closely matches the PLAY examples.",
+  "correct": false
+}

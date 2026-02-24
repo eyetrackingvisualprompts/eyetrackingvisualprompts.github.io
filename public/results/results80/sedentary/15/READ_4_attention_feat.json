@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely concentrated in a vertically elongated band near the screen center with horizontal strips at multiple y-levels, consistent with line-by-line reading of text rather than localized code inspection, wide exploration, or dynamic object tracking seen in other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze alternates between a lower central band (~0.3\u20130.6 vertically) with frequent medium-length saccades and short fixations, plus repeated larger jumps between lower and mid screen, indicating continuous dynamic monitoring rather than line-by-line or top-heavy reading/searching. The pattern of dense, local movements with intermittent larger relocations best matches interactive game play compared to the more top/bottom-focused layouts of READ, SEARCH, BROWSE, or the very top-biased WRITE and WATCH examples.",
+  "correct": false
+}

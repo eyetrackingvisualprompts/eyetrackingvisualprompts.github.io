@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades in X with gradually rising Y over time and several vertical excursions, indicating scanning results, shifting between result snippets and possibly scrolling\u2014most similar to the SEARCH example pattern, rather than the more regular lines of READ or the stabler code-oriented tasks.",
+  "correct": false
+}

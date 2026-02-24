@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze positions oscillate predominantly along the horizontal axis between large positive and negative visual angles (\u2248\u00b116\u201320\u00b0) with relatively small vertical variation, matching the stereotyped left-right tracking of a horizontally moving target seen in the Horizontal Saccades example.",
+  "correct": true
+}

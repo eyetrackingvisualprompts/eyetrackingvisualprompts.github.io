@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered near the screen center with moderate dispersion and frequent short saccades, resembling the provided SEARCH example more than the more horizontally-structured READ/WRITE patterns or the wider movements in PLAY/WATCH/BROWSE.",
+  "correct": false
+}

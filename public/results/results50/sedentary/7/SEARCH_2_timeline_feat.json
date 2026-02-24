@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated transitions between a stable horizontal band (reading result snippets) and excursions to higher/lower regions (query box, other page elements), with varied vertical positions and intermittent larger saccades, closely matching the example SEARCH pattern more than the more uniform READ or WATCH patterns.",
+  "correct": true
+}

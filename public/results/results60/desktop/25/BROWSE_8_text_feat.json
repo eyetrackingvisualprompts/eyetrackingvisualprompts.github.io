@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around mid-screen with many medium-length fixations and frequent small saccades plus occasional larger vertical shifts, resembling scanning mixed text/graphics areas and navigation elements; this spatio-temporal pattern matches the provided BROWSE examples more closely than the more systematic horizontal sweeps of READ, the localized top-area focus of WRITE, or the more dispersed, target-driven shifts of PLAY/SEARCH/WATCH.",
+  "correct": true
+}

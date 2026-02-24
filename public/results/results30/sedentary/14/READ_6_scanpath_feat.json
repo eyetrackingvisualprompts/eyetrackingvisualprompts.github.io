@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Two distinct horizontal reading-like regions (top and bottom) with occasional long vertical saccades between them match viewing a results page plus a selected result, characteristic of SEARCH behavior rather than continuous single-block reading.",
+  "correct": false
+}

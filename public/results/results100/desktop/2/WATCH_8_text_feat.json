@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows medium-to-long fixations with frequent vertical and moderate horizontal transitions across varied screen regions, including large jumps between content areas, consistent with scanning and scrolling through heterogeneous webpages rather than the more line-structured READ, stationary WATCH, localized WRITE, or highly dynamic PLAY patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely distributed across the screen, with clusters near both upper and lower regions and on the right side, indicating scanning multiple areas of web pages rather than focused central content (WATCH) or structured left-code layouts (DEBUG/WRITE/INTERPRET). This dispersed exploratory pattern best matches BROWSE.",
+  "correct": false
+}

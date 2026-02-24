@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in mid-lower screen with mixed vertical and horizontal saccades, frequent medium-length fixations, and irregular jumps up/down the page\u2014matching web/news browsing patterns rather than the more line-structured horizontal scans of READ or the central upper focus of WATCH/WRITE/PLAY. The dynamics and spatial distribution closely resemble the provided BROWSE example segment.",
+  "correct": false
+}

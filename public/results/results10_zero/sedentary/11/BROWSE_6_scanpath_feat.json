@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are tightly clustered in a narrow horizontal band with small left-right saccades and minimal vertical movement, matching a single-line or short-segment reading pattern rather than the broader spatial exploration typical of playing, browsing, searching, watching video, or coding-related tasks.",
+  "correct": false
+}

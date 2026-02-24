@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact central code-like region with dense back-and-forth fixations around the same lines and frequent revisits to mid-screen vertical positions, matching the interpret examples\u2019 localized, line-focused inspection rather than the more extensive vertical scanning in READ or the broader exploratory patterns in SEARCH/BROWSE/DEBUG/PLAY.",
+  "correct": false
+}

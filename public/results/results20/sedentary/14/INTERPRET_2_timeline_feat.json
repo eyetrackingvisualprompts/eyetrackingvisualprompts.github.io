@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow horizontal band with small incremental x-movements and very limited vertical shifts, indicating focused inspection of a compact code snippet rather than extended reading or broad browsing; this pattern best matches the INTERPRET example among the provided classes.",
+  "correct": true
+}

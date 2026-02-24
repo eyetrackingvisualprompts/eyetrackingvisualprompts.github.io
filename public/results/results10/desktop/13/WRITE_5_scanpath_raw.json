@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows medium-range movements with scattered fixations around the center-right area, more exploratory than the tight horizontal pattern of READ but less extensive than SEARCH or PLAY, matching the browsing example most closely.",
+  "correct": false
+}

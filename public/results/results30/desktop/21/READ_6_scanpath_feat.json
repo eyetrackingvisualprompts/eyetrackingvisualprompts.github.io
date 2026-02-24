@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows systematic horizontal sweeps stacked vertically, characteristic of line-by-line reading behavior rather than localized clusters (write/search/browse) or more scattered/game-like patterns (play/watch).",
+  "correct": true
+}

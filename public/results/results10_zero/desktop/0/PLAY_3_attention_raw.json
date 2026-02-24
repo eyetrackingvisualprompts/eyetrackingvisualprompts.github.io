@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band in the lower quarter of the screen with small horizontal shifts and limited vertical movement, consistent with line-by-line reading of text rather than broader exploration (browse/search), dynamic multi-directional movements (play), central video focus (watch), or frequent up-down shifts between text and cursor area (write).",
+  "correct": false
+}

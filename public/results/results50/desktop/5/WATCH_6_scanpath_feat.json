@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a small central region with short saccades and stable fixations, indicating sustained focus on a localized text area rather than wider exploratory movements typical of browsing, searching, playing, or watching video.",
+  "correct": false
+}

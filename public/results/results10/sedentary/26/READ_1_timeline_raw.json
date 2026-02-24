@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The X position drifts steadily from left to right with periodic sudden resets back left, while Y stays almost constant\u2014matching vertical scanning of multiple search result pages and occasional jumps back to the top, similar to the SEARCH example plot.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze cluster is compact near the screen center with moderate dispersion and frequent small saccades, closely matching the SEARCH example pattern and differing from the more lateral, linear patterns of READ/WRITE and the broader, multi-region exploration in BROWSE/PLAY/WATCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band with small progressive saccades, matching the line-by-line reading pattern in the READ example and differing from the more scattered or wide-ranging movements seen in BROWSE, SEARCH, PLAY, WATCH, and WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact region in the lower-central part of the screen with dense, short saccades and frequent re-fixations, consistent with repeatedly looking between a small text/code area and nearby elements in an IDE during code writing, rather than the broader vertical range typical of reading or interpreting code alone, or the wide spread seen in browsing, search, or games.",
+  "correct": false
+}

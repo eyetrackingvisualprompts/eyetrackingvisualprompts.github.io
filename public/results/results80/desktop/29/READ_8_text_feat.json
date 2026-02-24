@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze exhibits frequent large-amplitude saccades between widely separated screen regions (e.g., center to corners and edges), with shorter fixations interspersed with occasional longer dwells, forming scattered spatial coverage rather than line-by-line or columnar scanning. This dynamic, multi-directional search-and-track pattern matches the PLAY examples more than the more locally clustered, text- or content-structured patterns seen in READ, WRITE, BROWSE, SEARCH, or WATCH.",
+  "correct": false
+}

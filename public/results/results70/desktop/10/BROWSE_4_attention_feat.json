@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation heatmap shows a compact cluster centered around the middle of the screen with limited vertical spread, closely matching the example BROWSE pattern and differing from the more dispersed SEARCH or WATCH distributions.",
+  "correct": true
+}

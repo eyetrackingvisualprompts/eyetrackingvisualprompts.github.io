@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are relatively long and clustered in a compact region with smooth, continuous saccades that trace object-like motion rather than structured horizontal/vertical scanning of text or code. There are no large context-switch jumps typical of SEARCH/BROWSE/WRITE/DEBUG, and no tight line-by-line reading pattern, which aligns best with passively following visual content in a WATCH task.",
+  "correct": false
+}

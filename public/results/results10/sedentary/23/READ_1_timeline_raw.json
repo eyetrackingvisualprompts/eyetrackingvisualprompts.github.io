@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y positions show relatively smooth, narrow-band movements with small regressions and no large horizontal sweeps or abrupt jumps, matching sustained line-by-line reading behavior more than the other task patterns.",
+  "correct": true
+}

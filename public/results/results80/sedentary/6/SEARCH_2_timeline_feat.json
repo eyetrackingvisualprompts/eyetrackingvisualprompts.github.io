@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-range horizontal and vertical saccades with irregular shifts between regions, resembling scanning of varied web layouts rather than the more linear patterns of READ/WRITE or the steadier focus of WATCH/PLAY.",
+  "correct": false
+}

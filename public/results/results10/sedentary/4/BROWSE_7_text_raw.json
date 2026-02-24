@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Prolonged clusters around a central code-like region (x\u2248300\u2013400, y\u2248450\u2013800) with repeated revisits and dense, local scanning of a small area, plus sporadic larger vertical excursions, match the fine-grained, iterative inspection and re-inspection typical of debugging rather than the more linear patterns of reading/interpreting or the broader movements of browsing/searching/watching.",
+  "correct": false
+}

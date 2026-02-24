@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show systematic, mostly monotonic sweeps in X with relatively constrained Y drift, forming repetitive, line-like scan paths typical of reading patterns rather than the more scattered or highly variable movements seen in search, browse, play, watch, or write tasks.",
+  "correct": true
+}

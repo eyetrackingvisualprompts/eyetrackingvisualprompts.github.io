@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around the upper central area with some spread horizontally, resembling scanning of search results and snippets near the top of a search engine page, which matches the SEARCH example pattern more than the others.",
+  "correct": false
+}

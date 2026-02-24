@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band with very small, incremental rightward movements and occasional regressions, matching line-by-line text production in a fixed editor window rather than the larger vertical and horizontal shifts typical for reading long documents, web search, browsing, or games/video.",
+  "correct": false
+}

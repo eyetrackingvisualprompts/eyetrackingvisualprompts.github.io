@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered broadly across both horizontal (\u2248\u00b115\u00b0) and vertical (\u2248\u00b19\u00b0) visual angles with large multi-directional saccades (including big vertical components), and each cluster of fixation lasts on the order of ~0.2\u20130.7 s rather than forming orderly left-to-right reading lines or a primarily horizontal pattern. This matches a randomly moving bull\u2019s-eye target rather than horizontal-only saccades, text reading, video viewing, gaming, or central fixation.",
+  "correct": true
+}

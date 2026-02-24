@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across widely separated screen regions (including off-center and near-edge coordinates), revisits to scattered areas, and mixed vertical/horizontal scanning resemble exploratory web navigation rather than structured code reading/debugging or line-by-line text reading; the pattern best matches the heterogeneous, free-form gaze behavior seen in the BROWSE examples.",
+  "correct": false
+}

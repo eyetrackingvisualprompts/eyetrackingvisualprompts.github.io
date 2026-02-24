@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions show large, discrete jumps to widely separated locations in both horizontal (\u2248\u00b120\u00b0) and vertical (\u2248\u00b117\u00b0) directions, followed by clusters of small fluctuations indicative of fixations at each location. This pattern\u2014big multi-directional steps with relative stability between them\u2014matches a task where a target appears at random positions across the screen, i.e., Random Saccades, rather than the strictly horizontal, central, or text-line\u2013like patterns of the other classes.",
+  "correct": false
+}

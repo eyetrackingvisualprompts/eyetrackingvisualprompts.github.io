@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like fixations at discrete locations in both horizontal and vertical directions, with changes of several degrees and intervals of about one second between shifts. Movements are not restricted to a single axis and resemble following a randomly moving target rather than reading text, watching video, or purely horizontal saccades.",
+  "correct": false
+}

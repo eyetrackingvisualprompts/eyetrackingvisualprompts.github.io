@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze stays within a compact upper-central region with long, stable fixations (often >0.8\u20131.2s) and relatively small, infrequent saccades, resembling inspection of a limited set of items or text blocks. This temporal pattern and spatial confinement are more consistent with SEARCH examples\u2014where users dwell on results/snippets\u2014than with continuous line sweeps in READ or the more dynamic movements in PLAY, BROWSE, WATCH, or WRITE.",
+  "correct": false
+}

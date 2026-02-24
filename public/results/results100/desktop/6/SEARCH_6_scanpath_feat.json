@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around mid-screen with moderate dispersion and frequent shifts among nearby regions, more scattered than focused line-by-line READ but less peripheral than PLAY or WATCH, matching the pattern of examining search results and SERP elements during SEARCH.",
+  "correct": true
+}

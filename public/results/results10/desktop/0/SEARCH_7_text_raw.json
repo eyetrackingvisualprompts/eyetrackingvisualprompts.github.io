@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains around mid-screen with small horizontal and vertical shifts, frequent short fixations and minor saccades without strong left-to-right line sweeps (READ) or large eccentric excursions (PLAY, WATCH). This pattern best matches the mixed scanning and localized inspection behavior seen in the BROWSE example rather than the more top-heavy SEARCH layout or the upper-screen clusters of WRITE.",
+  "correct": false
+}

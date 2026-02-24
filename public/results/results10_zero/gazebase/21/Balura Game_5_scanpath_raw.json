@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze moves irregularly across both horizontal and vertical axes with large, discrete jumps and scattered positions over the central-to-lower screen, inconsistent with structured left-to-right reading lines or purely horizontal motion, and unlike static fixation or more object-centered game/video viewing patterns; this best matches randomly positioned target tracking.",
+  "correct": false
+}

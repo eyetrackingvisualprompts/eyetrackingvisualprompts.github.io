@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points remain confined to a very small area near the screen center with only tiny jitter-like movements, matching a central fixation task rather than broader saccadic or exploratory patterns seen in the other activities.",
+  "correct": true
+}

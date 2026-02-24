@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with many short progressive and regressive saccades plus medium-duration fixations, consistent with line-by-line text reading near the upper part of the screen rather than the broader vertical scanning and dispersed jumps typical of browse/search or the wider spatial exploration seen in watch/play/WRITE.",
+  "correct": false
+}

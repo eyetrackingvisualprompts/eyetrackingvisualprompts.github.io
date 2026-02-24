@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around the mid-screen with moderate vertical span and frequent, irregular shifts between nearby positions, including some larger jumps to different regions\u2014closely resembling the heterogeneous scan-and-glance pattern in the BROWSE example rather than the more structured horizontal sweeps of READ or the heavier top-centered focus of SEARCH.",
+  "correct": false
+}

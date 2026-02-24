@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows dense, sustained fixations over a compact code region on the left with occasional checks to a smaller area on the right, closely matching the DEBUG example pattern of repeatedly inspecting and revisiting specific code segments rather than the more uniform block in WRITE or INTERPRET.",
+  "correct": false
+}

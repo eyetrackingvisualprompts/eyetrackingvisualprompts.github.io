@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around mid-screen with short-range vertical movements and frequent small shifts between nearby points, including returns to similar coordinates\u2014matching the mixed fixate\u2011scroll\u2011scan pattern seen in the BROWSE example more than the more linear READ pattern or the more dispersed SEARCH/WATCH patterns.",
+  "correct": false
+}

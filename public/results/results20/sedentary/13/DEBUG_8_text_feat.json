@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen areas (including off-screen coordinates), frequent jumps between distant regions, and irregular fixation distribution match the dynamic, spatially distributed gaze behavior seen in gameplay rather than the more localized and structured patterns of reading, coding, or web browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered over a narrow upper-left code area with occasional long downward saccades (likely to console or editor bottom), matching the focused, localized pattern typical for writing code rather than the broader or more vertical patterns seen in other activities.",
+  "correct": true
+}

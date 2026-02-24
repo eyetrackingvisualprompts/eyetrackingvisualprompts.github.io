@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a very small region with long, stationary fixations (often >1\u20133 s) and only tiny corrective saccades, matching the stable, localized viewing near the text cursor seen in the WRITE examples rather than the more scanning, horizontally shifting patterns of READ, SEARCH, or BROWSE, or the large shifts in WATCH/PLAY.",
+  "correct": false
+}

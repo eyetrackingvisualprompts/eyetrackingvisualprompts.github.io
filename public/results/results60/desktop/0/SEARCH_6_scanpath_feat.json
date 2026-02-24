@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are concentrated in a few tight clusters with occasional larger saccades between them, indicating repeated focus on several distinct on-screen regions as in a game interface, rather than the more linear horizontal patterns of reading/writing or the broader dispersed patterns of browsing/searching/watching.",
+  "correct": false
+}

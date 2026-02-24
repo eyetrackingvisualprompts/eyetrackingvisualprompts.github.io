@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with many long fixations (0.5\u20132.5s) and short, local saccades, oscillating between nearby lines and re-visiting the same horizontal band (y\u2248430\u2013470). There are no long sweeps, line-by-line reading, wide exploratory jumps, or game-like tracking, matching the intensive localized inspection typical of INTERPRET rather than SEARCH/BROWSE/READ/PLAY/DEBUG/WRITE/WATCH.",
+  "correct": true
+}

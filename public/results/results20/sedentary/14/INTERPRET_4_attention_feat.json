@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered in a small left-central region with minimal dispersion, closely matching the WRITE example pattern where attention is focused on a specific code editing area.",
+  "correct": false
+}

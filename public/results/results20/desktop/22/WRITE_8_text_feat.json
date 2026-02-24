@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid saccades between widely separated screen regions (e.g., mid-upper to lower-left and bottom areas), with substantial vertical range and irregular, non-linear scanning rather than line-by-line or central reading patterns. This wide, dynamic exploration of the screen is most consistent with tracking moving game elements in the PLAY condition, rather than the more structured, center- or text-aligned patterns seen in READ, WRITE, BROWSE, WATCH, or SEARCH.",
+  "correct": false
+}

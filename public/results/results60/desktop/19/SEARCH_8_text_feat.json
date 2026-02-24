@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band slightly above mid\u2011height, with many medium\u2011duration fixations (200\u2013600 ms) and short horizontal saccades plus occasional small vertical shifts, closely matching the sustained, line\u2011by\u2011line scanning pattern seen in the READ examples rather than the larger multidirectional excursions typical of PLAY, SEARCH, WATCH, or BROWSE, or the upper\u2011screen cluster of WRITE.",
+  "correct": false
+}

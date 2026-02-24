@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze points form multiple roughly horizontal scan lines in the lower half of the screen with progressive left-to-right movements and small vertical shifts between lines, matching the characteristic pattern of reading text rather than the more centralized, random, or large-amplitude movements of the other tasks.",
+  "correct": true
+}

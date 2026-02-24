@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points form a compact cluster in the lower-central area with frequent short saccades and limited horizontal/vertical spread, matching the focused, localized viewing pattern seen in the PLAY example more than the broader scanning in READ/BROWSE/SEARCH or the upper-screen focus in WRITE/WATCH.",
+  "correct": true
+}

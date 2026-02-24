@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points cluster tightly in a small, mid-left region of the screen with limited horizontal and vertical movement, indicating sustained fixation on a compact area of text (e.g., a short paragraph or part of a page) rather than broader exploratory or interactive behavior typical of browsing, coding, or gaming.",
+  "correct": false
+}

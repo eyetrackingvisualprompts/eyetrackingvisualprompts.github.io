@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades spanning extreme screen regions (including corners and off-center areas), repeated jumps between top and bottom and among dispersed horizontal bands, and irregular fixation patterns without clear line-by-line structure match the heterogeneous, exploratory gaze behavior seen in web browsing, rather than the more structured patterns of reading, coding tasks, or game-related tracking.",
+  "correct": false
+}

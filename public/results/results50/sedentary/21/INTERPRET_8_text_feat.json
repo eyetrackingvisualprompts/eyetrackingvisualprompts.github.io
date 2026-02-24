@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "After an initial large saccade across the screen, the gaze remains tightly clustered in a compact code-like area (x\u2248220\u2013340, y\u2248170\u2013320) with many short horizontal/vertical adjustments and long fixations, indicative of detailed line-by-line reasoning over a small code snippet, matching INTERPRET more than the broader spatial scanning of SEARCH/BROWSE, the wider distributions in DEBUG/WRITE, or the more global motion of WATCH/PLAY/READ.",
+  "correct": true
+}

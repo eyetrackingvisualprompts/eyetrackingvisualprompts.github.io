@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades between widely separated vertical regions (top strip, mid-page, near-bottom) and scattered fixations over headings/sections resemble scanning and jumping typical of free web browsing rather than the more line-structured patterns of reading or the tighter code-centered clusters of programming tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated mostly on the left side at code/editor-like coordinates with repeated vertical movements (between top ~100\u2013200 px and mid ~300\u2013500 px) and frequent jumps to near-top positions around x\u2248300\u2013600, resembling switching between code, console, and UI controls. This pattern, with many regressions and top-bar visits, closely matches the WRITE examples of active coding in an IDE rather than the more line-structured reading (READ/INTERPRET/DEBUG) or broad, center-focused scanning seen in BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": false
+}

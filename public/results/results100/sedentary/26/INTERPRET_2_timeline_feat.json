@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-range saccades with both horizontal and vertical shifts, scattered fixation positions, and no strong line-by-line reading pattern or stable code-block focus. This mixed exploration of different screen regions best matches the SEARCH behavior among the provided examples.",
+  "correct": false
+}

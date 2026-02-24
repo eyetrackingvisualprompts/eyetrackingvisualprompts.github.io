@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows clustered fixations with frequent medium-to-large saccades, including rapid shifts across both central and peripheral regions and sudden jumps to widely separated coordinates, consistent with visually tracking moving objects or navigating a game scene rather than the more linear, text- or code-oriented patterns of reading, writing, debugging, or interpreting, or the smoother central focus of watching video or casual browsing/search.",
+  "correct": false
+}

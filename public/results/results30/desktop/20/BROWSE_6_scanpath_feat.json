@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are dispersed over a broad vertical range with multiple clusters and irregular transitions, resembling scanning of mixed content sections on a webpage, which matches the browsing pattern more than the more structured reading, localized search, or game/video patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The target data shows large, rapid shifts in both X and Y with broad coverage of the screen and frequent saccades, resembling the dynamic, multidirectional gaze patterns seen in the PLAY example more than the steadier, more localized patterns of reading, browsing, searching, writing, or watching video.",
+  "correct": false
+}

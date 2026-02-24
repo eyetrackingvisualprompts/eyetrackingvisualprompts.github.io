@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze positions are concentrated in a narrow central band with small horizontal shifts and moderate vertical changes, resembling scanning results and interface elements on a search engine page; this pattern matches the SEARCH example plots more closely than the other activities.",
+  "correct": false
+}

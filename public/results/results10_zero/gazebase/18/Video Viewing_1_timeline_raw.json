@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between several discrete, widely separated positions in both horizontal (up to ~15\u201320\u00b0) and vertical directions, with each position held roughly around a second before shifting, matching the pattern of following a randomly jumping target rather than smooth tracking, central fixation, reading, or continuous game/video viewing.",
+  "correct": false
+}

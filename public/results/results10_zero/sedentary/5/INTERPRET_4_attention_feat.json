@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in a small area on the upper-left with a few scattered points lower and to the right, suggesting focused attention on a results list or query area rather than systematic line-by-line reading or full-screen viewing; this pattern aligns best with scanning search engine results during a SEARCH task.",
+  "correct": false
+}

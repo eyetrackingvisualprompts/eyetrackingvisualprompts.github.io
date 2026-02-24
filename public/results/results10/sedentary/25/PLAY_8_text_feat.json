@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is clustered in a mid\u2011upper horizontal band with many medium-length saccades across a wide lateral span and relatively short fixations, consistent with tracking moving game elements on a playfield rather than line-by-line reading or focused code inspection. The pattern resembles the PLAY example more than the more localized, denser code/reading patterns in INTERPRET/DEBUG/WRITE/READ or the large vertical excursions of SEARCH/BROWSE/WATCH.",
+  "correct": true
+}

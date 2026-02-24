@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Long fixations and repeated, localized vertical movements in a narrow x-range around the left side of the screen, interspersed with occasional larger jumps, closely resemble the code-focused, line-by-line inspection and back-and-forth checking seen in the DEBUG example rather than the more horizontal reading/browsing or highly dynamic play/watch patterns.",
+  "correct": false
+}

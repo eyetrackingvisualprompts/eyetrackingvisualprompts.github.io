@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near the screen center with long, stable fixations and very few saccades, indicating sustained attention without systematic line-by-line scanning or code inspection, which is most consistent with passively watching a video.",
+  "correct": false
+}

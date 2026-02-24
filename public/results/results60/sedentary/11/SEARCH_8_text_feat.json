@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between horizontal scanlines in upper page regions and large vertical jumps to far lower screen areas, including off-screen coordinates and footer-like zones, with occasional long fixations\u2014matching the heterogeneous, scroll-and-skim pattern of free web browsing rather than the more structured horizontal regularity of reading or the code-focused clusters of programming tasks.",
+  "correct": false
+}

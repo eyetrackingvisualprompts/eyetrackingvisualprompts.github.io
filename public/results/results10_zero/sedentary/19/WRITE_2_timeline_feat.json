@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains almost static with very small drift and minimal saccadic movement across the full 10s window, suggesting passively watching a central visual stimulus rather than scanning text/code or interacting with UI elements, which fits the WATCH activity best.",
+  "correct": false
+}

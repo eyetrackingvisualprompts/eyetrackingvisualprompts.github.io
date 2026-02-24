@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades between widely separated screen regions (upper/lower and left/right), with relatively short, scattered fixations and no consistent horizontal reading-line structure, matching the dynamic, multi-directional viewing demands of gameplay more than the more locally clustered, line-based, or centrally focused patterns seen in READ, WRITE, BROWSE, SEARCH, or WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a narrow horizontal band near the top-center with a few lower fixations, resembling viewing dynamic content in one main region rather than scanning code, text, or distributed web elements; this pattern best matches the WATCH example heatmap.",
+  "correct": false
+}

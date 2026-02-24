@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a tight cluster around a single central region with minimal horizontal or vertical scanning, suggesting prolonged fixation on a localized moving stimulus rather than line-by-line text reading or exploratory web browsing. This stable central focus is most consistent with watching video content where key action or faces are near the screen center.",
+  "correct": false
+}

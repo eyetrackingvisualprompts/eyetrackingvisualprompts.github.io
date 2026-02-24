@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including corners and off-center areas), frequent revisits to similar zones, and irregular, non-line-based scanpaths with many vertical and diagonal jumps match the dynamic, spatially distributed gaze behavior typical of tracking game elements in the PLAY condition rather than the more structured, text- or code-oriented patterns of READ/WRITE/DEBUG/INTERPRET or the more horizontally constrained browsing/searching patterns.",
+  "correct": false
+}

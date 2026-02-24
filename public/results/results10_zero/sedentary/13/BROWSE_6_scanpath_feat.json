@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows mostly horizontal, line-like fixations with short saccades clustered in the upper part of the screen, consistent with reading text line by line rather than large exploratory movements (search/browse), continuous central focus (watch), code-centric scrutiny (write/debug/interpret), or dynamic object tracking (play).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The heatmap shows a compact, intense fixation cluster over the left-central area where a code editor is typically located, plus a few checks toward the right, closely matching the provided WRITE example and differing from the more vertically distributed INTERPRET/DEBUG patterns.",
+  "correct": true
+}

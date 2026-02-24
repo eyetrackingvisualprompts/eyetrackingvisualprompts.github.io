@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a narrow left-side region with repeated vertical movements and occasional checks to nearby lines, matching focused code-reading/mental-tracing behavior seen in INTERPRET rather than the wider spread or peripheral checks characteristic of SEARCH, DEBUG, or WRITE.",
+  "correct": true
+}

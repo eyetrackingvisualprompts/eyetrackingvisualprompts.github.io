@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal X-movements with slow, monotonic upward drift in Y, consistent with line-by-line reading and similar to the READ example pattern more than the other activities.",
+  "correct": false
+}

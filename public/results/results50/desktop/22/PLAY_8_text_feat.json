@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered mid-screen with frequent medium-length saccades and short-to-moderate fixations, including vertical shifts between ~0.26\u20130.51 and horizontal scanning around x\u22480.45\u20130.55. This pattern matches browsing behavior over mixed text/graphics regions more than the tighter line-based horizontal sweeps of READ or the highly central, stable fixations seen in SEARCH; it also lacks the large spatial excursions typical for WATCH or PLAY and the left-biased, smaller workspace of WRITE.",
+  "correct": false
+}

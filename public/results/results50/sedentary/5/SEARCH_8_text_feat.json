@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large gaze jumps between very top and very bottom screen regions, including off-screen coordinates, with long saccades and dispersed fixations over wide vertical and horizontal extents resemble free-form web navigation rather than focused code, reading lines, or watching a central video. This spatiotemporal pattern best matches the BROWSE examples.",
+  "correct": false
+}

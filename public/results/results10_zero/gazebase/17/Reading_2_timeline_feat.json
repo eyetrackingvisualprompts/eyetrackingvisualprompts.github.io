@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates in discrete steps along the horizontal axis between left and right positions with roughly constant vertical position during fixations, matching a controlled \u00b115\u00b0 horizontal tracking task rather than random or complex patterns seen in reading, gaming, or free viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent revisits between small code/text area near the top-left and an output/console-like region around y\u2248480\u2013520, with many short fixations and vertical saccades, matches the WRITE coding patterns more than browsing, reading, or debugging examples, which show different spatial usage and scan strategies.",
+  "correct": true
+}

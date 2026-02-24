@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points are tightly clustered around a single central location with minimal dispersion, matching the static central fixation pattern rather than the larger excursions seen in saccades, reading, video viewing, or gaming.",
+  "correct": true
+}

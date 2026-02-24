@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations with frequent shifts among several nearby regions, indicating exploration of different interface elements similar to the SEARCH example rather than the more linear pattern of READ or the tighter clusters of WRITE/BROWSE.",
+  "correct": false
+}

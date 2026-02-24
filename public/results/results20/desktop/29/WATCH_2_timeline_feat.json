@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-range horizontal saccades with modest vertical variation and periodic shifts in fixation positions resemble scanning search results and switching between query box, results list, and content, matching the SEARCH example pattern more than the more line-structured READ or the more dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

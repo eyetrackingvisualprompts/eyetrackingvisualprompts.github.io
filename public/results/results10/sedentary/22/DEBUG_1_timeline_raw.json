@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows distinct vertical shifts between widely separated regions (large Y jumps) combined with horizontal scanning segments, closely matching the pattern in the SEARCH example where participants move between the search box, results list, and content areas.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show discrete, stepped changes to various locations across the screen with ~1 s plateaus at each position and movements of several degrees in varying directions, matching a target that jumps unpredictably around the display rather than purely horizontal motion, central fixation, or reading-like patterns.",
+  "correct": false
+}

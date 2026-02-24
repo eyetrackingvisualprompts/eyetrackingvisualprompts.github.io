@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between discrete fixation plateaus with relatively large, irregular jumps in both horizontal and vertical positions, covering a wide area of the screen without a consistent horizontal pattern or central fixation, which matches the behavior of following a randomly moving target rather than reading, video viewing, or purely horizontal saccades.",
+  "correct": false
+}

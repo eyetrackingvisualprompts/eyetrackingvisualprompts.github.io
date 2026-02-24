@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are clustered at several discrete positions scattered around the central region (both horizontally and vertically), without forming horizontal rows or dense central-only cluster, consistent with following a target that jumps to random locations across the screen and dwells briefly at each position.",
+  "correct": false
+}

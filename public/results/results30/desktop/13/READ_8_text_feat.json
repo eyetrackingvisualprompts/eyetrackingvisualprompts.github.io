@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades cluster around mid-screen vertical positions (~0.45\u20130.6) with small horizontal movements and occasional medium jumps, resembling scanning and skim-reading of web content rather than the highly horizontal, line-by-line pattern of READ or the more dispersed movements of PLAY/WATCH; this matches the BROWSE example statistics and spatial pattern most closely.",
+  "correct": false
+}

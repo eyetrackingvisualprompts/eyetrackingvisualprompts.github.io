@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a narrow horizontal band near the upper-center of the screen with minimal vertical movement, matching sustained attention to a central video region rather than the multi-line vertical scanning typical of reading, browsing, or coding tasks, or the larger, more dynamic movements expected in gameplay or search.",
+  "correct": false
+}

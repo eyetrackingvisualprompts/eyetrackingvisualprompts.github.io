@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude saccades across wide screen regions (including off-center/high coordinates), alternating with medium fixations on scattered areas, indicate scanning heterogeneous web content rather than line-by-line text (READ) or code (INTERPRET/DEBUG/WRITE). The pattern closely matches the provided BROWSE example with similar irregular jumps between top, middle, and bottom of the page and varied lateral positions.",
+  "correct": false
+}

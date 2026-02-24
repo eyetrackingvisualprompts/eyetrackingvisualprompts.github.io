@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are dispersed across the whole screen in isolated clusters with no clear horizontal line structure (as in reading) and no concentration at center (as in static fixation). The spread reaches both left/right and multiple vertical positions, consistent with following a single target that jumps to random locations across the display, matching the Random Saccades task description.",
+  "correct": true
+}

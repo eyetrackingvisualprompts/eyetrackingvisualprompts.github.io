@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense, localized fixations and short saccades clustered around a small code-like region with frequent revisits between close coordinates and occasional larger jumps (including a single far jump and immediate return) match the interpret/debug-style analytic inspection patterns; the absence of broad vertical scanning or long-range browsing/search-like excursions makes INTERPRET the closest class.",
+  "correct": true
+}

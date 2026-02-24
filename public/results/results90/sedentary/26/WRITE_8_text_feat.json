@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like region with many short horizontal saccades and revisits between nearby lines/tokens, plus frequent returns to a small top area (likely the code header) and no evidence of scrolling through long text or dynamic stimuli. This tightly looped, local inspection pattern matches the INTERPRET examples more than the broader navigation in DEBUG/WRITE or the systematic line scanning in READ/SEARCH.",
+  "correct": false
+}

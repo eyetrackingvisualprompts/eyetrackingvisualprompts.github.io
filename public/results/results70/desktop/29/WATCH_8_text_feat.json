@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze stays mostly within a central region with many medium-length fixations and moderate vertical/horizontal shifts, interspersed with occasional larger moves\u2014this pattern matches scanning and shifting between elements typical of web browsing, and closely resembles the provided BROWSE examples more than the more regular horizontal sweeps of READ or the more dispersed movements of PLAY/WATCH.",
+  "correct": false
+}

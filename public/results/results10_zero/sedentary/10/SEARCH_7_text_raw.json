@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze exhibits frequent large saccades across wide screen regions (center, corners, edges) with irregular, non-linear paths and little evidence of line-by-line or code-structured scanning, matching dynamic scene viewing typical of watching a video rather than the more structured, locally clustered patterns of reading, coding, debugging, searching, or browsing text-based content.",
+  "correct": false
+}

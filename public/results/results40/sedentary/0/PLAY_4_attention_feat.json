@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across both mid-top and mid-center regions, resembling scanning of a search results page with attention to the query area and multiple result snippets, which matches the SEARCH example pattern more than the others.",
+  "correct": false
+}

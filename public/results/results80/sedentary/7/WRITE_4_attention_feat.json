@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is heavily concentrated on a single left-side region (coding area) with a smaller secondary cluster on the right (tool/output panel), matching the focused, bi-region pattern seen in the WRITE example rather than the broader or more central distributions of other tasks.",
+  "correct": true
+}

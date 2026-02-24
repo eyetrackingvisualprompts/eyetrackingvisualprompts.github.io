@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps between widely separated fixation locations across both horizontal and vertical axes, with each cluster relatively stable before the next jump. This pattern of scattered fixations and multidirectional saccades matches the random target-following behavior of Random Saccades rather than the more structured, line-like, or localized patterns of the other tasks.",
+  "correct": true
+}

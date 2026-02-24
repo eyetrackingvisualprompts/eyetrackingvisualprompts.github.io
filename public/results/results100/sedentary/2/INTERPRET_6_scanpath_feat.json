@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a single code area on the left with occasional long saccades, closely matching the INTERPRET example pattern and distinct from the more dispersed DEBUG or WRITE scanpaths.",
+  "correct": true
+}

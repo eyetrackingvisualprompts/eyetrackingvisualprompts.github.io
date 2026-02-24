@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered around mid-horizontal, slightly upper vertical positions with long, stable fixations and short, small-amplitude intra-line saccades, matching the sustained, line-based pattern seen in the READ examples and lacking the larger exploratory shifts typical of SEARCH/BROWSE or the dispersed motion of PLAY/WATCH/WRITE.",
+  "correct": false
+}

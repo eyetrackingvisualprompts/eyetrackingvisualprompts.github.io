@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts frequently between widely separated screen regions (center, top, bottom, left/right) with many medium-length fixations and revisits, indicating scanning a long, scrollable heterogeneous page rather than line-by-line reading, static code, or tracking moving game objects or video scenes\u2014patterns most consistent with free web browsing behavior in the examples.",
+  "correct": false
+}

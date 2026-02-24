@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows varied horizontal and vertical movements with frequent shifts between different regions, including some reading-like segments and large transitions, matching the heterogeneous, exploratory pattern typical of search engine use rather than the more structured or localized patterns of the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a narrow region with many medium-to-long fixations and only small, mostly horizontal/vertical micro-saccades, indicating sustained attention to a local text area (e.g., a line/paragraph) rather than broad visual exploration or large context switches typical of search, browsing, video watching, or game play.",
+  "correct": false
+}

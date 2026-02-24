@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates almost strictly between approximately -15 and +15 degrees on the horizontal axis with minimal vertical deviation and ~0.2\u20130.3 s large-amplitude saccades followed by several hundred ms fixations, matching the structured \u00b115\u00b0 horizontal target-following paradigm of the Horizontal Saccades class.",
+  "correct": true
+}

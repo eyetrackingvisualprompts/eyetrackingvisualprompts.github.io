@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered near the screen center with moderate dispersion and frequent shifts within a compact region, resembling the browsing example\u2019s mixed fixations and short exploratory saccades more than the linear scanlines of READ or the peripheral patterns of WATCH/WRITE/PLAY/SEARCH.",
+  "correct": false
+}

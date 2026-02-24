@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated near the screen center with many scattered points around, indicating frequent tracking of a moving object and quick saccades across directions, which closely matches the PLAY example heatmap and typical game gaze behavior.",
+  "correct": true
+}

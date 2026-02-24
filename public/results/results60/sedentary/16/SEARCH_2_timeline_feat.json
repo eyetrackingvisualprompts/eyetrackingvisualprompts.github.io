@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated vertical shifts between two main horizontal bands with intermittent larger excursions, matching the pattern of scanning search results and occasionally opening pages, which aligns best with the SEARCH example timeline compared to the other activities.",
+  "correct": true
+}

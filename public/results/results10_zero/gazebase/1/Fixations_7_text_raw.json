@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain within a very small region around the screen center (on the order of 1\u00b0 or less) with only slow drift and microfluctuations and no large, discrete saccades between distinct locations, which matches sustained fixation on a static central target rather than tracking moving stimuli or reading across lines of text.",
+  "correct": true
+}

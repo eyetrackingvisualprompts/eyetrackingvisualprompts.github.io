@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form several dense horizontal bands stacked vertically, indicating systematic line-by-line reading over a constrained central region of the screen, matching the reading pattern seen in the READ example.",
+  "correct": true
+}

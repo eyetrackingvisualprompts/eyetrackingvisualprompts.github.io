@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around a central region with moderate scattered movements, resembling the example BROWSE pattern more than the more linear horizontal patterns of READ/WRITE or the edge-focused patterns of WATCH/PLAY.",
+  "correct": false
+}

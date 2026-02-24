@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around the upper-middle area with several nearby clusters, similar to the SEARCH example where attention is focused near the search bar and top results, rather than spread like BROWSE or line-structured like READ/WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent vertical saccades and wide X movements with relatively little structured, line-by-line reading or code inspection behavior. Around 28\u201330s there is a sharp downward Y shift followed by dynamic scanning, resembling tracking moving objects or navigating in a game more than the steadier patterns of READ/WRITE/DEBUG/INTERPRET or the more moderate exploration of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band with frequent short saccades between nearby positions and occasional long jumps to a far-right cluster, consistent with moving between a code snippet and its output/mental workspace. The long, stable fixation (~2.3s) and multiple sub\u2011second fixations suggest intensive inspection and reasoning on a small structured area (like code) rather than broad scanning (BROWSE/SEARCH), continuous following (WATCH/PLAY), or line-by-line reading (READ). This pattern best matches INTERPRET, where participants carefully examine provided code to infer its output.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze stays in a compact central area with relatively small, systematic shifts and moderate saccades, indicating focused inspection of a limited code snippet rather than broad navigation or line-by-line reading; this pattern most closely matches the INTERPRET example.",
+  "correct": false
+}

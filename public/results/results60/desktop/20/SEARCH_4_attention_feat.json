@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread vertically through mid-screen with a central cluster around the middle, resembling scrolling and scanning of a web/news page, similar to the BROWSE example and less line-structured than READ or more peripheral than PLAY/WRITE/WATCH.",
+  "correct": false
+}

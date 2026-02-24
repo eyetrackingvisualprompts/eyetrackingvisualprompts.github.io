@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain relatively stable with minor jitter and a few brief vertical saccades, showing no systematic horizontal scanning or line-by-line reading typical of text or search/browse tasks, and lacking the rapid, wide movements common in games; this pattern best matches passive video watching.",
+  "correct": false
+}

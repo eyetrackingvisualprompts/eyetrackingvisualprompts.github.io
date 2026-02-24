@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shows discrete jumps to various positions across both horizontal and vertical axes, with intervals of relative stability at each location and no consistent left-right pattern or sustained central fixation, matching a target that moves unpredictably across the screen as in Random Saccades.",
+  "correct": false
+}

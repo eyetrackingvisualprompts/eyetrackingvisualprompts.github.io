@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is mainly confined to a narrow horizontal band with slow, small shifts in X and a relatively stable, slowly drifting Y position, matching the structured left-to-right, top-to-bottom scanning pattern characteristic of reading rather than the larger, more scattered movements seen in browsing, searching, playing, watching, or writing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are constrained to a narrow horizontal band with relatively stable positions and limited vertical movement, closely matching the WRITE pattern where gaze stays around a single text line and interface area, unlike the broader scanning or dynamic shifts seen in SEARCH, BROWSE, PLAY, WATCH, or READ.",
+  "correct": false
+}

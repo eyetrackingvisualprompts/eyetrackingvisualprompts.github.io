@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points cluster in a compact code-like region with many short horizontal and vertical shifts, revisits to similar coordinates, and occasional larger jumps, closely matching the INTERPRET example\u2019s pattern of scrutinizing and re-reading a code snippet rather than the broader scanning (SEARCH/BROWSE) or more dynamic movements (WATCH/PLAY).",
+  "correct": false
+}

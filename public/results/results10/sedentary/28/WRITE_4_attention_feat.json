@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is highly concentrated in a single compact region on the left-center of the screen with minimal dispersion, closely matching the DEBUG example heatmap where participants focus intensely on a small code area while fixing errors.",
+  "correct": false
+}

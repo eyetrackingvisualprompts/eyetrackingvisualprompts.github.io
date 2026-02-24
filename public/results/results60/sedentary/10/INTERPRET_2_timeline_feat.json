@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow lower-left coding area with relatively stable X fixation and modest Y drift, plus occasional large vertical saccades likely to UI elements (run, console). This pattern closely matches the WRITE example and differs from the more scattered or top-shifting patterns seen in READ, SEARCH, or BROWSE.",
+  "correct": false
+}

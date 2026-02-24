@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze alternates repeatedly between a compact code/output region (around y\u2248250\u2013340) and several scattered positions lower on the screen (y\u2248450\u2013650), with many medium-long fixations and revisits to nearly identical coordinates. This pattern reflects intensive re-reading and checking small code segments rather than the more structured line-by-line pattern of READ, the broad exploratory jumps of SEARCH/BROWSE, or the dynamic object following seen in WATCH/PLAY. It best matches the focused, back-and-forth inspection typical of INTERPRET (predicting code output).",
+  "correct": false
+}

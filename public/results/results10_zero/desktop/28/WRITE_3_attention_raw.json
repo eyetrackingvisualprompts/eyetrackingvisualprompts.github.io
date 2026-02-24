@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are mostly aligned along a horizontal band with progressive movement from left to right and some regressions, matching line-by-line reading behavior more than the other activities, which would show more scattered or clustered patterns (e.g., around controls, search box, or dynamic game/video elements).",
+  "correct": false
+}

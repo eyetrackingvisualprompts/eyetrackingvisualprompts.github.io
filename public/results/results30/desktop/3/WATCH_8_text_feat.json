@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays in a narrow horizontal band around mid-screen with long, stable fixations and short, small saccades, closely matching the sustained line-by-line scanning pattern seen in the READ examples rather than the more exploratory or dispersed patterns of search, browse, watch, play, or the left-biased writing layout.",
+  "correct": false
+}

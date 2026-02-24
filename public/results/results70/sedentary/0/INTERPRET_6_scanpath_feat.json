@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region on the left where code would appear, with dense fixations and short saccades plus occasional vertical excursions, closely matching the INTERPRET example and differing from the broader, more dispersed patterns of tasks like BROWSE, DEBUG, or WRITE.",
+  "correct": true
+}

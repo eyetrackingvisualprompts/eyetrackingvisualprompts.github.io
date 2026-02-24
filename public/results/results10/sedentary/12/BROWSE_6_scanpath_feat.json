@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows wide vertical and horizontal excursions between dispersed clusters, with revisits to regions resembling result snippets and occasional jumps to the top, consistent with exploring a search results page rather than the tighter, more localized patterns of coding or reading tasks.",
+  "correct": false
+}

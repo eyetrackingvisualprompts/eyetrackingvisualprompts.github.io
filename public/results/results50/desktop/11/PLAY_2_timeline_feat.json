@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered around mid\u2013upper screen with slow, small horizontal shifts and limited vertical range, matching the stable line-by-line scanning pattern seen in the READ example rather than the more dispersed or dynamic movements of other tasks.",
+  "correct": false
+}

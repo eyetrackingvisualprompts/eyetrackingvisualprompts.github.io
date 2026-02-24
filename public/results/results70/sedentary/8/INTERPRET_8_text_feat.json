@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a narrow vertical band with many short back\u2011and\u2011forth regressions around line-like y-ranges (~260\u2013360), characteristic of inspecting a small block of code. There is no long horizontal reading sweep as in READ, nor wide exploratory jumps as in SEARCH/BROWSE/PLAY/WATCH. The pattern closely matches the INTERPRET examples where gaze repeatedly revisits a few code lines to reason about behavior rather than scanning a larger file as in DEBUG or WRITE.",
+  "correct": true
+}

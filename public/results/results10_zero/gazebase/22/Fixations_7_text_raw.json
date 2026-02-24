@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trajectory shows repeated jumps of several degrees in both horizontal and vertical directions, followed by ~1 s clusters of relatively stable points at each new location. Movements are not constrained to a horizontal axis, nor centered, and include occasional large excursions, consistent with following a randomly moving target rather than smooth reading lines, continuous video scanning, or central fixation.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is constrained to a narrow horizontal band near the top-left, moving smoothly left-to-right along a line with small vertical variation, resembling reading and scanning across search results rather than broader exploration (BROWSE) or focused single-block code inspection (DEBUG/INTERPRET/WRITE).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow horizontal band with very small, systematic shifts and long local fixations, matching line-by-line reading behavior more than the larger vertical excursions and broader exploration seen in SEARCH or BROWSE, and lacking the large multi-directional movements typical of PLAY or WATCH or the top-left biased pattern common in WRITE.",
+  "correct": true
+}

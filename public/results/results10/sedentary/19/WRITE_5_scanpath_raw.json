@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a small code-area\u2013like region with short, repetitive movements and limited excursions, matching the concentrated, localized viewing pattern typical of debugging rather than the broader sweeps seen in reading, browsing, or search.",
+  "correct": false
+}

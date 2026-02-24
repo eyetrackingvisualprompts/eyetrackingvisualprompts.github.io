@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a few compact clusters, mainly along a horizontal band near the bottom center and a small region in the upper center, suggesting attention to stable regions of a full-screen visual scene rather than systematic line-by-line reading or scanning typical of text/code or web browsing; this pattern aligns best with watching a video.",
+  "correct": false
+}

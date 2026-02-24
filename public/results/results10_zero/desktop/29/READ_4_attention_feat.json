@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows gaze concentrated in a small, central region with minimal vertical or horizontal scanning, indicating the participant is steadily watching a central stimulus (such as a video) rather than reading, browsing, searching, writing, or actively tracking game elements, which typically produce broader or more structured scan patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are densely clustered in a small central region with limited horizontal spread, suggesting focused attention on a small, central interactive area typical for simple gameplay rather than the broader, more horizontally- or vertically-distributed patterns seen in reading, browsing, searching, watching videos, or writing.",
+  "correct": false
+}

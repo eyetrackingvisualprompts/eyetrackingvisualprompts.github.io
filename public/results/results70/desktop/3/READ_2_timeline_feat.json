@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows repeated large, diagonal sweeps in X with substantial Y changes, indicating continuous scanning across wide screen regions typical of controlling and tracking dynamic elements in a game, matching the PLAY pattern more than the more localized, text- or page-structured movements seen in READ, WRITE, BROWSE, WATCH, or SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points cover wide vertical and horizontal regions with large saccades between multiple dispersed clusters, indicating dynamic visual content and shifting attention across the screen, which is most consistent with watching a video rather than the more localized patterns seen in reading, writing, browsing, searching, or playing in the examples.",
+  "correct": false
+}

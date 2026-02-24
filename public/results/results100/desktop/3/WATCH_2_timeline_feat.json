@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, irregular movements in both X and Y with frequent short saccades and no strong directional scanning pattern (like line-by-line reading or stable typing area). This heterogeneous, center-biased exploration best matches the browsing behavior pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show discrete step-like jumps to various positions across the screen, with each position held roughly around one second before the next jump, matching the random multi-directional target movements of the Random Saccades task rather than strictly horizontal, static, or natural viewing patterns.",
+  "correct": false
+}

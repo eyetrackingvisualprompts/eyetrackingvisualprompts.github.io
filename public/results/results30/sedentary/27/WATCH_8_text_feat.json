@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows large, frequent jumps across widely separated screen regions (including edges/corners), alternating with medium-length fixations\u2014indicative of scanning SERP/results and different page areas rather than line-by-line reading or focused code inspection/debugging. This exploratory, non-structured pattern best matches the SEARCH task among the given classes.",
+  "correct": false
+}

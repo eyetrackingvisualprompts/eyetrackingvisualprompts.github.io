@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in a mostly horizontal, left-to-right pattern with clusters around similar y-coordinates that gradually increase (moving down the page), consistent with line-by-line reading rather than the larger, more scattered movements typical of search, browsing, coding, or game play.",
+  "correct": true
+}

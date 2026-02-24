@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are dispersed over a broad central region with frequent long saccades in many directions and no clear reading or code-inspection structure, closely matching the dynamic, multi-directional scanpath pattern shown in the PLAY example.",
+  "correct": false
+}

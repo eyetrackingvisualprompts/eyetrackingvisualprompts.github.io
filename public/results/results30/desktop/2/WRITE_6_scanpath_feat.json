@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze positions are clustered in a relatively central area with frequent multidirectional saccades and revisits, resembling the exploratory, non-linear scanpath of the SEARCH example more than the more linear READ/WRITE or tightly clustered BROWSE patterns.",
+  "correct": false
+}

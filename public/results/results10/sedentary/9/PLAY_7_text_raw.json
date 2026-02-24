@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Wide spatial coverage with many rapid shifts between disparate screen regions (top, center, bottom), including repeated movements around mid-right and lower areas, matches dynamic object tracking and navigation patterns seen in the PLAY examples rather than the more line- or block-structured gaze of reading, coding, or web tasks.",
+  "correct": true
+}

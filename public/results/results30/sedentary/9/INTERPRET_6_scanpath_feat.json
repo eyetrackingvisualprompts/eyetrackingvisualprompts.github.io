@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on a central code area with some vertical shifts to a lower region (likely console or error messages) and occasional large saccades, closely matching the DEBUG example scanpath compared to other activities.",
+  "correct": false
+}

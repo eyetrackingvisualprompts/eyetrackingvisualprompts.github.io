@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a single horizontal band across the mid-screen with several focused clusters and limited vertical movement, closely matching the INTERPRET example heatmap where participants inspect a compact code snippet to reason about its output, rather than the more dispersed or vertically structured patterns of other tasks.",
+  "correct": false
+}

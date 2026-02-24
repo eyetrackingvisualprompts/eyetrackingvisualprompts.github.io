@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (center-to-corners, top/bottom, off-text areas), many revisits to central zones, and dynamic up-down/diagonal movements resemble tracking moving game elements far more than the more line-structured, horizontal patterns of reading/browsing or the localized code-focused patterns of write/debug/interpret.",
+  "correct": true
+}

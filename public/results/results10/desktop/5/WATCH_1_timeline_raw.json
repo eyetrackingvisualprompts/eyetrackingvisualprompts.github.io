@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, step-like horizontal movements with relatively stable plateaus and small vertical drift, matching the line-by-line scanning pattern typical of reading text rather than the more erratic or wide-ranging movements seen in browsing, playing, searching, or watching video.",
+  "correct": false
+}

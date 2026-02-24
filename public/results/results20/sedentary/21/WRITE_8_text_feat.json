@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered around a compact code-like region with many medium-duration (0.6\u20131.7s) fixations and short local saccades, plus occasional jumps likely to other code lines, closely matching the INTERPRET examples where attention is sustained on a small portion of code to reason about its output rather than more extensive vertical scanning (READ) or broader exploration (DEBUG/BROWSE).",
+  "correct": false
+}

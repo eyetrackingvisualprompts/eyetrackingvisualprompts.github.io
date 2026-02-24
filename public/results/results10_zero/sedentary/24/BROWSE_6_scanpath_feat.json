@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows a few large vertical and horizontal shifts with relatively sparse fixations, suggesting following dynamic on-screen content rather than dense line-by-line reading or detailed code inspection. This broad, less-structured scanning is most consistent with watching a full-screen video.",
+  "correct": false
+}

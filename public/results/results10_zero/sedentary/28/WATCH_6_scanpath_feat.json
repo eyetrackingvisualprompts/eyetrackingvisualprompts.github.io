@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large saccades spanning wide screen areas with scattered fixations and no clear line-by-line or columnar structure suggest tracking dynamic elements across the display, characteristic of gameplay rather than reading, coding-related tasks, or passive watching.",
+  "correct": false
+}

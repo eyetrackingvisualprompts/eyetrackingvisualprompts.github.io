@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated large-amplitude, purely horizontal movements between two stable positions at the same vertical level, matching the bull\u2019s-eye target moving left-right in the Horizontal Saccades task rather than the more varied patterns of the other activities.",
+  "correct": true
+}

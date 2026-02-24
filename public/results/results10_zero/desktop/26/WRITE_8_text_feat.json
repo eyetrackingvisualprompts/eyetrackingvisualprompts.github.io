@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows clusters of medium-to-long fixations with relatively small horizontal and vertical shifts, consistent with focusing on localized text regions and occasional larger saccades to new areas (e.g., new lines/paragraphs), which is characteristic of reading behavior rather than the more dispersed or dynamic gaze patterns of search, browsing, video watching, writing, or gameplay.",
+  "correct": false
+}

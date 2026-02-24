@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread across upper and mid screen with frequent horizontal movements between left and center regions and some vertical transitions, resembling scanning result lists and snippets; pattern matches the SEARCH example more than the others.",
+  "correct": true
+}

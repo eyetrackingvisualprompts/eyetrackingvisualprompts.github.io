@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are distributed over a moderately sized central area with frequent shifts among multiple nearby locations, resembling scanning of various elements on a webpage. The pattern is less structured than reading lines of text and more localized than exploratory search, matching the browsing example most closely.",
+  "correct": true
+}

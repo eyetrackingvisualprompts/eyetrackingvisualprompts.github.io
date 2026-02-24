@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is highly stationary with very long fixations clustered in a narrow horizontal band around mid-height (y\u22480.65\u20130.71), with only tiny corrective saccades and minimal spatial exploration. This sustained, line-like viewing pattern closely matches the stable, text-line tracking behavior seen in the READ examples and is unlike the broader exploratory movements in BROWSE/SEARCH or the large visual shifts in PLAY/WATCH/WRITE.",
+  "correct": false
+}

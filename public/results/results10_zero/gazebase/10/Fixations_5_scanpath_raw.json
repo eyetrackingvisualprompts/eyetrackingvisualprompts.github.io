@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows a compact cluster of fixations with irregular multidirectional jumps within a limited central region, rather than systematic left\u2013right sweeps (horizontal saccades), line-by-line progressions (reading), or a single near-static point (fixation). This pattern best matches following a target that jumps unpredictably to new positions held briefly, consistent with Random Saccades.",
+  "correct": false
+}

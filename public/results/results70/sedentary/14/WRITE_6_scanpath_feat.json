@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a compact code/editor area on the left with occasional long saccades to a smaller region on the right (e.g., console or reference), closely matching the WRITE example pattern and differing from the more dispersed or strictly line-based patterns of browse/read/search.",
+  "correct": true
+}

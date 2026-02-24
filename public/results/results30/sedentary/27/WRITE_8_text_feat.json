@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades between far-left/center text-like regions (~200\u2013600x) and far-right mid-screen (~1550\u20131670x), with revisits and short local adjustments, match scanning across a webpage and between content and side areas (e.g., ads, sidebar) typical of BROWSE rather than the more line-structured patterns of READ or the code-centered, tighter clusters of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

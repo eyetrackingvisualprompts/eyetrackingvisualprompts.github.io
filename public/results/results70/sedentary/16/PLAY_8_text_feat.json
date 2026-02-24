@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Long, repeated fixations around a horizontal band consistent with reading SERP snippets, interleaved with frequent large saccades to widely separated screen regions (top bar, side, lower areas), matching exploratory scanning typical of search results rather than the more localized, structured inspection seen in code (INTERPRET/DEBUG/WRITE) or the smoother line-wise patterns in READ/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze follows smooth, mostly horizontal scanpaths at several nearby vertical bands (y\u2248300, 330\u2013370, 400\u2013460, 480\u2013530) with medium-length fixations and short progressive saccades plus occasional regressions, matching line-by-line reading behavior rather than the more scattered or vertical patterns seen in other tasks.",
+  "correct": true
+}

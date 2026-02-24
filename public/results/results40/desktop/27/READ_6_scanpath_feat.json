@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points form a tight cluster around a central region with small saccades and no systematic horizontal or vertical sweep, indicating repeated attention to one localized area (e.g., search results) rather than line-by-line reading, wide exploration, or game-like large shifts; this pattern best matches the SEARCH example.",
+  "correct": false
+}

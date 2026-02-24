@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Initial fixations and saccades concentrate around a horizontal band (likely top results area) and then jump vertically between widely separated regions (top bar, upper content, mid, and lower page), similar to the example SEARCH pattern where gaze alternates between query/results header and different result snippets, rather than the more line-structured READ pattern or focused code-area loops of WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

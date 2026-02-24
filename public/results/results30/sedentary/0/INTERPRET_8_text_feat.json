@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a code-like central band with many short saccades and medium\u2013long fixations, frequent revisits to nearly identical coordinates, and repeated shifts between a mid-code region and upper/side areas (likely editor, console, or toolbars), matching the sustained, iterative pattern of code writing rather than the more scanning-heavy patterns of browse/search or the structured top-down reading pattern.",
+  "correct": false
+}

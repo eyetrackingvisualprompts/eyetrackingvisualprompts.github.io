@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points jump unpredictably across both horizontal and vertical axes with large amplitudes and no clear structure (such as rows for reading or a tight cluster for fixation), matching the pattern of following a target that moves to random screen locations.",
+  "correct": false
+}

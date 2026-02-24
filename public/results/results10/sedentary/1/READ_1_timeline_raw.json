@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The X position shows repeated horizontal sweeps with sharp regressions, while Y remains nearly constant, matching line-by-line reading behavior and closely resembling the READ example pattern.",
+  "correct": true
+}

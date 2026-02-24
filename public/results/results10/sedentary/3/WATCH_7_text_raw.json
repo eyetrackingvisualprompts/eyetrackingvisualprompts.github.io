@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Long sequences of clustered fixations around code-like coordinate regions with frequent short saccades, revisits to similar areas, and vertical transitions between mid and lower screen resemble the provided DEBUG example more than other tasks, which show either smoother reading scans, broad exploratory browsing/search, or more central video watching patterns.",
+  "correct": false
+}

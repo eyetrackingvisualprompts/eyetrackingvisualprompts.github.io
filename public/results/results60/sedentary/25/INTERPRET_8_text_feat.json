@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, repeated fixate\u2013scroll\u2013return cycles between a narrow code region (around y\u2248250\u2013350) and output/console-like lower areas (y\u2248500\u2013600), with many revisits to the same code lines and occasional large off-screen saccades, match the intensive line-by-line checking and re-checking typical of debugging rather than smoother, more uniform reading or broader exploratory browsing.",
+  "correct": false
+}

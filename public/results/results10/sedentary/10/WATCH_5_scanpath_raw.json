@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows widespread gaze across left and right code/editor regions with large saccades and revisits, including movement toward likely console or reference areas, closely matching the exploratory and back-and-forth pattern seen in the WRITE example rather than the more localized DEBUG or INTERPRET patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is distributed over a relatively wide central area with frequent shifts between dispersed fixation clusters, resembling following dynamic on-screen content rather than the structured horizontal patterns of reading/searching or the more localized regions typical of coding-related tasks; this pattern best matches the WATCH example.",
+  "correct": false
+}

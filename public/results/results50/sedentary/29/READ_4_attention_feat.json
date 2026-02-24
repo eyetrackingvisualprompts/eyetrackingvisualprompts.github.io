@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed horizontally along the upper part of the screen in a band, resembling scanning across search results or links, with some additional lower fixations similar to scrolling or checking elements below\u2014matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

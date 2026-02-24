@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a compact region on the left side of the screen, similar to the WRITE example where attention is focused on the code editor area rather than spread across lines or multiple panels, indicating concentrated work on editing/implementing code.",
+  "correct": false
+}

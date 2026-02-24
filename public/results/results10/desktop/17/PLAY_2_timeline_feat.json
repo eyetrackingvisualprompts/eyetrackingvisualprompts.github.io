@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent changes in both X and Y positions with wide vertical coverage and irregular gaze shifts resemble the dynamic, multidirectional gaze patterns seen in the PLAY example more than the more structured, line-based or vertically constrained patterns in READ, WRITE, BROWSE, SEARCH, or WATCH.",
+  "correct": true
+}

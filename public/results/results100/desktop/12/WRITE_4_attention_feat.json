@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations form a compact cluster slightly above screen center with some vertical spread, similar to the SEARCH example where attention is focused around the central results area and query box, rather than the more horizontal band of READ or the upper strip of WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are distributed around central screen regions with moderate, irregular movements in both X and Y, resembling the mixed, less-structured scanning behavior in the BROWSE example rather than the more systematic horizontal patterns of READ/WRITE or the larger excursions of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

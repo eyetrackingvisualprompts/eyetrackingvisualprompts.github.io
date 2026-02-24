@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow vertical band on the left side of the screen with two main hotspots at different heights, matching the pattern of repeatedly shifting between code lines typical of debugging, and closely resembling the DEBUG example heatmap.",
+  "correct": true
+}

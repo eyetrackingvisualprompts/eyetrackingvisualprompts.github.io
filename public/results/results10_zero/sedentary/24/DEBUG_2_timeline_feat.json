@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change slowly with small vertical and horizontal shifts, showing long stable fixations and minimal rapid scanning or structured line-by-line reading. This consistent, smooth pattern over 10 seconds best matches passively watching a video rather than active tasks like reading, coding, searching, or playing a game.",
+  "correct": false
+}

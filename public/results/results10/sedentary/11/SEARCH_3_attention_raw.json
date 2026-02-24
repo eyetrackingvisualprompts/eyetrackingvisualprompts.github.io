@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated in a narrow horizontal band around the upper-middle of the screen, matching typical attention to a single line of search results, with occasional fixations at the top and far right resembling query box and browser UI checks, similar to the SEARCH example heatmap.",
+  "correct": true
+}

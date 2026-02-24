@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze moves mainly horizontally with clustered fixation y-levels that step downward over time, consistent with line-by-line reading patterns rather than symmetric oscillations (horizontal saccades), static gaze (fixations), or large 2D/random/game-like exploration (random saccades, Balura, video viewing).",
+  "correct": true
+}

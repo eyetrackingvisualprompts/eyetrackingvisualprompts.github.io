@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow, left-side vertical band with repeated up\u2013down movements across a limited horizontal range, consistent with focusing on a code editor while typing and occasionally moving between nearby lines, which matches programming/write behavior more than reading prose, browsing, or dynamic visual tasks like games or video.",
+  "correct": true
+}

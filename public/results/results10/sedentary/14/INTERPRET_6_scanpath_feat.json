@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a small region on the upper-left, similar to the DEBUG example where attention is focused on a compact code area rather than scanning lines horizontally as in READ/BROWSE or moving broadly as in WATCH/PLAY/SEARCH.",
+  "correct": false
+}

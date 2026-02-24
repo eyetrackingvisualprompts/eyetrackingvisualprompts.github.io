@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze primarily oscillates horizontally between negative and positive X positions (around \u00b18 degrees) with relatively small vertical variation, showing repeated left-right transitions characteristic of following a horizontally moving target rather than the more 2D or irregular patterns expected in random saccades, reading, gaming, or video viewing.",
+  "correct": false
+}

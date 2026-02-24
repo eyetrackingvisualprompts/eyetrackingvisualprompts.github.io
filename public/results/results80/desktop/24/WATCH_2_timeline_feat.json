@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Both X and Y fixation traces show moderate, irregular shifts across a broad vertical range with frequent scattered saccades, resembling the heterogeneous scanning and result-page transitions seen in the SEARCH example more than the more structured READ pattern or the more dynamic PLAY/WATCH traces.",
+  "correct": false
+}

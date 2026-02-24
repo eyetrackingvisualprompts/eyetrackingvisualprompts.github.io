@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small central-left area (likely code editor), with frequent short saccades and revisits to the same region rather than broad horizontal reading or wide exploratory movements. This focused, revisiting pattern matches the INTERPRET example more closely than other tasks.",
+  "correct": false
+}

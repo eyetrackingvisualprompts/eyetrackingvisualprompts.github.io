@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a mostly horizontal line across mid-screen with progressive left-to-right movement and relatively stable vertical position, matching the reading pattern example rather than the more clustered or widely shifting patterns of other activities.",
+  "correct": true
+}

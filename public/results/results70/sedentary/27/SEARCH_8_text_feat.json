@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large vertical and horizontal jumps between widely separated screen regions (top bar, mid-page, lower areas), scanning within result-like horizontal bands, and repeated revisits to mid-page content resemble exploration of search results rather than the more structured left-to-right lines of READ or the code-focused, cluster-heavy patterns of WRITE/DEBUG/INTERPRET. The pattern aligns best with SEARCH behavior.",
+  "correct": true
+}

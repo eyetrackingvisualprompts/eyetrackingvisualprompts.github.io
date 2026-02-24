@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern consists of medium-length fixations with frequent vertical shifts between mid and upper screen regions, and scanning around mid-horizontal positions\u2014characteristic of navigating and visually exploring web pages, closely matching the BROWSE example dynamics rather than the more horizontal, line-based READ or the more stationary WATCH/WRITE patterns.",
+  "correct": true
+}

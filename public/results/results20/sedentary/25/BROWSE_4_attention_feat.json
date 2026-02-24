@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper and middle parts of the screen with several distinct clusters, indicating scanning multiple items (e.g., search results and snippets) rather than focused reading or central play area tracking; this spatial pattern best matches the SEARCH example heatmap.",
+  "correct": false
+}

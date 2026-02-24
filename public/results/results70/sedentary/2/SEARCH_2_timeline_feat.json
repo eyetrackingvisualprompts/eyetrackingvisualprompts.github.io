@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large and frequent saccades in both X and Y directions with wide vertical coverage and rapid shifts resemble following moving objects or characters across the screen, which matches the dynamic gaze behavior seen in the PLAY examples more than the other, more text- or code-focused tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple discrete fixation clusters scattered across the full screen, including near the edges, with no clear horizontal line (reading/horizontal saccades) and no tight central cluster (fixation). The broad, evenly distributed pattern with roughly one-second dwell points is most consistent with following a randomly moving target across the display, i.e., Random Saccades.",
+  "correct": false
+}

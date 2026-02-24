@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large gaze shifts between central/content areas and extreme screen regions (including off-screen coordinates), with irregular vertical and horizontal movements and revisits to top navigation-like zones, match the heterogeneous, exploratory pattern seen in BROWSE rather than the more structured, line-based patterns of READ/WRITE/INTERPRET/DEBUG or the smoother focal behavior of WATCH/PLAY/SEARCH.",
+  "correct": true
+}

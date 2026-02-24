@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows scattered fixations over a mid-screen region with frequent saccades in multiple directions, indicating exploration of several interface elements (results list, snippets, controls). This pattern aligns best with the SEARCH examples, which involve active information seeking across varied on-screen locations rather than the more linear patterns of READ/WRITE or the localized clusters of BROWSE/WATCH.",
+  "correct": false
+}

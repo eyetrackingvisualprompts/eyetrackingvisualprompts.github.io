@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Dense clusters of fixations in the upper-left code/toolbar region followed by repeated revisits to mid and lower screen bands (around y\u2248400\u2013600), with many short saccades and local re-inspections, match the WRITE example\u2019s pattern of moving between code lines, console, and UI elements, rather than the more linear scanpaths of READ/BROWSE or the smoother central focus of WATCH/PLAY.",
+  "correct": false
+}

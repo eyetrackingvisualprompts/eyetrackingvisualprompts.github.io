@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are widely dispersed across the screen, including far left/right and near the bottom, with no clear horizontal reading lines or dense clusters on code/text areas. This broad spatial coverage and frequent shifts resemble the PLAY example more than the other tasks, indicating visually tracking game elements across the display.",
+  "correct": false
+}

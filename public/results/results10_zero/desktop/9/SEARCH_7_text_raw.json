@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show predominantly horizontal movements within narrow vertical bands, with occasional downward shifts and returns\u2014characteristic of line-by-line reading and line changes\u2014rather than the larger, more scattered or dynamic shifts typical of search, browsing, gaming, or video watching.",
+  "correct": false
+}

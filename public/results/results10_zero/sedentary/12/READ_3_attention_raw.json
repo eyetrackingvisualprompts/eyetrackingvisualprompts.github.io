@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a narrow horizontal band of fixations concentrated along a single line near the center of the screen, consistent with left-to-right line reading behavior rather than dispersed exploration (SEARCH/BROWSE), large-area viewing (WATCH/PLAY), or code-focused tasks (WRITE/INTERPRET/DEBUG).",
+  "correct": true
+}

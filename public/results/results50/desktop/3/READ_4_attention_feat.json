@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a central-mid vertical region with some horizontal spread, matching the browsing example heatmap where attention is around the middle of a webpage rather than top text lines (READ/WRITE) or upper area (WATCH), indicating interaction with mixed web content as in BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The target data shows large, irregular multi-directional gaze shifts across wide regions of the display with no clear periodicity or strict horizontal pattern, along with many short local fixations at disparate positions\u2014this best matches the behavior of following a target that jumps unpredictably as in the Random Saccades condition, rather than the more structured or constrained patterns of the other tasks.",
+  "correct": false
+}

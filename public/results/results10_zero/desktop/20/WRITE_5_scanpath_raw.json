@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains in a relatively small central region with irregular, non-linear movements and no clear horizontal line-by-line patterns typical of reading or writing. The compact cluster without extensive vertical scanning aligns more with watching a localized dynamic stimulus (video content) than with search or browsing, which usually involve broader vertical navigation, or play, which tends to use a larger screen area.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows frequent large vertical excursions between central horizontal band (~0.3\u20130.6) and extreme top/bottom regions (e.g., y\u22480.04, 0.60, 0.63) with rapid returns, indicating dynamic tracking of moving objects or areas across the screen. This spatio\u2011temporal pattern with repeated long saccades and short fixations matches the PLAY examples more than the more locally constrained, horizontally-structured patterns of READ/WRITE or the mixed but less extreme shifts in BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

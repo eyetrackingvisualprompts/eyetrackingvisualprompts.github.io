@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact horizontal band with limited vertical spread and mostly local saccades, closely matching the structured left-to-right, line-by-line pattern seen in the READ example rather than the more dispersed or multi-region patterns of BROWSE, SEARCH, PLAY, or WATCH.",
+  "correct": false
+}

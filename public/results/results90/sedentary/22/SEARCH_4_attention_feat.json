@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed horizontally across mid\u2013upper screen regions with several local hotspots and some activity near the top, resembling scanning of web content and menus; this pattern aligns best with the BROWSE example heatmap compared to the more centralized WATCH or localized coding tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely scattered across the screen with multiple regions of interest and no tight cluster on a single central object or code/text block, matching the heterogeneous, exploratory pattern seen in the BROWSE example rather than the more localized or structured patterns of the other activities.",
+  "correct": false
+}

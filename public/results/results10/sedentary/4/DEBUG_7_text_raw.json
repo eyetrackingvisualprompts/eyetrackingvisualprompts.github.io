@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a mid-screen code-like region with frequent short saccades and revisits among nearby coordinates, plus occasional larger jumps and off-screen artifacts\u2014closely matching the DEBUG examples and differing from more linear READ/BROWSE or highly dynamic PLAY/WATCH patterns.",
+  "correct": true
+}

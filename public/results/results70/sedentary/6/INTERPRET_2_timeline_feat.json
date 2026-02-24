@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a narrow region with very small horizontal and vertical movements and few large saccades, indicating focused inspection of a short static code snippet rather than extended reading, browsing, or dynamic content; this best matches the INTERPRET pattern among the examples.",
+  "correct": true
+}

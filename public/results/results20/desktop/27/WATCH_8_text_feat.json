@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze repeatedly alternates between a lower horizontal band (~y=0.23\u20130.28) and a central band (~y=0.45\u20130.51) near the screen center, with many medium-length saccades linking these areas and relatively short-to-moderate fixations. This vertical shuttling around mid-screen is more consistent with tracking and controlling a game character/HUD region than with the more line-structured horizontal scans of READ, the sidebar-focused WRITE, or the broader exploratory movements in SEARCH/BROWSE or the long stable fixations in WATCH.",
+  "correct": false
+}

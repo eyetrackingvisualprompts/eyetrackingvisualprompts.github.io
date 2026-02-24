@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows dense, localized fixations with moderate horizontal movement and comparatively small vertical shifts, similar to concentrated inspection of code seen in the DEBUG example, rather than the more linear READ pattern or the larger exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

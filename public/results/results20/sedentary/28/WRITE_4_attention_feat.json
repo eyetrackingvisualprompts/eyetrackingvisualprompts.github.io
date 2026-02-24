@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in two main vertical screen regions\u2014left-lower/mid (likely code and console) and right-middle (e.g., output or errors)\u2014with scattered transitions between them, matching the split-attention pattern of debugging rather than the more centralized or uniformly distributed patterns of other tasks.",
+  "correct": false
+}

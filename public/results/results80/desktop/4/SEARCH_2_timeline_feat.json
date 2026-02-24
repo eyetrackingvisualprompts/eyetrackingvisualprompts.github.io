@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively stable and horizontally constrained near mid-screen with small vertical range and regular saccades, matching the sustained line-by-line scanning seen in the READ example more than the higher-variability patterns of BROWSE, PLAY, or SEARCH.",
+  "correct": false
+}

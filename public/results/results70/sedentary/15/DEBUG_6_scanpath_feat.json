@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over the code area on the left with frequent regressions and occasional long saccades to the right side (likely console/output or debugger), matching the debug example pattern more than write or interpret.",
+  "correct": true
+}

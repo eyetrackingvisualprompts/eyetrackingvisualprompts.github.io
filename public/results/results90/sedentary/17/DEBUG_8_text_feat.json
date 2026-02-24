@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent long-range saccades to screen extremes (including off-content areas), alternated with many shorter, irregular fixations over a wide vertical span, resemble scanning heterogeneous web pages and UI elements rather than structured reading or code-centric tasks. The pattern closely matches the provided BROWSE examples with repeated jumps to top bars and varied regions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows gaze alternating almost exclusively between two horizontally separated positions at a constant vertical level, consistent with following a target moving left\u2013right along a single horizontal axis rather than random or complex movements.",
+  "correct": true
+}

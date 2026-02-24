@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small region with minimal horizontal/vertical excursions, indicating focused inspection of a compact code snippet or small text block rather than broader screen exploration; this pattern best matches the INTERPRET example.",
+  "correct": true
+}

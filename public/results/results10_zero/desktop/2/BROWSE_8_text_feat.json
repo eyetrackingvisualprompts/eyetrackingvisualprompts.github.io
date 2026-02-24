@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is largely constrained to a mid-screen band with short horizontal saccades and medium-length fixations, consistent with following lines of text. There are no large exploratory movements typical of SEARCH, BROWSE, or PLAY, nor the broader vertical shifts common in WATCH with subtitles or WRITE with cursor and document controls; the pattern best matches sustained reading behavior.",
+  "correct": false
+}

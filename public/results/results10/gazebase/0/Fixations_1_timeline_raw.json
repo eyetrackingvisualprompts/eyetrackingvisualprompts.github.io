@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both x and y gaze positions remain near 0 DVA with only brief vertical spikes likely due to blinks or artifacts, matching the mostly central, stable pattern characteristic of the Fixations condition rather than the larger, systematic movements seen in the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly concentrated in a single left-of-center code block area with minimal vertical or global exploration, closely matching the INTERPRET example where participants focus intensely on a small code snippet to infer its output.",
+  "correct": false
+}

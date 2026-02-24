@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are scattered over a relatively large vertical range with several distinct clusters, including near the top and mid-screen, resembling scanning of search results and different page elements rather than the tight code-oriented clusters of DEBUG/WRITE/INTERPRET or the focused band typical of READ or WATCH.",
+  "correct": false
+}

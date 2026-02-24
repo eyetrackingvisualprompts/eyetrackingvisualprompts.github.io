@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide, frequent transitions between widely separated screen regions (including off-center and near-UI coordinates), many vertical jumps, and irregular, non-line-based scanpaths with revisits to top/bottom areas resemble exploratory web browsing patterns rather than focused reading, code-oriented tasks, or game object tracking.",
+  "correct": true
+}

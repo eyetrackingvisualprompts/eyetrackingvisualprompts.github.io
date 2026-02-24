@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is mostly focused in a narrow central region with occasional sharp vertical spikes and brief horizontal shifts, closely matching the INTERPRET example pattern of concentrated code inspection with sporadic jumps, rather than the broader scanning or dynamic movements seen in other tasks.",
+  "correct": false
+}

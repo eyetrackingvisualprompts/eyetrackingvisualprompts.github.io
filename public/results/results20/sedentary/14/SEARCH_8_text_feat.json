@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades between widely separated screen regions (including top-left toolbar/address-bar area and mid/lower regions), with short fixations and irregular, non-line-based scanpaths, matches exploratory web browsing more than structured code reading/writing or line-by-line text reading.",
+  "correct": false
+}

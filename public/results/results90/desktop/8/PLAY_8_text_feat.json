@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium/large saccades between disparate screen regions (top, middle, bottom) interleaved with moderate fixations, with no clear line-based horizontal scanning or stable central cluster typical of reading or writing. The pattern resembles exploratory navigation over a vertically structured page (typical of web/news browsing) rather than the more bottom-centered focus of video watching or game play, or the more text-line-locked movements of reading/typing.",
+  "correct": false
+}

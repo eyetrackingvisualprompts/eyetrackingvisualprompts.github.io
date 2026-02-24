@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows a single, tight cluster at the central screen location with no spatial dispersion or multiple clusters, indicating sustained gaze on a static central target consistent with the Fixations task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows relatively long, stable fixations (often 0.3\u20131.1s) with moderate saccades and occasional larger shifts, consistent with focused reading or code comprehension. However, horizontal, line-by-line progression is not very clear, and there are substantial vertical and long-distance jumps that are more typical when scanning text blocks or transitioning between paragraphs than when browsing the web or searching (which usually involves more scattered, exploratory movements). Among the options, this sustained, localized attention without clear interactive object tracking best matches READ rather than WRITE/DEBUG/INTERPRET (which often have more back-and-forth between code regions and UI elements) or WATCH/PLAY (which usually exhibit more continuous motion following dynamic stimuli).",
+  "correct": false
+}

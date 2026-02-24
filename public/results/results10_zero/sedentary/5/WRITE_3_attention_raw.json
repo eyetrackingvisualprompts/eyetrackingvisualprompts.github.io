@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a small, upper-left area with limited vertical range, suggesting focused reading of a short text block rather than wide exploration (SEARCH/BROWSE), code spread (WRITE/DEBUG/INTERPRET), dynamic object following (PLAY), or full-screen distributed attention (WATCH).",
+  "correct": false
+}

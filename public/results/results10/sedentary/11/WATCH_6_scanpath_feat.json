@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Early large saccades from left to lower screen then sustained fixations and back-and-forth transitions between a central code area and a right-side region resemble switching between editor and reference/output, matching the WRITE pattern more than the more localized INTERPRET or scattered DEBUG examples.",
+  "correct": false
+}

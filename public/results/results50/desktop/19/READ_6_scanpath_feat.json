@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows predominantly horizontal movements with a slight upward drift and concentrated fixations along slanted text-like lines, plus occasional excursions toward lower regions (likely toolbar or other UI elements), which closely matches the pattern seen in the WRITE example rather than the more localized READ or dispersed SEARCH/BROWSE/PLAY/WATCH patterns.",
+  "correct": false
+}

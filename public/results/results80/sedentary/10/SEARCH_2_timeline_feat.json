@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large horizontal saccades with irregular, multi-directional patterns and gradual downward drift in Y, resembling scanning and shifting between varied web content rather than the more structured line-by-line patterns of READ/WRITE or the localized, stable patterns of INTERPRET/DEBUG.",
+  "correct": false
+}

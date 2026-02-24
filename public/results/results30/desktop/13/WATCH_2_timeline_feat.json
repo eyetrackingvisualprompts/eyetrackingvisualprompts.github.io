@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations stay around mid-screen with small, frequent shifts and mixed saccades, resembling the moderate, scattered exploration pattern seen in the BROWSE example rather than the more structured scanpaths of reading, writing, search results, or game/video viewing.",
+  "correct": false
+}

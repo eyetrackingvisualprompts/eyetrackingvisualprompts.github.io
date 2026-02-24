@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Early segment shows large vertical shifts in X and Y positions between code area and other interface regions, with some periods of low, stable X indicating typing while glancing less at the screen\u2014closely matching the WRITE example pattern rather than the more scan-heavy DEBUG or SEARCH behaviors.",
+  "correct": false
+}

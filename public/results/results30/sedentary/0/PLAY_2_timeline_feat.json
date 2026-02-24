@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gradual rightward drift of X fixations with intermittent vertical shifts and occasional larger saccades resembles scanning search results or moving between results and linked pages, matching the SEARCH pattern more than the more static READ/INTERPRET/DEBUG traces or the highly dynamic PLAY/WATCH behavior.",
+  "correct": false
+}

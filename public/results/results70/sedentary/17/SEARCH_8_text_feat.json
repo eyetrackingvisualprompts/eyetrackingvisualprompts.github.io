@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent horizontal sweeps across central screen regions, repeated passes over similar x-coordinates, intermittent jumps to top areas (likely tabs/search bar), and extended exploration of lower page regions match the structured, line-like but non-uniform scanning seen in the BROWSE examples rather than the tighter text lines of READ or the dynamic object-focused patterns of PLAY/WATCH.",
+  "correct": false
+}

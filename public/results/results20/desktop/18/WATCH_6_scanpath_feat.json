@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are tightly clustered with small horizontal and vertical spread, indicating steady fixations over a compact region consistent with reading a localized text area rather than the broader scans or dispersed movements seen in browsing, searching, playing, watching, or writing tasks.",
+  "correct": false
+}

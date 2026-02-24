@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a narrow horizontal band around mid-screen with sequential left-right fixations and limited vertical movement, matching the structured line-by-line pattern seen in the READ example more than the broader, more scattered patterns of SEARCH or BROWSE.",
+  "correct": false
+}

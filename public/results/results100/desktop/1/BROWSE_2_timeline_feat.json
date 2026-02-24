@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions cluster near the screen center with moderate, irregular saccades in both axes and no strong horizontal scanning pattern; this closely matches the example BROWSE behavior rather than the more structured patterns of reading, writing, or gameplay.",
+  "correct": true
+}

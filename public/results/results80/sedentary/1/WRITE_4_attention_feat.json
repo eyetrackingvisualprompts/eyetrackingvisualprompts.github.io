@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations on the upper-left code area with additional scattered looks toward the right side (likely output/console), closely matching the DEBUG example pattern and differing from more centralized or horizontally extended patterns of other tasks.",
+  "correct": false
+}

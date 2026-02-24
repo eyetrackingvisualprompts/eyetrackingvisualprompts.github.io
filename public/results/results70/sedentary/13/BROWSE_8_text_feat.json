@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across the full screen (including off-screen coordinates), rapid transitions between widely separated regions, and repeated moves between central gameplay-like areas and screen edges match the dynamic, spatially distributed gaze patterns typical of playing games rather than the more line- or code-structured patterns of reading, writing, or debugging.",
+  "correct": false
+}

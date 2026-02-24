@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small central region with modest horizontal range, limited vertical scanning, and frequent short saccades\u2014matching the focused, code-comprehension pattern seen in the INTERPRET example rather than the broader exploration of SEARCH/BROWSE or the structured line sweeps of READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in the upper-left code area with limited horizontal/vertical excursions and no broad exploration of screen regions, matching focused inspection of a static code snippet as seen in the INTERPRET example rather than the more dispersed patterns of DEBUG, WRITE, or browsing/reading tasks.",
+  "correct": false
+}

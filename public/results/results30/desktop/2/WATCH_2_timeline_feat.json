@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixation positions stay near the center with small, frequent shifts and relatively short saccades, resembling the moderate, scattered exploration pattern of browsing examples rather than the systematic scans of reading/writing or the wider movements of watching/playing/searching.",
+  "correct": false
+}

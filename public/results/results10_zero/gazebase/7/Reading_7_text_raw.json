@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions show discrete jumps between relatively stable clusters at various horizontal and vertical locations within the \u00b115\u00b0\u00d7\u00b19\u00b0 range, consistent with following a randomly moving target rather than strictly horizontal motion, central fixation, reading lines, game-driven selective fixations, or free video viewing.",
+  "correct": false
+}

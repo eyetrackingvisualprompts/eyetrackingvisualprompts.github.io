@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows two vertically separated clusters of fixations around the same x-position, indicating attention alternating between two main horizontal regions (e.g., article content and navigation/other elements). This pattern best matches the browsing example, where users shift between different webpage sections, rather than the more linear horizontal patterns of reading/writing or the broader, more dispersed patterns of search, watch, or play.",
+  "correct": false
+}

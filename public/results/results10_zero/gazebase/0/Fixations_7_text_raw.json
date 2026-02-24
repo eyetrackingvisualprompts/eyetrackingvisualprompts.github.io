@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trace shows many large, multidirectional jumps with substantial vertical as well as horizontal shifts, interleaved with short plateaus around relatively stable positions. This pattern matches following a single target that relocates to discrete, spatially varied positions each second, as in the Random Saccades task, rather than predominantly horizontal shifts (Horizontal Saccades), near-static gaze (Fixations), structured left-to-right line sweeps (Reading), complex clustered fixations on multiple small objects (Balura Game), or rich, varied naturalistic scanning typical of Video Viewing.",
+  "correct": false
+}

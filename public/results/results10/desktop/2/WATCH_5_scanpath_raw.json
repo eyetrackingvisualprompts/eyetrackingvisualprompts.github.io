@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated in a mid-screen region with short, multidirectional saccades and small-area exploration, closely resembling the example BROWSE pattern and differing from the more linear READ path or the wider, more dispersed SEARCH/WATCH/PLAY trajectories.",
+  "correct": false
+}

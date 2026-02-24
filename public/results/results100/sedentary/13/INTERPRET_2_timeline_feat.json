@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is mostly confined to a narrow central region with relatively small horizontal excursions and moderate vertical shifts, indicating focused inspection of a compact code snippet rather than extensive navigation or full-page reading. This matches the INTERPRET pattern more than the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered around the screen center with frequent multi-directional saccades and no strong horizontal band, indicating active navigation and scanning typical of web search pages rather than structured reading or static watching.",
+  "correct": false
+}

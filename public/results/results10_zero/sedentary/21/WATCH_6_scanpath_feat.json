@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in a few compact regions with repeated back-and-forth saccades between them and occasional jumps to a lower area, matching the pattern of scrutinizing and re-checking specific code segments typical of debugging rather than the more linear patterns of reading/browsing or the broader coverage seen in search or play tasks.",
+  "correct": false
+}

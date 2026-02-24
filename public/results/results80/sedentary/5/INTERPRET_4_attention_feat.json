@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a highly concentrated fixation cluster in the left-central area where a code snippet would appear, with minimal dispersion elsewhere\u2014most similar to the INTERPRET example pattern focused on a single code window with a few glances aside.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both horizontal and vertical gaze positions remain near the center with minimal variation over the full 10 s window, indicating sustained fixation on a static central target rather than large or patterned saccadic movements or exploratory viewing.",
+  "correct": true
+}

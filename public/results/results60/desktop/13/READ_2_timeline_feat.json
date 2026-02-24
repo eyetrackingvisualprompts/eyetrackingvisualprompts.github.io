@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows regular, monotonic left-to-right horizontal sweeps with small downward shifts in Y, forming a staircase pattern typical of line-by-line reading rather than the more scattered or vertically varied patterns seen in other tasks.",
+  "correct": true
+}

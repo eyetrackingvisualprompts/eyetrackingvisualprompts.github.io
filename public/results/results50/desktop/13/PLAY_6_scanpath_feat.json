@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster in a compact central region with moderate dispersion and non-linear movements, matching the mixed-focus pattern seen in browsing examples rather than the linear horizontal pattern of reading or the broader, more dynamic distributions of play, watch, or search tasks.",
+  "correct": false
+}

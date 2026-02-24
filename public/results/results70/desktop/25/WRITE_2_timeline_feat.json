@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Y fixations stay mostly in the lower half of the screen with occasional jumps upward, while X fixations vary more widely and irregularly, resembling following dynamic visual content rather than structured text or interface elements; this pattern best matches the WATCH example among the provided classes.",
+  "correct": false
+}

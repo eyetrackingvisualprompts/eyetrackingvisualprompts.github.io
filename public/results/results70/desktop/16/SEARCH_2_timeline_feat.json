@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around mid-horizontal positions with modest vertical range and frequent small saccades, indicating focused viewing of a central content area with limited scrolling, which best matches the browsing pattern rather than the broader vertical spans of reading, writing, or search tasks.",
+  "correct": false
+}

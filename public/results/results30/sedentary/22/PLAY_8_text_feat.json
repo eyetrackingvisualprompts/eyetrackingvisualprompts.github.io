@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact central code-like region with many medium/long fixations and short, local saccades plus frequent re-reading of nearly the same lines\u2014matching the interpret/debug family. Unlike DEBUG, there are no repeated large excursions to off-screen or far GUI elements; the pattern closely resembles the INTERPRET example\u2019s dense, line-bound, back-and-forth inspection of a single snippet to reason about its behavior.",
+  "correct": false
+}

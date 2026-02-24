@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a relatively small central-left area with occasional larger saccades to a few other points, closely matching the focused yet occasionally shifting pattern seen in the DEBUG example rather than the more linear (READ) or more scattered (BROWSE/SEARCH/WATCH/PLAY) patterns.",
+  "correct": false
+}

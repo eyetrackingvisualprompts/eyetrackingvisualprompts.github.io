@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated largely in horizontal bands near the top and mid-screen with repeated horizontal sweeps and some vertical shifts, matching scanning of search results and occasional movement to other page elements, which aligns best with the SEARCH pattern among the examples.",
+  "correct": false
+}

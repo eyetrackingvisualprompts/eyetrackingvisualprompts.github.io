@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large, frequent shifts across wide screen regions (from corners to center and varying heights) without the structured horizontal/vertical scanpaths or line-by-line patterns typical of reading, searching, coding, or browsing. The broad, dynamic movements align best with following changing visual content in a full-screen video.",
+  "correct": false
+}

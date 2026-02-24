@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "X and Y fixations drift slowly in one main region with few large saccades, resembling the stable, line-by-line code inspection pattern seen in DEBUG rather than the more scattered or dynamic movements of BROWSE, WATCH, or PLAY.",
+  "correct": false
+}

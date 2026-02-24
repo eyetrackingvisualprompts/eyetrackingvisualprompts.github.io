@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze points are clustered within a mid-screen region with irregular, multi-directional short saccades and varying fixation positions, matching the natural, exploratory pattern seen in the Video Viewing example rather than the structured sweeps of Reading or the constrained patterns of saccade or fixation tasks.",
+  "correct": true
+}

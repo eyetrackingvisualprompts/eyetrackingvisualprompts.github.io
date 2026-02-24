@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, predominantly horizontal band with orderly left-right saccades and limited vertical spread, matching the characteristic line-by-line reading pattern seen in the READ example more than the more scattered or vertically distributed patterns of other activities.",
+  "correct": false
+}

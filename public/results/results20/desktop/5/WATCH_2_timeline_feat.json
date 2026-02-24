@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are centered with modest horizontal movement and relatively stable vertical gaze around the upper-middle screen, matching the pattern of looking at a search box and results list, which resembles the provided SEARCH example more than the more dynamic BROWSE or structured READ patterns.",
+  "correct": false
+}

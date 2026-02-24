@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in compact code-like regions near the top-left, with medium-length fixations and frequent short saccades along a roughly horizontal band, plus occasional jumps to nearby blocks\u2014matching code comprehension/interpret behavior more than the more linear READ patterns or the broader spatial spread of SEARCH/BROWSE/DEBUG.",
+  "correct": false
+}

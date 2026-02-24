@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows predominantly horizontal gaze shifts back and forth along a narrow vertical band, consistent with following a target moving horizontally at roughly constant elevation; there is little vertical dispersion except for a single excursion, matching the Horizontal Saccades task rather than free viewing, reading, or random movements.",
+  "correct": true
+}

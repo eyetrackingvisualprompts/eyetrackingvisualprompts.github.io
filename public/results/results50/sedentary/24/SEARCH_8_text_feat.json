@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long horizontal scanpaths across the top region, repeated sweeps over a results-like band, and frequent large jumps to far right/scroll areas and back resemble examining a search results page more than focused reading, code-centric tasks, or continuous dynamic tracking as in games or videos.",
+  "correct": true
+}

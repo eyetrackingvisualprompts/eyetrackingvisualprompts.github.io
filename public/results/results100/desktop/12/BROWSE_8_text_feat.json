@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in the central-lower region with many medium-length saccades and relatively brief, frequent refixations around similar coordinates, matching the dynamic, spatially constrained tracking patterns seen in the PLAY examples rather than the more line-structured (READ/WRITE) or more broadly exploratory (BROWSE/SEARCH/WATCH) behaviors.",
+  "correct": false
+}

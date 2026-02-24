@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly central screen focus with moderate horizontal spread and small vertical range, plus occasional early wide X excursions, matches the coding-oriented, line-by-line inspection pattern seen in the DEBUG example more than the steadier WRITE/INTERPRET or the broader, more dynamic SEARCH/BROWSE/PLAY patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is distributed broadly across the central screen with frequent medium-length saccades and no clear line-by-line structure or strong clustering on text/code areas, resembling the example WATCH scanpath more than the others.",
+  "correct": false
+}

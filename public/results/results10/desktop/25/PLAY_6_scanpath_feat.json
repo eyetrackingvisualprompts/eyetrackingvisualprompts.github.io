@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are densely clustered in a compact region with small, rapid movements and no clear horizontal or vertical scanning pattern, matching the localized, goal-focused fixations typical of gameplay rather than the broader, line-based or exploratory patterns seen in reading, searching, browsing, writing, or watching videos.",
+  "correct": true
+}

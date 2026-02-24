@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a compact region around the screen center with small, rapid shifts and no clear horizontal line or vertical scanning pattern; this localized, dynamic focus best matches the eye movements while playing a game that requires looking mainly ahead rather than the broader or more structured scanpaths seen in reading, writing, browsing, searching, or watching videos.",
+  "correct": false
+}

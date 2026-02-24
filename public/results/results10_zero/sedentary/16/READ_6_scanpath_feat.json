@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a small lower-central region with a short vertical sweep and then a mostly horizontal fixation line, consistent with alternately checking a nearby code editor/output area while typing, rather than scanning long text blocks (READ/INTERPRET/DEBUG) or exploring larger areas (BROWSE/SEARCH/PLAY/WATCH).",
+  "correct": false
+}

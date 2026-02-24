@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (including to page extremes), mixed with medium fixations at varying vertical positions, indicate scanning heterogeneous web content rather than line-by-line reading, code-oriented examination, or following moving game objects or videos\u2014matching the browsing patterns in the BROWSE examples.",
+  "correct": false
+}

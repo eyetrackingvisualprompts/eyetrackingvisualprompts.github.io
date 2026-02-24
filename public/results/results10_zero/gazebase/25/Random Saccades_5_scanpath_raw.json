@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows discrete, widely spaced gaze positions that jump irregularly across both horizontal and vertical directions with roughly 1-second dwells at each location, matching the behavior of following a randomly moving target rather than smooth reading lines, central fixation, purely horizontal motion, or complex game/video viewing patterns.",
+  "correct": true
+}

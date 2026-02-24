@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows two main regions of concentrated fixations\u2014one on the left and one on the right\u2014connected by long saccades, consistent with shifting between search results and content or query box, typical of web search behavior rather than focused reading or code-related tasks.",
+  "correct": false
+}

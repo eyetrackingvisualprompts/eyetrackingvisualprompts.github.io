@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around central-mid screen with frequent short saccades and intermittent larger jumps (both horizontal and vertical), resembling scanning mixed text/graphics and shifting between areas, matching the heterogeneous, multi-region pattern seen in the BROWSE examples more than the more linear READ, the focused WRITE, or the wider, more extreme PLAY/WATCH movements.",
+  "correct": false
+}

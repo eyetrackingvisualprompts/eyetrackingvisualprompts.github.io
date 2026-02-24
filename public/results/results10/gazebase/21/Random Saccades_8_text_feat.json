@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large, multi-directional saccades between widely separated positions in both horizontal and vertical dimensions, with ~0.2\u20130.25 s saccades followed by ~0.2\u20130.9 s fixations and no clear horizontal-only or line-like structure, match the random target-jump pattern of Random Saccades rather than reading, horizontal tracking, video, game, or static fixation.",
+  "correct": true
+}

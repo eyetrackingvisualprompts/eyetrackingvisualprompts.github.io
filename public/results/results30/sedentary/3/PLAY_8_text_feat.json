@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (vertical and diagonal jumps between top/bottom and center), with relatively short fixations and many returns to central bands, resemble dynamic object tracking and rapid spatial re-orientations typical of gameplay rather than the more line-structured or locally clustered patterns seen in reading, coding, or web search/browsing.",
+  "correct": true
+}

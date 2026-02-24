@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows frequent large saccades and broad coverage of the screen in both X and Y, with rapid shifts and variable fixation positions, matching the dynamic, target-following behavior typical of playing simple action games, and differing from the more structured, line-based or localized patterns seen in reading, coding, or web tasks.",
+  "correct": false
+}

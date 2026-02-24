@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the central region with scattered vertical and horizontal movements, resembling scanning mixed elements (results, snippets, interface controls) typical of web search, and differing from the more linear pattern of reading or the tight central cluster of browsing.",
+  "correct": false
+}

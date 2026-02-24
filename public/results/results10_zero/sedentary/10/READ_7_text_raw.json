@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions progress predominantly left-to-right with relatively small vertical shifts, forming clustered fixations and short saccades that drift gradually downward over time\u2014typical of line-by-line reading rather than the larger, more scattered sweeps seen in games, video watching, or exploratory browsing/search.",
+  "correct": true
+}

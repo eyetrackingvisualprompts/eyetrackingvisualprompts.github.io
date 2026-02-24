@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, repetitive horizontal movements with slowly increasing X positions and relatively stable Y positions, closely matching the structured line-by-line reading pattern in the READ example, unlike the more scattered or vertical shifts seen in other activities.",
+  "correct": true
+}

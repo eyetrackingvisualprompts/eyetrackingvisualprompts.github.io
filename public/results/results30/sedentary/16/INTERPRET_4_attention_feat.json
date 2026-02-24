@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated mid-left with a vertical spread and some scattered points, similar to scanning a search-results page (top results list plus attention to snippets and lower content), matching the SEARCH example more than the other task patterns.",
+  "correct": false
+}

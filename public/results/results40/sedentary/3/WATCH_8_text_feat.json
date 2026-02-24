@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades across widely separated screen regions (top/bottom, left/right, near edges) with brief fixations and repeated jumps to upper areas resemble scanning SERP results and different parts of web pages in a goal-directed manner, matching the SEARCH pattern more than the more locally clustered patterns of READ/WRITE/DEBUG or the smoother central focus of WATCH/PLAY.",
+  "correct": false
+}

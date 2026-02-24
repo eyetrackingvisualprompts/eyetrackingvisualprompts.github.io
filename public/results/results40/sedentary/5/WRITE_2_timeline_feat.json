@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows a mix of horizontal scanning with frequent medium-to-large saccades across different vertical bands, resembling movement between result snippets and page elements, matching the SEARCH example more than the steadier reading or code-focused tasks.",
+  "correct": false
+}

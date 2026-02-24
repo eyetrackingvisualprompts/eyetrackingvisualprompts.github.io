@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a horizontally-extended cluster at a relatively low vertical position, indicating line-by-line scanning of static text similar to the READ example, unlike the more central, scattered, or upper-screen patterns of the other activities.",
+  "correct": false
+}

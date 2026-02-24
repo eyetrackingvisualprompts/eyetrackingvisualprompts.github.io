@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades across wide horizontal and vertical regions, with rapid shifts between spatially separated areas rather than orderly line-by-line reading or focused zones typical of writing or browsing. This broad, dynamic exploration pattern is most consistent with visually tracking elements in a game, especially one requiring looking in multiple directions (PLAY).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across a mid-screen region with frequent multidirectional saccades and no clear linear reading pattern, resembling exploratory scanning of changing content typical for web searching, and differing from the more localized patterns of WATCH/PLAY or the structured lines of READ/WRITE/BROWSE.",
+  "correct": false
+}

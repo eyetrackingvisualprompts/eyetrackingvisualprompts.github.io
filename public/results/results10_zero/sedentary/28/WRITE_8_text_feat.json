@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze remains within a relatively small horizontal band with repeated medium-length fixations (0.2\u20131.4s) and short, local saccades, consistent with carefully inspecting code lines and revisiting nearby tokens, typical for mentally simulating code output rather than broad search, free browsing, or dynamic video/game following.",
+  "correct": false
+}

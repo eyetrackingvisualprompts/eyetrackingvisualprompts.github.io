@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a dense, horizontally-elongated band in the lower half of the screen with systematic left-right saccades and short vertical shifts, matching the line-by-line scanning pattern typical of reading text rather than the more scattered or wide-ranging movements seen in browsing, searching, watching, playing, or writing.",
+  "correct": false
+}

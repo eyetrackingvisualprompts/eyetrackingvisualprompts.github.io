@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen, including both central and extreme peripheral locations, without forming organized horizontal lines (reading) or tight central clustering (fixation). The sparse, widely separated hotspots match following a single target that jumps to random positions, consistent with the Random Saccades task rather than structured video viewing, gaming, or purely horizontal motion.",
+  "correct": false
+}

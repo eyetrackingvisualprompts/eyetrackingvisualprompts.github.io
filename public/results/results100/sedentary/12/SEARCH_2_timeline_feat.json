@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated horizontal scan patterns with gradual downward shifts and intermittent larger jumps, resembling scrolling through varied web content, which matches the browsing template more than the more structured patterns of reading or the more erratic movements of search, watch, or play tasks.",
+  "correct": false
+}

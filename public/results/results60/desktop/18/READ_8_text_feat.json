@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large saccades between distinct vertical regions (top, mid, lower page) with short to moderate fixations, repeated revisits, and scanning around upper screen areas resemble search-engine result page exploration more than the more line-locked READ pattern or the localized WRITE pattern; dynamics are also less smooth and center-clustered than WATCH and differ from the extreme lateral PLAY patterns, fitting SEARCH best.",
+  "correct": false
+}

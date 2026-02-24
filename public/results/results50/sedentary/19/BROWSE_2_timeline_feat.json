@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is highly stable with minimal saccades and almost constant horizontal and vertical positions for most of the window, matching the prolonged central fixation pattern seen in the WRITE example, where attention stays near the code editor with little large-scale scanning.",
+  "correct": false
+}

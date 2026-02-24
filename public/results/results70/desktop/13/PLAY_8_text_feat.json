@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium- and long-range vertical shifts between mid-screen and near the top/bottom, interleaved with shorter horizontal adjustments and medium-length fixations\u2014matching scanning of heterogeneous web pages with movement between content regions, menus, and other UI elements, as seen in the BROWSE examples, more than the more line-structured READ pattern or the more center-focused WATCH/PLAY behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-long saccades across both vertical and horizontal directions (jumps between upper, middle, and lower screen with scattered fixations), consistent with scanning SERP results and web pages during a search task rather than the more line-structured patterns of reading or the more localized, banded patterns of writing and browsing news.",
+  "correct": false
+}

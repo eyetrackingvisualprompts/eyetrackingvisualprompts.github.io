@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a horizontally extended, low-vertical-range scanpath near the lower part of the screen, consistent with line-by-line reading behavior rather than the more dispersed patterns of browsing, search, or play.",
+  "correct": false
+}

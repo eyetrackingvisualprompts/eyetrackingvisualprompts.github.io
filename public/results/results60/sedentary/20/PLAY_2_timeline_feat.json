@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow band with very small, steady horizontal and vertical changes and minimal saccadic activity, matching the focused, localized viewing of a code editor during writing rather than the larger line-to-line shifts of reading/browsing or the wider scanning seen in search, watch, or play tasks.",
+  "correct": false
+}

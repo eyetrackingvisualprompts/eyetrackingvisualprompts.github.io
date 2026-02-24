@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large vertical and diagonal scrolling-like saccades between mid/upper and lower screen regions, interspersed with short fixations and horizontal movements in a band\u2014typical of navigating and skimming web pages during free browsing rather than the more localized, line-by-line patterns of code tasks or the central focus of watching video or playing games.",
+  "correct": false
+}

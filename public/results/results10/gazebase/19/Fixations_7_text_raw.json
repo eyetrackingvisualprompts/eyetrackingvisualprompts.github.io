@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze coordinates cluster tightly around a small region with only slow, low-amplitude drifts and no large, systematic horizontal or random multi-degree jumps. This pattern matches sustained fixation behavior on a static target rather than saccadic tracking, reading, or dynamic tasks like video or gaming.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal fixations and short saccades around a mid\u2011screen band (typical for reading/scanning web content), interspersed with occasional long jumps to screen corners/edges and back (consistent with scrolling, checking other page regions, or UI elements). The pattern closely matches the provided BROWSE examples rather than the more structured lines of READ or the code\u2011centric patterns of programming tasks.",
+  "correct": false
+}

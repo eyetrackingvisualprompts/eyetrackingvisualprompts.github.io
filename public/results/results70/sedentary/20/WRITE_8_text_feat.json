@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades covering wide screen regions (including corners and off-screen), rapid jumps between central and peripheral areas, and irregular revisits to HUD-like zones resemble game tracking patterns more than the more localized, structured scanning seen in code tasks, reading, or web search/browsing.",
+  "correct": false
+}

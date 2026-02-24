@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The data shows sustained upward drift in both x and y (scrolling/reading down a page) with occasional sharp transitions and vertical jumps around the middle, followed by more stable scanning\u2014this mixed pattern of reading-like behavior plus intermittent larger relocations matches web searching more than the steadier reading or more erratic browsing/play patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show large, discrete jumps in gaze position across a wide 2D area (both horizontal and vertical) followed by clusters of small, stable fluctuations at each location, consistent with following a target that moves to new positions about once per second. This pattern matches the structured but spatially random 2D movements of the Random Saccades task rather than the more 1D pattern of Horizontal Saccades, the near-static gaze of Fixations, or the more irregular, content-driven patterns of Reading, Video Viewing, or the Balura Game.",
+  "correct": false
+}

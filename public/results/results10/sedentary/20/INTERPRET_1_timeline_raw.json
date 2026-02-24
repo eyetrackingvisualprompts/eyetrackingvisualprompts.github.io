@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent brief vertical spikes in Y with moderate horizontal movement, plus occasional sharp X drops, indicate focused code inspection with intermittent attention shifts typical of debugging, closely matching the DEBUG example pattern.",
+  "correct": false
+}

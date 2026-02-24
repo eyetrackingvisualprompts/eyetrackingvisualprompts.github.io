@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations stay near screen center with modest horizontal and vertical shifts and irregular saccades, indicating scanning disparate webpage elements rather than the more systematic horizontal patterns of READ or the larger, directional excursions seen in PLAY, SEARCH, WATCH, or WRITE.",
+  "correct": false
+}

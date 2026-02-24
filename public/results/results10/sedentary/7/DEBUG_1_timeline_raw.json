@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows multiple large vertical shifts and extended horizontal plateaus at different Y-levels, consistent with scrolling through web pages and scanning varied content as in browsing behavior, and it closely matches the BROWSE example pattern.",
+  "correct": false
+}

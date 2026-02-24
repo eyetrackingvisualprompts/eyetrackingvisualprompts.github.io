@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations around code-like central regions, repeated returns between similar coordinate clusters, and many local inspection saccades (300\u2013600 px vertical span) with occasional large jumps resemble the detailed, iterative scanning and re-checking pattern seen in the DEBUG examples rather than the more linear (READ), video-following (WATCH), free-scanning (BROWSE/SEARCH), or highly dynamic (PLAY) patterns.",
+  "correct": false
+}

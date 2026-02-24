@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows medium-to-large spatial dispersion with many smooth shifts between clustered regions, frequent revisits, and no clear left-to-right line scanning typical of reading or code tasks. Patterns lack the tight, object-following trajectories of games and the vertical jumps to top/bottom typical of search/browse. This sustained, moderately dynamic but not highly goal-directed viewing is most consistent with passively WATCHing video content.",
+  "correct": false
+}

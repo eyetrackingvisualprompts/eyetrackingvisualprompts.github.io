@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent large-amplitude shifts in both horizontal and vertical directions interleaved with short local fixations, indicating rapid scanning across wide screen areas. This pattern\u2014broad spatial coverage, irregular jumps, and less-structured line-by-line or block-by-block reading\u2014is more consistent with visually navigating a game environment than with the more constrained, structured eye movements typical of READ, WRITE, SEARCH, or BROWSE, or the smoother motion of WATCH.",
+  "correct": true
+}

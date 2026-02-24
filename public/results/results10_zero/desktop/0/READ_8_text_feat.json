@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively long (many between 0.4\u20131.2s) and clustered around a narrow horizontal band (y\u22480.41\u20130.47) with short, mostly horizontal saccades and occasional medium horizontal jumps, consistent with line-by-line reading behavior rather than the more scattered, multi-directional movements seen in browsing, searching, watching videos, playing games, or writing (which typically involves gaze shifts to keyboard/toolbars).",
+  "correct": true
+}

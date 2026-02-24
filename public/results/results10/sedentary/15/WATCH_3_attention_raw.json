@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Two main dense clusters over the central-left code/IDE area with an additional cluster on the right, matching the WRITE example\u2019s pattern of alternating gaze between code editor and a secondary area (e.g., console or reference), unlike the more localized INTERPRET/DEBUG or widespread PLAY/BROWSE/SEARCH patterns.",
+  "correct": false
+}

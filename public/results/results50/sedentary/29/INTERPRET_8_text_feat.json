@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a mid-left code/IDE region with repeated short saccades around a few vertical bands (likely code and console) and many re-fixations, consistent with editing/implementing code rather than broader navigation (SEARCH/BROWSE), passive following (WATCH/PLAY), or structured line-by-line scanning (READ).",
+  "correct": false
+}

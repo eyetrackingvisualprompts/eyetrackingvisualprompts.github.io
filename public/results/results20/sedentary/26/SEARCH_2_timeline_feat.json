@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts with moderate horizontal exploration and high vertical position, then shifts to another horizontal band before moving to a much lower region around 16 s, consistent with scrolling or moving between sections/results on a search page rather than the more stable line-by-line reading or highly dynamic viewing/playing patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Both X and Y traces exhibit frequent, discrete horizontal shifts between distinct plateaus with occasional larger jumps, indicating transitions between different screen regions (e.g., results list, query box, page content). This pattern closely matches the SEARCH example, which shows similar multi-region scanning behavior, and differs from the smoother, more linear scan paths in READ or the more stable patterns in WATCH/WRITE/BROWSE.",
+  "correct": true
+}

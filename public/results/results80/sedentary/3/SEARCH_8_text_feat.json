@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal scan paths near the top and mid-page, frequent jumps to extreme top/bottom and off-center regions (e.g., coordinates near (x, ~0), (x, ~900\u20131000)), and revisits between content areas closely resemble free web browsing patterns rather than structured code (WRITE/DEBUG/INTERPRET) or continuous media (WATCH/PLAY).",
+  "correct": false
+}

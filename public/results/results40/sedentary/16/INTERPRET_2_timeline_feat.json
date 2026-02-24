@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows horizontal movements with occasional vertical shifts between regions\u2014more scattered and exploratory than structured reading or code interpretation, but less erratic than gameplay or video watching\u2014matching the mixed result-page scanning behavior typical of SEARCH.",
+  "correct": false
+}

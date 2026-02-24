@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form dense, locally clustered horizontal bands with small progressive and regressive shifts, consistent with line-by-line text reading rather than large navigational jumps (SEARCH/BROWSE) or wide, dynamic movements (PLAY/WATCH). The stable, repetitive scan pattern over a confined central area matches focused reading behavior, which is also typical for interpreting or understanding code or prose, but here lacks the frequent vertical relocations and scatter usually seen in coding/debugging tasks, making READ most likely.",
+  "correct": false
+}

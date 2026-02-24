@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "After initial large exploratory saccades (likely between code and other UI areas), gaze settles into long, repeated fixations and short saccades within a compact central region, with many very long saccades followed by extended local dwell and revisits. This pattern\u2014frequent returns to similar line/column areas, long contemplative fixations, and intermittent jumps to distant UI elements\u2014matches the WRITE examples\u2019 coding/typing behavior more closely than the more localized INTERPRET/DEBUG reading patterns or dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

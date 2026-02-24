@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a compact left-central code area with occasional excursions to nearby lines, closely matching the INTERPRET example and lacking the right-side IDE/output panel exploration seen in DEBUG or WRITE.",
+  "correct": false
+}

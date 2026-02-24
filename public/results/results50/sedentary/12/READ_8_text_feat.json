@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze moves predominantly horizontally around a mid-screen band with many short fixations and repeated left-right sweeps, consistent with scanning web content or lists rather than structured line-by-line reading, code-centric tasks, or dynamic object following seen in PLAY/WATCH.",
+  "correct": false
+}

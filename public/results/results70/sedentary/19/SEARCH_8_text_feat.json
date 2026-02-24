@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-range horizontal scans around mid-screen and text-like regions, interleaved with rapid long saccades to far peripheral/top areas and back, plus occasional large jumps to near-screen-edge coordinates, match the heterogeneous, exploratory gaze during web browsing more than the more structured, line-based patterns of READ or the code-focused, denser central clustering of WRITE/DEBUG/INTERPRET or object-following behavior of WATCH/PLAY.",
+  "correct": false
+}

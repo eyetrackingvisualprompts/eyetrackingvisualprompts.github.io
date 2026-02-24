@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows highly scattered fixations across almost the entire screen, with many long horizontal and vertical saccades and no clear reading structure or central focus area. This broad exploratory pattern most closely matches the SEARCH example, where users scan results, snippets, and different page regions rather than focusing on a single content block or viewport like in WATCH or PLAY.",
+  "correct": false
+}

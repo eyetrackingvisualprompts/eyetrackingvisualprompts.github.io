@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations with many revisits within a compact central region, interspersed with large saccades to distant screen areas, match the code-debugging patterns where users repeatedly scan between code regions, console/output, and other interface elements rather than the more linear patterns of reading, writing, or interpreting single snippets.",
+  "correct": true
+}

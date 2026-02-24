@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze path shows frequent long-range jumps across widely separated screen regions (including off-center and edge areas), visits to very high and low vertical positions consistent with scrolling through pages, and irregular, non-line-by-line scan patterns. This matches free-form web browsing behavior rather than the more structured, code-focused or line-based patterns seen in READ/WRITE/INTERPRET/DEBUG, or the more centrally constrained dynamics typical of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

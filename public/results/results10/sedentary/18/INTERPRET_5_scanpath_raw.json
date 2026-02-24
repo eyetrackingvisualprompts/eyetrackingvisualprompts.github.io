@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact region with frequent short saccades and revisits, plus occasional shifts towards a lower area (likely console/editor interaction), matching the focused, localized pattern seen in DEBUG rather than the more linear (READ) or widely dispersed (PLAY/BROWSE/SEARCH) examples.",
+  "correct": false
+}

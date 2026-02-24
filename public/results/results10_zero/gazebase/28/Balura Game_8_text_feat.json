@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between fixations (~0.2\u20130.3s) and large, multi-directional saccades spanning much of the coordinate range in both horizontal (\u224840\u00b0) and vertical (\u224825\u00b0) directions, with no clear horizontal-only pattern, central fixation, or structured reading pattern, matching the random target jumps of the Random Saccades task.",
+  "correct": false
+}

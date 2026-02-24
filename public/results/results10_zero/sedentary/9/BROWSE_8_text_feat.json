@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal scan paths with clusters of fixations along similar y-coordinates and systematic sweeps across a mid-band of the screen, consistent with line-by-line reading rather than the larger, more scattered movements typical of browsing, searching, or playing games.",
+  "correct": false
+}

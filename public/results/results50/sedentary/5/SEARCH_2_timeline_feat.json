@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large vertical transitions and irregular horizontal movements across different screen regions, resembling scanning varied webpage layouts rather than the more stable, linear patterns of READ/WRITE/INTERPRET or the smoother focus of WATCH/PLAY. This best matches the heterogeneous exploration seen in BROWSE.",
+  "correct": false
+}

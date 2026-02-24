@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The target data shows large, irregular multi-directional gaze shifts across wide horizontal and vertical ranges, with 1-second-scale plateaus and no repetitive scanning pattern. This matches the random, screen-wide target jumps of the Random Saccades task rather than the more constrained, structured movements of reading, video viewing, or horizontal-only saccades.",
+  "correct": false
+}

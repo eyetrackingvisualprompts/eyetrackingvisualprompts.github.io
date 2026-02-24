@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows an initial horizontal scanning band, followed by a large downward then upward shift in both X and Y with dispersed fixations, resembling exploration across different result areas rather than the more uniform horizontal patterns of READ/INTERPRET or the steadier bands of WATCH/WRITE. This heterogeneous scanning is most consistent with SEARCH behavior.",
+  "correct": false
+}

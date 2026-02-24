@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The data shows long, irregular sequences of small-amplitude fixations and drifts within localized regions, interspersed with occasional larger transitions to new regions, without the strict line-by-line horizontal structure of reading or the regular step-like target jumps of saccade tasks. This mixed, variable scanpath pattern best matches natural, unconstrained exploration characteristic of video viewing.",
+  "correct": false
+}

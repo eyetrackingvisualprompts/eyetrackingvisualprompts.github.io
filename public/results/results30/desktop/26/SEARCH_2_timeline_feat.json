@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are distributed around the screen center with frequent medium-sized shifts and no strong monotonic drift in one direction, resembling the scattered yet bounded exploration seen when browsing heterogeneous webpages rather than the more directional patterns of reading, writing, searching, watching video, or playing games.",
+  "correct": false
+}

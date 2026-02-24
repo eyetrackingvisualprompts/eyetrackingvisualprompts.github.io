@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread across the upper and central screen with many transitions between horizontally aligned clusters, resembling movement between search box, result titles, snippets, and lower content, matching the SEARCH scanpath example more closely than other tasks.",
+  "correct": false
+}

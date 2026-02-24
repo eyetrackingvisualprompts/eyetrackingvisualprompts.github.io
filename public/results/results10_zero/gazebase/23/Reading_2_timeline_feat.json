@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between distinct, discrete positions with roughly one-second plateaus and variable jumps in both horizontal (\u00b115\u00b0) and vertical (\u00b19\u00b0) directions, matching the protocol of following a randomly moving target rather than strictly horizontal motion, central fixation, or the irregular patterns of reading/video/game play.",
+  "correct": false
+}

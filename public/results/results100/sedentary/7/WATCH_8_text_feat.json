@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Long, continuous viewing with many large saccades across wide screen regions (including extremes and corners), mixed with periods of relative stability, and no clear orderly line-based reading or code/IDE-like clustering. The spatial spread and pattern closely resemble the provided WATCH examples rather than the more columnar, text- or code-centered patterns of READ/WRITE/DEBUG/INTERPRET or the search/browse layouts.",
+  "correct": true
+}

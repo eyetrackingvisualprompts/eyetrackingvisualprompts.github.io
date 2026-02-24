@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, effortful fixations around central code region with frequent short saccades among nearby lines and occasional larger jumps to other screen areas (including top menus/console and bottom regions), matching the revisiting and verification pattern seen in DEBUG more than the more linear scanning of READ/INTERPRET or the more global, rapid navigation of SEARCH/BROWSE/PLAY.",
+  "correct": false
+}

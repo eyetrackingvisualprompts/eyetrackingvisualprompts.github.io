@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a mid-screen horizontal band where the code editor text would be, with some limited vertical spread and few peripheral fixations\u2014closely matching the WRITE example pattern and differing from the tighter INTERPRET cluster and more dispersed SEARCH/BROWSE layouts.",
+  "correct": false
+}

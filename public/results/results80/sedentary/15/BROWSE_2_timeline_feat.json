@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, gradual left-to-right progression in X with relatively monotonic downward drift in Y, matching line-by-line reading behavior and closely resembling the READ example pattern more than the other task types.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows an initial large saccade from right to left followed by sustained, tightly clustered fixations with small vertical steps around mid-screen, consistent with line-by-line reading behavior rather than the broader, more scattered exploration typical of search, browsing, or gameplay.",
+  "correct": false
+}

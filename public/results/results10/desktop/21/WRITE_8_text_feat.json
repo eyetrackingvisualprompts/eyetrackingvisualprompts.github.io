@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Long, stable fixations clustered within a small region, with very short, small-amplitude saccades and minimal horizontal scanning, match the stationary gaze near a typing cursor seen in the WRITE example more than the broader horizontal sweeps of READ/BROWSE or the wider movements in SEARCH/WATCH/PLAY.",
+  "correct": true
+}

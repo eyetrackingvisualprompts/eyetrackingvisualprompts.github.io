@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows relatively linear horizontal movements with occasional larger saccades and a notable shift in vertical position around the middle of the window, consistent with scanning search results and then moving to a different part of the page, matching the SEARCH pattern more than the others.",
+  "correct": true
+}

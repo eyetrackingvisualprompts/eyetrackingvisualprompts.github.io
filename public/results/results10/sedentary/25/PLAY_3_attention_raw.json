@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread horizontally across the upper-middle of the screen with several distinct clusters and some saccades to higher and lower regions, resembling scanning of search results (title, snippet, top bar) rather than focused code, continuous reading, or central game focus.",
+  "correct": false
+}

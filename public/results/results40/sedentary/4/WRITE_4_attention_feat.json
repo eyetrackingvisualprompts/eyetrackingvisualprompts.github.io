@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on a narrow left-side vertical band typical of a code editor while writing, with a smaller cluster on the right likely on an output/console area, matching the WRITE example heatmap most closely.",
+  "correct": true
+}

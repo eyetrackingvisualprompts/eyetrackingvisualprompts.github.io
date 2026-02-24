@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows moderate horizontal movements with revisits and local scanning around similar vertical regions, resembling the WRITE example\u2019s pattern of alternating between code editing and nearby reference areas, rather than the more linear READ or more dispersed SEARCH/BROWSE patterns.",
+  "correct": false
+}

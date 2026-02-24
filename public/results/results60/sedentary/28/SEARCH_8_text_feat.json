@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between several horizontal bands with frequent long saccades across large screen regions (including extreme corners and off-center clusters) and varied fixation positions, closely matching the heterogeneous, multi-region scanning seen in the BROWSE examples rather than the more line-structured READ patterns or code-focused tasks.",
+  "correct": false
+}

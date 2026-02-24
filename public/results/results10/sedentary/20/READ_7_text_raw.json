@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts over a wide region (including high y-values near bottom and substantial horizontal spread), with many revisits and rapid relocations, resemble tracking dynamic game elements rather than line-by-line reading, code inspection, or static page scanning, matching the PLAY pattern in the examples.",
+  "correct": false
+}

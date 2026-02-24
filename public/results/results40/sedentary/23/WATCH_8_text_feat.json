@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent vertical and diagonal saccades spanning wide screen regions (including off-center/high y-coordinates), rapid alternation between upper and lower areas, and repeated returns to central game-like zones resemble pursuit of moving objects/avatars in games rather than the more structured, line-based patterns of reading, code tasks, or search/browse behavior.",
+  "correct": false
+}

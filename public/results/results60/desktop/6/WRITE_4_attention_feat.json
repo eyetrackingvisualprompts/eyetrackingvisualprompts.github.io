@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region slightly below screen center with limited horizontal spread, resembling focused attention on a small content block (e.g., a news snippet or article section) rather than the extended horizontal scanlines of reading text or the broad, dispersed patterns seen in play or watch activities; this best matches the browsing heatmap pattern.",
+  "correct": false
+}

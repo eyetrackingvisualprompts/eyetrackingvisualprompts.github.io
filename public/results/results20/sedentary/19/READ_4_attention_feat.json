@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations alternate between a compact horizontal region near the top (reading code) and several points lower on the screen (likely IDE output/console or editor areas), matching the write-task pattern of shifting between code and other interface elements rather than continuous text reading or full-screen viewing.",
+  "correct": false
+}

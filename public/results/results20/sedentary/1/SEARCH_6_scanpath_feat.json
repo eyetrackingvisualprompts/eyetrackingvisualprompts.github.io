@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple dispersed clusters (top-left, central-left, and far-right) connected by long saccades, indicating transitions between different screen regions such as search box, results list, and possibly opened pages\u2014this matches the heterogeneous, exploratory gaze pattern typical for SEARCH rather than the more localized patterns of coding, reading, or watching video.",
+  "correct": true
+}

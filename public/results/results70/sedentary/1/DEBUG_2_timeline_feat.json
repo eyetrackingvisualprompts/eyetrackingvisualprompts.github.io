@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal exploration with shifting vertical levels and intermittent larger saccades, indicating scanning and switching between items/areas, closely matching the SEARCH example pattern rather than the more linear READ pattern or the more erratic PLAY/BROWSE behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and center) with comparatively fewer tight line-like scanpaths and no clear left-to-right reading structure, plus several long fixations on dispersed points, best match the free-viewing, scene-following patterns seen in the WATCH examples rather than the more localized, structured patterns of code/text or web search/browsing tasks.",
+  "correct": true
+}

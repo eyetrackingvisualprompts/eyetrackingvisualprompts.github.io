@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, irregular multi-directional jumps across a wide area of the screen (both horizontally and vertically) with no strict alternation pattern or confinement to the center, matching the random, discrete target relocations of the Random Saccades task rather than the structured horizontal-only movements, static fixation, or text-like scanning of the other classes.",
+  "correct": false
+}

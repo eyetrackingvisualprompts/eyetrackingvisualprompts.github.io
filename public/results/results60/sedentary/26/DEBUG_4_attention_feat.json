@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically along the left side (top, middle, and near bottom) like scanning a search results page or sidebar, with additional scattered looks across the page, matching the exploratory, multi-region pattern typical of SEARCH rather than the more centralized or line-structured patterns of other tasks.",
+  "correct": false
+}

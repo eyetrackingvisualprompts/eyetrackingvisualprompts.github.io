@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows mostly horizontal movements within confined vertical bands, switching between two main vertical regions on the left and right, consistent with reading lines of text and occasionally shifting to another text/figure area, rather than the widespread, multi-directional movements typical of games, browsing, or search pages.",
+  "correct": false
+}

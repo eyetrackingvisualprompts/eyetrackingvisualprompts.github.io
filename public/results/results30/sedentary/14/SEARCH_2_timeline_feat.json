@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows reading-like horizontal progressions with intermittent vertical shifts and a mid-interval jump to a different region, resembling scanning search results and then focusing on a chosen page, which matches the SEARCH pattern more than the other activities.",
+  "correct": true
+}

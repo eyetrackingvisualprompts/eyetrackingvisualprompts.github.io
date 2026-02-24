@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide horizontal spread between central and right screen, multiple revisits across dispersed regions including upper and lower areas, and irregular scanpaths resemble the SEARCH example more than the denser central clustering of WATCH or the structured patterns of READ/WRITE/DEBUG.",
+  "correct": false
+}

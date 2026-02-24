@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are scattered widely across the entire screen, including top, center, and bottom areas, resembling dynamic following of changing visual content. This broad, non-linear distribution best matches the WATCH example rather than the more localized or text-line patterns of coding, reading, or browsing tasks.",
+  "correct": false
+}

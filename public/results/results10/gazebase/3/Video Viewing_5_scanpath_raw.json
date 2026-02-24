@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular saccades in both horizontal and vertical directions across a broad screen area with no clear horizontal line structure, matching the random target-following pattern rather than reading, video viewing, or horizontal-only motion.",
+  "correct": false
+}

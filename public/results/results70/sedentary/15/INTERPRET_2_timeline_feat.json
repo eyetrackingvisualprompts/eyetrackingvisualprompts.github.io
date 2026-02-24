@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly confined to a narrow vertical band with small horizontal shifts and occasional brief saccades, resembling focused code editing on a limited area of the screen, which matches the WRITE template more closely than the broader sweeps seen in reading, browsing, or search tasks.",
+  "correct": false
+}

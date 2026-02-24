@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between horizontal scanlines near the top (likely query/results area) and multiple regions lower on the page with frequent long spatial jumps (to bottom/right panels and back to top), matching search-result exploration rather than the more linear patterns of READ or the code-focused, denser central fixations in INTERPRET/DEBUG/WRITE, or the highly dynamic wide-screen movements in WATCH/PLAY.",
+  "correct": true
+}

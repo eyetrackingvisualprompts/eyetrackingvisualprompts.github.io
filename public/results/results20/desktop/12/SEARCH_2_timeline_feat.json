@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent shifts in both X and Y positions with wide vertical range and irregular saccades resemble the dynamic, multidirectional gaze patterns seen in the PLAY example more than the steadier, line-oriented patterns of reading, writing, or browsing/searching pages, or the smoother trajectories of watching video.",
+  "correct": false
+}

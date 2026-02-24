@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow central band with moderate horizontal shifts and small vertical fluctuations, indicating sustained viewing of a central dynamic stimulus (video) rather than systematic line-by-line scanning (READ/WRITE) or large, multidirectional movements typical of PLAY, BROWSE, or SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, rapid shifts between widely separated regions (center, top, bottom, far right, then to top-left UI area) followed by shorter horizontal scan-like movements suggest scanning search results and page regions rather than continuous line-by-line reading or code-centric work.",
+  "correct": true
+}

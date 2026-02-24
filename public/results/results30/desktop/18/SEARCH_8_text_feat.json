@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large, rapid saccades spanning widely separated screen regions (e.g., from lower left to upper right, top to bottom, and center to extremes), interspersed with relatively short fixations. This broad, dynamic spatial exploration with quick relocations is characteristic of tracking moving game elements in PLAY, and is less consistent with the more localized, structured scan patterns of READ/WRITE or the more banded, vertical browsing/search behaviors.",
+  "correct": false
+}

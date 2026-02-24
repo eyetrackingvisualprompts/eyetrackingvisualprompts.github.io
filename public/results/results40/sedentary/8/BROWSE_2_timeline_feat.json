@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal progression with occasional jumps and vertical shifts, indicating scanning between result items and content areas, which best matches the SEARCH pattern rather than the more linear READ or more stable code-focused tasks like INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

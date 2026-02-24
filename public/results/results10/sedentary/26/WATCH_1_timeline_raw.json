@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y show smooth, gradual drifts with moderate vertical shifts and no clear repetitive line-by-line or code-panel switching patterns; this resembles continuous scene following as in the WATCH example more than the structured, segment-based patterns of reading, coding, or browsing.",
+  "correct": true
+}

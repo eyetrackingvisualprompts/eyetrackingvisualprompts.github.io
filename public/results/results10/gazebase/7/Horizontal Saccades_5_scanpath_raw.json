@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated left-right eye movements constrained to a narrow vertical band, matching the pattern of following a horizontally moving target as in the Horizontal Saccades task.",
+  "correct": true
+}

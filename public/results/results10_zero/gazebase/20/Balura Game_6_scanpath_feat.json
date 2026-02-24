@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations cluster around several discrete positions across both horizontal and vertical extents, with large jumps (\u22652\u00b0) between positions that are held briefly, matching a target that moves randomly across the screen rather than strictly horizontal, text-like, or stimulus-driven viewing patterns.",
+  "correct": false
+}

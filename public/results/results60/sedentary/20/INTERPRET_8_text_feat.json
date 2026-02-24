@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered around a code/textarea-sized region with frequent short saccades and long revisits, plus recurrent up\u2013down movements to a slightly higher line region, matching the sustained local inspection and line-hopping patterns seen in WRITE examples rather than broader scanning (SEARCH/BROWSE) or larger dynamic shifts (WATCH/PLAY).",
+  "correct": false
+}

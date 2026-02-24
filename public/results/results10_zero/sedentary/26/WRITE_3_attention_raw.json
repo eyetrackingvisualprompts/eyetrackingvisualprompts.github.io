@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a few compact fixation clusters, including one strong, sustained fixation on the right side and less coverage overall, which is typical of watching a video where attention locks onto key on-screen elements rather than scanning text or interface areas extensively.",
+  "correct": false
+}

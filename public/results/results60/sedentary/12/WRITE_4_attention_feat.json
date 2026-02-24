@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Two main dense fixation clusters on left and right code areas with some scattered checks resemble the debugging example pattern, where attention alternates between different parts of the code and output, rather than staying on a single block (WRITE/INTERPRET) or scanning broadly (READ/BROWSE/SEARCH).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Scanpath shows mainly horizontal progression with relatively ordered left-to-right movements and small vertical shifts, matching line-by-line reading behavior more than the other activities, whose examples show more scattered or centrally clustered fixations.",
+  "correct": false
+}

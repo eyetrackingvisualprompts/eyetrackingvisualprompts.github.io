@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across widely separated vertical regions, many visits to far top/bottom areas, and scattered clusters around mid\u2011page resemble scanning and jumping between disparate webpage elements more than the more structured patterns of reading, coding, or gameplay; this spatially wide, irregular exploration best matches BROWSE.",
+  "correct": false
+}

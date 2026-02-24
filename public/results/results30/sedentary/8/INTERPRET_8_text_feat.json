@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is heavily clustered around a compact code-like area (x\u2248250\u2013350,y\u2248180\u2013320) with long fixations, frequent short regressions between nearby lines, and occasional quick shifts to distinct regions (e.g., top of screen), matching concentrated code comprehension rather than broader navigation (BROWSE/SEARCH), continuous text scanning (READ), or wide, dynamic coverage (PLAY/WATCH/WRITE/DEBUG).",
+  "correct": true
+}

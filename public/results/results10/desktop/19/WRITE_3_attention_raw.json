@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows a series of horizontally aligned fixations progressing from left to right and slightly downward, consistent with line-by-line reading behavior and closely resembling the READ example heatmap more than the other activities.",
+  "correct": false
+}

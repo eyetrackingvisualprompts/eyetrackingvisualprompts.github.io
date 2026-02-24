@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze coordinates show large-amplitude, predominantly horizontal excursions between left and right extremes with relatively stable plateaus and small jitter at each side, matching the structured, repetitive horizontal target-following pattern of the Horizontal Saccades task rather than the more varied or localized patterns of reading, video viewing, gaming, random saccades, or sustained central fixations.",
+  "correct": false
+}

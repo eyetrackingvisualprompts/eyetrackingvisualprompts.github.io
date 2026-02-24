@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly upper-screen gaze with medium-length fixations and frequent vertical shifts between ~0.55\u20130.85, including repeated returns to similar upper-horizontal positions and occasional jumps to mid-screen\u2014this pattern closely matches the SEARCH exemplar, where users move between query box, results snippets, and upper content, rather than the more central, denser scanning of BROWSE or the structured line-by-line motion of READ/WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades between central and extreme screen regions (e.g., y from ~0.6 to 0.04 and back, and to ~0.17/0.16) combined with many short central fixations resemble the multidirectional, wide-range gaze shifts observed in the PLAY examples, rather than the more line-structured, horizontally constrained patterns of READ/WRITE or the relatively steadier WATCH/BROWSE/SEARCH behaviors.",
+  "correct": false
+}

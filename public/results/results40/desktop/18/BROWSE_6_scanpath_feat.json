@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across a broad central region with frequent shifts between multiple scattered clusters, indicating exploration of different on\u2011screen elements such as search results and snippets, which best matches the SEARCH pattern compared to the more localized READ/WRITE or the distinct cluster split of PLAY/BROWSE/WATCH.",
+  "correct": false
+}

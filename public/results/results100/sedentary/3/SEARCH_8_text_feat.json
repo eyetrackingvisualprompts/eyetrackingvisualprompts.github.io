@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades spanning wide screen areas (including off-center/top regions), revisits to mid-page bands, and extended horizontal scan-like movements resemble exploration of long web pages and UI elements more than the structured line-by-line motion of READ or the focused central region of coding tasks (WRITE/DEBUG/INTERPRET). The pattern best matches the heterogeneous, scroll-and-skim behavior seen in BROWSE examples.",
+  "correct": false
+}

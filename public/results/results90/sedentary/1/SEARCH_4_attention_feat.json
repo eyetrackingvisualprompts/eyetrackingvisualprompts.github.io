@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster around the left-central area where code typically appears, with multiple distinct hotspots and some spread to other regions, closely matching the DEBUG example heatmap pattern more than the other activities.",
+  "correct": false
+}

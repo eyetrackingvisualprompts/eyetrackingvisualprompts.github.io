@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are confined to a narrow vertical band with smooth horizontal progressions and short regressions, consistent with line-by-line reading of text rather than the larger, more scattered movements typical of coding, gaming, or general browsing/searching.",
+  "correct": false
+}

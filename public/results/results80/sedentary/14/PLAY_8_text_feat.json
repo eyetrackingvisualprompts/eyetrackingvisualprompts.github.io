@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions including edges and outside bounds, repeated returns to central mid-screen zones, and many fixations around clustered mid-latitude coordinates match dynamic object-following and map-scanning patterns seen in the PLAY examples rather than line-based reading, code inspection, or static page browsing.",
+  "correct": true
+}

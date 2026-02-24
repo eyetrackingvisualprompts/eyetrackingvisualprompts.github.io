@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical jumps between top and bottom of the page, many visits to near-(0,0) toolbar/URL regions and bottom areas (y\u22481000), mixed with medium-length horizontal scan segments and scattered off-content fixations, match unconstrained web browsing behavior rather than structured code reading/writing or continuous video watching or gameplay tracking.",
+  "correct": true
+}

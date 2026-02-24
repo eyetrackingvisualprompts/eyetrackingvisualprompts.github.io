@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Multiple long fixations near the top of the screen interspersed with large vertical and horizontal saccades between widely separated regions (top bar, left side, and mid/lower areas) suggest scanning result snippets or a page for a specific answer rather than systematic line-by-line reading or code-focused tasks; the pattern best matches SEARCH behavior on a results/web page.",
+  "correct": false
+}

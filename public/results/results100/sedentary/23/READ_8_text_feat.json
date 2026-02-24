@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows sustained, smooth, left-to-right horizontal scanning across a narrow vertical band, with regular regressions and line-to-line downward shifts over time. This pattern closely matches the structured, line-based reading signatures in the READ examples and differs from the more scattered, multi-region exploration seen in SEARCH/BROWSE or the code/IDE-centered patterns in WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze moves almost strictly horizontally across the top portion of the screen, traversing a wide range of x-positions with little vertical movement, consistent with scanning a search results page or query area rather than focused code (INTERPRET/DEBUG/WRITE) or continuous text blocks (READ).",
+  "correct": false
+}

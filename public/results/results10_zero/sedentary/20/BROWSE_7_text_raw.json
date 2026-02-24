@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze pattern shows large, rapid shifts across wide screen areas, frequent transitions between center and edges, and notable excursions toward screen borders and even off-screen coordinates. This pattern is more consistent with visually tracking dynamic game elements and quickly scanning the playfield than with sustained line-by-line reading, code-related tasks, or passive video watching.",
+  "correct": false
+}

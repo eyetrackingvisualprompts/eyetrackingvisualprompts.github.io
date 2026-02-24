@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent, multidirectional saccades across wide screen areas, with relatively short, varied fixations and several long sweeping movements (e.g., from upper-left to bottom-right and back). This exploratory, object-tracking-like pattern is more consistent with following dynamic game elements than with the more line-structured, locally clustered patterns typical of reading, browsing, or code-related tasks, or the smoother, more central focus of video watching.",
+  "correct": false
+}

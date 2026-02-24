@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small central area with minimal horizontal or vertical scanning, indicating sustained attention to a compact moving region (such as central characters in a video) rather than line-by-line reading, document editing, or wide exploratory browsing/searching typical of other tasks.",
+  "correct": false
+}

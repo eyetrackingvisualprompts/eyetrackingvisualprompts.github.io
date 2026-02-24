@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal region near the upper-left portion of the screen, consistent with focusing on a small block of text (e.g., the first lines of a paragraph), which best matches the pattern of reading behavior compared to the more dispersed or dynamic gaze patterns expected in other tasks.",
+  "correct": false
+}

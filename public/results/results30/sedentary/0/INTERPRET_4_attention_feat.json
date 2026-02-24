@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a compact area in the upper-left code region with occasional looks to other scattered UI locations, closely resembling the DEBUG example heatmap where participants focus on specific faulty code while sporadically checking other interface elements.",
+  "correct": false
+}

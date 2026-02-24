@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large saccades across wide screen regions, many revisits between central and peripheral areas, substantial gaze activity in upper and lower field (including near-screen edges), and irregular non-line-based scanning align with visually tracking dynamic game elements rather than structured text/code (READ/WRITE/DEBUG/INTERPRET) or more linear web/content browsing (SEARCH/BROWSE) or more focal WATCH behavior.",
+  "correct": false
+}

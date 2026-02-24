@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between spatially separated points across both horizontal and vertical dimensions (up to ~\u00b120\u00b0), with relatively long, discrete saccades followed by ~200\u2013350 ms fixations, matching a single moving target that jumps to new random positions each second rather than the more constrained horizontal-only pattern, central fixation, or complex multi-target scanning seen in the other tasks.",
+  "correct": false
+}

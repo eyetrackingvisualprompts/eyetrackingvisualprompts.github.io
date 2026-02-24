@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze moves in long, smooth horizontal sweeps across a fairly narrow vertical band, with frequent returns from right to left at slightly different vertical positions\u2014this is characteristic of line-by-line text reading, closely matching the spatial and temporal scanpath structure seen in the READ examples rather than the more varied or object-focused patterns of other tasks.",
+  "correct": true
+}

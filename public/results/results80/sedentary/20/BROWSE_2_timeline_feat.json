@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, irregular jumps in both X and Y with no stable horizontal reading lines, mixed with frequent vertical movements and scattered fixations, matching the varied, exploratory scan patterns typical of free web browsing rather than structured code or text reading/writing tasks.",
+  "correct": true
+}

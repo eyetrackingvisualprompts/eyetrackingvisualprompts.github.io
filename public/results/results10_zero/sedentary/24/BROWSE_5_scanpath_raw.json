@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated mostly in a horizontal band in the lower half of the screen\u2014consistent with looking at a code editor\u2014while there are occasional vertical excursions toward the upper area, likely to check specifications or run/output panels. This pattern of alternating focus between code and auxiliary areas fits programming/implementation behavior best, corresponding to WRITE rather than the more reading-only or full-screen focused tasks.",
+  "correct": false
+}

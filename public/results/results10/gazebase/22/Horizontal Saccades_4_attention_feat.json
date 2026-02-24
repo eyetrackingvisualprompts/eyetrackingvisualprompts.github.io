@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two tight fixation clusters located symmetrically on the left and right at similar vertical positions, indicating large, repetitive horizontal shifts between two positions, matching the horizontal saccade task pattern rather than dispersed or central fixations.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, multi-directional saccades across both horizontal and vertical axes with roughly one-second stationary periods, matching a target that jumps to random 2\u00b0+ positions within a bounded area rather than constrained horizontal-only motion, central fixation, line-by-line reading, or stimulus-driven free viewing/game behavior.",
+  "correct": true
+}

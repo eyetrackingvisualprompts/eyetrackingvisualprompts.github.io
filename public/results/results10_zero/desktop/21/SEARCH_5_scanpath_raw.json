@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a mid-screen region with short, back-and-forth saccades and dense fixations, suggesting localized text reading rather than broader exploratory movements typical of search, browsing, or gaming, or larger shifts seen in video watching or writing interfaces.",
+  "correct": false
+}

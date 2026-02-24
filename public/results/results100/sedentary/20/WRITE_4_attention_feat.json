@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Dense fixations across two horizontal bands near the upper-left, indicating scanning of search results/title and snippet lines, with additional scattered fixations on the right side resembling attention to another result or page element; overall pattern matches the SEARCH example more than the other activities.",
+  "correct": false
+}

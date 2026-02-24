@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between widely separated regions (including near-top areas consistent with search bar/results header and lower content), alternating with horizontal scan-like reading over mid-page lines, plus occasional jumps to extreme coordinates, closely matches the mixed reading-and-navigation pattern of SEARCH rather than the more line-regular READ or more locally bounded code/IDE tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Very long saccades across wide screen regions, frequent large jumps between disparate areas (center, corners, edges), and long fixations are characteristic of tracking dynamic, fullscreen video content rather than line-based reading or code-related tasks; the pattern most closely matches the WATCH examples with broad, irregular explorations of the display.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows irregular, smooth movements with varying directions over a moderate area without strict horizontal lines or central clustering, matching the free-viewing pattern seen in the Video Viewing example rather than the more structured or repetitive trajectories of the other tasks.",
+  "correct": false
+}

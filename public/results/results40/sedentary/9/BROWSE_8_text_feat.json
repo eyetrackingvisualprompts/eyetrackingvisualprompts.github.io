@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a relatively narrow horizontal band with many short saccades and medium fixations, consistent with scanning lines or segments of text rather than large scene shifts, object following, or code-editing behaviors; this pattern best matches the READ examples among the provided classes.",
+  "correct": false
+}

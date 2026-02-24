@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between distinct, sustained positions with roughly 1-second steps in both X and Y, moving irregularly within about \u00b115\u00b0 horizontally and \u00b19\u00b0 vertically\u2014matching the behavior of following a randomly moving target rather than smooth scanning, reading lines, or purely horizontal motion.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze frequently traverses large portions of the screen including extreme top and bottom regions, with many long, rapid saccades between dispersed locations and relatively shorter, less-structured fixations, characteristic of tracking dynamic game elements rather than the more line-structured horizontal scanning of READ or the centrally clustered patterns of WATCH/WRITE/BROWSE/SEARCH.",
+  "correct": true
+}

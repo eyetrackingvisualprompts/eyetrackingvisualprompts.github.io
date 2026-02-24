@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple horizontal bands and regions, with repeated transitions between distinct clusters (top-left, center-left, and mid-right), indicating scanning across results and shifting focus between items rather than continuous reading or a single code block, which aligns best with search behavior.",
+  "correct": true
+}

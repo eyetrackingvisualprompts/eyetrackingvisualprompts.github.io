@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze stays within a compact code/text region with many short, local saccades and revisits, then shifts down to a lower block and line-like movements around ~500\u2013550 px vertical\u2014typical of following and editing lines of code while typing, matching the WRITE examples more than other tasks.",
+  "correct": false
+}

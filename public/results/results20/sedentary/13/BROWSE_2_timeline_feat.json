@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The X fixation shows repeated horizontal sweeps with regular left-to-right saccades and line returns, while Y fixation slowly drifts upward with small steps\u2014matching the stable, line-by-line reading pattern seen in the READ example, unlike the more scattered or multi-region patterns of browsing, search, or gameplay.",
+  "correct": false
+}

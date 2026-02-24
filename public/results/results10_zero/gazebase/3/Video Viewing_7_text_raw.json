@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze coordinates show large, multi-directional jumps spanning wide horizontal and vertical ranges (up to ~\u00b116\u00b0 horizontally), with clusters of relatively stable points between jumps. This pattern matches following a randomly moving target across the screen rather than strict horizontal motion, line-by-line reading, central fixation, game-driven selective fixations, or free-viewing video behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows discrete fixations at sparse positions scattered within a central region, with jumps of several degrees between points and roughly one fixation per second over the 10 s window, matching a single target stepping to random locations rather than continuous tracking or dense reading/video patterns.",
+  "correct": true
+}

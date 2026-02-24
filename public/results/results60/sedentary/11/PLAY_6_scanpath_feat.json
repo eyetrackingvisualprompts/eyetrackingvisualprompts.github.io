@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed over two main horizontal regions with frequent shifts between left-center content and right-side area, including occasional excursions to the top and bottom\u2014matching the dispersed, result-scanning and SERP-navigation pattern seen in the SEARCH example rather than the more localized code or text focus of WRITE/DEBUG/READ.",
+  "correct": false
+}

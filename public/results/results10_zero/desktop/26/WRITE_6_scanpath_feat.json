@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a small, central-lower area with minimal horizontal or vertical scanning, indicating continuous attention to a single region (like a video frame or subtitles) rather than the systematic line-by-line movements of reading, exploratory shifts of search/browse/play, or keyboard-monitor alternation of writing.",
+  "correct": false
+}

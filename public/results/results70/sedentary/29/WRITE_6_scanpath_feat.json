@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between a dense cluster on the left (likely result list or query area) and another cluster on the right (a selected result), with long horizontal saccades between them\u2014typical of scanning search results and visiting result pages, matching the SEARCH pattern more than the other tasks.",
+  "correct": false
+}

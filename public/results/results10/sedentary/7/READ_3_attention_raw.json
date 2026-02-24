@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows a long, narrow horizontal band at a nearly constant vertical position, indicating continuous line-by-line reading similar to the READ example and unlike the more clustered or scattered patterns of other activities.",
+  "correct": true
+}

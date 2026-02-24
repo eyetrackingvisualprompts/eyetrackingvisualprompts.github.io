@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are densely concentrated near the central area with surrounding spread, resembling tracking of a dynamic game object around screen center, matching the PLAY heatmap pattern more than the other tasks.",
+  "correct": true
+}

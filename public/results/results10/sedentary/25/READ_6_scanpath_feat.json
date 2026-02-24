@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows predominantly horizontal movements around a single text row band with modest left-right navigation and limited vertical shifts, closely resembling the browsing example scanpath more than the more structured multi-line reading or dispersed search/watch patterns.",
+  "correct": false
+}

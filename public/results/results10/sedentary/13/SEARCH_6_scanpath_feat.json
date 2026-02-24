@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze cluster is confined to the left side with strong vertical movements between code lines and some diagonal sweeps, resembling intensive line-by-line inspection of a short code snippet, which matches the INTERPRET template more than the other tasks.",
+  "correct": false
+}

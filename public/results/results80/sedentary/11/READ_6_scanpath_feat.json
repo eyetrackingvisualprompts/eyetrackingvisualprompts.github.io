@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Two main horizontal bands of fixations (top and bottom) with a few long transitions between them resemble scanning a search results page and then moving to a result content area, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

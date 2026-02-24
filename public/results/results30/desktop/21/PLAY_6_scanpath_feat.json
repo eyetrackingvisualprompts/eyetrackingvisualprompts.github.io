@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers a broad central region with multiple clusters and frequent transitions between mid-screen areas, resembling scanning across heterogeneous webpage content; it is more dispersed than READ/WATCH and less localized than WRITE, matching the browsing pattern.",
+  "correct": false
+}

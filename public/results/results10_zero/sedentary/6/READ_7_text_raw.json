@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show rapid, frequent shifts across a broad area of the screen, including substantial vertical and horizontal movement and recurring returns to central regions\u2014patterns more consistent with tracking dynamic game elements and navigating the playfield than with the more structured, line-based, or region-focused patterns typical of reading, writing, browsing, or code-related tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers large portions of the screen with long vertical and horizontal transitions between distinct regions, resembling exploratory navigation across multiple webpage areas rather than focused reading or code-centered tasks, matching the BROWSE pattern.",
+  "correct": false
+}

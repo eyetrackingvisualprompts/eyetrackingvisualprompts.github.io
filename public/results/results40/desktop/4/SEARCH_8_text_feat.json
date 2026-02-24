@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows large, frequent shifts between widely separated regions (top, middle, and bottom areas), alternating with medium-length fixations\u2014indicative of scanning SERP snippets, jumping to content, then back, which aligns best with the SEARCH pattern rather than the more locally clustered patterns of READ/WRITE or the center-focused patterns of WATCH/PLAY.",
+  "correct": true
+}

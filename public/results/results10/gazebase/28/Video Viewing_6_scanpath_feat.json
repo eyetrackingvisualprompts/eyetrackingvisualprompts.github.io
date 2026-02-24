@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts cover a broad area with irregular, multidirectional saccades and dispersed fixations, unlike the structured line-like pattern of reading, the symmetric two-position pattern of horizontal saccades, or the central clustering of fixations and video viewing; this best matches the random, widely spaced movements of Random Saccades.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "Fixations are scattered over the upper-central region with varying vertical positions and no strict grid or horizontal-line structure, resembling the diverse yet localized viewing pattern seen in the video viewing example rather than the more structured patterns of reading, saccade tasks, or central fixation.",
+  "correct": false
+}

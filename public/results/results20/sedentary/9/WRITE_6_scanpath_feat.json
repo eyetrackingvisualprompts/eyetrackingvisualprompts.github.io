@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster over a compact left-central area with repeated vertical and diagonal transitions resembling movements between code lines and nearby elements (e.g., console, editor controls), matching the WRITE example more than the other activities.",
+  "correct": true
+}

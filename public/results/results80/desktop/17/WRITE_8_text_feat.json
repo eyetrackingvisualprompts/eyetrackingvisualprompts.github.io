@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band (y\u22480.28\u20130.38) with long, stable fixations and small progressive horizontal moves, matching line-by-line reading behavior rather than the larger, more scattered shifts seen in browse/search/play/watch or the more vertical/higher positions of writing on a document page.",
+  "correct": false
+}

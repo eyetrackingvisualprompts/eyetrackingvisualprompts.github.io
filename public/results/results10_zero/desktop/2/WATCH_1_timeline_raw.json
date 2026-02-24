@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y gaze positions stay within narrow horizontal and vertical bands with small, frequent micro-movements and no large systematic vertical shifts that would indicate line-to-line reading or webpage scrolling. The gaze remains centered in a compact region typical of focusing on a single text area and nearby UI elements, consistent with typing and editing in a word processor (WRITE).",
+  "correct": false
+}

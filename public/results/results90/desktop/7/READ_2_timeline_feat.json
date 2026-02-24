@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper screen region with X slowly drifting rightward over time and Y staying high, resembling gaze anchored near the top where a writing cursor and text line sit, similar to the WRITE example and unlike the more central, denser scanning in BROWSE or SEARCH.",
+  "correct": false
+}

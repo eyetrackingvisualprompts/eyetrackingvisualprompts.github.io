@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact region on the left side of the screen, with short saccades among closely spaced points and little horizontal sweeping, consistent with focusing on a small code snippet rather than extended text (READ/BROWSE) or dynamic, wide movements (PLAY/WATCH/SEARCH/WRITE/DEBUG). INTERPRET best matches this localized, analytic viewing pattern.",
+  "correct": false
+}

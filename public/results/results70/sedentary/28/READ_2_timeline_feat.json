@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right horizontal sweeps with frequent medium-range regressions and a slowly drifting upward Y position, resembling scanning through varied web content rather than tightly structured lines (READ) or more stationary/code-focused tasks. This pattern best matches the BROWSE example.",
+  "correct": false
+}

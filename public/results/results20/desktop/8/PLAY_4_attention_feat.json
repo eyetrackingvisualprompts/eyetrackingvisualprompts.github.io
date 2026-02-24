@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region slightly below the screen center, closely resembling the BROWSE example heatmap pattern more than the others, which matches reading mixed text and elements on a webpage.",
+  "correct": false
+}

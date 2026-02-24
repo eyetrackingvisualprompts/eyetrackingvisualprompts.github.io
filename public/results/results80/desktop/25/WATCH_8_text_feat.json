@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze frequently alternates between upper-central/upper-left and mid-screen regions with long, stable fixations and large vertical saccades, including many points above normalized y=1.0 that match the WATCH examples\u2019 pattern of tracking dynamic video content rather than line-based reading or focused text regions typical of WRITE/READ/BROWSE/SEARCH or the highly scattered dynamics of PLAY.",
+  "correct": true
+}

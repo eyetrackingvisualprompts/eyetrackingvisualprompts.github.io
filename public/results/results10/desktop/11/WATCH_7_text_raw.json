@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between mid-screen horizontal fixations and repeated vertical shifts to lower screen regions, with several abrupt relocations and refixations\u2014matching the pattern of scanning result lists and moving between query box, results, and lower content typical of web search pages, and differing from the more line-structured READ and the more central, less jumpy WATCH patterns.",
+  "correct": false
+}

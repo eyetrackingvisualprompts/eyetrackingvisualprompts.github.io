@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze distribution forms a horizontal band across mid-screen, indicating sequential left-to-right scanning typical of reading text, closely matching the READ example pattern.",
+  "correct": false
+}

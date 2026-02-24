@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations and saccades are tightly clustered around a compact region (roughly x=200\u2013500, y\u2248330\u2013400) with repetitive back\u2011and\u2011forth movements and occasional large jumps to screen edges, resembling attention on a code editor with sporadic glances to other UI elements. The pattern closely matches the WRITE example\u2019s dense, local, line\u2011level inspection rather than broader scanning (SEARCH/BROWSE) or horizontal line sweeps (READ).",
+  "correct": true
+}

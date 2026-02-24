@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Extremely long, continuous saccades spanning large screen distances with very brief fixations suggest tracking a moving game object or navigating the playfield, which aligns best with the dynamic gaze behavior in PLAY rather than the shorter, more clustered movements seen in code, reading, browsing, or video watching tasks.",
+  "correct": false
+}

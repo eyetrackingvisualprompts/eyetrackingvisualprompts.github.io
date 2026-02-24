@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a narrow x-region with substantial vertical movement between stacked code areas, similar to the DEBUG example where users repeatedly scan up and down through code while fixing errors, rather than the more localized INTERPRET or the more dispersed WRITE/BROWSE patterns.",
+  "correct": false
+}

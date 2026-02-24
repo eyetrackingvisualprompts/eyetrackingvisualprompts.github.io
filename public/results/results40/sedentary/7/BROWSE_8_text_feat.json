@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Widespread gaze transitions across the screen with many off-screen excursions, frequent jumps between distant regions (center, top, bottom, corners), and scanning-like movements without the tight, line-based structure of reading or the constrained central code/IDE patterns of WRITE/DEBUG/INTERPRET. This broad, exploratory pattern best matches free web browsing behavior.",
+  "correct": true
+}

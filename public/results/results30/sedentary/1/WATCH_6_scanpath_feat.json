@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are spread broadly across the horizontal mid-band of the screen with smooth, longer saccades and fewer tightly clustered fixations, resembling following visual content over time. This pattern best matches the WATCH example scanpath rather than the more localized or structured patterns of coding, reading, searching, or browsing tasks.",
+  "correct": true
+}

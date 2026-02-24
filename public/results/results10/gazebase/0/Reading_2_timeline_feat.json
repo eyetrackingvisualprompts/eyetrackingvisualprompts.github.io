@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The X position shows progressive rightward movements in steps, reset periodically to the left, while Y position drifts slowly downward across lines\u2014this pattern matches line-by-line reading behavior rather than random or game-driven saccades.",
+  "correct": true
+}

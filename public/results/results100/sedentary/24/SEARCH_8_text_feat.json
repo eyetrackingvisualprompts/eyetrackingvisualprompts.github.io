@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Long sequences of horizontal, line-like fixations around consistent y-levels (\u2248160\u2013200, 260\u2013320, 370\u2013420, 480\u2013520) with systematic left\u2013right passes and occasional vertical returns match paragraph/line reading behavior, closely resembling the READ template and differing from the more scattered, search-like or dynamic patterns of other tasks.",
+  "correct": false
+}

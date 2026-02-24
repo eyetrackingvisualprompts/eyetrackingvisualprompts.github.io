@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze exhibits medium-length fixations with frequent vertical shifts between mid and upper screen regions and occasional larger jumps, indicating scanning of varied on-page elements. This spatio-temporal pattern aligns more with web/news browsing behavior than with the more line-structured READ pattern, the focused-writing lower screen region in WRITE, or the more central, smoother WATCH/PLAY trajectories.",
+  "correct": true
+}

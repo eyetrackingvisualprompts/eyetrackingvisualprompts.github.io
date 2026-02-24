@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the screen center at mid-height, similar to the BROWSE example and distinct from the more top-centered WATCH/WRITE and band-like READ patterns, indicating focused viewing of centrally placed web content.",
+  "correct": false
+}

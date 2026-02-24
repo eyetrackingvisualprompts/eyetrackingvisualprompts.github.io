@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in upper-central area (typical search results list) with occasional long saccades to the sides and downward region, indicating alternating focus between query/results and other page elements, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

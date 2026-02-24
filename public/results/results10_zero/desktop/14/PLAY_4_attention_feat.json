@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are highly concentrated in a small central region with minimal horizontal or vertical spread, indicating sustained gaze near the screen center typical of watching a video, rather than the systematic scanning or multi-region exploration seen in reading, searching, browsing, writing, or playing games.",
+  "correct": false
+}

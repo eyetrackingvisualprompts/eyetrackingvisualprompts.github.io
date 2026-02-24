@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow lower-central band with many long fixations and small horizontal/vertical adjustments, consistent with monitoring a single text line and nearby UI while typing, unlike the broader exploratory movements seen in PLAY, SEARCH, or BROWSE.",
+  "correct": false
+}

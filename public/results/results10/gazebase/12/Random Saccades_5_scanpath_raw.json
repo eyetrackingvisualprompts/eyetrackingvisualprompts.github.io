@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, multi-directional saccades spanning both horizontal and vertical axes with no clear pattern (unlike structured horizontal or reading movements), matching the random target jumps of the Random Saccades task.",
+  "correct": true
+}

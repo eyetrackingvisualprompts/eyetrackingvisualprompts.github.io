@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a compact code-like region on the left with occasional shifts to a smaller region on the right, similar to the INTERPRET example where attention stays mostly on a single code snippet with limited navigation compared to the broader spread seen in WRITE or DEBUG.",
+  "correct": false
+}

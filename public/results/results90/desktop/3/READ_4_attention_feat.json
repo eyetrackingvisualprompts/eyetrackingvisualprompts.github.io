@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations are densely clustered in a compact region around the center, similar to the SEARCH example where attention is focused mainly on a small area of the results page rather than scanning horizontally like READ/WRITE or more broadly like WATCH/BROWSE/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a tight cluster of fixations confined to a relatively small, upper\u2011left region of the screen, consistent with focusing on a compact block of code in an IDE. There is little horizontal scanning typical of extended reading/browsing and no widespread movements indicative of search, play, or video watching, matching a code-interpretation task.",
+  "correct": true
+}

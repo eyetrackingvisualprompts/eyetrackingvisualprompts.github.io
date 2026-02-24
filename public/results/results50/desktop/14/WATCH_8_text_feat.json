@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large gaze excursions across the full screen (including extremes near y\u22480.02\u20130.04 and y>1.0), with rapid directional changes and long saccades between disparate regions, match the dynamic, omni-directional scanning seen in the PLAY examples rather than the more constrained, columnar or band-limited patterns of reading, writing, browsing, or searching, or the upper-band focus of watching video.",
+  "correct": false
+}

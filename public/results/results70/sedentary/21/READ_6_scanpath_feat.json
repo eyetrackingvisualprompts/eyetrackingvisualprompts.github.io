@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread horizontally across a single mid-screen band, resembling line-by-line scanning without vertical transitions between distant regions. This pattern closely matches the BROWSE example\u2019s horizontal reading behavior on a webpage, rather than the denser multi-line structure of READ or the localized clusters of coding tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations concentrated on the code area at the left with occasional long saccades to the right side (likely console/output area) match the debugging pattern rather than pure reading or writing.",
+  "correct": false
+}

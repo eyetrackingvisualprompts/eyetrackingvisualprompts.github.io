@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to varied horizontal and vertical positions across a wide range (\u2248\u00b120\u00b0 horiz, \u2248\u00b114\u00b0 vert), followed by clusters of small fluctuations indicative of fixations at each location. Movements are neither constrained to a pure horizontal axis (ruling out Horizontal Saccades) nor aligned in systematic, line-based left-to-right patterns (ruling out Reading). The broad, point-to-point shifts are more structured than the dense, content-driven scanpaths expected in Video Viewing or Balura Game and are incompatible with sustained central gaze required for Fixations. This pattern best matches the protocol of following a target that randomly appears across the screen with ~1 s dwells: Random Saccades.",
+  "correct": false
+}

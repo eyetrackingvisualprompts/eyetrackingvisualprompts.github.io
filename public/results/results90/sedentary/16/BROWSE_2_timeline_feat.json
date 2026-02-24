@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-scale horizontal and vertical shifts with irregular, multi-region scanning rather than systematic line-by-line reading or focused code inspection, matching the heterogeneous exploration pattern typical of search engine result pages.",
+  "correct": false
+}

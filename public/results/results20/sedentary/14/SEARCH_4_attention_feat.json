@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across both upper-left and central-right areas, indicating exploration of multiple interface regions rather than a single code block, text line, or focal game object; this dispersed pattern best matches web browsing behavior.",
+  "correct": false
+}

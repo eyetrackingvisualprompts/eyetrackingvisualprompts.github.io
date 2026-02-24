@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are dispersed across the screen, often near edges and corners, without a central bias or structured horizontal pattern typical of reading or horizontal saccades; this scattered yet discrete distribution best matches following a randomly moving target.",
+  "correct": false
+}

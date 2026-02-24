@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent back-and-forth saccades between a compact central code-like region and distant off-screen/edge locations, with many revisits, long dwell times, and irregular scanning patterns match the debugging examples more than the more linear patterns in INTERPRET or WRITE or the broader spatial exploration in SEARCH/BROWSE.",
+  "correct": false
+}

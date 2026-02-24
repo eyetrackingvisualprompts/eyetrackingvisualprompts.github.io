@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered in a relatively compact central region with short to medium saccades in multiple directions, resembling the localized yet exploratory pattern of scanning a search results page rather than the more linear (READ), left-biased (WRITE), or edge-spanning (WATCH/PLAY/BROWSE) patterns in the examples.",
+  "correct": false
+}

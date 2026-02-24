@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is mostly clustered around a compact region on the left with several long vertical sweeps toward the bottom and top, matching the example INTERPRET pattern where participants focus on a code block while occasionally scanning other parts of the IDE/output area rather than the broader, more dispersed movements seen in browsing, searching, or debugging.",
+  "correct": true
+}

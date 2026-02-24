@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, tight fixation cluster slightly below screen center with minimal spatial dispersion, indicating the eyes remained mostly steady on one central area, consistent with passively watching a video rather than scanning text, searching, browsing, or tracking widely moving game elements.",
+  "correct": false
+}

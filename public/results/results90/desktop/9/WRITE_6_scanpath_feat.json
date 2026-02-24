@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated band with relatively small vertical variation, consistent with line-by-line reading behavior and most similar to the READ example pattern among the given classes.",
+  "correct": false
+}

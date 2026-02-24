@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central band with relatively small, steady horizontal movements and occasional vertical saccades to a higher region, matching the pattern of repeatedly looking between code and a nearby reference area typical for writing/implementing code rather than broader exploration or structured line-by-line reading.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are clustered in a narrow central band with predominantly small horizontal shifts and long stable fixations, consistent with line-by-line reading behavior rather than the larger multi-directional saccades typical of PLAY, SEARCH, BROWSE, or WATCH, or the more dispersed gaze around interface elements seen in WRITE.",
+  "correct": false
+}

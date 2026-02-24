@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent transitions between distant regions (top/bottom, left/right, even off-screen coordinates), mixed with shorter local scanning and many revisits, match free-form web browsing patterns rather than the more structured line-based reading or code-centric tasks. The gaze often jumps to extreme positions, including negative and very high y-values, consistent with scrolling and navigating long web pages.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent medium-to-large saccades across wide screen regions (including edges and corners), many revisits to central mid-height band (y\u2248450\u2013600) where game objects/UI often lie, repeated up\u2013down sweeps between central and upper areas, and occasional jumps to extreme top/bottom locations resemble target-tracking and anticipatory gaze in games more than the more line-structured patterns of READ/WRITE/DEBUG or the more vertical-scrolling patterns of BROWSE/SEARCH.",
+  "correct": true
+}

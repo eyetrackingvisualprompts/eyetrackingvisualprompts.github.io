@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal movements with frequent shifts between two main vertical regions, resembling scanning between search results and snippets rather than the more uniform lines of READ or the localized, code-centered patterns of INTERPRET/DEBUG/WRITE. This matches the SEARCH example most closely.",
+  "correct": false
+}

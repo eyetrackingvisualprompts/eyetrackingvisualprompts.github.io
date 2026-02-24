@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long horizontal scanpaths across the upper part of the page at multiple vertical bands (around y\u224890\u2013140, then ~240\u2013320, then ~380\u2013460), with revisits and fine-grained fixations, match scanning SERP titles/snippets and then content, interleaved with large saccades to screen edges and corners; this pattern aligns closest with the provided SEARCH examples rather than the more constrained code/reading or highly dynamic game/video patterns.",
+  "correct": true
+}

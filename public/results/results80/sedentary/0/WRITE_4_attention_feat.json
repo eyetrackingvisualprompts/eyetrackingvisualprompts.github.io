@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are highly concentrated in a compact region in the upper-left code area with minimal spread elsewhere, indicating focused inspection of a single code snippet rather than scanning multiple lines (READ/WRITE) or widely exploring the screen (BROWSE/SEARCH/WATCH/PLAY). This pattern best matches the INTERPRET task example.",
+  "correct": false
+}

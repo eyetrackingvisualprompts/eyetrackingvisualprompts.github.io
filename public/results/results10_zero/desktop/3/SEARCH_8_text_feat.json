@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows sequential, localized fixations with short saccades mostly within a confined central-to-upper region, plus occasional larger vertical shifts consistent with moving between lines or paragraphs. The pattern lacks the large, frequent scene changes typical of SEARCH/BROWSE/PLAY or the broader, more dynamic scanning of WATCH, and it does not show the oscillatory left-right patterns around a text cursor typical of WRITE, making sustained reading the most plausible activity.",
+  "correct": false
+}

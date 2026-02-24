@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is focused in a narrow central region with very small, steady horizontal and vertical shifts and almost no large saccades, matching the concentrated, code-comprehension pattern seen in the INTERPRET example more than the other activities.",
+  "correct": false
+}

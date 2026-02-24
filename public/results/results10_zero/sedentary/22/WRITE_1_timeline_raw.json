@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows several long, stable fixations clustered at a few distinct X positions with relatively small Y variation, interspersed with quick transitions between these positions. This pattern matches tracking key game elements or regions (e.g., player, enemies, score areas) more than the systematic horizontal/vertical scanning typical of reading, browsing, or code-related tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is near screen center with medium-length fixations and frequent medium-amplitude vertical shifts between mid and upper regions, plus occasional larger jumps\u2014matching scanning results snippets and moving between query, results, and different sections of a search page more than the more regular line-wise pattern of READ or the more dispersed, dynamic patterns of PLAY/WATCH/BROWSE.",
+  "correct": true
+}

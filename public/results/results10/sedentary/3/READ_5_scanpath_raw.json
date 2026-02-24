@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small code-area region with repeated short horizontal and vertical shifts and occasional medium jumps, matching focused editing/typing on code as seen in the WRITE example rather than the broader exploration of SEARCH/BROWSE or the more static WATCH/READ patterns.",
+  "correct": false
+}

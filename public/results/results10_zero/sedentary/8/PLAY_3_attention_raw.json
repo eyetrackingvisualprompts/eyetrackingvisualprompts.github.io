@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a strong, centralized focus with limited horizontal scanning and only a few peripheral fixations, consistent with passively watching a full-screen video rather than reading, coding, or browsing tasks that exhibit systematic line-by-line or code-structured scan paths.",
+  "correct": false
+}

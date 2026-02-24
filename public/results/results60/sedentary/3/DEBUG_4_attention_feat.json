@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a compact region on the left-middle side, with minimal horizontal spread and a few glances downward, matching the focused, localized code-editing pattern seen in the WRITE example more than the broader multi-block clusters of DEBUG or INTERPRET.",
+  "correct": false
+}

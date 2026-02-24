@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in the lower-central area with vertical movements between two nearby regions and a few horizontal shifts, resembling attention between a results list and related UI elements, which matches the search-engine usage pattern more than the other activities.",
+  "correct": false
+}

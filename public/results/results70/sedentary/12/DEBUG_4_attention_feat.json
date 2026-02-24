@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows a dense cluster of fixations on a left-central code area with additional scattered fixations toward the right, matching the concentrated-but-distributed viewing pattern seen in the DEBUG example rather than the more localized INTERPRET or uniformly spread SEARCH/BROWSE patterns.",
+  "correct": true
+}

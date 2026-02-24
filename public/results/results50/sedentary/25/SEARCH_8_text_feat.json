@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, orderly horizontal scan paths with small regressions concentrated in narrow vertical bands\u2014typical of line-by-line reading of text\u2014rather than the broader visual exploration, dynamic object following, or code-focused patterns seen in other tasks.",
+  "correct": false
+}

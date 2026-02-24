@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze distribution is wide and covers much of the central screen with frequent transitions between dispersed fixation clusters, resembling the mixed reading\u2013scanning and result-page navigation typical of search behavior, and matches the SEARCH example pattern more closely than the others.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left-central area where code typically resides, with additional scattered looks to nearby regions, resembling the DEBUG example more than the tighter WRITE/INTERPRET clusters or the broader BROWSE/PLAY/WATCH patterns.",
+  "correct": false
+}

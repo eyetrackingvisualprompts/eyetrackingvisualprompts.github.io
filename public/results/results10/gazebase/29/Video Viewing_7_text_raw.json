@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, irregular multi-directional shifts across wide regions of the display (including big horizontal and vertical moves) followed by short local fixational jitter at each new location, matching the pattern of following a randomly moving target rather than the strictly horizontal pattern of Horizontal Saccades or the more locally clustered patterns of Reading/Video/Balura.",
+  "correct": false
+}

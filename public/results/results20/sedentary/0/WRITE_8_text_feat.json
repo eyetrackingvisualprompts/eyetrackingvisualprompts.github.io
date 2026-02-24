@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains concentrated in a compact code-like region with long, repeated fixations and small intra-line saccades around similar coordinates, matching the sustained, localized inspection pattern seen in the INTERPRET examples rather than the broader scanning or vertical sweeping typical of SEARCH, READ, or BROWSE, or the more dispersed/playfield-centered patterns of PLAY and WATCH.",
+  "correct": false
+}

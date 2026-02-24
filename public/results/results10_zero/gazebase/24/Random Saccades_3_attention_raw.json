@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixation clusters form two vertical bands on left and right at similar y-levels, indicating repeated large-amplitude horizontal shifts between two lateral positions, consistent with following a target moving horizontally across the screen rather than central fixation, random 2D movements, reading lines, video viewing, or game-driven scattered fixations.",
+  "correct": false
+}

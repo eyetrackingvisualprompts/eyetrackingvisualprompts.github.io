@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show long, stable horizontal segments with occasional rapid vertical shifts, typical of following dynamic visual content in a video rather than systematic line-by-line reading or code manipulation patterns.",
+  "correct": false
+}

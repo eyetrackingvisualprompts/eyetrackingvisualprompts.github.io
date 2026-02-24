@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations form a tall, vertically-extended band centered on the screen with dispersion over many Y-positions and fewer horizontal shifts, indicating continuous tracking of dynamic visual content rather than localized reading, coding, or searching; this pattern best matches the WATCH activity heatmap among the provided examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a relatively compact central region with multidirectional saccades and no clear horizontal line structure, resembling the exploratory, non-linear viewing seen in the BROWSE example more than the structured patterns of READ or WRITE or the more peripheral spreads of WATCH/PLAY.",
+  "correct": false
+}

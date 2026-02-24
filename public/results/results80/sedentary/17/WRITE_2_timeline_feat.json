@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze positions are relatively stable with moderate saccades and no strong systematic horizontal scanning or line-by-line reading; the pattern closely resembles the INTERPRET example, showing focused inspection of a compact code snippet rather than extensive navigation or dynamic tracking.",
+  "correct": false
+}

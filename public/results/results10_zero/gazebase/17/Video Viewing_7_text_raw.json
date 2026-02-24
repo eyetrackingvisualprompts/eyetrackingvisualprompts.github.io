@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data shows large, discrete gaze shifts to widely separated positions (both horizontally and vertically), with relatively stable clusters between shifts. This pattern matches following a target that jumps to random screen locations and is held briefly, consistent with the Random Saccades task rather than the more strictly horizontal pattern of Horizontal Saccades or the more localized patterns typical of Reading, Video Viewing, Balura Game, or sustained Fixations.",
+  "correct": false
+}

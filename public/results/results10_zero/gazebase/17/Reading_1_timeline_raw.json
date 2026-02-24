@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position shows large, regular, staircase-like jumps between two horizontal extremes with roughly one-second plateaus, while Y position remains nearly constant with minor noise. This pattern matches deliberate tracking of a target moving horizontally back and forth, characteristic of the Horizontal Saccades task rather than random or natural viewing behaviors.",
+  "correct": false
+}

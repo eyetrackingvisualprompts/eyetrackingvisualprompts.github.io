@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal band in the mid-screen with short, repetitive saccades and dense fixations, resembling line-by-line text reading and matching the READ example more than the other activities.",
+  "correct": true
+}

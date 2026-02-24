@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in the lower half of the screen (y\u22480.1\u20130.5) with frequent medium- to long-range saccades between dispersed positions and many short fixations, matching dynamic game monitoring (similar spatial region and movement magnitude as PLAY examples) rather than the more central, line-oriented, or static patterns of WATCH/READ/WRITE/BROWSE/SEARCH.",
+  "correct": false
+}

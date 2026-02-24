@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows multiple spatially separated clusters with frequent transitions between upper and lower screen regions and across horizontal positions, resembling scanning between search results, snippets, and possible answer pages rather than the more localized patterns of coding, reading, or debugging.",
+  "correct": false
+}

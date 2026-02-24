@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal line with small vertical variation, progressing steadily from left to right, which matches the characteristic scanpath of reading text on a single line or band, similar to the READ example and unlike the more dispersed patterns of other activities.",
+  "correct": true
+}

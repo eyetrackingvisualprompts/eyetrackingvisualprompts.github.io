@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions, many fixations in lower and peripheral areas, and rapid jumps to off-content coordinates and back resemble tracking moving game elements rather than structured reading, code, or web/search scanning patterns.",
+  "correct": false
+}

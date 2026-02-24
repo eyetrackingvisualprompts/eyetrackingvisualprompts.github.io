@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The fixations are distributed across widely separated locations over the screen, with no clear horizontal line (horizontal saccades), no tight central cluster (fixation), no left-to-right band characteristic of reading, and no dense localized clusters around a few objects (game or video). This scattered pattern best matches a target jumping to random positions as in Random Saccades.",
+  "correct": true
+}

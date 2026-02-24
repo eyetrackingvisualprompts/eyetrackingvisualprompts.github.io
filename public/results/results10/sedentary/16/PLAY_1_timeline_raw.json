@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, smooth shifts in X with moderate Y changes and few abrupt vertical jumps, resembling continuous object tracking and navigation seen in the PLAY example rather than the more stationary, line-based patterns of reading/searching or the erratic movements of debugging/writing.",
+  "correct": true
+}

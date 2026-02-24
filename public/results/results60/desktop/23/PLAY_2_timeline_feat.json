@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Y fixations stay persistently low (near the bottom of the screen) with relatively small vertical range, while X fixations drift gradually, matching the pattern of looking near a writing area and toolbar in a word processor rather than scanning full pages or dynamic scenes.",
+  "correct": false
+}

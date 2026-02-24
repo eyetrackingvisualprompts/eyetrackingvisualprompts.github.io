@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze follows a single moving target with large oblique and horizontal shifts across different screen regions, including a long diagonal transition and multiple position holds, consistent with a randomly moving bull\u2019s-eye rather than the regular horizontal motion, central fixation, reading pattern, game fixations, or free-viewing video behavior.",
+  "correct": false
+}

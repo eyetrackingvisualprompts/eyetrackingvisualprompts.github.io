@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized fixations around code-like coordinates with many short regressions and revisits to nearly the same positions, interleaved with occasional large jumps to other regions, matches the pattern of scrutinizing and re-checking code typical of debugging rather than smoother reading/browsing or highly dynamic game/video following.",
+  "correct": false
+}

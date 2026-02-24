@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trajectory shows large, predominantly horizontal movements spanning a wide visual angle with brief plateau-like segments and relatively stable vertical position within local stretches, matching the structured back-and-forth tracking of a horizontally moving target rather than the more scattered or multi-directional patterns seen in random saccades, reading, or free viewing.",
+  "correct": false
+}

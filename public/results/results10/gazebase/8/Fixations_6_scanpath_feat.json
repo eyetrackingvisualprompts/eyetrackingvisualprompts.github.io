@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points are tightly clustered around a single central location with minimal movement over time, matching the static central fixation pattern shown in the Fixations example.",
+  "correct": true
+}

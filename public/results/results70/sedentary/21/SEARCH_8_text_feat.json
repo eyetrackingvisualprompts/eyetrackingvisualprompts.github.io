@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Long sequences of tightly clustered fixations and short saccades along mostly horizontal bands in the upper part of the page, with occasional larger vertical transitions, match line-by-line text reading patterns rather than the more dispersed or object-driven gaze seen in other tasks.",
+  "correct": false
+}

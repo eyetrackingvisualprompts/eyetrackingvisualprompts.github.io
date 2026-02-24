@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between widely separated positions in both horizontal (\u224830\u00b0 span) and vertical dimensions, with each new location followed by a relatively long, single fixation (~0.3\u20130.9 s) and no clear left-to-right line structure or dense regressions typical of reading. Movements are not restricted to a horizontal axis (ruling out Horizontal Saccades) and lack prolonged central fixation (ruling out Fixations) or complex clustered patterns expected in video viewing or gaming, matching the random, discrete target jumps of the Random Saccades task.",
+  "correct": true
+}

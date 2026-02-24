@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated large-amplitude, nearly horizontal movements between two vertical bands on the left and right edges of the screen, with relatively stable positions at each side, consistent with following a horizontally oscillating target rather than the more irregular patterns of reading, random saccades, gaming, or free video viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent back-and-forth saccades among clustered code-like regions (mid-vertical band), many medium/long stationary periods on the same functional area, and repeated revisits to specific coordinates with occasional large jumps strongly resemble the focused, iterative inspection and re-inspection behavior seen in the DEBUG example rather than the more linear (READ/WRITE) or highly dynamic (PLAY/WATCH/BROWSE/SEARCH) scan patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper-middle portion of the screen with several distinct clusters resembling scanning a search-results page (query box, top results, some lower result), more dispersed than READ and more line-structured than WATCH or PLAY, matching the SEARCH example pattern.",
+  "correct": true
+}

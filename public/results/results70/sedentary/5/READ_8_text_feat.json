@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within narrow horizontal bands and moves smoothly left-to-right with short regressions, matching line-by-line reading patterns seen in the READ examples, rather than the larger, more irregular jumps and multi-region scanning typical of search, browse, or coding tasks.",
+  "correct": true
+}

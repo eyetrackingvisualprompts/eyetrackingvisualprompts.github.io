@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows medium-range vertical movements (likely between query area, results, and possible scrolling) combined with localized fixations, more dispersed than READ but less global than PLAY or WATCH, matching the exploratory yet structured pattern typical of web searching.",
+  "correct": false
+}

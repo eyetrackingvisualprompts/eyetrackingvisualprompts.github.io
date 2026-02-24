@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a compact central region with moderate dispersion and no strong horizontal reading pattern, resembling the browsing example more than the others, which show wider exploration (SEARCH/PLAY/WATCH) or linear text scanning (READ/WRITE).",
+  "correct": false
+}

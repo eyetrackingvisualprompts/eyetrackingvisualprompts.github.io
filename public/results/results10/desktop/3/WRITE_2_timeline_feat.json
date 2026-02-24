@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Large rapid vertical shift in X position around 2\u20133s followed by relatively stable horizontal tracking with moderate Y variations resembles following a moving game character (PLAY) more than the steadier, line-based scan patterns seen in READ/WRITE or the more dispersed exploration of SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

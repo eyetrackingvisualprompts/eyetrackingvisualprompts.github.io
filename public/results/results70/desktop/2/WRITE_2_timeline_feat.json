@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the screen center with relatively small-amplitude, irregular saccades and modest horizontal drift, resembling the mixed, moderate movements seen in the BROWSE example rather than the stronger horizontal scans of READ or the larger vertical shifts of SEARCH/WATCH/PLAY.",
+  "correct": false
+}

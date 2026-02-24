@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around a central area with frequent shifts among several nearby regions, indicating focused yet exploratory viewing typical of examining search results and related content, matching the SEARCH pattern more than the more linear READ or localized WATCH/WRITE behaviors.",
+  "correct": false
+}

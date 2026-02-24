@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a narrow horizontal band in the upper-middle of the screen with a left-to-right progression and limited vertical movement, closely matching the reading-like pattern in the READ example heatmap rather than the more scattered or central clusters of other tasks.",
+  "correct": false
+}

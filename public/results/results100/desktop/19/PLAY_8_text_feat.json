@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Early segment shows long horizontal fixations and saccades near the very top edge (y\u22480.0\u20130.05), consistent with looking at a browser tab bar / URL bar, followed by varied fixations and medium saccades across mid and upper screen, resembling scanning of multiple web regions. The spatial-temporal pattern and heterogeneity of gaze locations align more with BROWSE examples than with the more line-structured READ, center-focused WATCH, or narrowly localized WRITE patterns.",
+  "correct": false
+}

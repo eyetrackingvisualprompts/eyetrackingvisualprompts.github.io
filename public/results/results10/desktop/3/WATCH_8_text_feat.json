@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shifts between mid-screen and various vertical positions with medium-length fixations and multidirectional saccades, resembling scanning mixed-content areas (headlines, images, sections) rather than the more line-structured horizontal patterns of READ/WRITE or the peripheral, often more static viewing in WATCH/PLAY. This pattern best matches the exploratory, heterogeneous layouts seen in BROWSE.",
+  "correct": false
+}

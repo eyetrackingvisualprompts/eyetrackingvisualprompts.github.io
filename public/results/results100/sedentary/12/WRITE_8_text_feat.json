@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, revisiting fixations around clustered code-like regions with frequent short saccades, interspersed with large context shifts and revisits to similar coordinates, plus very long dwell times and occasional jumps to UI/console-like areas closely match the DEBUG pattern more than the other tasks.",
+  "correct": false
+}

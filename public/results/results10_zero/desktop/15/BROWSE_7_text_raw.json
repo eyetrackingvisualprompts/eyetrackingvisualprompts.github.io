@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show long, stable horizontal fixations with small regressions and occasional vertical shifts to nearby bands, forming stripe-like patterns typical of line-by-line reading. Movements stay mostly within central regions without large exploratory sweeps or multi-directional scanning that would suggest SEARCH, BROWSE, or PLAY, and lack the broad, scene-level shifts expected in WATCH; they are also more regular and text-aligned than the more variable patterns usually seen in WRITE. This is most consistent with sustained reading behavior.",
+  "correct": false
+}

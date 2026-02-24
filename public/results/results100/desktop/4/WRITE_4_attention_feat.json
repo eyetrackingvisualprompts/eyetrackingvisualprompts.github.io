@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated in the lower half of the screen, with a prominent cluster near the bottom center and scattered activity horizontally\u2014matching the dynamic, bottom-focused gaze pattern seen in the PLAY example rather than the more central (BROWSE/SEARCH) or band-like (READ/WRITE) patterns.",
+  "correct": false
+}

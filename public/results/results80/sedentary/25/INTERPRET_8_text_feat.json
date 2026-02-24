@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized fixations around code-like coordinates with frequent short regressions and vertical shifts, interspersed with occasional large saccades to UI regions and back to the same working area, closely matches the DEBUG examples\u2019 pattern of repeatedly checking and re-checking specific code sections and outputs rather than the more linear READ/BROWSE scans or dynamic PLAY/WATCH movements.",
+  "correct": false
+}

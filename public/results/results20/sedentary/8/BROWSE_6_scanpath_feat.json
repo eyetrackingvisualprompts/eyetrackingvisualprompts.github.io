@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between two main vertical regions (left and right) with substantial vertical spread and several long saccades, resembling movement between search results and individual result pages, which matches the SEARCH example pattern more than the other task types.",
+  "correct": false
+}

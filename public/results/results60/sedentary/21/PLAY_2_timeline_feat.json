@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows broad exploration across both axes with varied vertical shifts and frequent saccades, resembling the heterogeneous, multi-region viewing seen in the BROWSE example more than the more constrained, structured patterns of READ, WRITE, or code-focused tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered in the central region with frequent multidirectional saccades and revisits across a compact area, resembling the exploratory yet focused pattern seen in the SEARCH example more than the other activities.",
+  "correct": false
+}

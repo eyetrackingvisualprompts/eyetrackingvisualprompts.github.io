@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a tight cluster in the upper-left (likely query/results list) and a secondary region mid-right, with several long saccades between them, matching the multi-area inspection typical of search tasks more than the more localized patterns of WRITE/INTERPRET/DEBUG or the denser full-screen exploration of WATCH/BROWSE/PLAY.",
+  "correct": false
+}

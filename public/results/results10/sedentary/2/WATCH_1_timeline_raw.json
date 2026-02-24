@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent discrete shifts in both horizontal and vertical gaze positions with intermittent fixations resemble scanning search result pages and moving between results, matching the SEARCH pattern more than the steadier WATCH/READ traces or the spike-heavy coding tasks.",
+  "correct": false
+}

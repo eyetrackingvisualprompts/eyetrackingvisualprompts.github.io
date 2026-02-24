@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows large, frequent, multidirectional saccades with wide x- and y-range, indicating active visual scanning across the screen, which best matches the dynamics observed during gameplay compared to the more localized or structured patterns in other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated over a code/editor-like region with repeated vertical transitions to lower lines and occasional long saccades to the right (likely to console or other UI elements), closely matching the WRITE example pattern rather than the denser, more exploratory DEBUG or browsing-like behaviors.",
+  "correct": true
+}

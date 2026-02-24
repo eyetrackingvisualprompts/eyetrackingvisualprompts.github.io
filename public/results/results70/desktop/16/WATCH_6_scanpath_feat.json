@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows multiple clusters across central screen regions with frequent transitions between them and variable fixation sizes, indicating alternating attention between results, input fields, and different page areas, which aligns best with the SEARCH task compared to the more localized patterns of READ, WRITE, or BROWSE.",
+  "correct": false
+}

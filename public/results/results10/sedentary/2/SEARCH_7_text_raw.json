@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, rapid shifts across wide screen regions (center, lower, and right), recurring focus around mid-lower vertical levels, and dynamic movement patterns resembling tracking moving objects rather than line-by-line reading or code inspection, matching the interactive, spatially distributed gaze behavior typical for playing games like Pong/Mario/Agario.",
+  "correct": false
+}

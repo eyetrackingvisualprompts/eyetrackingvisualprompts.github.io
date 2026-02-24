@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The heatmap shows multiple dispersed fixation clusters across both horizontal and vertical directions, with strong focus periodically shifting to different screen regions (including far right and central areas). This wide, dynamic coverage and scattered fixation pattern best matches interactive game play, particularly compared to the more localized patterns of reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

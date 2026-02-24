@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered around mid-screen with moderate variability in both X and Y and irregular saccades, closely matching the browsing example pattern and showing more scattered exploration than structured reading or search, and less extreme shifts than play or watch.",
+  "correct": false
+}

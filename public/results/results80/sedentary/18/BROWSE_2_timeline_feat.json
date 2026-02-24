@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right sweeps with gradual downward drift, similar to reading, but with more irregular vertical jumps and larger saccades, matching the mixed scanning and reading behavior seen in the BROWSE example rather than the more structured patterns of pure READ or code-related tasks.",
+  "correct": true
+}

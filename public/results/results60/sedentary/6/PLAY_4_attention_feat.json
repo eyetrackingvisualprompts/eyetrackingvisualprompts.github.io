@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated in a horizontal band across mid-screen with a primary cluster near the left\u2013center and additional fixations extending rightward, resembling scanning along a web page content area. This pattern closely matches the provided BROWSE example heatmap more than the other task patterns.",
+  "correct": false
+}

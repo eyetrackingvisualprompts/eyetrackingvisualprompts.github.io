@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers multiple distinct screen regions including top, middle, and bottom with long saccades across the full width, resembling navigation between various webpage areas and elements, which matches the BROWSE pattern more than the other tasks.",
+  "correct": true
+}

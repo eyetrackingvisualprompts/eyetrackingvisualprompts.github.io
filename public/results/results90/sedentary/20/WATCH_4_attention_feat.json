@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper-middle region with a strong cluster slightly right of center, resembling attention to a main search result area and its snippet list, similar to the SEARCH example and less concentrated than code tasks or localized like WRITE/INTERPRET/DEBUG.",
+  "correct": false
+}

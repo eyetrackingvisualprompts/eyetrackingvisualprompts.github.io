@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are long (often >0.4\u20131.5 s) and clustered in a narrow horizontal band with very small, local saccades and occasional short shifts, matching stable line-based viewing of static content near the upper portion of the page, characteristic of reading rather than the larger vertical moves of search/browse or broader scanning of play/watch.",
+  "correct": false
+}

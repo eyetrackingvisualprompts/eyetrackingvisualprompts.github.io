@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are densely clustered around the screen center with some vertical spread and sparse peripheral glances, matching the focused, object-following gaze typical of simple game play rather than the more distributed or structured patterns seen in reading, browsing, or coding tasks.",
+  "correct": false
+}

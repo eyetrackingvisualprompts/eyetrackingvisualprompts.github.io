@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a moderately small central region with irregular saccades in multiple directions, resembling the exploratory yet locally confined pattern of browsing examples more than the linear horizontal scans of reading or the wider, more dynamic movements of playing or watching video.",
+  "correct": false
+}

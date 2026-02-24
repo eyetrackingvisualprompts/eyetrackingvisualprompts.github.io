@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze transitions between distant regions (corners, center, top/bottom), with many scattered fixations over wide vertical and horizontal extents, match exploratory web browsing patterns rather than focused code, text reading, or continuous object tracking.",
+  "correct": false
+}

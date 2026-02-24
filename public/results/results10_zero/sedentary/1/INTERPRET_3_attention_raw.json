@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is almost completely stationary in a small area on the left side of the screen, indicating prolonged fixation with minimal scanning or line-by-line movement. This pattern best matches passively watching a video rather than reading text, coding, searching, or actively interacting with dynamic game elements or web content, which would show broader, more distributed gaze shifts.",
+  "correct": false
+}

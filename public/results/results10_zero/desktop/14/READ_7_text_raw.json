@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points cluster in a narrow horizontal band with small, gradual shifts and occasional leftward jumps, consistent with line-by-line reading and return sweeps, rather than the larger, multidirectional movements typical of search, browsing, or gameplay, or the broader vertical exploration often seen in video watching or writing with cursor interaction.",
+  "correct": true
+}

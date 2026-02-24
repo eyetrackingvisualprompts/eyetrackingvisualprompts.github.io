@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-frequency horizontal movements with several vertical shifts and gradual drifts, resembling scanning and scrolling patterns over varied content, which best matches the browsing example rather than the more regular line-by-line patterns of reading or the more static behavior of watching or writing.",
+  "correct": false
+}

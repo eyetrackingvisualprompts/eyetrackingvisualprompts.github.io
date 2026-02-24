@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid, and frequent changes in both X and Y positions, especially around 2\u20133s and 8\u201310s, indicate intensive multi-directional gaze shifts typical of tracking moving objects in a game, matching the PLAY pattern more than the steadier, more structured movements of reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band in the lower half (x around 0.45\u20130.55, y around 0.3\u20130.35) with slow incremental rightward drift and small regressions, matching the stable, lower-screen focus typical when typing in a word processor, and differing from the wider vertical span and more variable patterns of reading, browsing, or gaming.",
+  "correct": false
+}

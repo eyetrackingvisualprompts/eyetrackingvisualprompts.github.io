@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-length saccades and fixations around a vertical band (y\u2248240\u2013320) with repeated left\u2013right scans over similar y-levels, intermittent jumps to top-of-page coordinates (near y\u22480) and other regions, and returns to mid-page are characteristic of scanning search results and snippets rather than sustained line-by-line reading or localized code-focused tasks like WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Long, stable fixations with small horizontal progressions around mid-screen y-levels closely match the sustained line-by-line reading pattern seen in the READ examples, unlike the larger exploratory shifts in BROWSE/SEARCH or the broader spatial movements in PLAY/WATCH/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in two main horizontal regions: one on the left (likely code editor) and one at mid-right (possibly console or reference), with occasional long saccades between them and to the bottom, matching the structured, editor-focused pattern seen in the WRITE example rather than the more scattered or vertically extensive patterns of other tasks.",
+  "correct": false
+}

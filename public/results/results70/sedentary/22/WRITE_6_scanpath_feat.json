@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-side code area with frequent revisits and also periodically shifts to a distinct region on the right (likely console/output or debugger), matching the pattern of alternating between code and execution feedback typical for debugging, and differing from the more scattered SEARCH/BROWSE or tightly grouped WRITE/INTERPRET patterns.",
+  "correct": false
+}

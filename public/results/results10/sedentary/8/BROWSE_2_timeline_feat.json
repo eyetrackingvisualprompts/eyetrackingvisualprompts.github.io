@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a relatively narrow vertical band with smooth, moderate horizontal shifts and few large saccades, resembling the stable, screen-centered viewing behavior seen in the WATCH example more than the more structured line-wise patterns of reading/code or the larger, task-driven jumps of search, browse, or play.",
+  "correct": false
+}

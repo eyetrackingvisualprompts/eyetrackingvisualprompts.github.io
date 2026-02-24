@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows multiple dispersed clusters across the screen with frequent transitions between them, indicating scanning of different page regions (e.g., menus, links, content blocks) typical of web browsing rather than the more linear patterns of reading or localized focus of writing/watch.",
+  "correct": false
+}

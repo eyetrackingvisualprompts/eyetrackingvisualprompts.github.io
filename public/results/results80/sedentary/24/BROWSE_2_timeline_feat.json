@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal scanning with frequent medium-amplitude saccades and gradual downward Y progression, resembling the mixed reading and result-scanning pattern of search pages rather than the more linear READ pattern or the more scattered patterns of BROWSE or PLAY.",
+  "correct": false
+}

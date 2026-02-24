@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in one main cluster slightly below screen center with a nearby secondary cluster above, consistent with fixations on a local region of text (e.g., one or two lines/paragraphs) rather than wide exploratory movements typical of browsing, search, or gameplay.",
+  "correct": false
+}

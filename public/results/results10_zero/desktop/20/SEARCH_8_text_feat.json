@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a central region with relatively short to medium fixations and predominantly small to moderate saccades, lacking large exploratory movements typical of SEARCH, BROWSE, or PLAY, and without the wide, dynamic shifts associated with WATCH; the stable, localized pattern best matches reading behavior on static text.",
+  "correct": false
+}

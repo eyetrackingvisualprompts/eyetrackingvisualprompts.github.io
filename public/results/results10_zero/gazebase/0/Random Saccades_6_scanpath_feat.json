@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points jump between multiple non-uniform positions spanning both horizontal and vertical directions, with roughly one-second dwell times at each location, consistent with following a randomly moving target rather than strict horizontal sweeps, central fixation, reading lines, video free-viewing, or game-driven clustered fixations.",
+  "correct": true
+}

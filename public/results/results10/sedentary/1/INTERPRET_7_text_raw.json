@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small region with many short, local saccades and revisits, interspersed with occasional large jumps to other screen areas, consistent with alternating between code editor lines and other interface elements typical of writing/implementing code, rather than the more linear scanpaths of reading or the broader exploratory patterns of browsing/searching.",
+  "correct": false
+}

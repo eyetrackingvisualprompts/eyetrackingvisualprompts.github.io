@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is spread across a large vertical region with many medium-length fixations and smooth shifts, including extended periods around mid-to-lower screen without clear line-by-line reading or code-like clustering, and without the rapid, target-oriented jumps typical of search, browse, or play. This pattern best matches passively following dynamic visual content, i.e., WATCH.",
+  "correct": false
+}

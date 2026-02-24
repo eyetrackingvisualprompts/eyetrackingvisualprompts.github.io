@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are concentrated in a relatively central region with multi-directional saccades and moderate dispersion, closely resembling the browsing example\u2019s clustered yet exploratory pattern rather than the more linear (READ/WRITE) or highly scattered (PLAY) patterns.",
+  "correct": false
+}

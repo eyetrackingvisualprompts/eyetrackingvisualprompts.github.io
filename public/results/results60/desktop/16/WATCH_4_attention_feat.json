@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central region with moderate vertical spread but limited horizontal scanning, matching the focused central attention pattern typical of browsing webpages more than the wider horizontal sweeps of reading or the multiple dispersed hotspots seen in playing or watching videos.",
+  "correct": false
+}

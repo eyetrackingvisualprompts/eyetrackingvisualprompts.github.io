@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered in a mid-screen region with frequent vertical transitions between two nearby bands, resembling shifts between query box, result snippets, and page elements typical of web search behavior rather than the more linear pattern of reading or the broader spread of browsing/playing/watching.",
+  "correct": false
+}

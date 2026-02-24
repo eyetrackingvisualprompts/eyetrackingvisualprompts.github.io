@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like jumps in both horizontal and vertical directions to various discrete locations across the screen, with intervals of roughly one second at each location, matching the pattern of following a randomly moving target that holds each position for one second as in the Random Saccades task.",
+  "correct": false
+}

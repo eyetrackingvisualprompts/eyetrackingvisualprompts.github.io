@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Large saccades between widely separated horizontal and vertical regions (center to far top, then to far left/right and back), revisits to top-like areas, and scattered mid-page fixations resemble scanning SERP titles/snippets and result pages more than the more line-structured READ or the tighter code-focused WRITE/DEBUG/INTERPRET patterns.",
+  "correct": false
+}

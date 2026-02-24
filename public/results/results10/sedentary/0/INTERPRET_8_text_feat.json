@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated around mid-horizontal bands with short horizontal saccades and medium fixations resembling scanning result lines, interspersed with occasional larger vertical/diagonal shifts to upper areas\u2014pattern and amplitudes closely match the provided SEARCH example more than the tighter, line-by-line horizontal pattern of READ or the more dispersed movements of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

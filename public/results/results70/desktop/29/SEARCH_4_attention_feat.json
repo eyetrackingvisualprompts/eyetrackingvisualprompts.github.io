@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster centrally with a compact region slightly below mid-height, resembling attention to a main content block or article area on a webpage, which matches the browsing heatmap pattern more than the other activities.",
+  "correct": false
+}

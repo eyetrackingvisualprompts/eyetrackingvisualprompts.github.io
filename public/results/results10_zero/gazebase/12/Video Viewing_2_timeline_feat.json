@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions jump between discrete locations with both horizontal (\u00b115\u00b0) and vertical (\u00b19\u00b0) components, with each plateau lasting about 1 s before the next jump. This pattern of multi-directional, step-like movements matches the random saccade task rather than purely horizontal saccades, sustained central fixation, reading-like left-to-right sweeps, or the more irregular exploration patterns of video viewing or gaming.",
+  "correct": false
+}

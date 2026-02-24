@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze jumps between widely separated positions across both horizontal (up to ~27\u00b0 span) and vertical axes, with no consistent horizontal-only pattern or reading-like line structure, and fixations of a few hundred milliseconds at each location\u2014matching a randomly moving target rather than text scanning, video free-viewing, or a game with clustered refixations.",
+  "correct": false
+}

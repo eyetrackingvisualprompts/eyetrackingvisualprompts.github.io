@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show discrete, irregular jumps across a wide range with roughly 1-second plateaus, matching the random, step-like target movements of the Random Saccades task rather than the more patterned or constrained movements of other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains around the screen center with relatively small, smooth drifts in both x and y and no clear line-by-line horizontal scanning or frequent large saccades; this stable, continuous pattern is characteristic of watching a full-screen video rather than reading, coding, browsing, or active search/game tasks which produce more structured or abrupt movements.",
+  "correct": false
+}

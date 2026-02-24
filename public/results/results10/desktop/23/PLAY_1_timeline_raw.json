@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-range saccades in X with several large vertical transitions and a big Y jump near the middle indicate switching between result lists, top/bottom of pages, and query box\u2014matching the mixed scanning and refocusing behavior typical of web search tasks rather than steady reading or passive watching.",
+  "correct": false
+}

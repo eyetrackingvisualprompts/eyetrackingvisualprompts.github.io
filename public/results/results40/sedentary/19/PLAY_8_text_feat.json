@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly confined to a central region with long, stationary fixations (often >1s) and small local saccades, with occasional medium jumps\u2014matching passive, stimulus-driven viewing as in WATCH. Patterns lack the systematic horizontal line sweeps of READ and the code-panel oscillations of WRITE/DEBUG/INTERPRET, and show less exploratory jumping than SEARCH/BROWSE or object-tracking patterns typical of PLAY.",
+  "correct": false
+}

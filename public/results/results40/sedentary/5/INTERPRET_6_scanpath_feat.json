@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region on the left where code would appear, with occasional shifts to a nearby lower area, matching the localized, code-focused scanpath seen in INTERPRET rather than the broader exploration of SEARCH/BROWSE or the tighter clustering of WRITE/DEBUG.",
+  "correct": true
+}

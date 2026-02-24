@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal band with limited vertical movement and relatively regular left-right saccades, closely matching the pattern of line-by-line reading and resembling the READ example more than the other task patterns.",
+  "correct": false
+}

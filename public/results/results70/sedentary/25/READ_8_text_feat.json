@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, line-like horizontal scanpaths at consistent vertical bands (around y\u2248180, 230, 300, 330\u2013370, 420\u2013440, 500+), with many short fixations and small progressive saccades, closely matching the structured left-to-right line reading patterns in the READ examples rather than the more dispersed or object-focused patterns of other tasks.",
+  "correct": true
+}

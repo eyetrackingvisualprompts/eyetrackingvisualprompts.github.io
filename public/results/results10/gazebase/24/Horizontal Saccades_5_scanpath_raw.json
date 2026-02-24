@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trace shows predominantly horizontal movements back and forth along a narrow vertical band, closely matching the pattern of large-amplitude horizontal saccades between two positions, similar to the Horizontal Saccades example and unlike the more scattered or multi-line patterns of other activities.",
+  "correct": true
+}

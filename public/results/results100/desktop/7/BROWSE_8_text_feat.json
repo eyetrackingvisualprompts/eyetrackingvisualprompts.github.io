@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium- to large-amplitude saccades in many directions (both vertically across large portions of the screen and horizontally), with varied fixation locations and no clear line-by-line scanning or stable central focus. This heterogeneous, exploratory pattern with repeated revisits to mid-screen and upper/lower regions matches the provided BROWSE examples more than the more structured READ/WRITE or more centrally constrained WATCH patterns.",
+  "correct": true
+}

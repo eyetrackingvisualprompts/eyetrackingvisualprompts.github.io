@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent horizontal saccades across mid-upper screen lines with revisits, interspersed with large vertical jumps to top and bottom regions, match scanning result snippets and moving to other SERP sections rather than the more line-structured READ pattern or localized code-centric patterns of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

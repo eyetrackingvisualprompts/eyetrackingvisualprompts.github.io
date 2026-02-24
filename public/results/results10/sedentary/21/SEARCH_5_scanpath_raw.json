@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows large, smooth sweeps and long cross-screen transitions with relatively few dense local clusters, indicating continuous tracking of changing on-screen content typical of watching a full-screen video rather than reading, coding, or interactive tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the central area with multidirectional saccades and no strong horizontal line structure, closely matching the example SEARCH scanpath rather than the more linear READ/WRITE or peripheral WATCH/PLAY patterns.",
+  "correct": false
+}

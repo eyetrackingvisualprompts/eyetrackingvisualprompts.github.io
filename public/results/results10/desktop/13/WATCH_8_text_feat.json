@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates repeatedly between two vertically separated bands (around y\u22480.26 and y\u22480.43\u20130.45) near the screen center with relatively short fixations and frequent small vertical saccades, consistent with monitoring typed text and the nearby cursor/toolbar in a word processor rather than the more horizontal line-by-line patterns of READ or the more dispersed exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

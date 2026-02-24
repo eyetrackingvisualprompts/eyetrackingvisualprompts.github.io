@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The heatmap shows a main horizontal fixation band in the lower-middle area with additional fixations near the top and scattered points elsewhere, closely resembling the SEARCH example where attention alternates between results list and other page elements rather than concentrated text reading or focused code inspection.",
+  "correct": true
+}

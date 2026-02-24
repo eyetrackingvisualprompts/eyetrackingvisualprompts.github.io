@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The heatmap shows dispersed fixations over multiple vertical regions, including the top where search bars and result headers appear, and scattered points lower on the page, matching the exploratory, multi-area pattern typical of search result browsing rather than the more focused clusters seen in reading, coding, or video watching.",
+  "correct": true
+}

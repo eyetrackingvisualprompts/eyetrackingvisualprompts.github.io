@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen areas (including corners and edges), substantial vertical and diagonal jumps, and clustered fixations around moving loci match the dynamic, spatially distributed gaze patterns seen in the PLAY examples rather than the more line- or region-constrained patterns of reading, coding, or web browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered in a small central-left region with short, dense saccades and minimal horizontal scrolling, consistent with focusing on a code editor area while typing or editing rather than scanning across multiple elements or reading long text sections.",
+  "correct": false
+}

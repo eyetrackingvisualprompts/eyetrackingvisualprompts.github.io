@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, irregular movements in both horizontal and vertical directions across multiple locations, without the consistent left-to-right line structure of reading or the strictly horizontal pattern of horizontal saccades, matching the random multi-directional target-following behavior of Random Saccades.",
+  "correct": false
+}

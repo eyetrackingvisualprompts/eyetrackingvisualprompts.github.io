@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades across wide vertical and horizontal extents (including to screen extremes and beyond typical text/content bands), with many rapid shifts between dispersed regions and relatively short, irregular fixations. This high-amplitude, multidirectional scanning pattern aligns best with dynamic game play (PLAY) rather than the more banded, structured, or center-focused patterns seen in reading, browsing, searching, watching video, or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered around a central region with moderate vertical spread and occasional saccades outward, closely matching the browsing example pattern rather than the more linear (READ/WRITE), dispersed (PLAY/WATCH), or centrally-search-focused (SEARCH) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow horizontal band with relatively small, infrequent saccades and stable fixation positions, closely resembling the INTERPRET example where participants quietly inspect a short, static code snippet to reason about its output rather than scanning widely as in SEARCH/BROWSE or following motion as in WATCH/PLAY.",
+  "correct": false
+}

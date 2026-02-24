@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations with many re-visits to a compact code region, interspersed with occasional large jumps to extreme screen locations and back, match the intensive, iterative inspection and verification pattern typical of debugging rather than the more linear (READ/WRITE/INTERPRET) or object-following/broad-scan behaviors (PLAY/WATCH/SEARCH/BROWSE).",
+  "correct": true
+}

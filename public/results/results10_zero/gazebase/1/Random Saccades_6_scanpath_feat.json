@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps between widely separated fixation points in both horizontal and vertical directions, with each cluster held briefly before the next jump. This matches a participant following a randomly moving target rather than the more linear pattern of reading, strictly horizontal shifts, or dense localized fixations from gaming or static fixation tasks.",
+  "correct": true
+}

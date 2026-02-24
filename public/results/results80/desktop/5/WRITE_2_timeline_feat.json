@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cluster around screen center with moderate, frequent saccades and no strong directional sweep patterns seen in reading or searching; the dynamics closely resemble the example BROWSE pattern of scattered fixations and exploratory movements over a relatively central region.",
+  "correct": false
+}

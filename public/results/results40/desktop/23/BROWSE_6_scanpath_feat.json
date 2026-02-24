@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form several nearby clusters with moderate dispersion across the central-upper area, reflecting mixed reading and interface navigation typical of web searching, and matching the SEARCH example pattern more closely than the more linear READ pattern or the wider, more scattered BROWSE/PLAY/WATCH patterns.",
+  "correct": false
+}

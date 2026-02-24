@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread across both the left and central-right regions with multiple scattered vertical clusters and a horizontal band around mid-screen, resembling scanning of a search-results page rather than the tighter blocks of code (WRITE/DEBUG/INTERPRET) or the more uniform reading/browsing patterns.",
+  "correct": false
+}

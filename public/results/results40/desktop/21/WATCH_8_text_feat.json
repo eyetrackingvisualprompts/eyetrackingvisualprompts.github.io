@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Predominantly upper-screen gaze with long, stable fixations and relatively small, local saccades, interspersed with occasional vertical shifts, closely matches the WRITE example\u2019s pattern of focusing around the text/cursor area and moving within a constrained region, unlike the more horizontal scanlines of READ or the broader exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

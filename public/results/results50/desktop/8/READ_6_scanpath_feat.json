@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a narrow horizontal band of fixations with small vertical spread and smooth left-to-right progression, matching the stable line-by-line reading pattern seen in the READ example more than the more scattered or multi-cluster patterns of other activities.",
+  "correct": true
+}

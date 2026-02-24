@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show tightly clustered, small-amplitude horizontal and vertical shifts within a limited central band, forming repeated line-like patterns with regressions typical of reading text rather than large scene changes, object following, or code/GUI exploration.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, rapid shifts across wide screen regions, including large jumps to screen corners and irregular scanning paths rather than orderly line-by-line movements or concentrated code-reading areas. This broad, dynamic spatial coverage with abrupt relocations is most consistent with visually tracking game elements and navigating in a PLAY scenario rather than the more structured, text-focused patterns of READ/WRITE/INTERPRET/DEBUG or the more centrally focused WATCH behavior.",
+  "correct": false
+}

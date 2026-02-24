@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze jumps between widely separated positions across both horizontal (about -20\u00b0 to +22\u00b0) and vertical (about -14\u00b0 to +8\u00b0) axes with no clear repetitive horizontal pattern or line-structured pattern. Fixations are brief and distributed over the full screen, matching a task where a target appears at random locations rather than static viewing, reading, or smooth horizontal tracking.",
+  "correct": false
+}

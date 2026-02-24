@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points remain tightly clustered around a single, near-central location with only small drift, matching the static central fixation pattern rather than the larger excursions seen in saccade, reading, game, or video tasks.",
+  "correct": true
+}

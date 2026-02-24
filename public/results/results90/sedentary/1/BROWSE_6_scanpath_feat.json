@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Wide horizontal coverage with frequent rapid saccades across the screen and dispersed fixations, including edges and corners, matches the dynamic tracking and navigation behavior seen in the PLAY examples rather than the more localized or structured patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

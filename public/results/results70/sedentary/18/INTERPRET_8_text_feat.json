@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent medium-duration fixations and revisits within a compact code-like region (x\u2248250\u2013400, y\u2248180\u2013380) interleaved with occasional long saccades to screen edges/corners and back, along with repeated top-of-screen checks, closely match the WRITE examples\u2019 pattern of editing and verifying code, rather than the more linear scan (READ/SEARCH) or object-following (PLAY/WATCH) behaviors.",
+  "correct": false
+}

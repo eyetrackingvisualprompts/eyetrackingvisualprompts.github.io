@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath is localized near the screen center with moderate multidirectional saccades and no clear horizontal reading lines, resembling the compact, exploratory pattern shown for BROWSE rather than the more linear READ or broader SEARCH/PLAY/WATCH/WRITE patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is tightly clustered in a small area near the upper-left of the screen with almost no dispersion, suggesting sustained attention to a single static region typical of watching a video, rather than the distributed or scanning patterns expected in reading, coding, searching, browsing, or gameplay.",
+  "correct": false
+}

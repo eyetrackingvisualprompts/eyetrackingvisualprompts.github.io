@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed horizontal and vertical movements with irregular shifts between mid and upper/lower screen regions, and intermittent clusters of larger saccades\u2014consistent with scanning results, reading snippets, and moving between search box, results list, and clicked pages, matching the SEARCH pattern better than the more uniform reading/browsing or code-focused tasks.",
+  "correct": false
+}

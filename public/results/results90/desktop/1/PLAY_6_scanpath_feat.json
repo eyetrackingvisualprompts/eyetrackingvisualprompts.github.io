@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered near the screen center with moderate dispersion in both horizontal and vertical directions, lacking the strong horizontal line structure of reading or writing and less spread than typical browsing; this pattern best matches the example SEARCH scanpath where attention shifts among central SERP elements and result snippets.",
+  "correct": false
+}

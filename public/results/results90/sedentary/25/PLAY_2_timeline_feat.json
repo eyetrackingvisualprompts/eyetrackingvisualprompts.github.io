@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows gradual rightward (X) progression with periodic large upward saccades and relatively stable Y around mid-screen, matching the scanning and scrolling pattern seen in the BROWSE example more than the other tasks.",
+  "correct": false
+}

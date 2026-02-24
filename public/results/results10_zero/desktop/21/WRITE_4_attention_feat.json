@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a highly localized fixation cluster in the lower-central region of the screen, with almost no gaze dispersion elsewhere. This is consistent with passively watching a video where attention remains focused on a small area (e.g., main characters or subtitle region), rather than the broader horizontal or vertical scanning expected in reading, writing, searching, browsing, or gameplay.",
+  "correct": false
+}

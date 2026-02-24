@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, smooth horizontal scanpaths with dense fixations along several vertically stacked bands (y\u2248520\u2013570, then 600\u2013660, then 720\u2013770, then around 890\u2013940, and finally near 110\u2013140), matching line-by-line reading behavior rather than scattered exploration, code inspection, or dynamic target following.",
+  "correct": true
+}

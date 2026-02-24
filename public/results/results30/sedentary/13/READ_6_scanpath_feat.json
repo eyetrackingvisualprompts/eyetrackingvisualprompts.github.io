@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form orderly, horizontal scanlines at two nearby vertical levels with limited vertical movement and consistent left-to-right progression, matching the structured reading pattern seen in the READ example rather than the more scattered or task-switching patterns of other activities.",
+  "correct": true
+}

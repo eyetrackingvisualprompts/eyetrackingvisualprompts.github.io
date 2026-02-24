@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in two horizontal clusters near the top of the screen, matching attention on a search box/results row and resembling the SEARCH example more than the other activities, which show more central or dispersed patterns.",
+  "correct": false
+}

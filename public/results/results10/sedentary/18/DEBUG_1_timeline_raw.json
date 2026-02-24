@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly central, relatively stable gaze with intermittent vertical spikes and small horizontal shifts resembles focused inspection of localized code regions with occasional jumps, matching the DEBUG example more than the more continuous scan (READ/WRITE) or broader movements (PLAY/BROWSE/WATCH/SEARCH).",
+  "correct": true
+}

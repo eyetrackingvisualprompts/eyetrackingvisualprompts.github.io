@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around central screen regions with frequent small to medium saccades in varying directions and no strong systematic horizontal/vertical sweep, matching the heterogeneous scanning behavior typical of web/news browsing rather than structured reading, writing, playing, or video watching.",
+  "correct": false
+}

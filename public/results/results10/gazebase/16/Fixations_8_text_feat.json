@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "All gaze points remain close to the screen center with only tiny corrective saccades and multiple very long fixations (up to several seconds), matching the sustained central fixation pattern rather than reading, tracking, or large-amplitude saccades.",
+  "correct": true
+}

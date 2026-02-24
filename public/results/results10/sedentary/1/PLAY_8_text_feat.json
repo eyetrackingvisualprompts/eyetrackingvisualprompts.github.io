@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large vertical transitions between very low and very high y-coordinates, including off-screen regions, plus scattered fixations over varied areas resemble scrolling and navigating through different parts of web pages, matching the heterogeneous, multi-region patterns seen in the BROWSE example more than the more structured patterns of reading, coding, or games.",
+  "correct": false
+}

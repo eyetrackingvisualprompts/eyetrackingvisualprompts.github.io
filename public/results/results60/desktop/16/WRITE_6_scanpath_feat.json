@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows several spatially separated clusters with revisits and vertical transitions resembling moving between search box, result list, and content, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze path shows repeated long horizontal movements between two vertical edge regions with relatively stable vertical position during each traverse, matching the pattern of following a horizontally moving target.",
+  "correct": true
+}

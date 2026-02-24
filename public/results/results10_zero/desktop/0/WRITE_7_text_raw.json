@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points remain clustered in a narrow central-upper region with very small, smooth variations and no systematic horizontal line-by-line scanning or frequent large saccades. This pattern is consistent with passively watching a video (likely focusing on a central content area or character region), rather than the structured left-to-right sweeps of reading/writing or the larger, more frequent directional shifts typical of browsing, searching, or gameplay.",
+  "correct": false
+}

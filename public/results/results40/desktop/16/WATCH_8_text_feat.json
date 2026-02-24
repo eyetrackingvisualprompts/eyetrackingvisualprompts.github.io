@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is confined to a small central-upper region with short saccades and moderate fixations, lacking the systematic horizontal scanpaths of READ and the wider, more scattered patterns of WATCH/PLAY/SEARCH. The spatial coordinates and local exploratory movements closely resemble the BROWSE exemplar, which shows dense, small-amplitude movements around a similar mid-screen band while inspecting page elements.",
+  "correct": false
+}

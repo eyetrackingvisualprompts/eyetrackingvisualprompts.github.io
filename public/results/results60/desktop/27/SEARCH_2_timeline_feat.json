@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cluster around mid-screen with moderate horizontal and vertical variability and frequent small saccades, resembling the mixed, less-structured scanning seen in the BROWSE example rather than the more linear (READ/WRITE) or dynamic (PLAY/WATCH/SEARCH) patterns.",
+  "correct": false
+}

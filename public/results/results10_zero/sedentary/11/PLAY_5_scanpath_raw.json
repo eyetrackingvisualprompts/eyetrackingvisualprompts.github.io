@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact central region with short, clustered saccades and repeated re-fixations, consistent with inspecting a small code snippet area rather than scanning lines of text (READ/BROWSE/SEARCH) or tracking large on-screen motion (PLAY/WATCH). This focused, back-and-forth pattern matches concentrated reasoning over a limited piece of code, as in INTERPRET.",
+  "correct": false
+}

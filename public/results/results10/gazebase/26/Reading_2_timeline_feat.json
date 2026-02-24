@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "Both X and Y positions show smooth, irregular changes without strict horizontal line-by-line patterns, large discrete jumps, or strictly horizontal-only motion, matching the natural, less structured eye movements typical of video viewing rather than reading, saccade tasks, or the game.",
+  "correct": false
+}

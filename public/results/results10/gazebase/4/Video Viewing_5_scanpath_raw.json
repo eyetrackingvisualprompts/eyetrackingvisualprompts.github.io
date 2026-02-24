@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path covers a broad region of the screen with large, irregular jumps in both horizontal and vertical directions and approximately 1-second dwells at scattered positions, matching the pattern of following a randomly moving target rather than the more structured or localized patterns seen in the other tasks.",
+  "correct": false
+}

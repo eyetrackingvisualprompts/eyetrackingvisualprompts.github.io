@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered over a relatively large area of the right side of the screen, with no clear horizontal row structure (reading) or strict central line (horizontal saccades). The discrete, spatially separated clusters match a target that jumps to various positions and is fixated briefly, consistent with Random Saccades rather than continuous video viewing or game-driven selective fixations.",
+  "correct": true
+}

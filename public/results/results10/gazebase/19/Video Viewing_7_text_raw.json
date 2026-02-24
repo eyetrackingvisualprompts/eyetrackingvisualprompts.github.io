@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze trace shows long, irregular trajectories across large regions of the screen with many direction changes and variable speeds, without the strict 1\u2011second step pattern of saccade tasks, the tight central clustering of fixation, or the structured line-by-line patterns and plateaus seen in reading or game targeting. This matches the free-exploration scanpaths characteristic of video viewing.",
+  "correct": true
+}

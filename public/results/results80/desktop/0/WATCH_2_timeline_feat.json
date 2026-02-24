@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations show moderate horizontal movement around the screen center with variable vertical shifts and irregular saccades, resembling mixed scanning of different webpage regions rather than the more linear patterns of READ or the strong vertical separation seen in WATCH/WRITE or PLAY. This best matches browsing behavior.",
+  "correct": false
+}

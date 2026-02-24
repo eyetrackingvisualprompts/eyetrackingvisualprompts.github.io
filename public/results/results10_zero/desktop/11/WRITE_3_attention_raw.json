@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly localized in a small lower-left region with minimal horizontal or vertical scanning, indicating sustained attention to a single area typical of watching a video element rather than the systematic left\u2011right, top\u2011down movements seen in reading, writing, browsing, searching, or playing games.",
+  "correct": false
+}

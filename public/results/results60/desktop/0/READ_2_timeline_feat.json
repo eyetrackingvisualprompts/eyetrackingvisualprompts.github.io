@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in the lower half of the screen with relatively stable horizontal position and small vertical drift, matching the pattern of focusing on a text entry area while typing, which resembles the WRITE example most closely.",
+  "correct": false
+}

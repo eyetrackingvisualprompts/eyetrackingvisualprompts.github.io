@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact region slightly above screen center with many medium-to-long fixations and short, local saccades, including repeated revisits to nearly identical coordinates. This resembles monitoring and editing a single text line in a word processor more than broader vertical scanning of READ or the larger exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

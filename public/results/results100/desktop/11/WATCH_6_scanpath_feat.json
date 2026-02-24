@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are centered with moderate dispersion and frequent transitions between regions, resembling mixed reading and interface interaction typical of web searching, and most similar to the SEARCH example scanpath.",
+  "correct": false
+}

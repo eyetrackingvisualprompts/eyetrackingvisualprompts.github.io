@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show predominantly horizontal movements with relatively stable vertical bands and small progressive shifts, consistent with line-by-line reading behavior rather than the larger, multidirectional saccades typical of PLAY, SEARCH, or WATCH. The pattern also lacks the strong central fixation and editing-loop behavior often seen in WRITE, making READ the most likely activity.",
+  "correct": false
+}

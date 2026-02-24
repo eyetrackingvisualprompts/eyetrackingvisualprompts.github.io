@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a few vertical regions with frequent shifts between an upper and lower area, plus occasional long saccades\u2014matching the reference WRITE pattern of alternating focus between code editor and other UI elements, rather than the more dispersed or horizontal patterns of browsing, watching, or reading.",
+  "correct": true
+}

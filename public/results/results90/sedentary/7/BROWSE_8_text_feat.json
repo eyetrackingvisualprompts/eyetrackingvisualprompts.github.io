@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "After initial large movements, gaze settles into long horizontal scanpaths at several vertical bands (y\u2248150\u2013270, 300\u2013380, 410\u2013470, 550\u2013620, 640\u2013700), with sequential left-to-right and right-to-left passes and small regressions\u2014typical of line-by-line reading. Patterns match the READ exemplars more than the more scattered, multi-panel behaviors seen in BROWSE or SEARCH.",
+  "correct": false
+}

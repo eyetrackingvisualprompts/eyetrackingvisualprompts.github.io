@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen in both horizontal and vertical directions, without a clear linear pattern (as in horizontal saccades) or structured text-like rows (as in reading). The distribution matches a stimulus jumping to random positions that are then fixated, consistent with the Random Saccades task.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around central mid-screen with small horizontal/vertical shifts and moderate-duration fixations, interspersed with occasional larger jumps to other regions and back\u2014matching the mixed reading-scanning and region-to-region navigation typical of browsing pages, and closely resembling the spatial-temporal pattern seen in the BROWSE example more than the more linear (READ/WRITE) or highly dynamic (PLAY/WATCH/SEARCH) patterns.",
+  "correct": false
+}

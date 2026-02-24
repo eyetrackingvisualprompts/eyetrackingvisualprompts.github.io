@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a code-like region on the left with repeated vertical and local movements, plus occasional long saccades to the right-side area (likely console or reference output), closely matching the DEBUG example pattern.",
+  "correct": false
+}

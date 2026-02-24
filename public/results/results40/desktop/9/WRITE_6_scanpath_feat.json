@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread over a mid-screen region with varied saccade directions and multiple clusters, indicating exploration of a heterogeneous layout typical for browsing web pages rather than the more linear patterns of reading or the focused regions of watching or writing.",
+  "correct": false
+}

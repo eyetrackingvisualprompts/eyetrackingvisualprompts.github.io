@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent large gaze shifts between code/IDE region and other screen areas (including off-text locations), mixed with clusters of shorter fixations around mid-screen and near the top-left, match the write/typing pattern in the WRITE examples more than the more localized, line-based patterns of READ/INTERPRET or the more vertically scrolling and SERP-focused patterns of SEARCH/BROWSE.",
+  "correct": false
+}

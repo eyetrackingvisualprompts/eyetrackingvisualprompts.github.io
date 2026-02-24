@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a narrow vertical band near the top of the screen with long, steady horizontal scan paths and repeated left\u2013right passes at successive y-levels, matching skimming result snippets or SERP sections. There are frequent but structured returns between a left region (~660\u2013750 px) and central/right regions (~900\u20131150 px), consistent with scanning search results rather than continuous text reading, code, or dynamic game/video stimuli.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderately focused, code-like inspection: mostly constrained fixations with occasional vertical saccades and brief scanning bursts, more intensive than INTERPRET/WRITE but less repetitive-horizontal than READ/BROWSE or dynamic like PLAY/WATCH, matching the DEBUG pattern in the examples.",
+  "correct": false
+}

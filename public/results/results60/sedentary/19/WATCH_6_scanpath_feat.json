@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are widely distributed across the screen with many long saccades and several large, sustained fixations, matching the dynamic, scene-following pattern typical of watching video rather than the more localized or structured layouts of text, code, or search pages.",
+  "correct": true
+}

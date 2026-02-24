@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mainly horizontal scanning with gradual shifts and relatively small vertical range, matching the structured line-by-line pattern characteristic of reading rather than the larger, more dispersed movements seen in browsing, searching, playing, or watching video.",
+  "correct": false
+}

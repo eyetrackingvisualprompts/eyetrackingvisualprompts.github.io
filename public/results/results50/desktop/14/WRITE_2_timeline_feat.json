@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower Y region with a slow upward drift in X, indicating focus near the middle-bottom of the screen where a text cursor typically appears in a word processor; movements are smoother and more constrained than browsing or search, and lack the wide vertical shifts seen in reading multiple lines of text.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "X fixation shows slow, small rightward drifts with brief regressions, while Y fixation stays in a narrow lower band with minimal vertical scanning; this stable, localized pattern matches the WRITE example more than the wider vertical ranges seen in READ or BROWSE and the more dynamic movements in PLAY, SEARCH, or WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "The scanpath shows varied, irregular movements concentrated around a central region with both horizontal and vertical shifts, lacking the structured patterns of reading lines, fixed horizontal sweeps, or large random jumps, matching natural exploration during video viewing.",
+  "correct": false
+}

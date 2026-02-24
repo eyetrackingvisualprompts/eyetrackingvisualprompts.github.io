@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows medium-range, multidirectional saccades clustered around a central region with no strong horizontal reading lines or large exploratory movements typical of gaming or video watching, closely matching the browsing example pattern.",
+  "correct": false
+}

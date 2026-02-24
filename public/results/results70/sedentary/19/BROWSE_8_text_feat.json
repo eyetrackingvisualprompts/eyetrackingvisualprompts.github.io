@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide, frequent transitions between top and bottom of the page, across horizontal extents, and to screen edges resemble scanning mixed web content (menus, articles, images) rather than structured line-by-line reading or focused code regions. The pattern matches the heterogeneous, exploratory gaze behavior seen in the BROWSE examples, with many jumps between distant UI elements and varied vertical levels.",
+  "correct": true
+}

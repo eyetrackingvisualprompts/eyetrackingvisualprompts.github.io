@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows prolonged fixations in a confined central region with occasional sharp vertical shifts, similar to the WRITE example where attention alternates between code editing and related UI elements, rather than the more extensive horizontal scanning seen in reading or browsing tasks.",
+  "correct": false
+}

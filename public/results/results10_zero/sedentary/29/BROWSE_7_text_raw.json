@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form structured horizontal clusters with small vertical shifts, consistent with line-by-line reading or code inspection. Movements are relatively local and sequential rather than large, erratic jumps typical of search, browse, or play, and lack the long central fixations characteristic of watching video. Between READ and code-related tasks (WRITE/INTERPRET/DEBUG), the pattern shows smoother, more continuous horizontal sweeps and fewer back-and-forth corrections, aligning more with reading prose than with intensive code reasoning or debugging.",
+  "correct": false
+}

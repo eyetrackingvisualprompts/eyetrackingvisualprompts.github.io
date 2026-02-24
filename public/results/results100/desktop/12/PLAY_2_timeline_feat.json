@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, scattered fixations with variable saccades over both axes, without the strong horizontal line-structured pattern of reading/writing or the large directional shifts seen in play/watch; this matches the more exploratory, less structured pattern characteristic of browsing web pages.",
+  "correct": false
+}

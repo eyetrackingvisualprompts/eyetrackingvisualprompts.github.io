@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band at a constant vertical position, suggesting sustained gaze on a small region (e.g., character area or subtitle line) without the systematic left-to-right, line-by-line progression typical of reading or browsing text, which aligns best with watching video content.",
+  "correct": false
+}

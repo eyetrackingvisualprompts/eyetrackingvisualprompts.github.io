@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large horizontal saccades between left and right screen regions plus vertical transitions between top navigation and mid-page content resemble scanning search results or webpages, matching the SEARCH pattern more than the other tasks.",
+  "correct": false
+}

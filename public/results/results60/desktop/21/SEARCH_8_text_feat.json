@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated around the screen center with frequent medium-amplitude vertical and diagonal saccades between mid and lower regions, plus occasional long jumps to extreme vertical positions and back\u2014indicative of tracking a game character/scene rather than line-by-line reading or static document work. This spatiotemporal pattern best matches the PLAY examples, especially the mixed central focus and large, rapid relocations seen in Agario-like navigation.",
+  "correct": false
+}

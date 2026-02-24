@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows mostly horizontal, centrally clustered fixations with gradual rightward drift and very few large saccades, closely matching the INTERPRET example pattern of focused code inspection rather than the broader exploration seen in SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

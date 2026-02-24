@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal and vertical exploration with frequent but not extreme saccades, alternating between central and upper areas\u2014consistent with scanning results pages and switching between query box, results list, and possibly tabs, which matches the SEARCH pattern more than the steadier READ/BROWSE or more dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

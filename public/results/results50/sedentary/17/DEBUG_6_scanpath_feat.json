@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a compact region near the code area with minimal horizontal progression, matching the focused, stationary pattern of the WRITE example rather than the more distributed or sweeping patterns of reading, searching, or browsing.",
+  "correct": false
+}

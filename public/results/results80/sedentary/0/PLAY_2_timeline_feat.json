@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows continuous, relatively smooth horizontal movements with frequent medium-scale saccades and moderate vertical drift, resembling tracking dynamic screen content over time. This temporal pattern aligns best with the WATCH example, rather than the more structured line-by-line patterns of READ/INTERPRET/WRITE or the highly erratic motions seen in PLAY/SEARCH/BROWSE.",
+  "correct": false
+}

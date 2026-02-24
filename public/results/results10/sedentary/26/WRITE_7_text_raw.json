@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows multiple distinct vertical regions and mid-screen horizontal bands with frequent short fixations and localized saccades, including substantial movement to page edges and off-center areas, resembling scanning diverse web content rather than the more linear, columnar patterns of READ/SEARCH or the tight central focus of WATCH/PLAY/INTERPRET/WRITE/DEBUG. The spatial distribution and variability are most consistent with BROWSE examples.",
+  "correct": false
+}

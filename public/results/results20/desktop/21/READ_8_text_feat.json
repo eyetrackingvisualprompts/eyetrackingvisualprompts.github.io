@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze path shows many medium-length fixations with frequent, multidirectional saccades including large vertical and horizontal shifts across a broad region of the screen (center, upper, and lower areas). This exploratory, non-repetitive scanning pattern with visits to both mid-page and near-bottom/top areas resembles navigating dynamic page content and menus, matching the browsing examples more than the more line-structured READ, stationary WATCH, or localized WRITE patterns.",
+  "correct": false
+}

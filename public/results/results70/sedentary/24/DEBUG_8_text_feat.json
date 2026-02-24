@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like region (x\u2248200\u2013500, y\u2248230\u2013480) with repeated short saccades and long fixations, including frequent revisits to the same horizontal bands, matching the INTERPRET examples\u2019 tight, line-by-line code inspection. It lacks the broader vertical scrolling of READ/SEARCH and the wider spatial dispersion and object-following seen in PLAY/WATCH/BROWSE/DEBUG/WRITE.",
+  "correct": false
+}

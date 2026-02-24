@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively stable, centrally clustered fixations with modest horizontal movement and limited large saccades, closely matching the INTERPRET example where participants inspect a small code snippet rather than scanning long text (READ) or exploring larger areas (SEARCH, BROWSE, PLAY, WATCH).",
+  "correct": false
+}

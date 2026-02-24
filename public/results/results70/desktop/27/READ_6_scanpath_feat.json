@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight, horizontally-elongated cluster at a consistent vertical level, indicating line-by-line scanning of text similar to the READ example rather than the more dispersed or multi-region patterns seen in browsing, search, or other tasks.",
+  "correct": true
+}

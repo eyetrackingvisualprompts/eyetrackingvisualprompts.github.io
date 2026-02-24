@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-range horizontal and vertical shifts with irregular, multi-level Y patterns and varied saccades, matching heterogeneous webpage navigation rather than the more structured, line-based patterns of READ or the more stationary code-focused tasks like WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

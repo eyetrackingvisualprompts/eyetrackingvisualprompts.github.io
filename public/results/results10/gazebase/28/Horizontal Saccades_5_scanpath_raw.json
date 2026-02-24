@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze path is dominated by large, repetitive horizontal movements between two lateral positions with minimal vertical dispersion, matching the structured left-right tracking of the horizontal saccades task rather than the more scattered or static patterns of other activities.",
+  "correct": true
+}

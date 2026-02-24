@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively narrow central region with modest horizontal movement and gradual vertical shifts, indicating focused inspection of a small code snippet rather than extensive scrolling or wide exploration; this pattern most closely matches the INTERPRET example among the given classes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a very stable, tight fixation cluster at a single upper-central screen region with minimal horizontal or vertical scanning, consistent with passively watching a localized element in a video rather than reading, browsing, searching, playing, or writing which typically involve broader, systematic eye movements.",
+  "correct": false
+}

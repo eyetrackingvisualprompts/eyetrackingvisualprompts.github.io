@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the upper-left and mid-left screen with frequent long saccades to the bottom-left and back, resembling transitions between search results at the top and detailed content lower on the page, which matches the SEARCH pattern more than the other coding- or reading-focused tasks.",
+  "correct": false
+}

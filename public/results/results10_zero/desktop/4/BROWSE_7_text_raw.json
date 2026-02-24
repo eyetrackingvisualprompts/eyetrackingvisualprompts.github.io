@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are mostly confined to central horizontal bands with slow, line-like progressions and occasional vertical transitions, consistent with scanning lines of text and moving between text regions rather than large exploratory moves typical of browsing/searching or dynamic, multidirectional shifts common in playing games or watching complex videos.",
+  "correct": false
+}

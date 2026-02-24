@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central mid-screen region with a compact vertical spread, resembling attention around article titles/thumbnails typical of browsing news or blogs, and matching the BROWSE example heatmap more closely than the other tasks.",
+  "correct": false
+}

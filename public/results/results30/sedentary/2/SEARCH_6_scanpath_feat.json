@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated on central code-like regions with frequent vertical transitions between an upper and lower area (code and console/editor panels) and occasional long saccades to the top-left, closely matching the WRITE example scanpath more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are split between a main cluster on the left-middle (likely reading result text) and additional clusters higher and to the right, resembling shifts between query/results and other elements, matching the SEARCH example more than the other tasks.",
+  "correct": false
+}

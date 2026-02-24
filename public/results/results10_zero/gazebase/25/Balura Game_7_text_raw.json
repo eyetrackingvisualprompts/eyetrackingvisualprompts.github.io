@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show repeated large-amplitude gaze jumps (up to ~30\u201340\u00b0 horizontally and substantial vertical shifts) to discrete positions, followed by ~1-second clusters of low-variance samples at each position. This pattern of step-like relocations between many distinct (x,y) locations with stable holds matches a target that moves randomly to new positions and is maintained for fixed intervals, consistent with the Random Saccades task rather than simple horizontal tracking, continuous video viewing, reading, or game-driven selective fixations.",
+  "correct": false
+}

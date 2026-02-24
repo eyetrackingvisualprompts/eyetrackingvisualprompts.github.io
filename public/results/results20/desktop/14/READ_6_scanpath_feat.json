@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows long, smooth trajectories sweeping across a large portion of the screen with relatively few clustered fixations, indicating continuous tracking of dynamic visual content rather than dense text scanning or localized interaction, which is most consistent with watching a video.",
+  "correct": false
+}

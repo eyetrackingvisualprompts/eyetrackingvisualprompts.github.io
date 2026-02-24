@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze shows irregular, free-scanning trajectories with varied amplitudes, directions, and dwell periods, lacking the structured left-to-right line patterns of reading, the strict horizontal oscillations of horizontal saccades, or the discrete step-like target jumps of random saccades. The complex, naturalistic movement pattern best matches video viewing behavior.",
+  "correct": false
+}

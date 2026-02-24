@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations are widely distributed around the central area of the screen with both vertical and horizontal spread, resembling the exploratory, multi-region viewing typical of search engine result pages and matching the SEARCH example more closely than the other activities.",
+  "correct": false
+}

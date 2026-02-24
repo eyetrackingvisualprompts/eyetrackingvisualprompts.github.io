@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows multiple large vertical transitions between two distinct Y-bands and lateral scanning within each band, resembling movement between results and detailed content on a search results page, matching the SEARCH example pattern more than the other tasks.",
+  "correct": false
+}

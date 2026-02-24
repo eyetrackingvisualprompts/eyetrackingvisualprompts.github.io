@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a mid-screen code-like region with dense local fixations and moderate shifts within a confined area, matching the example DEBUG pattern more than the tighter INTERPRET cluster or broader BROWSE/SEARCH/PLAY/WATCH distributions.",
+  "correct": false
+}

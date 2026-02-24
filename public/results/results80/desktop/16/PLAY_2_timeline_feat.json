@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in the lower half of the screen (low Y) with a gradual rightward drift in X and occasional brief jumps upward, matching fixation near a text-entry area and intermittent glances to menus or references, which is characteristic of the WRITE task compared with the provided examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points show frequent medium-to-large saccades and scattered fixations across both horizontal and vertical axes, especially in central and lower screen regions, consistent with tracking moving game elements rather than the stable, line-based patterns of reading/searching/browsing or the more localized focus typical of code-related tasks or video watching.",
+  "correct": false
+}

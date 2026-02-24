@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a predominantly horizontal pattern with small progressive saccades and limited vertical movement, closely matching the structured left-to-right reading behavior seen in the READ example, rather than the more dispersed or clustered patterns of the other activities.",
+  "correct": true
+}

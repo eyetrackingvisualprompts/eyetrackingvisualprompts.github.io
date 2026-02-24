@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide screen regions (including to corners and edges), with short- to medium-duration fixations and rapid shifts between dispersed clusters\u2014matching the dynamic, multi-directional scanning typical of gameplay rather than the more line-structured (READ/WRITE), list/region-based (SEARCH/BROWSE), or character-focused but more constrained (WATCH) patterns.",
+  "correct": false
+}

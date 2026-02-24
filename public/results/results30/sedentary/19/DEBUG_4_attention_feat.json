@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a narrow left-side vertical region with two main code-related areas (upper and mid sections) plus some lower fixations, closely matching the INTERPRET example pattern and differing from the more horizontally extensive scanpaths of READ/DEBUG/WRITE.",
+  "correct": false
+}

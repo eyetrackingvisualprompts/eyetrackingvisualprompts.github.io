@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows stepwise horizontal movements with relatively stable Y positions forming rows, consistent with line-by-line reading behavior rather than large exploratory or dynamic object-following movements seen in browsing, search, or video watching.",
+  "correct": false
+}

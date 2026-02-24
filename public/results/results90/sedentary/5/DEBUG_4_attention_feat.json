@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are tightly clustered in a mid-left code area with some scattered checks below and nearby, closely matching the DEBUG example pattern of focused inspection around a specific faulty region rather than the more compact INTERPRET or WRITE distributions.",
+  "correct": true
+}

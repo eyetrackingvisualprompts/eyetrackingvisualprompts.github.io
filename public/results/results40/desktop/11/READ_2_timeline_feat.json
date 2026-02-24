@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a relatively narrow horizontal band with low Y positions and small, steady drifts, resembling line-by-line text and toolbar interaction patterns seen in the WRITE example more than the broader, more variable scan patterns of browsing, search, or play.",
+  "correct": false
+}

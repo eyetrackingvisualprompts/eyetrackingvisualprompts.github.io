@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a relatively small lower-central region, with long fixations and short, local saccades plus occasional larger jumps\u2014consistent with repeatedly checking a small code area/output region while editing or typing, which matches the WRITE pattern better than the more global navigation of SEARCH/BROWSE or the more extensive vertical scanning of READ.",
+  "correct": false
+}

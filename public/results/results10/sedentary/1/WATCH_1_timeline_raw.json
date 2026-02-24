@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y positions change smoothly with moderate, continuous shifts and few sharp jumps, resembling the stable, gradual gaze movements seen when tracking content in a video, and matching the WATCH example more than the code- or text-focused tasks or the highly dynamic PLAY traces.",
+  "correct": true
+}

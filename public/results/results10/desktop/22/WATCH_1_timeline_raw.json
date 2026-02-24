@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen horizontal scanning with frequent but moderate shifts and occasional jumps, closely resembling the SEARCH example pattern more than the steadier READ or the more variable BROWSE/PLAY trajectories.",
+  "correct": false
+}

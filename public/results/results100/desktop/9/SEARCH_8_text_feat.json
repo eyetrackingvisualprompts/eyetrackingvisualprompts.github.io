@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades spanning wide screen regions (including extremes like x\u22480.9\u20131.0 and y from ~0.1 to ~1.0), rapid shifts between dispersed areas, and less regular horizontal/line-structured scanning than reading/browsing/search. This broad, dynamic exploration pattern best matches interactive game play, especially a game requiring monitoring many spatial locations (e.g., Agario).",
+  "correct": false
+}

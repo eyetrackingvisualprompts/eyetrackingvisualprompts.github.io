@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central area, similar to the BROWSE example where attention is focused on a content block in the middle of the page, unlike the horizontal scanlines of READ/WRITE or upper-area focus of WATCH/PLAY/SEARCH.",
+  "correct": true
+}

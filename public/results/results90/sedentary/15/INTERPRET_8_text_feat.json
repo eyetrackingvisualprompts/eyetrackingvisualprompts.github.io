@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades covering distant screen regions (including extremes and off-text areas), many revisits between dispersed AOIs, and less structured line-by-line scanning match the dynamic, scene-based viewing patterns seen in the WATCH examples more than the text/code-centric or search/browse tasks.",
+  "correct": false
+}

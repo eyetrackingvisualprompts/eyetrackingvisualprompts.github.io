@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are concentrated in a narrow horizontal band in the lower-middle region with limited vertical spread and small saccades, matching the localized focus near the text-entry area seen in the WRITE example rather than the broader exploration of reading, browsing, or searching tasks.",
+  "correct": false
+}

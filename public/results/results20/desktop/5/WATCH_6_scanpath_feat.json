@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are tightly clustered in the upper-central region with short local saccades and limited horizontal span, matching the example SEARCH pattern of focused inspection around a search box and results list rather than broader reading or browsing movements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers both a dense left-side region and central/right areas with frequent long saccades upward and outward, resembling scanning result lists then moving to content pages, matching the SEARCH example more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between widely separated screen regions (including off-screen/negative coordinates), many horizontal sweeps across mid-page bands, revisits to top-of-page areas, and extended scanning around a vertical position consistent with a browser content area match the heterogeneous, exploratory patterns seen in the BROWSE examples rather than the more structured line-by-line (READ), code-focused (WRITE/DEBUG/INTERPRET), or stimulus-centered (WATCH/PLAY) behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze repeatedly alternates between a stable mid-screen code region and the top toolbar/menus (y\u224860\u201390), with many short local regressions and revisits to nearly identical coordinates. This pattern\u2014frequent checks near the top, then back to the main text/code area\u2014matches the WRITE examples and is unlike the more linear reading (READ), broad exploratory moves (SEARCH/BROWSE), or more globally scattered game/video patterns (PLAY/WATCH).",
+  "correct": true
+}

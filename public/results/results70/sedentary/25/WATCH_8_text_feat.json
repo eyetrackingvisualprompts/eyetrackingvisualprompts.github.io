@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (including off-screen/near-border coordinates and top/bottom extremes), many rapid context switches between distant areas, and absence of orderly reading or code-structured scanning patterns resemble exploratory navigation through varied web content, matching the BROWSE examples more than the other tasks.",
+  "correct": false
+}

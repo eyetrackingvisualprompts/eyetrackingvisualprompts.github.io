@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The fixation X trace shows repeated left-to-right sweeps with return saccades and the Y fixation gradually increases line by line, matching the structured line-by-line reading pattern seen in the READ example more than the other activities.",
+  "correct": false
+}

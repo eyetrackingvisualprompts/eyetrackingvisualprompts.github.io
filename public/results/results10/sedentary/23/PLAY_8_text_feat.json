@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-long saccades between distinct horizontal/vertical regions, including top-area checks then returning to mid-page and lower sections, resemble scanning SERP snippets and result sections more than the tighter, line-structured READ patterns or the more localized code-oriented WRITE/DEBUG/INTERPRET behaviors.",
+  "correct": false
+}

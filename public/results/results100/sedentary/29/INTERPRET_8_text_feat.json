@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense, repeatedly revisited fixations on a compact code-like region (x\u2248200\u2013400,y\u2248150\u2013350) with many short saccades, oscillations between a few lines, and occasional long downward/upward jumps to around y\u2248500\u2013700 resemble the INTERPRET examples\u2019 localized analytical scanning of a code snippet rather than the more linear READ pattern or the broader spatial exploration in SEARCH/BROWSE/DEBUG/WRITE.",
+  "correct": true
+}

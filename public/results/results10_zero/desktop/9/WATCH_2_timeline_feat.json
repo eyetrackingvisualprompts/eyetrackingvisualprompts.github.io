@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show predominantly horizontal fixation bands with small, regular vertical steps and short saccades, consistent with line-by-line reading of text rather than large exploratory or dynamic movements seen in search, browsing, watching videos, playing games, or writing (which would involve more vertical motion toward toolbars and menus).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates repeatedly between a compact mid-upper region (likely code editor) and lower area (around y\u2248500\u2013600, consistent with keyboard/console area), with many revisits to similar coordinates and medium fixations, resembling the WRITE examples\u2019 tight code-focused scanning rather than the broader, more structured reading/scrolling or highly dynamic game/video patterns.",
+  "correct": false
+}

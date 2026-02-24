@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in horizontal bands over the left/middle code area with additional scattered looks to the right and lower regions, matching the pattern of scanning through code while checking outputs or error locations typical of debugging, and differing from the tighter INTERPRET cluster and the more localized WRITE pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The data shows mostly smooth, left-to-right horizontal scan patterns with slow, stepwise increases in X fixation and relatively stable Y fixation, resembling line-by-line reading behavior and matching the READ example more closely than the others.",
+  "correct": false
+}

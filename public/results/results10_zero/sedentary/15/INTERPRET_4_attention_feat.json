@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a narrow horizontal band near the top-left, consistent with reading the first lines of a text block, with minimal vertical movement and no widespread scanning indicative of browsing, searching, or gameplay.",
+  "correct": false
+}

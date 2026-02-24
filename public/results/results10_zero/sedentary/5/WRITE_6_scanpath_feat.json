@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small left-of-center region with a few short, repeated fixations and a single longer downward saccade, consistent with looking back and forth between nearby code lines/areas while editing rather than scanning widely (search/browse), tracking motion (play/watch), or continuous line-by-line reading (read/interpret).",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions stay within a narrow horizontal band near mid-screen with small, regular saccades and relatively stable vertical position, indicating line-by-line scanning of static text rather than large exploratory or dynamic movements typical for search, browsing, watching videos, writing, or gaming.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to long, horizontal scanpaths within narrow vertical bands (y\u2248880\u2013970 then y\u224880\u2013190), with sequences of short forward saccades and medium fixations, characteristic of line-by-line text reading and line returns rather than large exploratory jumps seen in search/browse or object-following seen in play/watch.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a single narrow horizontal band near the upper-left/middle, indicating focused attention on a compact block of code without much vertical or horizontal exploration, which best matches the INTERPRET examples where participants concentrate on a short code snippet.",
+  "correct": false
+}

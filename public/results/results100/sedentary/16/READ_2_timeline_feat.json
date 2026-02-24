@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Regular horizontal scan patterns in X with periodic regressions and a slowly increasing Y position, closely matching the line-by-line reading behavior seen in the READ example.",
+  "correct": true
+}

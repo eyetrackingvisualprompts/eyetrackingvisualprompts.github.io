@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows very small, stable ranges in both X and Y with minimal saccades over time, matching the concentrated, localized viewing pattern of INTERPRET and closely resembling its example plot more than the other task types.",
+  "correct": true
+}

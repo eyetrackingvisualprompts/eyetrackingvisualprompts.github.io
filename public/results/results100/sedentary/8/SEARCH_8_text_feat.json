@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long, repeated horizontal scanpaths at several vertical levels resembling reading SERP snippets, interspersed with frequent large saccades to widely separated screen regions and UI-like coordinates (top bars, side areas, near-screen edges), as well as revisits between top text regions and lower sections, align closely with the heterogeneous, navigation-heavy gaze patterns seen in the SEARCH examples rather than the more uniform line-by-line READ pattern or the localized code-focused INTERPRET/DEBUG/WRITE patterns.",
+  "correct": true
+}

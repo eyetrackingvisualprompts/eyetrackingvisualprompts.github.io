@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are long (often >1 s) and densely clustered around central mid-screen coordinates with mostly small horizontal/vertical shifts and occasional shorter relocations, matching the stable, line-based scanning pattern seen in the READ example more than the more dispersed, exploratory patterns of BROWSE or SEARCH or the larger, faster shifts typical of PLAY or WATCH.",
+  "correct": false
+}

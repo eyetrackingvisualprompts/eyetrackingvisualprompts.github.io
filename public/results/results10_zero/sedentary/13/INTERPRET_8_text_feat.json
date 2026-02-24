@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows very few fixations and long, smooth, slow movements (one saccade spans several seconds), consistent with following motion on a screen rather than scanning text or code. Reading, writing, debugging, interpreting, or searching typically produce many short saccades and dense fixations, whereas video watching can yield prolonged smooth pursuit-like movements and sparse fixations, matching this pattern.",
+  "correct": false
+}

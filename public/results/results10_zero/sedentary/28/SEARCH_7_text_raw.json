@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze clusters form mostly horizontal bands with short, progressive movements and occasional regressions, consistent with scanning lines of text. There are no sustained central fixations (WATCH), strong object-following arcs (PLAY), or structured code-panel alternations typical of programming tasks (WRITE/DEBUG/INTERPRET/SEARCH). The pattern best matches continuous reading behavior.",
+  "correct": false
+}

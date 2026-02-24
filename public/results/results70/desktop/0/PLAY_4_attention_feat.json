@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower-left area near the top edge of the content region, matching the pattern of text entry near the top of a document as seen in the WRITE example, rather than the central or upper distributions typical of reading, browsing, or searching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-like behavior: moderate, systematic horizontal movements with limited vertical range, occasional concentrated bursts of fixations and saccades on specific regions (likely error locations), and more revisits than in READ/WRITE. This pattern best matches the DEBUG example plot compared to other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show rapid, frequent shifts across a wide portion of the screen (both horizontally and vertically), including many short, back-and-forth movements and off-screen samples, which is characteristic of visually tracking dynamic objects and navigating in a game rather than the more line-structured, localized patterns seen in reading, coding, or web search tasks.",
+  "correct": false
+}

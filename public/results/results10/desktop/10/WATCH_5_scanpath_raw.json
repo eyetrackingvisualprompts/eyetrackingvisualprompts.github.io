@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between two vertically separated regions with long saccades and scattered fixations, resembling movement between search box/results and other page elements, which matches the SEARCH example pattern more than the other activities.",
+  "correct": false
+}

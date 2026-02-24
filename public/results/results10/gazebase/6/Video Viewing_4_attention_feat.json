@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "Fixations form a mostly horizontal band near a constant vertical position, consistent with line-by-line reading behavior and closely matching the Reading example heatmap.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between widely separated vertical regions (top bar, mid-page area, lower content) and lateral jumps across the page resemble scanning search results and different page elements rather than line-by-line reading or focused code work, matching the SEARCH pattern in the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered on a single left-side code block area with minimal horizontal or vertical spread, indicating intensive inspection of a short piece of code rather than extended writing, debugging across multiple regions, or reading/browsing over long lines; this pattern best matches the INTERPRET example.",
+  "correct": false
+}

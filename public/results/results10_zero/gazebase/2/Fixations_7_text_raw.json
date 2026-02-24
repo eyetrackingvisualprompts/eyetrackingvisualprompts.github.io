@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Reading",
+  "reason": "The gaze coordinates show predominantly left-to-right horizontal movements with relatively small vertical shifts and clusters of short fixations, consistent with line-by-line reading, rather than large, discrete target jumps (saccade tasks) or wide, irregular exploratory patterns (video/game/random).",
+  "correct": false
+}

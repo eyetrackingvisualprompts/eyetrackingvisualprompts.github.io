@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in smooth, nearly horizontal sweeps within tight vertical bands (y\u2248550\u2192580\u2192610\u2192660\u2192700\u2192740\u2192820\u2192860\u2192900\u2192930), with frequent returns from right edge (~x 1200) to left-mid (~x 700), characteristic of line-by-line reading and line transitions rather than scanning a full page, interactive code, or dynamic content.",
+  "correct": true
+}

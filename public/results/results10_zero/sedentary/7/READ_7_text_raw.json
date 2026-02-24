@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form predominantly horizontal clusters with relatively small vertical dispersion and smooth left-to-right progressions interrupted by short regressions, consistent with line-by-line text reading rather than the larger, more scattered movements typical of browsing, searching, or gameplay, and without the focused code-area oscillations common in programming tasks.",
+  "correct": true
+}

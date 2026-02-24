@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades spanning wide screen regions (including off-center and extreme coordinates), irregular revisits, and mixed vertical/horizontal movements resemble exploratory web navigation rather than structured code or text inspection or following a single dynamic object as in games or video watching.",
+  "correct": false
+}

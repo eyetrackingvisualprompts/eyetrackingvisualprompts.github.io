@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Large saccades and fixations span across the whole screen, including extreme top/bottom and off-content areas, with frequent long-range jumps between widely separated regions\u2014patterns characteristic of passively following dynamic visual content in a video rather than line-based reading, code inspection, or focused text/game interaction.",
+  "correct": false
+}

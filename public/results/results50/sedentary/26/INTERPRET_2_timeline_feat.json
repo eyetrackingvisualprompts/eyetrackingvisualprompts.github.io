@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in a relatively narrow band with modest horizontal movement and occasional short saccades, closely matching the focused yet slightly exploratory pattern seen in the DEBUG example rather than the more sequential (READ/BROWSE) or highly dynamic (PLAY/WATCH/SEARCH) patterns.",
+  "correct": false
+}

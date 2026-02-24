@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The heatmap shows a dominant fixation cluster on the left code area with a secondary, concentrated cluster on the right (likely console/output or auxiliary panel), closely matching the WRITE example pattern where participants alternate between coding and checking results.",
+  "correct": true
+}

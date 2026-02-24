@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow horizontal band in the upper-middle of the screen, with short-to-medium fixations and small progressive/regressive saccades along that band, matching line-by-line reading behavior more than the broader vertical or multi-directional exploration seen in browse/search/play/watch, and unlike the top-left skew typical of writing.",
+  "correct": false
+}

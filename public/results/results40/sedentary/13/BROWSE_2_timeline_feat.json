@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-range horizontal movements with variable vertical shifts and several larger saccades, indicating scanning across different regions rather than line-by-line reading or tight code-focused viewing. This mixed, exploratory pattern aligns best with free web browsing behavior compared to the more constrained patterns of READ, WRITE, or DEBUG.",
+  "correct": true
+}

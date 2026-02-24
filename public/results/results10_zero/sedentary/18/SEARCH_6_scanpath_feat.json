@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a few tight clusters with occasional vertical shifts, consistent with inspecting specific code regions and outputs rather than continuous reading or dynamic tracking; this focused, segment-based viewing aligns best with interpreting a short code snippet\u2019s behavior.",
+  "correct": false
+}

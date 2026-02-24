@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze path shows predominantly horizontal movements across a fairly constant vertical position, forming repeated left-right sweeps consistent with tracking a target moving horizontally; vertical excursions are minimal and not widely distributed, which aligns with the structured \u00b115\u00b0 horizontal saccade task rather than random or natural viewing patterns.",
+  "correct": true
+}

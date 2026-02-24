@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Predominantly clustered gaze around mid-screen code-like region with dense, repetitive fixations over a compact vertical band and frequent small shifts between nearby lines/tokens, matching the structured inspection and local edits seen in WRITE examples rather than the broader scanning of DEBUG or the more horizontal sweep of READ/BROWSE/SEARCH.",
+  "correct": false
+}

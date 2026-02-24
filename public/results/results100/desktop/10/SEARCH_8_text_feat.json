@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude saccades across both vertical and horizontal directions, many shifts between mid-page and near-top/near-bottom regions, and repeated revisits to mid-screen bands resemble scanning of heterogeneous web layouts more than the more line-structured, band-limited patterns of READ/WRITE or the focused central bands of WATCH/PLAY. SEARCH tends to have longer stable fixations at a few vertical levels; here the gaze roams broadly and continuously like general web browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions are dispersed across the screen with multiple isolated fixation clusters in both horizontal and vertical directions, matching the scattered pattern of the Random Saccades example rather than the structured horizontal pattern of reading or horizontal saccades, the central clustering of fixations, or the more continuous spread seen in video viewing and the game.",
+  "correct": true
+}

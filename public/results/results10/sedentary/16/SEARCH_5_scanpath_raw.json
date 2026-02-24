@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows two main regions of focused activity connected by long vertical and diagonal saccades between them, consistent with alternating attention between a code editor and another UI area (e.g., console or toolbox), which matches the WRITE task pattern more than the other activities.",
+  "correct": false
+}

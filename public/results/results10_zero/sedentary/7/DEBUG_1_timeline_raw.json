@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain in a few broad horizontal bands with long, stable fixations and occasional large vertical shifts rather than systematic left-to-right and line-by-line scanning or rapid object-tracking. This pattern aligns best with passively watching a video, where attention stays around central regions with sporadic jumps, rather than with reading, coding, searching, or gameplay.",
+  "correct": false
+}

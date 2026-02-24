@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The trajectory shows large, irregular multi-directional saccades across wide horizontal and vertical ranges with 1\u20132 s local fixational clusters at many different screen locations, matching the random target jumps and distributed fixation patches characteristic of the Random Saccades task rather than the more constrained, pattern-like movements of the other activities.",
+  "correct": true
+}

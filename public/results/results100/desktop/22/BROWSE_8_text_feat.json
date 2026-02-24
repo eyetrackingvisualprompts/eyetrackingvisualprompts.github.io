@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large saccades between dispersed regions (upper/lower, left/right), repeated shifts between central text-like band (~0.3\u20130.6 vertically) and upper/lower areas, and many mid-length fixations resemble scanning SERP/results pages and switching between content blocks, matching the SEARCH exemplars more than the more line-structured READ or locally clustered WRITE patterns.",
+  "correct": false
+}

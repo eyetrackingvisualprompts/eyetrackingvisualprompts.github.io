@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large spatial shifts across both mid-screen and lower regions, with broad scanning and following-like movements rather than line-based reading or compact code inspection. The inclusion of many points near the lower screen and corners, plus wide horizontal and vertical excursions, matches the dynamic, dispersed patterns seen in the PLAY examples more than the more structured, text-centered patterns of WRITE/DEBUG/READ/BROWSE/SEARCH.",
+  "correct": false
+}

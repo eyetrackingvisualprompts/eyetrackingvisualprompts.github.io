@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extremes near x\u22480.9 and y shifts from bottom to top), with relatively short fixations and multi-directional scanning, match the dynamic, wide-range gaze behavior seen in the PLAY examples rather than the more line- or area-bounded patterns of reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

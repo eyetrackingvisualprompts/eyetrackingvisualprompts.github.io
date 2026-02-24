@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows reading-like horizontal patterns concentrated on the left with occasional long saccades to the far right/bottom area, resembling transitions between search results/snippet lists and an answer area, matching the SEARCH example most closely.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact region on the left-center, consistent with focusing on code, with occasional long saccades to the right indicating brief checks of other areas (e.g., output or errors), which matches the DEBUG scanpath pattern more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated around the central region with modest vertical spread and without strong horizontal scanlines, resembling the example BROWSE heatmap more than the others, which show clearer reading lines, writing top-band focus, game-side clustering, or upper-screen video focus.",
+  "correct": false
+}

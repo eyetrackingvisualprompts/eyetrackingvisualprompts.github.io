@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, horizontally-elongated band with small saccades and dense fixations, closely matching the structured left-to-right, line-by-line pattern seen in the READ example rather than the more dispersed or multi-region movements of other activities.",
+  "correct": false
+}

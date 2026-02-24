@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show rapid, large-amplitude saccades across wide screen regions (including far periphery and off-screen), with irregular, non-linear trajectories rather than structured line-by-line or block-wise scanning typical of reading, browsing, or code tasks. This pattern aligns best with visually tracking and navigating dynamic game elements in the PLAY activity, where eyes frequently jump around the screen and occasionally off-screen due to intense interaction.",
+  "correct": false
+}

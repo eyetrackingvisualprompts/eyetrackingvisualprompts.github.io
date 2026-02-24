@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow, left-side vertical strip characteristic of code on an IDE, with frequent vertical and diagonal saccades covering multiple code lines and occasional excursions downward\u2014this pattern best matches the DEBUG example rather than the more localized INTERPRET or broader WATCH/BROWSE/SEARCH behaviors.",
+  "correct": true
+}

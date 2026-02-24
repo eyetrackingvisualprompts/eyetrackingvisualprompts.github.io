@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered around the center of the screen with minimal horizontal or vertical spread, matching a stable central gaze typical of passively watching a video rather than scanning code, reading lines of text, or searching/browsing across the page.",
+  "correct": false
+}

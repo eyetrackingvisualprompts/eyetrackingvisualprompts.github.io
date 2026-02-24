@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows predominantly horizontal eye movements spanning a wide range across the screen with relatively small vertical variation, consistent with following a horizontally moving target rather than reading (smaller, line-like steps), random 2D movements, central fixation, video viewing, or game-driven scattered fixations.",
+  "correct": false
+}

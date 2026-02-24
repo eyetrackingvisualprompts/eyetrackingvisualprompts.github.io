@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze stays mostly within a constrained horizontal band with occasional brief large vertical excursions and short dips, indicating focused inspection around code with intermittent jumps to other code regions or outputs, which best matches the debugging example pattern.",
+  "correct": true
+}

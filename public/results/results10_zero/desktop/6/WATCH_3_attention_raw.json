@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a very compact cluster with minimal horizontal or vertical scanning, suggesting the participant is fixating on a small region (e.g., central focus such as a character\u2019s face) for an extended period, which is more consistent with passively watching a video than with the systematic horizontal scanning of reading/writing or the broader explorations seen in browsing, searching, or gameplay.",
+  "correct": true
+}

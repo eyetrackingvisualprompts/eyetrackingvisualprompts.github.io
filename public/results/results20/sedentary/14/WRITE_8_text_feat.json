@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent large saccades between top/upper-left code region and lower code/output area, with many revisits to similar coordinates and irregular scanning rather than line-by-line reading, matches the exploratory, back-and-forth pattern seen in the DEBUG example more than the other tasks.",
+  "correct": false
+}

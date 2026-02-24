@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, repeated fixations clustered around similar code-region coordinates with occasional large refocusing saccades to other areas of the screen suggest careful re-inspection and verification behavior consistent with debugging, rather than the more linear scanning of READ/INTERPRET, broad web navigation of BROWSE/SEARCH, or dynamic tracking typical of PLAY/WATCH.",
+  "correct": false
+}

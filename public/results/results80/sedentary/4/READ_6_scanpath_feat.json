@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, horizontally aligned bands within a compact central area, indicating systematic line-by-line scanning of static text with minimal large-scale exploration\u2014characteristic of a reading pattern rather than searching, coding, browsing, or dynamic viewing tasks.",
+  "correct": true
+}

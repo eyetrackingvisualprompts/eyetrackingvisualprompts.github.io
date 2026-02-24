@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations form two main vertical bands: one on the upper-left (typical of search results list and query box) and another around the central-top area, with additional scattered looks lower on the page, matching the mixed scanning of results and snippets seen in the SEARCH example heatmap rather than the more focused or uniformly distributed patterns of other tasks.",
+  "correct": false
+}

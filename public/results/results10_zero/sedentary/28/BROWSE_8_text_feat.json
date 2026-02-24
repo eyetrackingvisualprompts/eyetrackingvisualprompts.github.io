@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent long saccades between spatially separated regions (top, middle, bottom of screen) with medium-length fixations on several distinct clusters, consistent with inspecting different parts of a code file, console/output, and possibly error locations. The pattern is less systematic than reading text line by line and more structured than free browsing or watching, aligning best with iterative error-checking behavior in debugging.",
+  "correct": false
+}

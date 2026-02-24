@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly confined to a central horizontal band with gradual rightward drift in X and small Y variation, indicating systematic scanning of a code area without the strong line-by-line reading pattern of READ; this closely matches the stable, mid-screen inspection behavior seen in the DEBUG example.",
+  "correct": false
+}

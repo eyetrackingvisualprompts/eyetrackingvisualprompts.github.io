@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal and vertical exploration with frequent medium-range saccades and scattered fixations, resembling the example SEARCH pattern where users move between results, snippets, and different screen regions rather than following the regular line structure of READ or the tighter code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

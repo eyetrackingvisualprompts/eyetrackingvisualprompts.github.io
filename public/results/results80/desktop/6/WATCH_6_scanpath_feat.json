@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster in a central region with moderate horizontal and vertical spread and frequent shifts between nearby areas, resembling mixed reading and interface inspection typical of web search result pages, and differing from the more linear scanpath of READ or the broader, more dynamic movements in PLAY and WATCH.",
+  "correct": false
+}

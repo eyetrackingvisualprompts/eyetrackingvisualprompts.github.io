@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is largely stable with minimal horizontal movement and gentle vertical drift, and there are few, relatively long fixations with almost no rapid back-and-forth saccades or line-by-line scanning. This pattern best matches passively watching a full-screen video rather than reading, coding-related tasks, searching, browsing, or game play, which all typically show more frequent, directed saccades and structured scan paths.",
+  "correct": false
+}

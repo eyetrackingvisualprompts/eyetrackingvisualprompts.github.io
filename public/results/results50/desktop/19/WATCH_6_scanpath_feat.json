@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around the screen center with multi-directional saccades and moderate dispersion, resembling the SEARCH example more than the other activities, which show more linear (READ/WRITE) or peripheral/game-like (PLAY) or broader browsing patterns (BROWSE/WATCH).",
+  "correct": false
+}

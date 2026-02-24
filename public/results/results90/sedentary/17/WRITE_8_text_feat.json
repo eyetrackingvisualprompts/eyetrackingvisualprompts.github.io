@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Long fixations and repeated saccades between a stable central band (around y\u2248300\u2013400) and multiple small clusters, with frequent jumps to top-of-window coordinates (y\u224840\u201390) and back, match the code-editing/debugging patterns seen in the DEBUG examples rather than the more linear READ/BROWSE scanpaths or large-amplitude PLAY/WATCH movements.",
+  "correct": false
+}

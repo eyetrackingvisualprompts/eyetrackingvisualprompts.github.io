@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the screen center with moderate vertical spread and frequent shifts, resembling the SEARCH pattern of scanning result lists and query box rather than the more linear READ pattern or the broader movements in BROWSE and PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are spread broadly across the screen, with smooth, continuous movements and large vertical excursions rather than tight, horizontally aligned clusters typical of reading or code-related tasks. The pattern suggests following dynamic, screen-filling visual content rather than line-by-line text or focused UI elements, which aligns best with watching a video.",
+  "correct": false
+}

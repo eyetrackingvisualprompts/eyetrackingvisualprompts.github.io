@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band with modest horizontal movement and occasional larger saccades, similar to the WRITE example where attention stays mostly within the code editor area while typing and checking output, rather than the broader exploratory or line-by-line reading patterns of other tasks.",
+  "correct": true
+}

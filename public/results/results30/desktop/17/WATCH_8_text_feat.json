@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a mid-screen band with frequent medium-range horizontal saccades between two main regions (around x\u22480.35\u20130.40 and x\u22480.55\u20130.60), with short fixations and repeated revisits, matching the scan-and-revisit pattern over heterogeneous webpage elements seen in the BROWSE examples rather than the more line-structured READ behavior or the more vertically extensive SEARCH patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show repeated large, rapid gaze jumps in both horizontal and vertical directions (including to extreme eccentricities around \u00b13\u00b0 horizontally and up to about -11\u00b0 vertically), separated by ~1 s clusters of relatively stable samples. This pattern of multi-directional, widely spaced saccades with brief holds is consistent with following a randomly moving target across the screen, matching the Random Saccades task rather than the more constrained, unidirectional, or central patterns expected in the other activities.",
+  "correct": false
+}

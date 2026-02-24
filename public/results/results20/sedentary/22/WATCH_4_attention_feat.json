@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple vertical regions with clusters near the top-center and right side, resembling attention to search results, query box, and side elements rather than the focused code or single text block seen in coding or reading tasks.",
+  "correct": false
+}

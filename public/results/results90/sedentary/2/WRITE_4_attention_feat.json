@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The heatmap shows a dominant horizontal band of fixations in the upper-left/central area with some scanning along the top, resembling the distributed gaze over search results and browser UI seen in the SEARCH example rather than the tighter, more localized clusters of coding or interpreting tasks.",
+  "correct": false
+}

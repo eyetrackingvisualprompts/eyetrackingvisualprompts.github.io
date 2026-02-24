@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze moves rapidly and widely across large screen areas, including extreme top, bottom, and off-screen coordinates, with many saccades and fewer stable horizontal line patterns. This broad, dynamic coverage and target-like jumping behavior is more consistent with visually tracking or navigating elements in a game than with line-by-line reading, code work, or focused web search/browsing.",
+  "correct": false
+}

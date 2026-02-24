@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows gaze oscillating primarily along a horizontal band with relatively constant vertical position and large, repetitive left-right movements across ~30\u00b0 of visual angle, consistent with tracking a target making horizontal saccades rather than the more dispersed or multi-directional patterns seen in random saccades, reading, video viewing, or gaming.",
+  "correct": true
+}

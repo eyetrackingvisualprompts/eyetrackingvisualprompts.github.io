@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between multiple vertical positions with large saccades across wide horizontal ranges, frequent jumps to screen edges and corners, and visits to both high and low y-values consistent with scrolling and scanning a web page rather than line-by-line reading or focused code inspection. The pattern closely resembles the provided BROWSE example with dispersed, exploratory movements and revisits to mid-page regions.",
+  "correct": false
+}

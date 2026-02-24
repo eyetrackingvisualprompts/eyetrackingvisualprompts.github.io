@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a relatively narrow central region with smooth, continuous shifts and no clear line-by-line horizontal scanpaths typical of reading or code tasks; there are also no rapid multidirectional jumps characteristic of gameplay or web search/browsing, which aligns best with passively following onscreen motion during video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze coordinates show many small, irregular movements and brief fixations scattered across a relatively narrow region without the clear, large, periodic horizontal shifts of Horizontal Saccades or the discrete, \u22652\u00b0 step-like target jumps of Random Saccades. They are not tightly clustered around a single point as in central Fixation, nor do they show the systematic left-to-right, line-by-line scan pattern typical of Reading. The pattern is consistent with natural exploratory viewing of dynamic visual content, best matching Video Viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-to-large, irregular saccades with frequent vertical shifts and scattered fixation positions across much of the screen, resembling heterogeneous exploration rather than structured left-to-right or line-based movement. This pattern best matches the varied, multi-region viewing typical of free web browsing.",
+  "correct": false
+}

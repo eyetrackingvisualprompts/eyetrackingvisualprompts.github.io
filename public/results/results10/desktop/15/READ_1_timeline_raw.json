@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, gradual rightward movements in X with periodic small regressions and a slowly decreasing Y position, consistent with line-by-line reading and occasional line shifts, closely matching the READ example pattern compared to other activities.",
+  "correct": true
+}

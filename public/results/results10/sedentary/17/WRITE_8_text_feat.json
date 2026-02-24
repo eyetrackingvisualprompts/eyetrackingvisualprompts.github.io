@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, localized fixations around a code-like region with repeated short regressions and occasional large jumps (likely to console or reference area) resemble the WRITE pattern more than other tasks, aligning with sustained editing/implementation behavior in an IDE rather than continuous reading, free browsing, or dynamic tracking.",
+  "correct": true
+}

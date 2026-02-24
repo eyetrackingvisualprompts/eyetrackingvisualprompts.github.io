@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a relatively small code/editor area on the left-middle of the screen with limited horizontal spread and no clear line-by-line scan path typical of reading long text or browsing; this focused region and stationary pattern are most consistent with concentrating on a code editor while implementing a function (WRITE).",
+  "correct": false
+}

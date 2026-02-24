@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Initial horizontal scanning around upper text-like region, then repeated horizontal sweeps across a middle band (\u2248500\u2013600px vertically) with many short fixations, interleaved with large vertical jumps to lower regions (~700\u2013800px) and back to upper header/URL bar area (~50\u2013200px). This pattern of scanning snippets, jumping to results further down, returning to top, and revisiting is characteristic of search results exploration, matching the SEARCH examples more than the more linear READ pattern or code-focused tasks.",
+  "correct": true
+}

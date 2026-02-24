@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in the upper-left to mid-left region with some vertical spread, matching the concentrated but slightly scattered pattern over code and nearby interface seen in the DEBUG example more than the tighter INTERPRET or more dispersed SEARCH/BROWSE patterns.",
+  "correct": false
+}

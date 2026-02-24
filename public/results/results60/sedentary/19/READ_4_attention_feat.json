@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations span a broad horizontal band across mid-screen with several distinct clusters and some attention to an upper strip, resembling scanning search results and occasional focus on a result, which matches the SEARCH heatmap pattern more than the other tasks.",
+  "correct": false
+}

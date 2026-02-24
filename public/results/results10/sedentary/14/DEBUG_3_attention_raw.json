@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in the upper-left code area, with minimal horizontal spread and no extended reading lines, matching the focused inspection pattern seen in the DEBUG example rather than the broader distributions of other tasks.",
+  "correct": true
+}

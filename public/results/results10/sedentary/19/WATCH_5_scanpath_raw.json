@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on the left-central region where code would be, with vertical excursions downward and occasional horizontal shifts consistent with moving between code lines and output/console, closely matching the WRITE example pattern more than other tasks.",
+  "correct": false
+}

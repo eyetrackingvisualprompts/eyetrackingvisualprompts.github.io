@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-sized shifts in both X and Y, especially around the middle of the window, indicate scanning between results and different page regions, closely matching the SEARCH example pattern rather than the more stable WATCH/READ or localized WRITE/INTERPRET behaviors.",
+  "correct": false
+}

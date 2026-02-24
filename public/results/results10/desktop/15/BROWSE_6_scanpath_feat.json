@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions form a predominantly horizontal band with small vertical variation and sequential fixations, matching the left-to-right reading-like pattern seen in the READ example rather than the more scattered or clustered patterns of other activities.",
+  "correct": false
+}

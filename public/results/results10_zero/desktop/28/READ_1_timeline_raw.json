@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions vary smoothly with gradual horizontal drifts and small vertical changes, showing long, stable fixations with no rapid multi-directional saccades or line-by-line scanning typical of reading, searching, or browsing. The pattern matches following on-screen dynamic content such as a video rather than text-intensive or interactive tasks.",
+  "correct": false
+}

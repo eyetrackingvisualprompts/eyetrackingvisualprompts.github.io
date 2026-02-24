@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are relatively stable with slow drifts and few saccades, showing less structured horizontal scanning than reading/writing and less scattered movement than browsing/searching or playing, which aligns best with passively watching a video.",
+  "correct": false
+}

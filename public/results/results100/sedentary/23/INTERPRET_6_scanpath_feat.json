@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the upper-left where result list and query box typically are, with intermittent long saccades to the right side (likely inspecting individual results) and to lower areas, matching the scattered yet structured pattern seen in the SEARCH example more than the other tasks.",
+  "correct": false
+}

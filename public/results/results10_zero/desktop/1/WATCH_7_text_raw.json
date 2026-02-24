@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show predominantly horizontal movements within constrained vertical bands, with many short, stable fixations followed by small downward shifts\u2014characteristics of line-by-line reading rather than the larger multidirectional saccades typical of play, search, browsing, or dynamic video watching.",
+  "correct": false
+}

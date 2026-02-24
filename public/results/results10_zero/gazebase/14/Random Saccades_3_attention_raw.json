@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are clustered at several discrete positions scattered across both horizontal and vertical axes, with no clear horizontal-only pattern (ruling out Horizontal Saccades) and no linear text-like structure (ruling out Reading). The isolated, separated hotspots match a target that jumps to distinct locations over time, consistent with Random Saccades rather than continuous scanning in Video Viewing or goal-directed clustering of the Balura Game.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered around several horizontal bands with frequent short saccades within bands and intermittent jumps to other vertical regions, consistent with scanning lists/sections on web pages. The pattern lacks the tight line-by-line regressions of READ and shows more dispersed, multi-region exploration characteristic of general web browsing rather than focused coding (WRITE/DEBUG/INTERPRET) or continuous motion tracking (WATCH/PLAY).",
+  "correct": false
+}

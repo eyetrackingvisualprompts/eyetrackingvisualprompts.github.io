@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target plot shows smooth, slowly increasing Y fixations with mostly left-to-right X scan patterns and limited large saccades, closely matching the structured, line-by-line progression seen in the READ example rather than the more scattered or erratic patterns of browsing, search, or games.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across much of the screen both horizontally and vertically, without concentration in a narrow band (as in reading or video) or at just a few points (as in horizontal saccades or central fixation), matching the random target jumps of the Random Saccades task.",
+  "correct": false
+}

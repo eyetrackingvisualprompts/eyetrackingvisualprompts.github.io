@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are mostly mid-duration with frequent medium-amplitude vertical and diagonal saccades around the central-to-upper part of the screen, lacking the tight horizontal line structure of READ or the localized, small-jitter pattern of WRITE. The pattern shows exploratory, scanning movements similar to the BROWSE example, rather than the more top-anchored patterns seen in WATCH or the more variable/global movements in PLAY and SEARCH.",
+  "correct": true
+}

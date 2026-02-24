@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows highly regular, left-to-right horizontal sweep patterns with systematic regressions and line shifts (large saccades from right back to left at slightly different vertical levels). This is characteristic of reading continuous text laid out in lines, matching the spatial-temporal structure of the READ examples more than the more scattered, multi-region patterns seen in search, browsing, coding, or gameplay.",
+  "correct": true
+}

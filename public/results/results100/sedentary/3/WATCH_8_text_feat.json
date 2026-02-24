@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades spanning large horizontal extents, many revisits between widely separated regions (top, middle, bottom, far left/right), and mixed clusters of shorter reading-like fixations over a broad vertical range match the exploratory, multi-region scanning typical of web browsing, and closely resemble the BROWSE example patterns more than the more linear READ or code-focused WRITE/DEBUG/INTERPRET behaviors.",
+  "correct": false
+}

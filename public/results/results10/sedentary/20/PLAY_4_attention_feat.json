@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small region in the upper-left code area, similar to the WRITE example where attention is focused on a small text/code box rather than spread vertically as in INTERPRET or DEBUG or horizontally as in READ/BROWSE.",
+  "correct": false
+}

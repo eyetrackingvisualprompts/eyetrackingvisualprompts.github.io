@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover a wide area with large, multi-directional saccades and dispersed fixations, resembling the exploratory, all-direction navigation pattern seen in the PLAY example rather than the more localized or structured patterns of reading, writing, searching, browsing, or watching video.",
+  "correct": false
+}

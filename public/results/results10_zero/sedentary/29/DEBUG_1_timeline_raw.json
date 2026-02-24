@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a narrow central band with only small, smooth shifts and almost no large horizontal or vertical saccades typical of reading or browsing. This stable, center-focused pattern over 10 seconds is most consistent with watching a full-screen video rather than text- or code-related tasks or interactive gameplay.",
+  "correct": false
+}

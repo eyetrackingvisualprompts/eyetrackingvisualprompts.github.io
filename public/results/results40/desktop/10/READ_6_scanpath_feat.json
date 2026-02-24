@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form mainly horizontal scanlines with relatively small vertical spread and systematic left-to-right movements, characteristic of line-by-line reading, unlike the more scattered patterns seen in browsing, searching, or playing games.",
+  "correct": true
+}

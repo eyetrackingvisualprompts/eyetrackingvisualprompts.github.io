@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on the left side like code in an IDE but with frequent large vertical and diagonal saccades across different lines and regions, indicating active searching and revisiting typical of debugging rather than the tighter cluster of interpretation or the more horizontal pattern of reading/browsing.",
+  "correct": true
+}

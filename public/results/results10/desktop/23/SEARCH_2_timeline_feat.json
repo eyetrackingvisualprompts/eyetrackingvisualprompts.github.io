@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is relatively stable around a narrow horizontal band with slow, small shifts in X and minimal vertical movement, matching sustained line-by-line reading behavior rather than the larger, more exploratory shifts seen in browsing, searching, or playing games.",
+  "correct": false
+}

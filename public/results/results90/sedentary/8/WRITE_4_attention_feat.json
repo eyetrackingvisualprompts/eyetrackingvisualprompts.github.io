@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are highly concentrated on the left-center area with a smaller secondary cluster on the right, closely matching the WRITE example heatmap where attention alternates between the code editor and another UI element (e.g., console), unlike the more dispersed or differently located patterns of other tasks.",
+  "correct": true
+}

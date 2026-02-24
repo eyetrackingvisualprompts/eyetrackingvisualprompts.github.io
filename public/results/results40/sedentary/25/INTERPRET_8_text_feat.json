@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across widely separated screen regions (including off-screen coordinates), mixed vertical and horizontal moves, and irregular revisit patterns resemble exploratory web navigation more than structured code reading/writing, linear text reading, or focused game following.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are spread over a moderately wide central region with frequent saccades between multiple areas, indicating scanning of different content sections rather than the more linear horizontal pattern of reading or the tighter clusters of writing; this pattern best matches browsing behavior.",
+  "correct": true
+}

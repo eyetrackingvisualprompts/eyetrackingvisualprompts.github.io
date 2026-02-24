@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed across multiple vertical positions but constrained to the left side, resembling scanning SERP titles/snippets and result list rather than single-column code (INTERPRET/DEBUG/WRITE) or tight top block reading (READ). This spatial spread with repeated horizontal shifts matches the SEARCH example most closely.",
+  "correct": false
+}

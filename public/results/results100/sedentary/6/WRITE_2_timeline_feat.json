@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows confined horizontal bands with frequent medium-length saccades, occasional large vertical shifts, and concentrated clusters resembling code-line inspection and revisiting typical of debugging, matching the DEBUG example more than the other activities.",
+  "correct": false
+}

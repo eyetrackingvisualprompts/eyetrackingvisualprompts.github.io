@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The heatmap shows a horizontally elongated cluster of gaze positions around the mid-screen with limited vertical spread, consistent with left-to-right reading across text lines rather than large jumps (saccades), central fixation, or dispersed exploration seen in video or game tasks.",
+  "correct": true
+}

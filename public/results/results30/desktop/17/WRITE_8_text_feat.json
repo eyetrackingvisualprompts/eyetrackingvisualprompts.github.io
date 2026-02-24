@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts frequently between mid-upper and lower regions, with many medium-to-long saccades across horizontal positions and relatively short fixations. The pattern shows scanning of spatially separated screen areas without the tight horizontal line structure of READ or the mainly central, text-band focus of WRITE. The movement scale and variability resemble the exploratory, multi-region viewing seen in the BROWSE example, rather than the more structured SEARCH result-page pattern or the more constrained WATCH/play-focused trajectories.",
+  "correct": false
+}

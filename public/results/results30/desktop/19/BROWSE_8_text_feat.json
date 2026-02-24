@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large vertical saccades between top and mid/lower screen regions, repeated transitions between mid-page content-like areas, and mixed scanning (not strictly horizontal lines or confined to text-entry regions) resemble exploratory navigation of search results pages more than focused reading, writing, or passive video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are scattered within a mid-screen region with frequent short saccades among multiple nearby locations, indicating exploratory scanning of varied content rather than linear reading or focused typing, which is characteristic of web browsing behavior.",
+  "correct": true
+}

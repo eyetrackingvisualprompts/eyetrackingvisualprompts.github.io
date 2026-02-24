@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a single horizontal band in the upper part of the screen, similar to reading a line of text near the top as on a web page header or article, matching the browsing example more than the other tasks.",
+  "correct": false
+}

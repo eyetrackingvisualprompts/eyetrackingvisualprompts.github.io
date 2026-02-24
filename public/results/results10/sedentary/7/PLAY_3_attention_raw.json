@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is tightly focused around a central region with minimal horizontal scanning, resembling tracking a game\u2019s main object or character near the screen center, which aligns best with the PLAY heatmap patterns rather than the more dispersed or line-based patterns of reading, browsing, or coding tasks.",
+  "correct": true
+}

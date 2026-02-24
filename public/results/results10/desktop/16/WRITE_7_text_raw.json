@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form stable horizontal bands with small vertical variation, consistent with line-by-line scanning of text and intermittent line changes, matching the structured horizontal patterns seen in the READ example more than the more dispersed or erratic patterns of browsing, searching, or gameplay.",
+  "correct": false
+}

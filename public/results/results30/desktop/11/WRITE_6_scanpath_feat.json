@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze spans a large vertical range near the top of the screen with long cross-screen saccades and relatively few tight clusters, resembling tracking dynamic visual content in a video more than the more localized, structured patterns of reading, writing, browsing, searching, or playing.",
+  "correct": false
+}

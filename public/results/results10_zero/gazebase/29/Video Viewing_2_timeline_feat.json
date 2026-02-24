@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions show discrete jumps to various locations across both horizontal (\u00b1 about 15\u00b0) and vertical (\u00b1 about 9\u00b0) axes with roughly one-second plateaus between movements, matching the protocol of a bull\u2019s-eye target moving randomly and held at each position for one second, characteristic of Random Saccades rather than strictly horizontal motion, stable fixation, or reading-like patterns.",
+  "correct": false
+}

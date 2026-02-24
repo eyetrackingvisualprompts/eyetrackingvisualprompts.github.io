@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Large saccades across wide vertical and horizontal extents, many fixations in upper/lower screen regions and near screen edges, and relatively long, stable fixations match dynamic visual tracking of changing scenes typical for WATCH, rather than the more line-structured, mid-screen, or text-centered patterns in READ/WRITE/BROWSE/SEARCH or the more goal-focused clustered gaze of PLAY.",
+  "correct": false
+}

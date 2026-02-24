@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations and short saccades clustered around a mid-screen code region with frequent vertical shifts between nearby lines, interleaved with occasional larger jumps to upper screen areas (likely other parts of the code) matches the detailed inspection and re-checking pattern typical of debugging rather than the more linear scans of READ/INTERPRET or the broader exploratory movements of BROWSE/SEARCH/WATCH/PLAY/WRITE.",
+  "correct": true
+}

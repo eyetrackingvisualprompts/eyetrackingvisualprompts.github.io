@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a dominant horizontal band of fixations in the upper half of the screen with relatively orderly, line-like clusters and limited vertical spread, consistent with reading text laid out in paragraphs rather than the larger dispersed or highly dynamic gaze patterns typical of PLAY, WATCH, or coding-related tasks.",
+  "correct": false
+}

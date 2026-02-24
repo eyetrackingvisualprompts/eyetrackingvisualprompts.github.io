@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze is constrained to a roughly vertical strip with multiple left-to-right horizontal sweeps at different vertical positions, forming a staircase-like pattern characteristic of line-by-line reading movements rather than large horizontal-only saccades, random jumps, or central fixation.",
+  "correct": true
+}

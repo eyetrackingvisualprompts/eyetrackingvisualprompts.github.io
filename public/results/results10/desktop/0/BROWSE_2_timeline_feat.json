@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixation patterns show mid-screen horizontal positions with moderate vertical shifts and intermittent larger saccades, resembling mixed reading and interface-scanning behavior. This matches the SEARCH example more closely than the more line-structured READ traces or the more extreme movements seen in PLAY/WATCH/WRITE.",
+  "correct": false
+}

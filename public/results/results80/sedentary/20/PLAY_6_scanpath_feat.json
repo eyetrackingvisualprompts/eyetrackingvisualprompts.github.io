@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in a limited central region with some horizontal spread and occasional jumps, closely matching the WRITE example pattern of focusing on an IDE/code area with brief glances to other UI elements rather than the more dispersed or vertical patterns of other tasks.",
+  "correct": false
+}

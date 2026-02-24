@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow band in the central-left region with predominantly horizontal saccades and medium-to-long fixations, showing repetitive left\u2013right shifts and small vertical adjustments typical of scanning lines of text rather than the larger, multi-directional excursions seen in PLAY, WATCH, BROWSE, or SEARCH, and without the upper-screen bias of WRITE.",
+  "correct": false
+}

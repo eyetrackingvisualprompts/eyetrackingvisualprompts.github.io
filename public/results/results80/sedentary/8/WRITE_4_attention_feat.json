@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered on the upper-left code area with a small secondary cluster to the right, matching the WRITE example pattern more closely than the others, which indicates focused coding with occasional checks elsewhere in the IDE.",
+  "correct": true
+}

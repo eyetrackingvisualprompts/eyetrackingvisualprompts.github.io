@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps between widely separated screen regions (including near-screen-edge/out-of-content areas) and mixed mid-page scanning resemble exploratory navigation across web pages more than the structured line-by-line patterns of READ or the code-focused clusters of programming tasks; the pattern closely matches the heterogeneous, wide-ranging gaze behavior seen in the BROWSE examples.",
+  "correct": false
+}

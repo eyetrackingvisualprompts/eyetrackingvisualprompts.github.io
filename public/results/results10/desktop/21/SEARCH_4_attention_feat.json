@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the center of the screen with moderate vertical spread, resembling the example BROWSE heatmap where gaze concentrates on a central content area of a webpage rather than following horizontal text lines (READ) or staying at a single writing location (WRITE).",
+  "correct": false
+}

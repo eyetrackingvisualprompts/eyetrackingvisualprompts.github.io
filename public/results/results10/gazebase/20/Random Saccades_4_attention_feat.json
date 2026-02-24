@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "Fixations are scattered across much of the display without a strong horizontal band (reading/video) or strict horizontal two-position pattern (horizontal saccades). The distribution resembles tracking multiple moving targets over the screen, consistent with the Balura Game behavior.",
+  "correct": false
+}

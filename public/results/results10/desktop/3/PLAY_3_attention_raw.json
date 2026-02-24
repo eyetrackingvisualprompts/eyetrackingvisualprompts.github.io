@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is distributed across a wide central region with multiple dispersed fixation clusters, similar to scanning heterogeneous web content, and matches the spatial pattern of the BROWSE example more than the more localized patterns of READ, WRITE, SEARCH, WATCH, or the lateral PLAY pattern.",
+  "correct": false
+}

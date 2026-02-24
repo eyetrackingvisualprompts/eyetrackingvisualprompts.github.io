@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points cluster in a compact region in the upper-left/central area with small local movements and limited horizontal span, matching the focused, localized fixation pattern of typing in a text editor rather than the broader scanning seen in reading, browsing, or searching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, mostly horizontal scanning with gradual shifts in X fixation and relatively stable Y fixation around mid-screen, closely matching the patterned left-to-right reading behavior seen in the READ example and differing from the more scattered or highly dynamic patterns of browse, search, or play.",
+  "correct": false
+}

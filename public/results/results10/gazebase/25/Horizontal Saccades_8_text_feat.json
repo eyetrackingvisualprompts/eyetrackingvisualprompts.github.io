@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates in large (~30\u00b0) horizontal jumps between about -15\u00b0 and +15\u00b0 with minimal vertical deviation, and each extreme position is held in a fixation for several hundred milliseconds\u2014this closely matches the structured left-right target-following pattern of Horizontal Saccades rather than the more variable trajectories in other tasks.",
+  "correct": true
+}

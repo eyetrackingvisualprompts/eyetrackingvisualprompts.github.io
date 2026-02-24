@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band across the screen with sequential fixations, matching line-by-line reading behavior similar to the READ example heatmap and unlike the more scattered patterns of browsing, search, or gameplay.",
+  "correct": false
+}

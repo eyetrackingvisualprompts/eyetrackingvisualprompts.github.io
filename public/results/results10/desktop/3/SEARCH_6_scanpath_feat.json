@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows multiple dispersed fixations over a mid-screen region with frequent shifts among nearby points, resembling the exploratory and moderately scattered pattern of the BROWSE example more than the more linear READ or localized WRITE patterns.",
+  "correct": false
+}

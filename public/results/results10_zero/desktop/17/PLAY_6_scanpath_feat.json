@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows multiple short, clustered fixations within a confined central region with a few medium-length horizontal sweeps and relatively limited vertical range, consistent with reading lines of text (e.g., article or paper) rather than the larger, more dispersed movements typical of browsing, searching, gaming, or video watching.",
+  "correct": false
+}

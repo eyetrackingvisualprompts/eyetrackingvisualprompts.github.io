@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows relatively focused horizontal movements with a few distinct shifts and moderate vertical drift, closely matching the DEBUG example\u2019s pattern of scanning code in a constrained region with occasional jumps, unlike the more erratic or vertical-heavy patterns of browsing, watching, or playing.",
+  "correct": false
+}

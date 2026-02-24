@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is concentrated in a small central region with minimal horizontal or vertical excursions over the full 10 s window, indicating sustained attention to a single area of the screen rather than systematic reading/scrolling or exploratory search/browsing patterns; this stable central fixation is most consistent with passively watching video content.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly mid-screen code-area fixations with frequent short saccades among clustered line-like regions, interleaved with large, periodic jumps to far-right UI elements and back, matches the code\u2013IDE navigation and verification pattern seen in the DEBUG examples more than the steadier line-by-line reading (READ/INTERPRET) or the broader, more varied exploration of BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many medium-to-large saccades between mid-screen and multiple distinct lower regions, including repeated vertical transitions and scattered horizontal coverage, resemble scanning heterogeneous web pages more than the more line-structured READ or the localized WRITE patterns; dynamics are less systematic than READ and less stationary than WATCH, aligning best with BROWSE behavior.",
+  "correct": false
+}

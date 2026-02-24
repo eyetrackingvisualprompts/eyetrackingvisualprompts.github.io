@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is distributed across the mid-screen with several dispersed fixation clusters and lateral exploration, resembling the varied scanning pattern over a webpage as in the BROWSE example, rather than the more constrained, linear, or localized patterns seen in READ, WRITE, WATCH, or PLAY.",
+  "correct": false
+}

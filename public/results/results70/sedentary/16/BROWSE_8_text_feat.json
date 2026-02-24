@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze exhibits extensive, rapid jumps across widely separated screen regions including edges and off-screen coordinates, mixed with short local fixations and no consistent horizontal line-by-line reading or tight code-region focus. This pattern reflects scanning of diverse interface elements and pages, characteristic of general web browsing rather than concentrated reading, coding, debugging, or gameplay tracking.",
+  "correct": true
+}

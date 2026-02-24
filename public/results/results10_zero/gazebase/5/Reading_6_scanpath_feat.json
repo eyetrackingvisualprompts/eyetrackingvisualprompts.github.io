@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows largely one-dimensional gaze shifts along the horizontal axis within a narrow vertical band, consistent with following a target that moves left\u2013right while staying at nearly constant height, matching the Horizontal Saccades task more than the other activities.",
+  "correct": false
+}

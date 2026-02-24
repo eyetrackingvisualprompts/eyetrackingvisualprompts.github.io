@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band in both X and Y with slow, gradual drift and relatively few large saccades, matching the stable, lower-screen focus seen in the WRITE example rather than the more scattered or vertically varying patterns of browsing, searching, reading, playing, or watching videos.",
+  "correct": true
+}

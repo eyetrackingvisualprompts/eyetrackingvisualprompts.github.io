@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows very smooth, gradual drift in both X and Y with minimal regressions or large exploratory saccades, resembling continuous tracking of slowly changing visual content as in video watching, and differing from the more discrete line-by-line or code-oriented patterns of reading, writing, searching, or debugging.",
+  "correct": false
+}

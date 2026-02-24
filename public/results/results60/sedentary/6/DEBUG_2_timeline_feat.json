@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-range shifts between multiple vertical bands with intermittent excursions to distinct regions, matching the distributed attention across code, console, and other IDE elements typical of debugging, and resembling the DEBUG example more than the more linear patterns of READ/WRITE or the broader sweeps of BROWSE/SEARCH.",
+  "correct": true
+}

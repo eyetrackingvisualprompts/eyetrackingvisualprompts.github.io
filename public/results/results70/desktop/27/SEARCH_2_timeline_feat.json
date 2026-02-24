@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay near the screen center with small, frequent shifts in both X and Y, resembling continuous scanning of mixed content without strong horizontal sweeps (reading) or large directional movements (playing/searching). This pattern best matches the browsing example.",
+  "correct": false
+}

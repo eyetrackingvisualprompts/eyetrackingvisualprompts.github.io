@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Fixations",
+  "reason": "The gaze heatmap is highly concentrated around a single central region with minimal dispersion, consistent with maintaining fixation on a static central target rather than tracking moving stimuli or scanning text or dynamic scenes.",
+  "correct": false
+}

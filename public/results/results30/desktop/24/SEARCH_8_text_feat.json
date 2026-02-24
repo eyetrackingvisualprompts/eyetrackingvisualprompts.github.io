@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows dispersed fixations and saccades across multiple vertical levels (upper, mid, and lower screen) and horizontally around the center, including long transitions (e.g., from mid-height to near the top and back). This mixed, exploratory scanning with no stable horizontal line pattern (as in READ) nor tight region focus (as in WRITE) is most consistent with browsing heterogeneous webpage content.",
+  "correct": false
+}

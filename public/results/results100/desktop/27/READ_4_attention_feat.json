@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a horizontal band across the lower-middle of the screen, similar to line-by-line text reading patterns and closely matching the READ example heatmap, unlike the more centralized clusters of SEARCH/BROWSE or the dispersed patterns of WATCH/PLAY/WRITE.",
+  "correct": true
+}

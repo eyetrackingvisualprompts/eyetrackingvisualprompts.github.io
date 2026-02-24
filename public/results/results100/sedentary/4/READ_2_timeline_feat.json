@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "X fixations show repeated left-to-right sweeps with large return saccades, while Y fixations gradually drift downward over time, matching the scrolling, line-by-line reading pattern typical of web browsing, and closely resembling the BROWSE example plot.",
+  "correct": false
+}

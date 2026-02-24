@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions remain around the screen center with moderate, irregular horizontal and vertical shifts and intermittent saccades, resembling the varied yet centrally focused pattern of news/web browsing rather than the more structured horizontal movements of reading or the larger shifts of search, watch, write, or play activities.",
+  "correct": false
+}

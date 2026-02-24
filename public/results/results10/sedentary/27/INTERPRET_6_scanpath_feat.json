@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a compact central-left area with repeated revisits and short-range saccades, similar to the DEBUG example and distinct from the more dispersed patterns of BROWSE/PLAY or the horizontal lines of READ/SEARCH.",
+  "correct": false
+}

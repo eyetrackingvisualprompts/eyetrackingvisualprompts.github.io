@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows mostly horizontal, line-like fixations with small gradual shifts and very few large saccades, resembling focused inspection of a compact code snippet rather than extensive vertical scanning or exploration typical of browsing, search, or debugging with multiple errors. This tightly clustered, relatively stable pattern best matches the INTERPRET example.",
+  "correct": false
+}

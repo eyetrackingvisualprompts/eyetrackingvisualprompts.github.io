@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide horizontal and vertical extents (including jumps between upper and lower screen regions and toward corners), with relatively short, variable fixations and no stable line-like scanning pattern, resemble the dynamic, multi-directional gaze behavior seen in gameplay rather than the more structured, banded patterns of reading/searching or the longer, more centralized fixations of watching/browsing/writing.",
+  "correct": false
+}

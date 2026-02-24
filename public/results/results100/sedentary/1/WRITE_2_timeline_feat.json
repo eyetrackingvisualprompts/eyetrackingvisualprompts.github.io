@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movements with frequent medium-to-large vertical saccades and scattered fixations, indicating scanning across different regions of the screen rather than systematic line-by-line reading or code-focused inspection, which aligns best with web search behavior among the provided examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between two main horizontal text-like regions with some vertical transitions, indicating scanning across separate result areas rather than focused reading of one block (READ) or code (WRITE/DEBUG/INTERPRET), and lacking the dispersed motion of BROWSE or WATCH; this pattern best matches SEARCH behavior.",
+  "correct": true
+}

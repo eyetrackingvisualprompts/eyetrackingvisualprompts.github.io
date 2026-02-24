@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions shift in discrete steps to various horizontal and vertical locations across the screen with about 1-second plateaus between movements, matching the behavior of following a randomly moving target rather than strictly horizontal motion, central fixation, reading, video viewing, or the game pattern.",
+  "correct": true
+}

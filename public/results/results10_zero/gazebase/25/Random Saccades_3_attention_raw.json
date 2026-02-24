@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows a series of discrete fixation clusters arranged mainly along a horizontal band in the upper half of the screen, progressing from left to right with relatively similar vertical position and spacing. This pattern matches following a target that moves horizontally and pauses at fixed positions, characteristic of the Horizontal Saccades task rather than the more scattered or centrally concentrated patterns of the other activities.",
+  "correct": false
+}

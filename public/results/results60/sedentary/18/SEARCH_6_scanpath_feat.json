@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread widely across the horizontal axis with multiple distinct clusters (left, center, right) and frequent long saccades between them, indicating exploration of different webpage regions rather than focused reading, coding, or video watching\u2014consistent with free web browsing patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation and saccade patterns show moderate, continuous exploration over a central band of the screen with frequent small shifts in both x and y, resembling the heterogeneous, free-scrolling behavior seen in the BROWSE example more than the more structured patterns of READ/WRITE or the stronger vertical biases of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

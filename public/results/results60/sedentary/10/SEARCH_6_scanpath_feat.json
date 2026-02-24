@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers broad horizontal area with multiple dispersed clusters, including top region likely for query/results and mid sections for content, matching the exploratory, multi-region scanpath typical of search engine use rather than the more localized or patterned behavior of the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact central cluster with moderate vertical spread and irregular saccades to surrounding areas, closely matching the example BROWSE pattern rather than the more linear READ/WRITE paths or the wider, more dispersed PLAY/WATCH patterns.",
+  "correct": false
+}

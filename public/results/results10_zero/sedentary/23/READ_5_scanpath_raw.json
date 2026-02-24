@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, localized gaze around a central-bottom region (typical IDE code editor area) with frequent short saccades and occasional long upward shifts suggests focused code editing rather than linear reading or web browsing, matching the WRITE activity of implementing functions in an IDE.",
+  "correct": false
+}

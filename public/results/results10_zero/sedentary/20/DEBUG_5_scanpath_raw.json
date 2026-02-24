@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow vertical band on the left, typical of an IDE/code editor, with repeated up\u2013down and diagonal sweeps between a central code area and lower/side regions (e.g., console or editor panes), consistent with active code writing rather than static reading or free browsing.",
+  "correct": false
+}

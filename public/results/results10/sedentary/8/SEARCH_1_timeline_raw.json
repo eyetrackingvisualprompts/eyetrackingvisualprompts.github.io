@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly centered with limited horizontal span and small, regular shifts, resembling focused code editing in an IDE more than the broader sweeps of reading/browsing or dynamic movements of play/search/watch; the pattern closely matches the WRITE example.",
+  "correct": false
+}

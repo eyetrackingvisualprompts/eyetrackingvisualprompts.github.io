@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves predominantly in horizontal bands with relatively small, slow vertical shifts between bands, consistent with line-by-line reading rather than large dynamic movements typical of search, browsing, coding, or gameplay.",
+  "correct": false
+}

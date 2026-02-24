@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in the central region with multiple clusters and medium-length saccades between them, indicating transitions between search box, results list, and other elements\u2014most similar to the SEARCH example compared to the more uniform READ pattern or more scattered BROWSE/PLAY paths.",
+  "correct": false
+}

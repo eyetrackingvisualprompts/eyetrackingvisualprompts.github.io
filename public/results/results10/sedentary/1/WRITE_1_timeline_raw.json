@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The first half shows relatively stable horizontal reading-like movements with a few sharp vertical spikes (likely glances to other UI elements), followed around 5\u20137s by a step change in both x and y positions indicative of scrolling or moving to a different region of the page, matching the mixed reading-and-navigation pattern typical for SEARCH tasks rather than continuous reading or coding-focused activities.",
+  "correct": false
+}

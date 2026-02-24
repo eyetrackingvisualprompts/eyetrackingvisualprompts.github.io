@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps between distant screen regions (top, bottom, off-center) interleaved with shorter horizontal sweeps at multiple vertical levels resemble scanning and navigating heterogeneous webpages rather than the more localized, structured patterns of reading, coding, or gameplay.",
+  "correct": false
+}

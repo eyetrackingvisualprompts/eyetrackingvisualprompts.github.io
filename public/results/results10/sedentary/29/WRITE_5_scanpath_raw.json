@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a narrow left-side region with frequent vertical movements and revisits, matching code editing behavior seen in the WRITE example rather than the more horizontal, line-by-line patterns of READ/BROWSE or the broader spread of SEARCH/PLAY/WATCH.",
+  "correct": true
+}

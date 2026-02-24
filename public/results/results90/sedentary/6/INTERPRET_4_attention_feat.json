@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over the left-central code area with a few scattered looks elsewhere, matching the DEBUG heatmap pattern more closely than the more compact INTERPRET cluster or the WRITE distribution with its distinct right-side hotspot.",
+  "correct": false
+}

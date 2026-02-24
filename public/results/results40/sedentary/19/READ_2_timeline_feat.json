@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mostly horizontal reading-like movements with gradually increasing Y, but around 29\u201330s there is a large downward shift to a different vertical region followed by continued scanning, matching the pattern of moving from one part of a search-results page to another more than the steadier patterns in READ or WATCH.",
+  "correct": false
+}

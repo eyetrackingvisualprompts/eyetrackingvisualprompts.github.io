@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across the upper half of the screen with a horizontal band near the top and scattered points lower down, resembling scanning of search results and occasional looks elsewhere, matching the SEARCH example pattern more than the others.",
+  "correct": false
+}

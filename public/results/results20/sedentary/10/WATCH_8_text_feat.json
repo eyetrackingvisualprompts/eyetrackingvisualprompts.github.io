@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions with relatively short fixations and substantial movement in both horizontal and vertical directions match tracking dynamic game elements more than the more line-based, structured or code-centered patterns of reading, writing, debugging, interpreting, searching, browsing, or passively watching video.",
+  "correct": false
+}

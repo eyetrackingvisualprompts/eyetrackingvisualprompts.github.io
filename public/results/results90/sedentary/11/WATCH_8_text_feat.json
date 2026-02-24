@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent spatial shifts across the whole screen, including edges and corners, with many medium-length fixations tracking changing regions rather than orderly line-by-line or code-panel scanning. This wide exploratory pattern with repeated returns to salient central areas matches passive viewing of dynamic visual content (WATCH) more than task-focused reading, coding, debugging, or web search/browsing layouts.",
+  "correct": true
+}

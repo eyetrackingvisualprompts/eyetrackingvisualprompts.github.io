@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shifts span a wide central area with frequent medium-length saccades and relatively short fixations, following smoothly moving loci rather than line-by-line text or tightly clustered code regions. The pattern resembles continuous tracking of dynamic on-screen objects, characteristic of gameplay rather than reading, coding, or web search/browsing behavior.",
+  "correct": true
+}

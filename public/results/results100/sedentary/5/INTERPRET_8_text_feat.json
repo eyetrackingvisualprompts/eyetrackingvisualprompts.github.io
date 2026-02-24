@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like area (x\u2248260\u2013360,y\u2248300\u2013450), with repeated revisits between a few nearby lines/regions, long fixations, and many short saccades back and forth rather than broad exploration. This pattern closely matches focused, line-by-line reasoning over a small code snippet as in the INTERPRET task, and is less consistent with the wider spatial scanning of SEARCH/BROWSE, the more extensive vertical navigation of WRITE/DEBUG, or the larger spread seen in WATCH/PLAY/READ.",
+  "correct": true
+}

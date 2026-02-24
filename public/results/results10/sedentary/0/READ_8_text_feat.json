@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow horizontal band with sequential small rightward saccades and medium-duration fixations, forming line-like patterns across the lower screen area, which closely matches the horizontal scanpath structure seen in the READ example rather than the more scattered or large-jump patterns of tasks like BROWSE, SEARCH, or PLAY.",
+  "correct": true
+}

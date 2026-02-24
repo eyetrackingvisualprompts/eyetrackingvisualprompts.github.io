@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays in a relatively narrow horizontal band with slowly drifting X fixations and higher Y position, matching the stable text area and occasional downward saccades typical of typing in a word processor rather than the larger, more varied movements seen in browsing, searching, or playing games.",
+  "correct": false
+}

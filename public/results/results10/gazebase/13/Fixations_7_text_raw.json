@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Reading",
+  "reason": "The data show extended left-to-right horizontal drifts with small local regressions and modest vertical variation, including a few large downward saccades consistent with line changes, matching the structured scanpath patterns seen in the Reading example rather than the more chaotic or task-driven movements of video, games, or random/horizontal saccades.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades across large screen regions (including to extremes and off-screen coordinates), repeated revisits between mid-page and top/bottom areas, and horizontally clustered fixations around mid-y coordinates resemble scrolling and scanning behavior over long web pages, matching the BROWSE pattern more than the more localized, structured code or text views of WRITE/READ/DEBUG/INTERPRET, or the smoother, scene-centered dynamics of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

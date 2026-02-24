@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show rapid, frequent shifts across wide screen areas (both horizontally and vertically), consistent with tracking moving objects and navigating in a game, rather than the more line-based, localized patterns typical of reading, coding, or web search/browsing tasks.",
+  "correct": false
+}

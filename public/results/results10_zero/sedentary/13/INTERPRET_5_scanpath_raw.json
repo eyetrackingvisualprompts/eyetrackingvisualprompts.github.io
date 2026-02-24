@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a single left-central region of the screen with short, repeated saccades and limited horizontal spread, consistent with focusing on a small text/code area such as an IDE editor during code writing, rather than broader scanning or reading patterns seen in SEARCH, BROWSE, or READ tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Presence of extremely long saccades spanning large screen areas and corners, with relatively brief, scattered fixations across wide regions, matches dynamic visual following typical of full-screen video watching rather than the more line- or code-structured, revisiting patterns of reading, coding, or web tasks.",
+  "correct": false
+}

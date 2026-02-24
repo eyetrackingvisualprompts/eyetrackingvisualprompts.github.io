@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is highly concentrated in a small region on the left side of the screen, similar to the DEBUG example where attention stays on a tight code area rather than scanning widely as in reading, browsing, or searching.",
+  "correct": false
+}

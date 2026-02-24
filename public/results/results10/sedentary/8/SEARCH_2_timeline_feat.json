@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows mostly horizontal fixations with moderate, irregular shifts and revisits across a constrained vertical band, closely matching the DEBUG example where eyes move between nearby code lines and interface elements rather than continuous reading or wide exploratory scanning.",
+  "correct": false
+}

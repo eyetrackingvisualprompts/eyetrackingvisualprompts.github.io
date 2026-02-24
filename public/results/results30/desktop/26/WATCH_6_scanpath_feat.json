@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a mid-screen region with short, multidirectional saccades and clustered fixations, resembling the example BROWSE pattern more than the more linear READ pattern or the more dispersed SEARCH/WATCH/PLAY patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The dense, dispersed fixations concentrated on the upper-left code area with additional checks further right match the DEBUG example heatmap, indicating active scanning and revisiting of multiple code regions rather than the more localized patterns of INTERPRET or WRITE.",
+  "correct": true
+}

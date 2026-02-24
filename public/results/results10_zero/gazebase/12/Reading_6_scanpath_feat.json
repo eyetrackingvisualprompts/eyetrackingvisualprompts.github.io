@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows multiple clustered fixations around a few nearby positions with short corrective saccades and occasional larger shifts, consistent with repeatedly fixating moving targets (red balls) that linger and sometimes require re-fixation, rather than the orderly horizontal lines of reading or pure horizontal/fully random saccade patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between widely separated screen regions (including off-screen/negative coordinates suggesting scrolling or UI elements), interleaved with shorter horizontal scan segments around similar y-levels, match the heterogeneous, exploratory gaze behavior seen in the SEARCH examples rather than the more line-structured READ or more locally clustered coding tasks (DEBUG/WRITE/INTERPRET).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-range shifts in both X and Y with no strong horizontal reading pattern or stable writing focus, resembling the irregular, multidirectional scan behavior seen in the BROWSE example.",
+  "correct": false
+}

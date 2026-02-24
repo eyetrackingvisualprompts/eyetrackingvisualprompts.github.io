@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central band with relatively few and small saccades, and both X and Y positions change slowly over time\u2014matching the stable, code-editing pattern seen in the WRITE example rather than the more scattered or line-scan patterns of reading, browsing, or searching.",
+  "correct": false
+}

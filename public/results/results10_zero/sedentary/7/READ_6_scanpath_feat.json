@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains clustered in a narrow horizontal band near the screen center with minimal vertical movement, indicative of passively watching centrally focused visual content rather than reading, searching, coding, or game-related tracking which typically show larger saccades or structured scanpaths.",
+  "correct": false
+}

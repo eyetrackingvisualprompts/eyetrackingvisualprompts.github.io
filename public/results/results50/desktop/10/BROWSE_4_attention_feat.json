@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically across the central region with several clusters at different heights, resembling scanning down a results page and shifting between items, which matches the SEARCH pattern more than the more localized or horizontally constrained patterns of the other activities.",
+  "correct": false
+}

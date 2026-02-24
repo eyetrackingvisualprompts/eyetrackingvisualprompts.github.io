@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between far left (\u2248-15\u00b0) and far right (\u2248+16\u201319\u00b0) horizontal positions near the same vertical level, with extended plateaus and smooth micro-adjustments at each extreme, matching the pattern of following a horizontally moving target rather than the more irregular, multidirectional movements in other tasks.",
+  "correct": true
+}

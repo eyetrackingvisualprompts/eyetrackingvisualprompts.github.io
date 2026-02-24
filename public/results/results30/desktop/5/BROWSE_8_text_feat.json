@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-amplitude vertical transitions between mid-page and upper/lower regions, mixed with localized inspections around central coordinates, match the scanning-and-jumping pattern of navigating search results and SERP content rather than the more line-structured READ, center-biased WATCH, or highly peripheral PLAY trajectories.",
+  "correct": false
+}

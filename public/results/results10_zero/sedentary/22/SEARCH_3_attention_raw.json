@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are concentrated in a narrow horizontal band in the upper-left/mid-left region, consistent with reading a text block rather than scanning the whole screen as in WATCH/PLAY/BROWSE/SEARCH or focused code regions seen in WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a compact central-left code area with occasional long saccades to a few specific lines, resembling the focused, localized inspection of a small code snippet typical for INTERPRET rather than the broader spread seen in DEBUG or other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Long, stable fixations clustered in one region (top/upper area, likely video content) with occasional large, slow saccades sweeping to other screen regions, and no systematic horizontal line-by-line scan or localized vertical typing area. This spatiotemporal pattern matches passive video watching more than reading, writing, web browsing, search, or game play, which show denser, more task-structured gaze shifts.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze follows a highly regular left-to-right, line-by-line horizontal scanning pattern with systematic returns from the right edge back to a similar x-position on a slightly lower y-level, characteristic of reading text rather than code manipulation, web search, or dynamic gameplay.",
+  "correct": false
+}

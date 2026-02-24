@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal, slowly shifting X fixations with very small, stable Y fixations and few larger saccades, closely matching the reading pattern example and differing from the more scattered or vertical movements seen in search, browse, play, or coding tasks.",
+  "correct": false
+}

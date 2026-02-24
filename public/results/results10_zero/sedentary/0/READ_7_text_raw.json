@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates show relatively smooth, continuous movements with broad horizontal and vertical shifts and fewer tight, line-by-line regressions typical of reading or code tasks. The pattern suggests tracking dynamic visual content over large screen areas rather than focusing on localized text/code regions or specific interactive elements, which is most consistent with watching a video.",
+  "correct": false
+}

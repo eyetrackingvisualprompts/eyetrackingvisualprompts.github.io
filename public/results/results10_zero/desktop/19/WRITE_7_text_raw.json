@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in central regions with smooth shifts and clusters rather than systematic left-to-right/line-by-line scans (READ/WRITE) or highly exploratory, multi-directional jumps (SEARCH/BROWSE/PLAY). The pattern suggests following dynamic on-screen content in a relatively constrained area, consistent with watching a video.",
+  "correct": false
+}

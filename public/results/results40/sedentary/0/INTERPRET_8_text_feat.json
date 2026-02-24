@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "After initial large exploratory saccades across the screen (including to extreme out-of-code regions), gaze settles into a dense cluster of medium\u2013long fixations and short saccades within a compact vertical band (roughly x\u2248230\u2013340, y\u2248330\u2013430), repeatedly revisiting similar coordinates. This pattern of localized re-reading and back-and-forth within a small code area, with occasional jumps to other regions and back, closely matches the DEBUG examples and is less consistent with the more linear patterns of READ/INTERPRET or the highly dynamic spread of PLAY/WATCH/BROWSE/SEARCH/WRITE.",
+  "correct": false
+}

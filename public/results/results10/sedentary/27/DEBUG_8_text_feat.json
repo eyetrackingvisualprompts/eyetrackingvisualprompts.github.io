@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze alternates between a lower region and a mid-upper region with several long fixations and vertical transitions, consistent with shifting between code and mentally simulating/output reasoning rather than continuous text reading, wide exploratory browsing, or fast object tracking typical of play or watch; this pattern best matches the INTERPRET examples where attention moves between code blocks and imagined output/logic.",
+  "correct": false
+}

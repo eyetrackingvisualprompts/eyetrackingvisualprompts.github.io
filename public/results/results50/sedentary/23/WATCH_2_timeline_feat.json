@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades in both X and Y with irregular fixation positions, indicating repeated shifts between different screen regions (query box, results list, and clicked pages), which best matches the exploratory, multi-area pattern typical of SEARCH rather than the more linear patterns of reading/browsing or the localized patterns of coding tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal band with limited vertical movement, resembling line-by-line scanning of text. This pattern closely matches the READ example and differs from the broader, more dispersed patterns seen in search, browse, watch, play, or write tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades across wide screen regions (center, corners, edges) including many to extreme top/bottom and off-content areas, with relatively long fixations on changing clusters and no systematic line-by-line or code-structure scanning, best match the dynamic, scene-based viewing patterns observed in the WATCH examples rather than the more structured, text/code-oriented or goal-driven patterns of READ/WRITE/DEBUG/SEARCH/BROWSE/INTERPRET, or the highly object-following trajectories of PLAY.",
+  "correct": false
+}

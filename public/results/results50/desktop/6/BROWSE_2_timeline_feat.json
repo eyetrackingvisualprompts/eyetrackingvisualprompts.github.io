@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The target data shows predominantly horizontal scan patterns with gradual left-to-right X movements and smaller, regular Y shifts, resembling line-by-line reading behavior and matching the READ example more closely than the other activities.",
+  "correct": false
+}

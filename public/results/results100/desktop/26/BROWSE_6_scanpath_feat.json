@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a compact cluster around the screen center with moderate vertical and horizontal spread, resembling focused scanning of a results page or central content area. This pattern matches the SEARCH example more closely than the more horizontal READ/WRITE patterns, broader BROWSE exploration, or the more dispersed and dynamic WATCH/PLAY paths.",
+  "correct": false
+}

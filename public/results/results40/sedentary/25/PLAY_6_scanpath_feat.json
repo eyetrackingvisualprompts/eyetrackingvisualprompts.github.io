@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly clustered over a compact central area consistent with code inspection, with repeated vertical movements and occasional long saccades to other screen regions, matching the mixed focused-and-jumping pattern seen in debugging rather than the more uniform reading or highly dispersed browsing/play patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small central-left region with many short fixations and back-and-forth saccades between a mid-height band and a lower band (around y\u2248230\u2013350 vs. y\u2248520\u2013600), consistent with repeatedly alternating between code editor area and output/console or reference elements, typical for WRITE. The pattern lacks the systematic horizontal scans of READ and the broader exploratory jumps of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

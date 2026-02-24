@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains clustered near a single region with very small spatial dispersion and long fixation durations (often >1 s), with only tiny corrective saccades and no systematic horizontal sweeps or large-amplitude target-following. This pattern best matches sustained fixation on a static central target rather than reading, structured saccades, gaming, or dynamic video viewing.",
+  "correct": true
+}

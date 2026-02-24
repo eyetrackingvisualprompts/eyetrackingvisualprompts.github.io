@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large vertical shifts with scattered horizontal exploration and intermittent focused reading-like segments, closely matching the SEARCH example pattern of scanning results and jumping between items, rather than the more structured line sweeps of READ or the more localized patterns of coding tasks (INTERPRET/DEBUG/WRITE).",
+  "correct": false
+}

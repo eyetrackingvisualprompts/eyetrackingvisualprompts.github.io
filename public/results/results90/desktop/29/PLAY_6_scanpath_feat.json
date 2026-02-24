@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze covers a large vertical span with frequent shifts between upper and lower regions and irregular scanpaths, unlike the more compact clusters of BROWSE/SEARCH or the horizontal bands of READ/WRITE, matching dynamic viewing of changing content typical for WATCH.",
+  "correct": false
+}

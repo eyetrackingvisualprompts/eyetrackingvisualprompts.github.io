@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large-amplitude movements spanning from about +8 to -8 degrees horizontally and a similarly wide vertical range, with long, relatively stable clusters interleaved by rapid transitions. This pattern matches a single moving target that jumps to new positions and is then held for about a second, consistent with the Random Saccades task rather than continuous horizontal-only motion, dense line-wise scanning, or free, stimulus-driven viewing.",
+  "correct": false
+}

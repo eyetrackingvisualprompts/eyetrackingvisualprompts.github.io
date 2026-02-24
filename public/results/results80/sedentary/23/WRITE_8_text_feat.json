@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around code-like regions (mid-screen), with frequent medium-length fixations and repeated revisits between a few line/column clusters, including jumps to header/upper areas and back. The pattern shows iterative checking and re-checking of specific locations rather than smooth line-by-line reading (READ) or broad page scanning (BROWSE/SEARCH), and lacks the large, dynamic spatial sweeps typical of PLAY/WATCH. This focused, back-and-forth inspection of localized areas is most consistent with debugging activity in an IDE.",
+  "correct": false
+}

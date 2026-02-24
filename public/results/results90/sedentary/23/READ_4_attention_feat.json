@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows dense, vertically elongated fixation patterns concentrated in a central column, closely matching the example READ pattern indicative of continuous text reading rather than localized code or dynamic object tracking.",
+  "correct": true
+}

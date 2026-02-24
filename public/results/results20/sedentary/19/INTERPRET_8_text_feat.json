@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small central-left code-like region with repeated back-and-forth fixations among nearby coordinates and relatively long dwell times, closely matching the INTERPRET example\u2019s localized, revisiting pattern over a snippet, unlike the more dispersed navigation of WRITE/DEBUG or horizontal scanning of READ/BROWSE/SEARCH.",
+  "correct": true
+}

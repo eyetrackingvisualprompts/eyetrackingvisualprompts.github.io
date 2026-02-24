@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated around a central region with many medium-duration fixations and frequent rapid saccades to distant points (e.g., jumps to ~1500\u20131600 px and back), consistent with tracking dynamic game elements rather than line-by-line reading or code inspection patterns seen in WRITE/DEBUG/INTERPRET/READ. The spatial spread and back-and-forth movements also differ from the more vertically structured scroll-and-skim behavior of BROWSE/SEARCH, aligning best with PLAY.",
+  "correct": true
+}

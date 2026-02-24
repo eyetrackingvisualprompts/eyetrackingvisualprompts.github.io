@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows step-like horizontal movements with relatively small vertical shifts, consistent with line-by-line reading across a mostly static text layout rather than large exploratory or dynamic scene scanning seen in search, browsing, or games.",
+  "correct": false
+}

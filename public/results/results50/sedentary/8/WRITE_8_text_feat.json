@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with many medium-to-long fixations and short, local saccades, plus occasional regressions along roughly the same y-levels\u2014typical of line-by-line reading\u2014unlike the larger vertical and spatial shifts seen in browsing, search, code, or video/game tasks.",
+  "correct": false
+}

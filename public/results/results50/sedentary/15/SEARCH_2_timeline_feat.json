@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-to-large horizontal movements with irregular vertical shifts and frequent saccades, indicating transitions between query box, results list, and different snippets or links. This mixed scanning and focused reading pattern best matches the SEARCH activity among the provided examples.",
+  "correct": true
+}

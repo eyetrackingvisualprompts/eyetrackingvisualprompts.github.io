@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact region on the left side with repeated short horizontal and vertical saccades, consistent with focusing on a small text/code area in an IDE rather than scanning across wider content as in reading, browsing, or watching video; this pattern best matches concentrated code writing/editing behaviour.",
+  "correct": true
+}

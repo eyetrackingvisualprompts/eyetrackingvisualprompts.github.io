@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow horizontal band around y\u22480.69\u20130.75 with short, small-amplitude saccades and many medium/long fixations, forming left\u2013right micro-movements and slight vertical shifts typical of line-by-line reading, closely matching the READ example and differing from the more scattered, multi-region patterns of SEARCH/BROWSE and the broader spatial spread of WATCH/PLAY or the left-top clustering of WRITE.",
+  "correct": false
+}

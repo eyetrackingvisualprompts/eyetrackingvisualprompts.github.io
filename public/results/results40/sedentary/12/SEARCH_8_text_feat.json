@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large saccades between widely separated screen regions (top-left text-like area, central, and bottom/right), with many revisits to the upper search-bar region and short fixations around coordinates typical for SERP snippets, match the exploratory, result-scanning pattern seen in the SEARCH examples more than the systematic line-wise horizontal motion of READ or the localized code-centered patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between widely separated positions across both horizontal and vertical dimensions, with large amplitudes (around \u00b120\u00b0 horizontally and up to \u00b117\u00b0 vertically) and relatively long, regular fixations (~0.2\u20130.4s) at each location, matching the pattern of following a randomly moving target rather than the more patterned or constrained movements of reading, video viewing, games, or purely horizontal saccades.",
+  "correct": false
+}

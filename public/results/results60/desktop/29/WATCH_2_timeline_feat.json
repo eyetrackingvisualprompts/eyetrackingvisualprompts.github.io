@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with moderate, irregular saccades in both axes and no strong directional scanning pattern, closely matching the browsing example rather than the more structured (READ/WRITE) or more dynamic (PLAY/WATCH/SEARCH) patterns.",
+  "correct": false
+}

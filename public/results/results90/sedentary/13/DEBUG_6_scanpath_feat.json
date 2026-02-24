@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a confined left-center code area with occasional long saccades, closely matching the INTERPRET example pattern of focused inspection of a single code snippet rather than the wider spread of DEBUG or WRITE.",
+  "correct": false
+}

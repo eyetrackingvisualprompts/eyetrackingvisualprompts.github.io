@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal exploration with several vertical shifts and varied fixation locations, more scattered than READ/WRITE/INTERPRET/DEBUG but less dynamic than WATCH/PLAY, matching the heterogeneous patterns typical of web browsing multiple page regions.",
+  "correct": false
+}

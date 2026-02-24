@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows multiple spatially separated fixation clusters with substantial saccades between mid and upper-right regions, resembling the exploratory, multi-area viewing seen in the SEARCH example rather than the more localized patterns of READ, WRITE, or BROWSE.",
+  "correct": false
+}

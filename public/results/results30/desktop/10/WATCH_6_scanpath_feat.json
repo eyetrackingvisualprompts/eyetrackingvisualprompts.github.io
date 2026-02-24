@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Scanpath shows predominantly horizontal movements along a narrow vertical band, matching the line-by-line reading pattern seen in the READ example rather than the more clustered or multi-directional patterns of other activities.",
+  "correct": false
+}

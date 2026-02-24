@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze moves broadly and continuously over large screen regions, including frequent shifts between central, upper, and lower areas with smooth trajectories and relatively few tight, line-based fixations. This wide, dynamic spatial coverage and absence of structured reading or code-scanning patterns align best with passively following visual content in a video (WATCH) rather than the more localized, systematic patterns seen in reading, coding, searching, or gameplay tracking of small moving targets.",
+  "correct": false
+}

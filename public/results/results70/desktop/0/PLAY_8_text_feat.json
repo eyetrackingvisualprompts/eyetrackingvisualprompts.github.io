@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is distributed widely over the screen, with many large, rapid saccades between distant regions (including extremes like near (0.54,0.03) then to (0.55,1.00) then (0.74,0.49)), shorter fixations, and no stable horizontal line/paragraph structure. This dynamic, multi-directional scanning pattern aligns best with interactive gameplay rather than the more line-structured or centrally focused patterns of reading, writing, browsing, search, or passive watching.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "Gaze progresses mainly left-to-right with clustered fixations forming a roughly horizontal band and short regressions, consistent with line-by-line text reading rather than large, repetitive horizontal sweeps or random multi-directional jumps.",
+  "correct": false
+}

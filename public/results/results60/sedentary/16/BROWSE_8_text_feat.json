@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extreme periphery and high/low Y), with many short fixations and rapid revisits to central/game-like areas, match dynamic object-following/navigation patterns typical of PLAY rather than the more line- or block-structured, stationary patterns of reading, coding, or web tasks.",
+  "correct": false
+}

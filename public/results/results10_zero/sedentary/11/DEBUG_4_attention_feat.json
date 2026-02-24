@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a small, upper-left region with minimal horizontal or vertical spread, consistent with viewing a compact text block (e.g., a short paragraph or heading) rather than scanning wider areas or dynamic content typical of play, browsing, search, or video watching.",
+  "correct": false
+}

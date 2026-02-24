@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and center), many returns between dispersed locations, and relatively short fixations indicate continuous visuomotor tracking typical of gameplay rather than structured line-by-line reading, code inspection, or search/result scanning.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly concentrated in a limited area on the left-middle where search results and snippet text usually appear, with repeated vertical movements and occasional long saccades to the bottom-left and lower center consistent with checking new results or a result page, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

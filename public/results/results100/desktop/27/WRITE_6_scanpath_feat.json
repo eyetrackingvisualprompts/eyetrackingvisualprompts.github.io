@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal eye movements with a narrow vertical range, consistent with line-by-line reading behavior rather than the broader, more scattered patterns seen in search, browse, watch, play, or write tasks.",
+  "correct": false
+}

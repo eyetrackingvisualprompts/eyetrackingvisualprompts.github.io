@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered near the screen center with moderate dispersion and occasional small excursions, resembling the provided SEARCH pattern more than the denser central BROWSE cluster or the more linear READ pattern.",
+  "correct": false
+}

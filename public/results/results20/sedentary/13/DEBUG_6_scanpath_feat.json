@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a compact cluster in the upper-left (likely search box/results) and a long horizontal line near the bottom (another area such as a result or separate panel), with large vertical saccades connecting them\u2014characteristic of scanning search results rather than focused reading, coding, or continuous watching/playing.",
+  "correct": false
+}

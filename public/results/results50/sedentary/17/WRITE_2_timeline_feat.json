@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze shows mostly horizontal scanning with moderate, localized saccades and relatively constrained vertical range, closely matching the INTERPRET example pattern of focused code inspection without the broader vertical exploration seen in SEARCH/BROWSE or the stronger horizontal progression of READ.",
+  "correct": false
+}

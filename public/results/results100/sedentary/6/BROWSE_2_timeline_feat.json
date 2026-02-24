@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The target data shows consistent horizontal saccade patterns with slowly increasing Y fixation, matching line-by-line reading behavior and closely resembling the READ example plot in both trajectory and variability, unlike the more variable browsing/searching or code-related tasks.",
+  "correct": false
+}

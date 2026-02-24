@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-amplitude saccades between spatially separated clusters (center, lower, upper edge, and an off-screen-like area), with moderate fixation durations, matches scanning of a search-results page (title, snippet, sidebar, and viewport edges) rather than the more line-structured patterns of READ or the more localized, code-region-focused patterns of WRITE/INTERPRET/DEBUG or object-following of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show predominantly horizontal movements within narrow vertical bands, with short progressive and regressive steps and occasional line changes\u2014typical of line-by-line reading behavior rather than large, rapid shifts or object tracking associated with games, video watching, or coding tasks.",
+  "correct": false
+}

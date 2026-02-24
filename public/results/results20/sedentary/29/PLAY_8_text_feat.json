@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including to extreme right/top), irregular scanpaths without clear line-by-line or code-structure reading, and long ballistic movements between dispersed points resemble visually tracking moving objects in a game more than the more localized, structured patterns seen in READ/WRITE/DEBUG/INTERPRET or the mixed but less extreme movements in BROWSE/SEARCH/WATCH.",
+  "correct": true
+}

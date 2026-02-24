@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate vertical variation with frequent shifts between mid and upper screen regions and horizontally around the central band, reflecting alternating attention between search box, results list, and page content. This mixed scanning pattern aligns better with SEARCH than the more line-structured READ or stable WATCH patterns.",
+  "correct": false
+}

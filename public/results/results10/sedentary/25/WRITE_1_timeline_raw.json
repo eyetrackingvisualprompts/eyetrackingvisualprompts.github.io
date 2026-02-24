@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is mostly stable with gradual horizontal shifts and moderate vertical movement, plus a few sharp upward spikes resembling quick looks between the code editor and auxiliary UI elements, matching the example WRITE pattern more than the others.",
+  "correct": true
+}

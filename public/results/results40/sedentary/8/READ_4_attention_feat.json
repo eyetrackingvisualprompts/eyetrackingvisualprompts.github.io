@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated around the central vertical region with substantial spread and continuous coverage, resembling tracking of moving objects or avatars across the play area, similar to the PLAY example and unlike the more localized code or text-focused patterns of INTERPRET, DEBUG, READ, or WRITE.",
+  "correct": false
+}

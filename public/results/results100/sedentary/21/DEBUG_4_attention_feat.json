@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are tightly clustered over a mid-left code area with some limited vertical spread, closely matching the DEBUG example heatmap pattern more than WRITE or INTERPRET, which show slightly different fixation centers and spreads.",
+  "correct": true
+}

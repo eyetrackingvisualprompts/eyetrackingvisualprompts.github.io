@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent large vertical transitions between high and low Y positions with extended fixations at several horizontal regions, resembling scanning between code, error locations, and output, which matches the DEBUG pattern more than the steadier, more linear movements of reading, browsing, or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near screen center with small smooth drifts and brief local adjustments, without systematic horizontal scanpaths (reading/writing/search/browsing) or large multi-directional excursions (active gameplay). This stable, centrally focused pattern is most consistent with passively watching video content.",
+  "correct": false
+}

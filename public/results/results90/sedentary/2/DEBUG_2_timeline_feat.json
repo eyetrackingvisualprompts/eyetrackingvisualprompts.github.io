@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered around a narrow vertical band with small, steady movements and very few large saccades, matching the focused, code-centered viewing pattern seen in INTERPRET rather than the broader scanning or dynamic patterns of other tasks.",
+  "correct": false
+}

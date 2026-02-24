@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain near the screen center with small, smooth fluctuations and few large saccades, consistent with passively watching a video rather than scanning text (READ/WRITE) or exploring multiple locations (SEARCH/BROWSE/PLAY).",
+  "correct": true
+}

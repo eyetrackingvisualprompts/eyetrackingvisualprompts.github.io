@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Long, repeated fixations and small saccades clustered around a stable code-like region (x\u2248150\u2013300,y\u2248230\u2013480) with occasional large jumps to other areas are characteristic of focused code editing rather than continuous horizontal scanning (READ) or broader web layout exploration (BROWSE/SEARCH); the pattern best matches WRITE behavior in the examples.",
+  "correct": false
+}

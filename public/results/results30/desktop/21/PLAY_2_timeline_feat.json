@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large vertical shifts between upper and lower screen regions with relatively smooth horizontal changes, matching patterns seen when following dynamic video content rather than line-by-line reading or focused text entry/browsing.",
+  "correct": false
+}

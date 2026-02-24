@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form mainly horizontal scanlines within a narrow vertical band, showing systematic left-right saccades and line transitions typical of reading text rather than the more scattered or centralized patterns of browsing, searching, gaming, writing, or watching video.",
+  "correct": false
+}

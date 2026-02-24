@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact region on the upper-left, with minimal spread elsewhere, matching the focused, localized gaze pattern seen when interpreting a short code snippet rather than the more dispersed patterns of browsing, searching, or debugging.",
+  "correct": false
+}

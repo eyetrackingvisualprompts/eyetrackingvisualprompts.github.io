@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long vertical and horizontal jumps across the page, revisits between top address/search regions and lower content areas, and scattered exploration patterns resemble the SEARCH examples more than the tighter, line-based READ patterns or more localized code-focused (INTERPRET/DEBUG/WRITE) or dynamic object-tracking (PLAY/WATCH) behaviors.",
+  "correct": true
+}

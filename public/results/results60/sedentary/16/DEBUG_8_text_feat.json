@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays within a relatively confined region around mid-lower screen with dense, repetitive fixations and short saccades between nearby points, consistent with monitoring and editing text in an IDE. There are no long, smooth horizontal scanpaths of reading, no large search-result or browser-like jumps, and no large off-center excursions typical of games or videos, aligning best with the WRITE code-implementation patterns among the examples.",
+  "correct": false
+}

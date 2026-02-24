@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is heavily concentrated in a single compact region on the left side with minimal horizontal scanning or line-by-line movement, indicating sustained attention to a localized visual stimulus rather than reading or code-related tasks, which would show systematic horizontal/vertical patterns; this is most consistent with passively watching a video where relevant content appears in one area of the screen.",
+  "correct": false
+}

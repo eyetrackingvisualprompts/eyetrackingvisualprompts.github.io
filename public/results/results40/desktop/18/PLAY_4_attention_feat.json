@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around a central horizontal region with limited vertical spread and without the extended horizontal scanlines typical of reading or writing, and with less spatial dispersion than gameplay or search; this localized yet non-linear cluster best matches the browsing pattern example.",
+  "correct": false
+}

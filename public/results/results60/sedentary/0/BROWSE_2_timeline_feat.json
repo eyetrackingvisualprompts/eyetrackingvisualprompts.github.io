@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large vertical saccades with horizontally clustered fixations, shifts between a few horizontal bands, and occasional large jumps resemble scanning result lists and moving to content pages, matching the SEARCH pattern more than the more uniform READ/INTERPRET or the more erratic PLAY/WATCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large vertical shifts in Y fixation between upper and lower screen regions with intermittent horizontal scanning, resembling navigation between search box, results list, and different content areas rather than the more stable horizontal bands of READ or WRITE or the tighter patterns of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered on a single left-side code block with a compact vertical span and only minor excursions, matching the focused inspection pattern of INTERPRET more than the denser, slightly broader cluster seen in WRITE or the more dispersed DEBUG pattern.",
+  "correct": true
+}

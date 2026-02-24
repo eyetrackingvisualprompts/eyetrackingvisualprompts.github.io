@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left side where code typically appears, with scattered looks to a few positions on the right, matching the distributed, revisiting pattern seen in the DEBUG example more than the other classes.",
+  "correct": true
+}

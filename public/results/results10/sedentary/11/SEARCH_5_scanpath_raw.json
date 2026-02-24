@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Large, long-distance saccades between top and bottom of the screen with periods of localized fixations near code-like regions match the WRITE example scanpath more closely than other tasks.",
+  "correct": false
+}

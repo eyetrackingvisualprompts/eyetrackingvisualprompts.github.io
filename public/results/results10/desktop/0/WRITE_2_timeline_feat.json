@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is highly stable with small, regular horizontal movements and nearly constant vertical positions, matching line-by-line reading behavior and differing from the larger, multi-directional shifts seen in browsing, search, play, watch, or write tasks.",
+  "correct": false
+}

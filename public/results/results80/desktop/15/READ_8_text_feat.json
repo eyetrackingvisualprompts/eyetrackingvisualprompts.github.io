@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades covering wide screen regions (from central to extreme corners and back), mixed with shorter local adjustments and relatively brief fixations, indicate rapid spatial re-orientations typical of game navigation rather than the more horizontally structured, line-based patterns of READ/WRITE or the more central, slower shifts of WATCH/BROWSE/SEARCH.",
+  "correct": false
+}

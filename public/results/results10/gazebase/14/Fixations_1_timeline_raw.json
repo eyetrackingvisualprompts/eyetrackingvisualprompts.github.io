@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain nearly constant around the screen center with only minor noise and a single brief blink-like drop, matching the static central fixation pattern rather than larger or structured movements seen in other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The strongest fixation cluster is on the left-central area, with occasional looks to the far right side, matching the WRITE example where attention alternates between the code editor and a side panel or console, rather than the tighter single-block focus of INTERPRET or the broader spread of DEBUG.",
+  "correct": true
+}

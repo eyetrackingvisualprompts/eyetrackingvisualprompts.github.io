@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a narrow horizontal band near the upper part of the page (y\u22480.18\u20130.30) with small local shifts and repeated short fixations, consistent with scanning menus/headers or top-of-page content while browsing, rather than the larger vertical sweeps of SEARCH or the mid-screen focus of READ/WATCH/PLAY or the upper-right focus of WRITE.",
+  "correct": false
+}

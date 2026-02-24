@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in a compact area on the left side with some vertical spread and a few scattered checks elsewhere, closely matching the DEBUG example\u2019s focused inspection of a code block with occasional glances to other UI elements, more so than the slightly higher, narrower cluster seen in INTERPRET.",
+  "correct": false
+}

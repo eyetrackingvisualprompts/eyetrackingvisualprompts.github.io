@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large saccades in both X and Y with alternating clusters of horizontal reading-like movements and rapid jumps to different regions, matching the mixed reading-and-navigation behavior typical of search engine use rather than more uniform reading/interpreting or continuous watching/playing patterns.",
+  "correct": false
+}

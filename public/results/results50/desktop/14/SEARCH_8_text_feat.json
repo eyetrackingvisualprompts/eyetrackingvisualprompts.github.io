@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in the upper part of the screen with long stable fixations around (x\u22480.45\u20130.5, y\u22480.95\u20131.0) and relatively small local shifts, interspersed with occasional large vertical and diagonal saccades across the screen. This pattern\u2014sustained upper-screen viewing with episodic larger reorientations\u2014matches the WATCH examples and is unlike the more line-structured horizontal scanning of READ/WRITE or the highly scattered, multi-directional SEARCH/BROWSE/PLAY patterns.",
+  "correct": false
+}

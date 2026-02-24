@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is tightly clustered around the central upper area with minimal horizontal spread, matching the BROWSE example pattern more closely than the wider horizontal scan of READ or the broader dispersions of PLAY/SEARCH/WATCH/WRITE.",
+  "correct": true
+}

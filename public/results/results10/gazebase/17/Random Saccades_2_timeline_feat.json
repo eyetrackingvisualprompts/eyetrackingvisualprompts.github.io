@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Reading",
+  "reason": "X fixation shows mostly monotonic progression with occasional regressions while Y fixation stays within a narrow band and slowly drifts, matching the left-to-right line-by-line scanning pattern characteristic of reading rather than the larger, more random or purely horizontal movements in other tasks.",
+  "correct": false
+}

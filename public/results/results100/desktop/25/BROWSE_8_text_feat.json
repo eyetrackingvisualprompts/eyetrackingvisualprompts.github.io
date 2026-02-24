@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows frequent medium-to-large saccades across both horizontal and vertical directions around the central and lower screen, with varied, non-systematic fixations and occasional rapid shifts to extreme positions\u2014patterns consistent with dynamic game interaction rather than structured horizontal line scanning (READ), focused central video watching (WATCH), or top-centered web/document navigation (BROWSE/SEARCH/WRITE).",
+  "correct": false
+}

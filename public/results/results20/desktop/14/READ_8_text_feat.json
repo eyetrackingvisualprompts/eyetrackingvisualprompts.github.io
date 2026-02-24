@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows many medium-to-long saccades between widely separated regions (top, middle, and side areas) with short-to-moderate fixations, consistent with scanning heterogeneous SERP/content areas in web search rather than the more line-structured, locally horizontal progressions typical of reading or the narrower, more central patterns in write/browse/play examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight, horizontally-elongated cluster near the screen center with small, orderly progressions, matching the stable, line-by-line scanning typical of reading rather than the broader, more scattered patterns seen in browsing, searching, watching video, playing games, or writing (which clusters more toward the top-left).",
+  "correct": false
+}

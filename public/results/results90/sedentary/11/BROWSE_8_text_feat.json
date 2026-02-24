@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Long sequences of horizontal fixations near the top of the screen at search\u2011bar / navigation-bar height, interleaved with large saccades across the page and occasional vertical moves, closely match the SEARCH examples\u2019 pattern of scanning result titles and navigation elements rather than the line\u2011by\u2011line structure of READ or the more free, heterogeneous movements of BROWSE or WATCH.",
+  "correct": false
+}

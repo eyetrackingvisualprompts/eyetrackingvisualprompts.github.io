@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement around the screen center with several larger vertical shifts and intermittent saccades, indicating switching between elements such as query box, result list, and possibly different pages\u2014most consistent with the SEARCH pattern among the provided examples.",
+  "correct": false
+}

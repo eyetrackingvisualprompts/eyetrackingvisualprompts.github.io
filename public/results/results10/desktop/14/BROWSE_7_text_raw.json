@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-scale shifts between several vertical bands and horizontal strata, with repeated fixations around a few mid-screen regions and occasional jumps up/down the page. This pattern aligns best with browsing-style scanning of heterogeneous web/news content, and visually resembles the BROWSE example more than the more regular line-by-line READ pattern or the highly dynamic PLAY trajectories.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cover a relatively broad but still code-focused central-left area, with multiple clusters and vertical shifts similar to the DEBUG example, indicating scanning back and forth through code and related UI elements rather than the tighter, more localized patterns of WRITE or INTERPRET or the wider dispersion of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

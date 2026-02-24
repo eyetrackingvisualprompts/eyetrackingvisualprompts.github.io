@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions remain around mid-screen with moderate, irregular exploration and no strong upward drift (unlike WRITE) or large vertical spans (unlike WATCH/PLAY). Patterns resemble mixed horizontal/vertical scanning similar to the BROWSE example rather than the more structured, line-based movements of READ or the top-focused SEARCH layout.",
+  "correct": false
+}

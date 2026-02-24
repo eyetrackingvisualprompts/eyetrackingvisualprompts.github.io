@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a mid-screen horizontal band with smooth, continuous shifts and short-range jitter, consistent with following dynamic visual content in a video rather than line-by-line reading or code/GUI inspection. The pattern lacks the structured line transitions of READ/SEARCH and the localized, iterative clusters typical of coding-related tasks, aligning best with WATCH.",
+  "correct": false
+}

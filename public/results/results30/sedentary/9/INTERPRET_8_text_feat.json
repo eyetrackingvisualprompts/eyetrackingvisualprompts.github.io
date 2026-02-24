@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Long, slow saccades with extended durations between distant regions (top, bottom, corners) and prolonged dwelling in scattered areas, including jumps to near-screen-edge coordinates, resemble exploratory scrolling and page navigation seen in BROWSE more than the structured line-by-line patterns of READ or the focal, code-centered patterns of programming tasks.",
+  "correct": false
+}

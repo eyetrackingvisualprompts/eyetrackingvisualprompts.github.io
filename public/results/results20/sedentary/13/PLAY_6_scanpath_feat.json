@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread horizontally across a mid-screen band with several medium-length saccades between clusters, indicating scanning across different parts of a webpage rather than the tight vertical block of reading or the focused small-area patterns of coding tasks; movement is also less dispersed than in WATCH or PLAY, matching the browsing example.",
+  "correct": false
+}

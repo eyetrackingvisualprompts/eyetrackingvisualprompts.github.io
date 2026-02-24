@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster in a mid-screen region with frequent, short saccades among several nearby locations, showing more spatial dispersion than focused horizontal reading but less than dynamic gaming or video watching, matching the exploratory, multi-element inspection typical of web search result pages.",
+  "correct": false
+}

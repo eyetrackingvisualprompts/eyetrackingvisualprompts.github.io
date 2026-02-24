@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated in a compact region in the upper-left area with minimal spread elsewhere, matching the focused fixation pattern on a small code snippet seen in the INTERPRET examples, rather than the broader distributions characteristic of browsing, reading text blocks, searching, or playing/watching.",
+  "correct": false
+}

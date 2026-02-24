@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mid-level variability in both X and Y with frequent but not extreme saccades and no strong directional pattern (unlike horizontal sweeps in READ or more constrained bands in WATCH/WRITE). This heterogeneous, exploratory pattern best matches the browsing behavior seen in the BROWSE example.",
+  "correct": true
+}

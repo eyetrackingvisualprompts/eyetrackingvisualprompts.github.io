@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show predominantly horizontal movements with relatively small vertical shifts and periodic regressions, consistent with line-by-line reading behavior rather than large exploratory saccades (SEARCH/BROWSE), continuous motion tracking (WATCH/PLAY), or code-focused scanning (WRITE/INTERPRET/DEBUG).",
+  "correct": false
+}

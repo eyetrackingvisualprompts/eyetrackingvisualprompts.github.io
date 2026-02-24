@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze is tightly concentrated in a narrow horizontal band near the screen center, with minimal vertical spread and limited dispersion elsewhere, matching the stable, line-by-line fixation pattern characteristic of reading text rather than the broader, more scattered distributions seen in search, browsing, watching videos, writing, or playing games.",
+  "correct": false
+}

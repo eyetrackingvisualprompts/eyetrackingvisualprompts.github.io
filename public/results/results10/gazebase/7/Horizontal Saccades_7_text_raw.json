@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The target data shows large, repeated horizontal transitions between far left and far right gaze positions around \u00b116\u201317\u00b0 with relatively stable vertical coordinates and small oscillations at each extreme, matching the structured left-right tracking pattern of the Horizontal Saccades class rather than the more irregular or multidirectional movements of other tasks.",
+  "correct": true
+}

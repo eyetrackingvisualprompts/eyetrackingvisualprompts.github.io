@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades with shifts between two vertical regions, resembling movement between search results and linked pages. The pattern closely matches the SEARCH example more than the others.",
+  "correct": false
+}

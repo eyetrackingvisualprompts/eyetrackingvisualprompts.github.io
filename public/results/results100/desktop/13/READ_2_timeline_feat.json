@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces show gradual, staircase-like horizontal progression with limited vertical variation and periodic regressions, closely matching the structured left-to-right, line-by-line pattern seen in the READ example rather than the more scattered or multi-directional movements of other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows frequent long saccades spanning large portions of the horizontal axis, rapid direction changes, and coverage across much of the central screen rather than confined lines or regions. This dynamic, wide-ranging pattern is more consistent with visually tracking and reacting to moving objects in a game than with the more structured, line-based or region-focused gaze of reading, coding, or searching tasks.",
+  "correct": false
+}

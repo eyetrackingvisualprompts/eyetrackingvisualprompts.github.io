@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly concentrated around the center of the screen with minimal horizontal or vertical scanning, consistent with passively watching a full-screen video rather than reading text, coding, or searching/browsing which show more spread and structured scan paths.",
+  "correct": false
+}

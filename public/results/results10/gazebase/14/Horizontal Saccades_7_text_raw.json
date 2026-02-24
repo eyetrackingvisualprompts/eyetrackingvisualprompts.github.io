@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between far left (\u2248-15\u00b0) and far right (\u2248+15\u00b0) horizontal positions with relatively small vertical variation and extended periods of local jitter around each extreme, matching the pattern of tracking a horizontally oscillating target rather than random jumps or more complex free-viewing/reading patterns.",
+  "correct": true
+}

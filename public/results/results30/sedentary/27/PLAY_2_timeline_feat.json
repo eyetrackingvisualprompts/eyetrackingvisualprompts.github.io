@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several horizontal scan segments with occasional larger vertical transitions, resembling reading result snippets interleaved with shifts across different regions of a search results page, matching the SEARCH pattern more than the steadier READ or more chaotic PLAY/BROWSE behaviors.",
+  "correct": false
+}

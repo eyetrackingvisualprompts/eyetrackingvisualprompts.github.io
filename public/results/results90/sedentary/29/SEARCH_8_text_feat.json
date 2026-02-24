@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across the entire screen (including off-content extremes), repeated returns to a mid\u2013lower vertical band, and many short fixations around similar Y-levels indicate dynamic tracking of moving targets typical of gameplay rather than the more line-structured, left-to-right patterns of reading/browsing or the focused code-region patterns of programming tasks.",
+  "correct": false
+}

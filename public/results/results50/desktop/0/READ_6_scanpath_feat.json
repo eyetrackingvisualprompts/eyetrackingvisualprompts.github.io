@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements with tightly clustered fixations aligned in bands, matching line-by-line reading behavior and closely resembling the READ example pattern more than the other task types.",
+  "correct": true
+}

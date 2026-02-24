@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered in a compact central region with frequent short saccades in multiple directions, resembling the exploratory, locally confined pattern of the BROWSE example more than the more linear paths of READ/WRITE or the larger, more dispersed movements of SEARCH/WATCH/PLAY.",
+  "correct": false
+}

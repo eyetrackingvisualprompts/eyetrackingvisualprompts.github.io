@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows a long, smooth horizontal sweep across the upper part of the screen with relatively few clustered fixations, closely resembling the WATCH example where gaze tracks moving elements in a video rather than dense, repetitive reading or localized interaction patterns seen in other tasks.",
+  "correct": false
+}

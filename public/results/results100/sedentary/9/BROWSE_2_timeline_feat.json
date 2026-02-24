@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows irregular horizontal and vertical movements with varied fixation locations and mid-sized saccades, lacking the systematic horizontal scan of READ and the tight code-centered patterns of programming tasks; this heterogeneous exploration best matches SEARCH behavior on results pages and linked content.",
+  "correct": false
+}

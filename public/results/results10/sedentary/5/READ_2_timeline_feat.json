@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively stable horizontal fixation positions with a slow, slight upward drift in X and very small changes in Y, indicating line-by-line reading without large exploratory jumps or dynamic shifts seen in search, browse, or play tasks. This pattern best matches the READ example.",
+  "correct": true
+}

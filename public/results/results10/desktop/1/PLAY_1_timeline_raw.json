@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal scanning with several plateau-like segments and occasional vertical shifts, resembling the mixed reading-and-navigation pattern in the SEARCH example more than the steadier READ or more static BROWSE/WRITE patterns.",
+  "correct": false
+}

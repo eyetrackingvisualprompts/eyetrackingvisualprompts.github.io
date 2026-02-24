@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is largely confined to a mid\u2011screen code region with many short, local regressions and repeated revisits to the same lines, interspersed with occasional long saccades to other interface areas (e.g., top of screen, bottom region), plus extended fixations suggestive of reasoning about code behavior and checking outputs\u2014patterns that closely match the provided DEBUG examples rather than the more linear (READ/INTERPRET) or highly exploratory (SEARCH/BROWSE/PLAY) behaviors.",
+  "correct": false
+}

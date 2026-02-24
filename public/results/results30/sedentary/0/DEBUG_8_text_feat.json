@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with mostly left-right progressions and short regressions, plus a few vertical transitions between nearby bands\u2014this pattern closely matches line-by-line text reading rather than the broader spatial exploration seen in browsing, searching, coding, or gameplay.",
+  "correct": false
+}

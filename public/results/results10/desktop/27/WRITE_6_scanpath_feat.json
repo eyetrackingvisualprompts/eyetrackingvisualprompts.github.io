@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are tightly clustered in a small central region with short, local saccades and minimal horizontal or vertical sweep, indicating focused attention on a compact area (likely a search box or result snippet) rather than the extended line-by-line scans of reading/browsing or the broader movements typical of watching video or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Wide, frequent saccades across large screen regions (including corners and edges), repeated returns to central play area, and dynamic vertical and horizontal jumps resemble tracking moving game elements rather than structured line-by-line reading or code inspection patterns seen in WRITE/DEBUG/INTERPRET or WATCH/READ/BROWSE.",
+  "correct": false
+}

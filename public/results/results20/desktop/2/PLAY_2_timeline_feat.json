@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Long period of mid-screen horizontal fixations with small vertical variation, followed by a late segment of larger vertical saccades and position shifts, matches the mixed but moderate exploration typical of browsing webpages rather than the more structured scanpaths of reading or the more dynamic gaze shifts of playing or watching video.",
+  "correct": false
+}

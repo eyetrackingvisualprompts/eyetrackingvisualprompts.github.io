@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Long saccades between top/URL regions and result/content areas, frequent revisits to dispersed vertical locations, and mixed horizontal scanning patterns resemble the example SEARCH behavior more than the steadier, line-based READ or the more localized code-focused DEBUG/WRITE/INTERPRET patterns.",
+  "correct": false
+}

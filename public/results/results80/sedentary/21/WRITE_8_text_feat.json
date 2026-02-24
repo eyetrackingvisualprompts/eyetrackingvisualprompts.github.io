@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, repeated fixations and re-reading cycles around a compact code-like region (x\u2248250\u2013350,y\u2248400\u2013500) with frequent regressions and several large context-switch saccades to distant screen areas (x>1500, y\u2248450\u2013550) closely match the example DEBUG pattern of alternating local detail inspection with occasional jumps to other IDE panels or outputs, rather than the more linear patterns of READ/WRITE or the smoother motion of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

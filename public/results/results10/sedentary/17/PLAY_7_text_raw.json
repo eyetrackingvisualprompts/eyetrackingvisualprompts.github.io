@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Predominantly horizontal gaze clusters with small vertical shifts and revisits around mid-screen text-like regions, plus occasional long saccades to other areas, best match the stable, line-by-line and paragraph-level scanning patterns seen in the READ examples rather than the more dispersed, object-following, or interface-exploratory behaviors of other tasks.",
+  "correct": false
+}

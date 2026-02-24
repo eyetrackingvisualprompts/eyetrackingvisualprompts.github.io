@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gradual upward drift of both X and Y with a few abrupt vertical shifts matches the SEARCH example, reflecting scanning result lists and moving between query box, results, and page content, rather than the more regular line-by-line patterns of READ or the more static WATCH/WRITE behaviors.",
+  "correct": false
+}

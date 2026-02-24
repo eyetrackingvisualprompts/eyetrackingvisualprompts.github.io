@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, rapid shifts across wide screen regions (center to far right, mid to upper screen, and back), many points near screen edges and corners, and strong vertical excursions toward the bottom\u2014patterns consistent with tracking moving game elements and HUD rather than reading or code-focused tasks.",
+  "correct": true
+}

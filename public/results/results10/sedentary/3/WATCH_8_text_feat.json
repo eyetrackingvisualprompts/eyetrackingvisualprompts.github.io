@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide vertical and horizontal scanning across large screen regions (top, mid, bottom), with medium-length fixations and repeated jumps between dispersed locations, matches the exploratory, result-list-and-page scanning behavior seen in the SEARCH example more than the more localized code (WRITE/DEBUG/INTERPRET) or line-structured reading patterns (READ/BROWSE).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y show large, step-like jumps to many different positions across the full \u00b115/\u00b19 DVA range, with each position roughly held for about one second; this pattern of multi-directional, discrete target-following matches the Random Saccades class rather than the more constrained or patterned movements of the other tasks.",
+  "correct": true
+}

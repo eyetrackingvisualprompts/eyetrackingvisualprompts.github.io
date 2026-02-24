@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between distant screen regions (center, top, off-screen negative coordinates, and far right) with many medium fixations over list-like vertical extents resemble scanning search results and snippets rather than line-by-line reading or focused code inspection/writing; the pattern best matches the provided SEARCH examples with broad exploration across the page and occasional off-page gaze.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are tightly clustered around a small region near the center with a few scattered points above, resembling focused attention on a central search result area with occasional glances to nearby elements\u2014most similar to the SEARCH heatmap among the given examples.",
+  "correct": false
+}

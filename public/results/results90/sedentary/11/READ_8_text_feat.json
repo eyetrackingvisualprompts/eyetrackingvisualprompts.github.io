@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze follows long, smooth, predominantly horizontal scanpaths at multiple nearby vertical positions (y\u2248110\u2013220, then 250\u2013400, then 430\u2013630, etc.), with regular left-to-right and smaller rightward saccades and medium\u2013long fixations, closely matching the line-by-line reading patterns in the READ examples rather than the more scattered, exploratory patterns of browsing/search or the code-focused patterns of programming tasks.",
+  "correct": true
+}

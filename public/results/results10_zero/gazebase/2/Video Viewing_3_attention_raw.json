@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows gaze concentrated in a horizontal band around mid-height with multiple clustered hotspots spread laterally across the screen, indicating repeated gaze shifts along a horizontal trajectory rather than a single central fixation or dispersed/random 2D movements; this best matches the pattern from following a horizontally oscillating target.",
+  "correct": false
+}

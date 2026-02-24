@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The data show continuous, small to moderate, irregular gaze shifts without strict horizontal-only motion or discrete step-like target jumps. There are no long, stable central fixations, structured line-by-line scanpaths, or clear pursuit of discrete game targets. This pattern best matches natural, free-viewing behavior during video viewing.",
+  "correct": true
+}

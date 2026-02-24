@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly concentrated in a narrow central region with relatively small, steady fixations and occasional brief vertical excursions, closely matching the focused, code-editing pattern seen in the WRITE example rather than the more scattered or sweeping patterns of browsing, search, play, or watch tasks.",
+  "correct": false
+}

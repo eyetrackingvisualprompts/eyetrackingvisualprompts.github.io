@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows only a few large saccades with limited fixation dispersion over the 10s window, consistent with following motion or passively viewing a small moving region on the screen rather than systematically reading or scanning text/code, which aligns best with the WATCH activity.",
+  "correct": false
+}

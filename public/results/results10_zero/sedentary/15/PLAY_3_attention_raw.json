@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a concentrated area around the central region with some vertical spread but no clear horizontal line-by-line scan pattern typical of reading or coding tasks. This compact central focus with localized movements is most consistent with watching a video, where visual attention remains near the screen center rather than following structured text or UI elements.",
+  "correct": false
+}

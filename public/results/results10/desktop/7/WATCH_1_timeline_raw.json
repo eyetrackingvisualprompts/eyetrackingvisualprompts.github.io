@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, relatively stable horizontal scanning with small shifts and occasional brief dips, without the strong vertical progression of reading or the larger, more variable movements seen in play, watch, search, or write. This pattern best matches browsing behavior.",
+  "correct": false
+}

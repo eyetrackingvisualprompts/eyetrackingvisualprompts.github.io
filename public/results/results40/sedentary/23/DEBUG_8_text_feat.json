@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a code-like region (mid-left), with frequent short saccades and re-fixations between closely spaced vertical positions, including repeated returns to similar y-coordinates around 450\u2013580 px, characteristic of line-by-line checking and revisiting specific code lines seen in DEBUG examples rather than the more linear patterns of READ/INTERPRET or the broader scanning of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": true
+}

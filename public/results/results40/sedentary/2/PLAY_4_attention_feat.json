@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a horizontal band in the mid-lower left area (typical code editor region) with some additional scattered points, closely resembling the WRITE example heatmap more than the other task patterns.",
+  "correct": false
+}

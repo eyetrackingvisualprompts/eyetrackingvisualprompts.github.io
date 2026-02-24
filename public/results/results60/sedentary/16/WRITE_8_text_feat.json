@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between central text-like regions and multiple distant interface areas (top, bottom, and far right), with frequent vertical jumps and revisits typical of scanning search results and navigating a SERP, closely matching the SEARCH exemplars rather than the more localized, line-by-line patterns of READ/INTERPRET/DEBUG/WRITE or the smooth pursuit and large, continuous motions in WATCH/PLAY.",
+  "correct": false
+}

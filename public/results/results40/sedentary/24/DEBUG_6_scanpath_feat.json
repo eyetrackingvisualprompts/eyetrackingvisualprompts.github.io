@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers multiple vertical regions with saccades from a central-left cluster to mid-right and lower areas, resembling scanning result lists and moving to content rather than the tight code-focused clusters of INTERPRET/DEBUG/WRITE or the broader dispersion of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

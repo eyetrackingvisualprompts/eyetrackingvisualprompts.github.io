@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "Both X and Y positions show gradual, irregular shifts with mixed amplitudes and no strict horizontal-only pattern or regular step-like jumps; this resembles the natural, less structured eye-movement behavior seen during video viewing rather than the more constrained patterns of reading, games, or controlled saccade tasks.",
+  "correct": true
+}

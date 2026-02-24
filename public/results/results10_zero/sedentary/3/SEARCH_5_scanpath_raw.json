@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is confined to a relatively small region on the left side of the screen with rapid, irregular saccades and no systematic horizontal or vertical reading pattern. This clustered, dynamic scanpath is more consistent with tracking game elements in a playing task than with the more structured patterns expected in reading, browsing, or coding-related activities.",
+  "correct": false
+}

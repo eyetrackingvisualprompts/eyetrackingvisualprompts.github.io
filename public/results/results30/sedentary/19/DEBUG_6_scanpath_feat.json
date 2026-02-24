@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively compact central-left area with dense, repeated fixations and short saccades, resembling code inspection and comparison. There is no orderly line-by-line progression typical of reading, nor the broader exploratory movements seen in search or browsing, matching the DEBUG example most closely.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions are mostly confined to a narrow central band with small, slow shifts and few large saccades, closely matching the stable, localized pattern seen in the WRITE example rather than the more dynamic or wide-ranging patterns of reading, browsing, search, or video/game viewing.",
+  "correct": false
+}

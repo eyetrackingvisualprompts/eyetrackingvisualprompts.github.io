@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "Fixations are scattered across both left and right sides, including upper and lower visual field, but not covering the full screen as uniformly as Random Saccades. The clusters suggest attention to multiple, spatially separated moving targets rather than structured patterns like reading or video viewing, which matches the Balura Game behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, progressive horizontal movements with a slowly increasing vertical Y-fixation position and occasional line-return saccades, closely matching the structured left-to-right line-by-line pattern seen in the READ example rather than the more scattered or dynamic patterns of other tasks.",
+  "correct": false
+}

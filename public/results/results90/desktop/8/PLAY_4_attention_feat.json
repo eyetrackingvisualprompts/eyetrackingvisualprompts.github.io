@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread over a central vertical band with multiple scattered hotspots, resembling exploratory scanning of varied web content rather than the tight horizontal band of reading, the upper focus of watching videos, or the corner-focused patterns of writing/playing. This best matches the browsing example heatmap.",
+  "correct": false
+}

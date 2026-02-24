@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-sized horizontal and vertical shifts with alternating focused regions, resembling scanning between search results and snippets. The pattern is more exploratory and less structured than READ, but more text-oriented and less erratic than BROWSE or PLAY, matching the SEARCH example most closely.",
+  "correct": false
+}

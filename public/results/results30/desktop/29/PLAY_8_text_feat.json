@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are long and clustered in a narrow horizontal band around y\u22480.3\u20130.4 with short, small saccades primarily along the horizontal axis, matching the stable line-by-line scanning pattern seen in the READ examples rather than the more scattered, wide-ranging movements of browsing, search, play, or watch tasks.",
+  "correct": false
+}

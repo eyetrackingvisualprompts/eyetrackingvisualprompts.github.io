@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central band with relatively small, steady horizontal and vertical shifts and low saccade frequency, matching the stable code-editing pattern of WRITE rather than the broader scanning seen in SEARCH/BROWSE or the structured left-to-right sweeps of READ.",
+  "correct": false
+}

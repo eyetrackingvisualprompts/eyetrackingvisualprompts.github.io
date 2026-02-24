@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "X positions show stepwise horizontal shifts with returns, while Y remains relatively high and stable with small drifts\u2014consistent with line-by-line reading eye movements rather than large horizontal or random saccades, fixation-only, video viewing, or game-related gaze patterns.",
+  "correct": true
+}

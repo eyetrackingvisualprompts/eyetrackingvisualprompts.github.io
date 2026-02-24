@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a mid-screen horizontal band with many short, local back-and-forth saccades and revisits around similar coordinates, consistent with monitoring and editing a few lines in a code editor while typing, which best matches the WRITE examples rather than the more scanning-heavy SEARCH/DEBUG or linear patterns of READ/INTERPRET.",
+  "correct": false
+}

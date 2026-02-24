@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a narrow horizontal band at mid\u2011screen with short, mostly left\u2013right saccades and minimal vertical exploration, closely matching the structured line-by-line scan pattern seen in the READ example rather than the more dispersed, multi-region patterns of BROWSE, SEARCH, WATCH, or PLAY.",
+  "correct": false
+}

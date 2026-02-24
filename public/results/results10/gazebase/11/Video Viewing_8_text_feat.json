@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between widely separated positions across both horizontal and vertical dimensions, with large, irregular amplitude saccades (often >10\u00b0) and ~200\u2013800 ms fixations. The pattern lacks the strict left-right regularity of horizontal saccades and the line-structured, mostly horizontal pattern of reading, instead matching the random, multi-directional target jumps of the Random Saccades task.",
+  "correct": false
+}

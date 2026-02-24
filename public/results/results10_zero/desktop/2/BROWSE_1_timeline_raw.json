@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay within a narrow central band with smooth, gradual shifts and few rapid large saccades, indicating continuous attention to a central moving stimulus like video content rather than the more structured horizontal/vertical scan patterns typical of reading, searching, browsing, writing, or game play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The X position shows long, smooth rightward sweeps with occasional line-change drops, while the Y position slowly increases with minor variability\u2014closely matching the structured, line-by-line pattern of reading and most similar to the READ example plot.",
+  "correct": true
+}

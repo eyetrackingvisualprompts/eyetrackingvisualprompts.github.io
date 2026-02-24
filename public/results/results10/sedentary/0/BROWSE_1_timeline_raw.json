@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Both X and Y positions show continuous, smooth but non-periodic motion across a broad horizontal range with frequent moderate shifts, resembling dynamic tracking of moving objects as in gameplay rather than the more structured, line-based or segmental patterns seen in reading, coding, or browsing tasks.",
+  "correct": false
+}

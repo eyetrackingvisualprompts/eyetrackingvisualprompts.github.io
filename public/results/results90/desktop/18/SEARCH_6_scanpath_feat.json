@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points cluster in a mid-screen region with frequent multi-directional saccades and revisits across a moderately wide vertical span, resembling the mixed scanning of results lists and page content typical of web searching, and differing from the more linear READ pattern or the more extreme, spread-out PLAY/WATCH movements.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points stay within a central horizontal band with slow, small horizontal shifts and occasional vertical transitions, consistent with line-by-line reading and short regressions rather than large multidirectional saccades typical of PLAY, SEARCH, BROWSE, or WATCH, and without the strong top-left focus and cursor-aligned movements often seen in WRITE tasks.",
+  "correct": false
+}

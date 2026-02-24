@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows sequences of medium-length fixations (\u22480.17\u20130.5s) with mostly small, localized saccades and a few larger re-orienting saccades between two main regions of the screen, consistent with reading text (e.g., switching between paragraphs or columns) rather than the more frequent large exploratory movements typical of browsing, search, or gameplay, or the more passive, wider-ranging scanning seen while watching video.",
+  "correct": false
+}

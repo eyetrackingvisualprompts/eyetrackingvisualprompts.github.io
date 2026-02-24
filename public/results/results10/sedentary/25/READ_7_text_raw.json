@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide spatial dispersion of gaze across both vertical and horizontal directions with many mid\u2011screen and lower\u2011screen clusters, repeated revisits to similar bands, and occasional large jumps (including off-screen\u2013like coordinates) resemble scanning and scrolling through heterogeneous web pages more than the more structured, line-based patterns of READ or the code-focused, tighter clusters of DEBUG/WRITE/INTERPRET. The dynamics and spread also do not match the object-following behavior of PLAY or the more continuous scene-focused viewing in WATCH.",
+  "correct": false
+}

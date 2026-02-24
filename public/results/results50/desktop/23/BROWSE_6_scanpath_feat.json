@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in a central region with frequent medium-range saccades and revisits, similar to scanning search results and SERP elements, matching the SEARCH example more closely than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a horizontally elongated band across the mid-lower screen, matching the typical left-to-right scanning pattern of reading text and closely resembling the READ example heatmap more than the other activities.",
+  "correct": false
+}

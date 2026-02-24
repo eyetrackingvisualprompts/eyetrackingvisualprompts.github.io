@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated around central-mid and lower screen with frequent medium-amplitude vertical shifts toward lower (0.7\u20130.8) and upper (0.1\u20130.3) regions, resembling scanning between content blocks, menus, and article areas as in the BROWSE example; pattern is less line-structured than READ and less wide-ranging/erratic than PLAY or WATCH.",
+  "correct": false
+}

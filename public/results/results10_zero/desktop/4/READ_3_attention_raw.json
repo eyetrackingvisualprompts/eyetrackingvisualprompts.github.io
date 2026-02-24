@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a small cluster of fixations in the mid-lower central region, consistent with watching a localized dynamic area (e.g., main characters or subtitles in a video) rather than the broader vertical/horizontal scan patterns typical of reading, browsing, searching, writing, or gameplay navigation.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a narrow horizontal band near the lower-middle of the screen with a few dense clusters and limited vertical movement, consistent with tracking dynamic content (e.g., characters or objects) in a video rather than scanning lines of text, code, or web pages.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small left-central code area with frequent revisits and limited vertical spread, similar to INTERPRET and less dispersed than DEBUG or WRITE; pattern matches focused inspection of a single code snippet to infer output rather than broader navigation or editing.",
+  "correct": false
+}

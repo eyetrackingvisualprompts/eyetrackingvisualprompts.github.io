@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze repeatedly alternates between a compact vertical region of code (around y\u2248280\u2013360) and the top-of-window area (y\u224850\u2013100), with long, stable fixations over narrow horizontal ranges and frequent small regressions\u2014matching the concentrated, line-by-line inspection and back-and-forth verification typical of interpreting code output, and closely resembling the spatial-temporal patterns shown in the INTERPRET examples rather than the more dispersed navigation of SEARCH/BROWSE or the broader vertical sweeps of READ/WRITE/DEBUG.",
+  "correct": false
+}

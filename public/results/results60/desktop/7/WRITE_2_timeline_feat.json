@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations show a relatively stable horizontal position with moderate vertical variation confined to the lower half of the screen, plus intermittent saccadic bursts\u2014this pattern aligns best with scanning search results and navigating a search page, matching the SEARCH example more closely than the more extensive vertical scanning of READ or the more variable patterns of PLAY/WATCH/BROWSE/WRITE.",
+  "correct": false
+}

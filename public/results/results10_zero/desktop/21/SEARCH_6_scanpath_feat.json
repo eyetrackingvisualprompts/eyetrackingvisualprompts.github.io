@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are tightly clustered in a small central region with short, localized saccades and sustained fixations, indicating focused attention on a confined text area rather than wide exploratory movements typical of search, browsing, or gameplay; this pattern best matches continuous reading behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, stable fixations with small horizontal shifts within a narrow vertical band around mid-screen, characteristic of line-by-line reading and similar to the READ examples, unlike the larger exploratory movements seen in BROWSE/SEARCH or the more dispersed/action-centric patterns in PLAY and WATCH.",
+  "correct": false
+}

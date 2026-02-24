@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions are very stable with only small, smooth drifts and no large step-like saccades or vertical scan patterns, indicating continuous viewing of a central region as in watching a video rather than reading, browsing, searching, writing, or actively playing a game.",
+  "correct": false
+}

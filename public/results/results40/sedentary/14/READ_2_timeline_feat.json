@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target data shows strong, regular horizontal X-scan patterns with periodic regressions and a slowly increasing Y-position, closely matching the example READ plot and typical left-to-right, top-to-bottom text reading behavior rather than the more irregular or vertical movements of browsing or searching.",
+  "correct": true
+}

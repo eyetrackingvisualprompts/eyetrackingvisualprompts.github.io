@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like fixations held ~1 s at varying positions with both horizontal (up to about \u00b115 DVA) and vertical (up to about \u00b19 DVA) changes, matching the protocol of following a randomly jumping target rather than purely horizontal motion, continuous free viewing, or sustained central fixation.",
+  "correct": false
+}

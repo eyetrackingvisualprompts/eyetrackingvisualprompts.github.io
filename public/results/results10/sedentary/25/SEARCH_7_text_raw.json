@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered around a few horizontal bands with frequent short saccades within the same general vertical region and occasional larger jumps, matching scanning SERP lines and snippets more than tight line-by-line reading or code/IDE layouts. The inclusion of off-screen/invalid coordinates also aligns with web navigation/search behavior rather than focused reading, coding, or gameplay.",
+  "correct": true
+}

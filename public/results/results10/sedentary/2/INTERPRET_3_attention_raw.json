@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a compact region on the upper-left side, similar to the WRITE example where attention stays near the code editor\u2019s typing area, with little scanning across the screen as would be seen in SEARCH or BROWSE.",
+  "correct": false
+}

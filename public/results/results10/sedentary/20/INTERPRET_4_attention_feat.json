@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated on the upper-left region with a strong cluster mid-left and several vertical and nearby points, matching the pattern of scanning a search results page (title/snippet area) rather than code (INTERPRET/DEBUG) or central dynamic content (WATCH/PLAY).",
+  "correct": false
+}

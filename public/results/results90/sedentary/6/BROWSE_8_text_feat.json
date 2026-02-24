@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The target data shows extremely long, smooth saccades spanning large screen regions with very few short fixations and no orderly line-by-line or code-like scanning. This pattern of sustained, continuous gaze motion without structured revisits matches passive viewing of dynamic full-screen content (WATCH) more than reading, coding-related tasks, browsing, or game-like tracking, which all exhibit denser, shorter saccades and more frequent fixations or structured scan paths.",
+  "correct": false
+}

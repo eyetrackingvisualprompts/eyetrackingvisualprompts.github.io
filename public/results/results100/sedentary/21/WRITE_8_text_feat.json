@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a code-like central area with many short, local saccades and medium-length fixations, interleaved with frequent large vertical and diagonal shifts between that region and peripheral/top areas (e.g., near-screen borders), matching the pattern of repeatedly checking code, jumping to other parts, and verifying behavior typical of debugging rather than the more linear reading of READ or the more uniform central focus of WATCH/PLAY.",
+  "correct": false
+}

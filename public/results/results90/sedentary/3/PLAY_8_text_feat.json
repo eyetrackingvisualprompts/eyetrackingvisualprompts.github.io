@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts across wide screen regions (including extremes), with many mid-length fixations and smooth pursuit-like transitions rather than orderly line-based patterns or tight code/text clusters, matching dynamic visual following of changing stimuli typical of WATCH, not the more structured or localized patterns of reading, coding, or searching/browsing text-dominant pages.",
+  "correct": false
+}

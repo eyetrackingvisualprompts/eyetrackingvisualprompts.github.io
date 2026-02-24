@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path is widely dispersed across the screen with rapid, irregular saccades and few stable clusters, indicating continuous visual tracking and navigation consistent with dynamic game play rather than reading, code-focused tasks, or passive watching.",
+  "correct": false
+}

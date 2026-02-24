@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a central horizontal band around mid\u2011x with some vertical spread, resembling attention to both the search box/results list and snippets, which matches the SEARCH example pattern more closely than the narrower READ band or the more dispersed BROWSE/ WATCH distributions.",
+  "correct": false
+}

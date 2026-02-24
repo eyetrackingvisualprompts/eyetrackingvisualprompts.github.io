@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-length horizontal shifts with gradual downward drift and occasional large saccades, indicating scanning through varied web content rather than focused code (DEBUG/WRITE/INTERPRET) or continuous reading/video watching. This pattern best matches the heterogeneous exploration typical of BROWSE.",
+  "correct": false
+}

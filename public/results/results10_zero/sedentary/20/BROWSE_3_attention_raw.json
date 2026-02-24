@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a relatively narrow vertical band in the central-left region with some additional attention near the top and a few scattered points, matching a small code editor window (for writing code) rather than the full-page horizontal scan patterns of reading/browsing or the wide, dynamic spread expected in watching videos or playing games.",
+  "correct": false
+}

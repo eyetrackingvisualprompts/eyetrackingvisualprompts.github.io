@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cluster around a mid-screen region with frequent short horizontal and small vertical shifts, interspersed with occasional larger jumps and brief re-centering\u2014matching the mixed fixation and scrolling/navigation pattern seen in the BROWSE example, rather than the more structured line scans of READ or the larger, multi-directional jumps of PLAY or SEARCH.",
+  "correct": false
+}

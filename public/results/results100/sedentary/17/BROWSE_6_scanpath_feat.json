@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered around a central code area with frequent vertical transitions and revisits between regions, indicating intensive line-by-line checking and cross-referencing typical of debugging rather than the more linear patterns of reading or the dispersed patterns of browsing, search, or play.",
+  "correct": false
+}

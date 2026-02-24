@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent vertical transitions between two main Y-bands (results list and upper interface), with intermittent larger saccades and varied horizontal positions, resembling scanning and revisiting items in a search-results page more than the more uniform code-reading or text-reading patterns.",
+  "correct": false
+}

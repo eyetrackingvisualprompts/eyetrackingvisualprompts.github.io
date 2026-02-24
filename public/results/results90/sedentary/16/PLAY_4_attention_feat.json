@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered around the screen center with moderate spread in all directions, resembling dynamic visual tracking of changing content, which aligns most closely with the WATCH example heatmap compared to the more text- or code-structured patterns of other tasks.",
+  "correct": false
+}

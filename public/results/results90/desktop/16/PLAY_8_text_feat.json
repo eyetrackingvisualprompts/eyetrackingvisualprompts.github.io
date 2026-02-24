@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations cluster around mid-screen with predominantly small, horizontal saccades and occasional short vertical shifts, closely matching the stable, line-by-line scanning pattern seen in the READ examples rather than the more scattered (BROWSE/SEARCH) or peripheral/dynamic (WATCH/PLAY) gaze behaviors.",
+  "correct": false
+}

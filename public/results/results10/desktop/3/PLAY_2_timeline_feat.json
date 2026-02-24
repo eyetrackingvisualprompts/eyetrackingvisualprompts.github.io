@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows horizontal scanning with repeated, structured left-to-right shifts and small vertical adjustments, closely matching the example READ pattern of line-by-line text reading rather than the more erratic or peripheral movements seen in browsing, search, or gameplay.",
+  "correct": false
+}

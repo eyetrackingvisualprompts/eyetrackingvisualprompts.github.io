@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across the horizontal axis with frequent rapid shifts and crossings, characteristic of tracking moving game elements rather than the more localized clusters seen in coding, reading, or web search tasks.",
+  "correct": false
+}

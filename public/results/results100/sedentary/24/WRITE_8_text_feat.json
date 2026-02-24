@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates repeatedly between a horizontal band near the bottom (y\u2248560\u2013630, typical of search results) and upper text regions (y\u2248160\u2013240), with many medium-length fixations and vertical jumps from results back to query/answer areas, closely matching the SEARCH exemplars and differing from the more line-structured READ and code-focused INTERPRET/DEBUG/WRITE patterns.",
+  "correct": false
+}

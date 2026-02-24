@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band with relatively small, slow drifts in X and modest vertical fluctuations, closely matching the WRITE example where attention stays near a fixed text input area rather than scanning large vertical ranges as in READ/SEARCH or exhibiting wide, rapid movements as in PLAY/WATCH/BROWSE.",
+  "correct": false
+}

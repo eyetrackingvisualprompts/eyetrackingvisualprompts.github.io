@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a mid-screen region with irregular, multidirectional saccades and no clear horizontal reading lines, resembling the exploratory, scattered scanpath typical for browsing mixed-content web pages rather than structured reading or constrained game/video viewing.",
+  "correct": false
+}

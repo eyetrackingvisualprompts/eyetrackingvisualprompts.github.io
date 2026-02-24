@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows concentrated reading-like fixations on the left side (typical for search results text) combined with frequent vertical and horizontal shifts into lower and more central regions, suggesting scrolling and inspecting multiple result entries rather than focused code (INTERPRET/DEBUG/WRITE) or uniform text (READ). This pattern best matches SEARCH behavior.",
+  "correct": true
+}

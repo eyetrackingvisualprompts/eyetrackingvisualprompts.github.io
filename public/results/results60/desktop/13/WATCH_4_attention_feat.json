@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper-right area of the screen, similar to where a text cursor and current line would be during typing in a word processor, matching the WRITE pattern more than the others.",
+  "correct": false
+}

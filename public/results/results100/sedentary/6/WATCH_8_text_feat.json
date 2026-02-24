@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions, frequent returns between central play area and screen edges, and irregular non-linear gaze paths with moderate fixations match the dynamic, target-following pattern typical of simple game play rather than the more linear, text-based or code-focused patterns in READ/WRITE/DEBUG/INTERPRET/SEARCH/BROWSE or the smoother WATCH viewing.",
+  "correct": false
+}

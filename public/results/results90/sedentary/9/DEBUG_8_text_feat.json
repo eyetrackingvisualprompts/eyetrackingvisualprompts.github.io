@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent back-and-forth saccades between a compact vertical region of code-like coordinates (y\u2248150\u2013350) and lower areas (y\u2248450\u2013600), with many medium-length fixations near line-like bands, matches the detailed, localized inspection and repeated re-checking typical of debugging rather than the more linear patterns of reading/searching or the wide, dynamic shifts of play/watch/browse.",
+  "correct": true
+}

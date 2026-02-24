@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered around a central horizontal band with small-amplitude horizontal shifts and long, stable fixations (often >0.6\u20131.0s), matching sustained line-by-line viewing of static text. There are no large, rapid multidirectional sweeps typical of PLAY or WATCH, nor the more scattered vertical/hierarchical jumps seen in BROWSE/SEARCH; the pattern best matches the provided READ examples.",
+  "correct": false
+}

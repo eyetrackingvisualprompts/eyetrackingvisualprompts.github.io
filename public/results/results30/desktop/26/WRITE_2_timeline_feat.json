@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band slightly below screen center with relatively stable X and progressively decreasing Y, consistent with looking near the text-entry line and scrolling while writing rather than the wider exploratory movements seen in search, browse, or play tasks.",
+  "correct": true
+}

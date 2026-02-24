@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations form a horizontal band across mid-screen with additional clusters in upper and lower regions, indicating attention shifts between code, error messages, and program output\u2014pattern most consistent with the DEBUG example heatmap.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a tight vertical band on the left side at several distinct y-levels, consistent with reading short left-aligned text segments rather than scanning widely as in browsing/search or tracking moving objects as in play/watch.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Horizontal scan-paths across a mid-screen band with repeated left-right sweeps, intermittent large jumps to page corners/outside screen coordinates, and visits to top URL/UI regions closely match the free-form, multi-region exploration typical of web browsing rather than the more structured, line-based patterns of reading or the code-focused clusters of programming tasks.",
+  "correct": false
+}

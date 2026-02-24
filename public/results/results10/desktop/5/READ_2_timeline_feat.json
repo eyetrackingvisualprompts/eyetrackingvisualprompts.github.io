@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Both X and Y fixations show a gradual upward trend with several medium-to-large vertical shifts and scattered saccades, indicating scanning different regions (results list, top bar, etc.) rather than the more stable, line-based pattern of READ or the more erratic movements of PLAY/BROWSE. This best matches the SEARCH example pattern.",
+  "correct": false
+}

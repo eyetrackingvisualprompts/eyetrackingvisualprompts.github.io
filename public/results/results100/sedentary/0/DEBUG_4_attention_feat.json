@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple vertically separated regions on the left half of the screen with some scattered points lower down, resembling scanning search results and snippets rather than the more localized clusters of coding (INTERPRET/DEBUG/WRITE) or the central focus of WATCH/PLAY.",
+  "correct": false
+}

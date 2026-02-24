@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal X dispersion with shifting Y levels and frequent saccades, indicating scanning and switching between results/pages, which best aligns with the SEARCH pattern among the provided examples.",
+  "correct": false
+}

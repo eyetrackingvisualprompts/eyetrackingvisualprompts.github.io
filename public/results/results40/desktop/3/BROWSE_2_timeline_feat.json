@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions are centered with moderate horizontal motion and small vertical variation, showing frequent but not highly structured saccades, resembling the mixed-scrolling and dispersed attention pattern of browsing rather than the more regular line-by-line movements of reading or the focused regions seen in writing, watching, playing, or searching examples.",
+  "correct": true
+}

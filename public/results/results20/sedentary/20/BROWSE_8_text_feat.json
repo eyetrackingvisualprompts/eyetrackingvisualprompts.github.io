@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large gaze shifts covering wide screen areas (including corners), with many short fixations clustered around a mid-lower horizontal band and frequent back-and-forth corrections, match the dynamic tracking and anticipatory eye movements seen in the PLAY examples rather than the more structured or text-aligned patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

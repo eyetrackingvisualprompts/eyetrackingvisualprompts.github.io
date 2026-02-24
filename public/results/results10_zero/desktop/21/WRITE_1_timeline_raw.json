@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions stay within a very narrow band with only small smooth fluctuations and no systematic horizontal scanning or line-by-line progression, indicating sustained fixation on a central region of the screen typical of passively watching a video rather than reading, searching, writing, browsing, or playing an interactive game.",
+  "correct": false
+}

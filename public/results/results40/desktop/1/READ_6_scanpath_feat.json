@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are tightly clustered in a narrow horizontal band with small, orderly horizontal movements and minimal vertical shifts, characteristic of reading lines of text rather than broader exploratory or multi-directional viewing seen in other activities.",
+  "correct": true
+}

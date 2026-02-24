@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a few compact clusters, especially a strong cluster on the lower-right and others mid-left, with little systematic horizontal or vertical scanning. This pattern reflects attention to localized interactive elements and rapid shifts typical of gameplay rather than the orderly line-by-line movements of reading, searching, or writing, or the more central/face-focused distribution typical of watching videos or casual browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The target data shows large, multi-directional transitions across wide horizontal and vertical ranges with periods of local jitter around transient fixation points, matching the spatial dispersion and irregular jump pattern of the Random Saccades example rather than the more constrained or structured patterns of the other tasks.",
+  "correct": true
+}

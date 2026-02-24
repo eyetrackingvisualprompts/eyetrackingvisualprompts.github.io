@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays within a compact central region with short-to-moderate fixations (~0.2\u20130.6s) and small saccades, showing local exploratory movements without long linear sweeps or large scene shifts. This spatiotemporal pattern closely matches the BROWSE example, which has similar central clustering and incremental scanning, and differs from the more lateral, line-based READ pattern, the more dispersed PLAY/WATCH patterns, and the vertical-text-focused WRITE/SEARCH behaviors.",
+  "correct": false
+}

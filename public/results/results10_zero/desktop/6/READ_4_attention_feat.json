@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region near the bottom-center of the screen with minimal horizontal scanning, consistent with watching a localized area such as video subtitles rather than reading or browsing across longer text lines or interacting broadly as in search, play, or write tasks.",
+  "correct": false
+}

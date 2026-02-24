@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show relatively small, irregular movements around mid-screen in both X and Y with frequent short saccades and no strong systematic horizontal or vertical scanning pattern, matching the exploratory, scattered viewing typical of web browsing rather than the more structured patterns seen in reading, writing, or watching video.",
+  "correct": false
+}

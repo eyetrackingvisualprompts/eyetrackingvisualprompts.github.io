@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, frequent gaze shifts among multiple dispersed locations across the screen with revisits, characteristic of actively targeting moving objects in the Balura gaze-driven game, rather than the more constrained or patterned movements of reading, horizontal/random saccades, video viewing, or central fixations.",
+  "correct": false
+}

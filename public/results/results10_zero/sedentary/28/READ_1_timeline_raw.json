@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains around mid\u2011screen with slow, smooth horizontal drift and minimal vertical movement, indicating continuous attention to a central dynamic stimulus rather than line-by-line reading or code-related tasks, which would show more structured horizontal-then-vertical shifts; this pattern best matches watching a video.",
+  "correct": false
+}

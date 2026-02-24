@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent vertical shifts and varied horizontal movements across multiple regions, indicating scanning of different areas rather than line-by-line reading or focused code inspection, which best matches the heterogeneous pattern seen in the SEARCH example.",
+  "correct": true
+}

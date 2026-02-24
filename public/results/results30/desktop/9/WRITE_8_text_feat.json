@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades spanning almost the full screen width (e.g., from ~0.85 to ~0.08, and from ~0.72 to ~0.01), repeated vertical shifts, and many medium-duration fixations without the systematic horizontal line-by-line pattern of reading or the localized clustering typical of writing. This wide-range, dynamic scanning pattern best matches interactive game play, particularly a game like Agario that requires monitoring dispersed elements across the screen.",
+  "correct": false
+}

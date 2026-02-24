@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The pattern shows long saccades between a small number of code-like regions (top area to lower area) with extended dwelling within those regions, including very long transitions that are characteristic of shifting attention between code and editor/UI areas during implementation, which most closely matches the WRITE examples compared to the steadier, more line-structured patterns of READ/INTERPRET or the more scattered SEARCH/BROWSE behavior.",
+  "correct": true
+}

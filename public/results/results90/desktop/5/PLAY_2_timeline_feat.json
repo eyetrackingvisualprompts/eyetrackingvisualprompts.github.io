@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze pattern shows relatively wide vertical dispersion with substantial saccades over time, and the fixation trajectories lack the structured horizontal scanning found in reading/searching or the central clustering of writing/browsing. This loose, dynamic distribution best matches the WATCH example, where viewers follow moving content across the screen.",
+  "correct": false
+}

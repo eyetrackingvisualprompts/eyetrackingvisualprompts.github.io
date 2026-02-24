@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows extensive horizontal scanning across upper and middle regions with frequent returns to a left-side area, resembling movement between search results list (left) and occasional right-side content, matching the SEARCH example more than the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central area with multiple localized hotspots and moderate dispersion, resembling the browsing example more than the linear horizontal scan of reading or the narrow regions of play/write.",
+  "correct": false
+}

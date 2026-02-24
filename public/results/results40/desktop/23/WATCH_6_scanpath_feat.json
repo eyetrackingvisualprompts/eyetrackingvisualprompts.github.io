@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple dispersed clusters with frequent transitions between them, indicating repeated shifts between localized reading and other page elements, which closely matches the SEARCH example pattern rather than the more linear READ or more chaotic BROWSE/PLAY/WATCH patterns.",
+  "correct": false
+}

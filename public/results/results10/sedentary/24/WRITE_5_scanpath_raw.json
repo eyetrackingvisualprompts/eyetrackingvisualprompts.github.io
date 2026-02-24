@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with small left-right movements and limited vertical shifts, matching the stable line-by-line pattern typical of reading text rather than the broader, more dispersed movements of other tasks.",
+  "correct": false
+}

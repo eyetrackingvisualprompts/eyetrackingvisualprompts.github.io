@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely distributed across the entire screen with no dominant horizontal reading band or narrow code/text area, closely matching the scattered, exploratory pattern seen in the BROWSE example rather than the more localized patterns for coding, reading, or search results pages.",
+  "correct": false
+}

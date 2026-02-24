@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a narrow horizontal band in the upper-middle area, slightly left of screen center, matching typical focus on search results/snippets rather than full-page reading; this spatial pattern closely resembles the SEARCH example heatmap more than READ or BROWSE.",
+  "correct": false
+}

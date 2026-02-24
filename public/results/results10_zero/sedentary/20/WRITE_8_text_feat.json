@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows sequences of relatively short horizontal saccades with clustered fixations along nearby y-coordinates, forming line-like patterns with occasional return sweeps to adjacent vertical regions\u2014typical of reading text rather than the larger, more scattered movements seen in browsing, searching, coding, or gameplay, and unlike the broader, dynamic tracking of video watching.",
+  "correct": false
+}

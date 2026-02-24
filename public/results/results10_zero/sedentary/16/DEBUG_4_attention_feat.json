@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are sparse and spread over a few distinct regions without the systematic horizontal or code-line scanning typical for reading, writing, interpreting, debugging, searching, or browsing. The pattern suggests attention to changing visual elements in a limited area of the screen, consistent with watching a video rather than interacting with static text or a game object that would drive continuous tracking across the screen.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, stable horizontal fixations with slow, line-like drifts around y\u22480.6\u20130.7, interspersed with small regressions and occasional vertical transitions\u2014closely matching the structured, line-by-line scan patterns and low-amplitude saccades characteristic of the provided READ examples, and unlike the larger, more scattered shifts seen in BROWSE/SEARCH or the extreme, edge-focused movements in PLAY/WATCH/WRITE.",
+  "correct": false
+}

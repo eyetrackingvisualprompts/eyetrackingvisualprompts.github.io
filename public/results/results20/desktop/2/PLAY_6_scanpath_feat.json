@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows a few large, spatially separated clusters connected by long saccades, covering a wide vertical extent without the dense local exploration of SEARCH/BROWSE or the tight horizontal bands of READ/WRITE, which is more consistent with tracking moving elements in a video (WATCH).",
+  "correct": false
+}

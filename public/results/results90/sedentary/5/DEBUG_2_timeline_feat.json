@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shows focused but moderately wide vertical span with frequent shifts between code and other regions, resembling the DEBUG pattern more than the more static INTERPRET or the broader-scanning SEARCH/BROWSE examples.",
+  "correct": true
+}

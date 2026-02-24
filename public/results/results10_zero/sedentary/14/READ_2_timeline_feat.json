@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly stable with slow, small incremental shifts and minimal vertical movement, indicative of passively following a largely static central region (typical for watching a full-screen video) rather than the systematic horizontal/vertical scanning seen in reading, browsing, or coding tasks.",
+  "correct": false
+}

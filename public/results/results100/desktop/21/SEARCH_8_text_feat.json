@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze behavior shows medium-length fixations with frequent saccades among mid-screen and mixed vertical positions, including recurrent returns to central band and occasional jumps to lower areas\u2014indicative of scanning mixed text/image regions on web pages. The pattern is more exploratory and multi-directional than the structured horizontal sweeps of READ, and less constrained to top lines/left margin than WRITE, aligning best with BROWSE among the provided examples.",
+  "correct": false
+}

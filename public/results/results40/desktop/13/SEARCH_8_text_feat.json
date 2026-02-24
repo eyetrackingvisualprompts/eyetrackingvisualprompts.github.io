@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow region slightly above mid\u2011screen with many medium\u2011duration fixations and short corrective saccades, showing local vertical jitter but no systematic horizontal line sweeps or large exploratory jumps. This stable, small-area pattern matches the reference WRITE behavior (monitoring a small text area and cursor) more than READ, SEARCH, BROWSE, PLAY, or WATCH, which show either broader horizontal scanning or wider spatial exploration.",
+  "correct": false
+}

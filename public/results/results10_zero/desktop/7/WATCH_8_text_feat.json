@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze stays in a relatively small central area with long, stable fixations (often >1 s) and only short, local saccades, suggesting continuous attention to a single region of dynamic content rather than systematic line-by-line scanning (READ/WRITE) or large exploratory shifts (PLAY/SEARCH/BROWSE). This pattern best matches passively WATCHing a video on the screen.",
+  "correct": true
+}

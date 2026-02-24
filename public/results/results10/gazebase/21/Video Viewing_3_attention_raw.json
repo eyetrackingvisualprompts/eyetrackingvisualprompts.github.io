@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "Fixations are clustered in a narrow horizontal band near the top of the screen, progressing laterally with limited vertical spread, consistent with line-by-line reading rather than dispersed random or game/video viewing patterns.",
+  "correct": false
+}

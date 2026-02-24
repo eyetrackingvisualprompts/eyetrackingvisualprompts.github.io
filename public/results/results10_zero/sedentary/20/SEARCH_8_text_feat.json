@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows large, frequent saccades across wide horizontal and vertical extents, including jumps to screen edges and off-screen coordinates, interspersed with short-to-moderate fixations. This indicates scanning multiple spatially separated elements (e.g., search results, snippets, and different page regions) rather than the more line-structured, systematic pattern of READ or the highly dynamic object-following pattern of PLAY/WATCH. Such dispersed, evaluative viewing is most consistent with SEARCH behavior on a results page and subsequent linked content.",
+  "correct": true
+}

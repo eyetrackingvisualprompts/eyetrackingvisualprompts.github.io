@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations progress slowly and mostly monotonically from left to right (increasing X) with relatively stable Y that changes in small discrete steps, consistent with line-by-line reading and occasional line shifts rather than large multidirectional movements typical of browsing, searching, gaming, watching video, or writing.",
+  "correct": true
+}

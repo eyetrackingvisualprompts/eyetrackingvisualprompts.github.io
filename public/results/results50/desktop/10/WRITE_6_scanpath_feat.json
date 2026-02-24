@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around central-upper regions with frequent medium-length saccades between multiple nearby areas, resembling the more scattered, exploratory pattern in the SEARCH example rather than the denser, more localized patterns of READ or BROWSE.",
+  "correct": false
+}

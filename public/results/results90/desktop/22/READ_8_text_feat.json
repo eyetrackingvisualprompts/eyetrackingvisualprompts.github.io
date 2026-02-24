@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large vertical and horizontal shifts between widely separated regions (top, middle, bottom) interleaved with clusters of shorter fixations in text-like bands, plus repeated returns to similar vertical zones, resemble scanning result pages and visiting different web pages more than the more line-structured READ pattern or center-focused WATCH; the pattern best matches the SEARCH examples\u2019 mix of broad exploration and localized reading.",
+  "correct": false
+}

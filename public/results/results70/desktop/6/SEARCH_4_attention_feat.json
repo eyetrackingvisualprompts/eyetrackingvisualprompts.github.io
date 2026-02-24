@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze heatmap shows widely distributed fixations across both horizontal and vertical directions with no single dominant band or area, indicating frequent large saccades and broad visual exploration characteristic of tracking dynamic game elements, matching the PLAY pattern more than the more localized patterns of reading, browsing, searching, watching, or writing.",
+  "correct": false
+}

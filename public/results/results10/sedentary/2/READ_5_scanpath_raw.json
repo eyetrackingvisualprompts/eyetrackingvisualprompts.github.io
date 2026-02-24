@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with short, sequential saccades resembling line-by-line reading, closely matching the READ example pattern and unlike the more dispersed or multi-region patterns of other tasks.",
+  "correct": true
+}

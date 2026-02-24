@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is widely distributed across the screen with many medium/long saccades and varied fixation locations, lacking the clustered code/text focus of WRITE/DEBUG/INTERPRET/READ and the structured vertical patterns of SEARCH/BROWSE, which is most consistent with passively watching dynamic video content.",
+  "correct": true
+}

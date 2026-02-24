@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between a horizontal band near the top (possible browser toolbar or first content line) and a lower region with repeated left-right sweeps and medium-length fixations, plus occasional large vertical saccades to near-bottom coordinates\u2014matching webpage scanning/scrolling rather than the tighter, more uniform line-by-line patterns seen in focused READ or code-related tasks.",
+  "correct": false
+}

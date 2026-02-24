@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, large-amplitude saccades across wide screen regions (including corners and off-center areas), frequent revisits to dynamic central zones, and many vertical/horizontal sweeps typical of tracking moving game elements, closely matching the PLAY examples rather than the more localized, line- or code-structured patterns of reading, coding, or searching.",
+  "correct": false
+}

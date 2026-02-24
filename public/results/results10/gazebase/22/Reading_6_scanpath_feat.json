@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Balura Game",
+  "reason": "Scanpath shows large, irregular saccades across wide screen regions with scattered fixation clusters and no dominant horizontal or central pattern, matching the dynamic, target-driven gaze shifts of the Balura Game rather than structured reading, controlled saccades, or static fixation.",
+  "correct": false
+}

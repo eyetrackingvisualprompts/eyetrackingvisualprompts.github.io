@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze positions show relatively smooth, slowly drifting movements with long stable segments and few large saccades, indicating continuous attention to a central area rather than systematic line-by-line scanning or frequent jumps between interface elements. This pattern is most consistent with passively watching a full-screen video.",
+  "correct": false
+}

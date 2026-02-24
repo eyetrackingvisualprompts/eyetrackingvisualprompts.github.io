@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show mostly stable, clustered fixations with smooth, short shifts primarily along the vertical dimension (y from mid to upper screen and back) and limited large-amplitude exploratory movements. This pattern is consistent with scanning lines/regions of text in a structured layout rather than the more dispersed, target-driven exploration of SEARCH/BROWSE or the dynamic, wide-ranging shifts typical of WATCH or PLAY, and there is no clear central-text-plus-peripheral-toolbar focus typical of WRITE. Hence READ is most likely.",
+  "correct": false
+}

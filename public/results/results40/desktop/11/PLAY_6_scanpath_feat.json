@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a horizontally elongated band with relatively small vertical range and progressive left\u2013right movements, matching line-by-line reading behavior more than the other activities, which show more vertical spread, clustering, or large jumps.",
+  "correct": false
+}

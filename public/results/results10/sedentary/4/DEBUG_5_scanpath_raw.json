@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze alternates between a compact region (likely code) and large vertical excursions toward the bottom of the screen (e.g., console/output), matching the pattern seen in the DEBUG example more than in other tasks.",
+  "correct": true
+}

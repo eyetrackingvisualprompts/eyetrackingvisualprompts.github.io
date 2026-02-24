@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze positions show continuous, irregular movements with varied amplitudes in both horizontal and vertical directions, alternating short fixations and saccades without a clear 1D pattern (horizontal-only) or line-by-line structure (reading). Movements are not constrained to central fixation nor to discrete, large, 1-second-apart target jumps as in controlled saccade tasks. This pattern best matches natural viewing of dynamic visual content, i.e., Video Viewing.",
+  "correct": false
+}

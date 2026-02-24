@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is relatively centralized with small, slow shifts in both X and Y and very few large saccades, closely matching the stable, compact pattern seen in the INTERPRET example and differing from the more dynamic patterns of reading, browsing, search, or play.",
+  "correct": false
+}

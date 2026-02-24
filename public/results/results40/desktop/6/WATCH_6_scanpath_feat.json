@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across multiple regions with frequent medium-length saccades and revisits, indicating exploration of varied on-screen elements typical of using a search engine rather than the more localized patterns of reading, writing, or watching video.",
+  "correct": false
+}

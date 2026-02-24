@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows medium-length fixations with frequent shifts across a moderately wide vertical range (roughly y=0.3\u20130.7), including jumps between mid\u2011page and lower regions and revisits to prior areas. The pattern is less line-structured than READ and lacks the strong top/bottom focus and result-panel revisits characteristic of SEARCH, while also not exhibiting the large, rapid, multi-directional excursions and edge/center sweeps typical of PLAY or WATCH, nor the strong upper-area clustering of WRITE. This mixed, exploratory scanning over web-like regions best matches BROWSE.",
+  "correct": true
+}

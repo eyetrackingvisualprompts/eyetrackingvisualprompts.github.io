@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze alternates between a central code-like region and far-right area (likely console or reference) with several large vertical and horizontal saccades, followed by returns to upper text-like lines\u2014this multi-region, top-area revisiting pattern matches the WRITE example more than the more locally constrained INTERPRET/DEBUG patterns or the smoother READ/WATCH behaviors.",
+  "correct": true
+}

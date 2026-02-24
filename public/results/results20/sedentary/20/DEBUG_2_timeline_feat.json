@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively slow, steady rightward drift with moderate vertical changes and sparse saccades, closely matching the INTERPRET example pattern of following code sequentially with occasional line transitions, rather than the denser jumps of SEARCH/DEBUG or the wider, more dynamic movements of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

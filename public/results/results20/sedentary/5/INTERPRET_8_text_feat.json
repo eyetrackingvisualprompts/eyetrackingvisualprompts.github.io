@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small code-like region with repeated back-and-forth fixations over nearly the same lines, modest vertical span, and no long horizontal reading sweeps or wide exploratory jumps. This localized re-reading and oscillation pattern is characteristic of mentally simulating a short code snippet (INTERPRET) rather than broader navigation (SEARCH/BROWSE), continuous line reading (READ), or more dispersed problem-solving (WRITE/DEBUG).",
+  "correct": true
+}

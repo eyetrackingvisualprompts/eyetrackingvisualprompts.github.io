@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a compact horizontal band in the lower-middle of the screen, similar to reading text in a single region rather than scanning multiple UI elements; this pattern best matches the READ example heatmap.",
+  "correct": false
+}

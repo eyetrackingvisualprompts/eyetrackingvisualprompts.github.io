@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows predominantly left\u2013right movements between two vertical bands at roughly constant vertical positions, matching repeated large-amplitude horizontal tracking of a stimulus rather than central fixation, random multi-directional jumps, or reading-like line patterns.",
+  "correct": true
+}

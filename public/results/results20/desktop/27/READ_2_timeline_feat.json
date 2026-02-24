@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered with small horizontal movements and limited vertical range, resembling mid-screen scanning typical of reading short text blocks and UI elements on news/blog pages, matching the BROWSE pattern more than the others.",
+  "correct": false
+}

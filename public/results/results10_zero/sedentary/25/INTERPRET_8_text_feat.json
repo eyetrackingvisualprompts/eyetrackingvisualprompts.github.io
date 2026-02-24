@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen areas (including off-screen coordinates) with relatively short, scattered fixations and no clear linear reading pattern suggest dynamic visual tracking consistent with game play rather than code, text, or web search/browsing tasks.",
+  "correct": false
+}

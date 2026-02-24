@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points show frequent medium- to large-amplitude shifts across disparate screen regions (center, lower, left, right) without the structured horizontal/vertical scan paths typical of reading, browsing, or code-related tasks. The pattern suggests continual tracking and reorienting consistent with following moving game elements rather than sustained fixation on text or static content.",
+  "correct": false
+}

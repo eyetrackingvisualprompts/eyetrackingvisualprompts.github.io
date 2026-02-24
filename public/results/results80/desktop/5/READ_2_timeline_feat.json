@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze paths show large, smooth shifts in both X and Y with broad vertical excursions and relatively continuous motion, matching the dynamic, scene-following patterns of watching video rather than the more row-structured (READ/WRITE) or search-and-scan (BROWSE/SEARCH) behaviors.",
+  "correct": false
+}

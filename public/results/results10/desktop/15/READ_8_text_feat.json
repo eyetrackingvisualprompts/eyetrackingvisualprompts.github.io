@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a narrow horizontal band slightly below screen center with many short fixations and small-to-medium horizontal saccades plus occasional longer horizontal shifts, closely matching the BROWSE example\u2019s pattern of scanning headlines/sections rather than the more central stable fixation of WATCH/READ or the peripheral, more erratic movements seen in WRITE/PLAY.",
+  "correct": false
+}

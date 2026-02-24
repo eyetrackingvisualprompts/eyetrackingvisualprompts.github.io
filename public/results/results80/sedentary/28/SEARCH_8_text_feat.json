@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between large vertical jumps (to top/bottom and even off-screen coordinates) and extended horizontal scan paths across a wide range of x-positions, consistent with scanning varied web page regions rather than line-by-line reading or focused code inspection. The pattern and amplitudes closely resemble the provided BROWSE exemplar, including frequent revisits to horizontal bands interspersed with big navigational saccades to other parts of the screen.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate, intermittent saccades in both axes with relatively constrained fixations that gradually drift, resembling focused yet exploratory inspection over code, matching best with the DEBUG pattern among the provided examples.",
+  "correct": false
+}

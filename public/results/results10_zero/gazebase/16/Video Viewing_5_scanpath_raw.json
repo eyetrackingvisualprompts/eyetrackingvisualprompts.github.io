@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, irregular, multi-directional saccades with repeated refixations on clustered locations and wide coverage of the screen, consistent with tracking and refixating moving game targets rather than the more structured, line-based movements of reading or the constrained patterns of controlled saccade tasks.",
+  "correct": false
+}

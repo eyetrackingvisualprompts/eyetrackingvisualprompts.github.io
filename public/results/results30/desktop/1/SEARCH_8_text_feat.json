@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across widely separated screen regions (e.g., jumps between central, top, and bottom areas such as (0.52,0.08)\u2194(0.35,0.95)\u2194(0.52,0.74)), interleaved with short-to-moderate fixations, indicating rapid, multi-directional visual shifts typical of game play rather than the more localized, line- or region-based scanning seen in reading, writing, or web search/browsing, or the more stable regions common in video watching.",
+  "correct": false
+}

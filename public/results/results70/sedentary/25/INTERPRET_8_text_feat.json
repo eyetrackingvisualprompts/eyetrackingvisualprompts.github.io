@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small mid-screen region around a code/text area with many short, local saccades and frequent re-fixations between nearby lines, plus occasional jumps to far-off UI elements, closely matching the WRITE examples\u2019 pattern of working in an IDE, adjusting code and briefly moving to other interface areas, rather than the broader scanning or large field shifts seen in SEARCH/BROWSE or the long static fixations seen in WATCH/READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is relatively stable with slow, small drifts and very few large saccades, indicating sustained attention on a centralized region rather than systematic line-by-line reading or frequent shifts typical of browsing, searching, coding, or gameplay; this pattern best matches passively watching a full-screen video.",
+  "correct": true
+}

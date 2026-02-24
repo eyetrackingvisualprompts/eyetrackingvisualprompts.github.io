@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small code area with minimal horizontal spread and no large transitions to other regions (e.g., console, browser, or game elements), matching the focused, localized viewing pattern of interpreting a given code snippet rather than the broader movements seen in writing, debugging, or browsing.",
+  "correct": true
+}

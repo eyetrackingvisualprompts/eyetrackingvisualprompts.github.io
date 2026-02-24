@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large vertical sweeps across much of the screen with comparatively slower, smoother horizontal changes, indicating following dynamic visual content over time rather than line-by-line reading or interface scanning; this pattern best matches watching a video.",
+  "correct": false
+}

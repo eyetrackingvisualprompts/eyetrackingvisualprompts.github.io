@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades across wide screen regions (center to corners, mid to top, and vertical extremes), interleaved with short and medium fixations and several long, curved trajectories\u2014indicative of tracking a controllable game object and multiple threats/goals rather than structured reading or web layouts. The spatial dispersion and erratic path patterns align best with the PLAY examples.",
+  "correct": false
+}

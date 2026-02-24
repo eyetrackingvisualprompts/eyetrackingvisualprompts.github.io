@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are distributed in a tall, relatively narrow vertical band near the screen center with multiple horizontal layers from mid to lower screen, consistent with scanning lines of text, matching the READ heatmap more than the other activities.",
+  "correct": true
+}

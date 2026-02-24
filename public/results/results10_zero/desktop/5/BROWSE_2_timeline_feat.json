@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions remain around the horizontal center with small, mostly horizontal shifts and limited vertical movement, consistent with reading lines of text rather than large exploratory or highly dynamic movements seen in browsing, searching, gaming, or watching video.",
+  "correct": false
+}

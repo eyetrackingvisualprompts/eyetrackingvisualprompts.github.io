@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points cluster in horizontally elongated bands with small, systematic vertical shifts and relatively stable fixations, characteristic of line-by-line reading behavior rather than large, erratic shifts typical of games, browsing, or search results scanning.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a narrow horizontal band near the screen center with small jitter and no systematic reading-like horizontal sweeps or vertical scrolling, indicating sustained attention to a largely static central area typical of watching a video rather than reading, coding, searching, or playing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are clustered near the screen center with small-amplitude, low-frequency movements and no systematic horizontal scanning or vertical scrolling patterns, which is characteristic of passively watching a video rather than reading, browsing, searching, writing, or playing a game.",
+  "correct": false
+}

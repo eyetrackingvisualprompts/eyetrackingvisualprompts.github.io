@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely scattered in both horizontal and vertical directions with frequent transitions between spatially separated regions, resembling the heterogeneous exploration seen in the BROWSE example rather than the more constrained patterns of READ/WRITE or the upper-screen clustering of WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains within a relatively central region with smooth, continuous shifts and no clear horizontal line-by-line scanpaths typical of reading, browsing, or code-related tasks; instead it shows distributed fixations and saccades over a compact area, consistent with following dynamic visual content in a video rather than scanning text or interacting heavily with UI elements as in search, write, debug, interpret, or play.",
+  "correct": false
+}

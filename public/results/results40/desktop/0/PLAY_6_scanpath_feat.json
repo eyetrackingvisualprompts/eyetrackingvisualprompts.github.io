@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover a wide horizontal range with varied saccade amplitudes and scattered clusters rather than a tight band (READ) or upper-page region (WRITE/SEARCH/BROWSE). This pattern of dynamic, multi-directional viewing is most consistent with visually tracking elements during gameplay.",
+  "correct": true
+}

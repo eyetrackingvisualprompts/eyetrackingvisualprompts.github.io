@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze heatmap shows a very small number of tight fixations concentrated in a narrow central region, suggesting focused attention on a small code snippet or line rather than extended reading, exploration, or wide visual scanning. This focused yet limited visual span matches interpreting a short function\u2019s output more than tasks like debugging, writing, searching, browsing, or watching media.",
+  "correct": false
+}

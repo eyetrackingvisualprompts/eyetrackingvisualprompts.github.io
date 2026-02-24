@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in the upper-left code area with dense, back-and-forth fixations and some longer vertical shifts, closely matching the DEBUG pattern rather than the more localized INTERPRET or WRITE examples.",
+  "correct": false
+}

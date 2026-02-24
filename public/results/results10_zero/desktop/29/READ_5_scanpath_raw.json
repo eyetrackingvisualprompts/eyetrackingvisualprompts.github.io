@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze remains confined to a small, central region with short, repeated fixations and micro-saccades, consistent with looking at a localized area such as the text-entry region and nearby UI elements while typing, rather than the broader horizontal sweeps of reading/browsing or larger movements in games/videos/search pages.",
+  "correct": false
+}

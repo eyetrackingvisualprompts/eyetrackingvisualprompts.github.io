@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a compact, predominantly horizontal movement band with small, regular saccades and limited spatial spread, closely matching the structured left-to-right reading pattern seen in the READ example rather than the more dispersed or erratic patterns of browsing, searching, playing, writing, or watching video.",
+  "correct": false
+}

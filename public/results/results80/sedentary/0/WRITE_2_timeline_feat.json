@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is largely confined to a narrow horizontal band with moderate, irregular shifts consistent with alternating attention between code editor lines and nearby UI elements, closely matching the WRITE example pattern more than the other activities.",
+  "correct": true
+}

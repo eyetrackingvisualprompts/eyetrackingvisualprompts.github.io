@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Long fixations and repeated returns within a compact central region suggest reading/inspection of a local element, but frequent large-amplitude saccades to far corners (top, bottom, extreme right) and multiple distant jumps across the screen match the heterogeneous, exploratory scan paths typical of free web browsing rather than the more structured horizontal patterns of reading or the code-centered patterns of programming tasks.",
+  "correct": false
+}

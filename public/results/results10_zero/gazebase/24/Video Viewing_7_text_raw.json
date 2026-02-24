@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trace shows large, abrupt jumps to varying horizontal and vertical positions (including multi-degree shifts in both axes), followed by clusters of relatively stable samples at those locations, consistent with following a target that appears at random positions for about a second each time. This spatiotemporal pattern matches the Random Saccades task better than the more constrained horizontal-only saccades or continuous, content-driven movements of reading or video viewing.",
+  "correct": false
+}

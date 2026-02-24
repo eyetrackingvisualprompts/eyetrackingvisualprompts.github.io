@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two strong fixation clusters at symmetric horizontal positions around the screen center with nearly identical vertical position, indicating repeated back-and-forth gaze shifts along a horizontal line, characteristic of following a horizontally moving target.",
+  "correct": true
+}

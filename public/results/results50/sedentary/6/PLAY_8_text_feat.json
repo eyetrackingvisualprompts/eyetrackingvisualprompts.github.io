@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and edges), with rapid shifts between dispersed clusters and mid-length fixations, resemble tracking and navigation behavior during gameplay rather than the more structured line-based patterns of reading/searching or the tighter code-panel focus of IDE tasks.",
+  "correct": true
+}

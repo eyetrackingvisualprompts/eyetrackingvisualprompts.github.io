@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster around the screen center with moderate dispersion and irregular saccades in multiple directions, resembling exploratory on-page navigation typical of web browsing rather than the more linear patterns of reading or the wider, more dynamic movements of playing or watching video.",
+  "correct": false
+}

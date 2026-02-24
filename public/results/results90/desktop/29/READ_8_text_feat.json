@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a narrow central region with predominantly horizontal micro-saccades and long, stable fixations (0.4\u20131.6s), resembling line-by-line inspection of a static area rather than large exploratory jumps or wide vertical movement typical of browsing, searching, gaming, or watching video; the stability and locality of gaze best match reading behavior in the examples.",
+  "correct": true
+}

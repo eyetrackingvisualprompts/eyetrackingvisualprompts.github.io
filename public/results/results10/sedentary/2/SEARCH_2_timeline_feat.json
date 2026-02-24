@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze shows moderate horizontal movement with relatively constrained vertical shifts, similar to reading but with more re-fixations and small bidirectional saccades around a narrow code area, matching the INTERPRET example more than other tasks.",
+  "correct": false
+}

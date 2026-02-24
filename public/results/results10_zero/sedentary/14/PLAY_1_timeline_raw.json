@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows smooth, periodic horizontal sweeps across a wide X range with relatively limited Y variation, consistent with tracking motion and scene changes in a full-screen video rather than line-by-line reading or code-focused tasks.",
+  "correct": false
+}

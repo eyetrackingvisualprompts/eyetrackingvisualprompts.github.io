@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered on the left-center where code/text would be, with occasional long saccades to the right side (likely to run/inspect program output or tools), closely matching the WRITE example pattern and differing from the more scattered DEBUG pattern.",
+  "correct": false
+}

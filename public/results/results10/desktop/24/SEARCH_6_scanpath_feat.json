@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows multiple clusters and transitions across different screen regions, indicating scanning among separate content areas (results list, snippets, possibly query box), which aligns best with web search behavior rather than the more linear (READ), localized (WRITE), or constrained (PLAY/WATCH) patterns.",
+  "correct": true
+}

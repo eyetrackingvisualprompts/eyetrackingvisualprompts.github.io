@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a tight vertical cluster on the left side of the screen with minimal horizontal movement, consistent with focused inspection of a narrow code snippet (typical code editor layout) as in the INTERPRET task, rather than the broader horizontal/scene-wide patterns expected in browsing, reading articles, searching, watching videos, or playing games.",
+  "correct": false
+}

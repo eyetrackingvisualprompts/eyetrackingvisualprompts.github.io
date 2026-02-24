@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Alternation between scattered large saccades across the page (including to extreme top/bottom regions) and shorter local movements, with no stable horizontal line-by-line reading and many jumps between disparate screen areas, matches the heterogeneous, exploratory patterns typical of free web browsing rather than sustained reading, coding, or watching video.",
+  "correct": false
+}

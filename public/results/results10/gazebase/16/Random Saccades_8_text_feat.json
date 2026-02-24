@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The gaze pattern shows large, rapid saccades spanning wide regions of the screen in varying directions (including big vertical jumps), followed by moderate fixations on disparate locations\u2014matching the erratic, target-driven movements in the Balura game rather than the more structured/linear reading, purely horizontal saccades, static fixation, or more moderate random-saccade trajectories.",
+  "correct": false
+}

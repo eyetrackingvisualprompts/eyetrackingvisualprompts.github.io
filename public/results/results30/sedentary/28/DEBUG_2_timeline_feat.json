@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent small horizontal shifts with moderate, systematic vertical progression and recurring regressions\u2014more scattered and exploratory than INTERPRET or WRITE, but more structured and code-line\u2013focused than WATCH or PLAY, matching the pattern of scanning and revisiting code typical for debugging.",
+  "correct": true
+}

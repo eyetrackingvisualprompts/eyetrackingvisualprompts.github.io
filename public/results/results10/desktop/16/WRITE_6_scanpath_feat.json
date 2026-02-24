@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal band with small vertical variation and sequential fixations, indicating line-by-line scanning typical of reading text, closely matching the READ example pattern.",
+  "correct": false
+}

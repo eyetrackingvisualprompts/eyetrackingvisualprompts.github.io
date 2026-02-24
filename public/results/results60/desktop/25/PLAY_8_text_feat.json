@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow band in the upper\u2013middle of the screen (y\u22480.25\u20130.45) with short horizontal saccades and medium-long, stable fixations, closely matching the line-by-line, localized pattern seen in the READ examples and unlike the broader, more exploratory movements of SEARCH or BROWSE or the more central-lower focus of WRITE.",
+  "correct": false
+}

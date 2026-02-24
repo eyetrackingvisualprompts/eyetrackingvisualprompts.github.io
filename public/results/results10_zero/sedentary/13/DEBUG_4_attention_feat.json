@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are tightly clustered in a small region on the left side of the screen, suggesting continuous attention to a localized, dynamic area rather than scanning text or code. This focused pattern is characteristic of tracking game elements (e.g., Pong paddle or localized game space) during PLAY, rather than the more distributed or line-based patterns seen in reading, browsing, search, or coding tasks.",
+  "correct": false
+}

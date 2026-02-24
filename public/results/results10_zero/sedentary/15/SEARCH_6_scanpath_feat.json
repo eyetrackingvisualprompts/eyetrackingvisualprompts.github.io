@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal, left-to-right movements across a wide portion of the screen followed by clustered fixations in a narrower region, matching line-by-line reading behavior more than code editing, web search, gameplay, or video watching patterns.",
+  "correct": false
+}

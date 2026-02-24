@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper part of the screen (high Y values) with relatively small horizontal range and occasional downward saccades, matching the pattern of focusing on a text-entry area while writing rather than the broader, more scattered exploration seen in browsing, searching, or watching videos.",
+  "correct": false
+}

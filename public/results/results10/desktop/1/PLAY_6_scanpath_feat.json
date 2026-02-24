@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central-right region with short, multi-directional saccades and frequent refixations, resembling the example BROWSE pattern more than the more linear READ/WRITE paths or the broader SEARCH/WATCH dispersions.",
+  "correct": false
+}

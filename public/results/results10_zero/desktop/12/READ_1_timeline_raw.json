@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains around screen center with small smooth drifts and very few large saccades, indicating continuous following of dynamic content without structured horizontal scanning or back-and-forth movements typical of reading, writing, browsing, or searching; this stable, centrally focused pattern is most consistent with watching a video.",
+  "correct": false
+}

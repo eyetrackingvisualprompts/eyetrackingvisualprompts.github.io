@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a tight cluster over a code region with frequent short saccades, characteristic of inspecting and re-reading specific lines, interspersed with occasional long saccades to another area (likely console or different part of code), which matches the focused, back-and-forth behavior of debugging rather than more linear reading or broad browsing patterns.",
+  "correct": false
+}

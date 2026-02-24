@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in a small left-side region with minimal vertical movement, similar to focused inspection of a limited code area as seen in the DEBUG example, rather than broader horizontal sweeps typical of reading, browsing, or watching content.",
+  "correct": false
+}

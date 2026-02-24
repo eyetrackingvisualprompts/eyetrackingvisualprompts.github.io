@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal scanning across wide text-like regions at multiple vertical levels (around y\u2248220\u2013260 and y\u2248580\u2013650), interleaved with rapid jumps to top and corner areas and occasional large transitions to off-center positions, matching the mixed reading-plus-interface-checking pattern typical of using a search engine rather than the more uniform line-by-line reading of READ or the localized code-centered patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

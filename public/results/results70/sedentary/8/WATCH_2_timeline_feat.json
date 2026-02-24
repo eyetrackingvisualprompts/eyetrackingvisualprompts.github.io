@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows moderate, smooth horizontal shifts with relatively stable vertical bands and scattered saccades across the screen, resembling continuous following of visual content rather than structured line-by-line scanning (READ/BROWSE) or localized code-focused inspection (INTERPRET/DEBUG/WRITE). The pattern best matches the WATCH example, where attention tracks changing elements in a video.",
+  "correct": true
+}

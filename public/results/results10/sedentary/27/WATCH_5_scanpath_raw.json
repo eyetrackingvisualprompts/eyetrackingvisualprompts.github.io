@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath covers a wide area with frequent large saccades in multiple directions and shifting focal regions, resembling dynamic object tracking and spatial navigation seen in the PLAY examples rather than the more localized or structured patterns of reading, coding, or web browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered over a single left-side code pane with frequent vertical shifts and occasional excursions to the top, matching the more extensive, iterative inspection pattern seen in the DEBUG example rather than the more localized INTERPRET pattern or the broader distributions of other tasks.",
+  "correct": true
+}

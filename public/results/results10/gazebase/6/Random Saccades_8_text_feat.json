@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between widely separated positions spanning large horizontal and vertical ranges, with long, discrete saccades followed by ~0.2\u20130.8 s fixations at each location, matching the structured point-to-point pattern of the Random Saccades task rather than the more linear (reading), central (fixation), purely horizontal (horizontal saccades), or content-driven (video/game) behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight band with very small vertical variation and gradual horizontal progression, matching the stable, line-based fixation pattern characteristic of reading text on a screen rather than the larger, multi-directional shifts seen in search, browsing, watching videos, writing, or playing games.",
+  "correct": false
+}

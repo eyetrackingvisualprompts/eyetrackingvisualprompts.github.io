@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small region with minimal horizontal or vertical progression, indicating prolonged fixation on nearly static content rather than line-by-line reading or scanning across the screen. This stable central focus over 10 seconds is most consistent with watching a video where key visual information stays in one area.",
+  "correct": false
+}

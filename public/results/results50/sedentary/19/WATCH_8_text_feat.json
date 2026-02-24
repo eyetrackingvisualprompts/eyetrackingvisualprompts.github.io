@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across wide screen regions (including extreme top/bottom and off-center), interleaved with medium-duration fixations on multiple vertical locations, indicate scanning and jumping between dispersed webpage elements rather than orderly code (WRITE/DEBUG/INTERPRET) or horizontal text lines (READ). The pattern closely matches the heterogeneous, exploratory gaze behavior seen in the BROWSE examples.",
+  "correct": false
+}

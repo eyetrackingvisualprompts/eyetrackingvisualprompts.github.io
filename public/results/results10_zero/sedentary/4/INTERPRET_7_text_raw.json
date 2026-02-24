@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show large, rapid shifts across wide screen areas, including frequent movements between central, upper, and lower regions, and clustered tracking-like movements around mid-screen. This pattern is consistent with following dynamic objects and navigating in all directions in a game, rather than the more line-structured, localized patterns typical of reading, coding, or web search/browsing.",
+  "correct": false
+}

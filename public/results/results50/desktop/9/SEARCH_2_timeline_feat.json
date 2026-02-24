@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are clustered around central screen regions with frequent small multidirectional shifts and no strong horizontal scanlines or vertical progressions, matching the dispersed, mixed navigation pattern typical for browsing webpages rather than structured reading, writing, video watching, game playing, or focused search result scanning.",
+  "correct": false
+}

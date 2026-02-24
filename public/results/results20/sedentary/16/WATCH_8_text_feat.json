@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long horizontal scans across the page, repeated returns to a central results-like region, and large saccades to widely separated coordinates (including far left and far right/top) match the pattern of scanning search engine results and snippets rather than focused reading, coding, or continuous gameplay/video viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated within a small central area with long, stable fixations (often >1s) and short, small-amplitude saccades mainly around a single region, indicating focused processing of static content rather than wide exploration (browse/search), dynamic tracking (watch/play), or gaze shifts to keyboard/menus (write). This pattern best matches sustained reading of on-screen text.",
+  "correct": false
+}

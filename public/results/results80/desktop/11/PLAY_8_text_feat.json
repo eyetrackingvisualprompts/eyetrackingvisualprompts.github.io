@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are mostly mid-duration and clustered along a narrow vertical band around mid-screen, with small horizontal saccades and occasional short vertical shifts\u2014closely matching the stable, line-by-line scanning pattern seen in the READ examples rather than the more scattered, exploratory movements in BROWSE/SEARCH or the larger, dynamic shifts in PLAY/WATCH/WRITE.",
+  "correct": false
+}

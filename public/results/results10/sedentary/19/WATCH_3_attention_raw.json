@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is distributed across multiple vertically separated regions with no strict line-by-line reading pattern and no strong clustering on a single code block or localized area, resembling scanning of a search results page rather than focused reading, coding, or debugging.",
+  "correct": false
+}

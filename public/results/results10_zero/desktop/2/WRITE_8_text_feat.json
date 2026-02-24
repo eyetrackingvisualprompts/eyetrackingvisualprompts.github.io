@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a narrow horizontal band with small, short saccades and relatively long fixations, progressing slowly from x\u22480.42 to x\u22480.60 with minimal vertical change\u2014consistent with line-by-line reading rather than the larger, more scattered movements typical of search, browse, play, or watch tasks, and more stable than typical writing gaze near a cursor area.",
+  "correct": false
+}

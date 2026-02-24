@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly clustered in a central region like reading/inspection but with several long saccades to screen corners and edges, indicating navigation between different webpage areas rather than focused code or static text, matching the heterogeneous pattern typical of web browsing.",
+  "correct": true
+}

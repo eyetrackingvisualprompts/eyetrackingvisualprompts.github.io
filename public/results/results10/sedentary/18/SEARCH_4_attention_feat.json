@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple regions, mainly upper-left and mid-screen, resembling scanning of search results and snippets rather than the tight code clusters (DEBUG/WRITE/INTERPRET) or the central, continuous band typical of plain reading; this matches the SEARCH example pattern best.",
+  "correct": true
+}

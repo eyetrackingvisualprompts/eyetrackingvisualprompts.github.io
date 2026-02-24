@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, repetitive horizontal sweeps in X with a slowly increasing Y position over time, characteristic of line-by-line reading behavior rather than the more scattered or localized patterns seen in other tasks.",
+  "correct": true
+}

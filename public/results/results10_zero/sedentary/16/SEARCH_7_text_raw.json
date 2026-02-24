@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves broadly and continuously across large screen regions, including substantial vertical shifts and scattered points without clear line-by-line or code-block structure. The pattern lacks the tight horizontal bands of reading/searching or the clustered, revisited regions typical of code tasks, and does not show focal object-tracking seen in games, aligning best with free viewing of dynamic full-screen video content (WATCH).",
+  "correct": false
+}

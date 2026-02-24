@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a limited left-central area typical of code windows, with frequent short saccades among nearby lines and a few long transitions (including a long downward shift), matching the pattern of repeatedly checking and re-checking code segments seen in the DEBUG example more than in the other tasks.",
+  "correct": false
+}

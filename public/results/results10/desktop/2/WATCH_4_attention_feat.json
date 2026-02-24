@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in a compact central region with several vertically separated hotspots, matching the scattered yet localized pattern seen in the SEARCH example rather than the linear band of READ or the tight upper-area cluster of WRITE.",
+  "correct": false
+}

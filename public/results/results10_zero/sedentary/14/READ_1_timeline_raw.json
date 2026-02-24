@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near screen center with slow horizontal drift and few large saccades, lacking systematic line-by-line or code-focused scanning; this stable, passive viewing pattern best matches watching a continuous full-screen video.",
+  "correct": false
+}

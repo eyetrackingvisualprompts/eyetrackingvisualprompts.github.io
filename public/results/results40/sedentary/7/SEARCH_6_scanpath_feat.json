@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal left-to-right sweeps across a narrow vertical band with occasional short regressions, closely matching the structured line-by-line pattern typical of reading text, and resembling the READ example more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates almost exclusively between symmetric extreme horizontal positions (around \u00b115 DVA) with minimal vertical variation and roughly 1-second plateaus at each side, matching the structured, periodic left-right movement of the Horizontal Saccades task.",
+  "correct": false
+}

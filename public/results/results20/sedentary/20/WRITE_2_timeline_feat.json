@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a narrow horizontal band with small, systematic vertical shifts and very few large saccades, matching focused inspection of short code blocks rather than extensive scrolling or dynamic content; this pattern is most similar to the INTERPRET example.",
+  "correct": false
+}

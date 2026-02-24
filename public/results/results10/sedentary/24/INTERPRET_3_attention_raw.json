@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a narrow vertical band on the left side with multiple clusters from upper to lower regions, matching the pattern of scanning stacked code lines seen in the INTERPRET examples, rather than the more dispersed or horizontal patterns of other tasks.",
+  "correct": true
+}

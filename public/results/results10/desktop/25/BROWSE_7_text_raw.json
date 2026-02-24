@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze positions stay within a compact region with small vertical changes around y\u22480.7 and occasional brief jumps upward (around y\u22480.79) and back, indicating focused reading or scanning interleaved with short relocations. The pattern is more dynamic and multi-level than the highly line-structured READ examples, and lacks the larger vertical and peripheral excursions typical of WATCH, PLAY, or WRITE, while being less stationary than BROWSE. This matches the SEARCH example\u2019s mix of local fixations with intermittent small relocations across nearby content areas on a search results page.",
+  "correct": false
+}

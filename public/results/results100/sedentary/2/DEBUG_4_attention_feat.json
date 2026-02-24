@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a single narrow left-side code area with minimal horizontal spread, closely matching the INTERPRET example pattern of concentrated gaze on a short code snippet rather than the broader scan paths seen in DEBUG or READ.",
+  "correct": false
+}

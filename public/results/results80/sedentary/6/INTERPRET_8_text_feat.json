@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a relatively small code-like region with frequent short regressions and revisits around similar coordinates (\u2248300\u2013380 x, 280\u2013380 y, plus occasional jumps to higher code lines and output/console area), matching the localized, back-and-forth inspection typical of reasoning about a given code snippet\u2019s behavior (INTERPRET) rather than broader navigation (DEBUG/WRITE) or horizontal line-scan reading (READ).",
+  "correct": true
+}

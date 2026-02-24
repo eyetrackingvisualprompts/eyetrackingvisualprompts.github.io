@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The x-position alternates regularly between about +15 and -15 degrees with long plateaus and rapid transitions, while y-position stays near zero, matching the periodic left-right tracking of a horizontally moving target.",
+  "correct": true
+}

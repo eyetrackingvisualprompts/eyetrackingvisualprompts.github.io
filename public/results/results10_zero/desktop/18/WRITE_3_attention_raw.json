@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a compact horizontal cluster of fixations in the lower-central region, consistent with reading a line or few lines of text in a stable area, rather than the broader or more scattered patterns typical of browsing, searching, gaming, watching videos, or writing (which would include more top-area fixations for toolbars and cursor monitoring).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are very smooth with small gradual drifts and minimal large saccades, indicating sustained fixation near the screen center typical of passively watching a video rather than the more frequent horizontal shifts of reading/searching or the larger, irregular movements of browsing, playing, or writing.",
+  "correct": false
+}

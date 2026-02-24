@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right scanning with steadily increasing Y-fixation and occasional larger vertical jumps, resembling scrolling through long web pages with intermittent skims rather than the denser, more uniform line-by-line pattern of focused reading or the localized, steadier gaze of coding tasks.",
+  "correct": false
+}

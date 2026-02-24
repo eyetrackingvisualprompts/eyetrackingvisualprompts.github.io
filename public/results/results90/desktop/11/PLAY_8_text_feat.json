@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with frequent short saccades and medium/long fixations around mid-screen, matching line-by-line text scanning rather than broader exploratory or highly dynamic patterns seen in browsing, search, play, or watch tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze stays mostly in the lower half of the screen (low Y values) with gradual rightward drift in X and frequent brief vertical excursions, matching looking between a central text area and top UI elements as in word processing, which aligns best with the WRITE pattern among the examples.",
+  "correct": true
+}

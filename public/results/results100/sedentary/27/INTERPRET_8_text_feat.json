@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly localized, revisiting fixations around a code-like central region with many short saccades between nearby points, interspersed with occasional long jumps to screen edges and back, closely matches the DEBUG examples\u2019 pattern of iterative scanning and re-checking code and outputs rather than the more linear (READ), free (BROWSE/SEARCH), or dynamic (PLAY/WATCH) gaze behavior.",
+  "correct": false
+}

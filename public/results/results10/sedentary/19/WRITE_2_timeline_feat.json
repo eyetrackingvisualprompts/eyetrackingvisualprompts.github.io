@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are extremely stable with minimal saccades and almost no vertical scanning, indicating continuous attention to a central region as is typical when passively watching a video rather than actively reading, searching, coding, or browsing.",
+  "correct": false
+}

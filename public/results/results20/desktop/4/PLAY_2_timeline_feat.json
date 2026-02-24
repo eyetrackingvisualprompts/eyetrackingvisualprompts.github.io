@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts with a long central horizontal fixation, then shows a large vertical saccade upward followed by extended fixations in the upper region and later transitions to mid\u2011screen with moderate scanning. This pattern matches moving from a search box/results at the top of a page to content further down, consistent with SEARCH behavior rather than the more uniform line-by-line reading or continuous browsing/game patterns.",
+  "correct": false
+}

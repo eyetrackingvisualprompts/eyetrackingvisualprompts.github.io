@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region around the screen center with limited horizontal spread and moderate vertical extent, resembling the localized attention pattern of browsing example more than the broader, line-like (READ) or widely distributed (SEARCH/WATCH/PLAY/WRITE) patterns.",
+  "correct": false
+}

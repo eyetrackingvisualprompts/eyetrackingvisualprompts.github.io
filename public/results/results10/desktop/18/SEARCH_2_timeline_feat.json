@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "X fixation stays in a relatively narrow horizontal band in the lower half of the screen while Y fixation remains low and stable with occasional small jumps, closely matching the WRITE example pattern of focusing near a single text line and reference area rather than the higher, more variable positions seen in reading or browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow vertical band with relatively low Y positions, showing small, steady horizontal movements and limited vertical scanning, which matches the pattern of looking near the bottom text/input line while writing rather than the broader vertical ranges seen in reading, browsing, or watching.",
+  "correct": false
+}

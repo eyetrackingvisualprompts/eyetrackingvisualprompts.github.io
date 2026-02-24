@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze moves across multiple dispersed regions with varied saccade directions and no strict line-by-line pattern, resembling exploratory scanning among different webpage elements seen in the BROWSE example rather than the more constrained patterns of reading, coding, or watching video.",
+  "correct": false
+}

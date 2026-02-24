@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete, approximately one-second fixations at multiple positions with both horizontal and vertical steps of at least ~2\u00b0 and up to the \u00b115\u00b0/\u00b19\u00b0 range, matching a randomly moving target rather than purely horizontal, central fixation, reading, video viewing, or game-driven patterns.",
+  "correct": true
+}

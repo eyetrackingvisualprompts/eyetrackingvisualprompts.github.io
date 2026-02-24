@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on a mid-left code area with some additional fixations lower on the screen, suggesting attention to the code plus occasional checks of output/console, matching the DEBUG example heatmap more than the other activities.",
+  "correct": false
+}

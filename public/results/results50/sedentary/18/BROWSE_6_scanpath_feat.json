@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points and saccades are widely distributed across almost the entire screen with many long, rapid directional movements and relatively fewer localized clusters, matching the dynamic, full-screen tracking behavior typical of game play rather than the more localized patterns of reading, coding, or web tasks.",
+  "correct": false
+}

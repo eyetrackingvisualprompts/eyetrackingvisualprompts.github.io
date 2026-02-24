@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered around the central upper-middle region, similar to focusing on a search box/results area, matching the SEARCH exemplar more than the other activities which show wider horizontal (reading/writing) or more dispersed (watch/browse/play) patterns.",
+  "correct": false
+}

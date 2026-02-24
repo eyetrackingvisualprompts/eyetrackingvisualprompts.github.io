@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across much of the screen with multiple clusters at different x-positions and moderate vertical spread, resembling scanning across various webpage regions, which matches the browsing heatmap pattern more than the more localized or structured patterns of reading, coding, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large spatial shifts across the screen and into off-content regions (very high y-values), with relatively smooth clusters and prolonged stays in broader areas rather than tight line-based reading or code/IDE regions. This global, scene-oriented viewing pattern with big vertical excursions and fewer structured horizontal scanpaths is most consistent with passively watching dynamic video content rather than text, code, or search/browse layouts.",
+  "correct": true
+}

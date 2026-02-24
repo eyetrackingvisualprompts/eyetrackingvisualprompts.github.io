@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small central region with limited horizontal or vertical spread and relatively stable gaze, matching the focused central viewing pattern seen when watching a video, unlike the broader horizontal sweeps of reading/writing or the scattered exploration of search/browse/play.",
+  "correct": false
+}

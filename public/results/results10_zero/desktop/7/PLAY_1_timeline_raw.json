@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze trajectories show relatively smooth, continuous movements with moderate vertical shifts and no strong left-to-right scanning pattern typical of reading or writing, nor the rapid, multidirectional jumps common in active game play or web search/browsing. This pattern matches passive viewing of dynamic content, consistent with watching a video.",
+  "correct": false
+}

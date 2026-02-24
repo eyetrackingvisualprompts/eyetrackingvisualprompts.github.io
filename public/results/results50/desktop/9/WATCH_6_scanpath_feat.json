@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points form two spatially distinct clusters (upper and lower regions) with frequent saccades between them, resembling attention shifts between key areas such as characters and subtitles in a video, which matches the WATCH pattern more than the other activities.",
+  "correct": true
+}

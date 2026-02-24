@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations are distributed broadly across the upper and middle regions of the screen in a horizontal band, resembling scanning across search results rather than focusing centrally (WATCH/PLAY) or on localized text/code blocks (READ/WRITE/INTERPRET/DEBUG). This wide exploratory pattern best matches the SEARCH heatmap example.",
+  "correct": false
+}

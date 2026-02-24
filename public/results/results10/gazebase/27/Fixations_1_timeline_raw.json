@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y positions remain nearly constant around the center with only small noise and no systematic horizontal or vertical stepping patterns, matching a sustained central fixation task rather than reading, saccades, game play, or video viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-screen with moderate vertical position (~0.36\u20130.45) and small, incremental saccades plus medium-length fixations, matching the dense scanning pattern in BROWSE examples and lacking the strong horizontal line sweeps of READ or the large, dispersed shifts seen in SEARCH/PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze fixations stay near the screen center with small-amplitude, relatively uniform horizontal and vertical movements, showing moderate scanning without large shifts. This closely matches the browsing example, which has compact central gaze with limited excursion, unlike the more dynamic patterns in play, watch, search, read, or write.",
+  "correct": false
+}

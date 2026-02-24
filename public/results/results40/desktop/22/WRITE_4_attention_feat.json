@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central region with moderate vertical spread, resembling the focused, central content viewing seen in the BROWSE example rather than the more linear patterns of READ/WRITE or the more dispersed patterns of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

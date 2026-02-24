@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades covering wide screen areas in all directions (including extreme edges and corners), with relatively brief fixations and rapid context shifts. This broad spatial coverage and dynamic scanning pattern aligns best with interactive game play, especially a game like Agario requiring omnidirectional attention, rather than the more horizontally constrained, line- or column-structured patterns of reading, writing, browsing, or searching, or the more clustered fixations typical of passive video watching.",
+  "correct": false
+}

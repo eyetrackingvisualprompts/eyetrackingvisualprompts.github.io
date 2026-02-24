@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are moderately dispersed around the center with both vertical and horizontal movements, resembling the mixed scanning of search results and page navigation rather than the tighter horizontal bands of reading or the broader spread and motion of browsing or playing.",
+  "correct": false
+}

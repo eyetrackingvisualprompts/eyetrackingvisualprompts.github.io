@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread horizontally across a wide central band with multiple clusters and revisits, resembling scanning of a search results page rather than the tight line-by-line pattern of READ or the more dispersed patterns of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

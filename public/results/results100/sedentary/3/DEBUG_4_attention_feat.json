@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered on a compact region in the upper-left code area with minimal spread elsewhere, matching the focused inspection pattern seen in INTERPRET rather than the broader movements of DEBUG or WRITE.",
+  "correct": false
+}

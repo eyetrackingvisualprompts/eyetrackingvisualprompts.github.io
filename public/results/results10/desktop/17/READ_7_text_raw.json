@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Target data shows many rapid, large gaze shifts across widely separated screen regions (e.g., mid-screen to extreme top/bottom and corners), followed by short local clusters\u2014indicative of dynamic scene monitoring and reactive movements typical of game play, and more erratic and wide-ranging than the relatively structured, columnar patterns of READ/SEARCH/BROWSE or the more central, stable focus in WATCH/WRITE.",
+  "correct": false
+}

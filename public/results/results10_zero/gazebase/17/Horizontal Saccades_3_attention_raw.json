@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows three discrete fixation clusters aligned horizontally at similar vertical position, indicating repeated large-amplitude left-center-right horizontal eye movements consistent with tracking a horizontally moving target rather than free viewing, reading, or random 2D movements.",
+  "correct": true
+}

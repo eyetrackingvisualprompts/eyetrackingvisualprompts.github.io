@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a narrow central band with many short saccades and long re-fixations, plus frequent vertical jumps to a small set of upper locations consistent with code header/IO panels. This pattern matches focused, local code inspection typical of INTERPRET, rather than the broader scanning of DEBUG or the more horizontal systematic patterns of READ/SEARCH or the dynamic spread of PLAY/WATCH/BROWSE/WRITE.",
+  "correct": false
+}

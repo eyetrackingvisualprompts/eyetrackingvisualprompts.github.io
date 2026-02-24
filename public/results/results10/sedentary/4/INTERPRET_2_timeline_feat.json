@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "X and Y fixations progress slowly with small, mostly horizontal movements and minimal large saccades, resembling concentrated inspection of a compact code snippet rather than broad scanning (SEARCH/BROWSE) or dynamic tracking (WATCH/PLAY). This pattern best matches the INTERPRET example, where gaze stays within a localized region while reasoning about code output.",
+  "correct": true
+}

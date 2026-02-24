@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze data shows many short fixations and rapid saccades across widely separated screen regions (top bar, left, mid, and lower areas) including several large vertical transitions, consistent with scanning search results and pages rather than line-by-line reading or code-focused tasks. This spatially dispersed, exploratory pattern best matches the SEARCH activity among the given classes.",
+  "correct": false
+}

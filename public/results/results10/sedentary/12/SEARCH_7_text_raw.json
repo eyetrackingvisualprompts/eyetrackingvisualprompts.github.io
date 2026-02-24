@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered in horizontal bands around consistent y-values (~130\u2013210), with smooth left\u2013right progressions and small regressions, characteristic of line-by-line reading on text, and unlike the larger vertical shifts or dispersed patterns seen in SEARCH, BROWSE, or code-related tasks.",
+  "correct": false
+}

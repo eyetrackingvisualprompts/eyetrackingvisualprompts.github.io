@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster densely over a left-side vertical region, like focused code editing, with occasional long saccades to the right (e.g., terminal or reference panel), matching the WRITE example more than other activities.",
+  "correct": false
+}

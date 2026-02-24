@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near a single horizontal band for the first half, then shows a large vertical shift followed by smooth, gradual vertical movement with modest horizontal changes\u2014indicative of following dynamic content (e.g., characters or action) in a video rather than line-by-line text reading or discrete search/browsing jumps.",
+  "correct": false
+}

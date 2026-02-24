@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid, multidirectional saccades covering most of the screen with few stable horizontal or vertical reading-like patterns, consistent with visually tracking dynamic game elements rather than structured text or static content.",
+  "correct": false
+}

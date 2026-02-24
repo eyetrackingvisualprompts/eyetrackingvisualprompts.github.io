@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact region in the upper-left area with limited horizontal spread, matching the localized fixation cluster seen during typing in the WRITE example, rather than the broader horizontal patterns of READ or the more dispersed movements of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": true
+}

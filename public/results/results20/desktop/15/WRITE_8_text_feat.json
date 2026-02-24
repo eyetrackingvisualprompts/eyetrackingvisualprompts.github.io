@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a compact region with long, stable fixations and only small local saccades, without systematic horizontal scanning or large exploratory jumps. This pattern aligns best with passively tracking a central video area (WATCH) rather than text scanning (READ/WRITE), web navigation (SEARCH/BROWSE), or wide-range exploratory movements (PLAY).",
+  "correct": false
+}

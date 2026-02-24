@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is confined to a relatively small central code-like region with many medium-long fixations and frequent short regressions within the same area, along with very long saccades but no clear horizontal line-scanning typical of reading or browsing. This localized, back-and-forth inspection over time best matches interpreting a code snippet rather than writing or debugging (which show more vertical shifts and broader exploration).",
+  "correct": true
+}

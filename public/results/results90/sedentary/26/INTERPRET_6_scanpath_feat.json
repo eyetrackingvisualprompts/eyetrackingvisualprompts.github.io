@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a compact left-side region, consistent with reading a short code snippet, with occasional long saccades to the right similar to the INTERPRET example rather than the broader spread seen in DEBUG or WRITE tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a compact region on the upper-left side, with a single small cluster on the mid-right, suggesting focused inspection of a short code snippet and its output area rather than continuous reading, dynamic following, or broad web navigation\u2014consistent with interpreting code and predicting its result.",
+  "correct": false
+}

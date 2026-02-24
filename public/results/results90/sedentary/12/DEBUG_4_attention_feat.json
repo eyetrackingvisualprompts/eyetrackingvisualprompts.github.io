@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a dense, localized fixation cluster on the left-central region with minimal horizontal scanning, matching the focused gaze on a small code snippet typical of the INTERPRET task and closely resembling its example pattern.",
+  "correct": false
+}

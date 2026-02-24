@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent cross-screen saccades between widely separated coordinates, extended viewing at central regions, and scanning of dynamic spatial areas rather than orderly line/column reading typical of text or code. This spatial, scene-like exploration with long jumps and revisits matches the WATCH (video viewing) pattern best among the given classes.",
+  "correct": true
+}

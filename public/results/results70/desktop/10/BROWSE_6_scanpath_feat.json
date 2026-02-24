@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are centered around the middle-upper region with moderate dispersion and several clusters, resembling the SEARCH example more than the tighter BROWSE cluster or the more linear READ pattern, indicating scanning of results and query areas on a search engine page.",
+  "correct": false
+}

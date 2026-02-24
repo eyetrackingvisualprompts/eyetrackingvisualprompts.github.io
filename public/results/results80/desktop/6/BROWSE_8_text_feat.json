@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around mid-screen with frequent medium-length fixations and small to moderate saccades in many directions, lacking the strict horizontal scan paths of READ, the peripheral/top-heavy focus of PLAY or WRITE, and the large vertical excursions and long static fixations typical of WATCH and SEARCH. This pattern best matches the exploratory yet locally clustered viewing seen in BROWSE examples.",
+  "correct": true
+}

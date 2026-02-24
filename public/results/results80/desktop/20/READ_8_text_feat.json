@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across wide screen regions (center to far corners, bottom to top) with clusters around mid\u2013lower vertical positions, rapid revisits, and dynamic scanning patterns match the multi-directional, action-driven viewing typical of game play rather than the more constrained vertical (READ/WRITE), upper-page (SEARCH/BROWSE), or upper-band (WATCH) gaze distributions.",
+  "correct": false
+}

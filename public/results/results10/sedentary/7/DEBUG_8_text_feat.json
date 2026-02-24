@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large vertical and horizontal saccades across widely separated regions (top bar, mid page, far bottom), including to screen edges/outside bounds, with medium-length fixations and repeated returns to header-like areas are characteristic of scrolling and scanning a webpage rather than focused code reading/writing or continuous video watching.",
+  "correct": false
+}

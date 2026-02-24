@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated on several vertically separated code-like regions on the left side, with revisits between them, resembling the INTERPRET example where participants scan multiple code lines to reason about program output rather than the tighter clusters for WRITE/DEBUG or horizontal sweeps for READ/BROWSE.",
+  "correct": false
+}

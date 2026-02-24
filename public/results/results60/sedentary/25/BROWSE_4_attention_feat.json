@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a horizontal band near the top-left/center, resembling attention on search results and snippet lines, with additional scattered looks lower on the page, matching the SEARCH example more than the more localized INTERPRET/WRITE or broader WATCH/BROWSE patterns.",
+  "correct": false
+}

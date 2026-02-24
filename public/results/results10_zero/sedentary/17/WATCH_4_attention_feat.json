@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are sparse, clustered in a few non-linear positions across the screen, including central and lower regions, consistent with tracking or navigating moving objects in a game rather than line-by-line reading or code-focused tasks which would show dense, horizontally aligned clusters.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic horizontal saccades with periodic rightward jumps in X and a slow, staircase-like downward progression in Y, matching line-by-line reading behavior seen in the READ example plot rather than the more erratic or multi-directional patterns of other tasks.",
+  "correct": true
+}

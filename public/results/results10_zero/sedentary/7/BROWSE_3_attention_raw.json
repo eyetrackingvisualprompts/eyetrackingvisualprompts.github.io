@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a strong, localized cluster of fixations in a compact region with minimal horizontal scanning, consistent with focused inspection of a small code snippet (e.g., a function) rather than extended reading, browsing, or dynamic tracking as in games or video. This concentrated analysis aligns best with interpreting a code segment to predict its output.",
+  "correct": false
+}

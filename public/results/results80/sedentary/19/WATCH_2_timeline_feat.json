@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows periods of relatively structured horizontal scanning with stepwise vertical shifts followed by epochs of larger, irregular jumps and refixations over wider screen areas, matching search-result reading and navigation patterns typical of the SEARCH condition rather than the more stable (WRITE/INTERPRET/DEBUG) or more chaotic (WATCH/PLAY/BROWSE) examples.",
+  "correct": false
+}

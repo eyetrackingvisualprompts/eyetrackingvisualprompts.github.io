@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively localized fixations with moderate saccades mostly within a central vertical band, including several long fixations (~0.8\u20131.0s) typical of sustained text processing. There is some vertical shifting consistent with moving between nearby text lines or regions, but no large, continuous horizontal sweeps (typical of Mario-like play) nor highly scattered exploratory scanning (typical of SEARCH/BROWSE), and no stable center fixation pattern as often seen in WATCH. This pattern best matches reading digital text content.",
+  "correct": false
+}

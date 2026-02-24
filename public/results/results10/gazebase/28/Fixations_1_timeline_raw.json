@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain near the screen center with very small drifts and only brief artifacts, closely matching the stable, central pattern shown in the Fixations example and unlike the larger excursions seen in other tasks.",
+  "correct": true
+}

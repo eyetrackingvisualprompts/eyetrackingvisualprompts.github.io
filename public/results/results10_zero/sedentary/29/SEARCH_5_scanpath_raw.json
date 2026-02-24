@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in two horizontal bands, consistent with alternating attention between code and another nearby area (e.g., console or editor region) with occasional long saccades, which is typical for programming tasks like implementing code rather than continuous reading, passive watching, or free browsing.",
+  "correct": false
+}

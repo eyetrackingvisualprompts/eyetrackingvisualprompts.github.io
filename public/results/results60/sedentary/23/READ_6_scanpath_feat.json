@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows structured horizontal sweeps with systematic downward shifts, forming stacked lines typical of line-by-line reading behavior, closely matching the READ example pattern.",
+  "correct": true
+}

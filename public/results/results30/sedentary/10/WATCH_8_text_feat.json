@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (including to top-left, far right, and bottom areas), with intermittent reading-like horizontal segments and revisits to disparate locations, match the exploratory, multi-region viewing typical of free web browsing rather than the more structured, row-wise patterns of reading or the more localized code-centric tasks.",
+  "correct": false
+}

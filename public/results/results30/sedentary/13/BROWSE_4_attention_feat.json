@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are broadly distributed along a horizontal band across the screen with several dispersed points elsewhere, matching the wide-area, less text-structured gaze pattern observed in the WATCH example heatmap rather than the more localized or columnar patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

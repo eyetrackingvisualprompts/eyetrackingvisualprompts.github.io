@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Very long, large-amplitude saccades between far-separated regions (upper code area and lower console/other UI), with little dense, line-by-line structure, match the erratic, back-and-forth scanning seen in the WRITE examples rather than the more localized, patterned movements of reading, searching, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in two main horizontal regions with frequent transitions between left/center and right areas, plus occasional downward movements\u2014consistent with reading results, checking different snippets, and moving to lower-ranked results in a search task, and visually similar to the SEARCH example scanpath.",
+  "correct": false
+}

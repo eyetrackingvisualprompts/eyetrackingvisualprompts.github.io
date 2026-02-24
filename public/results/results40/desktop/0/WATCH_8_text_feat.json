@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent, localized fixations and small saccades concentrated in the lower-left to lower-central area, with vertical excursions slightly beyond the nominal screen (y>1.0) and repeated returns to a similar region, match the WRITE template\u2019s cursor/typing area tracking and off-text glances more than the more horizontal, line-structured patterns in READ or the broader scanning of BROWSE/SEARCH or WATCH/PLAY.",
+  "correct": false
+}

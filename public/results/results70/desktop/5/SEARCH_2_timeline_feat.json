@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large vertical shifts and scattered fixations across both axes, indicating repeated transitions between regions such as search box, result list, and selected pages. This mixed scanning and focused reading pattern aligns best with the SEARCH activity compared to the more uniform patterns of READ or the more centralized or highly dynamic behaviors of WATCH and PLAY.",
+  "correct": true
+}

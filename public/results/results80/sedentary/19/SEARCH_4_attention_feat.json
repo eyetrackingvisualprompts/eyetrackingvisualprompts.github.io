@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is concentrated along a horizontal band in the upper-middle of the screen with additional scattered fixations elsewhere, resembling tracking of dynamic game elements across the screen rather than structured reading or coding layouts; this pattern best matches the PLAY example heatmap.",
+  "correct": false
+}

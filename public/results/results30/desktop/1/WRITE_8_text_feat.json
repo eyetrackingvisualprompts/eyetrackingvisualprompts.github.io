@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is highly localized in a small region with long, stable fixations and only tiny corrective saccades, matching the stationary upper-text-area behavior seen in the WRITE example rather than the broader scanning or line-wise progression seen in READ, SEARCH, or BROWSE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze positions show small, irregular shifts in both X and Y without large systematic sweeps or strictly horizontal jumps, matching the natural, varied eye movements seen during free video viewing rather than structured tasks like reading or controlled saccades.",
+  "correct": true
+}

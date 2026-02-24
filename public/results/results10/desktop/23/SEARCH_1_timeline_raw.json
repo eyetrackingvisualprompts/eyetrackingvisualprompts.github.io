@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movements with several discrete vertical shifts and occasional sharp spikes, resembling scanning between search results, query box, and other page elements, which best matches the SEARCH pattern compared with the provided examples.",
+  "correct": true
+}

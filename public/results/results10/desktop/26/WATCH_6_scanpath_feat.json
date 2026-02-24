@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are tightly clustered around a central region with small movements and no strong horizontal progression patterns typical of reading or writing. This compact, localized scanning resembles inspecting a specific area of a webpage (e.g., an article snippet or image), which aligns best with the browsing behavior among the given classes.",
+  "correct": false
+}

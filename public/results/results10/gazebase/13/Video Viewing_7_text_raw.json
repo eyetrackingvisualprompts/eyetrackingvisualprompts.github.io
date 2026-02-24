@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show large, abrupt multi-directional position jumps (both horizontally and vertically) followed by ~1-second clusters of small jitter around each location, matching the step-wise, randomly positioned target tracking of the Random Saccades task rather than the strictly horizontal pattern of Horizontal Saccades or the more complex patterns of viewing, reading, or gaming.",
+  "correct": false
+}

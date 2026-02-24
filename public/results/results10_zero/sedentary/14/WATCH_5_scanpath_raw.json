@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, rapid, diagonal movements across a broad central region, with few structured horizontal or vertical reading patterns. This pattern aligns with tracking moving objects or navigating in a game rather than line-by-line reading, code inspection, or static video watching.",
+  "correct": false
+}

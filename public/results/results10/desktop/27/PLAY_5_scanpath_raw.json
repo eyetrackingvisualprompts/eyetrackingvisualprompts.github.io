@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern is confined to a mid-screen region with moderate horizontal and vertical movements, resembling scanning mixed text and images on a webpage, which aligns best with the BROWSE example compared to the more linear READ or more dynamic PLAY patterns.",
+  "correct": false
+}

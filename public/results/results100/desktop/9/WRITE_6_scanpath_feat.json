@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal band in the lower half of the screen, resembling gaze focused on a single line region such as the text-entry area in a word processor, which matches the WRITE example more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are spread over a mid-screen region with frequent revisits and multidirectional saccades rather than orderly horizontal sweeps (reading/writing) or focused clusters (search); this pattern best matches exploratory viewing of varied web content during browsing.",
+  "correct": true
+}

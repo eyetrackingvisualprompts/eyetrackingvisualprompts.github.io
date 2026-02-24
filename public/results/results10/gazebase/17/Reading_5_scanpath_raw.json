@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows predominantly horizontal sweeps with small regressions, stacked across a limited vertical band, resembling line-by-line movements characteristic of reading rather than the broader, multi-directional movements seen in games, random saccades, or video viewing.",
+  "correct": true
+}

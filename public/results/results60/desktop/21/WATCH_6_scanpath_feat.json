@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows several spatially separated fixation clusters connected by long saccades across wide screen regions, indicating frequent shifts of gaze between different interface/game elements, which is characteristic of the PLAY condition compared to the more localized patterns of reading, writing, searching, or browsing.",
+  "correct": false
+}

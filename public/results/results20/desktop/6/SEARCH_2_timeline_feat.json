@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent shifts in both X and Y fixation and saccade positions over time, covering a wide portion of the screen and lacking the structured, line-by-line pattern of reading or writing, are characteristic of visually tracking dynamic game elements as in the PLAY condition.",
+  "correct": false
+}

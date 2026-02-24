@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates between two vertical regions consistent with code and output/console areas, with moderate horizontal scanning and revisits, resembling the DEBUG pattern more than the steadier INTERPRET or more linear READ/WRITE behaviors.",
+  "correct": false
+}

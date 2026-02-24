@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the center-top area with moderate dispersion and frequent transitions between nearby points, closely resembling the SEARCH example pattern more than the denser central cluster of BROWSE or the more linear horizontal movements of READ and WRITE.",
+  "correct": false
+}

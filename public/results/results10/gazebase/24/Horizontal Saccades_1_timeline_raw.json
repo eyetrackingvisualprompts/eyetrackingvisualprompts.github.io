@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X-position shows large, regular, step-like transitions between left and right extremes with roughly constant plateaus (~1 s) and minimal vertical movement, matching the pattern of symmetric, periodic horizontal target tracking in the Horizontal Saccades task.",
+  "correct": true
+}

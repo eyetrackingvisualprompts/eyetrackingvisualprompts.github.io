@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixations show relatively smooth, small-range, slowly drifting patterns without large jumps, consistent with continuous reading on a static page rather than the larger, abrupt shifts seen in search, browsing, or interactive tasks.",
+  "correct": false
+}

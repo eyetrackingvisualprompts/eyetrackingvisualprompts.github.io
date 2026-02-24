@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide vertical and horizontal extents (e.g., between top edge, bottom, and center) with shorter, scattered fixations and irregular scanning paths are characteristic of dynamic visual tracking in games rather than structured line-by-line patterns (READ/WRITE) or mid-screen focused exploration (SEARCH/BROWSE/WATCH).",
+  "correct": false
+}

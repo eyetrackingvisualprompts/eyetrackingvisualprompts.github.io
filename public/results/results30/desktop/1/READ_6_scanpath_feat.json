@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a tight horizontal band of fixations with small vertical variation, resembling line-by-line reading behavior similar to the READ example pattern, and unlike the more dispersed or multidirectional movements seen in PLAY, SEARCH, WATCH, WRITE, or BROWSE.",
+  "correct": true
+}

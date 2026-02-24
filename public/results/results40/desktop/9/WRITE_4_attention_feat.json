@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are scattered across a mid-screen band with multiple clusters and vertical transitions, resembling mixed content exploration on webpages; this pattern best matches the BROWSE example heatmap compared to the more linear READ/WRITE or focal WATCH/PLAY/SEARCH patterns.",
+  "correct": false
+}

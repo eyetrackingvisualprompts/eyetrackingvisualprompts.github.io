@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are sparse and scattered across the screen without a linear structure (as in reading), central clustering (fixation task), or strict left-right pattern (horizontal saccades). The wide, irregular distribution of gaze points is most consistent with following a randomly moving target.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays mostly around mid-screen with small vertical shifts and intermittent jumps to slightly higher regions, resembling scanning result lists and snippets. The pattern is more dynamic and multi-directional than the stable line-by-line motions seen in READ, but less erratic and peripheral than PLAY or WATCH, matching the SEARCH exemplars\u2019 moderate saccades and clustered fixations around central areas.",
+  "correct": false
+}

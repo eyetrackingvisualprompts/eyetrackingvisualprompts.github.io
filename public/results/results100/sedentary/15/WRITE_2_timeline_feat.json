@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows mostly code-focused horizontal scanning with intermittent larger exploratory saccades and vertical shifts, resembling the example DEBUG pattern more than the steadier INTERPRET/WRITE plots or the more chaotic BROWSE/SEARCH/PLAY behavior.",
+  "correct": false
+}

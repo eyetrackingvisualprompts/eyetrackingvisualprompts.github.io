@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements with relatively small vertical shifts, consistent with line-by-line reading behavior rather than large exploratory scans typical of search, browsing, or gameplay, and more structured than the looser viewing patterns expected during video watching or writing.",
+  "correct": false
+}

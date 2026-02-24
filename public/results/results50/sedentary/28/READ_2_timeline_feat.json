@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right horizontal scan patterns with gradual downward drift, punctuated by occasional large vertical saccades, resembling mixed reading and navigation typical of web browsing rather than the more regular lines of READ or the more scattered patterns of SEARCH or PLAY.",
+  "correct": false
+}

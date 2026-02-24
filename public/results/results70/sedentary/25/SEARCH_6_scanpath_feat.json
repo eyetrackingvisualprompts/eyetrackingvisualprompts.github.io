@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows long horizontal sweeps across the upper-middle of the screen with substantial fixation clusters on the left and center and scattered vertical excursions downward, closely matching the heterogeneous, multi-region exploration typical of web browsing rather than the more localized or structured patterns of reading, coding, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The target data shows extremely long saccades spanning large screen regions with relatively sparse, short fixations and repeated vertical traversals between widely separated areas. This continuous, broad spatial scanning with limited detailed inspection is most characteristic of passively following dynamic visual content in WATCH, rather than the denser, line- or code-structured fixations seen in text/code tasks (READ, WRITE, DEBUG, INTERPRET, SEARCH) or the tightly object-centered patterns in PLAY and BROWSE.",
+  "correct": false
+}

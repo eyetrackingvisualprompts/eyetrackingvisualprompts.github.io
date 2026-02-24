@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The fixation X and Y positions show a gradual upward/rightward trend with relatively smooth movements and limited large saccades, closely matching the WRITE example pattern of progressing along lines and down the page, unlike the more scattered patterns in BROWSE/SEARCH or the more dynamic shifts in WATCH/PLAY.",
+  "correct": true
+}

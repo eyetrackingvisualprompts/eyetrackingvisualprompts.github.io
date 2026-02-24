@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is mostly confined to a narrow horizontal band in the upper-left area with repeated vertical sweeps downward and occasional returns upward, consistent with line-by-line reading of left-aligned text rather than wide exploration (browsing/search), continuous central focus (watch), or scattered code/IDE inspection (write/debug/interpret/play).",
+  "correct": false
+}

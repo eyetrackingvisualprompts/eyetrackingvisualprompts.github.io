@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, repeated horizontal sweeps with relatively constrained vertical drift, closely matching the structured left-to-right, line-by-line scan pattern seen in the READ example rather than the more scattered or dynamic patterns of browsing, searching, watching, playing, or writing.",
+  "correct": true
+}

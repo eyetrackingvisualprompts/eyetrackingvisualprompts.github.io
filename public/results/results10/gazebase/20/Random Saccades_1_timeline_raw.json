@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates in large, regular horizontal steps between approximately +13 and -13 degrees with long plateaus around each position, while Y position stays near the center with minor variations\u2014this pattern matches the periodic, large-amplitude horizontal movements of the Horizontal Saccades task.",
+  "correct": false
+}

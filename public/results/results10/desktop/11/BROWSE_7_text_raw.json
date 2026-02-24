@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is clustered around mid-lower screen with slow, small vertical shifts and horizontally constrained movements, resembling line-by-line inspection of static content. The pattern lacks the large, rapid excursions of PLAY or WATCH and appears more systematic and text-oriented than the more scattered, multi-region behavior seen in BROWSE and SEARCH, matching the READ examples best.",
+  "correct": false
+}

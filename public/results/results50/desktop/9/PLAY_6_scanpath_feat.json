@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows dispersed fixations spanning both central and lower screen regions with frequent transitions among multiple clusters, indicating exploration of varied on-screen elements typical of browsing heterogeneous web pages rather than the more localized patterns of reading, writing, or watching video.",
+  "correct": false
+}

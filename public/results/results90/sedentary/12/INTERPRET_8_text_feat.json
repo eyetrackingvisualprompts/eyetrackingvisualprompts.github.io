@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a compact central region with many medium-to-long fixations (often >0.5\u20132 s) and short, local saccades, punctuated by occasional long jumps (to top or corners) likely for brief code/context checks. This pattern closely matches the INTERPRET examples, where participants dwell on a code snippet to reason about its behavior, rather than the more exploratory patterns of SEARCH/BROWSE or the horizontal scanning of READ.",
+  "correct": true
+}

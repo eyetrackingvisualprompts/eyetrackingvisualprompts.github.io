@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across multiple vertical regions, with clusters on the left and middle-right resembling attention shifts between content blocks and navigation elements, matching the browsing example more than the more focused code (WRITE/INTERPRET/DEBUG) or uniform text (READ) patterns.",
+  "correct": true
+}

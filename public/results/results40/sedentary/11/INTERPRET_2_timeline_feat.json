@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a compact central region with modest horizontal range and slowly drifting upward Y fixations, showing stable, detailed inspection of a small code block rather than wide horizontal sweeps (READ) or broader exploratory movements (SEARCH/BROWSE). This pattern best matches focused code understanding in the INTERPRET task.",
+  "correct": true
+}

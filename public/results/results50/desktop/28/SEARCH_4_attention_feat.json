@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in the central region around mid X and mid-low Y with a compact cluster and small spread, closely matching the browsing example heatmap pattern where attention is centered on main content with limited vertical scanning, unlike the more horizontal bands of READ/WRITE or upper areas of WATCH/SEARCH/PLAY.",
+  "correct": false
+}

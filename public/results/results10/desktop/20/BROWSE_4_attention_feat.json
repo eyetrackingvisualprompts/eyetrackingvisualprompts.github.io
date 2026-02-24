@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the center of the screen with small vertical spread, resembling attention to a central content block or article snippet, which matches the browsing example heatmap more than the more dispersed patterns of reading, searching, watching, writing, or playing.",
+  "correct": true
+}

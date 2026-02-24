@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The heatmap shows a tight cluster of fixations on the left-central area, closely matching the WRITE example\u2019s focused gaze on the code editor typing region, with minimal spread elsewhere compared to INTERPRET or DEBUG patterns.",
+  "correct": false
+}

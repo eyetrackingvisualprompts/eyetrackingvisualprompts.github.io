@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades and wide-ranging movements in both X and Y, similar to tracking moving objects across the screen rather than line-by-line or code-focused reading; this pattern best matches the PLAY example where eyes follow dynamic game elements.",
+  "correct": false
+}

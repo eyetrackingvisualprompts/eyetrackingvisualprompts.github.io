@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show rapid, large-amplitude shifts across wide screen regions (including edges and off-screen values), with less structured horizontal/vertical scanning typical of reading, browsing, or code-related tasks. This erratic, dynamic pattern aligns best with visually tracking moving game elements and frequent attention shifts found in PLAY activities such as Mario, Pong, or Agario.",
+  "correct": false
+}

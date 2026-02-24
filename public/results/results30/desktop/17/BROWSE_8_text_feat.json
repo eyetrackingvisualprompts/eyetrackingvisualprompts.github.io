@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades between widely separated vertical positions (top, middle, bottom of page) with short-to-moderate fixations, including repeated transitions between content-like mid/upper regions and lower areas consistent with results panels. This mixed pattern of scanning, revisiting, and jumping around the page matches the SEARCH examples more than the more locally clustered READ trajectories or the more centrally constrained BROWSE patterns.",
+  "correct": false
+}

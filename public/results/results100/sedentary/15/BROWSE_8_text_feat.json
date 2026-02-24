@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, large-amplitude saccades across wide screen areas (including frequent top/bottom and corner jumps), dense activity around central/upper regions, and many revisits to similar zones, consistent with tracking dynamic game elements rather than line-by-line reading or code-focused tasks. The spatial dispersion and movement tempo closely resemble the PLAY examples and are unlike the more structured, row-wise patterns in READ/SEARCH or the code-region clustering in WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

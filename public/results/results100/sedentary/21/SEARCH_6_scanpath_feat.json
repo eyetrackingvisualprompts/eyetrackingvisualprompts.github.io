@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread across the upper and middle areas with multiple horizontal clusters and long saccades between regions, resembling scanning of search results and occasional transitions to other page elements, which matches the SEARCH pattern more than the other activities.",
+  "correct": true
+}

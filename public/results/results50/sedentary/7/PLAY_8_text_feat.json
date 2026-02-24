@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions, many revisits between dispersed locations, and mixed vertical/horizontal tracking patterns resemble following dynamic game elements rather than structured reading, code, or static web/search content, matching the PLAY examples\u2019 gaze behavior.",
+  "correct": true
+}

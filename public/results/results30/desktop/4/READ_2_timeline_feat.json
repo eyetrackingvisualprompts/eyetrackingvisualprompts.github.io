@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements with slowly varying vertical position, forming a band-like pattern similar to line-by-line reading, and closely matches the example READ plot more than the other activities.",
+  "correct": true
+}

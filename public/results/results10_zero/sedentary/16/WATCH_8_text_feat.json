@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, repeated fixations (up to ~1s) on a few spatially clustered locations with occasional large saccades between distant regions suggest focused inspection of specific code fragments and shifting between them, consistent with debugging rather than continuous scanning (SEARCH/BROWSE), linear reading (READ), or smooth pursuit/dynamic gaze (PLAY/WATCH).",
+  "correct": false
+}

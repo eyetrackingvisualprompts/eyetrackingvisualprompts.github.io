@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is heavily concentrated on a compact region on the left-center (where code is likely displayed), with additional but lighter fixations scattered vertically in that area and a few checks toward the right, closely matching the DEBUG example\u2019s dense left-side focus plus occasional glances elsewhere rather than the more dual-cluster INTERPRET or tightly bounded WRITE patterns.",
+  "correct": false
+}

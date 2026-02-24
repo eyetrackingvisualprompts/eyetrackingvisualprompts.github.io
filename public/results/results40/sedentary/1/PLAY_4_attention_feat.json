@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a horizontal band near the center-left, indicating focused attention on a single code region with minor shifts along the same line\u2014matching the concentrated editing behavior seen in the WRITE example more than the other tasks.",
+  "correct": false
+}

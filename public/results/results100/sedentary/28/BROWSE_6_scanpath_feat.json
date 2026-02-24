@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, focused gaze cluster over a relatively narrow central code region with frequent vertical shifts and some long horizontal saccades to the far right resembles the DEBUG pattern more than other tasks, indicating intensive inspection and re-inspection typical of debugging.",
+  "correct": false
+}

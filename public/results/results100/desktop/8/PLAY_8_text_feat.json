@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts span a moderate vertical range with frequent mid-length fixations and irregular multi-directional saccades across central and slightly lower screen regions, resembling scanning heterogeneous web/news content rather than the more line-structured READ patterns or the extreme, rapid movements of PLAY or WATCH. The dynamics best match the provided BROWSE examples.",
+  "correct": false
+}

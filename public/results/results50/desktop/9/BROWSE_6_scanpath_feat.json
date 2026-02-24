@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are dispersed over a moderately wide central area with frequent saccades among multiple clusters, resembling the heterogeneous exploration pattern seen in BROWSE rather than the more linear READ/WRITE or vertically constrained WATCH/PLAY examples.",
+  "correct": true
+}

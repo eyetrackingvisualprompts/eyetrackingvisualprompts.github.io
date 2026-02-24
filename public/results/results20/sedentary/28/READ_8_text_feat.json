@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scanning along one line with repeated passes and long within-row saccades, punctuated by occasional large vertical jumps to a different region, closely matches the search-results style pattern in the SEARCH example rather than the more systematic line-by-line progression of READ or the more dispersed exploration in BROWSE/PLAY.",
+  "correct": false
+}

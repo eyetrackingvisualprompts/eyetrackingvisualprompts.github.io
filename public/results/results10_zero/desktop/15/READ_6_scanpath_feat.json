@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered along a narrow horizontal band with small, repetitive left\u2013right movements and stable vertical position, characteristic of line-by-line reading rather than broader exploratory movements seen in search, browse, or play activities.",
+  "correct": true
+}

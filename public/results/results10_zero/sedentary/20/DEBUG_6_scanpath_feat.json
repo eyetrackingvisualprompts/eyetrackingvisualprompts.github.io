@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a small region in the upper-left area with dense, localized fixations and short saccades, suggesting focused attention on a compact text/code block rather than long horizontal lines (READ) or wide exploratory movements (SEARCH/BROWSE/PLAY/WATCH). This tight clustering over 10 seconds aligns best with inspecting a small code snippet to understand its behavior, as in the INTERPRET task.",
+  "correct": false
+}

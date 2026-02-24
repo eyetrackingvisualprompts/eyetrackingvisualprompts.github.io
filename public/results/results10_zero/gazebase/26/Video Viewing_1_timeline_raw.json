@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between multiple discrete positions in both horizontal and vertical directions, with each position held roughly around one second before a rapid jump to a new, irregular location. This pattern of step-like changes in both X and Y matches a target that moves randomly across the screen rather than strictly horizontally, remaining static between jumps.",
+  "correct": false
+}

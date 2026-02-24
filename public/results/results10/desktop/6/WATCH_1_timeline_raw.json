@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate horizontal movements around screen center with step-like vertical shifts between a few bands, indicating transitions between search box, results list, and possibly page content; this pattern matches the SEARCH example more than the steadier READ or more dynamic PLAY/WATCH traces.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows widespread, multidirectional gaze shifts across nearly the entire screen with frequent transitions and no dominant horizontal reading or focused text region, matching the exploratory, all-direction viewing behavior typical of gameplay rather than reading, writing, browsing, search, or video watching.",
+  "correct": false
+}

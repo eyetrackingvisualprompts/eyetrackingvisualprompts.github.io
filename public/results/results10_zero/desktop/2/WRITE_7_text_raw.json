@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains in a relatively small, central region with smooth, slow drifts and no clear horizontal scanpath or line-by-line progression. There are no large exploratory jumps typical of SEARCH, BROWSE, or PLAY, nor the structured left-to-right/right-to-left patterns of READ or WRITE. This stable, centrally focused pattern best matches passively WATCHing a video where the main content is near the screen center.",
+  "correct": false
+}

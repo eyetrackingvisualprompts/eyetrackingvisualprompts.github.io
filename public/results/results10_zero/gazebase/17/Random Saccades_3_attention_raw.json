@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple discrete fixation clusters scattered across the screen in both horizontal and vertical directions with no clear linear (horizontal) pattern or reading-like row structure, consistent with following a target that jumps to random positions rather than fixed central fixation, horizontal tracking, reading lines, or game-specific clustered interactions.",
+  "correct": true
+}

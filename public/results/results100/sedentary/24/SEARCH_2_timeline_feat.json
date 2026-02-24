@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude vertical shifts between bands, alternating between upper and mid/lower regions, with irregular saccades and mixed horizontal movements\u2014closely matching the example SEARCH pattern of scanning results, moving to pages, then back to results, rather than the more linear READ pattern or the denser, more localized code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

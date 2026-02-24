@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The target data shows extremely long, slow saccades with very sparse, short fixations, indicating mostly smooth pursuit or large gaze drifts rather than dense reading or inspection. This low-frequency, sustained viewing pattern over wide screen regions is most consistent with watching dynamic full-screen video rather than text/code-focused tasks or rapid, reactive game movements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts across both horizontal and vertical axes with wide-ranging saccades and varying fixation bands, matching the dynamic, multi-directional viewing behavior typical of gameplay rather than the more constrained scanpaths seen in reading, writing, browsing, searching, or passive watching.",
+  "correct": false
+}

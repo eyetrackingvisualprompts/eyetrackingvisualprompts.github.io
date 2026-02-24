@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, predominantly horizontal cluster with small sequential shifts, resembling line-based reading behavior rather than the broader, multi-directional movements seen in search, browse, or play tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between a dense central-left cluster (likely main content) and excursions to top and side regions (navigation, tabs, or other elements), matching the varied, multi-area scanpath typical of web browsing rather than the more localized or pattern-specific behaviors of coding, reading, or gaming.",
+  "correct": false
+}

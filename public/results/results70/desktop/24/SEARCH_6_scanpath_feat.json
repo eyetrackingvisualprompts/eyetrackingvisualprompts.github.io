@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are widely dispersed with frequent shifts across both horizontal and vertical directions, indicating exploration of multiple screen regions such as results, links, and query box, which best matches the SEARCH pattern compared to the more localized or structured patterns of the other tasks.",
+  "correct": true
+}

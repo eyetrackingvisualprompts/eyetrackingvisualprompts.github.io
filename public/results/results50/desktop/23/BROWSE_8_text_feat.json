@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around screen center with modest vertical range and frequent short fixations interleaved with small exploratory saccades and occasional medium jumps to mid/upper areas\u2014matching the browsing example\u2019s mid-screen, interface-oriented scanning rather than the more line-structured horizontal sweeps of READ or the prolonged central clustering of WATCH. The pattern also lacks the strong text-line progression of READ and the very dynamic wide-range shifts of PLAY or SEARCH, aligning best with BROWSE.",
+  "correct": true
+}

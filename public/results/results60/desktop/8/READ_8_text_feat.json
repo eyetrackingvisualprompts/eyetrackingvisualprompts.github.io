@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with many medium-to-long fixations (~0.5\u20131.3s) and short, mostly horizontal saccades, including periodic larger leftward jumps\u2014matching line-by-line text reading and closely resembling the provided READ example, unlike the more scattered or vertical/extreme movements in SEARCH, BROWSE, PLAY, or the upper-screen focus in WRITE/WATCH.",
+  "correct": true
+}

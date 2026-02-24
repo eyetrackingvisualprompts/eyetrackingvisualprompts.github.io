@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a narrow, horizontally-elongated band of fixations in the central region, consistent with line-by-line reading over a localized text block rather than wider exploration (browse/search), large-area tracking (watch/play), or code spread across more vertical space (write/interpret/debug).",
+  "correct": true
+}

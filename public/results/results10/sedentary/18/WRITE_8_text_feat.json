@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze repeatedly alternates between a compact region near the top of the screen (around y\u2248115\u2013200, consistent with search bar/top results) and a mid\u2011lower region (y\u2248550\u2013600, consistent with scrolling to result snippets). Fixations are moderate in duration with several vertical transitions between these two bands, matching the scan-and-jump pattern of examining search results rather than the line-by-line horizontal progression of READ or the more localized code-region focus of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

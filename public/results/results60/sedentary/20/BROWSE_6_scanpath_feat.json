@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mainly constrained to a horizontal band with frequent shifts between left and right regions and occasional excursions to top/bottom areas, resembling navigation across multiple webpage elements rather than focused reading or code-centric tasks; this pattern best matches the browsing example.",
+  "correct": true
+}

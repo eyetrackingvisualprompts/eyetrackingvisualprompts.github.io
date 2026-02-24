@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Highly dynamic gaze with large saccades spanning wide screen regions (including corners and edges), frequent returns to central/game-like areas, and vertical excursions to top/bottom zones matches the continuous target-tracking and spatial exploration seen in PLAY examples rather than the more line-structured (READ/WRITE), list/result scanning (SEARCH/BROWSE), or scene-following (WATCH) patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y gaze positions fluctuate within a relatively narrow band, with small, quick shifts and no large, systematic horizontal sweeps or vertical jumps. This pattern is consistent with localized fixations and short saccades on a mostly static text layout, typical of reading, rather than the broader or more erratic movements seen in search, browsing, video watching, gameplay, or writing (which often involves frequent moves to UI elements or large gaze shifts).",
+  "correct": true
+}

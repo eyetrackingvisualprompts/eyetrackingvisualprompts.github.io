@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between widely separated positions in both horizontal (\u2248\u00b114\u00b0) and vertical (\u2248\u00b18\u00b0) directions with clear 200\u2013400 ms fixations at each location, matching a target that jumps to random screen positions and is held ~1 s, as in the Random Saccades task rather than strictly horizontal motion, static fixation, left\u2011to\u2011right reading, or complex/free viewing patterns in video or gaming.",
+  "correct": true
+}

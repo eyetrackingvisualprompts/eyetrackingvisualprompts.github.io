@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small central region with moderate, structured saccades and closely aligned X/Y fixation traces, resembling focused code editing behavior seen in WRITE rather than the broader, more exploratory patterns of SEARCH, BROWSE, or WATCH.",
+  "correct": false
+}

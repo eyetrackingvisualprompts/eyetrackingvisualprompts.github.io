@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze alternates repeatedly between a compact upper code-like region (~y\u2248100\u2013180) and a lower output/console region (~y\u2248480\u2013520), with many vertical saccades along short horizontal spans and long dwell times on small clusters\u2014matching the interpret/code-output checking pattern rather than the broader scanning of SEARCH/BROWSE or the continuous horizontal lines of READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region with minimal horizontal spread and limited vertical movement, matching the stable focus near the text-entry area seen in the WRITE example rather than the broader scanpaths of reading, browsing, or searching.",
+  "correct": true
+}

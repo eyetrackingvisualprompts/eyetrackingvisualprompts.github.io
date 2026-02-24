@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cluster in a relatively small central region with short saccades and no strong left-to-right line structure, indicating localized exploration of a webpage area rather than systematic reading or wide, dynamic movements typical of play or watch tasks. This pattern best matches the browse example.",
+  "correct": true
+}

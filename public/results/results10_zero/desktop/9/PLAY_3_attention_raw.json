@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a very localized, stable gaze cluster slightly below screen center with minimal horizontal scanning, consistent with fixating on a small region such as characters\u2019 faces or a subtitle area in a video, rather than the broader left\u2013right or vertical sweeps typical of reading, browsing, searching, playing, or writing tasks.",
+  "correct": false
+}

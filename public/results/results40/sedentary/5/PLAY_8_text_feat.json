@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows rapid, large saccades across wide screen regions (including off-screen-like coordinates), repeated shifts between mid-page, top, and bottom areas, and scattered fixations without clear line-by-line reading or stable code-block inspection. This heterogeneous, exploratory pattern with vertical and horizontal jumps best matches free web browsing behavior rather than the more structured patterns seen in reading, coding (WRITE/DEBUG/INTERPRET), search results scanning, or game-centric PLAY trajectories.",
+  "correct": false
+}

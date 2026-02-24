@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large-amplitude jumps spanning much of the \u00b115\u00b0 horizontal and \u00b19\u00b0 vertical range, with relatively stable clusters (fixations) at each location followed by rapid transitions to new, widely separated positions. This pattern matches a subject following a single target that steps to new random positions and is held there, consistent with the Random Saccades task rather than continuous horizontal motion, static fixation, reading-like scanpaths, game-driven multiple small targets, or free video viewing.",
+  "correct": false
+}

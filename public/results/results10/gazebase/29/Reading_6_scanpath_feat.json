@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions jump between widely separated locations across both horizontal and vertical axes, including large vertical transitions and scattered fixations, matching the pattern of following a randomly moving target rather than the structured rows of reading, the tight clustering of fixation/video, or the purely horizontal motion of horizontal saccades.",
+  "correct": false
+}

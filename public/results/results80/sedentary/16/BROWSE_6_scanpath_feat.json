@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated on the left side (likely results list) with repeated transitions to a cluster in the central-right area (likely a selected result page), matching the pattern of scanning search results and opening pages, characteristic of the SEARCH condition rather than the more localized IDE-focused or reading-only tasks.",
+  "correct": false
+}

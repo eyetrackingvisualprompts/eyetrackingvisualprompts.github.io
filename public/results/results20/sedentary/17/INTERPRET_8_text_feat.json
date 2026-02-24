@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations concentrate around a relatively small mid-screen code area with many short, local saccades and repeated back-and-forth checks between nearby lines/regions, resembling the focused, region-bound scan pattern of the DEBUG example more than the broader exploratory movements of SEARCH/BROWSE or the structured line-wise patterns of READ/WRITE.",
+  "correct": false
+}

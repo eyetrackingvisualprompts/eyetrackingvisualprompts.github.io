@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered in an upper-central region with moderate horizontal spread and some vertical transitions, resembling focused inspection of a results area rather than the broad, horizontal sweeps of reading or the highly dynamic, dispersed movements of playing or watching video. This pattern matches the provided SEARCH example most closely.",
+  "correct": false
+}

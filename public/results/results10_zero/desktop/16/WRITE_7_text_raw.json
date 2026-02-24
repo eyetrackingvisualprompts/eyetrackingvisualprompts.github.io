@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show predominantly horizontal movements within narrow vertical bands and long stable fixations, consistent with line-by-line reading of text on a screen rather than the more scattered, multi-directional patterns expected in browsing, search, or gameplay.",
+  "correct": false
+}

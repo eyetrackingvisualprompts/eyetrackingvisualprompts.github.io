@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered near the screen center with a compact but slightly spread region, indicating focused attention on a central content area with limited horizontal scanning, which best matches the browsing pattern rather than the more linear spread of reading or the wider dispersion of search, play, watch, or write.",
+  "correct": false
+}

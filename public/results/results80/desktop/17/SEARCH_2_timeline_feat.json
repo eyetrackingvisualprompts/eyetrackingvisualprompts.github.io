@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Y-fixation stays predominantly in the upper region with gradual drifts and fewer horizontal scanning patterns, while X shows moderate movement without strong line-by-line sweeps or dense central clustering; this resembles the WATCH template more than reading/browsing/searching layouts or the more extreme distributions seen in PLAY/WRITE.",
+  "correct": false
+}

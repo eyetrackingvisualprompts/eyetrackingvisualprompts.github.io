@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations progress slowly with mostly horizontal movements and constrained vertical range, resembling line-by-line scanning of text, which matches the READ pattern more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete, step-like changes in both horizontal and vertical directions, with the target holding each position for about one second before jumping at least ~2 DVA, matching the protocol of randomly moving bull\u2019s-eye targets rather than purely horizontal motion, continuous exploration, or central fixation.",
+  "correct": false
+}

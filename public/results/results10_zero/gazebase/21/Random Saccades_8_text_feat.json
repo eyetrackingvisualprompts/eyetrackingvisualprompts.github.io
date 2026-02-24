@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large multi-directional saccades (up to ~30\u00b0 of visual angle) with ~1-second fixations at each location match a randomly moving target paradigm rather than structured left-to-right reading, central fixation, or predominantly horizontal motion. The scattered gaze positions across both axes are most consistent with Random Saccades.",
+  "correct": true
+}

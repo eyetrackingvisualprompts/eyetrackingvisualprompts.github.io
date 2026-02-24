@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is distributed widely across the screen with many scattered fixations and irregular saccades, resembling the varied exploratory pattern of general web browsing rather than the more localized or structured patterns seen in reading, coding, or watching video tasks.",
+  "correct": false
+}

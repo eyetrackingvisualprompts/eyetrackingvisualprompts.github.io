@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Predominantly code-region level gaze with many long fixations and moderate, localized re-inspections in a tight spatial band, plus occasional jumps to other screen areas, matches the interpret/debug style patterns more than the more continuous scanning of SEARCH/BROWSE, the line-structured READ, the highly central WATCH, or the more scattered WRITE/DEBUG; overall most similar to INTERPRET examples.",
+  "correct": false
+}

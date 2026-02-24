@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the mid-screen with moderate dispersion and frequent shifts among nearby regions, matching the mixed reading-and-scanning pattern seen in the SEARCH example more than the tighter horizontal band of READ or the more scattered layouts of BROWSE and PLAY.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are concentrated in a relatively narrow vertical strip on the left side with several horizontally aligned clusters at different heights, consistent with reading text in paragraphs rather than widespread exploration, code editing, or dynamic object tracking.",
+  "correct": false
+}

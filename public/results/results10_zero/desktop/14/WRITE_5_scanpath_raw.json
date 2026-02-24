@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small central-lower region with minimal horizontal scanning or large saccades, consistent with fixating near a text insertion point while typing rather than reading lines, searching, browsing, watching video, or playing a game which typically involve wider screen exploration.",
+  "correct": true
+}

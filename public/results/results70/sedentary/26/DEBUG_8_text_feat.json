@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is largely confined to the central-left code area with many short saccades and medium-long fixations cycling over the same lines/regions, and frequent revisits between a small set of coordinates, consistent with mentally simulating and re-checking code output rather than scanning widely (SEARCH/BROWSE) or linearly (READ/WRITE/DEBUG). The spatial pattern and revisitation behavior most closely resemble the INTERPRET examples.",
+  "correct": false
+}

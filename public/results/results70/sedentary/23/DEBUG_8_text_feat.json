@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense fixations and short saccades concentrated in a relatively small central-left code-like region, with frequent revisits between a few vertical bands (line-like structures) and occasional large jumps to top/side areas (likely problem statement or I/O) match the INTERPRET examples, which show intensive local code inspection and back-and-forth between code segments, rather than the broader horizontal sweeps of READ/BROWSE or the more dispersed, dynamic patterns of PLAY/WATCH/SEARCH/WRITE/DEBUG.",
+  "correct": false
+}

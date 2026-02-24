@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a compact horizontal region with small vertical shifts, consistent with line-by-line reading of text, and there is no evidence of wide exploratory or object-tracking movements typical of PLAY, SEARCH, or BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows rapid, irregular saccades in multiple directions within a central region, without the structured horizontal/vertical patterns typical of reading, writing, or browsing/searching pages. This multidirectional, dynamic gaze behavior is most consistent with visually tracking game elements during PLAY, especially a game like Agario that requires looking around the screen.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are spread widely across the central and lower screen with frequent long saccades in multiple directions and no structured reading or code-inspection pattern, closely matching the PLAY example scanpath where attention tracks moving game elements.",
+  "correct": false
+}

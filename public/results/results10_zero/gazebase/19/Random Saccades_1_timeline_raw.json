@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like jumps to various 2D positions across both horizontal and vertical axes, with positions held roughly around 1-second plateaus before jumping again, matching the protocol of a randomly moving bull\u2019s-eye target rather than purely horizontal motion or free viewing.",
+  "correct": true
+}

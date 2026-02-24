@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long, stable fixations with very small, gradual shifts in both X and Y, and almost no rapid horizontal sweeps or line-by-line progression. This pattern matches passively watching a video rather than reading, coding, searching, or active interaction tasks like playing or browsing.",
+  "correct": false
+}

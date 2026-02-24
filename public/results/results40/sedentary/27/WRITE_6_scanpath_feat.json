@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is heavily concentrated on the left side of the screen with some long excursions to the lower-left and mid-left, matching focused interaction with a code editor area and occasional reference shifts typical of writing code rather than the more central, broader patterns seen in reading, browsing, or watching tasks.",
+  "correct": true
+}

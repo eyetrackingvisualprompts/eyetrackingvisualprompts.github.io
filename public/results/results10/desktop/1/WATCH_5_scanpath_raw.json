@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is clustered around the screen center with frequent short multidirectional saccades and revisits, similar to the example BROWSE pattern and unlike the more linear READ path or wide-range SEARCH explorations.",
+  "correct": false
+}

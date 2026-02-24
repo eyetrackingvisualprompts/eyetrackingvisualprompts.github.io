@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower part of the screen (Y around 0.2\u20130.35) with relatively small vertical range and gradual rightward drift in X, matching the stable text-line focus near the typing area typical of the WRITE condition rather than the broader vertical movements seen in reading, searching, browsing, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are concentrated in a narrow horizontal band across the midline of the screen, forming a left-to-right progression with limited vertical movement, which is characteristic of reading lines of text rather than scanning varied regions (search/browse), tracking dynamic objects (watch/play), or focusing on code areas (write/debug/interpret).",
+  "correct": true
+}

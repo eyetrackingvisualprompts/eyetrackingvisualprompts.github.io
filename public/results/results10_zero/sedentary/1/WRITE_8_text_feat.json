@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows repeated horizontal tracking along a narrow vertical band (around y\u2248480\u2013500) with rapid back-and-forth saccades between x\u2248550\u2013800, characteristic of following a moving object along a line (e.g., Pong) rather than reading lines of text or scanning code or search results, suggesting a game-playing activity.",
+  "correct": false
+}

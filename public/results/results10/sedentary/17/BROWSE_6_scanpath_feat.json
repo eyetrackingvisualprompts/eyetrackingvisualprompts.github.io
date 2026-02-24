@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form mostly horizontal lines with small vertical shifts, indicating line-by-line reading over a compact text region, matching the READ scanpath pattern more than the other tasks.",
+  "correct": false
+}

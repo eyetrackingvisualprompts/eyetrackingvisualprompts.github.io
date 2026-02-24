@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze follows large, abrupt jumps (up to ~30+\u00b0) in varying directions with relatively long, stable fixations (~0.2\u20130.6 s) at each new location, consistent with tracking a randomly relocating target rather than orderly horizontal motion (horizontal saccades) or clustered, text-like or scene-like exploration (reading/video/game).",
+  "correct": false
+}

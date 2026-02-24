@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent saccades in both X and Y with broad horizontal coverage and irregular vertical shifts, resembling the dynamic, dispersed viewing pattern of watching video content rather than the more structured line-by-line or code-focused patterns of reading, writing, interpreting, debugging, searching, or browsing, and lacking the tight object-following seen in gameplay.",
+  "correct": true
+}

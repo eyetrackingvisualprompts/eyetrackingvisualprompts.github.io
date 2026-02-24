@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Predominantly horizontal gaze around mid-screen with small vertical shifts and long, steady fixations matches the line-by-line scanning pattern seen in the READ examples, unlike the larger jumps of SEARCH/BROWSE or the peripheral, more varied patterns of WATCH/PLAY/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The heatmap shows horizontally spread fixations across the upper part of the screen with multiple scattered clusters and some lower-page checks, matching the exploratory, top-to-bottom scanning typical of search engine result browsing rather than the more focused or centrally concentrated patterns of the other tasks.",
+  "correct": true
+}

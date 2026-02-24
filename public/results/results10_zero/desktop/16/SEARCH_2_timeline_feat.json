@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain near screen center with small, smooth shifts and limited vertical scanning, indicating passive viewing of centrally located dynamic content rather than systematic line-by-line reading, text editing, or exploratory web/search/game navigation, which would show larger horizontal/vertical excursions and more variable patterns.",
+  "correct": false
+}

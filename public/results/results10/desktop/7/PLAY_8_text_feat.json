@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze stays mostly around the central region with medium-length fixations and frequent but not strictly horizontal saccades, including some vertical shifts and occasional larger relocations, matching the mixed scanning of headlines, images, and elements typical of web browsing rather than the more line-structured horizontal patterns of reading or the more extreme, dispersed movements of play/watch/search.",
+  "correct": false
+}

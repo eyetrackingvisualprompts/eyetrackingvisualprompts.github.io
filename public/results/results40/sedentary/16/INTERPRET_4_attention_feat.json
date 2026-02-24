@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on a compact region in the upper-left where the code editor text typically appears, with additional scattered points slightly below suggesting occasional checks of other interface elements. This spatial pattern closely matches the WRITE example and differs from the tighter single-block INTERPRET focus or the more distributed DEBUG/search-like scanning.",
+  "correct": false
+}

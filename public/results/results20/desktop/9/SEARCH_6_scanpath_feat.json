@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows dispersed fixations within a central-mid screen area with frequent short saccades and modest vertical movement, resembling the exploratory, non-linear viewing seen in the BROWSE example rather than the more horizontal, line-based patterns of READ/WRITE or the top-focused WATCH pattern.",
+  "correct": false
+}

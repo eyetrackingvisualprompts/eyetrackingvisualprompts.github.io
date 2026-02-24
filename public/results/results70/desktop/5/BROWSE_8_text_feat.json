@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a central band with predominantly short-to-medium fixations and small horizontal/vertical shifts, matching line-by-line text scanning and local regressions seen in the READ examples, rather than the broader vertical spans of SEARCH/BROWSE or large multidirectional jumps of PLAY/WATCH/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades to screen edges/outside, revisits to top regions, and scanning of mid-page horizontal bands with irregular back-and-forth and vertical jumps match the exploratory, non-linear navigation seen in BROWSE, rather than the more structured patterns of reading, coding, or watching video.",
+  "correct": false
+}

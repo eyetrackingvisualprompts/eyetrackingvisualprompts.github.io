@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly confined to a moderate vertical band, repeatedly moving between a central code-like region (~y\u2248450\u2013650) and lower areas (~y>800\u20131000), with many revisits to similar coordinates and mid-length fixations. This pattern matches focused inspection and re-inspection of nearby code lines and console/output areas typical of debugging, unlike the more horizontal scans of reading/browsing or the broader, dynamic shifts seen in watching videos or playing games.",
+  "correct": false
+}

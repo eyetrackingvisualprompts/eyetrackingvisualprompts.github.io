@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete, step-like fixations at various horizontal and vertical locations across the screen, with approximately 1-second dwells and irregular changes in both axes. This matches a target jumping to random positions (random saccades) rather than purely horizontal motion, central fixation, structured reading, video viewing, or the game pattern.",
+  "correct": true
+}

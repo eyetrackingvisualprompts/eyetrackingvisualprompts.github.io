@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long saccades to widely separated regions (often including near-corners), repeated horizontal sweeps across a mid-screen band, and frequent returns to similar coordinate ranges match the scanning of varied webpage content seen in BROWSE examples, rather than the tighter, line-based patterns of READ or the code-focused areas of programming tasks.",
+  "correct": false
+}

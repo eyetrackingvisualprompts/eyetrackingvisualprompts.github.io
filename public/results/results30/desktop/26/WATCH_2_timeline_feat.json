@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, frequent shifts in both X and Y without strong directional drift or large vertical excursions, resembling the varied, exploratory but center-clustered pattern seen in the BROWSE example rather than the more structured patterns of READ/WRITE or the larger movements of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

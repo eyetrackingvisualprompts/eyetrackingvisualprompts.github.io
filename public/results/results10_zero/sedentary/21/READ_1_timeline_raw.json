@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near the screen center with minor drift for several seconds, indicating sustained attention to a single focal area, then a single large vertical saccade and new stable region, consistent with passively watching a video scene change rather than the multi-line scanning or frequent shifts typical of reading, coding, searching, or gameplay.",
+  "correct": false
+}

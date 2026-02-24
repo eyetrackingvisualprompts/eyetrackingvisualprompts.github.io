@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster in a relatively small lower-left coding/text area with many short, local saccades and repeated returns to similar coordinates, consistent with focused editing/typing on code rather than broad scanning (SEARCH/BROWSE) or line-structured reading (READ).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is concentrated near the screen center with frequent shifts in both vertical and horizontal directions, forming a compact but dynamic cluster similar to the PLAY example where attention tracks a central moving game character, unlike the more linear patterns of READ/WRITE or multi-region patterns of SEARCH/WATCH/BROWSE.",
+  "correct": true
+}

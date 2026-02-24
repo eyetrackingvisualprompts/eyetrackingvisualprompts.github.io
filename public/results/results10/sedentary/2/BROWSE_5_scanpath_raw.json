@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers multiple vertically separated regions with long saccades between upper and middle screen areas, resembling movement between query box, result snippets, and lower content typical of search engine use, rather than the more localized patterns of READ, WRITE, or DEBUG.",
+  "correct": false
+}

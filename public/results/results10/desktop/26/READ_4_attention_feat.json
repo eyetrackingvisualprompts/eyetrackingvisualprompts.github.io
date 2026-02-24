@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central-lower area of the screen with limited horizontal spread, resembling focused viewing of a small content region such as a news article segment, which matches the browsing example heatmap more than the other activities.",
+  "correct": false
+}

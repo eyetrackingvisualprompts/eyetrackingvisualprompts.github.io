@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a compact central region with moderate vertical and horizontal spread, similar to the example BROWSE and SEARCH patterns. However, the cluster is lower on the screen with less vertical range than SEARCH, resembling typical reading/viewing of mid-page web content rather than top-oriented search result layouts, making BROWSE the closest match.",
+  "correct": false
+}

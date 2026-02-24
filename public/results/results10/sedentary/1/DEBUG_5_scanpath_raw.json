@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is mostly confined to a narrow code area with a few long diagonal shifts, closely matching the INTERPRET example pattern and differing from the denser, more localized DEBUG pattern.",
+  "correct": false
+}

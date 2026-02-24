@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow horizontal band with many short left-right saccades and medium-long fixations, characteristic of line-by-line reading, and unlike the larger vertical shifts and broader spatial exploration seen in browse/search/play/watch data; it also lacks the more dispersed and top-biased pattern of writing near a text editor input line.",
+  "correct": true
+}

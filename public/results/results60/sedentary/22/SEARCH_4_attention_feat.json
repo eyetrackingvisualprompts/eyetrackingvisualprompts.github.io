@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed across multiple horizontal bands and scattered regions, indicating alternating attention between results, snippets, and possibly a side area\u2014closely matching the SEARCH example heatmap pattern rather than the more focused code, reading, or video/game layouts.",
+  "correct": true
+}

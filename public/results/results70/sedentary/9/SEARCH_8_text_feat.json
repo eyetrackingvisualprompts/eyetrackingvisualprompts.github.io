@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (including off-center extremes) interleaved with medium-length fixations and revisits to mid-page areas resemble scanning and jumping behavior over a long web page, matching the BROWSE pattern more than the more localized, line-structured movements of READ or the code-focused patterns of programming tasks.",
+  "correct": false
+}

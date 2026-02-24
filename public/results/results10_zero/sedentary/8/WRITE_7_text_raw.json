@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show large, rapid shifts across wide screen areas (including extremes and off-screen-like coordinates), with frequent direction changes and dispersed clusters rather than orderly line-by-line or block-based inspection. This pattern aligns best with visually tracking dynamic game elements and navigating the playfield, characteristic of the PLAY condition, rather than the more localized, structured, or stationary patterns expected for reading, coding (INTERPRET/DEBUG/WRITE), browsing/searching, or watching video.",
+  "correct": false
+}

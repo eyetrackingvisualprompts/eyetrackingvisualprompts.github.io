@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades cluster around mid-screen with frequent medium-amplitude vertical and horizontal shifts between nearby regions, including occasional larger jumps to different vertical levels, resembling scanning of mixed content areas. The pattern lacks the tight horizontal line sweeps of READ, the strong top-text/bottom-subtitle split of WATCH, or the edge/top-focus typical of WRITE, and is more similar to the heterogeneous, exploratory scanpaths observed in the BROWSE examples.",
+  "correct": false
+}

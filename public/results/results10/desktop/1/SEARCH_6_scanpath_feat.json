@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a compact central region with short saccades and repeated revisits to nearby locations, resembling the example BROWSE pattern more than the more linear READ paths or the broader, more scattered SEARCH/WATCH distributions.",
+  "correct": false
+}

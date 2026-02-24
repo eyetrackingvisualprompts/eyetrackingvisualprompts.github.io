@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized fixations around code-like coordinates with many short saccades, repeated revisits to nearby lines, and occasional large jumps to other interface regions (likely console, project tree, or error locations) match the pattern seen in DEBUG examples more than the more linear scan of READ/INTERPRET or the broad exploratory shifts of BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": false
+}

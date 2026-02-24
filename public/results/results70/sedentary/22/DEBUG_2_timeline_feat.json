@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades in both X and Y with shifting fixation bands and periodic vertical jumps, consistent with scanning result lists and switching between pages, which matches the SEARCH pattern more than the steadier code-focused or text-reading activities.",
+  "correct": false
+}

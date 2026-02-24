@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a relatively small left-side region with two vertical bands (likely code and console/terminal), frequent transitions between them, and some movement to slightly lower lines, matching the focused, back-and-forth inspection typical of debugging rather than the more localized INTERPRET or more dispersed WRITE/BROWSE patterns.",
+  "correct": false
+}

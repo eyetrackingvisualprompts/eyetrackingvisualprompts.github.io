@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are confined to a narrow vertical band with slow, small horizontal movements and many short, stable fixations, resembling line-by-line text scanning. There are no large multidirectional shifts typical of PLAY, SEARCH, or BROWSE, and less vertical spread than WATCH or WRITE, matching the provided READ pattern best.",
+  "correct": false
+}

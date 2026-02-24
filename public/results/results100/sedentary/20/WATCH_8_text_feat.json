@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades covering wide screen areas (including corners and edges), many revisits between dispersed regions, and mixed mid-length fixations suggest visually tracking and reacting to moving elements rather than structured reading or code inspection. This global, dynamic scanning pattern aligns best with the PLAY examples, especially action-heavy games, and differs from the more localized, line/region-based patterns in READ/WRITE/DEBUG/INTERPRET or the semi-structured scanning in SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are mostly clustered in a narrow central region with relatively small, careful movements, resembling focused inspection of a compact code snippet. There is a brief burst of larger saccades around the middle, similar to the INTERPRET example where participants re-check parts of the code, and much less horizontal scanning than in READ/BROWSE or dynamic tracking seen in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

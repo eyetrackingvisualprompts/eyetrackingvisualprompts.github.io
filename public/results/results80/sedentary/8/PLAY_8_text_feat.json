@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a compact central code-like region with many short, local regressions and re-inspections of nearly the same locations, and only occasional long saccades to the top/side\u2014this tightly clustered, line-level scrutiny with back-and-forth around specific coordinates matches the INTERPRET examples more than the broader scanning patterns of DEBUG, WRITE, or the more global movements of BROWSE/SEARCH/WATCH/PLAY/READ.",
+  "correct": false
+}

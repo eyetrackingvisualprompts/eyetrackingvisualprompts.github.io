@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions are mostly stable with small horizontal movements and gradual vertical shifts, suggesting line-by-line reading with occasional saccades, rather than the larger multidirectional movements typical of games, web search/browsing, or video watching.",
+  "correct": false
+}

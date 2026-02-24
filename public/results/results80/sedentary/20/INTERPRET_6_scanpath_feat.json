@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a compact code region on the left side, with repeated revisits and short saccades plus a few longer jumps\u2014matching the focused, iterative inspection pattern seen in the DEBUG example more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains around central screen regions with medium-length fixations and frequent multidirectional saccades (including vertical shifts), without the systematic horizontal scanpaths of READ, intense vertical scrolling/search-pattern jumps of SEARCH, or the edge-focused, broader-range movements typical of PLAY/WATCH; this pattern best matches the heterogeneous, mid-screen exploration seen in BROWSE examples.",
+  "correct": false
+}

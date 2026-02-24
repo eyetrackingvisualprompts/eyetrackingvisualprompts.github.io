@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is concentrated in a horizontal band mid\u2011screen, with rapid short saccades and many revisits along similar y\u2011coordinates, matching object-following/anticipatory tracking typical of the PLAY examples. Later large jumps to UI-like top areas resemble game HUD checks rather than the more vertical, line-based scanning of READ/SEARCH or code-like patterns of WRITE/DEBUG/INTERPRET, and are more structured than BROWSE or WATCH.",
+  "correct": false
+}

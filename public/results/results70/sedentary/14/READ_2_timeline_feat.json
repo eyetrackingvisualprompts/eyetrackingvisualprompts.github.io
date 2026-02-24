@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target data shows a smooth, monotonic increase in Y fixation with repeated staircase-like X fixations and saccades, closely matching the systematic left-to-right and top-to-bottom scanning pattern observed in the READ example plot, unlike the more scattered or variable patterns of other tasks.",
+  "correct": true
+}

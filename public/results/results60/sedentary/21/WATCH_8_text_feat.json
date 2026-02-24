@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including corners), frequent returns between dispersed areas, and many mid-duration fixations on central/object-like locations resemble continuous tracking and navigation typical of simple games rather than the more line- or paragraph-structured, or code-block-focused patterns seen in reading, writing, debugging, or interpreting tasks.",
+  "correct": false
+}

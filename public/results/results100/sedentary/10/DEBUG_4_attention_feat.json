@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in a narrow vertical band on the left side with two dense code-like regions and very few off-area looks, matching the focused, localized gaze pattern seen in the DEBUG example rather than the more spread or horizontally scanning patterns of READ, BROWSE, or SEARCH.",
+  "correct": true
+}

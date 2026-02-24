@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small lower-central region with very small, slow drifts and repeated micro-adjustments, matching the stable, localized fixation pattern typical of typing in a word processor rather than the larger horizontal sweeps of reading or the broader, more varied movements seen in browsing, searching, watching, or playing.",
+  "correct": false
+}

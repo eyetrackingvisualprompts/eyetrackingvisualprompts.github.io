@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, rapid, diagonal movements covering a wide vertical range with fewer sustained, localized fixations. This pattern is consistent with tracking and reacting to dynamic objects in a game rather than the tighter, line-based or block-based fixations typical of reading, coding, or web search/browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze fixations stay near the screen center with small, frequent adjustments and limited vertical movement, matching the relatively stable, mid-screen pattern seen in the BROWSE example more than the stronger vertical scanning of READ/WRITE or larger shifts of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

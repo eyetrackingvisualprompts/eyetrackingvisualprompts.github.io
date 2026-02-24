@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large saccades across wide screen regions, many mid-duration fixations without systematic line-by-line reading, repeated returns to central/mid-lower areas, and tracking-like movements in clustered regions match the dynamic, scene-following pattern of WATCH more than the more structured, text/code or search layouts of other tasks.",
+  "correct": false
+}

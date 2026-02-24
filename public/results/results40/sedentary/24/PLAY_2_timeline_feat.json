@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows smooth, nearly monotonic horizontal progression with very small vertical variation and few large saccades, matching sustained line-by-line reading behavior rather than the more scattered or task-switching patterns of browsing, coding, or games.",
+  "correct": false
+}

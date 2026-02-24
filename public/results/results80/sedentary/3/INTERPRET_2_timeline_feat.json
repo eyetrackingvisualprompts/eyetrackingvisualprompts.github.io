@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow central region with modest horizontal and vertical movements, plus occasional larger saccades consistent with shifting between code and small UI areas, matching the WRITE example more than the other tasks.",
+  "correct": false
+}

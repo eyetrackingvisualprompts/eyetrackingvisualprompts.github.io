@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows mostly horizontal, line-like progressions with small vertical shifts and stable fixations in the upper-middle screen area, characteristic of reading text rather than the larger, more scattered or dynamic movements typical of browsing, searching, watching videos, playing games, or writing near the lower screen region.",
+  "correct": false
+}

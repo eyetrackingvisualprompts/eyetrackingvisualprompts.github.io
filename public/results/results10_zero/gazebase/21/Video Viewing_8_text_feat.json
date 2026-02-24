@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations last a few hundred milliseconds and are followed by large, multidirectional saccades spanning both horizontal and vertical axes across much of the \u00b115\u00b0\u00d7\u00b19\u00b0 range, with no clear linear, horizontal-only, or text-like scanning pattern, which matches the random target jumps in the Random Saccades task rather than reading, horizontal saccades, video viewing, fixations, or the more clustered, object-focused Balura game.",
+  "correct": false
+}

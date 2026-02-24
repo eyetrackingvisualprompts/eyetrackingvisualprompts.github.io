@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover a wide area of the screen with large saccades in multiple directions, lacking the horizontal line structure of reading or the more clustered patterns of browsing/searching. This broad, dynamic, multi-directional scanpath best matches the visual exploration typical of gameplay, especially a game requiring navigation in all directions.",
+  "correct": false
+}

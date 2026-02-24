@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows mostly horizontal movements within a narrow vertical band, consistent with line-by-line reading of text rather than larger exploratory, interactive, or dynamic viewing patterns seen in coding, games, or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows two main horizontal bands (top for query/results, middle for snippets) with frequent long saccades between them and to the right side, matching the pattern of examining search results rather than focused coding (WRITE/DEBUG) or structured reading (READ).",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is spread horizontally with multiple clusters and some vertical movement, indicating scanning different webpage regions rather than the tight horizontal lines of reading or the focused bands of coding tasks. This dispersion best matches the browsing pattern.",
+  "correct": true
+}

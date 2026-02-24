@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are widely distributed across the screen, including edges and corners, with no dominant horizontal text band or concentrated coding region. This broad, dynamic coverage best matches the exploratory, object-following gaze patterns seen in PLAY rather than more localized tasks like READ, WRITE, or DEBUG.",
+  "correct": false
+}

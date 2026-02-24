@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region slightly below screen center with limited horizontal spread, matching the focused central cluster seen in the BROWSE example rather than the elongated reading pattern or dispersed search/game/watch patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points stay in a relatively narrow central band with small, smooth horizontal shifts and short vertical movements, consistent with line-by-line reading on a static text page, rather than the larger, more scattered or dynamic movements typical of search, browsing, watching video, writing (with keyboard/screen switches), or gameplay.",
+  "correct": false
+}

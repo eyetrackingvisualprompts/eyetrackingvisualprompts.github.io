@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a small code-like region (x\u2248250\u2013350, y\u2248350\u2013550) with many short saccades and repeated regressions between nearby positions, indicating intensive local re-reading and verification rather than line-by-line reading or broad exploration. Occasional long jumps to screen corners resemble quick context checks typical when mentally simulating code, matching the INTERPRET examples more than the other task classes.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay near screen center with moderate, frequent saccades and small-range shifts in both X and Y, resembling the mixed, exploratory yet locally constrained pattern seen in the BROWSE example more than the more structured horizontal scans of READ/WRITE or the larger directional shifts of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

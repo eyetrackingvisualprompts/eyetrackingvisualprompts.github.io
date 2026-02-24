@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent vertical and horizontal saccades between widely separated regions (including off-page/top-bar and far-peripheral areas), interleaved with shorter fixations around mid-page coordinates, match the exploratory, results-scanning and query-refining behavior seen in the SEARCH examples more than the more structured line-by-line patterns of READ or the tighter code-focused patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

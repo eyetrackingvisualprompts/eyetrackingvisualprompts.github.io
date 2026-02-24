@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated long horizontal sweeps across a narrow vertical band with frequent large jumps to different vertical regions and even off-center/high coordinates, matching scanning SERP and result pages in SEARCH more than the more line-locked, orderly patterns of READ or the localized code-focused patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

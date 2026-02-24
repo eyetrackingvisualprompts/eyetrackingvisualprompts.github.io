@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data shows large, irregular saccades in varying directions and amplitudes (both horizontal and vertical) between dispersed locations, with ~200\u2013400 ms fixations, matching the random, discrete target jumps of the Random Saccades task rather than the structured horizontal-only pattern, tight central fixation, systematic line-like reading pattern, or more clustered/naturalistic video viewing and game behaviors.",
+  "correct": false
+}

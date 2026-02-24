@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide, frequent jumps across screen regions (including off-center and edges), mixed horizontal and vertical scanning, and visits to many disparate locations resemble exploratory web navigation patterns in the BROWSE examples more than the more structured line-based patterns of READ/SEARCH or the tighter code-focused clusters of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

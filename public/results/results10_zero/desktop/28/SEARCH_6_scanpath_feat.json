@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a relatively small vertical band with smooth, slow drift and few large saccades, consistent with following limited on-screen motion (e.g., main characters or subtitles) in a video rather than the systematic line-by-line or scanning patterns seen in reading, writing, browsing, searching, or gaming.",
+  "correct": false
+}

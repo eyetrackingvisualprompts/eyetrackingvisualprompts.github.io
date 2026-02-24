@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the center with some vertical spread, resembling the SEARCH pattern where gaze alternates between results and central content, unlike the more horizontal READ pattern or peripheral distributions in other tasks.",
+  "correct": false
+}

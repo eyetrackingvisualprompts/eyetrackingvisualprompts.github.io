@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows relatively smooth, mostly horizontal movements with slow drifts and localized regressions, consistent with scanning lines of text rather than large, rapid multi-directional shifts typical of games, web search, or general browsing/video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form predominantly horizontal clusters with short progressive and regressive movements and limited large-scale exploration, matching line-by-line reading patterns rather than broad visual search, gameplay tracking, or code-focused tasks which would show more distinct vertical scanning between code and IDE regions.",
+  "correct": false
+}

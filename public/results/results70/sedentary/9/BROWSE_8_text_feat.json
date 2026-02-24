@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between widely separated screen regions (top, bottom, corners), many excursions off main content, and mixed vertical/horizontal scanning resemble free-form navigation across webpages rather than structured code, game following, or line-by-line reading.",
+  "correct": true
+}

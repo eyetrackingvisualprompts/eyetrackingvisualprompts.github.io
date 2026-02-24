@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen in irregular positions, without a clear horizontal band (horizontal saccades), central cluster (fixation), structured line-like pattern (reading), or localized dynamic clusters typical for game or video viewing, matching a target jumping to random locations every second.",
+  "correct": true
+}

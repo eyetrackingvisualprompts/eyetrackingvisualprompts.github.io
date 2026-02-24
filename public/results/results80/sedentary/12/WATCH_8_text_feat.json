@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps across wide screen regions (including off-center extremes), mixed with shorter horizontal scans and scattered fixations at various vertical levels resemble exploratory navigation of diverse webpage content rather than structured line-by-line reading or focused code inspection; the pattern best matches the heterogeneous, multi-region behavior seen in the BROWSE examples.",
+  "correct": false
+}

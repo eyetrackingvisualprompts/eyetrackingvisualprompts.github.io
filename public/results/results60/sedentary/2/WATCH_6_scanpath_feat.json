@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cover a wide central-horizontal band with frequent long saccades towards screen edges and back, indicating dynamic tracking of moving objects across the screen, which matches the PLAY examples more than the other task patterns.",
+  "correct": false
+}

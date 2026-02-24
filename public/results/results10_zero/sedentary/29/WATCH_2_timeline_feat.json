@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows relatively large, smooth shifts in both X and Y with few stable horizontal scan lines typical of reading or coding; instead it reflects tracking and repositioning across the screen, consistent with visually following or navigating game elements during PLAY.",
+  "correct": false
+}

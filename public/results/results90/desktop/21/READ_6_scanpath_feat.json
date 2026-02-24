@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows long, orderly horizontal sweeps with small vertical steps between them, forming multiple parallel lines across the page\u2014characteristic of line-by-line reading behavior rather than the more clustered or scattered patterns seen in search, browsing, watching, writing, or playing games.",
+  "correct": true
+}

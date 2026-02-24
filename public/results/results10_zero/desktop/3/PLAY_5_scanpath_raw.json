@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath is concentrated in a relatively small central area with irregular, multi-directional saccades and no clear horizontal or vertical line structure typical of reading or writing. The gaze shifts appear driven by dynamic, changing stimuli rather than systematic text or search/browse navigation, which aligns best with watching a video where attention moves among moving elements on the screen.",
+  "correct": false
+}

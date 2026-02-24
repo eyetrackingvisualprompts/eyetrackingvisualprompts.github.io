@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long sequence of horizontal scan-like movements around mid-screen interspersed with frequent large saccades to screen edges/top/bottom, repeated shifts between widely separated regions, and absence of orderly line-by-line reading; this mixed exploratory and semi-systematic pattern aligns best with free web browsing rather than focused coding (WRITE/DEBUG/INTERPRET) or passive WATCH/PLAY/SEARCH behaviors.",
+  "correct": true
+}

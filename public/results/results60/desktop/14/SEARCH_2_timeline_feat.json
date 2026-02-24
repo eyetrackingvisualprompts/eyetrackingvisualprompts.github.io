@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation positions for both X and Y fluctuate around the screen center with moderate, irregular movements and frequent mid-sized saccades, lacking the systematic line-by-line horizontal scanning of READ or the strong top\u2013bottom separations of WRITE/PLAY/WATCH. This diffuse, exploratory pattern best matches the BROWSE example, where users casually inspect varied web content.",
+  "correct": false
+}

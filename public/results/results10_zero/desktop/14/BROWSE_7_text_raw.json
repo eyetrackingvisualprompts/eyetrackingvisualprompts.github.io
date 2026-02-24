@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show predominantly small, stable clusters with moderate horizontal shifts and limited large saccades, consistent with line-by-line reading on static text rather than the broader, more exploratory scans typical of SEARCH, BROWSE, or PLAY, or the large object/character-centered motions expected in WATCH and WRITE.",
+  "correct": false
+}

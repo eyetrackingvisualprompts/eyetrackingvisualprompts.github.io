@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left-central area where code typically appears, with additional scattered looks toward the right side similar to checking console/output or other IDE panels, matching the DEBUG pattern more than the other tasks.",
+  "correct": false
+}

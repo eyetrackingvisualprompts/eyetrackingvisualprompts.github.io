@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows structured horizontal sweeps across multiple vertically stacked lines within a narrow column, characteristic of systematic line-by-line reading behavior rather than broader exploratory or task-switching patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large saccades between widely separated regions (e.g., lower-left to upper areas and across horizontal positions), visits to screen edges and corners, and irregular, non-linear scanning patterns indicate spatial exploration and target tracking typical of interactive gameplay rather than the more line- or area-confined patterns of reading, writing, or web browsing.",
+  "correct": true
+}

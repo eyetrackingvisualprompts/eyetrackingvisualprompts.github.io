@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal band with limited vertical movement and dense, sequential fixations across the page, matching the characteristic left-to-right reading pattern rather than the more dispersed or clustered patterns seen in browsing, search, watching, writing, or playing.",
+  "correct": false
+}

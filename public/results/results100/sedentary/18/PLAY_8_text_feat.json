@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-screen content, high horizontal excursions, and large jumps to screen edges and corners, resembling scanning heterogeneous web pages rather than the more linear patterns of READ/WRITE or object-focused PLAY/WATCH. Frequent long saccades to extreme coordinates and varied vertical positions closely match the example BROWSE behavior.",
+  "correct": false
+}

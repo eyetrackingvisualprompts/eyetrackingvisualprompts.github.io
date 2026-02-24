@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered in the upper-middle region with frequent shifts among several nearby locations, reflecting interaction with multiple elements (results, links, snippets) typical of web searching rather than the more linear patterns of reading or writing.",
+  "correct": false
+}

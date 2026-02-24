@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal exploration with frequent medium-size saccades and changes in vertical position, indicating scanning across different screen areas rather than systematic line-by-line reading or focused code inspection. This pattern best matches the SEARCH example, where users examine search results and related content across the page.",
+  "correct": false
+}

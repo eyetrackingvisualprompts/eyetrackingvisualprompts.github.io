@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact region on the left side of the screen with dense, short fixations and minimal horizontal or vertical exploration, matching focused inspection of a small code snippet typical of the INTERPRET task rather than the broader spread seen in browsing, searching, playing, or watching.",
+  "correct": false
+}

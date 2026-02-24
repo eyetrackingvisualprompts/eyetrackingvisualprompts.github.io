@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The horizontal gaze position alternates in large, nearly symmetric steps between about +13 and -13 degrees with clear plateaus of roughly one second, while vertical position stays near the center with only small deviations. This pattern matches the controlled \u00b115\u00b0 horizontal target jumps described for Horizontal Saccades.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation and saccade patterns show moderate horizontal movement around mid-screen with occasional vertical shifts, resembling the mixed, less structured scanning seen in the BROWSE example rather than the more regular lines of READ or the stronger vertical bias of WRITE and WATCH.",
+  "correct": false
+}

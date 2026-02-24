@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between multiple discrete positions both horizontally and vertically, with each position held roughly around one second before a jump to a new location with variable amplitude and direction, matching the description of following a randomly moving target rather than strictly horizontal, central fixation, reading, video viewing, or game-specific behavior.",
+  "correct": false
+}

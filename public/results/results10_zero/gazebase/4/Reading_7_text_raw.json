@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze exhibits large, discrete jumps to widely separated positions across both horizontal and vertical dimensions, with subsequent small fluctuations around each new location\u2014consistent with following a randomly moving target that holds for ~1s, not with repetitive horizontal-only motion, central fixation, or the more clustered, content-driven patterns of reading, video viewing, or game interaction.",
+  "correct": false
+}

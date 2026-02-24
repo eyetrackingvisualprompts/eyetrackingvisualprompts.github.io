@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, widely distributed gaze shifts across screen regions (including extreme coordinates and off-screen points), mixed with clusters of shorter fixations, resemble the heterogeneous, multi-region scanning typical of free web browsing rather than the more structured, line-based patterns of reading or the focused code/IDE areas seen in programming tasks.",
+  "correct": true
+}

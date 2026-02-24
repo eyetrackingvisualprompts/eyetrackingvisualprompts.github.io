@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows frequent large saccades in multiple directions across much of the screen, with dispersed fixations and rapid transitions rather than tight clusters on text or code. This broad, dynamic coverage best matches the visual tracking and navigation demands seen in the PLAY example (e.g., following game objects) rather than the more localized patterns of reading, coding, or web search.",
+  "correct": false
+}

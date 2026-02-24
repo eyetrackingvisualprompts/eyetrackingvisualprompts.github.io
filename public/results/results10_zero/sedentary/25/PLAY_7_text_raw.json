@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cover a wide 2D area with frequent, rapid shifts in both horizontal and vertical directions, including large excursions toward screen edges, consistent with tracking and navigating dynamic game elements rather than line-by-line reading, code-focused tasks, or passive video watching.",
+  "correct": true
+}

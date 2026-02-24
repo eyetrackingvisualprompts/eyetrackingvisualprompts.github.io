@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows broad horizontal sweeps and larger vertical excursions with irregular saccades, covering wide screen regions rather than line-by-line or code-structured scanning, matching the more global viewing pattern typical of WATCH compared to the more constrained, text- or code-focused tasks.",
+  "correct": false
+}

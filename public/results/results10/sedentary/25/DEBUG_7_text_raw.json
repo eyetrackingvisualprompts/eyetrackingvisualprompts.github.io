@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-lower code-like region with frequent short saccades within a confined band, back-and-forth checks around similar coordinates, and occasional jumps to other close regions\u2014matching the dense, local re-reading and verification patterns visible in the DEBUG example more than the smoother line-wise scanning of READ or the broader exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

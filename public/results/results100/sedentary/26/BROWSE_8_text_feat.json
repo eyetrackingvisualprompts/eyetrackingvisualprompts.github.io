@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, smooth horizontal scanpaths across a consistent vertical band, with regular left-right progressions and brief regressions, characteristic of line-by-line reading rather than the more scattered, object-driven or multi-region patterns seen in coding, games, web search, browsing, or video watching.",
+  "correct": false
+}

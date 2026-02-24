@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y fixations drift smoothly over time with moderate saccades, indicating continuous following of dynamic visual content rather than structured scanning (READ/WRITE) or frequent irregular jumps (SEARCH/BROWSE/PLAY). This pattern best matches the WATCH activity examples.",
+  "correct": false
+}

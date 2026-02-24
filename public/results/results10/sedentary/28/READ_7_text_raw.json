@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze coordinates are concentrated in a relatively tight vertical band in the lower half of the screen with smooth, continuous shifts across a wide horizontal range and no clear horizontal-line reading pattern or code-like cluster around a central area. The movements resemble following dynamic visual content rather than scanning text, code, or UI elements, which aligns best with the WATCH activity.",
+  "correct": false
+}

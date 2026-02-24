@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across much of the upper-middle screen with several distinct clusters and some scattered points, resembling scanning of multiple webpage regions rather than the focused central cluster of PLAY, localized code areas of INTERPRET/DEBUG/WRITE, or the structured lines of READ; this matches the BROWSE example pattern most closely.",
+  "correct": false
+}

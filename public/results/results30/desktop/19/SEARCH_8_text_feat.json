@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent transitions between mid-page and multiple vertical regions (top, middle, bottom), with several long saccades and moderate fixations, consistent with scanning SERPs and result pages rather than the more line-structured, band-limited patterns of READ/WRITE or the more central, stable focus of WATCH. The pattern also differs from the tighter, horizontally constrained movements seen in BROWSE examples, aligning best with SEARCH behavior.",
+  "correct": true
+}

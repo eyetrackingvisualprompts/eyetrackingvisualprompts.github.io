@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long saccades between top URL/search bar region, mid-page content, and bottom page area with brief fixations and repeated jumps resemble scrolling and scanning behavior in web browsing, matching the BROWSE example patterns more than the more localized code (WRITE/DEBUG/INTERPRET) or structured reading/search layouts.",
+  "correct": false
+}

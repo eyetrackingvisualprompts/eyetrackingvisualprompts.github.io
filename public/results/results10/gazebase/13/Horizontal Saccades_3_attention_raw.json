@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows three tightly clustered fixation regions aligned horizontally at the same vertical level\u2014left, center, and right\u2014indicating repeated large-amplitude horizontal eye movements between fixed positions, characteristic of the Horizontal Saccades task.",
+  "correct": true
+}

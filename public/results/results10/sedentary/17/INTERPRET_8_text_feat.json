@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a compact text-like region and distant UI elements near the top of the screen (including negative y), with several long fixations and large horizontal/vertical saccades typical of scanning results and address/search bar rather than continuous reading, code editing, or video watching.",
+  "correct": false
+}

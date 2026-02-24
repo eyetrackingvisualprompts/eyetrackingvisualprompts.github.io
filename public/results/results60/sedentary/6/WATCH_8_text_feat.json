@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent gaze shifts across distant screen regions (including toward screen edges), visits to both high and low vertical positions, and repeated transitions between central content-like areas and peripheral/upper regions match the exploratory, multi-region scan patterns seen in the SEARCH examples more than the more locally confined patterns of READ/WRITE/DEBUG/INTERPRET or the smoother WATCH/PLAY trajectories.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Large, frequent transitions between distant screen regions (including off-screen coordinates), repeated refixations within code-like vertical bands, and prolonged local inspection patterns closely resemble the provided DEBUG examples, rather than the more horizontal, line-structured patterns of READ/BROWSE or the more global smooth-tracking of WATCH/PLAY.",
+  "correct": false
+}

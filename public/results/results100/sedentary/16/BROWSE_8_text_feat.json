@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows rapid, frequent saccades across large spatial extents (center to corners, off-screen and back), with many revisits to moving-like loci around mid\u2013lower screen and substantial vertical oscillations, matching target tracking and situational scanning typical of game play rather than the more linear, text/IDE-bound patterns of reading, coding, debugging, or searching.",
+  "correct": false
+}

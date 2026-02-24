@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are spread widely across the screen in isolated clusters without a clear horizontal band (as in reading) or central bias (as in video). The distribution and spacing of clusters closely match the example pattern for Random Saccades, where the target jumps to discrete positions held for one second across both horizontal and vertical extents.",
+  "correct": true
+}

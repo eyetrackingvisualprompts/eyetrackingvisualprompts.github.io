@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a compact region of the screen with dense, repeated fixations and few excursions elsewhere, matching focused inspection of a small code snippet as in the INTERPRET task, rather than the broader spread seen in WATCH/PLAY/BROWSE/SEARCH or the slightly more extended regions used in DEBUG/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows long periods of relatively stable horizontal position with modest drift, interrupted by several rapid, large-amplitude vertical and horizontal excursions concentrated around the middle of the interval\u2014consistent with game-driven saccades (e.g., tracking a character or objects) rather than the more systematic, line-by-line or scroll-based patterns typical of reading, writing, searching, watching, or general browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, repeated fixations and short saccades clustered around a compact code region (x\u2248250\u2013350,y\u2248450\u2013560) with frequent vertical shifts between slightly different lines and occasional large jumps to other screen areas match the detailed, iterative inspection and reinspection typical of debugging rather than the more linear scans of reading/browsing or object-following in games/videos.",
+  "correct": false
+}

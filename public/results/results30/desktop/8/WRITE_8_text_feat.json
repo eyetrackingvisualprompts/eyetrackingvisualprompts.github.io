@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide horizontal and vertical extents (including to the lower screen), interspersed with short fixations, indicative of monitoring a dynamic game scene rather than line-by-line text (READ/WRITE) or more localized content scanning (SEARCH/BROWSE). The pattern of rapid relocations to disparate regions matches the PLAY examples best.",
+  "correct": false
+}

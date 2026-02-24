@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay around mid-screen with moderate variability and intermittent vertical shifts, resembling the mixed, less-structured scan paths of browsing rather than the more systematic horizontal patterns of reading/writing or the larger, more dynamic movements of playing or watching video.",
+  "correct": false
+}

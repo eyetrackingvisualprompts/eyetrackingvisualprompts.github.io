@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are distributed across a wide central region with several distinct clusters at different vertical levels, indicating following dynamic visual content rather than structured text (READ/WRITE/DEBUG) or highly scattered exploration (BROWSE/SEARCH). This spatial pattern best matches the WATCH example, where gaze tracks moving elements in a video.",
+  "correct": true
+}

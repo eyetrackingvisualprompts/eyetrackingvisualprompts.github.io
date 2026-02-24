@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixation patterns show a slow, mostly horizontal progression of X position with relatively stable Y position and periodic saccadic jumps, closely matching the structured left-to-right, line-by-line behavior typical of reading and resembling the READ example more than the other activities.",
+  "correct": false
+}

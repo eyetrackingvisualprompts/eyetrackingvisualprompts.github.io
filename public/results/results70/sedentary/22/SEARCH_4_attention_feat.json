@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a horizontally distributed band across the upper half of the screen with several clusters and some scattered points, resembling scanning through web content and navigation elements, which matches the BROWSE example heatmap more than the other task patterns.",
+  "correct": false
+}

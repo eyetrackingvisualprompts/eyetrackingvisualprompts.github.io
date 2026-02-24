@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is focused on a compact region on the left side with short, repeated fixations and small vertical transitions between two nearby bands, matching the localized code inspection pattern seen in the DEBUG example rather than the more dispersed or linear patterns of other tasks.",
+  "correct": false
+}

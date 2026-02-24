@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a compact left-side code area with limited horizontal spread and a few vertical scans, similar to the INTERPRET example where participants read and reason about a small code snippet rather than exploring widely as in DEBUG or BROWSE.",
+  "correct": true
+}

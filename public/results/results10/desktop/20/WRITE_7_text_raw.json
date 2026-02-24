@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in a central band with many short, local shifts and occasional small vertical relocations, resembling scanning and alternating between content regions typical of web browsing. The pattern lacks the strong systematic line-by-line horizontal sweeps of READ, the large dispersed jumps of PLAY/SEARCH, or the extended static regions seen in WATCH, and it is more exploratory and less keyboard-anchor\u2013centered than WRITE.",
+  "correct": false
+}

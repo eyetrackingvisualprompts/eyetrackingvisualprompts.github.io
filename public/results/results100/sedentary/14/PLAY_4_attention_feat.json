@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a horizontal band across the upper-middle of the screen, aligned with typical search results and snippets, and closely resembles the example SEARCH heatmap more than the patterns for browsing, reading, or coding tasks.",
+  "correct": false
+}

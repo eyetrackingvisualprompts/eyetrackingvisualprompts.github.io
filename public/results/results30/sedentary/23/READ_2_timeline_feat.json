@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a relatively steady, slowly drifting horizontal pattern with gradual downward movement in Y, consistent with line-by-line text reading and most similar to the READ example timeline among the provided classes.",
+  "correct": true
+}

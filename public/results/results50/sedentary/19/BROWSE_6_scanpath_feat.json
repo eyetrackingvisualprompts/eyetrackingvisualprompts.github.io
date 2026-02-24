@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a compact code-like region on the left-center with occasional vertical shifts, resembling the localized inspection of a small code snippet seen in INTERPRET rather than the broader horizontal sweeps of READ or wider dispersal of SEARCH/DEBUG.",
+  "correct": false
+}

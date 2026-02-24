@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze positions are predominantly arranged along a narrow horizontal band with y-coordinates gradually shifting downward over time, consistent with line-by-line reading. The pattern shows short fixations (~200\u2013300 ms) and horizontal saccades of varying amplitudes, including regressions, rather than the regular, symmetric sweeps of instructed saccade tasks or the more scattered 2D movements typical of video viewing, random saccades, or the Balura game.",
+  "correct": true
+}

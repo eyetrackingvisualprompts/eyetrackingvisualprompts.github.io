@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal movements with occasional larger vertical shifts between regions, matching the mixed reading and scanning pattern of search results pages rather than the steadier lines of READ or the more chaotic motion of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

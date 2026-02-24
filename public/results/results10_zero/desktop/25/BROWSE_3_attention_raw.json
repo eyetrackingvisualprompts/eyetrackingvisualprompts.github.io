@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a single, highly concentrated fixation area around the upper\u2011central region of the screen with minimal horizontal scanning, consistent with watching a video where attention remains on a stable region (e.g., character area or subtitles) rather than the systematic left\u2011to\u2011right, multi-line scanning seen in reading/searching/browsing or the broader, more distributed movements typical of playing or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central region with moderate vertical spread, matching the browsing pattern more than the tighter horizontal band of reading or the more dispersed search/play patterns.",
+  "correct": false
+}

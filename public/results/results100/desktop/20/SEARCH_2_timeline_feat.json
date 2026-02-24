@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the screen center with moderate, irregular vertical and horizontal shifts and relatively frequent saccades, indicating scanning varied web content rather than the more structured, line-based patterns of reading or the larger directional sweeps seen in play or watch tasks; this best matches the browsing behavior.",
+  "correct": false
+}

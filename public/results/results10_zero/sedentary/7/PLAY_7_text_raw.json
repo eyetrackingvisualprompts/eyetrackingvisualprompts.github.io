@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is clustered in a relatively small central-right region with frequent short-amplitude shifts and recurrent returns, suggesting continuous tracking and micro-adjustments typical of following game elements on screen rather than systematic line-by-line reading or code inspection patterns seen in WRITE/READ/DEBUG/INTERPRET.",
+  "correct": true
+}

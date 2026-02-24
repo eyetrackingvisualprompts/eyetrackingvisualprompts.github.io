@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly clustered around a narrow central region with relatively small horizontal span and limited large saccades, matching the stable, code-focused pattern of INTERPRET rather than the more dynamic movements seen in SEARCH, BROWSE, DEBUG, or PLAY.",
+  "correct": true
+}

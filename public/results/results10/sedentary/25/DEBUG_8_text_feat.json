@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations and short saccades clustered around a consistent lower-central code area, with occasional large jumps to other regions (likely console/output or other code sections), closely resemble the DEBUG example\u2019s pattern of repeatedly revisiting similar coordinates to inspect and verify code rather than the more linear patterns of reading/browsing or the broad movements of play/watch/search.",
+  "correct": true
+}

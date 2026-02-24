@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster in two vertical regions (likely results list and a clicked page) with occasional long saccades to the top area, resembling scanning search results and moving between them, similar to the SEARCH example and unlike the more localized READ/DEBUG/WRITE patterns or the wide, dynamic PLAY/BROWSE patterns.",
+  "correct": false
+}

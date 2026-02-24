@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow vertical strip on the left with a dominant cluster in the lower area, resembling attention around the text cursor and nearby words while typing, matching the WRITE pattern more than the broader, more horizontal distributions of READ or BROWSE/SEARCH.",
+  "correct": true
+}

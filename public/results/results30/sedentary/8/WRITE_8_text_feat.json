@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze repeatedly alternates between a central code/text region around y\u2248350\u2013420 and a narrow band at the very top of the screen (y\u224850\u201390), consistent with switching between an editor code area and top UI elements (tabs, menus, or console). The pattern shows many medium-length fixations and short revisits over the same code lines rather than smooth line-by-line progression (READ) or broad vertical exploration (SEARCH/BROWSE), and there is no dynamic object following or large-amplitude screen-wide shifts characteristic of PLAY or WATCH. This top\u2013middle shuttling with focused re-reading matches the WRITE examples from the IDE context.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across a mid-screen band with multiple clusters and some vertical movement, resembling scanning of varied web content rather than the tight left-focused clusters of coding tasks or the broader dispersion of WATCH/PLAY. This matches the browsing example heatmap most closely.",
+  "correct": true
+}

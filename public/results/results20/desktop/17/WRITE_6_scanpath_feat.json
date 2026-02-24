@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between two separated vertical regions (likely search results and a side/other area) with moderate saccades and dispersed fixations, resembling exploratory web searching more than the more linear READ pattern or the tighter BROWSE cluster.",
+  "correct": false
+}

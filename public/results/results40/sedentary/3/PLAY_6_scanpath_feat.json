@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered around a central-left area with moderate vertical spread and irregular saccades, resembling focused but exploratory inspection of code as in the DEBUG example, rather than the more linear patterns of READ/BROWSE or the dispersed motion of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

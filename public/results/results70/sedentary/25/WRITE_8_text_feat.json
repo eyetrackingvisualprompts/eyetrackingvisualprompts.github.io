@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a relatively small central-lower region with dense, short saccades and repeated refixations around similar coordinates, consistent with monitoring and editing code in an IDE. There are occasional large horizontal jumps to far-right x>1400 regions and back, matching shifts between code and UI elements (e.g., console, files, or run button), a pattern typical for WRITE/debug tasks and less so for continuous reading, video watching, or game-like PLAY. Compared to DEBUG examples, there are fewer extreme off-screen excursions and more stable oscillations over one working area, aligning better with WRITE behaviour.",
+  "correct": true
+}

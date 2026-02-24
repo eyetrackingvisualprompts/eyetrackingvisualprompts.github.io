@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a compact cluster slightly below the screen center with limited horizontal spread, closely matching the SEARCH example pattern (focus around the middle of a search results page) rather than the more horizontally extended READ/BROWSE patterns or dispersed WATCH/PLAY patterns.",
+  "correct": false
+}

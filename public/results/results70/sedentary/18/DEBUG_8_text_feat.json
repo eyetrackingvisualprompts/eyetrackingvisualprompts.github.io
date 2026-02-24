@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small central-lower region with many short, back-and-forth fixations and frequent revisits to nearby coordinates, characteristic of monitoring and editing a small code area while typing, similar to the WRITE examples rather than the broader scanning or line-by-line reading patterns of other tasks.",
+  "correct": false
+}

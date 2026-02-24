@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows broad, smooth shifts in both X and Y with irregular large saccades and no consistent line-by-line or code-structured pattern, matching the more free, scene-following behavior typical of watching a video rather than reading, coding, or structured web tasks.",
+  "correct": false
+}

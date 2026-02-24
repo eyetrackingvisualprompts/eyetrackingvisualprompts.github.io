@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are distributed horizontally across mid-screen bands with multiple clusters resembling line-by-line scanning of text across a wide area, similar to the READ example and broader than the more centrally focused BROWSE/SEARCH patterns.",
+  "correct": false
+}

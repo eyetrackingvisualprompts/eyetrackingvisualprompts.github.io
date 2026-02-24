@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay near screen center with modest horizontal movement and relatively stable vertical position, matching the mild scanning and limited up-down shifts seen in the BROWSE example rather than the stronger line-wise patterns of READ or focused layouts of WRITE/SEARCH.",
+  "correct": false
+}

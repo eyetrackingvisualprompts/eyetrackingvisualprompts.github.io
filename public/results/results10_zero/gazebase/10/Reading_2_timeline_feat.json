@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete step-like fixations to multiple positions with both horizontal and vertical shifts of varying amplitudes, held roughly around 1 second each, matching a target that jumps unpredictably across the screen rather than purely horizontal motion, central fixation, or the complex patterns of reading or game/video viewing.",
+  "correct": false
+}

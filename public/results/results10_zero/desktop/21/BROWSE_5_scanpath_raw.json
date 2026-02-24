@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are tightly clustered in a small central area with short, local saccades and no systematic horizontal line sweeps typical of reading or browsing. This stable central focus over 10 seconds suggests monitoring a narrow region like the text insertion area and nearby UI while typing, which best matches the WRITE task.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster in a compact central region with frequent short saccades and moderate dispersion, resembling mixed examination of search results and query area; this pattern is more scattered than structured reading or writing but less wide-ranging than browsing or gameplay, matching the SEARCH example most closely.",
+  "correct": false
+}

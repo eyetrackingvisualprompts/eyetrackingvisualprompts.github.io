@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen horizontal fixations with moderate saccades and a gradual upward trend in Y later in the window, consistent with scrolling and scanning results pages, matching the SEARCH pattern more than the steadier READ or localized WRITE behaviors.",
+  "correct": false
+}

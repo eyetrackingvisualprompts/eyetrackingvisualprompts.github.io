@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are mostly mid-screen with moderate durations and frequent medium-amplitude shifts in multiple directions, without the systematic horizontal line sweeps of reading or the extreme large jumps typical of playing. The pattern closely matches the exploratory, scroll-and-skim behavior seen in the BROWSE example (central band of y-values with varied saccade directions and lengths).",
+  "correct": false
+}

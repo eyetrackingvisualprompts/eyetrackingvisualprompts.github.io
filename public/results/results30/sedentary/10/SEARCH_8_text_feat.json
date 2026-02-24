@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps between distant screen regions (top bar, mid-page, far right, bottom) and excursions toward extreme coordinates resemble navigation across different webpage areas and tabs, matching the heterogeneous, exploratory scanpaths seen in the BROWSE examples rather than the more structured, line-based patterns of READ or the code-centric clusters of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

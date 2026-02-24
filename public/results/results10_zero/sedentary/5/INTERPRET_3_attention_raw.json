@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is heavily concentrated in a small region with minimal systematic scanning or line-by-line movement, suggesting sustained attention to a single area of the screen typical of watching a video rather than reading, coding, or searching, which show more distributed, structured scan paths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is clustered around a compact left-center area (typical IDE/code region) with occasional long saccades to the far right/top, resembling shifts to console/output or UI elements, matching the debugging example pattern more than other tasks.",
+  "correct": true
+}

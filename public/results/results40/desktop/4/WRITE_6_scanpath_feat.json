@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements along a narrow vertical band, forming two main text-line\u2013like clusters with systematic left-to-right progress and regressions, which closely matches the pattern seen in the READ example rather than the more scattered or multi-directional patterns of browsing, searching, watching, playing, or writing.",
+  "correct": false
+}

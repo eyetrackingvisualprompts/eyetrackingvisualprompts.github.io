@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-level horizontal exploration with moderate variability and vertical positions centered around the middle of the screen without strong top/bottom bias. This mixed but not highly systematic scan pattern aligns best with browsing heterogeneous web pages rather than the more structured patterns of reading/writing or the more extreme movements of playing games or watching videos.",
+  "correct": false
+}

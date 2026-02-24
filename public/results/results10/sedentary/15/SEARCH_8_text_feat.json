@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent transitions between far-separated regions (left/top content area and far right/bottom areas) with scattered, non-linear fixations suggest navigating a complex webpage layout rather than the tighter, column-bound patterns of code reading/debugging or the smoother central focus of watching video or playing a game.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large horizontal shifts with intermittent vertical jumps and varied fixation bands, resembling scanning across different webpage regions and switching content sections, which best matches the heterogeneous patterns seen in the BROWSE example rather than the more structured or task-focused patterns of coding, reading, or gaming.",
+  "correct": false
+}

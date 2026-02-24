@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show frequent, small to medium saccades distributed around the screen center with no strong horizontal scanning pattern or stable upper-text-line fixation band. This mixed, exploratory pattern most closely matches the example BROWSE data, indicating dynamic viewing of varied web content rather than structured reading, writing, or focused watching/playing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cluster around a mid-screen region with moderate vertical movement and several localized fixations, similar to the BROWSE example where attention shifts among content blocks and interface elements, unlike the more linear READ pattern or the wider PLAY movements.",
+  "correct": false
+}

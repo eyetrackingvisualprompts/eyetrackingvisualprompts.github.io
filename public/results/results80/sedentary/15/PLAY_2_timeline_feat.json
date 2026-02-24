@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal scanning with moderate vertical shifts and occasional large saccades, resembling movement between a results list and linked pages, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow band in the lower half of the screen with long, repeated fixations around a stable horizontal location and only small local saccades, matching the stationary text-entry area pattern seen in WRITE examples rather than the broader vertical scanning of READ or the more dispersed exploration in SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

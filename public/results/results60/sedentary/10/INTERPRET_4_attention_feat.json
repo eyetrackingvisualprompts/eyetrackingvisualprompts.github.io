@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered in a narrow vertical code area on the upper-left, with minimal spread elsewhere, closely resembling the INTERPRET example where participants focus intensely on a short code snippet to reason about its output, rather than the more horizontally extended patterns seen in DEBUG or WRITE.",
+  "correct": true
+}

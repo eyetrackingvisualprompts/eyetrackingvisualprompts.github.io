@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation trajectories show mid-screen, relatively stable horizontal positions with moderate vertical shifts and mixed saccades, most similar to the BROWSE example and less structured than READ while less exploratory than SEARCH or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is densely clustered over a narrow left-side code area with many short, overlapping fixations and occasional long saccades to the right\u2014matching focused inspection and back-and-forth checking typical of debugging activity rather than more distributed patterns of browsing, reading, or playing.",
+  "correct": false
+}

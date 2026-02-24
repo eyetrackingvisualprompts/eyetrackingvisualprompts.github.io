@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-to-large shifts in both X and Y with several plateau-like fixations and abrupt transitions, indicating continuous tracking and reorienting to dynamic on-screen elements, which best matches the PLAY examples rather than the more static reading, coding, or browsing patterns.",
+  "correct": false
+}

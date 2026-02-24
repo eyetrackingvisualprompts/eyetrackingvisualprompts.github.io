@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The target data shows frequent, large-amplitude saccades in both X and Y with rapidly shifting fixation positions across the screen, closely matching the dynamic gaze behavior and dispersion seen in the PLAY example rather than the more structured or localized patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

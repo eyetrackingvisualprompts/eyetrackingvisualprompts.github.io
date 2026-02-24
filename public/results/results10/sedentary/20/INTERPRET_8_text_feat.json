@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze repeatedly alternates between a mid-upper code region (~350\u2013440 px) and lower areas (~560\u2013640 px) with long, multidirectional saccades and moderate fixations, consistent with scanning through and revisiting multiple code sections during debugging rather than the more top-down reading/searching or screen-spanning watching/playing patterns.",
+  "correct": false
+}

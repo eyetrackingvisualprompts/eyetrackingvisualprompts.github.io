@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "X fixations move smoothly and broadly across the horizontal axis with relatively stable Y around screen center, resembling the continuous lateral tracking of video content rather than line-by-line reading or concentrated code tasks; this pattern best matches the WATCH example.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions are distributed across a mid-horizontal band with several clusters and medium-range saccades, resembling mixed reading and exploratory navigation on web pages, which best matches the browsing pattern among the examples.",
+  "correct": false
+}

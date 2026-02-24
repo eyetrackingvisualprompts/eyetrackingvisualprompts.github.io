@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around central-upper page region with many short fixations and moderate vertical and horizontal scroll-like saccades, including repeated transitions between mid-page (~0.5,0.6\u20130.7) and lower/upper areas (~0.3\u20130.5 vertically), closely matching the heterogeneous but text-structured pattern seen in the BROWSE example rather than the more line-locked READ pattern or the more dispersed SEARCH/PLAY/WATCH behaviors.",
+  "correct": false
+}

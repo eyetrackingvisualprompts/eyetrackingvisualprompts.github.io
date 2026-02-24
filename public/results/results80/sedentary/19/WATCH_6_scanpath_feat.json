@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely scattered across the screen with irregular saccades and varied fixation locations, resembling exploratory viewing of multiple webpage regions rather than structured reading, code-focused tasks, or following a single moving object, which is characteristic of BROWSE behavior.",
+  "correct": false
+}

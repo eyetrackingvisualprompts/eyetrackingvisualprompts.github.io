@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows horizontal scanning with occasional larger saccades and moderate vertical shifts, resembling the pattern of moving between search results and snippets, which matches the SEARCH example more closely than the other activities.",
+  "correct": true
+}

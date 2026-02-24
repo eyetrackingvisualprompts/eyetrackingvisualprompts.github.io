@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal movement with variable vertical shifts and irregular saccades, indicating scanning of diverse, non-uniform webpage layouts, which best matches the browsing pattern compared to the more structured read/write traces or the stronger motion patterns in watch/play/search.",
+  "correct": false
+}

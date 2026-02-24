@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions cluster around the screen center with frequent small horizontal and vertical shifts and intermittent saccades, resembling the mixed, less structured scanning pattern seen in the BROWSE example rather than the more systematic patterns of reading, writing, or watching video.",
+  "correct": true
+}

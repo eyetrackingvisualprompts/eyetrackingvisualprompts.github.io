@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, rapid gaze shifts across widely separated screen regions (including edges and off-center areas), mixed with medium fixations and repeated transitions between text-like bands and other UI elements, match the exploratory, multi-region scanning pattern seen in the BROWSE examples rather than the more focused, structured patterns of coding, reading, or watching video.",
+  "correct": false
+}

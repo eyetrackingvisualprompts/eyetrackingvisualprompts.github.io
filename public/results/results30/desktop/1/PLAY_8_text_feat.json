@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-lower and mid screen with medium-length fixations and frequent small-to-moderate saccades, including vertical shifts around a central column-like region, matching the exploratory yet locally clustered pattern typical of web/news browsing rather than the more linear (READ/WRITE) or more dispersed and dynamic (PLAY/SEARCH/WATCH) examples.",
+  "correct": false
+}

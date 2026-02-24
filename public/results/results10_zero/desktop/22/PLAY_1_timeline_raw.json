@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains mostly near screen center with smooth, small-amplitude drifts and occasional brief shifts, consistent with passively following content in a video rather than systematic line-by-line scanning (READ), text production focus near one area (WRITE), or larger, more frequent exploratory saccades typical of BROWSE/SEARCH/PLAY activities.",
+  "correct": false
+}

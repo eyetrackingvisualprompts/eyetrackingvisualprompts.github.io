@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cover a broad horizontal range with repeated long saccades from a central/left area to the far right (likely to address bar or other UI elements) and scattered fixations across multiple vertical positions, indicating scanning a results page or web content rather than orderly line-by-line reading or focused code inspection.",
+  "correct": false
+}

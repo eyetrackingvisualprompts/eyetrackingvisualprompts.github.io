@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent large saccades across wide screen areas (including near-screen and off-screen positions), with rapid shifts between dispersed regions rather than systematic left-to-right scanning or focused inspection of code/text. This broad, dynamic coverage and erratic trajectory is most consistent with visually tracking moving game elements and navigating the game space, matching the PLAY activity more than reading, coding, or web tasks.",
+  "correct": false
+}

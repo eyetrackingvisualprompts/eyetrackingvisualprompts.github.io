@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are densely clustered in a mid\u2010screen region with moderate dispersal and short saccades, similar to the BROWSE example and less structured than READ/WRITE while more localized than PLAY or WATCH.",
+  "correct": false
+}

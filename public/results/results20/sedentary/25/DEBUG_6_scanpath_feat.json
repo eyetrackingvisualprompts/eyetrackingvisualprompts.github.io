@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a compact code-like area with limited vertical extent and no large excursions to other regions, matching the focused, localized scanpath seen in the INTERPRET example rather than the broader movements of debugging, browsing, or gaming.",
+  "correct": false
+}

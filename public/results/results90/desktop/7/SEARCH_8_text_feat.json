@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper text region with small vertical jitter and many long, nearly stationary fixations around y\u22480.7\u20130.8, interspersed with brief checks lower (toolbar/word count) and occasional returns upward\u2014matching the fine, local movements and prolonged dwell at a single text line typical of typing in a word processor, and differing from the more systematic horizontal sweeps of READ or the broader exploratory shifts of BROWSE/SEARCH.",
+  "correct": false
+}

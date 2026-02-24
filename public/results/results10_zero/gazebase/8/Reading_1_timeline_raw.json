@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The x-position shows large, regular step-like shifts back and forth within roughly \u00b115 degrees while y-position remains nearly constant, matching the one-dimensional back-and-forth tracking of a horizontally moving target rather than random or reading-like patterns.",
+  "correct": false
+}

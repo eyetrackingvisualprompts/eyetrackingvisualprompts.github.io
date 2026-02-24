@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small upper-left region with a few scattered fixations elsewhere, indicating focus on a moving visual area rather than scanning code or text. This pattern best matches the WATCH example heatmap among the provided classes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large horizontal and vertical shifts with varied fixation bands, resembling scanning across different webpage regions rather than systematic line-by-line reading or focused code inspection. This heterogeneous, exploratory pattern best matches the BROWSE activity among the provided examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a relatively small code-like region on the left with vertical spread and repeated revisits, plus occasional long saccades toward lower areas (e.g., console/run button), matching the debug pattern more than the tighter INTERPRET cluster or broader WRITE movements.",
+  "correct": false
+}

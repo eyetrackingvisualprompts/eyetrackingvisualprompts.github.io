@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixation traces show slow, predominantly horizontal progression with small, regular downward shifts in Y over time, and minimal large saccades\u2014closely matching the stable reading pattern in the READ example and differing from the more scattered or dynamic patterns in browse, search, or play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large horizontal and vertical saccades with shifting fixation bands, indicating repeated transitions between different screen areas (query box, results list, potential result pages), which best matches the exploratory and alternating viewing behavior of a search task rather than the more linear (READ/INTERPRET), localized (WRITE/DEBUG), or motion-following (PLAY/WATCH) patterns.",
+  "correct": false
+}

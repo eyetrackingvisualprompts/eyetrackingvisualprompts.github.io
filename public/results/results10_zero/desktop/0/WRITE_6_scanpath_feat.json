@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain tightly clustered in a small central region with minimal saccades or exploration over the full 10 s, indicating passive fixation on a single, central visual stimulus consistent with watching a video rather than scanning text or interactive content.",
+  "correct": false
+}

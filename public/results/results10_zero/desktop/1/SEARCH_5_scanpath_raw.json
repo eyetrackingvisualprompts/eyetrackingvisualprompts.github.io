@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a relatively small central region with modest vertical excursions and irregular micro-movements, consistent with looking around a text cursor and nearby words while composing text, rather than systematic line scanning (READ) or broader exploration typical of PLAY, SEARCH, BROWSE, or WATCH.",
+  "correct": false
+}

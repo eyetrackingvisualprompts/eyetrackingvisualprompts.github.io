@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact region in the upper-left code area with minimal spread elsewhere, matching the focused, stationary gaze pattern seen in the INTERPRET example rather than the slightly more distributed clusters of WRITE or DEBUG.",
+  "correct": false
+}

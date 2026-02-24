@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement around screen center with frequent vertical shifts and irregular saccades, indicating scanning of different regions (results, snippets, input box) typical of web search pages rather than the more structured left-to-right patterns of reading or the extreme top/bottom focus seen in play, watch, or write tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze stays in a central band but makes frequent medium-length saccades between nearby regions, including some larger vertical and diagonal jumps, with short-to-moderate fixations\u2014matching the mixed scanning of result lists, snippets, and interface elements seen in the SEARCH example more than the steadier line-wise READ pattern or the more localized WRITE/PLAY behaviors.",
+  "correct": false
+}

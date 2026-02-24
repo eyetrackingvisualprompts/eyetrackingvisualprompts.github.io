@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze moves predominantly along a narrow horizontal band (y from about -9 to -15 with minimal vertical change) with repeated large-amplitude left\u2013right saccades and intervening ~200\u2013500 ms fixations, matching a target stepping horizontally rather than random 2D motion or static fixation/reading/game patterns.",
+  "correct": false
+}

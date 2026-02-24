@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze positions are concentrated in a narrow vertical band with small, gradual horizontal shifts and moderate saccades, resembling the sustained, line-by-line code inspection pattern seen in the DEBUG example more than the broader, more uniform or more dynamic patterns of READ, WRITE, or PLAY.",
+  "correct": true
+}

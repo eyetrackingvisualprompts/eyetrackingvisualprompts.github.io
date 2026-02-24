@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanpaths across wide screen regions with frequent long saccades between mid-screen content and far periphery (including extreme top/bottom and off-center coordinates), interspersed with medium fixations. This pattern matches free-form web browsing with mixed reading and large navigational jumps rather than the more structured, line-by-line movements of READ or the localized code-focused patterns of WRITE/DEBUG/INTERPRET, and it lacks the object-following or highly dynamic trajectories typical of WATCH or PLAY.",
+  "correct": true
+}

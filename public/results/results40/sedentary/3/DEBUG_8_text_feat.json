@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined around code-like vertical region with many medium-length fixations, frequent revisits between similar lines (y\u2248300\u2013420), and repeated transitions between mid-code and lower areas (y\u2248450\u2013520), along with occasional large jumps to top/other regions. This pattern of scrutinizing, re-checking, and moving between suspect locations aligns best with debugging behavior compared to more linear reading or browsing patterns.",
+  "correct": true
+}

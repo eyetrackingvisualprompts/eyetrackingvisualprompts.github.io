@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades with variable horizontal and vertical positions, resembling scanning between results and snippets, which matches the SEARCH pattern more than the more linear READ/WRITE or highly focused WATCH/PLAY behaviors.",
+  "correct": false
+}

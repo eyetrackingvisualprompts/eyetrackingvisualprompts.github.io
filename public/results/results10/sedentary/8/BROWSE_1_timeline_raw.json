@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-scale horizontal movements with several step-like shifts and modest vertical variation, indicating scanning and occasional page/result changes, which best matches search behavior compared to the more static READ and more dynamic PLAY or WATCH patterns.",
+  "correct": false
+}

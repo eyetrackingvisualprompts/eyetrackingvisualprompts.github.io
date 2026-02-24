@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to widely separated screen locations in both horizontal and vertical directions, followed by clusters of relatively stable samples (fixations) at each location. Movements are not constrained to a single axis and cover a broad 2D range, consistent with following a randomly moving target rather than smooth horizontal tracking, continuous reading, or central fixation.",
+  "correct": false
+}

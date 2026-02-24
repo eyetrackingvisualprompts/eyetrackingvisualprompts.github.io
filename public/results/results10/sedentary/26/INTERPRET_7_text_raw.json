@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact mid-left code-like region with dense, short-range saccades and repeated revisits, plus occasional jumps to top and far-right coordinates typical of glancing at problem statements or console/output. This pattern closely matches the WRITE examples and differs from more linear (READ/SEARCH) or more dynamic (PLAY/WATCH/BROWSE) scan paths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points span widely across the screen in both horizontal and vertical directions, with many smooth transitions and fewer clear line-by-line reading patterns or concentrated code-area fixations. This broad, continuous coverage over large screen regions is most consistent with passively following dynamic visual content in a full-screen video (WATCH) rather than the more structured, localized, or text-line-based patterns expected in READ, WRITE, DEBUG, SEARCH, BROWSE, or INTERPRET, and less object-focused than typical PLAY traces.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated on a compact code area in the left-center of the screen with minimal horizontal spread, closely matching the INTERPRET example pattern where participants focus intensely on a given snippet to reason about its output, rather than scanning broadly as in DEBUG or WRITE.",
+  "correct": false
+}

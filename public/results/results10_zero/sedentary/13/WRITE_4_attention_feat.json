@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is tightly clustered in a small area at the upper-left, with minimal scanning or reading patterns. This localized, sustained fixation is more consistent with watching a small salient region (e.g., central action in a video) than with tasks that require distributed reading or code navigation such as READ, WRITE, DEBUG, SEARCH, or BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, rapid shifts in both horizontal and vertical directions to many disparate positions across the screen, followed by short, locally stable clusters (fixations) at each new location. Movements are neither constrained to a single horizontal axis (ruling out Horizontal Saccades) nor consistent with line-by-line left\u2011to\u2011right reading patterns, and the amplitude and spatial range are larger and more structured than typical free viewing (Video) or game-target fixations. This pattern best matches following a target that jumps to random screen positions once per second, i.e., Random Saccades.",
+  "correct": true
+}

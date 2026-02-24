@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points form a compact central cluster with short, multidirectional saccades and no clear horizontal reading lines or large navigational jumps, resembling the exploratory, localized scanning pattern seen in the BROWSE example more than the other tasks.",
+  "correct": false
+}

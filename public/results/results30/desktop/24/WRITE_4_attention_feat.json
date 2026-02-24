@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a single small region near the lower-center of the screen, with minimal horizontal or vertical spread, indicating sustained attention to one area (such as a central part of a video) rather than scanning text, browsing, or interactive tasks that show wider dispersion.",
+  "correct": false
+}

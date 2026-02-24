@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows mostly horizontal scanning with moderate vertical movement and occasional larger saccades, resembling the SEARCH example pattern more than the steadier reading/debugging traces or the more dynamic browsing/playing/watching behaviors.",
+  "correct": false
+}

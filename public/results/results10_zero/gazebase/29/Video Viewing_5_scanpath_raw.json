@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The scanpath shows irregular multidirectional saccades and dispersed fixations over a mid-screen region without clear linear horizontal sweeps (reading) or constrained target jumps (horizontal/random saccades, game). This pattern matches natural, unconstrained viewing behavior typical of watching a video.",
+  "correct": true
+}

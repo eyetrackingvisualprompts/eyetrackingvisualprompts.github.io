@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows mostly horizontal movements within a constrained central band and small clustered fixations, consistent with reading lines of text rather than wide exploratory movements typical of search, browsing, or gameplay, or the large vertical motion often seen in video watching or writing on a blank page.",
+  "correct": false
+}

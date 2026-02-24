@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large, multidirectional saccades spanning wide horizontal and vertical ranges with ~0.2\u20130.7s fixations between them match the random target-jumping pattern rather than the structured horizontal-only, line-based, or mostly-central behaviors of the other classes.",
+  "correct": true
+}

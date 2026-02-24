@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small IDE-like region with many short, local saccades around mid\u2011lower screen coordinates and brief fixations, consistent with editing/typing behavior rather than extended reading or wide exploratory scanning seen in browse/search/play/watch.",
+  "correct": false
+}

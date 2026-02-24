@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Two distinct vertical clusters around mid-height suggest attention switching between search box/results and another area, resembling the SEARCH example\u2019s central, compact but multi-region pattern more than the other tasks.",
+  "correct": false
+}

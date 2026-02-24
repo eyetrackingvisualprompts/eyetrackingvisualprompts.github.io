@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, long saccades across widely separated screen regions (including big vertical moves) interleaved with scattered fixations at varied y-levels resemble scanning and scrolling through web content more than the tighter, line-based patterns of READ or the code-focused clusters of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band with systematic left\u2011right sweeps, short saccades between nearby x-coordinates, and repeated returns along similar code-line y-levels\u2014matching the structured, line-based scanning seen in the WRITE examples rather than the more exploratory or multi-region patterns of BROWSE/SEARCH or the longer fixations and fewer horizontal regressions of READ/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a few horizontal bands with long, stable fixations and short progressive saccades, forming sequential left-to-right sweeps across a narrow vertical region\u2014typical of reading lines of text and unlike the larger jumps, multi-region scanning, or off-screen movements seen in browse/search/play/debug activities.",
+  "correct": true
+}

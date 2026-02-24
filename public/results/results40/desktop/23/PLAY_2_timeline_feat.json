@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show relatively stable horizontal fixations with modest vertical drift over time and regular short saccades, closely matching the example READ pattern of line-by-line text scanning rather than the larger, more erratic shifts seen in browsing, search, or play.",
+  "correct": false
+}

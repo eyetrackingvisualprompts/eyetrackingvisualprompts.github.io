@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze oscillates in large, near-horizontal excursions between about -15\u00b0 and +16\u00b0 with relatively stable vertical position and brief plateau-like segments, matching the periodic left-right tracking pattern of the Horizontal Saccades task rather than the more varied trajectories of the other activities.",
+  "correct": true
+}

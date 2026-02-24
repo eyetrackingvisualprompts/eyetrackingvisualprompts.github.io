@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain near the center with only very small drifts and rare brief excursions, matching the stable central fixation pattern seen in the Fixations example rather than the larger, systematic or exploratory movements of the other tasks.",
+  "correct": true
+}

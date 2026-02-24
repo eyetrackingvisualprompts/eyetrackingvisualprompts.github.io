@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze coordinates progress in small, mostly horizontal movements with stable fixations and occasional vertical shifts, consistent with line-by-line reading and limited vertical transitions between text lines or paragraphs, rather than the larger scene-wide shifts typical of search, browsing, video watching, or gameplay.",
+  "correct": false
+}

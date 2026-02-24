@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Large vertical jumps between top and bottom of the page, frequent excursions to screen extremes (including near/out-of-bounds coordinates), and irregular scanning without consistent horizontal line-by-line patterns match the free, multi-region exploration typical of web browsing rather than structured reading, coding, or game-focused tracking.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, repeated fixations within a compact central code-like area with frequent short regressions and occasional long saccades to the right/top (likely console or reference UI) match the structured, iterative checking-and-editing pattern seen in WRITE more than the more exploratory scans of DEBUG or the horizontal line sweeps of READ/BROWSE.",
+  "correct": false
+}

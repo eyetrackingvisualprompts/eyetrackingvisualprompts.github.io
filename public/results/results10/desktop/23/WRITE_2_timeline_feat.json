@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces show slow, small, mostly monotonic drifts with limited range and few large saccades, similar to the provided READ example and unlike the more dynamic patterns in BROWSE, SEARCH, PLAY, or WATCH.",
+  "correct": false
+}

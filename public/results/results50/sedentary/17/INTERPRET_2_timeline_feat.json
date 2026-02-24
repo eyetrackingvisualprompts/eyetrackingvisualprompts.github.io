@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal band with very small vertical variation, matching the stable code-editor focus seen in WRITE examples, unlike the wider vertical sweeps of reading/browsing or dynamic movements of play/watch/search.",
+  "correct": false
+}

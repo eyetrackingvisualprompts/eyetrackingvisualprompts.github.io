@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal band near the top with occasional long saccades downward, matching gaze between code editor at top and a console/output region below, similar to the WRITE example rather than the more scattered patterns of other activities.",
+  "correct": true
+}

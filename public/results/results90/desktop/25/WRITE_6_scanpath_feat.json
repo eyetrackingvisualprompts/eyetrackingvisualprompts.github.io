@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster around the center with moderate dispersion and multidirectional saccades, resembling the browsing example more than the more scattered SEARCH pattern or the structured READ/WRITE layouts.",
+  "correct": false
+}

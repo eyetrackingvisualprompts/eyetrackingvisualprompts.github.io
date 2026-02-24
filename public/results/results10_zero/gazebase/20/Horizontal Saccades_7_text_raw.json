@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze oscillates predominantly along the horizontal axis between about \u221216\u00b0 and +16\u00b0 with relatively small vertical variation, showing large, regular left-right shifts and extended periods of stable fixation at each extreme, which matches a subject following a horizontally moving target rather than random, multidirectional motion or more localized patterns from reading or gaming.",
+  "correct": true
+}

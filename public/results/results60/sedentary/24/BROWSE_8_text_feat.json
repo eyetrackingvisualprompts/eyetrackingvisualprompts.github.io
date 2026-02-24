@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and edges), many revisits to similar zones, and extensive gaze in lower screen/outer areas match dynamic object tracking and spatial exploration typical of gameplay, unlike the more line-structured or code-focused patterns in reading, coding, or web tasks.",
+  "correct": false
+}

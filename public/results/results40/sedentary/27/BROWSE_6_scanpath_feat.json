@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows repeated returns to a central code area with occasional long saccades to peripheral locations (e.g., console, other code regions), resembling the DEBUG example more than the other tasks, which fits iterative error-checking and code execution behavior.",
+  "correct": false
+}

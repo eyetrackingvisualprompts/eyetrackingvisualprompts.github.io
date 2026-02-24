@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band with slow, small horizontal shifts and few large saccades, matching the stable, code-focused viewing pattern of typing in an IDE, which aligns best with the WRITE example pattern compared to the others.",
+  "correct": false
+}

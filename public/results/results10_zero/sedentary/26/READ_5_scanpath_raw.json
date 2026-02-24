@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is confined to a compact horizontal region with small back-and-forth movements and minimal vertical shifts, indicating focused inspection of a short code snippet rather than extended reading, browsing, or dynamic visual content as in games or videos. This pattern best matches the INTERPRET task, where participants study a small function to predict its output.",
+  "correct": false
+}

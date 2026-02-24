@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a compact horizontal band in the lower-central area, consistent with focusing on a short code snippet in an IDE or notebook. The limited spatial spread and lack of vertical scanning suggest concentrated inspection of a small function rather than extended reading, browsing, or dynamic tracking, matching the INTERPRET (code output prediction) task.",
+  "correct": false
+}

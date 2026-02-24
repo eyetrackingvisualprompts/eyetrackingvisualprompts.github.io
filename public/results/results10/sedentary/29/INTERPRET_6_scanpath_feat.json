@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Long horizontal saccades from a main cluster on the left to a secondary cluster on the right suggest following moving visual content across the screen rather than localized reading or code inspection, matching the WATCH pattern.",
+  "correct": false
+}

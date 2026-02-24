@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a relatively narrow horizontal band with low vertical positions and slow upward drift over time, closely matching the pattern of typing-focused gaze in the WRITE example, and unlike the broader scanning or dynamic movements seen in browse/read/search/watch/play.",
+  "correct": true
+}

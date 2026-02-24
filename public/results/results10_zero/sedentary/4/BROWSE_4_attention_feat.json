@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a narrow vertical band on the left side of the screen, consistent with focusing on a code editor\u2019s text area while typing, rather than scanning across wider regions as in reading articles, browsing, searching, or watching video.",
+  "correct": false
+}

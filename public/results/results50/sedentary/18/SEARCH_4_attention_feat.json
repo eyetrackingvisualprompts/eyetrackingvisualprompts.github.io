@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the left\u2013center code area with some vertical spread and occasional moves to the right, closely matching the WRITE example\u2019s pattern of focusing on the code editor while occasionally checking other interface elements, rather than the tighter clusters of DEBUG/INTERPRET or the more dispersed patterns of PLAY/BROWSE/WATCH.",
+  "correct": false
+}

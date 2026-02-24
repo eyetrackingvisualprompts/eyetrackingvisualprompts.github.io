@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is clustered in a narrow central column with mostly small vertical shifts, moderate saccades between nearby lines/areas, and many medium-long fixations, matching the line-by-line scanning pattern of reading more than the broader, more scattered exploration seen in search/browse or the peripheral, highly dynamic patterns of play/watch.",
+  "correct": false
+}

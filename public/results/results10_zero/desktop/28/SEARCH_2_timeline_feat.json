@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, slow horizontal and vertical changes with limited large-amplitude saccades and no strong repetitive left-to-right line scanning typical of reading or writing. The pattern suggests following on-screen dynamic content (video) rather than actively navigating or searching, matching the WATCH activity.",
+  "correct": false
+}

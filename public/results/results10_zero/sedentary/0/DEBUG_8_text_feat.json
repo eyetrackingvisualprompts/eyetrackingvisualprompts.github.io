@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, frequent saccades and short fixations clustered in a localized lower-screen region, with continuous small positional adjustments rather than systematic line-by-line or block-by-block scanning typical of reading, browsing, or code tasks. This pattern best matches visually tracking or anticipating moving game elements (e.g., Pong or Agario) rather than static content inspection, so PLAY is the most likely activity.",
+  "correct": false
+}

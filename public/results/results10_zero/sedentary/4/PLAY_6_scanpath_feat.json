@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered around a single small region with minimal spatial dispersion over the full 10s, indicating passive sustained attention to one area of the screen (typical for watching a video with a stable focal point) rather than the broader, systematic scanning or multi-region shifts seen in reading, coding, browsing, or searching tasks.",
+  "correct": false
+}

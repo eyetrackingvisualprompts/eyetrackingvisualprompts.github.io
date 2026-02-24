@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered but spread both horizontally and vertically with multiple clusters, resembling scanning of various webpage regions; this pattern best matches the browsing example rather than the more linear (READ/WRITE) or peripheral (WATCH/PLAY) distributions.",
+  "correct": false
+}

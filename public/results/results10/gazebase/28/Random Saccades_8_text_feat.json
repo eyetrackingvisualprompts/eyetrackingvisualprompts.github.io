@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze exhibits large, multi-directional saccades with substantial horizontal and vertical amplitude changes between widely separated positions, followed by ~200\u2013800 ms fixations at each location. This pattern matches the random, screen-spanning target jumps of the Random Saccades task rather than the strictly horizontal movements, central fixation, smoother reading-like progression, or game-specific clustering seen in the other classes.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are clustered around the central region with moderate vertical spread, closely matching the browsing example\u2019s compact, center-focused pattern rather than the more horizontal reading layout or the more dispersed search/watch/play patterns.",
+  "correct": false
+}

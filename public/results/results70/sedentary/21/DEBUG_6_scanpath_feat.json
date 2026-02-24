@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a narrow vertical code/editor region on the left, with limited horizontal spread and repeated fixations over the same area, matching the focused, localized pattern seen in the WRITE example rather than the broader or more line-structured patterns of other tasks.",
+  "correct": false
+}

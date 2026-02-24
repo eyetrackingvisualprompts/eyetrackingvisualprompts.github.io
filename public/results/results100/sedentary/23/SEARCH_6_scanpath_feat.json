@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated in two main horizontal bands (likely search bar/results list and a secondary area), with frequent vertical transitions and some excursions downward, resembling the Scanpath pattern of SEARCH more than the denser, broader exploration of BROWSE or the focused single-area patterns of coding or reading tasks.",
+  "correct": true
+}

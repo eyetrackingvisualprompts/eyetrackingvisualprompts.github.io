@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered near the code center with small, local saccades and minimal large excursions, resembling the focused, line-by-line inspection seen in the INTERPRET example rather than the broader scanning or vertical movements of tasks like READ, SEARCH, or DEBUG.",
+  "correct": true
+}

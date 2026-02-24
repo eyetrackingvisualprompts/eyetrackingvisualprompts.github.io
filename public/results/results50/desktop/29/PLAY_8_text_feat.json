@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around mid-screen with frequent medium-amplitude saccades between nearby elements and occasional jumps to slightly different vertical levels, resembling scanning among interface items and mixed text/graphics. The pattern is more exploratory and multi-directional than the orderly horizontal, line-by-line progressions seen in READ, and less static and central than WATCH; it closely matches the provided BROWSE example statistics and dynamics.",
+  "correct": false
+}

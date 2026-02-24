@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a compact region in the upper-left area, consistent with focused attention on a code editor while typing, similar to the WRITE example and less dispersed than browsing or debugging patterns.",
+  "correct": true
+}

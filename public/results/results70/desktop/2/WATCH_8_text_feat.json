@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-screen with medium-length fixations and frequent short saccades, interspersed with occasional vertical and horizontal shifts, matching the mixed scanning and local inspection pattern seen in the BROWSE example more than the more line-structured READ or the highly dispersed SEARCH/PLAY behaviors.",
+  "correct": false
+}

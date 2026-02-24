@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows a series of discrete gaze shifts between several separated positions, with noticeable vertical as well as slight horizontal movements and brief dwelling at each position, consistent with following a target that jumps to random screen locations for about one second each rather than continuous tracking, reading lines, or maintaining a single central fixation.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-screen with moderate, irregular saccades and short-to-medium fixations, including frequent vertical shifts but without the strong line-by-line horizontal pattern of READ, the highly central/static focus of WATCH, or the peripheral, keyboard-area bias of WRITE. The pattern closely resembles exploratory scanning over a web page as seen in the BROWSE examples, with varied but confined movements around content regions rather than task-focused search-result jumps or game-like large directional shifts.",
+  "correct": true
+}

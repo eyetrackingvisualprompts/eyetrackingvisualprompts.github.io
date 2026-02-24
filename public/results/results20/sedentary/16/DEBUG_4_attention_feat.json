@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact region on the left side of the screen, similar to the INTERPRET example where attention is focused on a single code snippet area, with little horizontal or vertical spread indicating limited scrolling or multiple elements.",
+  "correct": false
+}

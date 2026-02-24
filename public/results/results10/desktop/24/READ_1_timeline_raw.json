@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Both X and Y show gradual upward drifts with occasional large jumps and a pronounced vertical transition around 7 s, resembling mixed scanning and page transitions seen in the SEARCH example more than the steadier, line-based READ or the more erratic PLAY/WATCH patterns.",
+  "correct": false
+}

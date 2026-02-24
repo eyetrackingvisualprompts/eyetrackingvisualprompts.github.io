@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze X-position shows large, discrete horizontal jumps between two separated regions with long plateaus (~1 s) at each position, while Y-position remains nearly constant. This pattern matches the instructed tracking of a horizontally moving target with 1-second holds, characteristic of the Horizontal Saccades task.",
+  "correct": false
+}

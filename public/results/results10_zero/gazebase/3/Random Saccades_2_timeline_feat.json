@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions step between various horizontal and vertical locations, including both axes, with about 1-second plateaus at each position and no consistent left-right pattern, matching the protocol of following a randomly moving bull\u2019s-eye target rather than strictly horizontal saccades or static fixation.",
+  "correct": true
+}

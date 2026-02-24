@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a code area on the left with repeated returns there, plus occasional long saccades to the right side (likely console or reference panel), closely matching the WRITE example pattern of focused coding with intermittent checks elsewhere.",
+  "correct": false
+}

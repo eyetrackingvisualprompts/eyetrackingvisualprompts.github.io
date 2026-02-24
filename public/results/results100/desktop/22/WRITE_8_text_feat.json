@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow central band with many long (1\u20133s) stable fixations and short, mostly horizontal micro-saccades\u2014matching line-by-line reading behavior, unlike the larger exploratory shifts seen in BROWSE/SEARCH or the more dispersed patterns in WATCH/PLAY/WRITE.",
+  "correct": false
+}

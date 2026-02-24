@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Very long, slow saccades with extended durations (up to 20s) and large vertical moves between widely separated screen regions, including top/bottom and even off-content areas, plus scattered shorter fixations, match exploratory, less-structured navigation typical of BROWSE rather than the more line-structured READ or code-focused tasks.",
+  "correct": false
+}

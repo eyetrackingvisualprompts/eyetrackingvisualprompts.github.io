@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Long periods of relatively stable horizontal gaze with occasional sharp vertical spikes and shifts between two main regions resemble alternating focus between code editor and other UI elements, matching the WRITE template more than other activities.",
+  "correct": true
+}

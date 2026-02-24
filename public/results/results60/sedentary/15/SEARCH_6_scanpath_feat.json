@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows long horizontal sweeps near the top of the screen with clustered fixations on the left and center, resembling reading result snippets and occasionally moving downward, closely matching the SEARCH example pattern rather than the denser central focus of coding or the uniform lines of continuous reading.",
+  "correct": true
+}

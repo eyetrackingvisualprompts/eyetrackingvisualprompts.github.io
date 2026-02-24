@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Wide spatial coverage with large saccades across the screen and clusters at different regions suggest tracking dynamic visual content (e.g., characters or objects in a video) rather than structured text or static webpages.",
+  "correct": false
+}

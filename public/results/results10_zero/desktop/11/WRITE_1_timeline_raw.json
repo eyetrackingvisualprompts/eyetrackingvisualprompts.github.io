@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is relatively stable with slow, small horizontal shifts and minimal large saccades, indicating sustained fixation in a confined region typical of reading static text rather than the larger, more erratic movements seen in browsing, searching, gaming, or watching video.",
+  "correct": false
+}

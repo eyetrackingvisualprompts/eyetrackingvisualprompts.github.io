@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on two horizontal code regions (upper-left and mid-center) with some vertical transitions, resembling focused work between code and output/console, which matches the WRITE example heatmap better than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a compact left-center code/text area with occasional long saccades to the far right and bottom, matching attention on an IDE editor with sporadic looks to console or auxiliary panels, characteristic of the WRITE task rather than more scattered WATCH/PLAY or line-structured READ/BROWSE patterns.",
+  "correct": false
+}

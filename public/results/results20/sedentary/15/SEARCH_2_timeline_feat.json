@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts in both X and Y with broad vertical range and irregular patterns rather than line-by-line reading or code inspection, matching the dynamic, scene-following behavior typical of watching a video.",
+  "correct": false
+}

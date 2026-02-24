@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large-amplitude saccades across distant screen regions (top, bottom, center, far right/left) with relatively short, scattered fixations and no clear line-by-line or code-block scanning structure. This wide, non-systematic exploration is more characteristic of free web browsing than of focused reading, code interpretation/debugging, or watching a video, which typically produce more structured, locally constrained scanpaths.",
+  "correct": false
+}

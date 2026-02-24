@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near the horizontal center with very small vertical changes and slow horizontal drift, indicating prolonged fixation on a central area typical of watching a full-screen video rather than scanning lines of text or code or following moving game elements.",
+  "correct": false
+}

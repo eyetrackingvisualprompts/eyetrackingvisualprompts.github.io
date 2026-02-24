@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows a few large vertical and diagonal saccades between widely separated regions, with limited systematic horizontal or vertical line-by-line patterns typical for reading, coding, or web search. This broad, less-structured gaze movement is most consistent with following dynamic visual content in a video-watching task.",
+  "correct": false
+}

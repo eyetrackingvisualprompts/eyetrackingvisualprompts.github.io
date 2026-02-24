@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze stays in a relatively constrained central-left region with dense back-and-forth fixations over similar vertical bands (lines of code) and frequent short regressions, resembling the DEBUG exemplar more than the more linear READ/INTERPRET patterns or the dispersed BROWSE/SEARCH/WATCH/PLAY behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a narrow horizontal band, with long, stable fixations and smooth, slow horizontal shifts across similar y-coordinates, characteristic of tracking content in a fixed region (e.g., characters/objects in a video) rather than scanning or reading lines of text or code. The pattern closely resembles the WATCH examples\u2019 smooth pursuit-like behavior across the screen.",
+  "correct": false
+}

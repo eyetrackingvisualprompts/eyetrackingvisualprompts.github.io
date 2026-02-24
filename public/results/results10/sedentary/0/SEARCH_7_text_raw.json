@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered in a narrow horizontal band around y\u2248480\u2013520 and y\u2248300\u2013340 with small back-and-forth movements, matching line-by-line reading patterns seen in the READ example, rather than the larger, more scattered or object-following movements characteristic of browsing, playing, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mid-screen horizontal positions with frequent moderate saccades and vertical shifts, indicating scanning across varying regions similar to example BROWSE patterns rather than the more stable WRITE/READ or highly dynamic PLAY behavior.",
+  "correct": false
+}

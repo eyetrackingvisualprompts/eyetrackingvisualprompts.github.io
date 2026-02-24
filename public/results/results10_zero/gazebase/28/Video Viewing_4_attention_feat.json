@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "Fixations are distributed in a narrow horizontal band in the upper part of the screen, forming a line-like pattern consistent with scanning text across a single or few lines, rather than a single point (fixation task), large regular sweeps (horizontal saccades), scattered positions (random saccades), or the broader more variable patterns expected in video or game viewing.",
+  "correct": false
+}

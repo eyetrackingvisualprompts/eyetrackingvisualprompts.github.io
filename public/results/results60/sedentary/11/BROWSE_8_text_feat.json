@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows long horizontal sweeps around mid\u2011screen, periodic returns to similar horizontal bands, and many large jumps to screen corners and off-center regions, consistent with scrolling and scanning web pages. It lacks the structured line-by-line regularity of READ and the tight code-area clustering of WRITE/DEBUG/INTERPRET, and resembles the heterogeneous, wide-ranging movements in the BROWSE examples.",
+  "correct": true
+}

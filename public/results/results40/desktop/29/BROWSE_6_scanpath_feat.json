@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered around the central region with frequent medium-length saccades in multiple directions, indicating repeated scanning and refocusing typical of interacting with search results and SERP elements, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

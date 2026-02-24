@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows horizontal, text-like reading sweeps across multiple bands with occasional long saccades to other areas, resembling mixed reading and exploratory behavior typical of open web browsing rather than focused code, game following, or continuous video watching.",
+  "correct": false
+}

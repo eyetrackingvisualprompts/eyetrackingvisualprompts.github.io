@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are densely clustered over a compact area on the upper-left side of the screen with minor spread below, closely matching the DEBUG example heatmap pattern and suggesting focused attention on a code block within the IDE rather than broader scanning or reading across the page.",
+  "correct": true
+}

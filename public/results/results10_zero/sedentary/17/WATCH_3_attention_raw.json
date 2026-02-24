@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a few concentrated gaze clusters in central and right-central regions with sparse coverage elsewhere, indicative of following salient areas in a continuous visual scene rather than systematic line-by-line reading or code inspection patterns, which aligns best with watching a video.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in a central region with moderate vertical spread and occasional shifts, resembling scanning result lists and moving between search box, results, and content\u2014most similar to the SEARCH example pattern.",
+  "correct": true
+}

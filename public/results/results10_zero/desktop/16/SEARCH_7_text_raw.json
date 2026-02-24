@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are concentrated around central horizontal bands with slow, systematic vertical shifts and predominantly small saccades, consistent with line-by-line reading on static text rather than the larger, more erratic shifts typical of browsing, searching, gaming, or watching dynamic videos.",
+  "correct": false
+}

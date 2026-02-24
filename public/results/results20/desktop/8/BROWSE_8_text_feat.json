@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around central and slightly upper/lower screen regions with moderate horizontal and vertical shifts, including occasional larger moves to upper areas (e.g., to ~0.77) but without the strong, repeated line-sweep structure of READ, the top-heavy focus of WRITE, or the wide, rapid jumps of PLAY/WATCH. The pattern of medium-length fixations interspersed with exploratory saccades across a content area matches the provided BROWSE examples most closely.",
+  "correct": true
+}

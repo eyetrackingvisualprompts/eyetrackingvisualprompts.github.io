@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a horizontal band near the upper-middle portion of the screen with dense fixations over a code-like area and some below, matching the structured, line-by-line focus seen in the WRITE example more than the other activities.",
+  "correct": false
+}

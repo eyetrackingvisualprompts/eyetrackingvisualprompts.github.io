@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated over a relatively broad vertical area in the left code region, resembling the DEBUG example more than the tighter cluster of INTERPRET or the slightly lower spread of WRITE, consistent with scanning through multiple lines to locate and fix errors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations hover near screen center with modest horizontal movement and limited vertical range, showing small, frequent shifts typical of scanning mixed webpage content rather than systematic line-by-line reading or the larger, more dispersed motions seen in play, watch, or write tasks.",
+  "correct": false
+}

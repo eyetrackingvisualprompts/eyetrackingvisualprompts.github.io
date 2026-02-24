@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows tight, horizontally oriented fixations and saccades within a constrained vertical band, consistent with line-by-line reading of text rather than the broader exploration or object following typical of browsing, search, play, or watch tasks.",
+  "correct": false
+}

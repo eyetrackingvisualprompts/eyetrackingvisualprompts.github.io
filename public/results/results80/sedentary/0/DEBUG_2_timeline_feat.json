@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium-range horizontal movements with more vertical variability than INTERPRET/WRITE but less structured line-by-line scanning than READ, and lacks the wide exploratory jumps of BROWSE/SEARCH or the highly dynamic patterns of PLAY/WATCH, matching the focused yet exploratory viewing typical of debugging code in an IDE.",
+  "correct": true
+}

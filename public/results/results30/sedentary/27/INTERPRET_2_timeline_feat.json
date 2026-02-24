@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows relatively constrained horizontal and vertical ranges with moderate, localized movements and few large saccades, closely matching the stable, focused pattern seen in the WRITE example rather than the broader scanning or dynamic shifts of browsing, reading, searching, or playing.",
+  "correct": false
+}

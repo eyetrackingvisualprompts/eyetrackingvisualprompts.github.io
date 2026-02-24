@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide-ranging saccades across large horizontal and vertical extents (center to far left/right and top/bottom), frequent shifts between dispersed regions, and relatively long fixations on varied areas resemble the heterogeneous scanning patterns of web browsing rather than the more line-structured (READ/SEARCH) or code-focused (WRITE/DEBUG/INTERPRET) gaze, or the object-centric dynamics of PLAY or the sustained central focus of WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are concentrated in a narrow horizontal band with orderly left-right progressions and short regressions, closely matching the scanpath structure of the READ example and typical line-by-line reading behavior, unlike the more scattered or wide-ranging patterns of browsing, search, play, watch, or write activities.",
+  "correct": true
+}

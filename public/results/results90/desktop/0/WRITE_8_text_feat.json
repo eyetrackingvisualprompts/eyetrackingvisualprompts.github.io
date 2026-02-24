@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow band near the top-center of the screen with long, stable fixations and very small local saccades, closely matching the sustained, line-based viewing pattern seen in the READ examples and unlike the broader, more exploratory movements in browse/search or the dispersed, dynamic gaze of play/watch/write.",
+  "correct": false
+}

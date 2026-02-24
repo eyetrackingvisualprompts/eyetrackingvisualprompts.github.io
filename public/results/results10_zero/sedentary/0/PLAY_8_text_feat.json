@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows many medium-length fixations (0.2\u20131.2s) clustered in a relatively localized central area with frequent short saccades and revisits, consistent with inspecting code, checking specific tokens, and verifying changes rather than the more linear scanning of READ/INTERPRET or the larger, more dynamic movements of PLAY/WATCH/BROWSE/SEARCH/WRITE.",
+  "correct": false
+}

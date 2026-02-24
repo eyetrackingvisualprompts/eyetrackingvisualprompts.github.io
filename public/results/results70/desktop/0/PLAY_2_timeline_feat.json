@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower Y region with gradually increasing X positions over time, resembling left-to-right line progression near the bottom of the screen, closely matching the WRITE template pattern and differing from the higher Y positions of reading/searching/browsing tasks.",
+  "correct": false
+}

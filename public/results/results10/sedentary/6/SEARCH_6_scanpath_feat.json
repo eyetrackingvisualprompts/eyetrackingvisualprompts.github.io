@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is split between two main vertical regions on the left side (likely code editor and console or reference area) with frequent back-and-forth saccades and revisits, resembling the WRITE example scanpath more than the more localized patterns of DEBUG or INTERPRET or the horizontal reading/browsing patterns.",
+  "correct": false
+}

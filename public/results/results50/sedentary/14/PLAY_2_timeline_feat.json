@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows extended horizontal fixations near the top region (likely search bar and result headings) with intermittent downward movements and saccades, matching the SEARCH example pattern more closely than the others.",
+  "correct": false
+}

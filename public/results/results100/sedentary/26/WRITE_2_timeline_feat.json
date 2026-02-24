@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze positions stay within a narrow central band with relatively small horizontal and vertical excursions and few large saccades, indicating focused inspection of a compact code snippet rather than extensive navigation or reading over long text or pages; this pattern best matches the INTERPRET example.",
+  "correct": false
+}

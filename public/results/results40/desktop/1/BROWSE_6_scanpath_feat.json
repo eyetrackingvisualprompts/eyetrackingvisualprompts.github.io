@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are concentrated near screen center with frequent, multidirectional saccades across a medium area\u2014more scattered than READ/WRITE but less wide-ranging than PLAY/WATCH\u2014matching the exploratory, interface-driven pattern typical of web searching rather than continuous text reading or video watching.",
+  "correct": false
+}

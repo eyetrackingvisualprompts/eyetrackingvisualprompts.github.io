@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze stays within a relatively narrow vertical band with moderate horizontal movement and few large saccades, resembling focused inspection of a compact code snippet rather than extended reading, browsing, or dynamic tracking, which best matches the INTERPRET pattern among the examples.",
+  "correct": false
+}

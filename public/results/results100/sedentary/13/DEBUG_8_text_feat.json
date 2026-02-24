@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across the full screen (including off-screen coordinates), many returns between top and lower regions, and irregular, non-line-based scanning patterns resemble exploratory navigation over web pages more than focused reading, coding, debugging, or video watching. This spatio-temporal pattern best matches free web browsing behavior.",
+  "correct": false
+}

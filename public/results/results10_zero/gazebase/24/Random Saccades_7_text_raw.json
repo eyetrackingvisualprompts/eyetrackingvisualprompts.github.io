@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to widely separated positions in both horizontal (\u2248\u00b115\u00b0) and vertical (\u2248\u00b19\u00b0) directions, followed by tight clusters with small fluctuations around each new location. This pattern of step-like relocations with 1-second-like dwell periods is characteristic of following a randomly positioned target, matching the Random Saccades task rather than smooth reading lines, central fixation, predominantly horizontal saccades, or free viewing/game behavior.",
+  "correct": true
+}

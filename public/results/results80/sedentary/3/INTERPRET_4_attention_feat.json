@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated in a compact region on the left-center of the screen with minimal spread elsewhere, closely matching the INTERPRET example where gaze stays focused on a single code snippet rather than scanning widely as in SEARCH, BROWSE, or DEBUG.",
+  "correct": true
+}

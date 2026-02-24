@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent short saccades with irregular, locally constrained movements and revisits around similar screen regions, matching the focused yet scattered inspection typical of debugging code, and closely resembling the DEBUG example pattern.",
+  "correct": false
+}

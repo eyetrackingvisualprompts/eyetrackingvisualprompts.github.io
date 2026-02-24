@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, fast saccades spanning wide horizontal and vertical extents with relatively few dense fixation clusters, consistent with tracking moving objects or navigating in a game rather than reading or code-focused tasks, which would show tighter, line- or block-structured fixations.",
+  "correct": true
+}

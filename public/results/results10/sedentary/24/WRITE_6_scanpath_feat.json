@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered in a compact region on the left-middle of the screen with frequent revisits and short saccades, matching the code-editing pattern seen in the WRITE example rather than the more linear horizontal movement of READ or the broader exploration of other tasks.",
+  "correct": true
+}

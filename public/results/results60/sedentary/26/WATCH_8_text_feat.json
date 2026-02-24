@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades across the full screen (including off-screen coordinates), shifting between widely separated spatial regions without the structured line-by-line or code-block patterns typical of reading, debugging, writing, or interpreting. The gaze follows dynamic, scene-like movements consistent with watching a video rather than scanning search results or web pages.",
+  "correct": true
+}

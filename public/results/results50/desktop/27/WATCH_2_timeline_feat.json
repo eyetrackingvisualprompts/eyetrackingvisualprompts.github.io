@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium horizontal spread and substantial vertical transitions across upper and central regions, with alternating fixations and saccades resembling scanning different areas of a results page rather than the tighter band of READ/WRITE or the lower, more stable patterns of WATCH/PLAY. This pattern best matches the SEARCH example.",
+  "correct": false
+}

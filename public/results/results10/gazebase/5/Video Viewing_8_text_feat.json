@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, irregular jumps in both horizontal and vertical directions across a wide area, with approximately 1-second dwells, matching the pattern of following a randomly moving target rather than the structured, line-based pattern of reading or the strictly horizontal pattern of horizontal saccades.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large saccades to extreme and even off-screen coordinates (including negative y and very high y), rapid vertical jumps between central work area and screen edges, and dispersed, non-linear gaze patterns match the dynamic, spatially wide scanning behavior typical of simple games rather than the more line- or code-structured patterns of reading, coding, browsing, or search.",
+  "correct": false
+}

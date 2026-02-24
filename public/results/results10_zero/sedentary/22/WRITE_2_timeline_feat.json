@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows repeated large vertical saccades between two distinct horizontal bands (upper and central screen) with relatively stable x-positions during fixations, suggesting tracking objects or regions in a game rather than systematic line-by-line reading or detailed code inspection. This pattern best matches the dynamic viewing behavior during PLAY, particularly games like Pong or Mario with frequent shifts between playfield regions.",
+  "correct": false
+}

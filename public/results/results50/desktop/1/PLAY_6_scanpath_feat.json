@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows numerous medium-length saccades and dispersed fixations over a mid-screen region without the clear horizontal lines of reading or the top-focused band of watching/writing. This spatially clustered yet exploratory pattern best matches web search behavior among the provided examples.",
+  "correct": false
+}

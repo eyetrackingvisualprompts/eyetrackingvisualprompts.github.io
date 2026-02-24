@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread across multiple horizontal bands with several long saccades from left to right and between separated clusters, resembling scanning of search results and occasional focus on specific items rather than the tighter central cluster of READ or the more global spread of WATCH/BROWSE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays in central-upper and mid-screen regions with moderate, irregular saccades between nearby locations and mixed vertical/horizontal movements, closely matching the browsing example patterns and unlike the more line-structured READ or highly dynamic PLAY/WATCH trajectories.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates between a mid-code horizontal band (~y=350\u2013450) and the very top of the screen (~y=35\u201380), with repeated long saccades and revisits. This pattern matches checking code and then referring to top-of-window elements (e.g., errors, console, or function header), which is characteristic of debugging and distinct from the more locally confined INTERPRET and WRITE examples.",
+  "correct": false
+}

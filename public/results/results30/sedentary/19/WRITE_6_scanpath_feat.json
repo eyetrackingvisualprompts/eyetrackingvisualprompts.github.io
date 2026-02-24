@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense cluster of fixations over a code/editor region with some transitions to another area (likely output/console or reference), resembling the WRITE example more than the others, which show either more dispersed exploration (PLAY, SEARCH, BROWSE, WATCH) or different clustering patterns (READ, INTERPRET, DEBUG).",
+  "correct": true
+}

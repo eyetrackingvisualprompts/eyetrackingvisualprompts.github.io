@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The heatmap shows a strong cluster at the top-left (typical of attention on the search box/results header) with additional spread-out fixations across the horizontal center where results/snippets appear, closely matching the SEARCH example pattern more than the others.",
+  "correct": false
+}

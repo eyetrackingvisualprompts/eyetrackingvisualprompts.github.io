@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide, frequent transitions across distant screen regions (including corners and edges), irregular scanpaths, and mixed short and long saccades without the structured line-wise patterns of reading or the tight code-centered clusters of programming tasks suggest exploratory navigation typical of web browsing rather than focused tasks like READ, SEARCH, or coding-related activities.",
+  "correct": false
+}

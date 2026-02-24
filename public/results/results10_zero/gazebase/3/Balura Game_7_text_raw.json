@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions span a wide 2D range (approximately \u00b120\u00b0 horizontally and vertically) with large, multi-directional jumps followed by short, tight clusters indicative of brief fixations on a moving point. Movements are not constrained to a single axis (ruling out Horizontal Saccades), lack the systematic left-to-right line structure of Reading, and show more regular point-to-point target-like shifts than the more complex, object-driven patterns expected in Video Viewing or Balura Game, and clearly are not static Fixations.",
+  "correct": false
+}

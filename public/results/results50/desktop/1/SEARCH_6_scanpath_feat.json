@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in a relatively compact central region with multidirectional small saccades and no strong horizontal line structure or top-band focus. This pattern best matches the example for SEARCH, where users inspect a confined area of search results rather than scanning lines of text (READ) or the upper screen region (WATCH/WRITE).",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, continuous coverage of the screen with many long saccades in all directions and frequent revisits to central and lower regions, matching the dynamic, object-tracking and navigation behavior typical of gameplay rather than the more localized or structured patterns of reading, coding, or web search.",
+  "correct": false
+}

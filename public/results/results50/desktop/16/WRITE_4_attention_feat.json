@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are widely scattered across the entire screen with no dominant horizontal band or central cluster, indicating frequent gaze shifts in multiple directions typical of tracking moving game elements rather than the more constrained patterns seen in reading, writing, browsing, watching, or searching tasks.",
+  "correct": false
+}

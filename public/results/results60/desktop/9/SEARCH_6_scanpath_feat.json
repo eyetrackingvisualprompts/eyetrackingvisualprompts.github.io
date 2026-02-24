@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are dispersed over a moderately wide central area with frequent shifts between regions, resembling exploratory scanning of a webpage rather than the more linear patterns seen in READ or localized focus in WRITE/PLAY.",
+  "correct": false
+}

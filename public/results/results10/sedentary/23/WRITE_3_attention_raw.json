@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered on a small code area in the upper-left with a secondary cluster slightly lower, indicating focused inspection of a short snippet rather than continuous writing (WRITE) or broader scanning (DEBUG). This pattern best matches the INTERPRET examples.",
+  "correct": false
+}

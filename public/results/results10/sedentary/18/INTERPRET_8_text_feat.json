@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze remains within a compact central code-like area, with short saccades and repeated fixations oscillating between nearby lines or segments, resembling detailed inspection of a small function rather than broad navigation (SEARCH/BROWSE) or long horizontal reading (READ). The pattern closely matches the INTERPRET example\u2019s local back-and-forth over a confined region of code to reason about output.",
+  "correct": true
+}

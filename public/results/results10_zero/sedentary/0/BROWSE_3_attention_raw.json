@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a tight cluster in a central region of the screen with limited horizontal scanning or line-like patterns. This suggests sustained attention to a relatively small dynamic area, consistent with watching a video rather than reading, coding, browsing, or playing a game which typically produce broader or more structured scan paths.",
+  "correct": false
+}

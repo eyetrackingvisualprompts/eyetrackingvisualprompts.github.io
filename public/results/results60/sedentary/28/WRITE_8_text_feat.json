@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent long-range saccades between far-right and central/left regions around code-like vertical bands, with many medium-length fixations clustered in mid-screen coordinates, match the structured, back-and-forth inspection pattern seen in DEBUG more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with repeated forward\u2013backward sweeps over nearly the same horizontal band, long dwell times on specific spots, and occasional vertical shifts\u2014matching detailed inspection and mental simulation of a short code snippet more than the more extensive horizontal scanning of READ/WRITE or large jumps and broader exploration seen in BROWSE/SEARCH/PLAY/DEBUG/WATCH.",
+  "correct": false
+}

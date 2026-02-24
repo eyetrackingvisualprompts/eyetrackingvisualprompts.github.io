@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates show frequent, smooth shifts across a relatively large vertical and horizontal area, including rapid transitions and spread-out clusters rather than tight, line-based or block-based fixations. This broad, dynamic scanning pattern is more consistent with following visual content in a video (WATCH) than with the more structured, horizontally constrained patterns typical of reading, coding (INTERPRET/DEBUG/WRITE), searching, or browsing text-heavy webpages, and it lacks the strong object-tracking regularity of simple games (PLAY).",
+  "correct": false
+}

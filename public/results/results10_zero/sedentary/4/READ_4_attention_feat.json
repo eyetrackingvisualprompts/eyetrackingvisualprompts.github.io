@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered primarily near the top-center of the screen with a few vertically separated points lower down, suggesting initial attention to a search bar or top results and occasional glances down the page, consistent with scanning search-engine results rather than continuous line-by-line reading or dynamic tracking seen in video watching or games.",
+  "correct": false
+}

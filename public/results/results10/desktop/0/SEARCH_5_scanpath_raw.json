@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is confined to a relatively small central region with short, multi-directional saccades and no strong left-to-right line structure, resembling the browsing example more than the structured horizontal patterns of reading, writing, or video/game-related wide movements.",
+  "correct": false
+}

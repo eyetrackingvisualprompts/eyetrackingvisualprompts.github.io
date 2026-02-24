@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, orderly fixations in a horizontal band with short, regular saccades and limited vertical spread, closely matching the example READ pattern typical of line-by-line text reading rather than the more scattered or wide-ranging movements in browsing, searching, watching, playing, or writing.",
+  "correct": false
+}

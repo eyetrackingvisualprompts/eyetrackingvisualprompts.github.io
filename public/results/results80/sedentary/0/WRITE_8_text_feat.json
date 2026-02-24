@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered around code-like coordinates with many short back-and-forth saccades and repeated revisits to nearby lines/regions, consistent with scrutinizing and re-checking code segments rather than linear reading (READ) or broader exploratory scanning (BROWSE/SEARCH). The pattern closely matches the DEBUG example\u2019s dense local inspections and oscillations between nearby Y-positions around a central code block.",
+  "correct": false
+}

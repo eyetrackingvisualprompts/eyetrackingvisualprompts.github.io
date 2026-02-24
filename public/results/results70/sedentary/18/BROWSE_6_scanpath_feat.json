@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central-left band typical of code editing, with frequent vertical shifts between nearby lines and occasional long saccades to far screen regions (e.g., console, run button), closely matching the WRITE example pattern rather than the more dispersed or reading-like patterns of other activities.",
+  "correct": false
+}

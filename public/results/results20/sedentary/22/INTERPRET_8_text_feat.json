@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shifts repeatedly between a mid-screen code region and multiple distinct vertical levels (top, mid, bottom), with many revisits and irregular scan paths rather than orderly reading or horizontal browsing. This back-and-forth between areas is characteristic of debugging, where participants alternate between code, errors/output, and other reference locations in the IDE.",
+  "correct": false
+}

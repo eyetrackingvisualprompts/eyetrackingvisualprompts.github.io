@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixation trajectories show a slow, monotonic drift in X with modest, structured changes in Y and relatively regular saccades, closely matching the systematic left-to-right and slight downward movements typical of reading patterns and resembling the READ example more than the other task profiles.",
+  "correct": false
+}

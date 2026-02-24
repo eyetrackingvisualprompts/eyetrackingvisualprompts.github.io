@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Long fixations interleaved with medium-to-large saccades across varied vertical positions, including frequent transitions between mid-page (\u22480.5\u20130.7y) and near-top/near-bottom regions, resemble scanning and scrolling behavior over heterogeneous web pages more than the structured horizontal scanpaths of READ or the highly top-focused WATCH/WRITE patterns; overall dynamics best match the BROWSE examples.",
+  "correct": false
+}

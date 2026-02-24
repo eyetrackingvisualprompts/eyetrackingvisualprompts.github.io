@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact central region with moderate vertical spread, matching the browsing example heatmap more than the others, which show either broader horizontal scanlines (READ/WATCH), side clusters (WRITE/SEARCH), or widespread coverage (PLAY).",
+  "correct": false
+}

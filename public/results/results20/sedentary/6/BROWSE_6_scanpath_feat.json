@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around the code area with frequent vertical transitions between several nearby lines and occasional long saccades downward, matching the complex, back-and-forth inspection pattern typical of debugging rather than the more linear patterns of reading or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers a wide horizontal span with multiple clusters around mid-upper and mid-lower regions, including repeated transitions between them, resembling scanning result lists and answer panels typical of SEARCH rather than the more localized or structured patterns of code tasks or reading.",
+  "correct": false
+}

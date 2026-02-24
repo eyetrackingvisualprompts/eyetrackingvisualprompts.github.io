@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the screen center with moderate dispersion, similar to the BROWSE example where attention focuses on central webpage content while scrolling rather than the more scattered SEARCH or PLAY patterns or the horizontal READ pattern.",
+  "correct": false
+}

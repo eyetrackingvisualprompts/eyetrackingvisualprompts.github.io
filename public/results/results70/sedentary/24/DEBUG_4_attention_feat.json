@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows a strong, dense cluster on the left code area with additional spread vertically, matching the DEBUG pattern more than the tighter INTERPRET focus or broader distributions of other tasks.",
+  "correct": true
+}

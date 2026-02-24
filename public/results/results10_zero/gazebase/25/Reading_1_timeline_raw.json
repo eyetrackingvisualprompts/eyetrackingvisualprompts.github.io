@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X-position shows large, regular, step-like horizontal shifts of roughly constant amplitude with about 1-second plateaus between movements, matching the controlled, periodic motion of the horizontal saccade target; Y-position remains relatively stable with only slight drift, consistent with primarily horizontal tracking.",
+  "correct": false
+}

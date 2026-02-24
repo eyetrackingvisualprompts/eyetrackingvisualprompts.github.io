@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent medium-to-large saccades in both vertical and horizontal directions across mid and lower screen, with many short fixations and rapid revisits to similar regions, match the dynamic, multi-directional gaze demands seen in the PLAY examples more than the more columnar/line-based patterns of READ/WRITE or the more centrally clustered WATCH/BROWSE/SEARCH patterns.",
+  "correct": false
+}

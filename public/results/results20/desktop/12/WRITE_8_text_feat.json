@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Very long, highly stationary fixations tightly clustered in a small lower-left region with minimal scanning or line-like progression match the steady gaze near a cursor or small writing area seen in the WRITE examples, rather than the broader horizontal sweeps of READ or the more distributed movements of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": true
+}

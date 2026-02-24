@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between widely separated screen regions (including off-center/top areas suggestive of browser chrome and search bar) interleaved with shorter, clustered inspections of mid-page areas match the exploratory, scanning pattern seen in SEARCH more than the more linear READ pattern or the more code-centered WRITE/DEBUG/INTERPRET behaviors.",
+  "correct": false
+}

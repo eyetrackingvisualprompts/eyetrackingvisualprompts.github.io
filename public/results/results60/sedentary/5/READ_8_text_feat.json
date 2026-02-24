@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves in long, mostly horizontal sweeps with short regressions, progressing downward in discrete bands (y\u2248120\u2192210\u2192240\u2192260\u2192300\u2192320\u2192360\u2013400\u2192500\u2013550\u2192600\u2013710). This layered, line-by-line pattern with sustained fixations matches reading behavior and closely resembles the provided READ examples, unlike the more scattered or vertically exploratory patterns in SEARCH, BROWSE, or code-related tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band with many short left\u2013right saccades and local regressions around nearby coordinates, consistent with monitoring and editing code in an IDE while typing, and closely matches the spatial-temporal pattern seen in the WRITE example rather than the more dispersed patterns of BROWSE/SEARCH or the broader motion of PLAY/WATCH.",
+  "correct": false
+}

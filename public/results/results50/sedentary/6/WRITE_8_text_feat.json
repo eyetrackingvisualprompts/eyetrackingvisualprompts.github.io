@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent alternation between a mid-page horizontal band (~y=350\u2013500) and far top regions, plus repeated large saccades to extreme top/left/right coordinates, matches scanning SERP snippets, jumping to browser UI or query box, and then back to results\u2014highly characteristic of SEARCH rather than the more locally confined code or continuous text patterns of WRITE/READ/DEBUG/INTERPRET.",
+  "correct": false
+}

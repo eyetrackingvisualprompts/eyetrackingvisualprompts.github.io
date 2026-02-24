@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows alternating periods of scanning across different vertical regions (result list vs. pages) with mid-level saccade frequency and gradual upward drift in both X and Y, closely matching the mixed exploration pattern of the SEARCH example more than the steadier code tasks or highly dynamic PLAY/WATCH traces.",
+  "correct": false
+}

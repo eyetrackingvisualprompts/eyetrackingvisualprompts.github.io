@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small upper-central region with minor jitter and very few long horizontal or vertical sweeps, indicating sustained attention to a compact dynamic area (such as faces in a video) rather than systematic line-by-line reading, extensive vertical scrolling, or broad exploratory movements seen in search, browse, write, or play tasks.",
+  "correct": true
+}

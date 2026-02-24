@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze exhibits large, frequent shifts across wide screen regions (including extreme vertical positions >1.0), mixed with shorter fixations\u2014indicative of dynamic scene tracking and target following typical of gameplay, and unlike the more horizontally constrained, line- or block-based patterns seen in READ, WRITE, BROWSE, or SEARCH.",
+  "correct": false
+}

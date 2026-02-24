@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is tightly clustered around the central region with some vertical spread and scattered peripheral fixations, closely matching the PLAY example heatmap where attention follows central game elements rather than horizontally structured text or code blocks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered in a mid-screen region with short, multidirectional saccades and no strong horizontal reading lines or large transitions, resembling focused attention on a central content block typical of browsing web pages rather than the more linear patterns of READ/WRITE or broader shifts of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

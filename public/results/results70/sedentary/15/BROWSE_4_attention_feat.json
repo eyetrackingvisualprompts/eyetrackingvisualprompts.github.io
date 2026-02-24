@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are concentrated in a vertically extended, centrally located region with relatively uniform coverage and no strong horizontal sweep across the whole screen, matching the dense, column-like reading pattern shown in the READ example more than the code-focused (left-biased) or wide-scan (BROWSE/SEARCH) patterns.",
+  "correct": false
+}

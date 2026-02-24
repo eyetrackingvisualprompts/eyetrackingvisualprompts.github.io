@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, slow horizontal drift with modest vertical changes and a brief central elevation period, matching the stable, screen-centered viewing behavior typical of the WATCH examples rather than the more structured line-by-line (READ/SEARCH) or large discrete region switches (WRITE/DEBUG/BROWSE/PLAY/INTERPRET).",
+  "correct": false
+}

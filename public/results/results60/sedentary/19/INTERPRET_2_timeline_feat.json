@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is highly localized with small horizontal range and slowly increasing vertical position, indicating focused attention on a compact code snippet rather than extended text (READ) or broader screen exploration (SEARCH/BROWSE/DEBUG). This tightly clustered, stable pattern best matches the INTERPRET examples.",
+  "correct": true
+}

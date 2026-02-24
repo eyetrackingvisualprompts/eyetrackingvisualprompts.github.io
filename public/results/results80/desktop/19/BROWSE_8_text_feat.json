@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium- and long-range vertical and horizontal saccades between dispersed regions (upper, middle, and lower screen) with moderate fixation durations, including rapid jumps to high y (near bottom) and back to mid areas, consistent with scanning mixed text/graphics and scrolling web pages. The pattern is less structured than READ, more exploratory than WRITE, and lacks the sustained central band typical of WATCH, matching BROWSE behavior.",
+  "correct": true
+}

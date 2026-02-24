@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across a central vertical band of the screen with multiple clusters at different heights, indicating scanning varied content areas such as headlines, images, and text blocks, which best matches the browsing pattern rather than the more localized clusters of SEARCH or the horizontal lines of READ.",
+  "correct": false
+}

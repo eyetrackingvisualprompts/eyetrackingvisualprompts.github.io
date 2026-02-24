@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple distinct, well-separated fixation clusters scattered across both horizontal and vertical extents of the screen, with no alignment into lines (reading) and not confined to a narrow horizontal band (horizontal saccades). This sparse, randomly distributed pattern best matches the Random Saccades example.",
+  "correct": true
+}

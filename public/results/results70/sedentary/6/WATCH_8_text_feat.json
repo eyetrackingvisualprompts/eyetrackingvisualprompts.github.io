@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide spatial dispersion of fixations and large-amplitude saccades across the full screen (including extreme top/bottom, left/right and off-content areas), frequent transitions between central/text-like regions and far peripheral or top areas suggest scrolling/navigation and heterogeneous web content rather than structured code (WRITE/DEBUG/INTERPRET) or orderly text lines (READ). The pattern closely resembles exploratory, multi-region viewing typical of web browsing sessions in the provided BROWSE examples.",
+  "correct": false
+}

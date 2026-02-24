@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central-left band with many short intra-line horizontal saccades and frequent regressions between very similar y-coordinates, matching code-editing/typing behavior. There are repeated long sweeps between this code region and a far-right area (likely console or UI panel), characteristic of implementing and running code, as seen in the WRITE examples, rather than the more exploratory or line-by-line scanning of DEBUG/INTERPRET or the broader, more varied patterns of BROWSE/SEARCH/WATCH/PLAY/READ.",
+  "correct": true
+}

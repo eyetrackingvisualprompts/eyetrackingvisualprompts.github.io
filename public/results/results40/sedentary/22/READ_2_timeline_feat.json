@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The X fixation shows repeated left-to-right sweeps with return saccades, while the Y fixation steadily increases over time, consistent with progressing down lines of text. This pattern closely matches the READ example and differs from the more static or irregular patterns of the other activities.",
+  "correct": true
+}

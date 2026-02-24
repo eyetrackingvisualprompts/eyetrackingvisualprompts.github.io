@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large, smooth shifts in both x and y with sustained plateaus and occasional vertical spikes, consistent with tracking changing visual content (characters, subtitles, scene cuts) in a video rather than the more systematic horizontal scan patterns of reading/writing or the highly erratic multi-directional movements typical of search, browse, or play.",
+  "correct": false
+}

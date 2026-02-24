@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points frequently jump across large screen regions, including rapid shifts between central, upper, and far lower areas, along with sequences that track moving-like trajectories and occasional off-content excursions\u2014patterns that closely resemble following dynamic game elements and UI areas rather than the more line-structured, stationary patterns of reading, coding, or interpretation tasks.",
+  "correct": false
+}

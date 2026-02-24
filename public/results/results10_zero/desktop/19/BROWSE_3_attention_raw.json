@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are tightly clustered near the screen center with limited horizontal scanning or structured line-by-line movements, suggesting sustained central attention typical of watching a video rather than reading, writing, browsing, searching, or active game play.",
+  "correct": false
+}

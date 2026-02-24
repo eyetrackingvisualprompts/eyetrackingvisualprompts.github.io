@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, moderate horizontal shifts with gradual drifts and small vertical adjustments, lacking strong line-by-line patterns of reading or the rapid, large bidirectional jumps typical of search, browse, or play; this stable, viewing-focused pattern aligns best with passively watching a video.",
+  "correct": false
+}

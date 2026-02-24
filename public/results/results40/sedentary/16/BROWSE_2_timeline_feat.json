@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large horizontal saccades with relatively constrained, slowly varying vertical position, indicating repeated scanning across result snippets or pages\u2014this pattern aligns best with the SEARCH examples compared to the more static READ/INTERPRET or highly dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

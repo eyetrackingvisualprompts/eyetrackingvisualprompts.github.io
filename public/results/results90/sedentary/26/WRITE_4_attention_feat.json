@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered in the upper-left region where a short code snippet would appear, with minimal spread elsewhere\u2014matching the focused, localized viewing pattern of INTERPRET rather than the slightly broader patterns seen in DEBUG or WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are tightly clustered in a small central-lower region with minimal horizontal spread, indicating continuous focus on a small moving target area typical for gameplay HUD/character tracking rather than the broader, band-like patterns of reading, writing, searching, or browsing, or the upper-screen focus of watching video.",
+  "correct": false
+}

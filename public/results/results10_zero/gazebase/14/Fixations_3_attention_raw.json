@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows a single, tight concentration of gaze points at the central screen location with no dispersion or movement over time, indicating sustained fixation on a static target rather than tracking moving stimuli or exploring content.",
+  "correct": true
+}

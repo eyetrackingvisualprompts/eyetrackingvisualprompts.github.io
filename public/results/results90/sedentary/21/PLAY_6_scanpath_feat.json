@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Two main text-like clusters on the left and center with occasional long saccades to the far right/top/bottom resemble alternating attention between search results and other page elements, matching the SEARCH pattern more than the more localized code (WRITE/DEBUG/INTERPRET) or continuous video/game/read behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely distributed across the entire screen with frequent long saccades in many directions and no clear reading lines or code/IDE clustering, matching the exploratory, full-screen viewing pattern typical of watching a video.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster around central-mid screen with frequent small shifts and occasional vertical transitions, matching the mixed fixation-and-scrolling pattern seen in the BROWSE example, rather than the more linear scanpaths of READ/SEARCH or the larger, more dynamic shifts of PLAY/WATCH.",
+  "correct": false
+}

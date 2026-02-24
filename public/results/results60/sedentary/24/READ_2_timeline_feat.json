@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target data shows highly regular horizontal scan patterns with stepwise X fixations and periodic saccades, along with a slow, monotonic downward drift in Y position, closely matching the example READ pattern and characteristic left-to-right line reading behavior.",
+  "correct": true
+}

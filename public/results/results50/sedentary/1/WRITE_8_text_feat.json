@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Prolonged, localized fixations around a compact area with frequent small regressions and occasional shifts between slightly separated regions match the pattern of focused editing/typing seen in WRITE examples, rather than the more linear scans of READ or the broader spatial exploration of BROWSE/SEARCH/DEBUG.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations cluster around multiple discrete positions with roughly 1-second dwell times, and the target locations are scattered in both horizontal and vertical directions within a limited central region\u2014matching the protocol of following a randomly moving bull\u2019s-eye rather than reading, gaming, or continuous video viewing.",
+  "correct": false
+}

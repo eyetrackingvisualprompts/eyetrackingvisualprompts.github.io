@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a compact region with short, local saccades and little horizontal sweep, indicating focused inspection of a small code snippet rather than extended reading or wide navigation, matching the INTERPRET pattern.",
+  "correct": false
+}

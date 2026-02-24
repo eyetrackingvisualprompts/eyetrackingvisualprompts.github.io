@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades with variable horizontal and vertical positions, alternating between clustered reading-like segments and jumps to new regions\u2014matching the mixed scanning of results pages and opened links typical of SEARCH rather than the more uniform patterns of READ/WRITE or the highly dynamic PLAY/WATCH behaviors.",
+  "correct": true
+}

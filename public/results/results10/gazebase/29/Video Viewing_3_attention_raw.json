@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "The gaze pattern shows multiple short fixations scattered across a wide horizontal area with some clustering, indicating frequent shifts to discrete moving targets rather than orderly tracking or line-based reading, matching the Balura Game behavior best.",
+  "correct": false
+}

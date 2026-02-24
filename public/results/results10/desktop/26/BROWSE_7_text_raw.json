@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, rapid shifts across wide horizontal and vertical regions (center to far right, mid to lower screen), with many short fixations and irregular scanpaths, matching the dynamic, multi-directional viewing demands typical of gameplay rather than the more structured, columnar or largely vertical patterns seen in reading, web search, browsing, or writing, and unlike the more clustered, scene-centered viewing in watching videos.",
+  "correct": false
+}

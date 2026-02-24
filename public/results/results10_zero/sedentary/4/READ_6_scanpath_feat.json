@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a narrow horizontal band near the top with occasional large vertical excursions, lacking the systematic left-to-right and line-by-line pattern of reading or code tasks; this sparse, object-following trajectory is more consistent with visually tracking elements in a video than with text-heavy or search/browse activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay around mid-screen with small horizontal drift and modest vertical changes, showing relatively stable fixations and short saccades similar to the BROWSE example, unlike the larger vertical spans in READ/WRITE or dynamic patterns in WATCH/PLAY/SEARCH.",
+  "correct": false
+}

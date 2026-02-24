@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated along a single horizontal band near the top of the screen with two main clusters and some lighter spread between them, matching the pattern of scanning a search results page (query box and top results) more than the tighter, code-focused clusters of INTERPRET/DEBUG/WRITE or the broader distributions of BROWSE/WATCH/PLAY.",
+  "correct": false
+}

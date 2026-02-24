@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts in both X and Y with irregular fixation positions across almost the full screen, matching the dynamic, wide-ranging eye movements typical when tracking game elements rather than the more line- or block-structured patterns seen in reading, coding, or web search/browsing.",
+  "correct": false
+}

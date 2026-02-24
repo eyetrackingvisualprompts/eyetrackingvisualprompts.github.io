@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including off-center corners), many revisits between dispersed locations, and mixed vertical/horizontal transitions resemble dynamic target tracking and spatial navigation patterns typical of gameplay rather than the more localized, line- or block-based scanning of reading, coding, or debugging tasks.",
+  "correct": false
+}

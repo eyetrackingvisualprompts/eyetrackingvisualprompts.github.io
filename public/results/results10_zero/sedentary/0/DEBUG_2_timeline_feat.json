@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a narrow horizontal band with slow, gradual upward shifts and long stable fixations, lacking the systematic left-to-right and line-return patterns of reading or the rapid, large-amplitude shifts typical of search, browsing, coding, or gameplay. This smooth, centrally focused behavior is most consistent with passively watching a video.",
+  "correct": false
+}

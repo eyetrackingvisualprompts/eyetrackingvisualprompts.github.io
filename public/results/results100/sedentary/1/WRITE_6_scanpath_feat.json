@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations clustered over a code-like area on the left with frequent vertical and horizontal regressions, plus occasional long saccades to the right side (likely to run/output panel), closely matches the DEBUG example pattern rather than other tasks.",
+  "correct": false
+}

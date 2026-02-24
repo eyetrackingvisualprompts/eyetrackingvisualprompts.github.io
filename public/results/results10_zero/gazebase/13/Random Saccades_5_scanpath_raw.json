@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps of gaze to scattered positions across the screen with relatively long dwells at each location, matching a task where a single target moves to random positions once per second rather than continuous motion or dense local scanning typical of reading, gaming, or video viewing.",
+  "correct": true
+}

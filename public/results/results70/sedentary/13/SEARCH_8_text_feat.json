@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Long, smooth horizontal sweeps across a narrow vertical band, relatively long fixations, and several large jumps to distant screen regions match the pattern of following dynamic on-screen content rather than line-by-line code or text inspection; the trajectory closely resembles the provided WATCH examples more than the more locally clustered, revisiting behaviors seen in coding, reading, or debugging tasks.",
+  "correct": false
+}

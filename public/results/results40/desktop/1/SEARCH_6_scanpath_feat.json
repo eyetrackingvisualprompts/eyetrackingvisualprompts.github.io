@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a central screen region with frequent, multidirectional saccades and revisits, resembling the heterogeneous, exploratory pattern of browsing webpages rather than the more structured horizontal lines of reading/writing or the broader dispersion seen in playing or watching videos.",
+  "correct": false
+}

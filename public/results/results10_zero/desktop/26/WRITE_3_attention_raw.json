@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single compact cluster of gaze points in the lower-central region without systematic horizontal or vertical scanning patterns. This indicates the participant maintained gaze on a stable area (such as the main action region or subtitle area of a video), which is more consistent with WATCH than with the multi-region exploration of SEARCH/BROWSE/PLAY or the line-structured movements of READ/WRITE.",
+  "correct": false
+}

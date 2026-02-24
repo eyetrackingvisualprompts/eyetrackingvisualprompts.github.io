@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly clustered on the left-central region resembling reading or scanning a web page, but with several long horizontal saccades to the far right side and some to the bottom, indicating occasional attention shifts to other page elements like links, menus, or ads\u2014typical of free web browsing rather than focused coding or continuous video watching.",
+  "correct": false
+}

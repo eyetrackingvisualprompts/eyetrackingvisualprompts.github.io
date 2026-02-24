@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small code-like region with frequent short saccades among nearby coordinates, repeated revisits to the same lines, and occasional shifts between top and middle areas\u2014matching the pattern of mentally simulating and checking code output as in INTERPRET, rather than the broader, more dynamic navigation seen in debugging, writing, or browsing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cluster in a central region with frequent short saccades in multiple directions, lacking the strong horizontal line structure of reading or the wide exploratory spread seen in search or play. This compact, multidirectional pattern best matches the browsing example.",
+  "correct": false
+}

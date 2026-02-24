@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near the screen center with minimal horizontal or vertical movement over the full 10-second window, indicating passive, stable viewing consistent with watching a video rather than the more spatially distributed or line-based scanning seen in reading, coding, browsing, or game play.",
+  "correct": false
+}

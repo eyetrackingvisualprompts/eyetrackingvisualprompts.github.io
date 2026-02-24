@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are sparse, isolated, and scattered across the entire screen in both horizontal and vertical directions without forming horizontal lines (reading), central clustering (fixation), or dense regions typical of video or game stimuli. This wide, random spatial distribution matches a target jumping to random positions once per second, as in the Random Saccades task.",
+  "correct": false
+}

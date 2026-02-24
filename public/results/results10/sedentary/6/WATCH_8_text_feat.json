@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent vertical oscillations between two y-bands around the same x-region, with short fixations and rapid up\u2013down saccades, suggest tracking a moving game element rather than systematic horizontal reading/browsing or code inspection patterns seen in WRITE/DEBUG/INTERPRET/SEARCH/READ. The mid-screen focus and motion-like gaze shifts best match the PLAY activity examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, rapid saccades between widely separated screen regions including top bar\u2013like coordinates and scattered revisits, followed by scanning clusters, resemble navigating search results and SERP elements more than the more localized, line\u2011structured patterns of READ/WRITE/INTERPRET/DEBUG or the smoother, scene\u2011centered movements of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

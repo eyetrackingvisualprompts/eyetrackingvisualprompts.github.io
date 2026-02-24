@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a relatively constrained central area with short-to-moderate saccades and frequent, stable fixations, lacking large, rapid exploratory movements typical of SEARCH, BROWSE, or PLAY and without the strong vertical or peripheral shifts often seen when typing (WRITE) or following dynamic scenes (WATCH), which is most consistent with reading text on a screen.",
+  "correct": false
+}

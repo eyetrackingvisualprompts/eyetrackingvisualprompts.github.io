@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps between distant screen regions (including extremes and off-center areas), mixed with shorter inspection fixations, match exploratory, non-linear scanning typical of web browsing rather than the more structured, line-based or code-block-focused patterns seen in reading, writing, debugging, or code interpretation tasks.",
+  "correct": false
+}

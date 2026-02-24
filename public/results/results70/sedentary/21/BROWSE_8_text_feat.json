@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze progresses in long, smooth horizontal sweeps across consistent y-levels (\u2248230\u2013620), then steps downward to new bands, matching line-by-line reading behavior rather than localized code/IDE inspection or dynamic object tracking.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete step-like changes in both horizontal and vertical directions of several degrees, with each fixation held roughly around one second and movements not constrained to a single axis, matching the random 2D target jumps of the Random Saccades task rather than the stable gaze of Fixations, predominantly horizontal shifts of Horizontal Saccades, or more irregular patterns expected in Reading, Video Viewing, or Balura Game.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a relatively small central region with irregular back-and-forth movements and no clear horizontal line-by-line pattern typical of reading or coding. The spread and dynamics are consistent with following visual content in a video rather than structured text or game elements, making WATCH the most likely class.",
+  "correct": false
+}

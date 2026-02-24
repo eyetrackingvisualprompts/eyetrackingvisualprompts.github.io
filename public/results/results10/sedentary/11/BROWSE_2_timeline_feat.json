@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gradual rightward drift in X with mostly stable Y and periodic medium-size saccades matches the browsing example pattern more than the other tasks, which show either stronger vertical shifts (search, debug, write) or more constrained/stationary gaze (read, interpret, watch).",
+  "correct": true
+}

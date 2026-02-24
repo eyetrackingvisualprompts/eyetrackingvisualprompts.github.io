@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows medium-range, irregular horizontal and vertical shifts with frequent direction changes and no strong left-to-right line sweeping, matching the variable scanning and intermittent focus typical of web browsing rather than structured reading, writing, or continuous gameplay.",
+  "correct": false
+}

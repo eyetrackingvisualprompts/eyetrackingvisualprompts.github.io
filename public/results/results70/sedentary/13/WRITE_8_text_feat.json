@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades between widely separated screen regions (top bars, side areas, and lower content), repeated returns to similar vertical zones, and irregular scanpaths without sustained line-by-line reading or tight code-block inspection are most consistent with free web browsing behavior rather than structured reading, coding, or video watching.",
+  "correct": false
+}

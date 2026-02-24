@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extremes and off-center areas), rapid revisits between dispersed clusters, and repeated transitions between central gameplay-like zones and screen edges match the dynamic, spatially distributed gaze patterns seen in the PLAY examples rather than the more localized, line- or block-oriented patterns of reading, coding, or browsing/searching.",
+  "correct": false
+}

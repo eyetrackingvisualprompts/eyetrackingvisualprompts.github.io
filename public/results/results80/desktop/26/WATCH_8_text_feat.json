@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is mostly around the upper\u2011central area but with frequent medium\u2011to\u2011large excursions in both horizontal and vertical directions (including to screen edges like x\u22480.3,0.6 and y\u22480.26\u20130.44), with many short fixations and rapid corrective saccades. This multidirectional, dynamic scanning pattern matches the PLAY examples more than the more vertically constrained READ/WRITE or centrally clustered WATCH, and is less top/bottom and panel driven than SEARCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper-central region with multiple small clusters and some scattered points, closely matching the SEARCH example pattern of scanning result snippets near the top of a search engine page rather than the more focused or vertically structured patterns of other tasks.",
+  "correct": true
+}

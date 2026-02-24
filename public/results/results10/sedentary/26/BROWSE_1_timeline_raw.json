@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The x-position shows a slow, mostly left-to-right drift with occasional larger jumps, while the y-position stays relatively stable with minor variations\u2014matching vertical scanning of search results and occasional horizontal movements, similar to the SEARCH example and distinct from the more static INTERPRET or structured READ patterns.",
+  "correct": false
+}

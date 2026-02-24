@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster densely over a left-side code area with additional scattered looks to the right, resembling the DEBUG example\u2019s focused inspection of code with occasional checks elsewhere, rather than the more compact INTERPRET or WRITE patterns.",
+  "correct": true
+}

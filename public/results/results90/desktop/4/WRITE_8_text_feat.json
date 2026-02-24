@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large vertical shifts between top (y\u22480.0\u20130.2) and mid-screen (y\u22480.3\u20130.6), interleaved with shorter local adjustments, indicate dynamic spatial monitoring rather than line-by-line reading or static scanning; this pattern best matches game play, especially a platformer-like task with repeated jumps between HUD/top and central regions.",
+  "correct": false
+}

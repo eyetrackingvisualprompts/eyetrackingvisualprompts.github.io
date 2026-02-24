@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated in a narrow vertical band around the screen center with some vertical spread, consistent with following a moving game object (e.g., Pong ball) rather than horizontally scanning text or code as in READ/WRITE/DEBUG/INTERPRET or broadly exploring as in SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

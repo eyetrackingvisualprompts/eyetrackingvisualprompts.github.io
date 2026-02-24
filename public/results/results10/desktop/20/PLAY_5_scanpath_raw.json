@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are concentrated in a relatively small central region with frequent, short saccades and no clear linear reading pattern or wide exploratory movements, which best matches the clustered, mid-screen scanpaths typical of browsing examples.",
+  "correct": false
+}

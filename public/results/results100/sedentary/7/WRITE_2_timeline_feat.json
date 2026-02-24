@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow vertical band with small, systematic horizontal movements and relatively few large saccades, closely matching the focused yet less scan-heavy pattern of code understanding seen in the INTERPRET example rather than the more exploratory or highly dynamic patterns of other tasks.",
+  "correct": false
+}

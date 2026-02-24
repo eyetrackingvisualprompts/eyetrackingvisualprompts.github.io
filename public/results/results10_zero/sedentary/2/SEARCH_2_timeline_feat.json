@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show small, mostly horizontal shifts with relatively stable vertical position and short saccades, consistent with line-by-line reading rather than the larger, multidirectional movements typical of searching, browsing, playing games, or code-focused tasks.",
+  "correct": false
+}

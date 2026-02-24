@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered near screen center with moderate, relatively symmetric horizontal and vertical movements and frequent short saccades, resembling the stable, mid-screen scanning seen in the BROWSE example rather than the more structured line sweeps of READ or the larger directional shifts of PLAY/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Long dwell times and repeated localized saccades around a mid-screen code-like region (x\u2248250\u2013350, y\u2248530\u2013600) with occasional large excursions resemble the sustained, iterative inspection pattern seen in WRITE examples near the editing area, rather than the broader scanning of BROWSE/SEARCH, line-like READ, dynamic PLAY/WATCH, or more top-of-code focused INTERPRET/DEBUG.",
+  "correct": false
+}

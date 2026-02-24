@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cover a moderately wide vertical range with many scattered fixations and frequent saccades around the central area, resembling the mixed reading-and-navigation pattern of search results pages rather than the more linear READ pattern or the tighter clusters of BROWSE/WATCH.",
+  "correct": false
+}

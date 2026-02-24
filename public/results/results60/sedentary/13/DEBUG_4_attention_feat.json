@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left side in a tall vertical band (typical code editor area) with some additional attention lower-left and a few checks toward the right side, closely matching the DEBUG example pattern of scanning and re-checking code and output within an IDE.",
+  "correct": true
+}

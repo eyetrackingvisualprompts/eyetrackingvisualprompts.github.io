@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are tightly clustered around the center of the screen with limited horizontal span and modest vertical range, similar to the BROWSE example where attention is focused on a central content area rather than extended reading lines or wide exploratory movements.",
+  "correct": false
+}

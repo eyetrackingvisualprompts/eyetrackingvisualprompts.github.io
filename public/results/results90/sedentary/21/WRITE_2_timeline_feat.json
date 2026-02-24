@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium horizontal spread with frequent short saccades and revisits across a constrained central area, resembling code-inspection and correction behavior; this pattern best matches the DEBUG example compared to the more stable INTERPRET or more scattered SEARCH/BROWSE patterns.",
+  "correct": false
+}

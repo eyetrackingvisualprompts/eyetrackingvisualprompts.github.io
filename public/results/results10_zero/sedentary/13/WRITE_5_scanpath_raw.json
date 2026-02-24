@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact region in the upper-left area (typical IDE code region) with repeated vertical excursions toward the bottom-left (likely shifts to console, editor bottom, or other panels), matching focused coding behavior rather than the more dispersed or horizontally structured patterns of reading, browsing, or searching.",
+  "correct": true
+}

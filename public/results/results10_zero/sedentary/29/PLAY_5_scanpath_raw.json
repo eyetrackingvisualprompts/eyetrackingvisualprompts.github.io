@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades over a relatively confined central area with some long excursions, consistent with tracking moving game elements on the screen rather than structured left-to-right or line-by-line reading or code inspection patterns.",
+  "correct": true
+}

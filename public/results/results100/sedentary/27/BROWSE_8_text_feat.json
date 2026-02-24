@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent very large saccades to off-screen/edge coordinates, alternated with extended periods of line-like horizontal scanning in the mid\u2013upper vertical bands, matches web browsing patterns (scrolling, jumping between top URL/tab areas and content) rather than the more structured code (WRITE/DEBUG/INTERPRET) or linear reading patterns.",
+  "correct": true
+}

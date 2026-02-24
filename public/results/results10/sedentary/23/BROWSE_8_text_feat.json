@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations progress predominantly horizontally within a narrow vertical band, with regular left-right saccades along what appears to be a single text line or two nearby lines, matching the line-scanning pattern seen in the READ example rather than the broader, multi-region exploration of SEARCH/BROWSE or the more scattered/code-structured patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

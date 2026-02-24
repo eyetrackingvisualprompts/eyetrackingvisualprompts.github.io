@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixation patterns show mostly horizontal movements with gradually changing Y positions, consistent with line-by-line reading. Around 28\u201330 s there is a clear downward shift in Y fixations indicating moving to a new text region, matching the READ example more than the other activities.",
+  "correct": true
+}

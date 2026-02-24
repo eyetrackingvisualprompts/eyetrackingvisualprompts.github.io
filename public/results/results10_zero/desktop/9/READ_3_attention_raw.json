@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is dispersed across many regions with multiple localized clusters, including mid and upper screen, suggesting frequent direction changes and broader spatial exploration typical of game play rather than the more linear, banded scanpaths of reading, writing, or web browsing/searching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze heatmap shows a diagonal trajectory with dispersed fixations spanning a wide horizontal range and variable vertical positions, consistent with continuous tracking of a moving game character or objects rather than the more line-structured, banded patterns of reading, writing, or web search/browsing, or the more clustered central focus typical for video watching.",
+  "correct": false
+}

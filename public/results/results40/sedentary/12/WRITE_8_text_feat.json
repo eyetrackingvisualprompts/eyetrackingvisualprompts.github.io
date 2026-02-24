@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small central-left code-like region with many medium/long fixations and short horizontal/vertical shifts, plus occasional jumps to other nearby zones, matching the detailed, localized inspection and re\u2011inspection typical of code interpretation rather than the broader, line-by-line sweeps of READ or the wide exploratory jumps of SEARCH/BROWSE/WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a compact horizontal band in the central area, matching the pattern of reading text lines rather than the more localized code-focused clusters (WRITE/INTERPRET/DEBUG) or the dispersed patterns of PLAY/SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

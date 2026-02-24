@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered over a narrow vertical code-like area on the left, with dense, repeated fixations and short saccades, matching the focused inspection pattern seen in the DEBUG example rather than the more distributed movement of WRITE or INTERPRET.",
+  "correct": false
+}

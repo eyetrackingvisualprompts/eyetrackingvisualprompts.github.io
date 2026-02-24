@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a mostly smooth, progressive left-to-right and slightly downward movement with relatively small regressions, consistent with line-by-line text reading rather than the larger, multidirectional shifts typical of browsing, search, gaming, or video watching.",
+  "correct": true
+}

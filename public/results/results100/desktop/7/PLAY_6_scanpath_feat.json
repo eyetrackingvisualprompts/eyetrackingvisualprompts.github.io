@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, horizontally-elongated cluster with limited vertical movement, matching the stable line-by-line scanning pattern seen in the READ example and unlike the broader, more scattered distributions of SEARCH, BROWSE, PLAY, WATCH, or WRITE.",
+  "correct": false
+}

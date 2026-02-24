@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are tightly clustered in a small region near the lower-central part of the screen, unlike the broader horizontal bands of READ/WRITE or the more dispersed central patterns of SEARCH/BROWSE/WATCH. This localized, static focus is most consistent with tracking a game character or HUD element in the PLAY condition.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent medium-length fixations interleaved with short saccades among clustered regions (likely code and nearby editor UI), repeated revisits to similar mid-screen coordinates, and occasional long vertical jumps (to top regions around y\u2248100\u2013200) match the structured yet locally exploratory scanning seen in the WRITE examples, rather than the more linear (READ), highly horizontal (BROWSE), or object-tracking (PLAY/WATCH) patterns.",
+  "correct": false
+}

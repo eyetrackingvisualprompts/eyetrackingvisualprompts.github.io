@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is dispersed across multiple regions including upper and lower parts of the screen, similar to code editing where attention alternates between the code area and other UI elements, matching the WRITE heatmap pattern more than the other tasks.",
+  "correct": false
+}

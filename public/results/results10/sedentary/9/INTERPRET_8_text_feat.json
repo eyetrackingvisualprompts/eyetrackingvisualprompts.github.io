@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Predominantly localized fixations around a tight code-like region with small corrective saccades and occasional vertical shifts, closely matching the INTERPRET example\u2019s stable, line-bound gaze over a small text block rather than the broader navigation or multi-region scanning seen in DEBUG, SEARCH, or BROWSE.",
+  "correct": true
+}

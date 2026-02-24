@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal reading-like movement with noticeable vertical shifts and several large, irregular saccades, indicating scanning between different code regions and outputs, which best matches the debugging pattern rather than the more uniform reading/browsing or highly dynamic play/search behaviors.",
+  "correct": false
+}

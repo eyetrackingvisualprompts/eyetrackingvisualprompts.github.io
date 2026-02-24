@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in the upper-left code area with occasional long saccades toward right and bottom regions (likely console, file tabs, or run button), closely matching the WRITE example\u2019s pattern of focused coding with sporadic UI checks rather than the more dispersed or structured patterns of other tasks.",
+  "correct": false
+}

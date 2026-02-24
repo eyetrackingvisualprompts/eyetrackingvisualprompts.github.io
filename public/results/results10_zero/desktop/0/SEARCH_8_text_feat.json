@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains within a confined central region with short saccades and frequent 200\u2013400 ms fixations, forming a relatively stable horizontal band with small vertical variation. This pattern is characteristic of line-by-line reading rather than the larger exploratory movements seen in browsing, searching, watching videos, or playing games, and it lacks the repeated top-left to text-area shifts typical of active writing in a word processor.",
+  "correct": false
+}

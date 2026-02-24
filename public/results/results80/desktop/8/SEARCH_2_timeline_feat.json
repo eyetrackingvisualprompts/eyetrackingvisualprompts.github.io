@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "X fixation stays mostly in the lower part of the screen with moderate horizontal movement, while Y fixation is higher and shows frequent large saccades in all directions, matching the dynamic, multidirectional gaze behavior seen in the PLAY example more than the other activities.",
+  "correct": false
+}

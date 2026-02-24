@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a narrow band with mostly horizontal scanning and occasional vertical shifts, closely matching the INTERPRET example where participants inspect a compact code snippet and mentally trace execution, unlike the broader, more exploratory or dynamic patterns seen in BROWSE, PLAY, or WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The x-position shows repeated, staircase-like rightward sweeps with quick regressions, while y-position stays relatively stable with small drift\u2014matching line-by-line reading behavior and resembling the Reading example plot.",
+  "correct": true
+}

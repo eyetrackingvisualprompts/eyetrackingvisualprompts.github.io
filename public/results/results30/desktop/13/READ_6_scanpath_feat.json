@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows a gradual downward progression with clustered fixations and relatively constrained horizontal range starting near mid-screen and moving lower, consistent with composing text and shifting gaze between text being written and reference areas, which matches the WRITE pattern more than the other activities.",
+  "correct": false
+}

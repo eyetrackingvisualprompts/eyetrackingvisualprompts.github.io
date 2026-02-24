@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered on a mid-left code area with a few shifts to nearby lines and lower regions, closely matching the DEBUG example\u2019s focused hotspot and occasional checks elsewhere in the code, unlike the broader or more horizontal patterns of other tasks.",
+  "correct": false
+}

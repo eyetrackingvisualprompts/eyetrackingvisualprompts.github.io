@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze repeatedly jumps in large, irregular shifts across wide horizontal and vertical ranges, followed by clusters of relatively stable samples at distinct positions. This pattern matches tracking a target that appears at random screen locations with 1-second holds, consistent with Random Saccades rather than the more structured, line-based or centrally focused patterns of the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze position shows long periods of relatively stable fixations interspersed with large, abrupt jumps in both horizontal and vertical directions of several degrees, with no consistent horizontal-only pattern. This matches the behavior of following a randomly moving target rather than steady fixation, structured horizontal saccades, or the finer, more patterned movements of reading or game interactions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps between distant on-screen and off-screen (negative) coordinates, visits to extreme corners, and scattered fixations at multiple vertical levels resemble exploratory web navigation and scrolling behavior more than the structured, line-based patterns of coding, reading, or search, or the central, smoother tracking of games or videos.",
+  "correct": true
+}

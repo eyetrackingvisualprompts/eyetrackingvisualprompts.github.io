@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-sized saccades with revisits to similar X\u2013Y regions and intermittent vertical shifts resemble code scanning and re-checking behavior seen in the DEBUG example more than the steadier patterns of reading/interpreting or the more exploratory search/browse behaviors.",
+  "correct": false
+}

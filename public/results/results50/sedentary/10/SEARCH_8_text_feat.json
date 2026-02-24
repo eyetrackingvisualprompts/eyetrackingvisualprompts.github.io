@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide vertical and horizontal scanning between top, middle, and lower screen regions, with many medium-length fixations and revisits to similar horizontal bands, matches search results and page navigation behavior more than the more linear lines of READ or the tight central focus of INTERPRET/WRITE or the highly dynamic PLAY patterns.",
+  "correct": true
+}

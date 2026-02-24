@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with frequent medium-amplitude vertical shifts between a content area (~y=0.4\u20130.5) and a slightly upper/lower region (~y=0.23\u20130.32, ~0.5+), plus repeated returns and short horizontal adjustments. This resembles scanning and revisiting regions as in web browsing, not the more regular horizontal lines of READ or the broader, more dynamic spread seen in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

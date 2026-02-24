@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows predominantly horizontal eye movements with minimal vertical variation, tracing back and forth along a roughly constant Y-level, consistent with following a horizontally moving target rather than multi-directional exploration or stable fixation.",
+  "correct": false
+}

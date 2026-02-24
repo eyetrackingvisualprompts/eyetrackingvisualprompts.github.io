@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze covers a wide horizontal range with multiple clusters (left, center, right) and varied vertical movements, indicating navigation across different webpage areas rather than focused code, static text, or a single dynamic object\u2014most consistent with free web browsing patterns.",
+  "correct": true
+}

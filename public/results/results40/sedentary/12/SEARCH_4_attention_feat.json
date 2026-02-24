@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper-left region (typical code editor area) with a secondary cluster near the lower-middle (likely console or output area), closely matching the WRITE example pattern and differing from more dispersed browsing/search or central video/game patterns.",
+  "correct": false
+}

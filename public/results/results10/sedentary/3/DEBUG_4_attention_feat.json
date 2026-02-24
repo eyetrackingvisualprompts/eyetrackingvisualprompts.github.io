@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a narrow vertical code-like area on the left side with clusters at multiple heights, closely matching the DEBUG example pattern focused on different code regions rather than a single block (INTERPRET) or wider horizontal spread (WRITE/BROWSE).",
+  "correct": true
+}

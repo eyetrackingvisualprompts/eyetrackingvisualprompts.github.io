@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed horizontal and vertical exploration with several larger saccades to different screen regions and intermittent reading-like segments, matching the combined result-scanning and content-reading behavior characteristic of SEARCH more than the steadier patterns of READ/WRITE or the denser motion of BROWSE/WATCH/PLAY.",
+  "correct": false
+}

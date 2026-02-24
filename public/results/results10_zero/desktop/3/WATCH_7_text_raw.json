@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show predominantly small, localized horizontal movements with clusters of fixations in narrow vertical bands, consistent with line-by-line text reading rather than large exploratory scans (SEARCH/BROWSE), continuous central focus with scene-driven shifts (WATCH), strong center-bottom focus or UI-driven jumps (PLAY), or frequent returns to a central typing area (WRITE).",
+  "correct": false
+}

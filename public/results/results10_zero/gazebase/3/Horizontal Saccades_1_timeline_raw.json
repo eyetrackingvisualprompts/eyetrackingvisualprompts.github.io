@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The x-position shows large, regular, step-like transitions between about +15 and \u221215 degrees once per second, matching a target moving horizontally with 30\u00b0 saccades and 1 s dwells; y-position stays near 0 with minor deviations, consistent with the Horizontal Saccades task rather than random or free-viewing behavior.",
+  "correct": true
+}

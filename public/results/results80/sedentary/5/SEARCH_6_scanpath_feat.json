@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple horizontal scan lines across different vertical levels and scattered fixations over a wide region, indicative of reading snippets and shifting between result items and other areas, closely matching the SEARCH example pattern rather than the more localized code or reading tasks or the more globally dynamic WATCH/PLAY patterns.",
+  "correct": true
+}

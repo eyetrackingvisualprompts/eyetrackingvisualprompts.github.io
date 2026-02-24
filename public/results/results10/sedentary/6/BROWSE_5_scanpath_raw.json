@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze alternates between a long horizontal band (likely code lines) and occasional large vertical saccades toward the lower screen, matching the WRITE example pattern more closely than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze moves primarily in long, smooth horizontal sequences within a narrow vertical band near the lower part of the screen, with moderate fixations on successive positions\u2014this pattern matches reading or scanning rows of content such as links or text blocks in web pages, similar to the BROWSE example, and less like the more code-focused vertical clusters or highly dynamic trajectories of other tasks.",
+  "correct": false
+}

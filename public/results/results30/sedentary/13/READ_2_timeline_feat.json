@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, mostly horizontal fixations with slowly increasing X position and a gradual downward drift in Y, resembling line-by-line reading. Saccades are regular and moderate, matching the READ example more closely than the other task patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right horizontal sweeps with gradual downward drift and occasional large vertical saccades, resembling scrolling through varied web content rather than the more regular lines of text in READ or the tighter, code-focused patterns in WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

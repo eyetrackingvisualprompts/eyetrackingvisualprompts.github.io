@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations over a compact central code area with some vertical scanning and occasional larger shifts match the focused, iterative inspection typical of debugging, and best resemble the DEBUG example pattern among the provided classes.",
+  "correct": false
+}

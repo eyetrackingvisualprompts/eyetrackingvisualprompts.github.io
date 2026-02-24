@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent gaze shifts across wide screen regions (including extremes and even off-screen coordinates), with relatively short to moderate fixations and no clear line-by-line or code-structured scanning, match dynamic stimulus tracking typical of WATCH rather than text/code-focused or search/browse layouts.",
+  "correct": false
+}

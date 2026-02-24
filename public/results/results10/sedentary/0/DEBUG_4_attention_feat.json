@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in two compact code-like regions on the left side with minimal horizontal reading or wide exploration, matching the focused, localized inspection pattern typical of interpreting a short code snippet rather than extended reading, browsing, or debugging which show broader spread.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large vertical saccades to extreme top and bottom coordinates (including off-screen-like negatives), frequent jumps between mid-page and far bottom regions, and scattered, non-line-based exploration patterns match the heterogeneous scrolling and page navigation seen in BROWSE, rather than the more line-structured patterns of READ/SEARCH or the code-centered clusters of programming tasks.",
+  "correct": true
+}

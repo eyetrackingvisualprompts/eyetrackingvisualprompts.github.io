@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band near the top of the screen (code editor area) with modest vertical shifts and intermittent saccades to slightly lower regions, resembling the WRITE example more than the other tasks, which show either stronger vertical scanning (READ/SEARCH/BROWSE) or broader dispersed motion (PLAY/WATCH/DEBUG).",
+  "correct": false
+}

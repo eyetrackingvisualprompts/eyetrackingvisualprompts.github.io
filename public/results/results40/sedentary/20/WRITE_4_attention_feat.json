@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in multiple vertically separated regions on the left side of the screen, resembling code inspection across several lines and blocks, which matches the DEBUG example pattern more closely than the more compact INTERPRET or WRITE clusters.",
+  "correct": false
+}

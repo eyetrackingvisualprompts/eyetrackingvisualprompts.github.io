@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze starts near upper content, then moves to the very top edge (around (0.52, 0.01)) with long fixations consistent with reading or entering a query in the browser/search bar, followed by vertical transitions toward mid\u2011page and repeated scanning between upper and mid regions. This top\u2011bar plus results\u2011area alternation and mixed vertical/horizontal scanning aligns best with SEARCH rather than the more line\u2011locked READ pattern or the center\u2011focused WATCH/PLAY layouts.",
+  "correct": false
+}

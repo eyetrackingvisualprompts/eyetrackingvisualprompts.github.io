@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are scattered over a relatively tall central-left region with multiple clusters at different vertical levels, resembling scrolling and scanning of varied webpage content rather than the tighter, code-focused clusters of WRITE/DEBUG/INTERPRET or the more centralized PLAY/WATCH patterns.",
+  "correct": false
+}

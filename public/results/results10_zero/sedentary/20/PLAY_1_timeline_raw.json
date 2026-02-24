@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show a slow, smooth drift in X with very small Y variability and no regular horizontal line-by-line saccades or regressions typical of reading or code tasks. The mostly continuous, stable trajectory with occasional small spikes is most consistent with following on-screen motion during video watching rather than discrete information-seeking or text-based activities.",
+  "correct": false
+}

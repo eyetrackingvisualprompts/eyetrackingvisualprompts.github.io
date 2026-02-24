@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central horizontal band with relatively small, gradual drifts in both X and Y and limited large saccades, closely matching the WRITE example pattern where attention stays near the middle of the screen while typing, rather than the wider vertical excursions seen in reading, searching, browsing, playing, or watching.",
+  "correct": false
+}

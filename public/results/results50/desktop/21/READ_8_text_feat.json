@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extremes), with clusters near upper and lower areas and irregular revisit patterns, match the dynamic, multidirectional gaze behavior seen in gameplay more than the more structured, line-based or region-focused patterns of reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

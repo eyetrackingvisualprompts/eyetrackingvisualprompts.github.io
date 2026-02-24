@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a relatively small vertical band with frequent back-and-forth saccades and a pronounced left-to-right drift over time, consistent with following or anticipating moving game elements horizontally (e.g., Pong or Mario), rather than the more structured line-by-line vertical progression typical of reading/browsing or the scattered multi-region exploration of search/debug tasks.",
+  "correct": false
+}

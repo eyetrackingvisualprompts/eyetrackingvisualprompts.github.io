@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows long, stable horizontal fixations at the top region (likely code editor area) with occasional shifts to lower areas, resembling the WRITE example where participants focus mainly on the code window with fewer vertical explorations than in DEBUG or BROWSE.",
+  "correct": true
+}

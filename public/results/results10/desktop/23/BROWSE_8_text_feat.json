@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze remains around upper-middle vertical positions (~0.6\u20130.8) with repeated medium-length fixations and moderate saccades, including occasional larger jumps (e.g., 0.47,0.70\u21920.37,0.61). This closely matches the SEARCH example\u2019s pattern of scanning around the upper page and results, with both local adjustments and intermittent larger relocations, and differs from the more linear READ pattern or the center-focused PLAY pattern.",
+  "correct": false
+}

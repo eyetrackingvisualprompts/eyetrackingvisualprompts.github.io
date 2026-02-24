@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points span a wide area of the screen with frequent, multi-directional saccades and dispersed fixations, indicating continuous visual exploration consistent with interactive game play rather than the more localized patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows exploration of multiple regions including central and lower areas, with larger vertical transitions and scattered fixations resembling the example SEARCH pattern more than the more localized READ or WRITE behaviors or the dense upper-area PLAY pattern.",
+  "correct": false
+}

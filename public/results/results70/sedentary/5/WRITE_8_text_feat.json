@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent transitions between widely separated screen regions (including off-screen coordinates), mixed with periods of local scanning and revisits, resemble heterogeneous web-page navigation and scrolling patterns characteristic of free web browsing rather than the more structured, line-based or code-panel-limited patterns in READ/WRITE/DEBUG/INTERPRET or the more central, stimulus-driven gaze of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

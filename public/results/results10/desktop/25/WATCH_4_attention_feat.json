@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in the upper-middle area with some vertical spread, resembling attention around a search bar and result snippets, matching the SEARCH example heatmap pattern more closely than the other activities.",
+  "correct": false
+}

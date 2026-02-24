@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shifts show large, irregular jumps in both horizontal (\u2248\u00b120\u00b0) and vertical (\u2248\u00b110\u00b0) directions, with fixations of ~200\u2013300 ms between them and no consistent horizontal sweep or line-structured pattern. This matches following a randomly moving target rather than horizontal saccades, reading, video viewing, fixations, or the more clustered, object-focused pattern typical of the Balura game.",
+  "correct": false
+}

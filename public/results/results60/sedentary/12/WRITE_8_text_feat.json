@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Large, repeated shifts between distant screen regions (left code, right console/output) combined with many local, revisiting fixations around similar coordinates and prolonged analysis pauses are characteristic of iterative code inspection and hypothesis testing seen in DEBUG examples, rather than the more linear or smooth patterns of reading, browsing, or watching, or the more central, constrained patterns of write/interpret tasks.",
+  "correct": false
+}

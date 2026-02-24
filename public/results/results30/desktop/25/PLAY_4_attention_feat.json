@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered around the middle of the screen with moderate vertical spread and some peripheral points, closely matching the browsing example where attention shifts among multiple elements on a webpage rather than following strict text lines (READ) or localized top areas (WRITE).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps across the entire screen (including to extreme corners and off-center regions), with many revisits between widely separated areas and heterogeneous vertical positions, match the exploratory, non-structured scanpaths typical of free web browsing rather than the more linear (READ), code-focused (WRITE/DEBUG/INTERPRET), or centrally constrained (WATCH/PLAY) patterns.",
+  "correct": false
+}

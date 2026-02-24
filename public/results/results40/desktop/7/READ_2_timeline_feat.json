@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band slightly above screen center with relatively stable Y and moderate X movements, matching the pattern of looking back and forth over a single text line and glancing to the text-entry area, which aligns best with the WRITE example plot compared to other activities.",
+  "correct": false
+}

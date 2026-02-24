@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, fast saccades between widely separated screen regions (including off-screen coordinates), extended dwell near top areas resembling address/search bar, and scattered inspection of different vertical positions match the exploratory, multi-region viewing typical of search engine use rather than the more structured or localized patterns of reading, coding, gaming, or video watching.",
+  "correct": false
+}

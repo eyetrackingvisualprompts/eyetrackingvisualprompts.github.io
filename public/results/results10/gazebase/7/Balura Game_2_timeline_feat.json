@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Balura Game",
+  "reason": "The gaze shows large, irregular jumps in both X and Y with frequent position changes and varied amplitudes, not constrained to a line (so not horizontal saccades or reading). Movements are more erratic and multidirectional than in video viewing or random saccades, consistent with actively targeting and re-fixating moving game objects as in the Balura Game.",
+  "correct": true
+}

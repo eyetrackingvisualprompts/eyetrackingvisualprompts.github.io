@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete jumps to widely separated positions in both horizontal and vertical directions, followed by short, stable clusters consistent with 1-second target holds. Movements are not constrained to a single axis (ruling out horizontal saccades) and lack the structured left-to-right line pattern of reading or the dynamic object-interaction pattern of the game, making them most consistent with random saccades to scattered target positions.",
+  "correct": true
+}

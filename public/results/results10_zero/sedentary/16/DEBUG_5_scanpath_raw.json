@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, fast, diagonal movements across wide screen areas with few clear line-by-line reading patterns or focused code/paragraph inspection, consistent with visually tracking or anticipating moving game elements rather than reading, writing, or debugging text or code.",
+  "correct": false
+}

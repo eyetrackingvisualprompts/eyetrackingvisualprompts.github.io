@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are spread over a mid-to-upper screen region with frequent shifts among multiple nearby areas, more dispersed than READ/WRITE but less clustered than SEARCH, closely resembling the exploratory yet content-focused pattern seen in the BROWSE example.",
+  "correct": false
+}

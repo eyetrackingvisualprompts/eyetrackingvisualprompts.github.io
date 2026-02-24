@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a compact region of code with minimal spatial spread and few long saccades, indicating focused inspection of a single snippet rather than extensive navigation or scanning as seen in debugging, browsing, or search tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "X shows slow, mostly monotonic rightward movement with occasional line-change drops, while Y stays in a narrow band with small noise\u2014closely matching the reading pattern in the READ example plot rather than the more varied or vertical movements of other tasks.",
+  "correct": true
+}

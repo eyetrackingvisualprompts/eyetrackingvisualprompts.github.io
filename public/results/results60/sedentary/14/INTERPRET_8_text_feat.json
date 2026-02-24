@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large saccades between widely separated screen regions (code/text area, top URL/search bar region, and bottom/side areas), revisits to similar horizontal bands, and several off-screen/edge coordinates match the scan-and-navigate behavior typical of using a search engine and results page rather than the more localized, line-structured patterns of READ/INTERPRET/WRITE or the focused regions of WATCH/PLAY/DEBUG.",
+  "correct": false
+}

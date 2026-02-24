@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered over a compact left-central area with repeated fixations and occasional long saccades to a right-side region, matching the code-editing plus brief console/navigation pattern seen in the WRITE example rather than the broader distributions of SEARCH, BROWSE, or PLAY.",
+  "correct": true
+}

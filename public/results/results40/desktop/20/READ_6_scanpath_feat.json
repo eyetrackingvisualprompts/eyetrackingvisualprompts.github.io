@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered with short horizontal movements around a single line, indicating stable fixations over a narrow region typical of reading static text rather than broader exploratory movements seen in search, browse, watch, or play.",
+  "correct": true
+}

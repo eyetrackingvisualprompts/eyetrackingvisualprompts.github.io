@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid saccades across widely separated screen regions (center, top, bottom, corners) with brief fixations, lacking the systematic line-by-line or columnar structure of reading, code work, or search results. This scattered, dynamic pattern is most consistent with visually tracking changing game elements during PLAY rather than the more structured or focal behaviors in the other tasks.",
+  "correct": false
+}

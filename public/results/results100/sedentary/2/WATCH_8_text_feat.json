@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions with many revisits between central, upper, and lower areas, plus mid-duration fixations and rapid direction changes, closely match the dynamic object-following and anticipatory gaze patterns seen in the PLAY examples, and differ from the more line-structured (READ/SEARCH), code-focused (DEBUG/WRITE/INTERPRET), or more globally sweeping (WATCH/BROWSE) behaviors.",
+  "correct": false
+}

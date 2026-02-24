@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow central region with small, slow movements and few large saccades, closely matching the stable, localized viewing pattern of examining a short code snippet as in the INTERPRET example, rather than the wider or more scan-heavy patterns of browsing, reading long text, or playing/watching.",
+  "correct": false
+}

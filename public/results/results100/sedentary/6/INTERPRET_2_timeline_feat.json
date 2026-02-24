@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-range vertical movements with intermittent refocusing across different horizontal regions, resembling the mixed scanning of results and snippets seen in the SEARCH example rather than the more structured line-by-line patterns of READ or the tighter code-focused patterns of WRITE/INTERPRET/DEBUG.",
+  "correct": false
+}

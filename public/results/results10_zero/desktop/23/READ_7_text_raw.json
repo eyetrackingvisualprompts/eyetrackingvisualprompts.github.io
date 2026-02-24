@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions remain within a relatively narrow central band with small, smooth shifts and sustained fixations, consistent with following lines of text or inspecting static content, rather than the larger, more dispersed or dynamic movements typical of PLAY, WATCH, BROWSE, or SEARCH. WRITE usually shows stronger localized focus around the text cursor area with more abrupt returns; here the pattern better matches continuous reading behavior.",
+  "correct": true
+}

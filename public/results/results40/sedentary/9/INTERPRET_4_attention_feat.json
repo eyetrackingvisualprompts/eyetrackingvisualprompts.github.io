@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper-left region (typical code editor area) with some spread vertically, resembling the WRITE heatmap more than the others, indicating focused work on editing/implementing code rather than scanning or reading long horizontal text blocks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a compact horizontal band with limited vertical range, indicating sustained attention to a small text region rather than extensive navigation or large saccades typical of browsing, searching, watching video, writing, or gaming; this pattern best matches the READ examples.",
+  "correct": false
+}

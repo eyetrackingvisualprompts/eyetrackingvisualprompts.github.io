@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-to-large exploratory movements with several vertical shifts and changes in viewing region, more scattered than READ but less systematically horizontal than PLAY or WATCH, matching the mixed scanning and reading behavior typical of web search result pages.",
+  "correct": false
+}

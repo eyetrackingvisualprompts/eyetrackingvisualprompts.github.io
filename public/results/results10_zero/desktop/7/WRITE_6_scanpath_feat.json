@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows rapid, multi-directional gaze shifts within a confined central region, with frequent back-and-forth saccades and no clear left-to-right or top-to-bottom reading pattern. This compact yet dynamic pattern is more consistent with visually tracking game elements in a play task than with the more systematic or vertically extended movements typical of reading, searching, browsing, writing, or watching video with subtitles.",
+  "correct": false
+}

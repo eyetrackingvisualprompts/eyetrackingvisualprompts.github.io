@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "Fixations are distributed in a roughly horizontal band slightly above screen center, forming multiple clusters from left to right with relatively small vertical dispersion, consistent with line-by-line reading movements rather than large horizontal sweeps, single-point fixation, random 2D jumps, or game/video-like scattered patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze shows code-like behavior: relatively constrained vertical range with moderate horizontal motion and frequent short saccades, resembling the INTERPRET example more than the stronger left-to-right sweeps of READ/BROWSE or the larger, less structured movements of PLAY/WATCH/SEARCH/DEBUG/WRITE.",
+  "correct": false
+}

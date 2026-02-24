@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is confined to a compact cluster with small local movements and no clear horizontal line structure (as in READ) or large screen-spanning shifts (as in WATCH/PLAY/WRITE). This localized, scanning-around-a-region pattern best matches the BROWSE exemplars, which show focused inspection of a small web content area.",
+  "correct": false
+}

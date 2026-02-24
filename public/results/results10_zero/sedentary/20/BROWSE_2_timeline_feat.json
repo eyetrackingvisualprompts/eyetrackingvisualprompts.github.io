@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows a large initial saccade from one screen region to another followed by a series of short, mostly horizontal fixations with small vertical adjustments, consistent with line-by-line reading behavior rather than dynamic tracking (WATCH/PLAY) or code-oriented tasks (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

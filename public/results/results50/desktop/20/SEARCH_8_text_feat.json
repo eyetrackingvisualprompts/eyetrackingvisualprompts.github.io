@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-lower screen regions and multiple widely separated vertical positions (down to ~0.04 and up to ~0.60), with frequent medium-length saccades and moderate fixations, indicating scanning a long scrollable page with occasional jumps\u2014closely matching the heterogeneous, vertical-scrolling pattern seen in the BROWSE examples rather than the more line-structured READ or more central, stable WATCH/PLAY patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band with relatively small X variation and moderate Y drift, consistent with focusing on a code editor while typing. Occasional larger saccades likely reflect brief shifts between editor regions or interface elements, matching the WRITE reference pattern more than the others.",
+  "correct": false
+}

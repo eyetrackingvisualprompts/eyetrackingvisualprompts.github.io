@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered around a single central-left code area with some spread vertically, closely matching the DEBUG example heatmap pattern more than the other activities.",
+  "correct": true
+}

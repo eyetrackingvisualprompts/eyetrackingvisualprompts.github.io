@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a small region with very long, stable fixations (often >1 s and one >3 s) and only small local saccades, indicating passive sustained viewing of dynamic content rather than scanning text or code or exploring an interface. This closely matches the WATCH pattern and differs from the more distributed, back-and-forth movements seen in reading, coding, or web/search tasks.",
+  "correct": false
+}

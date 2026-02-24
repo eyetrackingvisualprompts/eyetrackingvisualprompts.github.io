@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a narrow central band with relatively small horizontal excursions and modest, localized vertical shifts, resembling focused inspection of a compact code snippet rather than wide reading/browsing or dynamic tracking; this pattern best matches the INTERPRET examples where participants analyze a short piece of code.",
+  "correct": false
+}

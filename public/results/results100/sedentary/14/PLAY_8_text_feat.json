@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a central code-like strip (y\u2248450\u2013500) with frequent short saccades and revisits between nearby x-positions, plus periodic excursions to higher and lower regions consistent with checking other parts of code/output. The pattern of tight, local inspections, back-and-forth comparisons, and long fixations around specific lines matches the DEBUG examples more closely than the more linear INTERPRET patterns or broader BROWSE/SEARCH exploration.",
+  "correct": false
+}

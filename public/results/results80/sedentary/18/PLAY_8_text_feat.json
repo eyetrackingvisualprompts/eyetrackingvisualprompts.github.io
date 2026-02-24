@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent vertical jumps between off-screen/top regions and central screen, plus wide spatial coverage including extreme coordinates, match viewing dynamic full-screen video rather than line-by-line reading or focused code inspection/gaming control patterns.",
+  "correct": false
+}

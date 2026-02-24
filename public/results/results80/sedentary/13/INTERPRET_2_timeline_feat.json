@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze remains within a relatively narrow central region with modest horizontal movement, gradually shifting and revisiting nearby locations, and includes several medium saccades but no strong left\u2011to\u2011right line sweeps (READ/BROWSE) or wide exploratory shifts (SEARCH/PLAY). This focused yet locally exploratory pattern best matches the DEBUG examples, where participants inspect and re\u2011inspect code regions while fixing errors.",
+  "correct": false
+}

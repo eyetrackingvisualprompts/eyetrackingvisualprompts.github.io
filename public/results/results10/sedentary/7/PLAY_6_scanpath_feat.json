@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points are tightly clustered in a compact region with short, repeated fixations and minimal horizontal spread, matching the pattern of focusing on a small code snippet as in the INTERPRET examples rather than the broader, more exploratory patterns of browsing, searching, or playing.",
+  "correct": false
+}

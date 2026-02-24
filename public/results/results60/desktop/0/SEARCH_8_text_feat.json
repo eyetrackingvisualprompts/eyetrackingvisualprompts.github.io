@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent medium-to-large vertical and diagonal saccades across a broad portion of the screen, including rapid jumps between central and peripheral (near-top and near-bottom) areas and back, with relatively short fixations clustered around the midline, matches the dynamic gaze behavior seen in the PLAY examples rather than the more line-structured (READ/WRITE) or more static, region-focused patterns (WATCH/SEARCH/BROWSE).",
+  "correct": false
+}

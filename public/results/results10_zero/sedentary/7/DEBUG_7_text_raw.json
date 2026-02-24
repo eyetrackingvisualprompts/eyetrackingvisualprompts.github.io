@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows large, rapid shifts across wide screen regions (including extreme edges and off-screen coordinates), interspersed with brief local clusters rather than orderly horizontal reading or code-line scanning. This pattern is consistent with visually tracking moving game elements and frequent re-centering, typical of the PLAY condition rather than structured tasks like READ, WRITE, DEBUG, or INTERPRET.",
+  "correct": false
+}

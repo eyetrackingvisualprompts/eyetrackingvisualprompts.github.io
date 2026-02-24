@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long, repeated fixations clustered around a compact region of code-like coordinates with small horizontal/vertical shifts and occasional checks to nearby lines, closely matching the localized, back\u2011and\u2011forth inspection pattern seen in the INTERPRET examples rather than the broader navigation or scrolling patterns of SEARCH/BROWSE or the wide code-navigation of DEBUG/WRITE.",
+  "correct": false
+}

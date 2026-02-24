@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Predominantly localized fixations around code-like coordinate regions with many short revisits and medium-length fixations, plus frequent but brief jumps to a few distinct positions, matches the focused, output-prediction style of INTERPRET more than the more exploratory or line-scanning patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a few compact regions, primarily on the right side with vertical spread and little horizontal scanning, matching typical viewing of a video where gaze follows localized content rather than line-by-line reading or code navigation.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts between multiple vertical positions and across mid-screen regions with moderate-length fixations, frequent medium-amplitude saccades, and repeated returns to central areas, closely matching the heterogeneous scanpaths and vertical navigation seen in the BROWSE examples rather than the more line-structured READ patterns or the tighter high-area focus of WATCH/WRITE/SEARCH.",
+  "correct": false
+}

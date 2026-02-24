@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two strong fixation clusters at the same vertical position but opposite horizontal extremes, indicating repeated large-amplitude horizontal eye movements between two points with little vertical variation, matching the horizontal saccade tracking task.",
+  "correct": true
+}

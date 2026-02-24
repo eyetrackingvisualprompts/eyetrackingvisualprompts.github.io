@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between widely separated spatial positions with large amplitudes in both horizontal (\u2248\u00b120\u00b0) and vertical directions, with clusters of near-stationary samples (fixations) separated by abrupt jumps. This matches following a randomly moving target across the screen rather than purely horizontal tracking, static fixation, or the more constrained, patterned movements expected in reading, video viewing, or game interactions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a confined region with small horizontal movements and minimal vertical shift, consistent with focusing on a single area such as an active text-entry region in a word processor rather than scanning lines of text or exploring varied content across the screen.",
+  "correct": false
+}

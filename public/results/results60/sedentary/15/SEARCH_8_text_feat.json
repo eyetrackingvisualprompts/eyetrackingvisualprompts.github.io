@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scanpaths across a narrow vertical band, with repeated sweeps over the same text-like region and frequent returns between a left text column (~x\u2248200\u2013400) and central/right results (~x\u2248700\u20131200). This matches search-results page inspection more than continuous line-by-line reading or code-focused tasks, and lacks the dynamic object-tracking seen in PLAY or dispersed patterns of BROWSE/WATCH.",
+  "correct": true
+}

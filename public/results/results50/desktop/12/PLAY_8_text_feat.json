@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower-left to mid-left area with many medium-length fixations and small vertical/horizontal adjustments, consistent with monitoring typed text and shifting between text and nearby UI elements in a word processor, rather than the more central, line-structured patterns of READ or the broader, more exploratory scan paths of BROWSE/SEARCH or the upper-screen focus of WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows a horizontally elongated cluster with small, sequential saccades along a line, closely matching the structured left-to-right scanpath typical of reading, and differing from the more dispersed or vertically extensive patterns seen in browsing, searching, watching, playing, or writing.",
+  "correct": false
+}

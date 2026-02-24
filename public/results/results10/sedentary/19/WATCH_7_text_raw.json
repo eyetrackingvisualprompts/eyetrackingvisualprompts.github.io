@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze exhibits dense, localized horizontal clusters with small regressions and vertical shifts consistent with scanning lines of text, matching the reading pattern more than the more dispersed, object-following, or code-focused patterns of the other tasks.",
+  "correct": false
+}

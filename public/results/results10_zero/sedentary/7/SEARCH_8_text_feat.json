@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows repeated fixations within compact code-like regions, punctuated by medium saccades between nearby clusters (likely different code lines/blocks) and occasional larger jumps, consistent with scanning for and verifying multiple errors rather than continuous linear reading or passive watching.",
+  "correct": false
+}

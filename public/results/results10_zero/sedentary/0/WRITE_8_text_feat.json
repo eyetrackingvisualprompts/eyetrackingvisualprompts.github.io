@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows repeated medium-length fixations interspersed with numerous vertical and diagonal saccades jumping between multiple screen regions, including frequent returns to earlier areas, consistent with scanning code, checking different parts of a function, and verifying behavior\u2014more typical for debugging than linear reading, passive watching, or focused single-snippet interpretation.",
+  "correct": false
+}

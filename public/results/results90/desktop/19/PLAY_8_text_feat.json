@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow central band with many medium-long fixations and small horizontal saccades, resembling line-by-line inspection of a static region rather than large exploratory shifts typical of PLAY/SEARCH/BROWSE or upper-screen focus of WATCH/WRITE. The spatiotemporal pattern best matches the reading examples.",
+  "correct": false
+}

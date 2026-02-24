@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in the upper half of the screen with relatively small, smooth horizontal movements and occasional brief vertical shifts, closely matching the WRITE example pattern where attention stays near a text entry area with limited scanning compared to READ or SEARCH.",
+  "correct": false
+}

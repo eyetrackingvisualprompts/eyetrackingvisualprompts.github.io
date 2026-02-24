@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster in the upper-central region with some vertical spread, closely matching the SEARCH example heatmap where users focus on the search box and top results rather than the more mid-screen focus of BROWSE or broader spread of WATCH/PLAY.",
+  "correct": false
+}

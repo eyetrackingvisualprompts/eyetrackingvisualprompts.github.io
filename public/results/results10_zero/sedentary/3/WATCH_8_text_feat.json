@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large vertical and diagonal saccades across a broad screen area with relatively short-to-moderate fixations, lacking the systematic horizontal line-by-line structure of reading or code tasks and not tightly clustered around a few UI elements as in typing/debugging. This wide, continuous scanning is most consistent with following changing visual content in a video-watching scenario.",
+  "correct": true
+}

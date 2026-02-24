@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a central vertical band with repeated vertical sweeps between several code regions and a console/side area, resembling structured code editing behavior more than the more dispersed patterns of DEBUG or SEARCH and unlike the linear lines of READ or the wide movements in PLAY/WATCH/BROWSE.",
+  "correct": false
+}

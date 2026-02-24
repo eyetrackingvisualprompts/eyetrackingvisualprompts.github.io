@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-amplitude horizontal and vertical shifts around a constrained code area, with repeated revisits and irregular saccades similar to the DEBUG example, indicating systematic scanning and re-checking rather than smooth reading, free browsing, or continuous motion tracking.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent, moderate horizontal shifts with variable vertical movement, indicating scanning back and forth across localized regions\u2014consistent with inspecting and correcting code, matching the DEBUG pattern more than the smoother, more linear movements of READ/INTERPRET or the more erratic patterns of SEARCH/BROWSE/PLAY.",
+  "correct": false
+}

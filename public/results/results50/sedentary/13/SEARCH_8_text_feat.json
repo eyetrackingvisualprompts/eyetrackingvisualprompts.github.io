@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows long, systematic horizontal sweeps clustered around consistent y-levels (\u2248180\u2013230 px, later \u2248320\u2013420 px) with short progressive and regressive saccades along these lines, closely matching line-by-line reading behavior rather than more scattered or object-driven viewing seen in other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show large, rapid shifts across wide screen areas (including near and beyond edges) with irregular, multidirectional movements and few stable horizontal scanlines. This pattern is more consistent with visually tracking and navigating dynamic game elements than with the more structured, line-based or region-focused patterns typical of reading, coding, searching, or browsing tasks.",
+  "correct": false
+}

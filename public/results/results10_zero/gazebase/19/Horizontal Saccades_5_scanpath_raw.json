@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated long horizontal sweeps across a similar vertical position with brief vertical transitions at the ends, consistent with following a target moving back and forth horizontally. This pattern matches the Horizontal Saccades task rather than random or fixation-based activities.",
+  "correct": true
+}

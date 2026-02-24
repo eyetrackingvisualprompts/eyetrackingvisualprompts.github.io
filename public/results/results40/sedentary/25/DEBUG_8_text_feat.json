@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around mid-screen horizontal lines with many short, local saccades and revisits between closely spaced coordinates, interleaved with frequent jumps up to a narrow band in the upper part of the screen\u2014consistent with alternating between reading/editing code and looking at reference areas, as seen in the WRITE example, rather than the more linear sweeps of READ or the broader exploratory scans of BROWSE/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a compact left-side code-like area with dense, repeated fixations and short saccades, similar to the DEBUG example and unlike broader exploration in SEARCH/BROWSE or structured horizontal lines of READ.",
+  "correct": false
+}

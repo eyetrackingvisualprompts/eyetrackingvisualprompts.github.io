@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent gaze shifts across wide screen regions, including to screen corners and off-center areas, with many medium-length fixations and no clear line-by-line or code-structure scanning pattern, best match the dynamic, scene-following behavior seen in the WATCH examples rather than the more structured, text/code or search layouts of other tasks.",
+  "correct": true
+}

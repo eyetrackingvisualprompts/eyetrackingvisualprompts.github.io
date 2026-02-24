@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is distributed broadly across a central horizontal band without strict line-by-line structure, resembling tracking of dynamic visual content rather than focused code/text regions or wide exploratory browsing; this pattern matches the WATCH example most closely.",
+  "correct": false
+}

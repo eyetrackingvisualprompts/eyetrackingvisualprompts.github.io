@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large-amplitude jumps in both horizontal (\u2248\u00b110 degrees) and vertical (\u2248\u00b15\u201310 degrees) directions followed by ~1-second clusters of relatively stable points at each new location, matching a randomly moving target with discrete dwell periods rather than strictly horizontal oscillations, continuous reading scans, or prolonged central fixation.",
+  "correct": false
+}

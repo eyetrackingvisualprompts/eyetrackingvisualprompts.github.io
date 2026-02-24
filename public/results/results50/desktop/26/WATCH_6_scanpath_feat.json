@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster near the screen center with multidirectional saccades and revisits within a compact area, resembling the example SEARCH pattern more than the more linear READ/WRITE paths or the more widely dispersed BROWSE/PLAY/WATCH patterns.",
+  "correct": false
+}

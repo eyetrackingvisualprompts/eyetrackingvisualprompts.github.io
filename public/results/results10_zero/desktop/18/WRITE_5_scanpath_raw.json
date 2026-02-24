@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows frequent, irregular multi-directional saccades within a confined region rather than systematic horizontal lines (reading/writing) or broader exploratory sweeps (browsing/searching). This pattern is consistent with visually tracking dynamic game elements in a focused game area, matching the PLAY activity.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely dispersed across both horizontal and vertical axes with no strong central clustering or line-wise pattern, indicating continuous, exploratory scanning typical of following a game character rather than focused reading, searching, or browsing layouts. This best matches the PLAY activity.",
+  "correct": false
+}

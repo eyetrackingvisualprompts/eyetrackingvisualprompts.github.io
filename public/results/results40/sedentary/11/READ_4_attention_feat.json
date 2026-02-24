@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed across two main horizontal bands (likely two result sections) with scattered points between, indicating scanning and comparing multiple items vertically and horizontally, which aligns with search-engine result page exploration rather than the more linear READ pattern or the focused coding tasks.",
+  "correct": false
+}

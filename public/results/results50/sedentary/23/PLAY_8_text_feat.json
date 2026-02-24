@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Large saccades across wide vertical and horizontal extents, frequent moves between top/URL/toolbar region and mid/lower page, and scanning of multiple disparate areas resemble the exploratory, multi-region navigation seen in the SEARCH examples rather than the more line-structured patterns of READ/BROWSE or the code-focused clusters of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

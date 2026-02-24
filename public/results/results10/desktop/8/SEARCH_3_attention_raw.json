@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are vertically distributed across a narrow x-region with multiple clusters at different y-positions, indicating scrolling and scanning through search results rather than the more horizontal line-based pattern of reading or the broader spread seen in browsing and watching.",
+  "correct": true
+}

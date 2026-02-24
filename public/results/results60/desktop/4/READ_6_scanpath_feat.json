@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact central region with moderate dispersion and no strong horizontal line structure, matching the clustered, center-screen patterns seen in the BROWSE example more than the more linear (READ/WRITE) or multi-cluster (PLAY/SEARCH/WATCH) patterns.",
+  "correct": false
+}

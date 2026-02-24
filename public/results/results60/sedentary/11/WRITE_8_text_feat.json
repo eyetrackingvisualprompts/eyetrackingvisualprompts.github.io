@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-sized saccades and revisits among multiple spatially distinct regions (top bar, central code area, lower area), with many local back-and-forth inspections and prolonged fixations around mid-screen coordinates, closely resemble the complex, iterative checking pattern seen in DEBUG examples rather than the more linear or global scan patterns of READ/SEARCH/BROWSE/WATCH/PLAY.",
+  "correct": false
+}

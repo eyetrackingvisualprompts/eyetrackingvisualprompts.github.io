@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are tightly clustered in a narrow horizontal band with small progressive movements and limited vertical shifts, characteristic of reading lines of text rather than the larger, multidirectional saccades seen in browsing, searching, playing games, or watching video.",
+  "correct": false
+}

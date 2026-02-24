@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze starts far left and moves in a wide arc toward the right before concentrating around a compact area, with frequent back-and-forth saccades and no clear horizontal or vertical reading pattern. This pattern fits tracking dynamic game elements and shifting attention across the screen rather than structured text or code, indicating a PLAY activity.",
+  "correct": false
+}

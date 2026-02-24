@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide vertical extent (from near top to mid/lower screen), with long repeated fixations around a low y region (~0.10\u20130.15) and quick returns between dispersed points, resemble game HUD/scene monitoring more than structured line-by-line text or document/web layouts. The pattern lacks the regular horizontal scanpaths of READ/WRITE or the mostly central-band behavior of BROWSE/SEARCH/WATCH, aligning best with PLAY.",
+  "correct": false
+}

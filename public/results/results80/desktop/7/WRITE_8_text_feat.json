@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains confined to a narrow horizontal band with many small left\u2013right saccades and long, stable fixations around mid-screen, closely matching the patterned, line-by-line horizontal movements seen in the READ examples rather than the larger, more exploratory shifts typical of SEARCH or BROWSE, or the broader dynamic movements in PLAY/WATCH/WRITE.",
+  "correct": false
+}

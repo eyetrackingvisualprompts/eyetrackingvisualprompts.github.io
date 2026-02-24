@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze remains within a relatively small code-region-like area with medium-length fixations and several local corrective saccades (small vertical and horizontal adjustments), matching the focused, line-by-line inspection and brief shifts typical of implementing code rather than the more regular horizontal sweep of reading text or the broader scanning seen in browsing or search.",
+  "correct": false
+}

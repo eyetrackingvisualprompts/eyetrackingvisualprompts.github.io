@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large saccades between widely separated horizontal positions, excursions above and below the screen (negative y, very high y), and repeated returns to the top horizontal band resemble scanning search-results pages and browser UI rather than the orderly line-by-line progression of READ or the more localized code-focused patterns of WRITE/DEBUG/INTERPRET. The behavior matches the heterogeneous, exploratory gaze patterns shown in the SEARCH examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal X fixations with relatively stable Y positions and periodic saccades resembling line-by-line scanning, which matches the reading pattern seen in the READ example more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze points cluster in a relatively narrow horizontal band with small, systematic left-right movements and incremental vertical shifts, consistent with line-by-line reading rather than larger exploratory saccades (SEARCH/BROWSE), code navigation (INTERPRET/DEBUG/WRITE), or wide, dynamic tracking (PLAY/WATCH).",
+  "correct": false
+}

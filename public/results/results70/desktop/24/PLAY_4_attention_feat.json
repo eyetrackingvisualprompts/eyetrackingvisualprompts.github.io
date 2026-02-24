@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically across mid-screen with multiple clusters and revisits, indicating scanning different regions such as results, snippets, and page elements, which best matches the SEARCH pattern compared with the more line-like READ or more peripheral WATCH/PLAY/WRITE distributions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central region with moderate vertical spread, closely matching the browsing example heatmap where gaze is focused near the page center with limited horizontal movement, unlike the more horizontally distributed READ or top-focused WRITE patterns.",
+  "correct": false
+}

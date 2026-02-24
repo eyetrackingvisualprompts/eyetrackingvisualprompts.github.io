@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is clustered in a tight region near the upper-middle screen with very long, stable fixations and only tiny local saccades, indicating passive viewing of a relatively static area (e.g., a character or subtitle zone) rather than the systematic horizontal scans of reading, the wide exploratory shifts of search/browse/play, or the lower-screen focus with more micro-corrections typical for writing.",
+  "correct": false
+}

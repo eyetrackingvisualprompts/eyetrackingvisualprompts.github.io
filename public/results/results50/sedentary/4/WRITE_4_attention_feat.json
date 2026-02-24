@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in two main horizontal bands in the left half of the screen, similar to focusing on code and a nearby output/console area in an IDE, matching the WRITE example more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows medium-length fixations with frequent medium/long saccades jumping between dispersed regions (including large horizontal moves and vertical repositioning), indicative of navigating and visually scanning different parts of a web page rather than the more line-structured patterns of READ/WRITE/INTERPRET/DEBUG or the smoother object-following of WATCH/PLAY. This mixed exploratory pattern best matches BROWSE.",
+  "correct": false
+}

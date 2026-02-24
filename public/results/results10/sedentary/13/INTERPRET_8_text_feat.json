@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Very long, slow saccades with extended transition durations and relatively short fixations suggest scanning between code and other interface regions while problem-solving, matching the DEBUG pattern more than the steadier viewing of WATCH or the structured line-wise movements of READ/WRITE/BROWSE.",
+  "correct": false
+}

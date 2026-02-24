@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a few vertically separated clusters on the left and lower-left, resembling focused attention on code and occasional shifts to an output/console area, which matches the WRITE example pattern more than the others.",
+  "correct": false
+}

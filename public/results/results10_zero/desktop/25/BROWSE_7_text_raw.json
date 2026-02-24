@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow central-horizontal band with very small, smooth shifts and long stable fixations, indicating line-by-line viewing of static content rather than large exploratory saccades typical for PLAY, SEARCH, BROWSE, or dynamic tracking patterns for WATCH; this pattern is most consistent with sustained reading on a screen.",
+  "correct": false
+}

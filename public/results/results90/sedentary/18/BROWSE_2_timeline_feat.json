@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains within a relatively stable vertical band with continuous small saccades and modest vertical drift, similar to following scene dynamics rather than scanning text lines or UI elements; this pattern best matches the WATCH example timeline.",
+  "correct": false
+}

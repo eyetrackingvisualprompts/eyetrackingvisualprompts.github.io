@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered over a small central code-like area with frequent short saccades and relatively long, repeated fixations back and forth along a narrow horizontal band, including occasional shifts to another nearby region, matching the focused, local inspection pattern seen in the WRITE example rather than the broader scanning of SEARCH/BROWSE or the larger movements of WATCH/PLAY.",
+  "correct": false
+}

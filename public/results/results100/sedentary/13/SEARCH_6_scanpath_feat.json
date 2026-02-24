@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows dense fixations concentrated around the left-central code area with frequent, long saccades to the right side and lower regions, resembling cross-checking and verification behavior typical of debugging rather than the more uniform reading or scattered browsing/search patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze shifts are multi-directional with varying amplitudes and irregular timing, lacking the strict horizontal pattern of Horizontal Saccades or the grid-like large jumps of Random Saccades. Movements are not confined near center as in Fixations, nor aligned in horizontal lines as in Reading, and amplitudes are more moderate than the typically extreme ranges seen in the Balura Game. This heterogeneous, exploratory pattern best matches natural Video Viewing.",
+  "correct": false
+}

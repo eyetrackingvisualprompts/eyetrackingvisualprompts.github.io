@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a very concentrated fixation region in a small central-left area with minimal horizontal or vertical scanning, suggesting sustained attention on a single visual element rather than reading lines of text or exploring interfaces. This compact, static gaze pattern is most consistent with passively watching a video segment rather than interactive tasks like READ, SEARCH, PLAY, or coding-related activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a small horizontal band near the screen center with two tight neighboring clusters and little vertical spread, closely matching the focused code-line inspection pattern seen in the DEBUG example, unlike the broader scanning of READ, SEARCH, or WATCH.",
+  "correct": false
+}

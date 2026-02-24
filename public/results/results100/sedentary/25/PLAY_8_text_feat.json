@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Dense fixations and short saccades clustered around central-mid screen coordinates with frequent revisits to nearby positions and intermittent large jumps to other regions match continuous object-tracking and spatial monitoring typical for gameplay (e.g., Pong/Mario), rather than the more line-structured reading/browsing or code-oriented patterns of programming tasks.",
+  "correct": true
+}

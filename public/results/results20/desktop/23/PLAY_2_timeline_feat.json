@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a relatively narrow central band with smooth, slow drifts in both X and Y and infrequent medium-amplitude saccades, matching the stable central viewing pattern seen in the WATCH example more than the more scanning-heavy patterns of BROWSE, READ, or SEARCH and the wider, rapid shifts of PLAY or WRITE.",
+  "correct": false
+}

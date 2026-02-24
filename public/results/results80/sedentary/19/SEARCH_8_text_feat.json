@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across widely separated screen regions (including off-screen coordinates), repeated transitions between mid-page content and far bottom/right areas, and highly erratic, non-structured scanning are characteristic of unconstrained web browsing rather than the more structured, code- or text-centric patterns seen in WRITE/DEBUG/INTERPRET or the smoother object or scene following in PLAY/WATCH/READ/SEARCH.",
+  "correct": false
+}

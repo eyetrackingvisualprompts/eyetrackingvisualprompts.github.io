@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long horizontal scans across a narrow vertical band combined with repeated jumps to near-top and near-bottom UI regions and off-screen coordinates match search-engine result page exploration more than the more spatially constrained, columnar patterns seen in READ/INTERPRET/DEBUG/WRITE or the highly dynamic object-following of PLAY/WATCH; this is characteristic of SEARCH behavior in the examples.",
+  "correct": false
+}

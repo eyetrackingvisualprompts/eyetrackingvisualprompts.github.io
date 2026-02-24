@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large vertical excursions and movements across wide screen areas, including toward and above the nominal screen bounds (y\u22481.0+), with relatively fewer structured horizontal sweeps typical of reading or browsing. The pattern resembles tracking dynamic, dispersed visual content such as characters and regions in a video, matching the WATCH examples more than the other tasks.",
+  "correct": false
+}

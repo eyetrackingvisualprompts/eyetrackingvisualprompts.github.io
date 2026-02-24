@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated near the vertical center line with a compact cluster in the lower-middle screen, resembling focused attention on a central search result area, which matches the SEARCH example more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large vertical and horizontal saccades across widely separated screen regions, with relatively long fixations on scattered points rather than systematic line-by-line or code-structured scanning. This broad, dynamic viewing pattern is more consistent with following changing visual content in a video than with the more localized, structured movements expected in reading, coding (INTERPRET/DEBUG/WRITE), searching, or browsing text, and it lacks the tight object-following typical of simple games (PLAY).",
+  "correct": false
+}

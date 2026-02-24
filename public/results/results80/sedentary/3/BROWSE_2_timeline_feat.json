@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The X fixation shows repeated left-to-right sweeps with returns, while Y fixation gradually increases in a stepped manner, matching line-by-line reading behavior similar to the READ example and unlike the more scattered or bidirectional patterns of other tasks.",
+  "correct": false
+}

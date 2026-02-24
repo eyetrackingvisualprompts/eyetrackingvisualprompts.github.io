@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated near the screen center with surrounding spread and vertical motion, closely matching the dynamic, object-following pattern seen in the PLAY example heatmap rather than the more static, text- or code-focused patterns of other tasks.",
+  "correct": true
+}

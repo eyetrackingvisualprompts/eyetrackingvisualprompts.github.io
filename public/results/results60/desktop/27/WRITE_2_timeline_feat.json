@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered near screen center with modest horizontal movement and relatively low vertical range, resembling the BROWSE example\u2019s compact central pattern more than the wider horizontal scans of READ or the distinct bands of WRITE/WATCH/PLAY/SEARCH.",
+  "correct": false
+}

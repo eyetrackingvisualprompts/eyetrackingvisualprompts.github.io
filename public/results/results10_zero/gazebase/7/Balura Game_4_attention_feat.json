@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the entire screen with roughly uniform coverage and no clear horizontal band (reading) or central cluster (fixation). The distribution matches a target jumping to discrete positions over a wide 2D area, consistent with following a randomly moving bull\u2019s-eye (Random Saccades).",
+  "correct": false
+}

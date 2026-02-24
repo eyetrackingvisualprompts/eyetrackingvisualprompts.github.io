@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows frequent large-amplitude saccades spanning wide areas of the screen (including extreme corners and off-centered regions) interleaved with short local fixations, indicating continuous spatial exploration consistent with visually tracking and navigating game elements rather than line-by-line reading or focused text entry.",
+  "correct": false
+}

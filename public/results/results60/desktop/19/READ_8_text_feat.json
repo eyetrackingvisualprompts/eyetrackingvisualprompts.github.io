@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium- to large-amplitude saccades between mid and upper/lower screen regions with many short-to-medium fixations, including repeated returns to central bands and occasional far-off jumps, closely matches the heterogeneous, exploratory scanpaths seen in the BROWSE examples rather than the more structured horizontal patterns of READ/WRITE or the tighter clusters of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

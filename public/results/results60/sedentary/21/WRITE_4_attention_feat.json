@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are heavily concentrated in a compact area on the upper-left where the code snippet would appear, with few scattered looks elsewhere, closely matching the INTERPRET example heatmap and indicating focused inspection of a single code block rather than broader exploration or reading.",
+  "correct": false
+}

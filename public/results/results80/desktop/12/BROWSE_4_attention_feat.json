@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around the upper-central area with moderate spread and scattered points, resembling the SEARCH example where gaze alternates between query box, results list, and other elements, rather than the tighter focus of READ/WRITE or the broader spread of PLAY/WATCH.",
+  "correct": false
+}

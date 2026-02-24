@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen areas (including off-center/top and bottom regions), with many revisits to mid-screen zones and no clear horizontal reading pattern, resemble dynamic target tracking in games more than structured code/text viewing or web search/browsing.",
+  "correct": false
+}

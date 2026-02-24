@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze shows irregular, multidirectional movements with varying amplitudes and dwell times, without the strict horizontal pattern of Horizontal Saccades, the tight central clustering of Fixations, the systematic line-like scanpaths of Reading, or the large, discrete, one-per-second jumps of Random Saccades. This heterogeneous, naturalistic pattern best matches free viewing of a dynamic stimulus such as the movie trailer (Video Viewing).",
+  "correct": false
+}

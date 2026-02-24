@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over a compact left-side region with minimal horizontal scanning, similar to focused inspection of a short code snippet, matching the INTERPRET pattern more than the more dispersed DEBUG or text-like READ/BROWSE layouts.",
+  "correct": false
+}

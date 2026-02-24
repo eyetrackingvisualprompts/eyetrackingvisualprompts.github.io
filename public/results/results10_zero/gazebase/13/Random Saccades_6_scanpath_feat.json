@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations cluster around multiple discrete positions spread across both horizontal and vertical axes, with jumps of several degrees and roughly one-second stays, matching the random, multi-directional target steps rather than purely horizontal motion, static fixation, or reading-like left-to-right patterns.",
+  "correct": true
+}

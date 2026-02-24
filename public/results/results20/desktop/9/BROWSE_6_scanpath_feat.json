@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are distributed over a moderate central area with frequent saccades between different regions, resembling heterogeneous exploration of a webpage; this pattern is closest to the BROWSE example compared to the more localized READ/WRITE and more constrained WATCH/PLAY patterns.",
+  "correct": true
+}

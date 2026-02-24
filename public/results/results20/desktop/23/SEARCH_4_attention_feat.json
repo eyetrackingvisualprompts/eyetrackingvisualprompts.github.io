@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cover both a central upper band and a distinct lower-left cluster, indicating attention shifts between search results, query box, and other page elements\u2014pattern most consistent with web search behavior compared to the more localized READ or dispersed WATCH heatmaps.",
+  "correct": true
+}

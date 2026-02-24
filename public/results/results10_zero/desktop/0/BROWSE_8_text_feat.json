@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows sequences of short to medium horizontal saccades with relatively stable fixations clustered in a band from mid to upper screen, consistent with line-by-line reading behavior rather than large exploratory jumps (SEARCH/BROWSE), wide multi-directional tracking (PLAY/WATCH), or frequent returns to a central typing area (WRITE).",
+  "correct": false
+}

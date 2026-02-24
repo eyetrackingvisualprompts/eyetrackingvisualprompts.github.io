@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered with small, slow shifts around central-horizontal bands, indicating sustained fixations and short saccades typical of reading lines of text rather than the larger, exploratory movements seen in search, browsing, watching videos, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed over a central vertical band with multiple clusters at different heights, indicating scanning of several regions (query, results, snippets) similar to the SEARCH example rather than the more localized BROWSE or more linear READ/WRITE patterns.",
+  "correct": false
+}

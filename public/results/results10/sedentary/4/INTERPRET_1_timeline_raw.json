@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze starts with relatively stable positions, then shows several abrupt vertical and horizontal shifts followed by extended periods focused in specific regions\u2014similar to switching between code, errors, and outputs. The pattern, including larger dispersed movements than INTERPRET and more structured region revisits than WRITE or PLAY, most closely matches the DEBUG example.",
+  "correct": false
+}

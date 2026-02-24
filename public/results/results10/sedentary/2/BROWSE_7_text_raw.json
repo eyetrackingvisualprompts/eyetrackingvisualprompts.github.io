@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and short saccades clustered around several vertically separated horizontal bands in the central-left region (typical code lines), with some jumps to upper coordinates (function header/other code) resemble the WRITE example patterns of scanning and editing code, rather than the more uniform horizontal lines of READ or the broader exploratory movements of BROWSE/SEARCH.",
+  "correct": false
+}

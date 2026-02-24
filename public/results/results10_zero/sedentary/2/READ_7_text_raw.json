@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points stay within a relatively confined central band with smooth, continuous shifts and no clear line-by-line scanning or structured code-region revisits. The horizontal and vertical movements suggest following dynamic on-screen content rather than reading text, writing/debugging code, or searching/browsing discrete elements, which is most consistent with passively watching a video.",
+  "correct": false
+}

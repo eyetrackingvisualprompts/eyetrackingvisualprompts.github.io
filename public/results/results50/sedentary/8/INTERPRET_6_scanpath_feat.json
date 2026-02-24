@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a compact area on the left side, with dense, repeated fixations over the same code region and minimal horizontal spread, matching the focused inspection pattern seen in the DEBUG example more than the broader or more linear patterns of other tasks.",
+  "correct": false
+}

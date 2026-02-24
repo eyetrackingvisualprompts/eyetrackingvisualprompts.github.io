@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shows relatively narrow horizontal and vertical ranges with frequent short saccades around a central area, matching the stable, code-focused patterns of DEBUG rather than the larger sweeps of reading/browsing or dynamic movements of games and videos.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze points form a predominantly horizontal band with alternating left\u2013right movements at similar vertical levels and roughly regular spacing, matching tracking of a target moving horizontally across the screen rather than random or static viewing patterns.",
+  "correct": false
+}

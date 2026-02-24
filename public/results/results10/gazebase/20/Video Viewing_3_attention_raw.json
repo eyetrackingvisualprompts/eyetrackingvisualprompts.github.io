@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze is concentrated on one main cluster near screen center with a smaller, separate cluster above-right, indicating a few discrete target positions rather than continuous horizontal motion, dense central fixation, line-like reading pattern, or widely scattered gaming/video viewing patterns; this best matches random saccades between held target locations.",
+  "correct": false
+}

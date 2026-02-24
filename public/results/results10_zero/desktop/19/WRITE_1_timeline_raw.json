@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows continuous, gradual drift with frequent rapid spikes in both X and Y, indicating dynamic multi-directional movements typical of visually tracking game elements rather than the more structured, line-based or stationary patterns seen in reading, writing, browsing, searching, or passive watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trajectory is almost entirely confined to a narrow horizontal band near the top of the screen, with repetitive left\u2013right movements of similar horizontal extent and minimal vertical variation, matching the pattern of following a horizontally oscillating target rather than random, reading-like, or game-driven movements.",
+  "correct": false
+}

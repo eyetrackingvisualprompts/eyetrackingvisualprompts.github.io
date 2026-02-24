@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows predominantly horizontal movements spanning a wide range of x-coordinates while staying within a narrow vertical band, consistent with following a target that moves only horizontally across the screen.",
+  "correct": false
+}

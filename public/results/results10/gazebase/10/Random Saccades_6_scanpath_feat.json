@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze jumps between multiple, widely separated locations across both horizontal and vertical axes with roughly one-second dwell times, matching the irregular, screen-spanning movements characteristic of the Random Saccades task rather than the more patterned or localized behaviors of the other activities.",
+  "correct": true
+}

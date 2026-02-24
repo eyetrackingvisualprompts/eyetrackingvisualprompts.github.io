@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Balura Game",
+  "reason": "Large, irregular saccades spanning wide 2D regions (including far vertical and diagonal moves) with medium fixations, resembling the multi-directional pursuit of moving targets in the Balura game rather than the more structured 1D or line-based patterns of horizontal saccades or reading.",
+  "correct": false
+}

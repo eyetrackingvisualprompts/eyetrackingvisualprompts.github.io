@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in mid-screen horizontal bands with repeated left-to-right sweeps, regressions, and small vertical shifts\u2014matching reading of multi-line SERP snippets or results lists. There are occasional large jumps to screen edges/corners (URL bar, tabs, maybe new result sections) and off-screen points, characteristic of search/navigation behavior rather than the more structured, line-by-line code (INTERPRET/DEBUG/WRITE) or continuous central focus of WATCH/PLAY or the tighter paragraph structure of READ.",
+  "correct": false
+}

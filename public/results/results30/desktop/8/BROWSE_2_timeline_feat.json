@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal movements clustered around mid-screen with frequent small saccades and variable vertical positions, indicating scanning of diverse, scrollable content rather than the more structured line-by-line patterns of reading or the focused regions seen in writing or video watching. This pattern best matches the browsing example.",
+  "correct": true
+}

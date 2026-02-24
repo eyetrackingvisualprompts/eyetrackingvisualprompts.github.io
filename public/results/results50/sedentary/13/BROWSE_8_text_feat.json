@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a central horizontal band (code lines region) with many medium-length fixations and short saccades along the line, plus recurrent sweeps between mid and slightly lower areas (code and console/output), and occasional long pauses indicative of thinking. This spatiotemporal pattern closely matches the WRITE examples and is less jumpy than SEARCH/BROWSE, more structured than PLAY/WATCH, and shows more production-oriented scanning than INTERPRET/DEBUG/READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a relatively small central region with modest saccade lengths and no strong horizontal reading lines or vertical scanning patterns. This compact, somewhat exploratory pattern aligns best with browsing a webpage rather than structured reading, writing, or dynamic gameplay/video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, step-like horizontal sweeps with periodic vertical shifts, matching line-by-line reading patterns and closely resembling the READ example plot more than the others.",
+  "correct": false
+}

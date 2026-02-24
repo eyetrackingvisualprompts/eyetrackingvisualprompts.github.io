@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent large vertical transitions between two main vertical bands (code and console/other panes), with irregular scanning and revisits rather than systematic reading or smooth watching, which best matches the behavior seen in the DEBUG example plot.",
+  "correct": false
+}

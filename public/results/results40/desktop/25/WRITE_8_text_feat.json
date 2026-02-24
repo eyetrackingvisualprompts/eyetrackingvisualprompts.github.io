@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades spanning wide vertical and horizontal ranges, with gaze repeatedly jumping between near-top and mid/lower regions and scattered positions, match the dynamic, multi-directional gaze behavior typical of gameplay rather than the more line-structured (READ/WRITE) or semi-structured (SEARCH/BROWSE) patterns.",
+  "correct": false
+}

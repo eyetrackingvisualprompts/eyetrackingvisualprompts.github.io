@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations cluster around the upper-central region with scattered points both above and below, matching the mixed reading-and-interface pattern of search pages (results list, query box, and other UI) more closely than the tighter central cluster of BROWSE or the horizontal bands of READ/WRITE.",
+  "correct": false
+}

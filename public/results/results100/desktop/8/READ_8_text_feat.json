@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered along a narrow horizontal band with frequent short horizontal saccades and medium-length fixations, matching line-by-line text reading behavior rather than the larger vertical shifts and broader spatial exploration seen in search, browsing, video watching, or gameplay; it also lacks the upper-screen concentration typical of writing in a word processor.",
+  "correct": true
+}

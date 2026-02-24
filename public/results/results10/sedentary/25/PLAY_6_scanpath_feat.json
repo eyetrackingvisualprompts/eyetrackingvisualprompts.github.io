@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are concentrated in the central-upper region with continuous, smooth shifts along a horizontal band, resembling tracking moving objects in a game rather than line-by-line reading or code-focused tasks; the pattern matches the PLAY example most closely.",
+  "correct": true
+}

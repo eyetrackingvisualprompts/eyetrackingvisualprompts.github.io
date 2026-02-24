@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Large, smooth saccades spanning wide screen areas, followed by medium-length fixations clustered around mid\u2011screen regions and then shifting to another cluster, match the spatially global, scene-following pattern seen in the WATCH examples more than the tighter, line- or block-based patterns of code or text tasks or the object-chasing patterns of PLAY.",
+  "correct": false
+}

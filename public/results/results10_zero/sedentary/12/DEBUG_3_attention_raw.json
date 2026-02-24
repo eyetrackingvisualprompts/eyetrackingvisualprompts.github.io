@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a small left-central region with minimal vertical or horizontal spread, suggesting focused inspection of a compact block of content (like a short code snippet) rather than extended reading, browsing, search results, or dynamic stimuli such as video or games. This concentrated, stationary viewing pattern best matches interpreting a short piece of code.",
+  "correct": false
+}

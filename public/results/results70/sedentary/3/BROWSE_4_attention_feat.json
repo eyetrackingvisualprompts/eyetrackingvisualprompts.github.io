@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The heatmap shows strong fixation density on the upper-left area (likely search box and top results) with additional spread horizontally across the mid-upper region, matching the pattern of scanning search results rather than the more centralized (PLAY/WATCH), tightly left-column (WRITE/INTERPRET/DEBUG), or dense reading-block (READ) distributions.",
+  "correct": false
+}

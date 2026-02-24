@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze progresses in smooth, nearly horizontal scanpaths across a narrow vertical band (y\u2248180\u2192220\u2192270\u2192320\u2192380\u2192450\u2192490), with regular left-to-right saccades and medium-length fixations, then returns toward the left and repeats at slightly lower lines\u2014this layered, line-by-line structure matches typical reading behavior and closely resembles the provided READ example patterns, rather than the more scattered or multi-region patterns seen in tasks like SEARCH, BROWSE, or code-related activities.",
+  "correct": true
+}

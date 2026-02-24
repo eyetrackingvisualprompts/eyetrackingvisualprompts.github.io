@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band with sequential fixations from left to right across a central text-like region, matching the reading heatmap pattern more than the other tasks.",
+  "correct": false
+}

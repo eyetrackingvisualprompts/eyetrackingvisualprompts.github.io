@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze stays in a narrow horizontal band near screen center with multiple vertical jumps and returns, indicating discrete target positions that change mainly in the vertical direction rather than continuous horizontal tracking or static fixation; this pattern best matches the randomly positioned saccade target task.",
+  "correct": false
+}

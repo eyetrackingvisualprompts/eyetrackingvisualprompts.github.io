@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze alternates between a high Y region (top code area) and a mid Y region (editor/console), with large, abrupt X shifts and vertical transitions indicative of switching between code lines and other UI elements, closely matching the WRITE example pattern rather than the more chaotic DEBUG or steadier READ/BROWSE behaviors.",
+  "correct": false
+}

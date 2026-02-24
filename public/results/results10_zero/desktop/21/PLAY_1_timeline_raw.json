@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show mostly horizontal movements within a mid-screen band for both X and Y, indicating line-by-line scanning with occasional vertical shifts, which is characteristic of reading text rather than dynamic scenes or interactive tasks.",
+  "correct": false
+}

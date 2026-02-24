@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cluster in a mid-screen region with moderate dispersion and multidirectional saccades, resembling the example BROWSE pattern more than the tighter, line-like READ pattern or the more vertically upper WATCH/WRITE/PLAY distributions.",
+  "correct": false
+}

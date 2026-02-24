@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows mixed horizontal scanning and vertical shifts between regions, with periods resembling reading interleaved with broader exploratory saccades, closely matching the SEARCH example pattern rather than the more uniform reading, focused code tasks, or highly dynamic play/watch behaviors.",
+  "correct": false
+}

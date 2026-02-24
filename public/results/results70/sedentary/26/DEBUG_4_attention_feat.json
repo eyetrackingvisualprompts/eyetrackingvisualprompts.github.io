@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is tightly clustered on a single left-side code-like region with dense fixations and a few checks lower on the screen, closely matching the DEBUG example heatmap pattern more than the other activities.",
+  "correct": true
+}

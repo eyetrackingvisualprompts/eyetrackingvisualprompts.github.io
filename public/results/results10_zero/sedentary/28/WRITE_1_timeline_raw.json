@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly stable near the screen center with occasional brief vertical and horizontal spikes, consistent with following dynamic content in a video rather than systematic line-by-line scanning or frequent multi-region shifts typical of text or code tasks.",
+  "correct": false
+}

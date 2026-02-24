@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements within narrow vertical bands and medium-to-long fixations (0.3\u20131.1s), consistent with line-by-line text reading and small regressions, rather than the larger, more scattered or highly dynamic patterns typical of browsing, searching, coding, or playing games.",
+  "correct": false
+}

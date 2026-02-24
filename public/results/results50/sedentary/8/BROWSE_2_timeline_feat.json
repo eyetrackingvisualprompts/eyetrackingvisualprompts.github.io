@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent vertical shifts between high and mid Y positions with intermittent returns to similar bands, indicating alternation between reading snippets and inspecting other items or result areas, which closely matches the SEARCH pattern among the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between relatively long, stable fixations (~0.2\u20131.0 s) and sizeable shifts that cover a wide spatial range in both horizontal and vertical directions, consistent with following a target that jumps to random positions and is held for about one second, as in the Random Saccades task rather than the more constrained, patterned, or centrally focused movements of the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows sequential, predominantly horizontal sweeps with small downward shifts between lines, typical of line-by-line text reading, plus occasional vertical excursions, matching the example Reading pattern more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent back-and-forth fixations within a constrained code area, many medium-length fixations (0.3\u20130.7s) around similar coordinates, and repeated shifts between code region and other areas (top, bottom, off-screen) match the intensive, iterative inspection and re-checking pattern seen in the DEBUG examples more than the other tasks.",
+  "correct": true
+}

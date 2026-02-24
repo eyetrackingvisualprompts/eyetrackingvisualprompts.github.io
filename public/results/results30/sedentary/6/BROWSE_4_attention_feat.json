@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed across the screen with several clusters at different horizontal positions and multiple vertical levels, suggesting scanning of various webpage regions (content, sidebars, navigation) rather than the more localized patterns of reading, coding, or search-result skimming.",
+  "correct": true
+}

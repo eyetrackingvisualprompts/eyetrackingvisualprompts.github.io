@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal and vertical exploration with several large saccades and changes in vertical position, especially after the midpoint, indicative of scrolling and scanning different page regions, which best matches the varied, exploratory patterns seen in the BROWSE examples rather than the more structured patterns of reading, coding, or watching video.",
+  "correct": false
+}

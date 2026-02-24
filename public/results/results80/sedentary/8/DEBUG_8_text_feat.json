@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact code-like area (~200\u2013400 px), with frequent short saccades and medium-long fixations, repeated revisits between similar line/column regions, and occasional jumps to header/top areas\u2014patterns matching the detailed, iterative inspection typical of debugging rather than the more linear scans of INTERPRET or the broader navigation of BROWSE/SEARCH/WRITE.",
+  "correct": true
+}

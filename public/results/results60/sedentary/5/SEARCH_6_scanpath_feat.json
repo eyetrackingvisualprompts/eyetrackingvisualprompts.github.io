@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers multiple horizontal regions including a central band and a right-side cluster, with repeated returns to top and scattered transitions, resembling scanning results and detailed reading on a search-results page rather than the more uniform lines of READ or the compact code-focused patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

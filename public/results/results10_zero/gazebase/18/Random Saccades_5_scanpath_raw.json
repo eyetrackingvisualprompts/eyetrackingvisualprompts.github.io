@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular saccades distributed across much of the screen in both horizontal and vertical directions, without clear line-structured patterns (reading) or predominant horizontal oscillation (horizontal saccades), and not confined near the screen center (fixation). This broad, non-systematic coverage best matches following a randomly moving target.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the screen center with small-amplitude, irregular saccades and no strong left\u2011to\u2011right line sweeps or large exploratory jumps, matching the relatively steady, central scanning pattern seen in the BROWSE example rather than the more structured READ/WRITE or highly dynamic PLAY/SEARCH behaviors.",
+  "correct": false
+}

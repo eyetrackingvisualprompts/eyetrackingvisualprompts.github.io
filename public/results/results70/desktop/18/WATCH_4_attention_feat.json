@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the central area with multiple vertically distributed clusters, indicating scanning between results and elements on a search page, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

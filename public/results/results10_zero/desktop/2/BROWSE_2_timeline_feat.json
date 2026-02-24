@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows horizontally constrained, step-like progressions with small vertical shifts, consistent with line-by-line reading on a static text rather than large multidirectional movements typical of search, browse, play, or video watching.",
+  "correct": false
+}

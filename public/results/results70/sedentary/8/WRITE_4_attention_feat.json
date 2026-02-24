@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated in a single tight cluster on the upper-left area, with very few scattered fixations elsewhere, matching the focused code-comprehension pattern of INTERPRET rather than the broader spread seen in debugging, browsing, or writing.",
+  "correct": false
+}

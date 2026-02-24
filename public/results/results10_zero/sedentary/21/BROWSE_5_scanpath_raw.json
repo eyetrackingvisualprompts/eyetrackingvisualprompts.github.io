@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid, multi-directional saccades across a wide central area rather than structured line-by-line reading or focused code inspection. This erratic, dynamic gaze pattern is most consistent with visually tracking moving elements in a simple game (PLAY).",
+  "correct": false
+}

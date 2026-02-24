@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple horizontal bands, including a dense cluster near the upper-left (typical of search box/results header) and another band in the mid-lower region (scrolling through result snippets), resembling the SEARCH example more than the other activities.",
+  "correct": true
+}

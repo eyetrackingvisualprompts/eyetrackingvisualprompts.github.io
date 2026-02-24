@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-range saccades and shifting fixation bands in both X and Y, more scattered than READ but more structured than PLAY or WATCH. This pattern of repeated re-orienting across different vertical and horizontal regions matches the exploratory behavior during web SEARCH tasks (query box, results list, page content).",
+  "correct": true
+}

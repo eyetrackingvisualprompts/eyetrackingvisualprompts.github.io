@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow horizontal band with smooth, slow drifts and minor vertical changes, indicating continuous attention to a central screen area rather than systematic line-by-line scanning or frequent jumps between interface elements. This stable, center-focused pattern is most consistent with watching a video.",
+  "correct": false
+}

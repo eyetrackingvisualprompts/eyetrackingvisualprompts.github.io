@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long vertical saccades between top (around y\u2248150\u2013200) and lower page regions (y\u2248480\u2013780+), with extended fixations near mid-page horizontal bands, matches scanning SERP results and jumping between query, snippet titles, and lower content sections rather than the tighter, line-structured patterns of READ or the code-focused bands of programming tasks.",
+  "correct": true
+}

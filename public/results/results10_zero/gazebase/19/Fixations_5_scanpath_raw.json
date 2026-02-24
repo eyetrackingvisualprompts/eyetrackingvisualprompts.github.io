@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The gaze positions remain in a narrow vertical cluster near the screen center with minimal horizontal dispersion, indicating largely stable central fixation rather than systematic horizontal saccades, random large-amplitude target following, or reading-like scanning.",
+  "correct": true
+}

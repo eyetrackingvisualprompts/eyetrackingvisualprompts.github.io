@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cluster around the screen center with moderate dispersion and multidirectional saccades, resembling the exploratory yet somewhat focused pattern of browsing web pages, and differing from the more linear READ pattern or the wider, more dynamic PLAY and WATCH patterns.",
+  "correct": false
+}

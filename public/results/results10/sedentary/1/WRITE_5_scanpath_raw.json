@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The scanpath shows a cluster of fixations on a compact code-like area with occasional long vertical excursions, closely resembling the INTERPRET example pattern more than the denser, more localized DEBUG code-inspection behavior or the strictly horizontal READ pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region slightly left of center with minimal horizontal spread, suggesting focused attention on a localized area such as the current typing position in a word processor, rather than the broader horizontal scanning typical of reading/browsing/search or the wider movements of watching/playing.",
+  "correct": false
+}

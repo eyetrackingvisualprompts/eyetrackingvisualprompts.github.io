@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a relatively low vertical band with modest horizontal progression and small saccades, matching the stable, narrow-range patterns of the WRITE example more closely than the broader vertical movements seen in READ or SEARCH.",
+  "correct": false
+}

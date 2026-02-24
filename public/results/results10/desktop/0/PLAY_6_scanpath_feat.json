@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is constrained to a narrow horizontal band near the lower screen with small regressions and repositioning, resembling looking between current text and nearby areas while typing, which matches the WRITE pattern more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow vertical band with mostly horizontal fixations and very few saccades, indicating focus on a single central region (code editor) with minimal exploration, which best matches the WRITE pattern among the examples.",
+  "correct": false
+}

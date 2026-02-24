@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a mostly horizontal band across the mid-height of the screen with progressive clusters from left to right, matching the reading-like scanpath seen in the READ example more than the other activities.",
+  "correct": false
+}

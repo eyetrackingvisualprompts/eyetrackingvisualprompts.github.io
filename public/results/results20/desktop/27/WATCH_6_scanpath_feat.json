@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a relatively compact central region with moderate vertical spread and irregular back-and-forth transitions, resembling the example BROWSE pattern more than the more linear READ pattern or the more dispersed SEARCH/PLAY patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows mostly horizontal scanning with intermittent, sustained vertical shifts and a few sharp vertical saccades, resembling focused inspection of code segments and occasional jumps between code and output/mental workspace, which best matches the INTERPRET examples rather than the more continuous motion of WATCH/PLAY or the more erratic patterns in SEARCH/BROWSE.",
+  "correct": false
+}

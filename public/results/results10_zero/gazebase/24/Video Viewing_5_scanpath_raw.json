@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows discrete gaze shifts among multiple non-collinear positions with both horizontal and vertical components, without a strict left-right pattern or line-based reading structure, consistent with following a target that jumps to random screen locations and is held briefly at each (random saccades task).",
+  "correct": false
+}

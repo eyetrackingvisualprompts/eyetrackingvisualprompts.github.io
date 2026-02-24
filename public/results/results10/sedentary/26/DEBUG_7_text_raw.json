@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze clusters around a compact region with frequent short saccades between closely spaced coordinates, especially in mid\u2013screen code-like areas, and shows repeated returns to similar locations, matching the focused, line-by-line inspection typical of interpreting a short code snippet rather than the broader navigation or vertical scanning seen in reading, browsing, or searching.",
+  "correct": false
+}

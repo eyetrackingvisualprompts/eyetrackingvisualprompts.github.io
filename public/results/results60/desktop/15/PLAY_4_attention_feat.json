@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze heatmap shows dispersed fixations across much of the screen, including central, lower, and upper regions, indicating frequent wide-range visual exploration consistent with tracking game elements during PLAY rather than the more localized or linear patterns seen in reading, writing, searching, or browsing.",
+  "correct": true
+}

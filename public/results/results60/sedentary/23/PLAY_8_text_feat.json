@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades across widely separated screen regions (including extremes and corners), with dispersed fixations not constrained to text lines or code columns, match the free-viewing, scene-driven gaze behavior observed in the WATCH examples more than the more structured, line- or element-based patterns of reading, coding, or web search.",
+  "correct": false
+}

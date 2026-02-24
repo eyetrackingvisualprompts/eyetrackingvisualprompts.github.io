@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations stay mostly in a narrow vertical band with occasional brief loops of saccades, resembling focused attention around a code editor\u2019s current line and nearby area, which best matches the WRITE example rather than the more exploratory patterns of SEARCH/BROWSE or the larger shifts of PLAY/WATCH.",
+  "correct": false
+}

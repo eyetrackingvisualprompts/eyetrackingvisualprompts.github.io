@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates regularly between two horizontal extremes with near-constant plateaus and rapid transitions, while Y position stays around zero with minor noise and a single blink-like spike. This pattern matches structured \u00b115\u00b0 horizontal target movements of the Horizontal Saccades task.",
+  "correct": true
+}

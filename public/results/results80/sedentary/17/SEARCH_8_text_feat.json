@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, orderly horizontal sweeps with small regressions along a narrow vertical band, consistent with scanning lines of text. There are repeated left\u2013right passes at similar y-levels and moderate saccades between nearby horizontal positions, matching the reading examples more than the more scattered, multi-region patterns of search, browse, or coding tasks, and without the large, rapid object-tracking shifts seen in PLAY or WATCH.",
+  "correct": false
+}

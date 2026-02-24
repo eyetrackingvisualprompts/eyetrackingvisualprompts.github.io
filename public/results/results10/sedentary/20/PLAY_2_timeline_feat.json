@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze shows highly stable fixations with slowly drifting X positions and nearly constant Y position, indicating focused attention on a small, central code area typical of typing or coding rather than extensive vertical or exploratory scanning seen in reading, browsing, search, or play.",
+  "correct": false
+}

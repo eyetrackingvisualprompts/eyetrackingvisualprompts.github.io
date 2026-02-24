@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations over the left-side code area with intermittent long saccades to a right-side region (likely console/output or documentation panel) match the debugging pattern, where participants alternate between inspecting code and checking runtime behavior, similar to the DEBUG example scanpath.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a narrow horizontal band with limited vertical spread, indicating line-by-line viewing of a small text region rather than wide exploratory or dynamic tracking behavior, which is most consistent with a reading task.",
+  "correct": false
+}

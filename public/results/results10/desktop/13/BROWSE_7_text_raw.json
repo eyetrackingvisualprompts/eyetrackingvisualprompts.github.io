@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-amplitude vertical shifts between mid and upper/lower screen regions, interleaved with shorter fixations around a central band (~0.5\u20130.6), matching scroll-and-skim patterns seen in the BROWSE example more than the more stable lines of READ or the more top-focused, query\u2013result jumps of SEARCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show relatively smooth, slow drifts with few large saccades or systematic horizontal scanning, consistent with passively following visual content in a video rather than line-by-line reading, code inspection, or active search/browsing/playing patterns.",
+  "correct": false
+}

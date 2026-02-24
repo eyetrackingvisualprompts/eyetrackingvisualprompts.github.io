@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-level horizontal and vertical movements with frequent shifts between nearby positions, indicating scanning of diverse on-screen elements. This pattern best matches browsing behavior rather than the more structured, line-based movements of reading/writing or the more constrained focus of watching/playing/searching in this dataset.",
+  "correct": false
+}

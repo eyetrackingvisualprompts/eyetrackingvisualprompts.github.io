@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated in a small region in the lower-central area of the screen with little horizontal spread, unlike reading/browsing/searching which cluster higher and more horizontally. This localized focus near the lower part of the display is most consistent with tracking a game character or HUD area during PLAY.",
+  "correct": false
+}

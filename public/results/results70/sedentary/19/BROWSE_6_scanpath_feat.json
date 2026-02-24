@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows rapid, widespread gaze shifts covering most of the screen with irregular patterns and few structured horizontal lines, closely matching the dispersed and dynamic gaze behavior seen in the PLAY example rather than the more localized or systematic patterns of the other tasks.",
+  "correct": false
+}

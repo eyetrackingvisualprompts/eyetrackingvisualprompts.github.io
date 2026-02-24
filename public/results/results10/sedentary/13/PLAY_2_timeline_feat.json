@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts especially in X fixation with corresponding saccades, covering wide screen regions and changing rapidly over time, which aligns with dynamic tracking and exploratory movements typical of game playing rather than the more structured or line-based patterns seen in reading, coding, or web browsing tasks.",
+  "correct": true
+}

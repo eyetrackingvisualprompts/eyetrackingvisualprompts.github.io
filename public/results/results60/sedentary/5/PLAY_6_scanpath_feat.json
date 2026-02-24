@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread horizontally across the upper-middle of the screen with several distinct clusters and frequent medium-length saccades between regions, resembling scanning across multiple search results and page elements rather than focused code (WRITE/DEBUG/INTERPRET) or structured line-by-line reading (READ).",
+  "correct": false
+}

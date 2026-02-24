@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a narrow vertical strip on the left side of the screen with slight vertical spread, consistent with focusing on a text column and moving line by line, typical of reading behavior rather than wider exploratory or interactive patterns seen in browsing, searching, coding, or gameplay.",
+  "correct": false
+}

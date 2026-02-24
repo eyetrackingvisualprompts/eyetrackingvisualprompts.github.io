@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a narrow, horizontally elongated band at a consistent vertical position, indicating left-to-right scanning along a single text line, which matches the reading pattern shown in the READ example more than the other activities.",
+  "correct": true
+}

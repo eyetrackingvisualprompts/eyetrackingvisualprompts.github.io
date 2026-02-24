@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, gradual shifts in both X and Y with frequent vertical saccades that stay within a central band, resembling continuous tracking of dynamic on-screen content rather than line-by-line reading or scanning of static text/code. This pattern best matches the WATCH examples.",
+  "correct": false
+}

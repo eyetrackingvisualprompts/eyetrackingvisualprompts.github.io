@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a tight, centrally located cluster with minimal horizontal or vertical spread, indicating sustained fixation near the screen center with limited scanning. This pattern aligns best with passively watching a video, where gaze often remains near the center, rather than the broader, multi-directional saccades typical of reading, browsing, searching, writing, or gaming.",
+  "correct": false
+}

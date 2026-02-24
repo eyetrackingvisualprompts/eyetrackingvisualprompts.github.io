@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Dense reading-like cluster on the left similar to scrolling through search results, with frequent vertical movements and occasional large saccades to the right side resembling glances at result details or related panes, matching the SEARCH example more than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a small code/IDE region on the left with occasional long saccades to the right/top, matching the localized, code-focused pattern of INTERPRET rather than the broader spread seen in DEBUG or WRITE.",
+  "correct": true
+}

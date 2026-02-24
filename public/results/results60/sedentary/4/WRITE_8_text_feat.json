@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Frequent alternation between a central code-like region (~x=200\u2013700, y\u2248250\u2013420) and brief checks to a right-side area (~x=1600, y\u2248460) suggests looking at code and occasionally at a separate reference/output area. The gaze within the central region shows dense, local regressions and revisits rather than line-by-line progression, matching interpretive reasoning over a code snippet more than writing/debugging or free browsing.",
+  "correct": false
+}

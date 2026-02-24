@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a horizontal band across the mid-screen, indicating systematic left-to-right scanning typical of reading text, closely matching the READ example heatmap pattern.",
+  "correct": false
+}

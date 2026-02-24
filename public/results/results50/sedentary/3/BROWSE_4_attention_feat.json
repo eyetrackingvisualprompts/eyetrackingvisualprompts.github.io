@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are widely distributed across the entire screen, including top and bottom regions, without a strong central or left-anchored cluster characteristic of text or code. This broad spatial coverage and continuous spread match the WATCH examples of viewing dynamic full-screen video content.",
+  "correct": false
+}

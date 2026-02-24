@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide horizontal transitions between distant regions on the screen and scattered fixations suggest navigating between different webpage areas (e.g., top navigation, mid content, lower/side sections), characteristic of general web browsing rather than focused code reading, debugging, or gameplay tracking.",
+  "correct": false
+}

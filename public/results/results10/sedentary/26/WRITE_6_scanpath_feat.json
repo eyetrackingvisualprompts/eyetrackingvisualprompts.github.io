@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly clustered on a mid-left region but includes several long saccades to far-right and lower-left areas, indicating switching between distinct page regions or different webpages, which matches the varied and wide-ranging scanpath typical of free web browsing rather than the more localized patterns of coding, reading, or watching.",
+  "correct": false
+}

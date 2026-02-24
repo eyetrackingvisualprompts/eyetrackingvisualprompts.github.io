@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the central area with noticeable vertical spread and multiple dense regions, matching the SEARCH example more closely than the more compact central cluster of BROWSE or the horizontal patterns of READ/WRITE.",
+  "correct": false
+}

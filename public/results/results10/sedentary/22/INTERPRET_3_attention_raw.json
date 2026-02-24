@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a compact region near the upper-left code area with a secondary cluster lower-left, resembling focused inspection of a short code snippet with occasional reference to output or auxiliary information, matching the INTERPRET pattern more than the broader scanning seen in BROWSE/SEARCH or the central focus in PLAY/WATCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show repeated long-amplitude jumps (several degrees) to new, fairly stable positions where gaze then remains with only small jitter for about a second before another large jump, occurring in both horizontal and vertical directions. This pattern of discrete, multi-directional relocations with intervening stable fixations matches a gaze following a randomly moving target rather than strictly horizontal motion, static fixation, or the more fine-structured, line-based patterns of reading or game/video viewing.",
+  "correct": false
+}

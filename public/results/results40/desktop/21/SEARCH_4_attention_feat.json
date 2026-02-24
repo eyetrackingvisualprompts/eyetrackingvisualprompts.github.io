@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across a broad central region of the screen with multiple hotspots and vertical coverage typical of scrolling and scanning varied web-page content, closely resembling the BROWSE example pattern more than the more localized or linear patterns of the other activities.",
+  "correct": false
+}

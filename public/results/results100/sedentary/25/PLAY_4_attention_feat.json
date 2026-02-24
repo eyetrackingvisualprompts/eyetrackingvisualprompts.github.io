@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The heatmap shows a strong fixation cluster around the screen center with surrounding spread in multiple directions, matching the dynamic, object-following pattern seen in the PLAY examples rather than the more vertical banding of reading/searching or the left-biased coding tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze traces show continuous, smooth shifts over a wide 2D area with many small local fixations and drifts, lacking the large, discrete, 1-second-step jumps characteristic of Random or Horizontal Saccades, and without the highly structured left\u2013right line patterns of Reading or the abrupt target-to-target jumps of Balura Game. This spatiotemporal pattern best matches natural free-viewing behavior as in Video Viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered around the midline of the screen with a compact cluster and moderate vertical spread, resembling attention on a central content area such as news or blog pages, which matches the provided BROWSE heatmap pattern more than the others.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered over a single narrow region in the left-central area, similar to the code-editor focus seen in WRITE examples, with little horizontal exploration or right-side interaction that would indicate reading, browsing, or searching.",
+  "correct": true
+}

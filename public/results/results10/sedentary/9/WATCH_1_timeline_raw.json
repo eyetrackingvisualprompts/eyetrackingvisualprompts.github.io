@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several large, discrete vertical shifts in both X and Y corresponding to scanning result regions, with intervening relatively stable horizontal bands, closely matching the example SEARCH pattern rather than the more continuous or noisy movements of other tasks.",
+  "correct": false
+}

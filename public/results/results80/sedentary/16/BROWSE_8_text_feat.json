@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The target data shows long, orderly horizontal scanpaths with small vertical shifts within a constrained central band, plus repeated left-to-right sweeps and regressions at similar y-levels\u2014patterns characteristic of line-by-line text reading, matching the READ examples more than the other activities.",
+  "correct": false
+}

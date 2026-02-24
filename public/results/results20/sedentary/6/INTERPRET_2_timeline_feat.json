@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered with minimal horizontal scanning or vertical scrolling, showing small, precise fixations typical of focusing on a short, static code snippet to reason about its output rather than extensive reading, browsing, or debugging movements.",
+  "correct": true
+}

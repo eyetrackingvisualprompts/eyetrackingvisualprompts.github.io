@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered around a central region with frequent returns and some excursions to the right side, similar to referencing code and then looking at the output or other UI elements, matching the WRITE example pattern more than the others.",
+  "correct": false
+}

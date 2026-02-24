@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic horizontal scanning with gradual X progression and moderate Y shifts, resembling line-by-line reading behavior and matching the READ example more closely than the other task patterns.",
+  "correct": false
+}

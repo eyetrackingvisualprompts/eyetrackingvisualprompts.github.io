@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows a very dense cluster of fixations on a compact left-central code area with minimal spread elsewhere, closely matching the DEBUG example pattern and differing from the more distributed SEARCH/BROWSE and dual-block READ layouts.",
+  "correct": true
+}

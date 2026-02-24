@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a moderately sized central region with short saccades and frequent back-and-forth movements, resembling the scattered yet localized pattern of browsing examples rather than the more linear READ pattern or the highly localized WRITE pattern.",
+  "correct": false
+}

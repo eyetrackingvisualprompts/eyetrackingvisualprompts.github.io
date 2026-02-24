@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze pattern is concentrated in a central region with frequent multidirectional saccades and occasional large excursions, resembling dynamic object tracking in a game and matching the PLAY example more than the more static, text- or code-focused tasks.",
+  "correct": false
+}

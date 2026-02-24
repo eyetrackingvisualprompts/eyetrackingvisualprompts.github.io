@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth horizontal shifts with modest vertical movement and few large jumps, resembling continuous following of screen content over time, which matches the WATCH pattern more than the more scattered or line-structured patterns of tasks like READ, SEARCH, or BROWSE.",
+  "correct": false
+}

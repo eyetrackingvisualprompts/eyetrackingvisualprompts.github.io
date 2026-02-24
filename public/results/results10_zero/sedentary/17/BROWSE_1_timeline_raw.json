@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "X position shows smooth, continuous drift with periodic large resets while Y position changes slowly and monotonically, indicating steady tracking of moving content across the screen rather than discrete line-by-line reading or code navigation\u2014this pattern best matches watching dynamic video stimuli.",
+  "correct": false
+}

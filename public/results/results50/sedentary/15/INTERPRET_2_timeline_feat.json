@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Early window shows scattered fixations and large saccades over wide x\u2013y ranges, then shifts to more focused reading-like patterns on results, matching the mixed exploration-plus-reading behavior typical of SEARCH rather than the more stable code (WRITE/DEBUG/INTERPRET) or continuous motion tracking (PLAY/WATCH).",
+  "correct": false
+}

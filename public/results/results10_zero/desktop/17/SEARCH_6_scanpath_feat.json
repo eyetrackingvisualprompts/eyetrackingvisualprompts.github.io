@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between several spatially separated regions (left, center, right) with medium-length saccades and short fixations, consistent with scanning different webpage areas or shifting between elements while browsing, rather than the more linear patterns of reading/writing or the continuous wider movements typical for watching videos or playing games.",
+  "correct": false
+}

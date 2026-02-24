@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively compact code-like area with limited vertical spread and no clear horizontal line-by-line reading as in READ; pattern and spatial extent closely resemble the INTERPRET example scanpath over a single code snippet.",
+  "correct": false
+}

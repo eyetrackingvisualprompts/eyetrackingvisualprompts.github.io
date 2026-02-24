@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points are clustered tightly around a single central region with only small local movements and no systematic horizontal sweeps or large random jumps, indicating sustained fixation on a static target rather than reading, tracking moving targets, or exploring dynamic scenes.",
+  "correct": false
+}

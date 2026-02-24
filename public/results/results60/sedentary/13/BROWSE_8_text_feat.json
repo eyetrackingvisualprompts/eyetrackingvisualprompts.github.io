@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Extensive gaze in mid/lower screen with many medium-length fixations and rapid saccades between clustered regions, plus frequent large jumps to off-screen/high-coordinate areas, matches dynamic visual tracking and dispersed attention typical of game play rather than the more line-structured or code-focused patterns of reading, writing, debugging, or interpreting.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze stays within a mid-upper vertical band with many short, small-amplitude horizontal/vertical adjustments and occasional modest shifts\u2014closely resembling the scan-and-refocus patterns over search results and SERP elements seen in the SEARCH example, rather than the more line-structured READ data or the more dispersed, larger shifts of BROWSE/PLAY/WATCH/WRITE.",
+  "correct": false
+}

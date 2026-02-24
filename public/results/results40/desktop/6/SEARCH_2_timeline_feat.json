@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay within a mid-screen band with relatively small horizontal and vertical shifts and moderate saccades, resembling the stable, less structured scanning seen in the BROWSE example more than the more regular reading pattern or the larger excursions of play, search, watch, or write tasks.",
+  "correct": false
+}

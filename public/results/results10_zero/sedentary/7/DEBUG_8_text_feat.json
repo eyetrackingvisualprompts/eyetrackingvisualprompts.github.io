@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows large, frequent vertical and diagonal saccades between widely separated regions (including near-top and near-bottom of the screen, plus off-screen coordinates) with varied fixation durations, consistent with scanning different parts of a scrolling web page or multiple page elements, rather than the more line-structured, localized patterns typical of reading code, debugging, or continuous video watching.",
+  "correct": false
+}

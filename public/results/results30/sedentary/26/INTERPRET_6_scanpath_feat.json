@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a compact region near the left side of the screen with short local saccades and little vertical or horizontal spread, closely matching the DEBUG example pattern over a code area rather than the more linear (READ/WRITE) or widely scattered (PLAY/WATCH/BROWSE/SEARCH) behaviors.",
+  "correct": false
+}

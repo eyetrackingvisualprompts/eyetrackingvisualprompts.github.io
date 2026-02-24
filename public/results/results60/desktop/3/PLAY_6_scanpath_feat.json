@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread over a mid-screen region with varied vertical and horizontal movements and no strict linear pattern, resembling the exploratory, multi-area scanning seen in the BROWSE example more than the structured lines of READ or WRITE or the clustered patterns of other tasks.",
+  "correct": false
+}

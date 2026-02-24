@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations around central code-like area with frequent short saccades between nearby positions, interspersed with periodic excursions to upper regions (likely function header) and back, matches the structured, locally revisited scanpaths seen in WRITE examples more than the broader, more horizontal READ/SEARCH or highly dynamic PLAY/WATCH/BROWSE patterns.",
+  "correct": false
+}

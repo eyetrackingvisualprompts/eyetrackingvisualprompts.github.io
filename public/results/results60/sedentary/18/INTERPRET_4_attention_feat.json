@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in two vertically aligned regions on the left side of the screen, matching the pattern for viewing a short code snippet as in the INTERPRET example, rather than the more vertically extended DEBUG or the more spread-out patterns of other tasks.",
+  "correct": true
+}

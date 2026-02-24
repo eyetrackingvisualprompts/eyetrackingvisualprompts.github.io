@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are long and densely clustered along a narrow horizontal band in the upper part of the screen with small horizontal saccades and occasional short vertical shifts, matching the stable line-by-line scanning pattern seen in the READ examples rather than the larger vertical excursions and dispersed gaze typical of SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

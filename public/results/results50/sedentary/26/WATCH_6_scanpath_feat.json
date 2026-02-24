@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are widely distributed across the screen with frequent long saccades in multiple directions and no clear line-by-line reading or localized code-area focus, closely matching the dispersed, dynamic scanpath pattern typical of watching a video rather than reading, coding, or browsing structured text.",
+  "correct": true
+}

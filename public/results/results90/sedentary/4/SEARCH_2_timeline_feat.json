@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated medium-length horizontal scans with frequent larger vertical saccades and shifts between distinct regions, indicating transitions across different webpage areas, which best matches the variable, exploratory pattern typical of BROWSE rather than the more structured or localized patterns of the other tasks.",
+  "correct": false
+}

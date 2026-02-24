@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, mostly monotonic progression in the X direction with very small, nearly constant Y position and sparse saccades\u2014matching a left-to-right line-by-line reading pattern similar to the READ example plot.",
+  "correct": true
+}

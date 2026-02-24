@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze follows long, mostly horizontal paths within a narrow vertical band, with sequential fixations and short saccades resembling line-by-line reading rather than wide exploratory jumps (BROWSE/SEARCH) or large dynamic tracking (PLAY/WATCH). Coordinates and pattern match the example READ behavior on a mid-lower text line region.",
+  "correct": true
+}

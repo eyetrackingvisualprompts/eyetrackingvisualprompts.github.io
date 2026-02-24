@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The data shows large, rapid saccadic excursions in both X and Y around the middle of the window, indicating frequent broad visual shifts typical of tracking dynamic game elements, unlike the more constrained horizontal patterns of reading, writing, or browsing/searching text-heavy pages.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Large, smooth saccades across broad screen regions with relatively sparse, longer fixations and extended periods of minimal movement (including a ~10s near-static interval) resemble passive viewing of dynamic visual content rather than structured line-by-line reading, code-focused tasks, or tightly object-locked game tracking, matching the WATCH pattern best.",
+  "correct": false
+}

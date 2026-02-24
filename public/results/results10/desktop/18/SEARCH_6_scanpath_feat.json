@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are clustered in a relatively small central-lower region with short saccades and repeated fixations around one area, resembling tracking a game character or focal game region more than the horizontal sweeps of reading or the broader exploratory patterns of browsing/searching/watching/writing.",
+  "correct": false
+}

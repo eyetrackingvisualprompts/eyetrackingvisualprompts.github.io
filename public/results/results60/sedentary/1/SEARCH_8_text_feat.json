@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude saccades between widely separated regions (top bar, mid-page, bottom/near off-screen), repeated returns to top-like coordinates, and irregular, non-line-by-line scanning patterns resemble scrolling and scanning behavior seen in BROWSE examples more than the structured horizontal scanning of READ or the code-centric patterns of programming tasks.",
+  "correct": false
+}

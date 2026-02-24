@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a dense horizontal band in the middle of the screen with left\u2013right spread and limited vertical movement, closely matching the reading example heatmap and typical line-by-line reading behavior, unlike the more scattered or localized patterns of other tasks.",
+  "correct": false
+}

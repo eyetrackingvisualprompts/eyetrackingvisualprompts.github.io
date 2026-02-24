@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows a relatively stable horizontal band in X with moderate saccades and a consistently high Y fixation region, similar to the WRITE example where attention is focused on a central text area with occasional movements to other screen regions, and unlike the more scattered (BROWSE/SEARCH) or strongly dynamic (PLAY/WATCH/READ) patterns.",
+  "correct": false
+}

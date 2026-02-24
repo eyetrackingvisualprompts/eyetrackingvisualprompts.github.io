@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trace shows large, abrupt jumps to widely separated positions in both horizontal and vertical directions (often >10\u00b0), followed by relatively stable clusters consistent with 1-second fixations at discrete target locations. The movements are not restricted to horizontal motion only and lack the orderly, line-based pattern of reading or the highly constrained central clustering of pure fixation, matching the description of following a randomly moving bull\u2019s-eye target.",
+  "correct": true
+}

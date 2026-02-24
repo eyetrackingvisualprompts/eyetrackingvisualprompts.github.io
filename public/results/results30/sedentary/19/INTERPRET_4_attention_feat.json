@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a compact region on the upper-left where code would typically appear, with some additional fixations lower left suggesting occasional reference to other lines, closely matching the INTERPRET example pattern and differing from the more horizontally spread READ/DEBUG/BROWSE/SEARCH heatmaps.",
+  "correct": true
+}

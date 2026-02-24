@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze remains within a relatively narrow horizontal band around the code area with frequent short saccades between nearby positions, plus recurrent horizontal sweeps and returns, indicative of inspecting and editing nearby lines or tokens rather than linear passage reading or wide exploratory browsing/search. The pattern matches the WRITE examples\u2019 dense, local code-focused movements more than the other activities.",
+  "correct": false
+}

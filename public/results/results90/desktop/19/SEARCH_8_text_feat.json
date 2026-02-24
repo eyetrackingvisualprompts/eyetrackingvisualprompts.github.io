@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a relatively narrow mid-horizontal band with many medium-to-long fixations and short intra-line saccades, plus occasional small vertical shifts, matching the stable, line-based scan patterns seen in the READ examples rather than the more dispersed, exploratory movements of SEARCH/BROWSE or the wide, dynamic shifts of PLAY/WATCH/WRITE.",
+  "correct": false
+}

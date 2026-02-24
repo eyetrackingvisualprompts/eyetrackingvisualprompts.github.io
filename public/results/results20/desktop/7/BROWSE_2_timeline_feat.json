@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude vertical shifts with intermittent larger exploratory saccades and varying fixation bands, matching the more scattered, multi-region viewing behavior of web searching rather than the more line-structured (READ/WRITE) or more stable/central (WATCH/PLAY/BROWSE) patterns.",
+  "correct": false
+}

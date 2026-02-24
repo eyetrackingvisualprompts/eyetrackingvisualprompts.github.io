@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium horizontal movement with occasional larger shifts and notable vertical transitions between upper and lower regions, resembling switching between result list and other page elements. This pattern aligns best with the SEARCH example, which has mixed scanning and periodic large relocations, rather than the more uniform reading/browsing or highly dynamic play patterns.",
+  "correct": false
+}

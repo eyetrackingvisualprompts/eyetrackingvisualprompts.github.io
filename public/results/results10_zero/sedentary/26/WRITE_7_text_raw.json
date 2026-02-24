@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal, line-like clusters with small regressions and short vertical transitions between nearby bands, consistent with reading text rather than dynamic object following or large exploratory movements typical of games, browsing, or video watching.",
+  "correct": false
+}

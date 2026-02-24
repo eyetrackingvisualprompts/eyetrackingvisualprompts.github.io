@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a narrow horizontal band near the upper-middle of the screen with small horizontal shifts and minimal vertical movement, consistent with passively following a relatively static central region of a video rather than line-by-line reading or code-related tasks, which would show more structured vertical progression.",
+  "correct": false
+}

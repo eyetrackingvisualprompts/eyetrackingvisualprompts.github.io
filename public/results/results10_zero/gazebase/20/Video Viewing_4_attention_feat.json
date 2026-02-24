@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows two distinct, spatially separated fixation clusters rather than a single central cluster (fixation task) or many dispersed clusters (reading, video, game). This pattern matches a target that moves intermittently to new static positions across the screen, consistent with the Random Saccades paradigm where gaze alternates between discrete target locations.",
+  "correct": false
+}

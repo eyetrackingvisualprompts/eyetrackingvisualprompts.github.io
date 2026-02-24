@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large saccades across wide screen regions, frequent shifts between upper and lower areas, and extended fixations without clear line-by-line or code-structure scanning patterns are characteristic of free viewing of dynamic visual content rather than text/code reading, debugging, or game object tracking, matching the WATCH activity.",
+  "correct": true
+}

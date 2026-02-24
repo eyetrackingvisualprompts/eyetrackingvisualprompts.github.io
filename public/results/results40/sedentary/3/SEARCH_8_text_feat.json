@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a narrow horizontal band around mid\u2011screen with smooth, progressive horizontal saccades and medium fixations, repeatedly scanning left\u2011to\u2011right across similar y-levels\u2014matching scroll-based webpage reading as in the BROWSE examples. There are occasional large jumps to screen corners/outside the screen (likely to UI elements or scroll changes), which are common in browsing but not in continuous text READ or code-centric tasks like WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

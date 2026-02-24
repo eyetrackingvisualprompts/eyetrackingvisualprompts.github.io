@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze remains confined to a compact code-like region with frequent short saccades and medium-long fixations, including many back-and-forth revisits between a few nearby coordinates, indicative of mentally simulating and checking code behavior rather than scanning long text (READ/SEARCH) or exploring widely (BROWSE/DEBUG/WRITE). The localized, iterative inspection pattern best matches the INTERPRET task examples.",
+  "correct": true
+}

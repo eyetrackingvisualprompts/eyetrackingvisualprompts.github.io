@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay mainly around screen center with moderate horizontal and vertical shifts and frequent short saccades, resembling the example BROWSE pattern more than the more structured line-by-line READ/WRITE traces or the larger excursions seen in PLAY and SEARCH.",
+  "correct": true
+}

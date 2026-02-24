@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations stay near screen center with small, irregular saccades and modest drift in both axes, closely matching the browsing example pattern and lacking the strong horizontal sweeps of reading or the large directional shifts seen in play/search/watch/write tasks.",
+  "correct": false
+}

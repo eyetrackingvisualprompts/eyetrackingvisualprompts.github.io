@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, multi-directional saccades across wide vertical and horizontal extents (including off-normal screen bounds like y>1.0), with relatively long fixations on dispersed regions rather than structured line-by-line or localized patterns. This broad, scene-level scanning with frequent shifts between distant areas matches the WATCH examples more closely than the more text- or task-focused patterns in READ, WRITE, SEARCH, BROWSE, or the more localized/game-centered PLAY patterns.",
+  "correct": true
+}

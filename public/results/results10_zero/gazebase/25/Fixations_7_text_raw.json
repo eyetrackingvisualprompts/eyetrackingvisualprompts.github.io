@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain within a very small spatial range around the center after an initial transition, with only low-amplitude, high-frequency jitter indicative of microsaccades and noise, matching sustained fixation on a static central target rather than large, periodic or random target-driven saccades or exploratory scanning.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows predominantly left-to-right horizontal movements within a narrow vertical band near the top of the screen, with small regressions and line shifts, closely matching the structured pattern of reading text rather than the broader, more dispersed movements seen in other tasks.",
+  "correct": true
+}

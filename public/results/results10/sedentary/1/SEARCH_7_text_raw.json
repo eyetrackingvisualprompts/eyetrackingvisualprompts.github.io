@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster heavily around a horizontal band near y\u2248250\u2013300 with dense, small horizontal saccades and revisits, matching scanning of search results/snippets and SERP elements; there are brief excursions to other areas (top, lower screen) consistent with moving between results and other page regions, which aligns best with SEARCH compared to the other coding-, reading-, or media-oriented tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows rapid, multi-directional gaze shifts across a relatively large central area of the screen, with frequent long saccades and fewer stable horizontal reading-like patterns. This dynamic, object-tracking pattern is more consistent with interactive game play than with more stationary, line-based tasks like reading, writing, or code interpretation/debugging.",
+  "correct": false
+}

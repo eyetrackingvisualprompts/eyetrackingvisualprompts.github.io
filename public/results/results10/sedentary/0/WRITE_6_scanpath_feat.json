@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is confined to the upper-left region with multiple vertical clusters and moderate horizontal shifts, matching the pattern of scanning a search results page (query box, top results, snippets) similar to the SEARCH example and less focused than the tighter INTERPRET/DEBUG clusters.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show rapid, wide-ranging movements across both horizontal and vertical axes with frequent position changes and relatively few clear line-by-line reading patterns. This pattern is more consistent with visually tracking dynamic objects and navigating a game scene than with the more structured, localized patterns expected in reading, coding, or web search tasks, hence PLAY is most likely.",
+  "correct": false
+}

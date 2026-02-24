@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively smooth, gradual horizontal progression with small vertical shifts and short fixations, consistent with line-by-line text reading rather than rapid, large, or highly exploratory movements typical of browsing, search, or gameplay.",
+  "correct": false
+}

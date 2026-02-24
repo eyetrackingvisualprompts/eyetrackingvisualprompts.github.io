@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze path shows horizontal, line-like fixations at two distinct vertical regions with a rapid vertical transition between them, matching the structured line-by-line pattern typical of reading text rather than the more scattered or dynamic patterns of browsing, search, or gameplay.",
+  "correct": true
+}

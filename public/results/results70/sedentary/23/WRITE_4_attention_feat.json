@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a horizontal band in the upper-left/center region, similar to looking at search bar and top result snippets, with some downward movements but limited coverage of the full text area; this pattern best matches the SEARCH example heatmap compared to other tasks.",
+  "correct": false
+}

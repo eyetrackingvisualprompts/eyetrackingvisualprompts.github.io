@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across a central-upper band with multiple distinct hotspots, indicating scanning of several interface elements (search box, results list, etc.), which matches the more distributed pattern of SEARCH rather than the tighter cluster of BROWSE or the linear pattern of READ.",
+  "correct": false
+}

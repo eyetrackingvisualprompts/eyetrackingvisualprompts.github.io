@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly stable around a central horizontal band with slow horizontal drifts and occasional large horizontal jumps while vertical position remains near-constant\u2014typical of passively following content in a video rather than line-by-line reading or code-focused tasks.",
+  "correct": false
+}

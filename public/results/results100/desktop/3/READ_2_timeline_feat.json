@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows relatively constrained, upper-screen horizontal fixations with limited vertical range and fewer large saccades, closely matching the structured, stable pattern of the WRITE example rather than the more exploratory or scanning patterns seen in SEARCH, BROWSE, PLAY, WATCH, or the line-by-line progression of READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows frequent large saccades across widely separated screen regions (including off-screen coordinates), repeated revisits to top and bottom areas, and irregular, non-linear scanning rather than line-by-line reading or focused code inspection, which is most consistent with free-form web browsing behavior.",
+  "correct": false
+}

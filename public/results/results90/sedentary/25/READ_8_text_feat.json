@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves in smooth, predominantly horizontal sweeps across a narrow vertical band, with regular left-to-right passes and small regressions at multiple y-levels (around 160\u2013350 and then progressively lower). This pattern is characteristic of line-by-line reading rather than game following, free browsing, or coding/debugging, which show more irregular, multidirectional jumps and larger spatial transitions.",
+  "correct": true
+}

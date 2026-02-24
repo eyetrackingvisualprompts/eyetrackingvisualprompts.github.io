@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze stays mostly in a narrow central band with frequent short horizontal shifts and occasional vertical jumps, resembling code editing in an IDE. This pattern most closely matches the WRITE example, which shows similar constrained movements with intermittent larger saccades, unlike the more extensive vertical scanning seen in BROWSE/SEARCH or the smoother progression of READ.",
+  "correct": true
+}

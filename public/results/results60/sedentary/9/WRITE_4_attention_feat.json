@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered on a single left-side region where code would appear, with minimal vertical spread and only a few peripheral fixations, matching the focused pattern seen in the INTERPRET example rather than the more vertically extended DEBUG pattern or the broader distributions of other tasks.",
+  "correct": false
+}

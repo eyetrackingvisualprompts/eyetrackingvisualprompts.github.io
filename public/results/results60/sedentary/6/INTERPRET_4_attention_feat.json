@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact region on the left side where the code editor typically is, with little spread elsewhere, matching the focused, localized viewing pattern seen in the INTERPRET example rather than the more extended vertical span of DEBUG or WRITE.",
+  "correct": true
+}

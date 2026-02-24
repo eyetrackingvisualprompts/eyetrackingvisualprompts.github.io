@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a small region on the left side of the screen with minimal dispersion elsewhere, matching the focused, stationary viewing of a single code snippet seen in the INTERPRET examples rather than the broader spread typical of SEARCH, BROWSE, or READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze coordinates show frequent large-amplitude saccades across wide screen regions (including edges and corners), rapid back-and-forth movements, and tracking-like patterns consistent with following moving objects and reacting in real time, which aligns best with gameplay behavior compared to more localized, line-structured, or code-focused tasks.",
+  "correct": false
+}

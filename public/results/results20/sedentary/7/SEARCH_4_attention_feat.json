@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper half of the screen with a pronounced cluster on the left and additional clusters toward the center and right, matching the pattern of scanning search results and snippets rather than focused code (WRITE/DEBUG/INTERPRET) or continuous reading (READ).",
+  "correct": true
+}

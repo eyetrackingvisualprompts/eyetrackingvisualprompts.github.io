@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are distributed over a relatively broad central region with frequent shifts among multiple nearby areas, similar to scanning result lists and snippets. The pattern resembles the SEARCH example more than the tighter clusters of READ/WRITE or the more dynamic spread of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

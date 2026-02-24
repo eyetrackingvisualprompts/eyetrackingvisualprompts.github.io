@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the upper-left region (likely search box and top results) with repeated vertical movements and long saccades to the right and bottom areas, matching the pattern of scanning search results and occasional navigation, similar to the SEARCH example.",
+  "correct": false
+}

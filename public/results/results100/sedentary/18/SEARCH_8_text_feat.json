@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps between distant screen regions (including off-screen/extreme coordinates), repeated transitions between top/bottom and center, and scattered, non-linear scan paths resemble exploratory web navigation rather than structured reading, code-focused tasks, or smooth video following typical of the other classes.",
+  "correct": false
+}

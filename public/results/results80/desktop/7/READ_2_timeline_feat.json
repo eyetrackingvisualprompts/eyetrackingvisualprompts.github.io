@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the screen center with relatively small-amplitude, frequent saccades in both X and Y\u2014similar to the BROWSE example pattern and less structured than READ, with less vertical spread than SEARCH or PLAY/WATCH.",
+  "correct": false
+}

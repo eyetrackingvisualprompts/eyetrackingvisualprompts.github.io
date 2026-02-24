@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a narrow vertical code-like region on the left and a horizontal band in the center-right, indicating frequent switching between two distinct screen areas typical of searching (results list plus opened page), unlike the more localized patterns of WRITE/INTERPRET/DEBUG or full-screen dispersion of WATCH/BROWSE/PLAY.",
+  "correct": true
+}

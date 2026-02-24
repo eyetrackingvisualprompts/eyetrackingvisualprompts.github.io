@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows repeated, smooth downward sweeps from an upper-left region toward the lower part of the screen with relatively few horizontal regressions, consistent with following motion in a video rather than line-by-line reading or code inspection. This pattern aligns best with the WATCH condition, where gaze typically tracks moving visual content in a localized area.",
+  "correct": false
+}

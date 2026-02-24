@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a compact left-side code area with frequent vertical shifts and occasional long saccades to lower/side regions (likely console, error messages, or other IDE panels), matching the debugging example more than the other tasks.",
+  "correct": false
+}

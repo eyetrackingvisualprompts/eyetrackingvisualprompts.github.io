@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Long, stable fixations with small horizontal shifts clustered around mid-upper screen coordinates match the line-by-line reading pattern seen in the READ examples and lack the larger exploratory jumps typical of BROWSE/SEARCH or the dynamic, broader movements of PLAY/WATCH/WRITE.",
+  "correct": false
+}

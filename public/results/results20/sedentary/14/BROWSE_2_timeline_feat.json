@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations and saccades show moderate-to-high vertical and horizontal movement across a constrained code area, with repeated returns to similar regions and occasional larger shifts, matching the complex, iterative scanning typical of debugging more than the more uniform patterns of reading, writing, or watching video.",
+  "correct": false
+}

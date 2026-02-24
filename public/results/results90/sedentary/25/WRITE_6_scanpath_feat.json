@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over the code region on the left with repeated revisits and occasional long saccades to the right side (likely console/output area), matching the debugging pattern rather than the more confined INTERPRET scanpath or broader exploration seen in other tasks.",
+  "correct": false
+}

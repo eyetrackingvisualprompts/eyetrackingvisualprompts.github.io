@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is organized into dense horizontal bands with systematic vertical progression, characteristic of line-by-line reading, and closely matches the READ example scanpath pattern more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze coordinates show predominantly small, clustered horizontal movements with occasional short regressions and limited large cross-screen saccades, consistent with line-by-line text reading rather than dynamic tracking (PLAY/WATCH) or broad exploratory scanning (SEARCH/BROWSE/CODING TASKS).",
+  "correct": false
+}

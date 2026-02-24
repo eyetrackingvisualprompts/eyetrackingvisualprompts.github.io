@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixations are confined to the lower part of the screen with a gradual rightward drift in X, matching the pattern of typing in a text editor where gaze stays near a single text line and moves slowly horizontally, unlike the broader vertical ranges seen in reading or browsing and the wider movements in play or watch tasks.",
+  "correct": false
+}

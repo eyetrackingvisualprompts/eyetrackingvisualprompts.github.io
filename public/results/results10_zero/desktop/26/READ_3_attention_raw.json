@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, tight fixation cluster slightly below the screen center with minimal spatial dispersion, indicating the gaze stayed almost static in one region. This pattern matches passively watching centrally located video content more than the broader, multi-location scanning expected in reading, searching, browsing, writing, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively narrow central region with modest horizontal movement and slowly increasing vertical position, plus a brief exploratory saccade burst around the middle\u2014matching focused code-inspection behavior seen in INTERPRET rather than the wider, more varied patterns of SEARCH, BROWSE, or WATCH.",
+  "correct": false
+}

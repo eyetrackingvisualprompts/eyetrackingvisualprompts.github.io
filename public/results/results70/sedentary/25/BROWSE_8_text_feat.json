@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between top-left URL/search bar region, central results area, and lower page areas, including off-screen excursions, match the multi-region scanning and revisiting pattern seen in the SEARCH examples more than the more localized patterns of READ, WRITE, or WATCH.",
+  "correct": false
+}

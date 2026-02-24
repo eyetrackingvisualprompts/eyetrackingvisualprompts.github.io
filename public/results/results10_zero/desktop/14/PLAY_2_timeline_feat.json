@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows small, incremental horizontal shifts with relatively stable vertical position and short saccades, consistent with line-by-line reading of text rather than large exploratory or dynamic movements typical of search, browsing, video watching, writing, or gameplay.",
+  "correct": false
+}

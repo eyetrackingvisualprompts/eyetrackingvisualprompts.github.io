@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows multiple medium-length saccades across a wide horizontal range, including very long jumps from far right to left and back, with short fixations scattered over varied vertical positions. This irregular, non-line-by-line pattern is more consistent with free-form web browsing through heterogeneous content than with the more structured, localized patterns seen in reading, coding (WRITE/DEBUG/INTERPRET), search-result inspection, or game following (PLAY), and it lacks the large, smooth object-tracking movements typical of WATCH or PLAY.",
+  "correct": false
+}

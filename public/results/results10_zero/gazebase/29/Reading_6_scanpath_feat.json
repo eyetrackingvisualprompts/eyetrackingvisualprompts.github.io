@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps between widely separated positions (top of screen and near bottom center) with relatively long fixations at each location and no systematic left-right pattern or dense line-by-line structure, which matches a randomly moving target rather than horizontal tracking, reading, or continuous video viewing.",
+  "correct": false
+}

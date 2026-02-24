@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between spatially dispersed fixation points with large, multidirectional saccades (both horizontal and vertical, often several degrees apart), and fixation durations around several hundred milliseconds to about a second, matching the pattern of following a randomly moving target rather than linear text (reading), purely horizontal motion, static fixation, or naturalistic viewing/game patterns.",
+  "correct": false
+}

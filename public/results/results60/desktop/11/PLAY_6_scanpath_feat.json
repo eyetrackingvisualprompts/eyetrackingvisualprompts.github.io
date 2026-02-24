@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, horizontally elongated band with limited vertical movement, matching a typical reading pattern over a text line region rather than the more dispersed or multi-cluster patterns of browsing, search, or gameplay.",
+  "correct": false
+}

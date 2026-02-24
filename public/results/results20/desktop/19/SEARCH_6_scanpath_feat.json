@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are moderately clustered with multidirectional saccades in a central screen region, indicating scanning of mixed content (text, images, interface elements). The pattern is more dispersed than READ/WRITE but less wide-ranging and dynamic than PLAY or WATCH, matching the example BROWSE scanpath most closely.",
+  "correct": false
+}

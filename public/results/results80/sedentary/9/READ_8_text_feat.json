@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, left-to-right horizontal sweeps at several close vertical bands (y\u2248150\u2013180, 230\u2013280, 270\u2013330, 350\u2013430), with short saccades and moderate fixations, characteristic of line-by-line text reading. Early vertical transitions move between such bands like paragraph changes, and there is no strong object-following, code-edit, or broad exploratory pattern typical of PLAY, DEBUG/WRITE, SEARCH, or BROWSE. The lower-screen longer fixations later fit end-of-page or off-text behavior often seen in reading tasks.",
+  "correct": true
+}

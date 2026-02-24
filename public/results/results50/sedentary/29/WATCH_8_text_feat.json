@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades over wide screen areas (including corners and off-center regions), mixed with shorter inspections, resemble unconstrained navigation across multiple page regions rather than line-based reading, code-focused tasks, or continuous central viewing patterns typical of video watching or gameplay; this spatially scattered, exploratory pattern best matches free web browsing.",
+  "correct": false
+}

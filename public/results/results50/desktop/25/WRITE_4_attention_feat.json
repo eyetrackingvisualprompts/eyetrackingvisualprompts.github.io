@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered and spread horizontally across mid-screen with some vertical exploration, closely matching the browsing pattern heatmap rather than the tighter central cluster of SEARCH or the structured horizontal bands of READ.",
+  "correct": false
+}

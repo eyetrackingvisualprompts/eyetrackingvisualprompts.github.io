@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixations are confined to the upper-left region with a slow, monotonic rightward drift and very small vertical changes, matching a user focused on a narrow area like a text box while typing, similar to the WRITE pattern and unlike the broader scans in READ/SEARCH/BROWSE or the large shifts in WATCH/PLAY.",
+  "correct": true
+}

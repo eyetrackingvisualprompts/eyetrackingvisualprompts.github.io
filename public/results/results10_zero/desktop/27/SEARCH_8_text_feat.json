@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze behavior shows long, stable fixations (up to 3.2s) with relatively small, systematic saccades clustered in a narrow central region, consistent with reading text in a column rather than the broader, more dispersed scanning typical of search, browse, or play, or the larger shifts and motion-tracking patterns expected in watch or write tasks.",
+  "correct": false
+}

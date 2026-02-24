@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are tightly clustered around the central region with some surrounding spread, matching the pattern of tracking a game\u2019s main object in PLAY rather than the wider scanning of text or code seen in other tasks.",
+  "correct": true
+}

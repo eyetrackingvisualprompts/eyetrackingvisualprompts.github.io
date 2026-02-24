@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense horizontal clusters within a narrow central region, moving line-by-line downward with occasional vertical returns, matching a reading pattern more than browsing or coding-related tasks.",
+  "correct": true
+}

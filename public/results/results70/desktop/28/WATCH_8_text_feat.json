@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Long, stable horizontal fixations with small vertical transitions and occasional page-level jumps closely match the structured line-by-line scanning seen in the READ examples, rather than the more scattered, exploratory or highly dynamic patterns of BROWSE, SEARCH, PLAY, or WATCH.",
+  "correct": false
+}

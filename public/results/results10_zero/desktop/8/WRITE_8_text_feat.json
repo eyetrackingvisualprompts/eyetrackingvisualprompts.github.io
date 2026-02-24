@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a relatively small central region with short to medium saccades and several medium\u2013long fixations (up to ~2.2 s), indicating sustained attention to a static, text-like area rather than large exploratory movements typical of SEARCH, BROWSE, or PLAY, or the broader, dynamic scanning patterns expected during WATCH; this localized, stable pattern is most consistent with reading on-screen text.",
+  "correct": false
+}

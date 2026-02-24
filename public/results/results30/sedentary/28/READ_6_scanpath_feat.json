@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered in a narrow horizontal band with orderly left-to-right progressions across several lines, matching typical line-by-line reading behavior and resembling the READ example pattern more than other task types.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze coordinates show many small, irregular shifts and short fixations without the systematic horizontal sweeps of reading, the large regular jumps of horizontal or random saccades, or the tight central clustering of pure fixation. The pattern is consistent with natural, unconstrained viewing of dynamic visual content, matching the Video Viewing condition.",
+  "correct": false
+}

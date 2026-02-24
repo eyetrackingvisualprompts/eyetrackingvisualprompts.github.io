@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are distributed widely along the horizontal axis near the top of the display with very little vertical spread, indicating gaze repeatedly moving left\u2013right at roughly constant vertical position, consistent with following a horizontally moving target rather than central fixation, random 2D movements, reading lines, video viewing, or the game task.",
+  "correct": false
+}

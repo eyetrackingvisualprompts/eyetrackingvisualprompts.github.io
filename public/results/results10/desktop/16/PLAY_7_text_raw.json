@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly mid-screen fixations with occasional vertical shifts and several large, abrupt saccades to different screen regions (including far lower and upper areas) suggest scanning SERP results and switching between snippets/areas, matching the SEARCH pattern more than the more stable line-wise READ or the highly erratic PLAY trajectories.",
+  "correct": false
+}

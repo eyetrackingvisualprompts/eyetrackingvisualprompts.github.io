@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow central area with relatively small horizontal span, moderate vertical variation, and few large exploratory saccades\u2014closely matching the INTERPRET template and indicating focused inspection of a compact code snippet rather than extensive navigation, reading long text, or dynamic tracking.",
+  "correct": false
+}

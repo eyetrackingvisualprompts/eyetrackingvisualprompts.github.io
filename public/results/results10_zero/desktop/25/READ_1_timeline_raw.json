@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y gaze positions remain near the screen center with small, smooth fluctuations and no large directional shifts, indicating relatively stable fixation with minor corrections typical of reading centrally located text rather than the larger, multidirectional saccades expected in play, search, browse, watch, or write tasks.",
+  "correct": true
+}

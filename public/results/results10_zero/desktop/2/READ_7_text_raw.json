@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show relatively small, smooth horizontal movements with stable vertical positions forming clusters, indicative of successive fixations along text lines and occasional larger jumps (likely line changes), matching reading behavior more than the more dispersed, multi-directional patterns expected in search, browsing, or gameplay, or the larger central motion typical of video watching.",
+  "correct": true
+}

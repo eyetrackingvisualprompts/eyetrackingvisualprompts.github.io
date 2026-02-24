@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal scanning with several medium-range saccades and variable vertical shifts, resembling mixed reading and navigation patterns typical of free web browsing rather than the more linear progression of READ or the focused, code-centric patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

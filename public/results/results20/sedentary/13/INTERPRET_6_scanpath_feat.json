@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers a moderately wide vertical region with multiple dispersed fixations and revisits, including some longer downward saccades, resembling scanning of a scrollable webpage rather than the tighter code-focused clusters of WRITE/DEBUG/INTERPRET or the more uniform horizontal lines of READ, and it lacks the full-screen spread and rapid shifts typical of WATCH or PLAY.",
+  "correct": false
+}

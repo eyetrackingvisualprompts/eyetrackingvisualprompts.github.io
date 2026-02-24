@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a compact horizontal band with medium-length fixations and short horizontal saccades, consistent with scanning text lines. Movements are mostly around mid-to-upper screen without large multi-directional shifts typical of PLAY, BROWSE, SEARCH, or WATCH, and lack the very localized near-static pattern of WRITE, matching the READ examples best.",
+  "correct": false
+}

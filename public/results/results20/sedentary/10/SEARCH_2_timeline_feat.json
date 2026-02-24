@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, smooth shifts in both X and Y with broad vertical scanning and varied fixation positions across the whole screen, matching the dynamic, screen-wide viewing pattern typical of watching a video rather than the more line-structured or code-focused patterns of reading, writing, debugging, or interpreting.",
+  "correct": false
+}

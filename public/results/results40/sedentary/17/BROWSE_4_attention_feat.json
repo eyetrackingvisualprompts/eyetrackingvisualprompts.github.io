@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed across a horizontal band with multiple clusters and some vertical shifts, indicating scanning between different regions such as search results and snippets, which aligns best with the SEARCH pattern compared to the more focused READ or central PLAY distributions.",
+  "correct": false
+}

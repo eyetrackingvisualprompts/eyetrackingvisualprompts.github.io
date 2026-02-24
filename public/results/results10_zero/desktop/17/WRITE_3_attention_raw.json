@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly concentrated in a small region slightly above screen center with minimal horizontal scanning, indicating prolonged fixation on a stable central area typical of watching video content rather than the broader scanning or line-by-line movements seen in reading, writing, browsing, searching, or playing games.",
+  "correct": false
+}

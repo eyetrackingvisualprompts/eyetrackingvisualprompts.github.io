@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent vertical and horizontal saccades spanning much of the upper screen, with no orderly reading or localized fixation pattern. This wide, dynamic exploration best matches the gaze behavior typical of playing an online game rather than reading, writing, browsing, searching, or passively watching a video.",
+  "correct": false
+}

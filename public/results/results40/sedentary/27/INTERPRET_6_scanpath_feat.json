@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a compact central-left region with short saccades and many local revisits, indicating focused inspection of a small code snippet rather than horizontal text scanning or wide exploratory movements. This pattern best matches the INTERPRET examples showing concentrated analysis of code in a limited area.",
+  "correct": true
+}

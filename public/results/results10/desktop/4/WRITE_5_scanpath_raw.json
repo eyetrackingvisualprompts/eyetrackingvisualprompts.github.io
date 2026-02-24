@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze is confined to a small, horizontally oriented region with short, systematic shifts resembling line-by-line text reading; it is more focused and less exploratory than browse/search and lacks the wide movements seen in play or watch.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a mid\u2011lower central band with many short regressions and revisits around stable code-like regions, plus frequent shifts between slightly different horizontal lines, consistent with editing/monitoring text in an IDE rather than continuous reading or wide exploratory browsing. The pattern closely matches WRITE examples, which show similar dense, local movements around a working area with occasional excursions and returns.",
+  "correct": false
+}

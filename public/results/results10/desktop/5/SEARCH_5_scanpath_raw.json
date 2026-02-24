@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, rapid movements across a broad vertical and horizontal range with frequent direction changes, resembling the dynamic, multi-directional scanpath seen in the PLAY example more than the more localized and structured patterns of reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

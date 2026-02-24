@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a tight cluster around the screen center with minimal horizontal scanning or line-like progression. This suggests sustained fixation on a small central region, consistent with watching a video (e.g., focusing on central characters) rather than the systematic horizontal/vertical scanning typical of reading, writing, searching, browsing, or playing games.",
+  "correct": false
+}

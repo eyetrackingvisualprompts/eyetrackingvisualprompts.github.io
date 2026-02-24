@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated vertical movements between two main Y-bands (results list and other regions) with moderate horizontal scanning across each band, matching the pattern of scanning search results and occasionally shifting to other page elements, characteristic of the SEARCH task rather than the more uniform line-by-line patterns of READ or WRITE/INTERPRET/DEBUG.",
+  "correct": true
+}

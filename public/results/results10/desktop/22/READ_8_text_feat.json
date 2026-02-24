@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a narrow horizontal band with medium-length fixations and short, mostly horizontal saccades, matching the stable, line-by-line pattern seen in the READ example rather than the larger exploratory shifts characteristic of BROWSE, SEARCH, or PLAY.",
+  "correct": true
+}

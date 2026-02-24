@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Dense fixations and short saccades clustered around central-mid screen coordinates with frequent rapid shifts to upper/lower and corner regions, plus repeated revisits to similar mid-field locations, match the dynamic object-following and scanning patterns seen in the PLAY examples rather than the more line-structured (READ/WRITE/INTERPRET/DEBUG) or vertically scrolling (SEARCH/BROWSE) behaviors or the longer, more static fixations of WATCH.",
+  "correct": true
+}

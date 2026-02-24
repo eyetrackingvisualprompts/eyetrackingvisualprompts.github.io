@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze remains in a confined central area with many brief vertical spikes in both X and Y, matching the focused but intermittently shifting attention typical of scanning and correcting code as seen in the DEBUG example pattern.",
+  "correct": false
+}

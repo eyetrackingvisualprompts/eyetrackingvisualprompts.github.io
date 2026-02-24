@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact upper-central region with many short, local saccades and long, repeated fixations at nearly identical positions, consistent with monitoring a small text line and cursor area while typing, and unlike the larger exploratory jumps seen in SEARCH/BROWSE or the broader motion patterns in WATCH/PLAY.",
+  "correct": false
+}

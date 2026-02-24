@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points jump between several discrete, widely separated locations across both horizontal and vertical dimensions, with roughly one-second dwells implied by clustered fixations, matching the pattern of following a randomly positioned moving target rather than the strictly horizontal motion, static fixation, or more continuous patterns of reading, video viewing, or game interaction.",
+  "correct": false
+}

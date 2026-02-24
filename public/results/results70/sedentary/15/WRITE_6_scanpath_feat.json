@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over the left-central coding area with frequent vertical and local shifts, plus occasional long saccades to the right (likely console/output) and to lower regions, matching the pattern of inspecting and correcting code while checking results, characteristic of debugging rather than reading, writing, or browsing.",
+  "correct": false
+}

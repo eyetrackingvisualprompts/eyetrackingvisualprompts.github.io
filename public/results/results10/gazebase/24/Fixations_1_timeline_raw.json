@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains tightly clustered near the center with only brief, isolated downward spikes (likely blinks or artifacts), matching the mostly stable central fixation pattern rather than systematic saccades or exploratory viewing.",
+  "correct": true
+}

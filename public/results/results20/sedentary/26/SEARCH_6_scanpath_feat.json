@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze covers a wide horizontal range with large saccades between distant regions and relatively few tight clusters, resembling dynamic scene following as in the WATCH example rather than localized text/code or structured browsing patterns.",
+  "correct": false
+}

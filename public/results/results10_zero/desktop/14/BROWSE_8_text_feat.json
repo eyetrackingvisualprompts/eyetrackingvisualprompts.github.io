@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within central screen regions with moderate-length fixations (\u22480.17\u20130.53s) and predominantly small to medium saccades, forming localized clusters and occasional vertical shifts suggestive of line changes. The pattern lacks the large exploratory jumps and diverse spatial coverage typical of SEARCH, BROWSE, or PLAY, and does not show strong bottom-focused or continuous tracking behavior expected in WATCH; it is most consistent with sustained reading behavior over text.",
+  "correct": false
+}

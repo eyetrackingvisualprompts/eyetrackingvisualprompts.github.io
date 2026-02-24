@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze pattern is widely distributed across the screen with multiple dispersed fixation clusters and substantial vertical as well as horizontal spread, resembling the exploratory, multi-directional viewing seen in gameplay rather than the more banded (READ/WRITE) or centrally constrained (SEARCH/BROWSE/WATCH) patterns.",
+  "correct": false
+}

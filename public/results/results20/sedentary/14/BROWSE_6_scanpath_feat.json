@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern alternates between a horizontal band consistent with reading text and large vertical and diagonal saccades to the top area, matching movements between search results and other page elements typical of search tasks rather than the more localized patterns of coding or reading, or the more screen-covering exploration of browsing or playing.",
+  "correct": false
+}

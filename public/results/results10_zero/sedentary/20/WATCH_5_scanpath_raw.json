@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts covering a wide spatial range with irregular trajectories, consistent with tracking moving objects or navigating in a game environment rather than the more localized, structured patterns typical of reading, coding, or web browsing tasks.",
+  "correct": false
+}

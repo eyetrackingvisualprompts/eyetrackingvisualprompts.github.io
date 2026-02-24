@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed horizontally across the upper-middle of the screen with multiple separate clusters, similar to scanning search results, rather than the tight central focus of PLAY or the compact code/text clusters of INTERPRET/DEBUG/WRITE/READ.",
+  "correct": false
+}

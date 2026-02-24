@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are scattered vertically across the left side, including top results area and mid-page, resembling the exploratory, multi-region pattern seen in the SEARCH example rather than the more compact code (INTERPRET/DEBUG/WRITE) or text (READ) patterns.",
+  "correct": false
+}

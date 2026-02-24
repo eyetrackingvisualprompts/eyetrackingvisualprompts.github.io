@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact region with repeated short saccades back and forth over nearly the same lines, including vertical micro-movements, indicative of scrutinizing a small code snippet rather than scanning long text (READ) or broadly over a page (SEARCH/BROWSE) or tracking dynamic objects (WATCH/PLAY). This focused, re-reading pattern over a confined area matches the INTERPRET examples where participants reason about code output.",
+  "correct": false
+}

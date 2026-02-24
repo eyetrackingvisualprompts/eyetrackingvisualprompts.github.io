@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large, frequent saccades spanning widely across the screen, including top/bottom and central areas, with moderate-length fixations and no clear horizontal line-by-line pattern or tight upper-line cluster near the top-left typical of writing or search result scanning. The broad spatial coverage and smooth following-like movements are more consistent with watching dynamic video content than with reading, searching, browsing static pages, or game-focused gaze patterns.",
+  "correct": false
+}

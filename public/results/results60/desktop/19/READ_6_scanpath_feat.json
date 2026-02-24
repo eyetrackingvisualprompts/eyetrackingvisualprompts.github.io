@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows wide horizontal coverage with substantial vertical spread and long saccades between dispersed fixation clusters, indicating following dynamic visual content across the screen rather than the more localized, structured patterns seen in reading, writing, searching, or browsing tasks; this best matches the WATCH activity example.",
+  "correct": false
+}

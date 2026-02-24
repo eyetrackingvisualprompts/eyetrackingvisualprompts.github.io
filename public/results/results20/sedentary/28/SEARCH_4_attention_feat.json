@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Strong fixation band across the top-left where search bar/results headers typically appear, with additional scattered fixations lower and to the right suggesting scanning results and occasional attention to other page elements, matching the SEARCH pattern better than the more centrally focused WATCH/PLAY or code-focused tasks.",
+  "correct": true
+}

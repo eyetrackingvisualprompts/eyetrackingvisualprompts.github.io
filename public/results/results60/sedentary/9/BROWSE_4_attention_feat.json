@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations form a horizontal band across the mid-screen from left to right, with several dense clusters and additional scattered looks to the top area, matching scanning of search results and occasional glances to browser controls typical of SEARCH, and differing from the more central, object-focused PLAY or the broader dispersion of WATCH/BROWSE examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows horizontal scanning with occasional vertical jumps and distinct phases of focused reading interleaved with larger relocations, resembling movement between search results and opened pages rather than continuous linear reading or code-focused tasks; this pattern best matches the SEARCH example distribution.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "Fixations are spread along a central horizontal band with moderate dispersion and several clustered points, resembling natural scanning of dynamic content rather than tightly packed text lines, discrete random target jumps, or wide-screen gameplay patterns; this best matches the Video Viewing example heatmap.",
+  "correct": false
+}

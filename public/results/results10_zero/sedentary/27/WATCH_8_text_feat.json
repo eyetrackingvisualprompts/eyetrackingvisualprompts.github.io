@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, multi-directional saccades across large screen areas with relatively short, scattered fixations and no clear left-to-right/line-wise pattern typical of reading or code tasks. The movements resemble tracking dynamic game elements and frequently shifting attention between disparate regions, which is most consistent with interactive gameplay among the given classes.",
+  "correct": false
+}

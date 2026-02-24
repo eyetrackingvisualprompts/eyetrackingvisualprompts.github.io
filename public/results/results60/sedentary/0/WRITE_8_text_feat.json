@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small code-like region with many local back-and-forth fixations, vertical shifts between nearby lines, and no long horizontal reading sweeps or large exploratory jumps typical of browsing/searching or watching. The pattern closely resembles the WRITE examples, where attention oscillates around the editing area with frequent revisits and short saccades within a confined zone.",
+  "correct": true
+}

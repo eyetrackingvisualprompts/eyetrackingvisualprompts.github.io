@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is dominated by medium-length fixations with frequent short horizontal saccades clustered around a narrow horizontal band (~y=0.33\u20130.45), with occasional small vertical shifts\u2014matching line-by-line text reading patterns more than the more dispersed, vertical-scrolling or peripheral-heavy patterns typical of SEARCH, BROWSE, PLAY, or WATCH. WRITE data instead concentrates near the lower screen; here the gaze band is mid-screen, consistent with reading content.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are moderately dispersed around the screen center with frequent shifts among multiple nearby regions, indicating exploratory viewing of varied on-page elements typical of web browsing rather than the more linear patterns of reading or the constrained upper-area focus of writing.",
+  "correct": false
+}

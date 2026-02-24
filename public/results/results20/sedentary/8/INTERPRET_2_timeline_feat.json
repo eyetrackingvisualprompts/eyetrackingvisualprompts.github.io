@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-amplitude horizontal shifts with noticeable vertical transitions early on, followed by shorter comparative inspections, resemble scanning search results and then examining specific result snippets\u2014matching the SEARCH exemplar more than the more static READ/WRITE or highly dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

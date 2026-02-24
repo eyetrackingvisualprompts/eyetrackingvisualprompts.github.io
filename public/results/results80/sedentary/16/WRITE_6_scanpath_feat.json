@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the upper-left region with repeated vertical movements (reading results/snippets) and frequent long saccades to the upper-right area (likely interacting with the search box or opening results), matching the SEARCH scanpath pattern more than other tasks.",
+  "correct": false
+}

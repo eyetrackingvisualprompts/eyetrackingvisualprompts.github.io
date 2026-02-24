@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly constrained to a horizontal band with long, sequential fixations and small progressive/regressive saccades along that band, repeatedly sweeping from right to left across similar y-coordinates and then stepping slightly downward\u2014matching line-by-line text reading patterns rather than code, dynamic scenes, or broad exploratory movements.",
+  "correct": true
+}

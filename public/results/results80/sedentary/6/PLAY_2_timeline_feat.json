@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows relatively smooth but wide-ranging horizontal movements with intermittent large saccades and variable vertical shifts, resembling the dynamic tracking and exploratory patterns seen in the PLAY example more than the more structured line-by-line or code-focused patterns of READ/WRITE/DEBUG/INTERPRET or the denser exploratory BROWSE/SEARCH behaviors.",
+  "correct": true
+}

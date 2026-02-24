@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a central horizontal band with some spread, matching the browsing example more closely than the tighter central SEARCH cluster or the extended horizontal patterns of READ/WRITE.",
+  "correct": false
+}

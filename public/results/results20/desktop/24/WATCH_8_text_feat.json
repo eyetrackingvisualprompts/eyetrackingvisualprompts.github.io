@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The pattern shows medium-length fixations interleaved with varied-amplitude saccades spanning both central and more peripheral screen regions, with several large direction changes and no clear line-by-line horizontal scanpath typical of reading. The gaze frequently jumps between dispersed areas (including mid and lower screen), consistent with inspecting heterogeneous webpage elements during browsing rather than the more focused, top-centered patterns seen in search result pages or the repetitive band-like regions of write/watch/play tasks.",
+  "correct": false
+}

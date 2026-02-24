@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a compact region on the left side with repeated refixations over the same lines and minimal excursions elsewhere, closely matching the focused, localized scanpath typical of inspecting and correcting code during debugging rather than the more linear patterns of reading or the broader movements seen in browsing/searching.",
+  "correct": false
+}

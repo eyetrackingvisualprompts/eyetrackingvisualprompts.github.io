@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between central content and page extremities (top bar, bottom/near off-screen, far corners), with many revisits to mid-page regions and scattered vertical positions, matches exploratory, multi-region scanning seen in BROWSE rather than the more line-structured READ or focused code-centric DEBUG/WRITE/INTERPRET patterns.",
+  "correct": false
+}

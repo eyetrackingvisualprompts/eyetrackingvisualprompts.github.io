@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is tightly clustered on a single code area with a few lower-screen fixations, closely matching the DEBUG example pattern more than the INTERPRET or other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows a long initial period of stable horizontal reading-like movement followed by larger vertical transitions and more scattered fixations, consistent with reading a results snippet then moving across and down a search results page, matching the SEARCH example pattern more than the others.",
+  "correct": true
+}

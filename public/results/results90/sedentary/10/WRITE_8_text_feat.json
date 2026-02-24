@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Long, stable horizontal scanpaths with many sustained fixations clustered along a few nearby y-levels, plus occasional line returns and limited large exploratory jumps, match the structured left-to-right text reading patterns seen in the READ examples better than the more scattered, multi-region exploration in SEARCH/BROWSE or the localized code-centric patterns in DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

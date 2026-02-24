@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with occasional vertical shifts and scattered saccades, resembling scanning between results and snippets rather than the more linear patterns of READ/WRITE or the more dynamic patterns of PLAY/WATCH; it best matches the SEARCH example trajectory.",
+  "correct": false
+}

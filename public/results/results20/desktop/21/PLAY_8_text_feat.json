@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays in a relatively narrow horizontal band around mid-height with short, sequential fixations and small regressions, matching the stable line-by-line scanning seen in the READ example more than the larger, more scattered movements of SEARCH, BROWSE, or PLAY, or the more upper-screen focus of WRITE and WATCH.",
+  "correct": false
+}

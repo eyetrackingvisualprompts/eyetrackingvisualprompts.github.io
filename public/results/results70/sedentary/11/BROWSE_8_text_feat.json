@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent scrolling-like vertical transitions between mid-screen content and off-screen extremes, combined with horizontal sweeps across a central band and visits to top/bottom regions, match the exploratory, viewport-shifting pattern seen in BROWSE rather than the more structured line-by-line of READ or code-centric clustering of WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

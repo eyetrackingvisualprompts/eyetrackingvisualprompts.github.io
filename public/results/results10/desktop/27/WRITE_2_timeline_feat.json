@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in two horizontal bands: x around mid-screen with small shifts, y in upper-lower quarter region, resembling focused attention near a single text line and occasional minor scrolls, matching the stable, limited-range pattern of the WRITE example rather than the wider vertical movements of READ or the more dispersed patterns of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

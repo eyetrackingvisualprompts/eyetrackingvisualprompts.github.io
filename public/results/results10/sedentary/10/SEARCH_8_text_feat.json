@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large vertical transitions between widely separated regions (top text-like band, bottom areas), scattered fixations at varied x-positions, and irregular navigation-like jumps resemble scrolling and exploring different webpage sections more than the more structured, line-based READ pattern or the focused coding layouts of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

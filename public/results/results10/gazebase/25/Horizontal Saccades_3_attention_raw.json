@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two dominant fixation clusters at symmetric left and right horizontal positions with similar vertical alignment and little activity elsewhere, matching the pattern of tracking a target moving horizontally across the screen.",
+  "correct": true
+}

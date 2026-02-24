@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts cover a mid-screen region with frequent medium-amplitude vertical and horizontal saccades between text-like areas, but without the long, stable horizontal scanlines characteristic of structured reading. The pattern shows exploratory inspection of multiple zones similar to the BROWSE example, rather than the more linear patterns of READ/WRITE or the peripheral/subtitle bands of WATCH or dynamic wide-range movements of PLAY/SEARCH.",
+  "correct": true
+}

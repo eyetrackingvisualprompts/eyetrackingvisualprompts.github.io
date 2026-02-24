@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, multi-directional jumps across wide horizontal and vertical ranges with ~200\u2013700 ms fixations at each new location, matching the pattern of following a randomly moving target rather than structured horizontal-only motion, dense line-like reading patterns, sustained central fixation, or game-like clustering on few objects.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows predominantly horizontal movements with clusters of fixations around similar vertical positions, consistent with reading lines of text. Movements are moderate in amplitude, mainly within a band in the lower-middle of the screen, and there is no strong evidence of large, frequent, multi-directional saccades typical of PLAY or WATCH, nor the more scattered, panel-to-panel behavior common in coding tasks (WRITE/DEBUG/INTERPRET) or SEARCH/BROWSE. This best matches sustained reading behavior.",
+  "correct": false
+}

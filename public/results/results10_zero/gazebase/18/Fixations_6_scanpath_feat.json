@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The scanpath shows gaze tightly clustered around the screen center with only a single short saccade and no systematic horizontal or random multi-point movements, indicating sustained central fixation on a static target.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a small upper-left region with frequent long saccades to a few distinct lower-screen locations, suggesting tracking and repositioning typical of following moving objects or game elements rather than systematic line-by-line reading or code inspection.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is largely confined to a single horizontal band with repeated left\u2013right sweeps and revisits around ~y=210\u2013270, consistent with scanning a search results list or top-of-page content rather than continuous line-by-line reading or focused code inspection/debugging. The pattern matches the SEARCH example\u2019s horizontal result-row scanning more than the other activities.",
+  "correct": false
+}

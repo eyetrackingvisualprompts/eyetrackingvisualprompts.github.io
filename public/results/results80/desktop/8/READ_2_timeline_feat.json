@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations remain near the screen center with relatively small vertical and horizontal ranges and frequent short saccades, matching the moderate, center-focused scanning behavior seen in the BROWSE example rather than the stronger vertical shifts of READ/SEARCH or peripheral bias of WATCH/WRITE/PLAY.",
+  "correct": false
+}

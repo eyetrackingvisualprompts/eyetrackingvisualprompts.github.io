@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a small central region with many medium-long fixations and short intra-line saccades, showing repeated revisits to the same coordinates and no clear line-by-line progression typical of reading or broad exploration seen in search/browse. This localized, oscillatory inspection pattern over code-like areas matches the INTERPRET examples, where participants mentally simulate and check a short code snippet\u2019s behavior.",
+  "correct": true
+}

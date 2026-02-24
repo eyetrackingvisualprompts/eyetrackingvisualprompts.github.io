@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions cluster around a localized region with irregular multi-directional jumps and no strong left-to-right progression or central fixation; this pattern matches following a randomly moving target rather than reading lines of text, strictly horizontal saccades, static fixation, game-related dispersed fixations, or rich scene exploration during video viewing.",
+  "correct": false
+}

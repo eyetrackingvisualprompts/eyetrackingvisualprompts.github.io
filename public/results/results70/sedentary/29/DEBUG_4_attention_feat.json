@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows a dense cluster of fixations on the left-central area of the code editor with some vertical spread and a few scattered checks elsewhere, closely matching the DEBUG example pattern more than the WRITE or INTERPRET examples, which are similarly focused but with slightly different spatial distributions.",
+  "correct": true
+}

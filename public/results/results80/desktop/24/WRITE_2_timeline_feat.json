@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions fluctuate moderately around the screen center with mixed horizontal and vertical saccades and no strong line-by-line horizontal scan pattern typical of reading or writing; movement is less erratic than gameplay and more varied than video watching, matching the browsing example most closely.",
+  "correct": false
+}

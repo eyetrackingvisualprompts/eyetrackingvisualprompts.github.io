@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in two vertically separated clusters around the screen center, resembling attention shifts between a search box/result title region and a lower result or snippet area, which matches the SEARCH pattern more than the other activities.",
+  "correct": false
+}

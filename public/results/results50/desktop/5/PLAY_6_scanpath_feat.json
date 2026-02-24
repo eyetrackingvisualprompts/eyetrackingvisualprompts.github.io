@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around the center with moderate dispersion and frequent shifts among nearby points, resembling the mixed reading and interface-scanning pattern of search results pages, which matches the SEARCH example more than the tighter READ pattern or the more scattered BROWSE behavior.",
+  "correct": false
+}

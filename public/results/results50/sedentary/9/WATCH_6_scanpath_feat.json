@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover a wide horizontal span with frequent large saccades crossing the screen and fewer dense reading-like clusters, resembling continuous tracking of moving objects and navigation typical of playing simple games rather than structured reading, coding, or web browsing patterns.",
+  "correct": false
+}

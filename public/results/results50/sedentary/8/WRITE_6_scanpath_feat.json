@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are arranged in a narrow horizontal band with systematic left-to-right movements at a near-constant vertical level, characteristic of line-by-line reading behavior, unlike the more scattered or multi-region patterns of other tasks.",
+  "correct": false
+}

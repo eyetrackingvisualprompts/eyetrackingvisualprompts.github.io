@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixation pattern shows predominantly horizontal, slowly drifting X positions with relatively stable Y positions that gradually move downward, matching line-by-line reading behavior and closely resembling the READ example plot more than the other activity classes.",
+  "correct": true
+}

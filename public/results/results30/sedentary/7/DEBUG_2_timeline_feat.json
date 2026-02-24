@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows long periods of relatively stable horizontal scanning around a central band, with occasional larger vertical saccades and shifts to new regions, matching the pattern of examining search results and intermittently moving to different parts of the results page typical of SEARCH, rather than the more uniform line-by-line progression of READ or the more dispersed movements of BROWSE or WATCH.",
+  "correct": false
+}

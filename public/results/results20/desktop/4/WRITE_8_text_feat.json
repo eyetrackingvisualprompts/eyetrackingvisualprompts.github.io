@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band in the upper part of the screen with short, contiguous fixations and small horizontal saccades, matching line-by-line text processing. There are no large exploratory moves typical of SEARCH/BROWSE or wide-range shifts seen in PLAY/WATCH, and the pattern lacks the left-margin anchoring and frequent vertical returns characteristic of WRITE, aligning best with sustained reading of a single text region.",
+  "correct": false
+}

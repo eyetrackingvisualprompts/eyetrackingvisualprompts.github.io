@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed horizontal scanning with several vertical shifts and irregular saccades, transitioning between regions on the screen rather than the stable reading lines of READ or the focused code-view patterns of INTERPRET/DEBUG/WRITE. This heterogeneous exploration matches the example SEARCH plot most closely.",
+  "correct": false
+}

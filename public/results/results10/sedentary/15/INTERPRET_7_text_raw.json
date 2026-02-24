@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze points are densely clustered around central code-like regions with small horizontal and vertical shifts, repeated revisits to nearby positions, and no large excursions typical of web pages, games, or videos. The pattern closely matches the INTERPRET example: concentrated fixations and short saccades around a code block while mentally simulating its behavior.",
+  "correct": true
+}

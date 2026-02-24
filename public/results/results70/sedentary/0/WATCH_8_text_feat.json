@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Wide spatial dispersion across the full screen (including edges and corners), long fixations with irregular, scene-like scanning patterns, and repeated jumps between distant points match the dynamic, global viewing behavior seen in the WATCH examples rather than the more line- or code-structured patterns of reading, coding, searching, or debugging.",
+  "correct": true
+}

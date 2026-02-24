@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent long saccades across large screen regions, repeated returns to central interaction areas, and many vertical/horizontal jumps between HUD-like and action regions, matching dynamic, target-following patterns typical of gameplay rather than the more line-structured, code-focused, or reading/browsing patterns of other tasks.",
+  "correct": false
+}

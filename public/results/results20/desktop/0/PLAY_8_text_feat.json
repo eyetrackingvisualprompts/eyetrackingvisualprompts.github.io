@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shifts among multiple mid-screen regions with moderate fixation durations and frequent medium-amplitude saccades, without the stable line-by-line horizontal scan typical of reading or the strong upper-screen/subtitle focus seen in watching. The pattern also lacks the tight clustered upper-area focus of writing or the extreme, rapid directional changes common in gameplay, aligning best with exploratory browsing over a webpage with mixed elements (text, images, menus).",
+  "correct": false
+}

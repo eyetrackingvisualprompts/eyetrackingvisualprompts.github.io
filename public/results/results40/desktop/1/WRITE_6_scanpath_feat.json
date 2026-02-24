@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are clustered around a central region with moderate vertical spread and no systematic left-to-right scanning or columnar structure, indicating following dynamic visual content rather than reading, writing, or searching. This pattern best matches the WATCH example among the provided classes.",
+  "correct": false
+}

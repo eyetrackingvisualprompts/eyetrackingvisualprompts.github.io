@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in central horizontal bands consistent with code editor lines, with frequent left-right sweeps across a narrow vertical range and repeated revisits to similar x\u2013y coordinates, characteristic of reading and editing code during implementation rather than scanning search results, reading long text, or tracking dynamic objects as in games or video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show large, rapid shifts across wide vertical and horizontal ranges (including off-screen values), consistent with tracking and navigating moving objects or characters in a game rather than line-by-line reading or focused code inspection. This dynamic, wide-spread pattern best matches the PLAY activity among the given options.",
+  "correct": false
+}

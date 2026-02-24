@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades and highly variable X/Y positions across the whole screen, closely matching the dynamic, scattered pattern seen in the PLAY example rather than the more structured or localized patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

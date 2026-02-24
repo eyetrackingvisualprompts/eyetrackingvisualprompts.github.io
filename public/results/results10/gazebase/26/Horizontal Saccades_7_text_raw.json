@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates in large, predominantly horizontal sweeps between far negative and far positive x-values (\u2248\u00b115\u201318\u00b0) with relatively small, slowly varying y-values, closely matching the structured left-right tracking pattern of the Horizontal Saccades example and unlike the more irregular, multi-directional changes seen in Random Saccades or naturalistic tasks.",
+  "correct": true
+}

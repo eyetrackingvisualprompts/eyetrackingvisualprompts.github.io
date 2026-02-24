@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several extended horizontal shifts between two main vertical regions, with periods of stable reading-like fixations and occasional brief spikes, closely matching the example SEARCH pattern of moving between results and page content rather than the more continuous motion of WATCH/PLAY or the denser line-by-line pattern of READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow upper-region area with very small horizontal and vertical excursions and many long, stable fixations (often >1 s, including a 3+ s fixation), matching a stationary text-entry focus in a small zone (e.g., near a cursor or single line) rather than the broader scanning or dynamic shifts seen in search, browse, play, watch, or read examples.",
+  "correct": true
+}

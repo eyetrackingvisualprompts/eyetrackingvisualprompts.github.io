@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze remains confined to a relatively small central region with many medium\u2013long fixations and short corrective saccades back and forth between very similar coordinates, indicating repeated inspection of the same code lines or tokens rather than systematic line-by-line reading or broad exploratory scanning. This localized, iterative, comprehension-focused pattern best matches the INTERPRET (code understanding) task among the provided classes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a narrow left-side code area with occasional long saccades to a right-side region, matching the pattern of debugging in an IDE (code focus with periodic checks of output/console), similar to the DEBUG example scanpath.",
+  "correct": false
+}

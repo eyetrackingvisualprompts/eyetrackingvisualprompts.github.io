@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered around the central upper-middle area with little horizontal spread, closely matching the browsing example heatmap pattern rather than the more horizontally distributed reading/writing or dispersed play/watch/search patterns.",
+  "correct": false
+}

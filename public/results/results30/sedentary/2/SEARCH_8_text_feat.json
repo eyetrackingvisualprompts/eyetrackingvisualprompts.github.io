@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between top horizontal bands and mid-page content, alternation between result-like rows and lower sections, and occasional excursions to screen edges resemble scanning search results and linked pages rather than the more line-structured READ or code-focused DEBUG/WRITE/INTERPRET patterns, and lack the smooth pursuit typical of PLAY or WATCH.",
+  "correct": true
+}

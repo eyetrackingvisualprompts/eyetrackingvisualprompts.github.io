@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains around mid-lower screen with frequent short fixations and small to medium saccades in varying directions, lacking the long, line-structured horizontal scan paths typical of READ and the strong top or bottom concentration seen in WRITE or WATCH. The dynamics resemble exploratory navigation over mixed web content, consistent with BROWSE rather than the more stationary, query-result dwell patterns of SEARCH or the peripheral, often extreme-position focus of PLAY.",
+  "correct": false
+}

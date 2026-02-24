@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze alternates between two horizontally separated clusters at similar vertical levels, consistent with fixations on nearby text lines or columns and short saccades between them, typical of reading rather than the larger, more scattered movements seen in search, browsing, or gameplay.",
+  "correct": false
+}

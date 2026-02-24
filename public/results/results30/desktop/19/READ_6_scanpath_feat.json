@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is confined to a mid\u2011screen region with frequent short saccades and dispersed fixations rather than strict horizontal lines (READ) or a wide navigation pattern (PLAY/BROWSE). This clustered yet exploratory pattern best matches the SEARCH example, where attention shifts among results within a central area of the page.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in the lower half of the screen (Y around 0.2\u20130.4) with relatively narrow horizontal range and gradual drift, matching the typical pattern of looking at and composing text in a word processor, similar to the WRITE example and distinct from the more central, wider scanning in BROWSE or READ.",
+  "correct": false
+}

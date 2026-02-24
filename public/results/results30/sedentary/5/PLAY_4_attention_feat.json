@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a central region with moderate vertical spread and few peripheral points, resembling tracking of dynamic content in the WATCH example more than the localized code/text clusters of WRITE/READ/INTERPRET/DEBUG or the widely scattered patterns of BROWSE/PLAY/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large vertical jumps between upper and lower screen regions, mixed with shorter scanning fixations around mid-page, match the heterogeneous, multi-region exploration seen in the SEARCH examples rather than the more line-structured READ, middle-focused BROWSE, or scene-centric WATCH patterns.",
+  "correct": false
+}

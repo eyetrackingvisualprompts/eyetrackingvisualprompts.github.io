@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points cluster around code-like regions with small, dense back-and-forth saccades over a narrow vertical band, plus occasional jumps to other nearby code lines and UI areas, closely matching the WRITE example pattern and differing from the more dispersed scan paths of SEARCH/BROWSE and the larger, smoother movements of WATCH/PLAY.",
+  "correct": false
+}

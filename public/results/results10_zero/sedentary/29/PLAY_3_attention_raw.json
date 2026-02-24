@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a tight cluster of fixations around a central region with limited horizontal scanning and almost no line-like reading patterns. This suggests sustained attention to a moving or changing focal area rather than systematic text/code inspection, matching the behavior of watching a full-screen video.",
+  "correct": false
+}

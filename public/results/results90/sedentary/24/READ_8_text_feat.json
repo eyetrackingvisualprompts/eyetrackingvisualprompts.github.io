@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in smooth, mostly horizontal sweeps with small vertical shifts, forming stable lines of fixations across the page height, consistent with reading text lines rather than scanning interactive UI elements, code, or dynamic game/video content.",
+  "correct": true
+}

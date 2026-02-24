@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains in a narrow vertical band with many short horizontal saccades and mid-length fixations around a single text-like region, interspersed with occasional longer jumps along the same line area\u2014this pattern best matches scanning webpage content in the BROWSE examples rather than the more structured line-by-line READ pattern or code-focused tasks.",
+  "correct": false
+}

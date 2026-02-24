@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows alternating periods of scanning across different vertical regions and shifting to new areas, with varied saccades and fixations similar to the provided SEARCH example, indicating exploration of search results and occasional focus on specific items rather than the more regular line-by-line (READ) or code-focused (WRITE/DEBUG/INTERPRET) patterns.",
+  "correct": false
+}

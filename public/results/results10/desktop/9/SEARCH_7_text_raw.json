@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in a mid-screen band with many short fixations and small vertical shifts, interspersed with occasional jumps\u2014this matches the mixed scanning-and-local-reading pattern seen in the BROWSE examples more than the more uniform horizontal bands of READ or the more extreme, erratic shifts of PLAY.",
+  "correct": false
+}

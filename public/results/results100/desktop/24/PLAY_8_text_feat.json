@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is mostly around the central text area with short-to-medium fixations and small horizontal and vertical saccades, including occasional line-like horizontal shifts and returns\u2014matching the stable, text-oriented scanpath patterns seen in the READ examples more than the broader, more exploratory movements of BROWSE/SEARCH or the peripheral/top-heavy patterns of PLAY/WRITE/WATCH.",
+  "correct": false
+}

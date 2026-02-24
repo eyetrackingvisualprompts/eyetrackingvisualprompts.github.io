@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a confined left-center code area with repeated revisits and moderate vertical exploration, similar to the DEBUG example and less dispersed than BROWSE/SEARCH or PLAY/WATCH, indicating focused inspection and correction of code rather than free reading or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a mid-screen region with frequent shifts between two nearby clusters, resembling transitions between search box/results and other page elements; this spatio-temporal pattern best matches the SEARCH example scanpath.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, orderly horizontal clusters stacked vertically within a narrow central column, indicating systematic line-by-line reading with occasional vertical regressions, matching the READ example pattern more than the other task types.",
+  "correct": true
+}

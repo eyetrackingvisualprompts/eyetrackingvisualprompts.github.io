@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows stable, horizontally progressing fixations with slow, regular shifts in both X and Y, and relatively few large saccades\u2014closely matching the structured left-to-right scan pattern seen in the READ example, unlike the more erratic or wide-ranging movements in browsing, searching, or playing.",
+  "correct": false
+}

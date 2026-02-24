@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze repeatedly alternates between a compact code region (around y\u2248230\u2013340) and output/console-like areas (y\u2248450\u2013550), with many revisits to nearly identical coordinates and medium-length fixations, matching interpretive reasoning over a short snippet rather than continuous reading, open browsing, or writing/debugging across the full screen.",
+  "correct": true
+}

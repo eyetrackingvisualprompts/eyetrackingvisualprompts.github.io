@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are dispersed over large vertical and horizontal ranges with frequent rapid jumps and no clear left-to-right or line-based scanning pattern typical of reading or code-related tasks, consistent with following dynamic visual content as in watching a video rather than focused text or search activities.",
+  "correct": false
+}

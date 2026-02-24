@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows a few long, smooth trajectories sweeping across large screen areas with relatively sparse, short fixations, indicative of following global motion on a video rather than dense, localized inspection of text or code or the highly reactive object-tracking typical of gameplay. This pattern best matches the WATCH activity.",
+  "correct": false
+}

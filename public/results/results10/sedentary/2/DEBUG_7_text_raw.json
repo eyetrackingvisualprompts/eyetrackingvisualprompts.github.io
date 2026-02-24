@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts between widely separated vertical regions (top UI, mid content, bottom), including extreme top coordinates and large horizontal spreads, resembling scanning varied web page elements rather than tight horizontal line reading or code blocks; pattern best matches the heterogeneous, exploratory viewing behavior typical of free web browsing.",
+  "correct": false
+}

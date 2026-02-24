@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays mostly around central screen regions with smooth shifts and clustered fixations, including vertical transitions consistent with following scene elements and occasional subtitle-like lower-screen looks, matching passive video watching more than the more systematic horizontal/vertical scan patterns of reading, writing, or web search/browsing, or the larger, rapid multidirectional shifts typical of gameplay.",
+  "correct": false
+}

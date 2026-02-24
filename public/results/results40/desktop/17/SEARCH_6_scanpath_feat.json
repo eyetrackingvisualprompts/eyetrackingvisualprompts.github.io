@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around the mid-screen region with moderate vertical spread and intermittent downward shifts, resembling focused inspection of search results and occasional attention to lower page elements, which matches the SEARCH prototype more than the other activities.",
+  "correct": true
+}

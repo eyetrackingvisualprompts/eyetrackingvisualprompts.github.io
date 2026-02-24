@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a compact region on the left side of the screen with repeated revisits and short saccades, matching the focused, localized gaze typical of examining and correcting buggy code in the DEBUG task rather than the broader distributions seen in SEARCH, BROWSE, or PLAY.",
+  "correct": true
+}

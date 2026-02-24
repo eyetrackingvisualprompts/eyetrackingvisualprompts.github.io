@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, multidirectional gaze movements concentrated around the screen center with frequent saccades and variable fixation sizes, closely matching the exploratory, object-tracking pattern seen in the PLAY example rather than the more localized or structured patterns of reading, coding, or browsing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a code-like region (x\u2248160\u2013480, y\u2248280\u2013420) with many short fixations and small corrective saccades, including repeated revisits to nearby lines, matching the fine-grained, line-by-line checking behavior seen in the DEBUG example more than the other activities.",
+  "correct": false
+}

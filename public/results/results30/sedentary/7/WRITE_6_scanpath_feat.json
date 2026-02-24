@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly clustered on the upper-left (likely code/IDE or search box) with repeated long saccades to the middle-right region (results area) and back, resembling the SEARCH example scanpath more than the other tasks.",
+  "correct": false
+}

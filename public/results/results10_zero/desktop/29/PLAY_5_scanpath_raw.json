@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a small horizontal band with short, localized saccades and clustered fixations, consistent with reading a localized text region rather than larger exploratory or dynamic viewing seen in browsing, searching, watching videos, playing games, or writing (which typically involves shifts between text and other UI elements).",
+  "correct": false
+}

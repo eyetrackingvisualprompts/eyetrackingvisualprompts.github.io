@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the upper-left area (likely query box and top results) with additional scattered fixations across the screen, matching the pattern of scanning search results rather than focused code (WRITE/DEBUG/INTERPRET) or continuous reading (READ).",
+  "correct": false
+}

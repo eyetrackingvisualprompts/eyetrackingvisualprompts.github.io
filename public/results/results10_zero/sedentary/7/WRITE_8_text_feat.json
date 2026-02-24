@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern is dominated by long, stable fixations (often >1 s) within a relatively narrow horizontal band, with small horizontal and vertical saccades and occasional returns, consistent with reading lines of text rather than scanning interfaces, code, or dynamic game/video content.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Long saccades between upper content area and mid-page results region, with several horizontal sweeps across a narrow vertical band, resemble scanning of search results and then jumping back to the top/other UI elements, matching the SEARCH exemplars more than the more linear READ, localized INTERPRET/DEBUG/WRITE, or highly dynamic PLAY/WATCH/BROWSE patterns.",
+  "correct": false
+}

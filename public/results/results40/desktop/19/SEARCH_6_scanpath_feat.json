@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, horizontally oriented cluster with small vertical variance and sequential progression, matching the stable left\u2011to\u2011right scanpath typical of reading text rather than the broader, more dispersed patterns seen in search, browse, play, watch, or write tasks.",
+  "correct": false
+}

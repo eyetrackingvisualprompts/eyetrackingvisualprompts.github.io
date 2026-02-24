@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is highly stable with long fixations and very small saccades clustered around a narrow band near the upper part of the screen (y\u22480.18\u20130.28), consistent with reading a line of text. There are no large exploratory or vertical transitions typical of SEARCH or BROWSE, nor dynamic multi-directional movements seen in PLAY or WATCH, and less pointer-area wandering than WRITE, matching the READ pattern best.",
+  "correct": false
+}

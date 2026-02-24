@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a dense, tight cluster of fixations on a small code-like region on the left side of the screen with minimal exploration elsewhere, closely matching the INTERPRET example pattern where participants concentrate on a short code snippet to reason about its output.",
+  "correct": false
+}

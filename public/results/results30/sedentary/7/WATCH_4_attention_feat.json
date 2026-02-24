@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are broadly distributed across the screen with no tight clusters on text-like regions, resembling the WATCH example heatmap more than the others, which show either focused code/text areas or central game focus.",
+  "correct": true
+}

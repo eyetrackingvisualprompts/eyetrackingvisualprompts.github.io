@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small central region with moderate, code-line\u2013sized vertical shifts and no large exploratory jumps, closely matching the structured but localized patterns seen in the WRITE example rather than the broader scanning of SEARCH/BROWSE or the more dispersed dynamics of WATCH/PLAY/DEBUG.",
+  "correct": false
+}

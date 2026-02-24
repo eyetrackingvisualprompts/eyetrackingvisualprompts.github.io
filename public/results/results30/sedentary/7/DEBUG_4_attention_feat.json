@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Dominant fixations near the upper-left region with a horizontal spread across the upper band and some scattered looks lower on the page resemble viewing a search results page: reading the query/results at the top and occasionally checking items further down, matching the SEARCH example heatmap more than the others.",
+  "correct": false
+}

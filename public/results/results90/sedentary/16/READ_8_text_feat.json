@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses smoothly in long, predominantly horizontal sweeps with small regressions, moving line-by-line down the screen from upper to lower y-coordinates, closely matching the structured left\u2011to\u2011right line scanning pattern seen in the READ examples rather than the more scattered or vertical patterns of other tasks.",
+  "correct": true
+}

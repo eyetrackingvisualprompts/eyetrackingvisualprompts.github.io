@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows horizontal sweeps across the page with repeated transitions between a central/left area and a right-side area, plus some vertical shifts\u2014consistent with scanning search results and occasionally moving to side content, matching the SEARCH example most closely.",
+  "correct": false
+}

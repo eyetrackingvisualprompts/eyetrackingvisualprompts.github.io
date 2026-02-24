@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated transitions between an upper region and a much lower region of the screen, consistent with moving between search results, snippet text, and possibly opened pages, matching the SEARCH pattern more than the more linear READ or smoother WATCH behaviors.",
+  "correct": true
+}

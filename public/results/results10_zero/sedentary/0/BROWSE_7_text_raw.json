@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze coordinates show rapid, frequent shifts across a wide vertical range (including near the screen bottom) with smooth, continuous movement and few stable horizontal line fixations, consistent with tracking dynamic objects or navigating a game space rather than reading, coding, or watching static content.",
+  "correct": false
+}

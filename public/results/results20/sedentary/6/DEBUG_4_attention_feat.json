@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small code region on the upper-left, with very limited horizontal scanning, matching the focused, localized gaze pattern seen in INTERPRET rather than the broader spreads of WRITE or DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent gaze jumps between top-left/title region, various horizontal positions in upper area, and mid/lower page, including off-content coordinates and result-like bands; pattern matches scanning search results and linked pages rather than sustained reading, coding, or continuous tracking seen in WATCH/PLAY/READ, and is closest to the heterogeneous, multi-level navigation behavior in the SEARCH examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations cluster in the central region with moderate vertical spread and localized exploration, closely matching the browsing example heatmap pattern and differing from the more horizontal READ pattern or peripheral WRITE/PLAY clusters.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central region with moderate dispersion and varied directions, resembling the mixed scanning and localized fixations seen in the BROWSE example, rather than the linear patterns of READ or the more peripheral clusters of WRITE/PLAY/WATCH.",
+  "correct": false
+}

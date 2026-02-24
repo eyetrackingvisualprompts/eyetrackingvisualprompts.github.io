@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact central region with limited horizontal spread, resembling the localized attention to a main content block seen in the BROWSE example rather than the more linear (READ/WRITE) or widely dispersed (PLAY/SEARCH/WATCH) patterns.",
+  "correct": false
+}

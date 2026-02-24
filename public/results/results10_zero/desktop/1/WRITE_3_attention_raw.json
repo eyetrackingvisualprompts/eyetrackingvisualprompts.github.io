@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a compact cluster of fixations near the screen center with slight local movement, consistent with passively watching a video where gaze remains near the central region rather than scanning structured text (READ/WRITE) or widely exploring interactive content (PLAY/SEARCH/BROWSE).",
+  "correct": false
+}

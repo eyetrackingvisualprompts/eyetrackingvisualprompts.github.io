@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations show mostly horizontal movement within a narrow vertical band with occasional line changes, similar to reading code but with less extensive vertical scanning and fewer large saccades than DEBUG or WRITE, matching the INTERPRET example pattern.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid shifts across wide vertical and horizontal extents (e.g., jumps from near-bottom to near-top and from left to right), frequent transitions between central and peripheral regions, and irregular, non-linear scan paths, closely matching the dynamic, multi-directional exploration pattern seen in the PLAY examples rather than the more constrained, text- or page-structured patterns in READ/WRITE/BROWSE/SEARCH or the more clustered WATCH behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a narrow horizontal band with small, continuous shifts and no systematic line-by-line progression or large code/text scanning jumps, consistent with following motion in a video rather than reading, coding, or web browsing layouts.",
+  "correct": false
+}

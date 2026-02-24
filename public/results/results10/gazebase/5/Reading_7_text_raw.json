@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Predominantly horizontal gaze positions clustered around a high y-value with small-amplitude, left-to-right drifts and corrections, plus periodic larger horizontal shifts, closely match the structured line-by-line scan pattern seen in the Reading examples rather than the more scattered or strongly task-driven movements of the other activities.",
+  "correct": true
+}

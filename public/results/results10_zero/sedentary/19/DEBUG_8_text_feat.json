@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows many short fixations with frequent medium-length saccades that wander locally within a region and then shift between upper and lower screen areas without forming a clear reading line structure or systematic code/IDE scanning. The pattern is consistent with following changing visual content in a video rather than the more structured, line-based or region-specific patterns typical of READ, WRITE, DEBUG, INTERPRET, SEARCH, or BROWSE, and lacks the strong object-tracking or anticipatory patterns common in simple games, making WATCH the most likely class.",
+  "correct": false
+}

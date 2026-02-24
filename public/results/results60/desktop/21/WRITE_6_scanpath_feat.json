@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight, horizontally aligned cluster with small vertical dispersion, resembling line-by-line scanning of text, which matches the characteristic pattern of the READ examples.",
+  "correct": false
+}

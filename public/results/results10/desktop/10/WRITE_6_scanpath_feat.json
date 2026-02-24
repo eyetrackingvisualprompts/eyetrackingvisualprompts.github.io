@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal line in the lower-middle region of the screen with smooth, progressive movements and clustered fixations, characteristic of line-by-line reading behavior rather than the more scattered or multi-region patterns seen in browsing, searching, or gaming.",
+  "correct": false
+}

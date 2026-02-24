@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are split between a strong cluster in the upper-left (likely search box / results header) and another around mid-screen, with additional scattered points\u2014matching the typical pattern of scanning search results rather than the tight, central code or reading clusters of programming/reading tasks or the broad, dynamic spread of watching or playing.",
+  "correct": false
+}

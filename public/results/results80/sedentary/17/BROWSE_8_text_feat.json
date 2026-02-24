@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze moves in many small horizontal bands at different vertical levels, with frequent medium-length saccades across a wide page, interspersed with jumps to screen edges and off-screen coordinates, suggesting scrolling and scanning of a long web page rather than the tighter code window patterns of DEBUG/WRITE or the orderly line-by-line motion of READ.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on the left-top area (code editor) with occasional saccades to the mid-right region (console or documentation) closely matching the WRITE example pattern and differing from the more dispersed DEBUG or SEARCH scanpaths.",
+  "correct": true
+}

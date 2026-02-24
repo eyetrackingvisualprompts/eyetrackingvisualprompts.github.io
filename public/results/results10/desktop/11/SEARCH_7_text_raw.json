@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze clusters around mid-screen with moderate vertical shifts between approximately 0.4\u20130.6, interspersed with occasional larger relocations (e.g., to near top/bottom regions), matching the mixed scrolling, link selection, and intermittent reorientation typical of web browsing. The pattern is less line-structured than READ, lacks the strong central-focus of WATCH, and shows none of the large frequent directional jumps seen in PLAY or the tight keyboard/upper-screen focus of WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a horizontal band with short, regular saccades and minimal vertical movement, matching the stable left-to-right line tracking characteristic of reading text rather than the broader exploratory or interactive patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is widely distributed across the screen with many rapid saccades and scattered fixations, resembling continuous tracking of dynamic objects rather than localized code or text inspection, which aligns best with the PLAY scanpath pattern.",
+  "correct": false
+}

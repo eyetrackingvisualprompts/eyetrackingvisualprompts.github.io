@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Long saccades between code (upper-left region) and a lower screen area consistent with an editor/console, plus clusters of short fixations near the top-left code area, match the WRITE example\u2019s pattern of alternating between typing/output and code rather than the more continuous scans of READ/INTERPRET or the object-following of PLAY/WATCH.",
+  "correct": false
+}

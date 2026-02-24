@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a narrow left-side code region with some vertical excursions, resembling the DEBUG example more than the more centered and compact INTERPRET pattern or the more dispersed WRITE pattern.",
+  "correct": false
+}

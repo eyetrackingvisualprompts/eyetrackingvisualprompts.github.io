@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows frequent switching between a left-side vertical region and a central/top horizontal region, with long saccades across the screen, resembling movements between code editor, console, and reference areas typical of the WRITE examples, rather than the more localized or patterned behaviors of reading, watching, or browsing.",
+  "correct": false
+}

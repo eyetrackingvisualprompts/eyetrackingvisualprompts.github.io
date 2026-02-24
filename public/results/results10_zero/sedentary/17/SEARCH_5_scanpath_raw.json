@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered in a central code/IDE region with occasional long saccades to corners, consistent with focused coding while briefly checking other UI elements, matching WRITE more than reading-only or browsing tasks.",
+  "correct": false
+}

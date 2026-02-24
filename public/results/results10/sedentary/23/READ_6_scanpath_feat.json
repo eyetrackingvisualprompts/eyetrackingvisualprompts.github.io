@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows only a few large transitions across a mostly empty region, without structured reading or code inspection patterns; this sparse, broader movement is more consistent with passively following changing content in a video than with focused text or interface tasks.",
+  "correct": false
+}

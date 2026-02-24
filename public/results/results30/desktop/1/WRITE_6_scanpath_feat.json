@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered with small horizontal spread and very limited vertical movement, indicating sustained fixation on a compact region of text rather than wide exploratory movements typical of play, search, browse, or watch tasks.",
+  "correct": false
+}

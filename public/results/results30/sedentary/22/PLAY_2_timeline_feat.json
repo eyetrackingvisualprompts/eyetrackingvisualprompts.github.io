@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations show a predominantly monotonic horizontal drift with very small vertical variation, matching the stable line-by-line tracking seen in the READ example more than the more scattered or bi-directional patterns in browsing, search, or coding tasks.",
+  "correct": false
+}

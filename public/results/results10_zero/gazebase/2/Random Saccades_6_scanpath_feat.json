@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations cluster around several discrete points that are spatially scattered both horizontally and vertically within a constrained region, with straight saccades between them and no systematic left-to-right or strictly horizontal pattern, matching a pursuit of a randomly moving target rather than reading, horizontal-only motion, or natural viewing.",
+  "correct": true
+}

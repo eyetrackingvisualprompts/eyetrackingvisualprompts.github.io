@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between multiple distinct horizontal and vertical positions in a step-like fashion, with each plateau lasting about one second before a rapid transition to a new, irregular location in both axes, matching a target that jumps to random 2\u201315\u00b0 positions rather than a fixed horizontal path or continuous natural viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points are densely clustered in a small central area with minimal horizontal or vertical movement, indicating sustained focus on a compact code snippet rather than scanning text lines, browsing multiple regions, or tracking moving objects. This pattern best matches the INTERPRET activity where participants closely inspect a short function to predict its output.",
+  "correct": false
+}

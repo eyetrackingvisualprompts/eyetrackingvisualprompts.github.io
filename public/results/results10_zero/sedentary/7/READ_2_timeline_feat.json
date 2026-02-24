@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near the screen center with small, infrequent horizontal saccades and almost constant vertical position, indicating passive viewing of a relatively static visual scene rather than active reading, code manipulation, searching, or gameplay, which would show larger and more structured scanpaths.",
+  "correct": false
+}

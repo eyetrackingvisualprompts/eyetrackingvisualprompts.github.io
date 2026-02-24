@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps between distant screen regions (including off-screen coordinates), repeated transitions between top text-like areas and bottom/side regions, and visits to extreme corners match the heterogeneous, exploratory patterns seen in BROWSE examples rather than the more structured, localized patterns of coding, reading, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a single compact region with minimal horizontal or vertical scanning, suggesting sustained attention to a small, central visual area rather than reading or code-related exploration, which would show more line-by-line or dispersed movements; this pattern best matches passively WATCHing a video.",
+  "correct": false
+}

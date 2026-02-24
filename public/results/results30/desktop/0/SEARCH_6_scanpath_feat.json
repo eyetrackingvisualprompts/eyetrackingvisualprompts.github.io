@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a relatively small central region with short saccades and no strong left-to-right line structure, indicating focused viewing of a localized web content area typical of browsing rather than the systematic horizontal patterns of reading or the wider, more exploratory movements of search, watch, play, or write.",
+  "correct": false
+}

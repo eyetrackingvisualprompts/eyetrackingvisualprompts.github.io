@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows rapid, large-amplitude saccades across wide screen regions (center\u2194edges, top\u2194bottom) with relatively brief but repeated fixations around mid\u2011screen and near likely game HUD/character areas, closely matching the dynamic tracking and spatial spread seen in the PLAY examples, and unlike the more line-structured or code/text-focused patterns of READ/SEARCH/WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

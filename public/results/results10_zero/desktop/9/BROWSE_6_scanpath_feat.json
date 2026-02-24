@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows short, systematic horizontal saccades with small vertical shifts, consistent with line-by-line reading behavior rather than the larger, more dispersed movements expected in search, browsing, video watching, gaming, or writing tasks.",
+  "correct": false
+}

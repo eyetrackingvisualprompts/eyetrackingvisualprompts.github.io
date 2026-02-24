@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band with low Y position and small, localized saccades, matching the pattern of looking at a single text line and nearby area typical for typing in a word processor, similar to the WRITE example and unlike the broader vertical scanning seen in READ or SEARCH.",
+  "correct": false
+}

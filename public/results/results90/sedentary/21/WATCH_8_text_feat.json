@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades spanning wide screen regions (including extremes and off-center areas), irregular revisits to disparate locations, and mixed vertical/horizontal transitions resemble exploratory web navigation rather than structured reading, code-focused tasks, or smooth video following.",
+  "correct": false
+}

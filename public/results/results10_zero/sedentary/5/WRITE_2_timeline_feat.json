@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains in a narrow horizontal region with very few, smooth shifts over 10 seconds, indicating sustained attention to a mostly static central area of the screen, which is most consistent with passively watching a video rather than scanning text/code or rapidly tracking interactive elements.",
+  "correct": false
+}

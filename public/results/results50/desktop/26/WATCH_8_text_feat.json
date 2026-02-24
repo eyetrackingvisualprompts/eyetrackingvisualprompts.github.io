@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in an upper-central band with long, stable fixations around a relatively constant vertical level (\u22480.70\u20130.75) interspersed with occasional downward saccades toward mid-screen and quick returns, matching looking at the text line, glancing at keyboard or UI elements, then resuming. This pattern closely resembles the provided WRITE examples and differs from the more horizontally sweeping READ trajectories and the broader exploratory movements seen in SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

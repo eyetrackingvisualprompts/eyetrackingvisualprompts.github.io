@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large saccades spanning most of the screen in multiple directions with dispersed fixation clusters, resembling the wide, multidirectional gaze shifts seen in the PLAY examples rather than the more localized or structured patterns of reading, writing, searching, browsing, or watching video.",
+  "correct": false
+}

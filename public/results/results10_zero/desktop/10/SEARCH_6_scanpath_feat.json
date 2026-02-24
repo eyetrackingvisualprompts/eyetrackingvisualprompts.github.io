@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are tightly clustered around a single central region with minimal horizontal or vertical scanning, indicating prolonged fixation on one localized area of the screen, which is most consistent with passively watching a video rather than reading, browsing, searching, writing, or actively exploring a game scene.",
+  "correct": false
+}

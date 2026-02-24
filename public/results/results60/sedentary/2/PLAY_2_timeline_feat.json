@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows predominantly horizontal scan paths with periodic rightward progressions and relatively small vertical shifts, closely matching the browsing example pattern and differing from the more structured READ pattern or the more scattered SEARCH and WATCH behaviors.",
+  "correct": false
+}

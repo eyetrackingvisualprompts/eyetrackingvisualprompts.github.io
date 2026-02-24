@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "X fixations stay in a relatively narrow upper band with gradual drifts and occasional larger saccades, and Y fixations change slowly with moderate vertical movements, matching the smoother, less-structured gaze behavior seen when watching videos rather than the more rhythmic (READ/BROWSE) or highly erratic (PLAY/SEARCH/DEBUG/WRITE) patterns.",
+  "correct": false
+}

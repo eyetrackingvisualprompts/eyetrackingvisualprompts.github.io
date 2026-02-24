@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shifts are large (often >10\u00b0), multi-directional (both horizontal and vertical), and occur between discrete stable fixation periods of around 200\u2013800 ms, matching a task where a single target jumps to widely separated positions and is then held for ~1 s. This pattern fits Random Saccades better than the more constrained 1D Horizontal Saccades, static Fixations, structured left-to-right Reading, or the more complex, object-driven Balura Game or Video Viewing.",
+  "correct": true
+}

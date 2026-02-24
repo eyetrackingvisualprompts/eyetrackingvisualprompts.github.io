@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with small-amplitude horizontal saccades and long, stable fixations, consistent with reading a single text line near the upper part of the page rather than the broader vertical and exploratory movements seen in browse/search or the larger, more scattered shifts typical of video watching, playing, or writing near the text-entry area.",
+  "correct": false
+}

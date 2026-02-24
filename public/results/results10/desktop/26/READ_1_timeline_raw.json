@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y positions fluctuate within mid-range bands without large step-like jumps or systematic horizontal sweeps; this pattern of continuous small movements with relatively stable overall position matches the example WATCH data more closely than the other, more structured or jumpy tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude vertical and horizontal shifts between clusters (e.g., header/URL area around y\u22480.05\u20130.15, mid-content around y\u22480.3\u20130.5, and lower areas y\u22480.6\u20130.7), with many medium-length fixations and irregular revisits, matches the heterogeneous, scanning pattern of web/news browsing more than the more line-structured reading or the more focused patterns of write/watch/play.",
+  "correct": false
+}

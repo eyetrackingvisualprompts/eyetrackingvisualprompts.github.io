@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered over a left-side code area with frequent vertical movements and occasional long shifts to the right (likely console or other panel), matching the focused yet exploratory pattern of debugging rather than the more structured reading of INTERPRET or the more dispersed navigation of WRITE/SEARCH/BROWSE.",
+  "correct": false
+}

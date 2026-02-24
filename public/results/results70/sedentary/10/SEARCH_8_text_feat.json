@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly long horizontal scanpaths around a few dense y-level bands (\u2248530\u2013570, 730\u2013780, 1050), with repeated sweeps back and forth and occasional large jumps to screen extremes and corners, matches the free-scrolling, heterogeneous layout patterns seen in BROWSE examples rather than the more structured line-by-line READ or focused code/IDE patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

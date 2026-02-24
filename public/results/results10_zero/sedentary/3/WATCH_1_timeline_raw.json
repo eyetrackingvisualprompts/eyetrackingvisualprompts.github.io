@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long, smooth, horizontally-biased drifts with relatively small vertical variation and few rapid multi-directional shifts, consistent with passively following content in a video rather than discrete line-by-line reading, code manipulation, or goal-directed search or gameplay.",
+  "correct": true
+}

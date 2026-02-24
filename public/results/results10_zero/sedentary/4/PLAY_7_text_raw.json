@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent rapid gaze shifts with large spatial jumps (including to screen edges/corners) and scattered clusters suggest tracking dynamic moving targets and navigating the scene, which aligns best with interactive game play rather than structured reading, coding, or web tasks.",
+  "correct": true
+}

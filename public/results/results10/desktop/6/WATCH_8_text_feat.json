@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered within a narrow region with predominantly small horizontal saccades and modest vertical shifts, forming a compact, line-like pattern similar to the READ example, unlike the larger, multi-directional excursions seen in PLAY, WATCH, or SEARCH, or the bottom-of-screen focus in WRITE.",
+  "correct": false
+}

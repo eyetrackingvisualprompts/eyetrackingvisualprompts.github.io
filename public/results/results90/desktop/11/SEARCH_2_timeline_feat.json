@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around mid-screen X with moderate vertical spread and frequent medium-amplitude saccades, resembling the SEARCH pattern where users alternate between the query box, results list, and individual result snippets; this differs from the more structured line-by-line patterns of READ and the more centralized, less variable gaze of WATCH or PLAY.",
+  "correct": true
+}

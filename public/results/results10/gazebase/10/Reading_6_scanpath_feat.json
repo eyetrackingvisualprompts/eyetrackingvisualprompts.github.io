@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze points form mostly horizontal sequences within a narrow vertical band, with progressive left-to-right movements and short regressions, matching the characteristic line-by-line scanpath of reading rather than the larger or more scattered movements of the other tasks.",
+  "correct": true
+}

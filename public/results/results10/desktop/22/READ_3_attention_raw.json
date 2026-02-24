@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a narrow horizontal band around mid-height, with smooth left-right spread and minimal vertical movement, matching the typical line-by-line reading pattern and resembling the READ example more than the other activities.",
+  "correct": true
+}

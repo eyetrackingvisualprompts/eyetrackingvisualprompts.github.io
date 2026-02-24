@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows mostly mid-screen, relatively narrow horizontal range and stable vertical band with occasional brief excursions, closely matching the WRITE example pattern of focused work area with limited scanning, unlike the broader exploratory movements seen in BROWSE or SEARCH.",
+  "correct": false
+}

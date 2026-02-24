@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points form two relatively stable horizontal bands with small regressions, located mid-screen and lower-screen, consistent with alternating attention between code and output/console typical for writing code, and closely matching the WRITE example scanpath pattern.",
+  "correct": false
+}

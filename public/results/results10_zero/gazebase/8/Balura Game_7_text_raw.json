@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show repeated long-amplitude jumps (\u224820\u201330\u00b0) to widely separated locations followed by clusters of low-variance samples consistent with 1-second fixations at each new position. This pattern of large, multidirectional position steps with stable plateaus matches the discrete, randomly moving target behavior of the Random Saccades task rather than the more constrained, patterned, or continuous motion seen in the other activities.",
+  "correct": false
+}

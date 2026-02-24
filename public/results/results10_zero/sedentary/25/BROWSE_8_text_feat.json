@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows many short horizontal saccades and medium-length fixations clustered along a narrow vertical band near the top/upper-left region, consistent with line-by-line reading of text rather than wide exploratory scanning, object tracking, code editing, or dynamic gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around screen center with moderate, irregular saccades in both axes and no strong directional drift, matching the browsing example pattern more closely than the other activities.",
+  "correct": false
+}

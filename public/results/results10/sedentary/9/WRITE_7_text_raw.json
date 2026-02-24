@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are densely clustered in a narrow horizontal band around y\u2248340\u2013370 with small regressions and local loops, consistent with monitoring and editing code in an IDE rather than long-line reading (READ) or broad vertical exploration (SEARCH/BROWSE). The pattern closely resembles the WRITE example: repeated fixations over a compact code area, occasional jumps to slightly different x-regions, and brief off-code excursions (large coordinates) likely from UI elements or transient loss, matching active code-writing behavior.",
+  "correct": true
+}

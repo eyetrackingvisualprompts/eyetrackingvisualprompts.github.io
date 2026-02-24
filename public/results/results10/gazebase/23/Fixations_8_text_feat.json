@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains clustered near the center with very small-amplitude saccades and multiple long fixations (often >1\u20132 s), matching the sustained central fixation pattern of the Fixations task rather than the larger, more distributed movements seen in the other activities.",
+  "correct": true
+}

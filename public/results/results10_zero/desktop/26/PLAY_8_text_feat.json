@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered near the screen center with short, frequent fixations and small-amplitude saccades, mainly within a compact region rather than extended horizontal sweeps or broad exploratory movements. This pattern aligns with monitoring and composing text in a word processor (WRITE) rather than line-by-line reading, web search/browsing, watching dynamic video content, or wide-range scanning during gameplay.",
+  "correct": false
+}

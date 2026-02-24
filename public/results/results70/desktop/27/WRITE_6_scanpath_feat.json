@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around the mid-right area with moderate dispersion and occasional larger saccades to other regions, matching the mixed scanning and localized reading pattern typical of browsing heterogeneous web pages rather than the more linear READ pattern or the more dynamic WATCH/PLAY patterns.",
+  "correct": false
+}

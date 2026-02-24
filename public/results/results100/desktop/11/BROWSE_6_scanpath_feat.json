@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are distributed across a wide central area with frequent transitions between upper and lower regions, indicating repeated shifts between results, input fields, and content typical of web search behavior rather than the more localized patterns of READ or WRITE.",
+  "correct": false
+}

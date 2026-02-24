@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between disparate screen regions (code/text-like mid screen, top URL/tool area, and bottom/right content), revisits to similar vertical bands, and irregular, exploratory scan paths with intermittent long fixations resemble the heterogeneous navigation patterns seen in the BROWSE examples more than the more structured, line-based or code-block-focused patterns of READ/WRITE/INTERPRET/DEBUG or the smooth object-tracking of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

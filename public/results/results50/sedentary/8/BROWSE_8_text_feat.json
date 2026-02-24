@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide spatial coverage including extremes, frequent long saccades between top, middle, and bottom regions, and revisits to dispersed areas resemble scanning SERP and result pages more than the more structured, line-based READ or code-centered INTERPRET/DEBUG/WRITE patterns or the object-following/game-like PLAY trajectories.",
+  "correct": false
+}

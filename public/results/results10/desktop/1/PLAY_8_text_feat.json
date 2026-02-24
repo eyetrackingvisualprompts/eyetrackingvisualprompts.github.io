@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow horizontal band with short, progressive saccades and medium-length fixations, indicating line-by-line scanning of text rather than the larger, more scattered movements seen in search, browse, play, or watch tasks.",
+  "correct": false
+}

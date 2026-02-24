@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a dense cluster on the left (likely text/results area) and several widely separated points across the screen, with long saccades to the right\u2014matching exploration of search results and external links rather than focused reading or coding.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts across a broad central area rather than structured line-by-line or block-based reading patterns. The movements are continuous and exploratory with frequent direction changes, consistent with tracking moving game elements or navigating in-game space, characteristic of the PLAY condition rather than code or text-focused tasks.",
+  "correct": false
+}

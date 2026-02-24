@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow lower-left code/console-like region with frequent short saccades between two nearby vertical bands (likely code and output/console) and occasional jumps to a higher line region, matching the fine-grained, local inspection-and-revision pattern seen in the WRITE example more than the broader scanning of DEBUG or the linewise horizontal sweeps of READ/BROWSE/SEARCH.",
+  "correct": false
+}

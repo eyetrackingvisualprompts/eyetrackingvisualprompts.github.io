@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a compact code-like region (~200\u2013350 x/y) with many short fixations and local saccades, interleaved with occasional large jumps to distant coordinates and back (e.g., 1600x, off-screen negatives), consistent with moving between code, console, and other IDE areas. This closely matches the DEBUG examples\u2019 pattern of intensive local inspection plus sporadic long relocations, rather than the more linear scanning of READ/BROWSE or the more global, dynamic movements of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

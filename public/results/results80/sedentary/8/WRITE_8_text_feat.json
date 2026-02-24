@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a relatively small central code/IDE region with many local regressions and revisits, interspersed with large vertical saccades to top/bottom UI areas (likely console, toolbar, or file tree). This pattern\u2014tight, repeated inspection of similar line ranges plus occasional long jumps to peripheral interface elements\u2014matches the WRITE examples and typical code editing behavior more than browsing, reading, search, or debugging patterns shown in the dataset.",
+  "correct": true
+}

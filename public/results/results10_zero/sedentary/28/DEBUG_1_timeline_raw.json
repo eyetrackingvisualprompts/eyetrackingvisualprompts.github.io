@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Long periods of stable horizontal gaze bands with occasional rapid shifts between distinct vertical regions suggest alternating focus between fixed code areas (editor, console, reference) rather than continuous left\u2011to\u2011right line scanning or tracking moving objects. This pattern matches structured programming work like implementing code in the WRITE task.",
+  "correct": false
+}

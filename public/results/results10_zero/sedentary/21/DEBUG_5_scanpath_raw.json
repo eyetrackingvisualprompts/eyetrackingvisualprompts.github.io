@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a relatively small central-left region with frequent short saccades and revisits, consistent with focused attention on a narrow code area in an IDE while typing, rather than the broader horizontal sweeps of reading/browsing or the wider movements typical of search, watch, or play tasks.",
+  "correct": false
+}

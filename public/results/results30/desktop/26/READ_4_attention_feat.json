@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are tightly clustered in a compact region slightly above screen center, resembling focused attention on a single search result or query area rather than the extended horizontal scanlines of reading or writing, and with less dispersion than typical browsing.",
+  "correct": false
+}

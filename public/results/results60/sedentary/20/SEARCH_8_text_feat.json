@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between top, middle, and bottom regions, repeated revisits to a central horizontal band, and occasional jumps to screen edges resemble scanning SERP and result pages rather than line-by-line reading or localized code inspection. The pattern closely matches the SEARCH exemplar with broad vertical navigation and irregular fixations across the page.",
+  "correct": true
+}

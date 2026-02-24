@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades across wide horizontal extents, repeated shifts between widely separated regions (top, bottom, and sides), and scanning of mid-page horizontal bands resemble navigation of long, scrollable web pages more than focused code regions (WRITE/DEBUG/INTERPRET) or tight reading lines (READ). The pattern matches the heterogeneous, exploratory gaze seen in the BROWSE examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster around a compact left-central area with frequent vertical and diagonal shifts, resembling focused inspection of code blocks and error locations, matching the DEBUG example more closely than the other tasks.",
+  "correct": false
+}

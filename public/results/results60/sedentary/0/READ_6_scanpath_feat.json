@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows ordered horizontal fixations stacked vertically, forming multiple text-like lines with mostly left-to-right sweeps and progressive downward movement, characteristic of reading behaviour rather than the less structured or wider-ranging patterns of browsing, searching, gaming, or coding tasks.",
+  "correct": true
+}

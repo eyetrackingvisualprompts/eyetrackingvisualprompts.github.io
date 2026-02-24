@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left-central area where code is typically displayed, with a horizontal band around mid\u2011screen and some attention to a secondary region on the right\u2014matching the debugging example heatmap more than the other tasks.",
+  "correct": false
+}

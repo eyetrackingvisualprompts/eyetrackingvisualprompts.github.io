@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right horizontal scan patterns with gradual downward drift and intermittent jumps, resembling scrolling and reading across varied web layouts, which best matches the browsing examples rather than the more uniform patterns of focused code or static text tasks.",
+  "correct": false
+}

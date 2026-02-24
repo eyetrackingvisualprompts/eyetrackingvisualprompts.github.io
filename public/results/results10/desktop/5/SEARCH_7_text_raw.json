@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large saccades between disparate regions (center, upper mid-screen, and near screen edges) with brief, unstable fixations, including several rapid jumps to extreme low y-values and back. This high dynamism and multidirectional pattern is most consistent with interactive game play, and closely resembles the variability and spatial spread seen in the PLAY example, rather than the more clustered, line-like, or vertically scroll-driven patterns of WRITE/READ/BROWSE/SEARCH or the smoother WATCH trajectories.",
+  "correct": false
+}

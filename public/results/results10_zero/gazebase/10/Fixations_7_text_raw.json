@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show many periods of relatively stable gaze (fixations) interspersed with abrupt multi-degree jumps in both horizontal and vertical directions, with positions distributed broadly across the visual field instead of along a single axis or tightly around a central point. This pattern matches a viewer following a target that moves to disparate screen locations and holds for about a second, as in the Random Saccades task, rather than the more constrained motion of horizontal saccades, sustained central fixations, structured reading scanpaths, or game/video-driven free viewing.",
+  "correct": false
+}

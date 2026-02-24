@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze trajectory is constrained to a narrow horizontal band with small, orderly saccades and fixations, matching the typical left-to-right scanning pattern of reading and resembling the READ example more than the other activities.",
+  "correct": true
+}

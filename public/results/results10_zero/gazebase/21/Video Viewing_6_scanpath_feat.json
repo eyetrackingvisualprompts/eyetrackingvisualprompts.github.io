@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixation locations are scattered within a compact region with no clear horizontal line (as in reading or horizontal saccades) and not concentrated at a single point (as in fixations). The pattern shows small, irregular steps between positions consistent with following a target that jumps unpredictably, matching the Random Saccades task.",
+  "correct": false
+}

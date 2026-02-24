@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form dense horizontal clusters around several y-levels with small left-right progressions and regressions, matching line-by-line reading behavior rather than larger object following or broad navigation seen in PLAY, WATCH, SEARCH, or BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between fixations of ~0.2\u20130.5 s and saccades with large, irregular jumps in both horizontal and vertical directions (e.g., from ~+13\u00b0 to -8\u00b0, then around various scattered positions), without a consistent horizontal pattern or tight clustering around center. This matches following a target that moves unpredictably across the screen rather than steady central fixation, structured horizontal tracking, or the denser, line-like scanpaths of reading or game/video viewing.",
+  "correct": false
+}

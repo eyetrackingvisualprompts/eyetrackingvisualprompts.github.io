@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with repeated short left-right saccades and local regressions, indicating line-by-line text reading rather than broader exploratory movements typical of search, browse, or play, or the larger shifts seen in watching video or writing.",
+  "correct": false
+}

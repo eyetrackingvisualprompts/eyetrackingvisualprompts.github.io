@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with predominantly left-to-right saccades and short regressions, characteristic of line-by-line reading rather than large exploratory jumps of SEARCH/BROWSE or wide spatial shifts in PLAY/WATCH/WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

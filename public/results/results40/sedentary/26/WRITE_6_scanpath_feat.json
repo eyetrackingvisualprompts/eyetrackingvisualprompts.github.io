@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations concentrated over the left-central code area with occasional long saccades to the right (likely console/output region) closely match the DEBUG example pattern and typical behavior when locating and fixing bugs and then checking results, rather than the more distributed or systematic scanpaths of other tasks.",
+  "correct": false
+}

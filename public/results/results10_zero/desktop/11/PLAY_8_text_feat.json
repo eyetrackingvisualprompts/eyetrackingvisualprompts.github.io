@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows relatively small to moderate saccades around the screen center with multiple long fixations (often >0.5\u20131.0s) and limited large directional shifts, consistent with focused reading of static text rather than the broader, more exploratory scanning typical of browsing/search, the dynamic wide movements of playing games, or the larger motion and character tracking expected when watching video.",
+  "correct": false
+}

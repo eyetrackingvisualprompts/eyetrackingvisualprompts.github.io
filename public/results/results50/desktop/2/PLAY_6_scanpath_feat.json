@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the screen center with moderate vertical spread and frequent revisits, resembling the mixed scanning of various elements on a webpage, which matches the browsing pattern more than the more systematic (READ/WRITE) or highly dynamic (PLAY/WATCH/SEARCH) examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows frequent short horizontal movements within a narrow vertical band, with occasional revisits to earlier positions\u2014consistent with scanning and re-checking lines of code during debugging, and most similar to the DEBUG example plot among the provided classes.",
+  "correct": false
+}

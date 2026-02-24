@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered in a small central area with little horizontal spread, similar to the BROWSE example heatmap and unlike the more horizontally distributed patterns seen in READ or the dispersed patterns in PLAY, SEARCH, WATCH, or WRITE.",
+  "correct": false
+}

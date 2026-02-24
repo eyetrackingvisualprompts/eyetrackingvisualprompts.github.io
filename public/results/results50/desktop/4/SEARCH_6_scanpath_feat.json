@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, rapid gaze shifts across large screen areas in multiple directions, with dispersed fixations rather than concentrated reading or browsing patterns. This broad, dynamic exploration is most consistent with visually tracking moving game elements, characteristic of the PLAY activity.",
+  "correct": false
+}

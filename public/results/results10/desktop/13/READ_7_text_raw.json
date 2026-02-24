@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow horizontal band around y\u22480.6 with very small, steady horizontal drifts and occasional short regressions, matching the stable, line-by-line fixation pattern seen in the READ examples rather than the larger, more scattered shifts characteristic of SEARCH or BROWSE.",
+  "correct": true
+}

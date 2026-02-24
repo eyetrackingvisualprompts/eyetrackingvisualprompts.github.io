@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations stay around mid-screen with modest horizontal drift and small vertical changes, resembling the mixed, moderate-movement pattern of browsing examples rather than the more structured horizontal scans of reading/searching or large-range motions of watching/playing.",
+  "correct": false
+}

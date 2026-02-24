@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a small upper-central region with very long, stable fixations and tiny corrective saccades, consistent with looking at a single area such as a text insertion point while typing. The pattern closely matches the WRITE example (tight cluster around ~x=0.1,y\u22480.8 there) rather than the broader scanning seen in SEARCH/BROWSE or horizontal progressions in READ/PLAY.",
+  "correct": false
+}

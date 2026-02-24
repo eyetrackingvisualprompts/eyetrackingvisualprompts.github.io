@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide screen regions (including rapid jumps between top, middle, and bottom, and extremes in x and y), interspersed with relatively short fixations, indicative of continuous spatial monitoring and reactive shifts typical of game play rather than the more structured, row-like scanning of reading/writing or the more clustered mid-screen behavior of browsing/searching/watching video.",
+  "correct": true
+}

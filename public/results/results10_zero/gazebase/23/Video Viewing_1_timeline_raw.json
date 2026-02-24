@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shows discrete, step-like shifts to various positions across both horizontal (\u00b115\u00b0) and vertical (\u00b110\u201315\u00b0) axes, with intervals of relative stability between moves and no consistent left-right pattern, matching a target that jumps to random screen locations rather than fixed horizontal tracking, central fixation, reading, or game/video behavior.",
+  "correct": false
+}

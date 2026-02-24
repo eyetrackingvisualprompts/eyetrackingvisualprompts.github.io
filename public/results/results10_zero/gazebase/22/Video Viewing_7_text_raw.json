@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show large, abrupt gaze shifts spanning wide horizontal and vertical ranges (up to ~\u00b118\u00b0 horizontally and ~\u00b115\u00b0 vertically), followed by ~1-second clusters of relatively stable points around successive locations. This pattern of multi-directional, sizeable jumps with brief holds matches a target moving unpredictably across the screen, consistent with Random Saccades rather than the strictly horizontal motion, central fixation, or more localized patterns expected for the other activities.",
+  "correct": false
+}

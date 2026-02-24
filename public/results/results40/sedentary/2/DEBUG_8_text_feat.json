@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, localized fixations around a narrow band (y\u2248430\u2013540) with repeated small saccades and occasional jumps to toolbar/menu regions resemble code editing behavior, matching the WRITE pattern more than the broader exploratory or vertical scanning seen in READ, SEARCH, or BROWSE.",
+  "correct": false
+}

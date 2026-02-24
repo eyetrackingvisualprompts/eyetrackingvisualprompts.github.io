@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered in a compact code-like region with repeated short saccades between nearby lines and moderate-length fixations, characteristic of focused work in an IDE (editing/implementing code) rather than broader navigation or media viewing patterns seen in other classes.",
+  "correct": false
+}

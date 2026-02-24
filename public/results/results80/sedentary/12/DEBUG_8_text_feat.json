@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code/text region with many short saccades and long re\u2011fixations on nearly the same coordinates, oscillating between a few vertical positions\u2014matching interpret/debug-style code inspection more than broad scanning (SEARCH/BROWSE) or horizontal reading (READ). The pattern closely resembles the INTERPRET example\u2019s dense, localized, back-and-forth fixations without the wider exploratory sweeps and far-off-screen jumps typical of DEBUG or SEARCH.",
+  "correct": false
+}

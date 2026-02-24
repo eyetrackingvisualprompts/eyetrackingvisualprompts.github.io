@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated long rightward sweeps in X with relatively shallow, slowly drifting Y across the page, plus occasional larger vertical jumps\u2014matching the mixed scanning and paragraph-level navigation seen in the BROWSE example rather than the more structured patterns of READ or the more localized patterns of coding tasks.",
+  "correct": false
+}

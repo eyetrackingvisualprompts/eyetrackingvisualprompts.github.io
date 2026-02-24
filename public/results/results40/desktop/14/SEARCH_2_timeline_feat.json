@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The fixation patterns show a gradual left-to-right drift in X with predominantly high Y positions in the first half, then a shift to mid-lower Y with shorter horizontal spans, resembling typing and occasional checks near the top\u2014matching the WRITE example more than the other activities.",
+  "correct": false
+}

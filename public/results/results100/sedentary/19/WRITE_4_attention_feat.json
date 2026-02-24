@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered over a compact left-center code region with minor fixations elsewhere, closely matching the WRITE example heatmap and indicating focused typing on a single code area rather than broader exploration or reading.",
+  "correct": true
+}

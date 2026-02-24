@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The fixations are concentrated around the central horizontal area with some spread, resembling tracking a game object near the screen center, matching the PLAY example heatmap distribution more closely than the other tasks.",
+  "correct": true
+}

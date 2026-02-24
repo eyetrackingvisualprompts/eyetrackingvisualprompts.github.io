@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "Fixations are spread across a broad central-to-right region with varying vertical positions and no strict grid or horizontal-only pattern, resembling the dispersed yet structured gaze behavior seen during natural video viewing rather than the more constrained patterns of the other tasks.",
+  "correct": false
+}

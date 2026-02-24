@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows a small set of relatively stable fixations with limited horizontal movement and almost no vertical progression, consistent with passively watching a central region of a video rather than the systematic left-to-right/top-to-bottom patterns typical of reading, searching, coding, or gameplay tracking of moving objects.",
+  "correct": false
+}

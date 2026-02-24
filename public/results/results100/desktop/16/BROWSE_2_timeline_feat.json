@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium dispersion with frequent vertical and horizontal shifts and varied fixation locations, resembling the mixed reading-and-navigation pattern of search result pages, which matches the SEARCH example more than the more stable READ or the denser BROWSE patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixation traces are relatively stable with low vertical position and limited range of motion, resembling the focused, localized gaze pattern over a text-entry area seen in the WRITE example, rather than the broader or more exploratory movements in READ, BROWSE, SEARCH, WATCH, or PLAY.",
+  "correct": false
+}

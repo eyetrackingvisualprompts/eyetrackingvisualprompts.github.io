@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations show continuous small-to-moderate shifts in mid-screen regions with no strong line-by-line horizontal scanning or extreme movements; this mixed, exploratory pattern with frequent position updates closely matches the browsing example more than the other activities.",
+  "correct": false
+}

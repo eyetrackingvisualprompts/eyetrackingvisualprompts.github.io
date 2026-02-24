@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense cluster of fixations around a limited central code/text region with many short regressions and revisits, relatively small vertical span, and occasional large jumps to top areas resemble the INTERPRET examples more than the broader, more exploratory patterns seen in SEARCH/BROWSE or the more line-structured patterns in READ/WRITE/DEBUG.",
+  "correct": false
+}

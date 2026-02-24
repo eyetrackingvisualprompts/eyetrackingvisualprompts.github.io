@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, frequent saccades across large vertical and horizontal extents, with relatively short fixations clustered around disparate screen regions (upper, middle, and especially lower/right areas), and repeated quick shifts between these zones. This wide, dynamic scanning pattern is more consistent with visually tracking game elements and UI regions during gameplay than with the more linear, localized patterns expected in reading, writing, debugging, or interpreting code.",
+  "correct": false
+}

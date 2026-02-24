@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent long saccades between far left and far right code regions (likely editor and console), interleaved with medium-duration fixations clustered around a horizontal band, closely matches the WRITE example\u2019s pattern of alternating between typing/output areas and specific code lines rather than the more exploratory SEARCH/BROWSE or object-following PLAY patterns.",
+  "correct": true
+}

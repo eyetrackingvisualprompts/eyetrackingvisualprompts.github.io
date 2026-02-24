@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread across the whole screen with many long horizontal and vertical saccades, including to the very top region (likely tabs/search bar) and varied clusters, matching the heterogeneous, exploratory pattern typical of general web browsing rather than more localized or structured tasks like reading, coding, or watching video.",
+  "correct": false
+}

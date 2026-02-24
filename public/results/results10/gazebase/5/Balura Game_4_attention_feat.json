@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows many dispersed fixation clusters across both horizontal and vertical extents without a clear linear or central pattern, matching the wide, scattered distribution expected from following a randomly moving target in the Random Saccades task rather than the more localized or structured patterns of the other activities.",
+  "correct": false
+}

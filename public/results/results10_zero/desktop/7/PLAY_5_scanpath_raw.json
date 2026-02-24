@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is confined to a small central region with short, irregular movements and no clear horizontal reading lines or structured vertical scanning typical of text-based tasks. This localized, somewhat jittery pattern is more consistent with passively watching dynamic content near the screen center than with the broader, directional exploration seen in PLAY, SEARCH, or BROWSE.",
+  "correct": false
+}

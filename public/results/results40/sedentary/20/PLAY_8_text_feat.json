@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The data shows very long saccades across large screen regions, extended smooth movements (multi\u2011second saccades) with brief fixations, and no clear line\u2011by\u2011line or code\u2011block structure. This pattern of broad, continuous visual scanning aligns best with watching dynamic video content rather than text- or code-centric tasks or goal-directed web search/browsing.",
+  "correct": false
+}

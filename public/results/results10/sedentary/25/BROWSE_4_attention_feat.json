@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Strong, dense fixation cluster at the top-left (likely code editor area for writing), with additional fixations along the upper band and a few mid-screen checks, closely matching the WRITE example\u2019s distribution over editor and auxiliary UI rather than the more centralized or dispersed patterns of other tasks.",
+  "correct": false
+}

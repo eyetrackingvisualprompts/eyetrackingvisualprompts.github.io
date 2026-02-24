@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in the central-upper area with frequent medium-range saccades between nearby regions, resembling interaction with search results and SERP elements, and matching the example SEARCH pattern more than the other activities.",
+  "correct": false
+}

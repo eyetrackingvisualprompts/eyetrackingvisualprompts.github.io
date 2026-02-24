@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is densely clustered over a compact left-side code area with repeated vertical and local horizontal movements, plus occasional long saccades (likely to console or other panes), matching the focused yet exploratory pattern typical of debugging code rather than reading, browsing, or writing.",
+  "correct": false
+}

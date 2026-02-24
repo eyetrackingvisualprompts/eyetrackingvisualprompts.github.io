@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the top of the screen with a strong cluster in the upper-left and additional clusters along the top row, matching typical gaze on a search engine results page (query box and top results) rather than the more centralized or vertically structured patterns of reading, coding, or gameplay.",
+  "correct": true
+}

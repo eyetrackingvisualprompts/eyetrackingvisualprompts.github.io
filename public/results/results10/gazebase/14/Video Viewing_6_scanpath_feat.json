@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The scanpath shows multiple clustered fixations with moderate, irregular saccades across a limited region of the screen, without the structured horizontal lines of reading, the large bidirectional sweeps of horizontal saccades, or the large-amplitude random jumps of random saccades/Balura. This pattern best matches natural, free-viewing behavior during video watching.",
+  "correct": true
+}

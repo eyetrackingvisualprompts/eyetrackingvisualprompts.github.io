@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are densely clustered in a horizontal band in the lower half of the screen with many short, small-amplitude regressions and stepwise progressions, closely matching the sustained, line-based reading pattern seen in the READ example, rather than the more scattered or task-focal patterns of coding, games, or web search/browse.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated in a small central region with a vertical spread and some scattered points, resembling focused tracking of a game character with occasional saccades, which aligns more with the PLAY pattern than with the more horizontal, text-like patterns of READ/WRITE or the broader distributions of SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows steady rightward X progression with occasional jumps back and varying Y levels, indicating scrolling and shifting between content regions typical of free web browsing rather than the more uniform line-by-line pattern of reading or the localized patterns of coding tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The data shows many long fixations (several >1s, one >5s) interspersed with large-amplitude saccades across widely separated screen regions, indicating sustained viewing of dynamic content rather than systematic reading, code inspection, or search. This spatio-temporal pattern best matches the WATCH examples, which feature extended fixations with occasional large shifts following motion in video scenes.",
+  "correct": true
+}

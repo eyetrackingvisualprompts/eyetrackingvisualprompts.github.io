@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is clustered around mid-horizontal, upper-to-middle vertical regions with frequent medium-to-long saccades and variable amplitudes, including large vertical jumps (e.g., 0.22\u21920.54, 0.51\u21920.33\u21920.60) and irregular timing. This pattern resembles visually tracking dynamic game elements more than the systematic horizontal scanning of READ/BROWSE or the near-top text-band focus of WRITE/SEARCH/WATCH. The heterogenous, exploratory movements best match the PLAY examples.",
+  "correct": false
+}

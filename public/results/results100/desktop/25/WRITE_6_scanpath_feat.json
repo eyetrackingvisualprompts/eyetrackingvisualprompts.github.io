@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around the screen center with multi-directional saccades and moderate vertical spread, resembling the exploratory, non-linear scanpath seen in the BROWSE example more than the more structured patterns of READ or WRITE or the wider-ranging movements of PLAY, SEARCH, or WATCH.",
+  "correct": false
+}

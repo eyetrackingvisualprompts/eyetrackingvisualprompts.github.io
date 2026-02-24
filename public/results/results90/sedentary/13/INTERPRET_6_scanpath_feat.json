@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small left-central region with occasional short excursions, matching focused inspection of a single code snippet as in the INTERPRET examples rather than the broader spread seen in WRITE or DEBUG.",
+  "correct": true
+}

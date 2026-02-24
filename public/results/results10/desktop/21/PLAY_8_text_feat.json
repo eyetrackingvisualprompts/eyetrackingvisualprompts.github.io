@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze stays within a mid-screen band with medium-length fixations and frequent medium-amplitude multidirectional saccades, similar to the BROWSE example\u2019s mixed vertical and horizontal movements, and less like the more static WATCH/WRITE or the more structured horizontal READ patterns.",
+  "correct": false
+}

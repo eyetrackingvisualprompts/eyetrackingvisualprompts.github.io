@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades between widely separated screen regions (including off-screen coordinates), interleaved with many shorter fixations in the upper-left content area, resemble exploratory, non-linear scanning of a web page rather than structured line-by-line reading or code-related tasks. The pattern matches the heterogeneous, wide-range gaze behavior seen in the BROWSE examples.",
+  "correct": false
+}

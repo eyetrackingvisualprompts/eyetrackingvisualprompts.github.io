@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated long saccades between upper and lower screen regions (e.g., around y\u22480.2\u20130.3 and y\u22480.7\u20130.9) with intermediate fixations, consistent with scanning search results and then jumping to query box or other interface elements, which matches the SEARCH pattern more than the steadier horizontal line movements of READ or the more central, stable focus of WATCH/BROWSE.",
+  "correct": true
+}

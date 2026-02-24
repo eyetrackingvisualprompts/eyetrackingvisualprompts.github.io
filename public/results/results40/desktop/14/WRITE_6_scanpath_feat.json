@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a central region with moderate horizontal and vertical movements and frequent revisits to nearby locations, resembling the mixed scanning and localized fixations seen in the BROWSE example more than the more linear READ/WRITE or widely dispersed PLAY/WATCH patterns.",
+  "correct": false
+}

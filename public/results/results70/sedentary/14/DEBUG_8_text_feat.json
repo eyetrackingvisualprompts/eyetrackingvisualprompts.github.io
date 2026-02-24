@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact central region with many long fixations and short local saccades over similar coordinates, consistent with repeatedly inspecting and editing small code areas rather than line-by-line reading (READ) or wide exploratory movements (BROWSE/SEARCH). The pattern closely matches the spatial scale and dynamics seen in the WRITE example, especially dense, code-window\u2013sized clusters and frequent returns between a few vertical positions, indicative of writing/editing code in an IDE.",
+  "correct": false
+}

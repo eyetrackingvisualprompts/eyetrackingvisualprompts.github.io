@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small left-central region with limited horizontal spread, consistent with focusing on a compact code editor area while typing, rather than scanning wider areas as in SEARCH/BROWSE/READ or tracking motion as in WATCH/PLAY.",
+  "correct": false
+}

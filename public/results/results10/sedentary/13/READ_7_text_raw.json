@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show systematic, tightly clustered horizontal movements with gradual downward shifts and revisits within a compact vertical band\u2014characteristic of line-by-line text reading rather than the larger jumps, dispersed clusters, or dynamic object following seen in other tasks.",
+  "correct": true
+}

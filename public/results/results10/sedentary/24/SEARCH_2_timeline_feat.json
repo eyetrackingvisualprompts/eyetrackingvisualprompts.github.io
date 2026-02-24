@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a predominantly monotonic progression in the horizontal (X) direction with relatively stable vertical (Y) position, matching the line-by-line scanning pattern of sustained reading and closely resembling the READ example plot more than the other task patterns.",
+  "correct": false
+}

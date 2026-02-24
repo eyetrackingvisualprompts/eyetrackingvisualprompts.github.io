@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium horizontal movement with several larger vertical shifts and scattered saccades across the screen, resembling alternating focus between central results and other page areas, which matches the SEARCH pattern more than the more localized READ/WRITE or highly dynamic PLAY/BROWSE examples.",
+  "correct": true
+}

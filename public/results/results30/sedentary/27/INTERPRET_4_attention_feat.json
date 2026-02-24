@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in a compact region on the left side where a code editor would be, with little spread across the rest of the screen, matching the focused, localized pattern seen in the WRITE example more than other activities.",
+  "correct": false
+}

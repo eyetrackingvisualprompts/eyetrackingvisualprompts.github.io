@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a narrow vertical strip on the left side, consistent with focusing on a small code editor area while typing, similar to the WRITE example and less spread than debugging or browsing patterns.",
+  "correct": false
+}

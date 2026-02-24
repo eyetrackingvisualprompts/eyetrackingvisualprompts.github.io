@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a compact area slightly above and below screen center, similar to focusing on a search result region rather than the broader vertical spread of browsing or the horizontal scanlines of reading/writing; this pattern best matches the SEARCH example heatmap.",
+  "correct": false
+}

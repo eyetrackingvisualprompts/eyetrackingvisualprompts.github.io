@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between multiple vertical regions (top toolbar-like coordinates, mid-page text-like bands around y\u2248360\u2013420, and lower areas around y\u2248750\u2013780), with several large jumps and off-center excursions, matching the multi-section scanning and navigation typical of free web browsing rather than the more localized, line-by-line patterns of reading or code-related tasks.",
+  "correct": false
+}

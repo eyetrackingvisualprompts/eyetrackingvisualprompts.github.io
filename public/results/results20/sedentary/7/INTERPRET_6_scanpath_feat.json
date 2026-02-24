@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly clustered over a narrow code region with repeated revisits, but includes several large vertical shifts to lower areas (likely console/output or other code sections), consistent with scanning for and verifying fixes rather than steady reading or free browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a compact central region with short-to-medium fixations (~0.3\u20130.7s) and small horizontal/vertical saccades, consistent with reading localized text rather than the broader, larger-amplitude scanning typical of search, browsing, or gameplay, or the more dynamic, wider movements common in video watching.",
+  "correct": false
+}

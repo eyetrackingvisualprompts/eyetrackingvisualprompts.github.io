@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains clustered in a small central-upper region with long, stable fixations and only short, small-amplitude saccades, indicating sustained attention to a relatively static central area (e.g., main character region or subtitle zone) rather than the systematic line-by-line scanning of READ or the larger exploratory/interactive patterns typical of BROWSE, SEARCH, WRITE, or PLAY. WATCH best matches this stationary, centrally focused pattern.",
+  "correct": false
+}

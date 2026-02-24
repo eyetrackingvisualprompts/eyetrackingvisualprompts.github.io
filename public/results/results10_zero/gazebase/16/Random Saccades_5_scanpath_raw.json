@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular movements in both horizontal and vertical directions with widely separated fixation clusters and no clear repetitive horizontal pattern (as in Horizontal Saccades) or organized line-by-line structure (as in Reading). The trajectory is consistent with following a target that jumps unpredictably across the screen, matching the Random Saccades task.",
+  "correct": true
+}

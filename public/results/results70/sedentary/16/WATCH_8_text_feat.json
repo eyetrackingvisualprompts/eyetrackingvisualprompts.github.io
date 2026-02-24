@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, smooth shifts across wide screen regions, many long fixations, and repeated returns to central/salient areas without the structured line-based or code-panel scanning typical of READ/WRITE/DEBUG/INTERPRET/SEARCH. The broad spatial coverage, including upper, lower, and lateral extremes, and long sweep saccades are characteristic of passively following dynamic visual content, matching the WATCH pattern.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal scanning with frequent shifts between a mid-to-upper horizontal band and a lower band, plus intermittent larger vertical saccades\u2014indicative of alternating attention between search results, snippets, and other page elements rather than the more regular line-by-line pattern of READ or the focused, low-variance patterns of coding tasks (WRITE/INTERPRET/DEBUG).",
+  "correct": false
+}

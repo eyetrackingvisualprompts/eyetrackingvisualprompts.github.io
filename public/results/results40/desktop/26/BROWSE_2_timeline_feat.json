@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation trajectories are mid-screen with moderate, irregular vertical shifts and mixed saccades, closely matching the browsing example pattern rather than the more top-bottom separation of WRITE or the structured horizontal/vertical sweeps of READ, SEARCH, WATCH, or PLAY.",
+  "correct": true
+}

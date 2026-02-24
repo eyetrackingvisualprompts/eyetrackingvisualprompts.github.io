@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are spread widely across the central screen area with frequent large saccades and no clear horizontal line structure, indicating dynamic visual following typical of watching a video rather than text- or code-centered tasks.",
+  "correct": false
+}

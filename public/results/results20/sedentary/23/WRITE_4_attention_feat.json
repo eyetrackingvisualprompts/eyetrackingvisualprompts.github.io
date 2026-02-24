@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated on the left side where code would appear, with multiple vertically distributed clusters and some occasional looks elsewhere, closely matching the INTERPRET example pattern of scanning through a code snippet to reason about its output rather than the tighter clusters of WRITE/DEBUG or broader spread of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

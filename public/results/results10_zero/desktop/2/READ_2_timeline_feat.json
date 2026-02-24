@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows stepwise horizontal shifts with relatively small vertical changes, forming a pattern of line-by-line progression with occasional large vertical saccades that resemble moving from the end of one text block back to the start of the next, which is characteristic of reading rather than the more scattered or wide-ranging movements seen in search, browse, watch, write, or play tasks.",
+  "correct": true
+}

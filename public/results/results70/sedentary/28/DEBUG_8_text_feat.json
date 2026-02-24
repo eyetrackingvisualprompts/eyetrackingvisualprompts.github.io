@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations clustered around code-like coordinate regions with many short revisits and local back-and-forth checks, interspersed with occasional large saccades to distant areas (likely console, errors, or other UI elements), matches the intensive, non-linear inspection and verification behavior characteristic of debugging rather than linear reading, free browsing, or gameplay.",
+  "correct": true
+}

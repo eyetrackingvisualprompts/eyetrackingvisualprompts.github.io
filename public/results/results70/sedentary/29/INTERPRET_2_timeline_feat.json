@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze stays mostly within a narrow horizontal band with small, systematic vertical shifts and moderate saccades, characteristic of reading short code and reasoning over it. This pattern closely matches the INTERPRET example and differs from the more dispersed movements in SEARCH/BROWSE, the stable WRITE pattern, and the dynamic WATCH/PLAY behaviors.",
+  "correct": true
+}

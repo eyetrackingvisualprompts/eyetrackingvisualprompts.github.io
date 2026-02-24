@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long, localized fixations with repeated small regressions around a tight vertical band of coordinates, minimal large-scale scanning, and occasional shifts to nearby regions match the focused code inspection and mental simulation typical of INTERPRET, rather than the broader spatial exploration seen in browsing, reading prose, or playing/watching content.",
+  "correct": false
+}

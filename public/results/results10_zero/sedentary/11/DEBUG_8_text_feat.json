@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Very long, smooth saccades with sparse short fixations and little structured back-and-forth suggest continuous tracking of changing visual content rather than line-based reading, code inspection, or search; this pattern aligns best with watching dynamic video stimuli.",
+  "correct": false
+}

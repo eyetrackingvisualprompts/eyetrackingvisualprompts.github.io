@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze stays mostly within a constrained vertical band typical of code viewing, with periods of relatively stable horizontal fixations and occasional downward/return sweeps plus a brief excursion suggesting checking output or another panel\u2014patterns most consistent with debugging behavior compared to the more uniform interpret/write or more scattered browse/search/play/watch examples.",
+  "correct": false
+}

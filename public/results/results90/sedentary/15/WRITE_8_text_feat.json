@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between a central horizontal band (likely search results) and various off-content regions (near top and bottom, including negative and very large coordinates), with frequent medium-length fixations and scattered revisits, matching exploratory scanning and result checking typical of search-engine use rather than the more structured line-by-line patterns of READ/WRITE/DEBUG or the large, dynamic object-tracking of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

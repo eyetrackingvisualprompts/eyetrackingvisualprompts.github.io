@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are confined to a compact central region with short, local saccades and no strong horizontal line structure (reading) or wide exploratory spread (search/watch/play). This clustered mid-screen behavior best matches browsing patterns in the examples.",
+  "correct": false
+}

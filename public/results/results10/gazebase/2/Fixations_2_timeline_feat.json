@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y fixation traces stay nearly constant around the center with no large saccadic jumps, matching the pattern of sustained gaze on a static central target seen in the Fixations example.",
+  "correct": true
+}

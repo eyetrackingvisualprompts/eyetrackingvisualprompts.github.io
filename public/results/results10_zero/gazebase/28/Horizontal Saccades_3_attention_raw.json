@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two strong fixation clusters at similar vertical positions but far apart horizontally, with a continuous horizontal transition band between them, consistent with repeated large-amplitude left-right eye movements elicited by a horizontally moving target.",
+  "correct": true
+}

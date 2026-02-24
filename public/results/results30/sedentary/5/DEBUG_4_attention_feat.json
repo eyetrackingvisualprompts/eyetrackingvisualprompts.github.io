@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated in a compact region in the upper-left code area with minimal horizontal spread, closely matching the INTERPRET example heatmap and indicating focused inspection of a small code snippet rather than extended writing, reading, or browsing.",
+  "correct": false
+}

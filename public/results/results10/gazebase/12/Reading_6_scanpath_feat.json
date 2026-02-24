@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Balura Game",
+  "reason": "Gaze points are clustered in several vertical regions with large, fast transitions between them, indicative of chasing multiple moving targets across the screen rather than line-by-line horizontal sweeps (reading) or stimulus-locked jumps (horizontal/random saccades); this pattern best matches the dynamic, target-based fixations of the Balura Game.",
+  "correct": false
+}

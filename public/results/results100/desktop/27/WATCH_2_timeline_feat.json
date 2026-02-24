@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal and vertical exploration with frequent shifts between mid and upper screen regions, resembling the SEARCH example more than the more stable READ/WRITE patterns or the highly variable BROWSE/PLAY behaviors.",
+  "correct": false
+}

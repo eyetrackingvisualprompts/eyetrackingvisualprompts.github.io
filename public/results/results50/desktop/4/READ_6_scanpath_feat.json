@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band with minimal vertical spread, resembling a single text line region; this localized, stable pattern best matches focused reading behavior compared with the broader, more scattered scanpaths of browsing, searching, watching, playing, or writing.",
+  "correct": true
+}

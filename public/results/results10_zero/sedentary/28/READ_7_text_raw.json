@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form dense, horizontally clustered bands with gradual rightward drift and occasional vertical shifts, consistent with line-by-line text reading rather than large scene shifts (WATCH/PLAY) or scattered exploratory patterns (BROWSE/SEARCH/DEBUG/WRITE).",
+  "correct": true
+}

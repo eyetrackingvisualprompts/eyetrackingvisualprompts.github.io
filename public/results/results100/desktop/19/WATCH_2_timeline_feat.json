@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows relatively stable, mid-screen X fixations with gradual drifts and moderate Y movements concentrated in a lower vertical band, closely matching the WRITE template pattern and differing from the more scattered or vertically wider ranges seen in BROWSE, SEARCH, or WATCH.",
+  "correct": false
+}

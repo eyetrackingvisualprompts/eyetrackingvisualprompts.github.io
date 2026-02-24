@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are scattered over a moderately central vertical band with multiple local clusters at different heights, indicating alternating attention between text snippets, results, and interface elements, which best matches the SEARCH pattern compared to the more linear READ/WRITE or more peripheral PLAY/WATCH examples.",
+  "correct": false
+}

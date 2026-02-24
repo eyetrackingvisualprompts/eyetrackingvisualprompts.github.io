@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large vertical saccades between mid and upper/lower screen regions, many short fixations around different vertical levels, and occasional long saccades toward screen top (\u2248y\u22640.2) fit scanning SERP and result pages better than the more line-structured READ patterns or peripheral-heavy WATCH/PLAY; the pattern closely resembles the provided SEARCH example dynamics.",
+  "correct": false
+}

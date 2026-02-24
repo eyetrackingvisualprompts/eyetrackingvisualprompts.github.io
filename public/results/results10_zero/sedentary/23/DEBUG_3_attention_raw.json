@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a small, mid-left region of the screen with minimal horizontal progression, suggesting focused inspection of a compact code snippet rather than extended reading, browsing, or dynamic tracking, which aligns best with interpreting a code fragment.",
+  "correct": false
+}

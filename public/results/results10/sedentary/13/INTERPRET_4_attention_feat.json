@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in the lower-left code area with little spread elsewhere, matching the focused, localized viewing pattern seen in the DEBUG example heatmap more than the broader or more distributed patterns of other tasks.",
+  "correct": false
+}

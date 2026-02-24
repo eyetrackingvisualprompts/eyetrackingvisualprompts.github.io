@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, repetitive horizontal scan patterns with steadily increasing Y-position over time, matching line-by-line reading behavior seen in the READ example and unlike the more irregular or multi-directional patterns of other activities.",
+  "correct": true
+}

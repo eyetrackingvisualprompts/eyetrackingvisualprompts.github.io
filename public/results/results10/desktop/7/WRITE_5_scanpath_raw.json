@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows dense, localized movements with frequent small saccades and revisits within a confined lower-central region, resembling the complex, back-and-forth gaze behavior seen in the WRITE example (switching between text, cursor, and UI) more than the more linear patterns of READ or the broader exploratory patterns of PLAY/SEARCH/BROWSE/WATCH.",
+  "correct": true
+}

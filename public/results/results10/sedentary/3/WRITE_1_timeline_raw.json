@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is mostly clustered near the screen center with small horizontal movements and occasional large vertical saccades, closely matching the INTERPRET example pattern of focused code inspection with sporadic line jumps rather than the broader scanning of SEARCH/BROWSE or continuous shifts of PLAY/WATCH.",
+  "correct": false
+}

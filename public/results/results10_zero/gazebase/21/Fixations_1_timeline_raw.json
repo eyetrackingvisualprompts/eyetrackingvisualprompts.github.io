@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains essentially at the center with minimal variation in both X and Y over the full 10 s window, apart from a brief artifact-like vertical spike, indicating sustained fixation on a static target rather than systematic horizontal movements, reading patterns, random large saccades, or dynamic viewing/game behavior.",
+  "correct": true
+}

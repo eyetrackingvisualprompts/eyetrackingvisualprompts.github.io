@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and short saccades clustered around a narrow vertical band in the lower\u2011middle of the screen (\u2248x 230\u2013560, y 450\u2013580) with repeated revisits to slightly different y-levels and intermittent jumps to the upper code area (y\u2248170\u2013300) match the fine\u2011grained, line-by-line inspection around the text cursor seen in the WRITE examples, rather than the broader scanning or object-tracking patterns of other tasks.",
+  "correct": false
+}

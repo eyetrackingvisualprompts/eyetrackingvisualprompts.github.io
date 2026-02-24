@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is dominated by long horizontal scanpaths around a mid-screen band (y\u2248250\u2013400 and y\u2248540\u2013700) with slow, repeated passes and small regressions, resembling reading and skimming across wide web layouts. There are occasional large jumps to screen edges/top (likely to UI elements or new content) and then back to the same horizontal bands, matching the sustained, banded, scroll-and-skim behavior seen in the BROWSE example more than the tighter line-wise structure of READ or the more localized code-centric patterns of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

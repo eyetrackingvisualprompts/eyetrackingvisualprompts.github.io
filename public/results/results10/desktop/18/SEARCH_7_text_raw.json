@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-size saccades and shifts across different vertical levels in the lower-to-middle screen region, with many short, stable dwells\u2014indicative of tracking dynamic stimuli (e.g., a character or elements in a game) rather than the systematic horizontal scan lines of reading or the more top-focused search/browse patterns. This spatiotemporal pattern aligns best with PLAY among the given classes.",
+  "correct": false
+}

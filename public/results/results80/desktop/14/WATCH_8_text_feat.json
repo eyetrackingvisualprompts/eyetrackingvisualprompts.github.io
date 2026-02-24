@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts across wide screen regions (center to corners, bottom to top), with many vertical and diagonal saccades and variable fixation locations, matching dynamic, omnidirectional visual exploration typical for game play rather than the more constrained, strip-like patterns of reading, writing, or web browsing/searching, or the stable band near the top seen in video watching.",
+  "correct": false
+}

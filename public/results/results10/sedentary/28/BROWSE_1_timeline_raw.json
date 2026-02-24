@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays mostly in a central horizontal band with moderate lateral movement and occasional sharp vertical spikes, matching the focused, code-editing pattern seen in the WRITE example rather than the larger explorations of SEARCH/BROWSE or the more distributed motion of WATCH/PLAY.",
+  "correct": false
+}

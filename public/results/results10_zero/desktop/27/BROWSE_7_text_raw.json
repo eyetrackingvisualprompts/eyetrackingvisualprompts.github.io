@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show predominantly horizontal movements with relatively small vertical shifts and extended periods of localized fixation, consistent with line-by-line text reading rather than rapid multidirectional scanning (search/browse/play) or large-area shifts typical for video watching or game playing.",
+  "correct": false
+}

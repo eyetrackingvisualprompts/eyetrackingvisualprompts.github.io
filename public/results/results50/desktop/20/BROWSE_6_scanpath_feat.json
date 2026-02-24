@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are distributed over a moderately wide central area with frequent shifts among nearby regions, resembling the exploratory yet text-focused pattern seen in the BROWSE example rather than the tighter horizontal bands of READ/WRITE or the more dispersed dynamics of WATCH/PLAY/SEARCH.",
+  "correct": true
+}

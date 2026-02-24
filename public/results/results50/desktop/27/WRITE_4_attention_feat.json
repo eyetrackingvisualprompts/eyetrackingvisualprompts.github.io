@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central-lower area with limited horizontal spread, matching the compact, mid-screen focus seen in the BROWSE example rather than the more elongated patterns of READ/WRITE or dispersed patterns of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

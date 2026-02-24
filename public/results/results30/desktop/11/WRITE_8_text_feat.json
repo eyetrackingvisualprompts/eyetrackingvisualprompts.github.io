@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is often in the upper screen region (y\u22480.8\u20131.1), with long fixations and smooth, relatively slow shifts among a few clustered locations\u2014matching tracking of dynamic video content rather than the denser, shorter-line, horizontally progressive patterns of reading/searching or the more erratic, goal-directed shifts seen in play/browse/write. The spatial pattern and fixation durations are highly similar to the WATCH example segment near the screen top with subtitle/character areas.",
+  "correct": false
+}

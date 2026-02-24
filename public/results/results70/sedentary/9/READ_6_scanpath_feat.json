@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows structured, horizontal left-to-right sweeps in stacked bands with occasional vertical returns, closely matching the serial line-by-line gaze pattern seen in the READ example and unlike the more scattered or wide-ranging patterns of other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to the upper-left code area with repeated back-and-forth fixations over a small vertical band, including revisits between two main y-levels (~270 and ~320) and occasional jumps to a lower block (~500s), matching systematic line re-checking and local context switching typical of debugging rather than the more linear scans of reading/interpreting or wider exploration of browsing/searching.",
+  "correct": false
+}

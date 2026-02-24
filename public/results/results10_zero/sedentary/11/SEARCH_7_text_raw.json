@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves broadly across the screen with large vertical and horizontal shifts, including to extreme corners, without the tight line-by-line structure of reading or the localized clusters typical of coding/debugging. The pattern matches following dynamic, full-screen visual content, consistent with watching a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several long horizontal fixations at different vertical levels, with periodic vertical shifts and moderate saccades, closely matching the SEARCH example pattern of scanning search results and moving between result list and other page areas, rather than the more continuous reading or video-watching trajectories.",
+  "correct": false
+}

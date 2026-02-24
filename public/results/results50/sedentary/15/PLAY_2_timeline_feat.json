@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a slow, predominantly left-to-right drift in X with relatively stable Y, punctuated by short vertical saccades that resemble line changes\u2014matching the structured, progressive pattern typical of reading text rather than the more scattered or highly dynamic patterns of browsing, playing, searching, or watching.",
+  "correct": false
+}

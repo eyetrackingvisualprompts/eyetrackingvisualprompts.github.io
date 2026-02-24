@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in the upper-middle region with frequent, irregular saccades within that area, resembling the exploratory but locally constrained pattern of the SEARCH example more than the more structured patterns for READ/WRITE or the broader movements in PLAY/WATCH/BROWSE.",
+  "correct": false
+}

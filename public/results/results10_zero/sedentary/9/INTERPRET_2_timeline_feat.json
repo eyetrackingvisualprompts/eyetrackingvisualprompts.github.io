@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is almost static at a central region with very few saccades and minimal systematic horizontal or vertical scanning, indicating passive viewing of dynamic on-screen content rather than reading, code-focused tasks, or active search/browse behavior; this pattern aligns best with watching a video.",
+  "correct": false
+}

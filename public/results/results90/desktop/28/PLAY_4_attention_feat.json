@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region around the central area of the screen, similar to the example BROWSE heatmap, suggesting focused attention on a main content block typical of browsing a webpage rather than the wider horizontal patterns of reading or dispersed patterns of playing or watching video.",
+  "correct": false
+}

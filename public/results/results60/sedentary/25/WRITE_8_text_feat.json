@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered around a mid-screen code-like region with many short, local saccades and repeated revisits to nearly identical coordinates, matching the fine-grained, line-level inspection and cursor-near monitoring seen in the WRITE examples rather than broader navigation or reading patterns of other tasks.",
+  "correct": true
+}

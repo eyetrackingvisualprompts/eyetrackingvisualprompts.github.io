@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete, step-like fixations at various horizontal and vertical positions, with both X and Y changing in irregular, non-periodic patterns across a wide range of visual angles, matching a randomly moving target rather than strictly horizontal, static, or reading-like behavior.",
+  "correct": false
+}

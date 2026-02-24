@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is dominated by long, stable fixations with small horizontal shifts clustered in narrow vertical bands around mid\u2011upper screen, forming line\u2011like scanpaths with occasional larger but still structured jumps\u2014characteristic of reading text rather than the more dispersed, exploratory or dynamic patterns seen in browse, search, play, or watch, and less localized than WRITE near the lower screen.",
+  "correct": false
+}

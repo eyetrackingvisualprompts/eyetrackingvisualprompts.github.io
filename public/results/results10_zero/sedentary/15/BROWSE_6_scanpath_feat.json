@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are confined to a narrow horizontal band with small progressive and regressive saccades, indicating line-by-line reading of a single text block rather than exploring, searching, or tracking dynamic objects.",
+  "correct": false
+}

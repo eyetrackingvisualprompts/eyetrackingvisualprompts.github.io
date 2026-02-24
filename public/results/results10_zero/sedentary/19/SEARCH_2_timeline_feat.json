@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a narrow vertical band with very small, smooth horizontal drift and minimal saccadic jumps, indicating largely static central fixation consistent with passively watching video content rather than active reading, coding, or searching which show structured line-by-line or code-block scanning patterns.",
+  "correct": false
+}

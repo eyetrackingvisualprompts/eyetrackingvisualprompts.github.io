@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, predominantly horizontal scanpaths with small vertical shifts and dense fixations along stable lines, matching line-by-line text reading behavior rather than dynamic or highly exploratory tasks like PLAY, BROWSE, or SEARCH.",
+  "correct": false
+}

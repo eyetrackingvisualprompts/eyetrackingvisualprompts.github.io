@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region slightly below screen center, consistent with following a localized moving target (e.g., character/face area) in video, unlike the broader, structured scanpaths seen in reading, searching, browsing, or playing games.",
+  "correct": false
+}

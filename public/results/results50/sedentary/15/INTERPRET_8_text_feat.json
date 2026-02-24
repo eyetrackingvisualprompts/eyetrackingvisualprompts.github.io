@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between top-left (search box / tabs), mid-page, and far right regions; repeated jumps to extreme top coordinates and bottom/side areas resemble scanning SERP and result pages rather than focused code (WRITE/DEBUG/INTERPRET) or smooth line-by-line reading (READ). The spatial spread and erratic revisits match the provided SEARCH examples most closely.",
+  "correct": false
+}

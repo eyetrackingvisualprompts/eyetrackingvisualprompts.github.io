@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are tightly clustered around the central region with moderate vertical spread, matching the SEARCH example heatmap that reflects focused attention on central search results and related elements, unlike the broader horizontal patterns of READ/WRITE or dispersed patterns of PLAY/WATCH.",
+  "correct": false
+}

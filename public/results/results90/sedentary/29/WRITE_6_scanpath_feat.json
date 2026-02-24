@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-side region (code), with recurring long saccades to a right-side area (likely console/output or error messages) and back, matching the pattern of repeatedly editing and testing code typical of debugging rather than the more localized focus of WRITE or INTERPRET.",
+  "correct": false
+}

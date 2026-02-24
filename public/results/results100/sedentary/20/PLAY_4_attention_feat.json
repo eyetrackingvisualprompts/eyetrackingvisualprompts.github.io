@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are tightly clustered around the center with some radial spread, resembling tracking of a central game area or object, and closely matches the PLAY example heatmap more than the other task patterns.",
+  "correct": true
+}

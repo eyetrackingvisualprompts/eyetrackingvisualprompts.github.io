@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows repeated transitions between a central-horizontal band and a top band (likely code and console/bug location), with medium-length fixations and several long saccades jumping between regions\u2014typical of scanning code, checking outcomes, and revisiting specific lines, which aligns best with debugging behavior rather than sustained reading, free browsing, or continuous video/game watching.",
+  "correct": false
+}

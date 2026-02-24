@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a relatively small lower-central area with frequent short saccades between nearby points and intermittent longer fixations, consistent with tracking a game character or interface region rather than line-based reading or extensive vertical scrolling typical of search/browse/read/write; this localized, dynamic pattern best matches the PLAY activity among the provided examples.",
+  "correct": false
+}

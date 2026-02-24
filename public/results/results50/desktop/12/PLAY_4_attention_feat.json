@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a relatively small central region with some vertical spread, resembling attention around the search bar and results area; this pattern matches the SEARCH example more closely than the other activities.",
+  "correct": false
+}

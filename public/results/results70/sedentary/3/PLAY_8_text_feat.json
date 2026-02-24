@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Very long, frequent large-amplitude saccades across wide screen regions (including corners and off-center areas), irregular revisits, and mixed vertical/horizontal movements resemble exploratory web navigation more than structured code (WRITE/DEBUG/INTERPRET) or line-by-line reading; pattern matches the heterogeneous, jumping behavior seen in BROWSE examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are concentrated in the central-upper half of the screen with frequent medium-amplitude vertical and horizontal shifts, resembling scanning through mixed textual and graphical content rather than the tight horizontal banding of READ or the more peripheral, large excursions typical for WATCH/PLAY; the pattern closely matches the example BROWSE sequence dynamics and spatial distribution.",
+  "correct": false
+}

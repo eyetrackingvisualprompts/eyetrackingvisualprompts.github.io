@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region with dense fixations and short saccades around a single code-like area, similar to the INTERPRET example and unlike the wider, multi-area exploration seen in DEBUG, SEARCH, or WRITE.",
+  "correct": true
+}

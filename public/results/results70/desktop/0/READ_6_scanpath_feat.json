@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, horizontally elongated cluster in the middle of the screen with small, regular saccades and limited vertical range, closely matching the structured left-to-right reading pattern seen in the READ example rather than the more dispersed or dynamic patterns of browsing, searching, watching, playing, or writing.",
+  "correct": true
+}

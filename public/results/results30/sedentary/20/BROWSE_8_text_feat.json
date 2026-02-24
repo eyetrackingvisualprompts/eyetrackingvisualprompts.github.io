@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades between widely separated regions (center/bottom to far top edges and off-screen coordinates), interspersed with medium fixations around moving clusters, match dynamic tracking characteristic of gameplay rather than the more structured, line-based or code-panel patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

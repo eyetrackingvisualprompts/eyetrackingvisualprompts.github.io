@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixations are confined to a relatively narrow, low region of the screen with slow, small incremental shifts and very limited vertical movement, matching the stable, lower-screen gaze typical of writing in a word processor rather than the broader scanning or dynamic movements seen in browsing, searching, reading, playing, or watching video.",
+  "correct": true
+}

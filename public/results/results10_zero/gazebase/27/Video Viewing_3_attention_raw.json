@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze is tightly clustered around the central region with only minor dispersion and no systematic horizontal or vertical stepping pattern, indicating sustained fixation on a static central target rather than tracking moving targets, reading lines of text, or exploring dynamic video/game content.",
+  "correct": false
+}

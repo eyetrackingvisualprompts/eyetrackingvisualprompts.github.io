@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a compact upper-left area with several nearby fixation clusters aligned horizontally, consistent with reading text in a limited region (e.g., a paragraph) rather than scanning widely as in browsing/search or tracking moving objects as in play/watch.",
+  "correct": false
+}

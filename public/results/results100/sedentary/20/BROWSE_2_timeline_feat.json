@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly left-to-right horizontal scan patterns with slowly increasing vertical position over time, characteristic of progressing line by line through text, matching the READ example more closely than the other activities.",
+  "correct": false
+}

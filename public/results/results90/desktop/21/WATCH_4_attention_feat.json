@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the vertical center with moderate vertical spread and limited horizontal movement, matching the mixed central-content and partial scrolling pattern seen in the BROWSE example rather than the tighter single-band patterns of READ/WRITE or the more dispersed WATCH/PLAY distributions.",
+  "correct": false
+}

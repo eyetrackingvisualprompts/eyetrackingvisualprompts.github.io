@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over a compact code-like region on the upper-left, with high fixation density and minimal horizontal scanning, closely matching the INTERPRET heatmap pattern and differing from the broader spread of DEBUG or READ.",
+  "correct": false
+}

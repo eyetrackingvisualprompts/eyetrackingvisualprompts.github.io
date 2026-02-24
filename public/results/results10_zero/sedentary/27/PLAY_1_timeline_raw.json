@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a narrow horizontal band with very small, smooth drifts and only rare brief vertical excursions, indicating largely stable fixation consistent with passively watching fullscreen video rather than the systematic line-by-line or multi-point scanning seen in reading, coding, searching, or gameplay.",
+  "correct": false
+}

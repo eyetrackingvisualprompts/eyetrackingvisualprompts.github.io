@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a left-side code area with additional clusters slightly above and below, resembling the DEBUG example where gaze alternates between code lines and related interface elements rather than the tighter single-block focus of INTERPRET or the wider spread of WRITE/BROWSE.",
+  "correct": true
+}

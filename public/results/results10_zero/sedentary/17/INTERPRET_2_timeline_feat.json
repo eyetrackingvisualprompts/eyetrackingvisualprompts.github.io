@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal, line-by-line fixations with small progressive saccades and a few regressions, characteristic of reading text rather than dynamic object following, code editing, or video watching.",
+  "correct": false
+}

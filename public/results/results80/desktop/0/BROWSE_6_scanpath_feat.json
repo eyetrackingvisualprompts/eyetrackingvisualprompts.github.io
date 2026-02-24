@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations over a mid-screen region with frequent saccades in multiple directions, resembling mixed text-and-element exploration similar to the SEARCH example more than the more linear READ or top-focused WRITE patterns, and less constrained than BROWSE or WATCH.",
+  "correct": false
+}

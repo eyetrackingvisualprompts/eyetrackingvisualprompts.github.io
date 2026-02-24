@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a compact horizontal band across mid-screen with some vertical scrolling-like distribution, closely matching the BROWSE example heatmap pattern more than the more columnar SEARCH or dual-block READ layouts.",
+  "correct": true
+}

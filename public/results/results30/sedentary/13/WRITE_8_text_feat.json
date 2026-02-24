@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small code-like region with frequent short regressions and re-reading of nearly the same coordinates, indicating careful local reasoning over a snippet rather than long horizontal sweeps (READ/BROWSE) or broad exploratory movements (SEARCH/PLAY). This pattern best matches the INTERPRET task examples, which show dense, iterative inspection of a small area of code to infer its output.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large gaze excursions across wide screen regions (including lower screen / off-center areas), repeated tracking-like movements, and coordinates extending toward screen edges resemble following dynamic game elements more than the more localized, line- or block-structured patterns seen in reading, coding, or web browsing tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a mid-left region with repeated short saccades, but includes several long, off-center excursions and returns, indicating following moving elements and occasional checks elsewhere on the screen, which best matches interactive gameplay behavior compared to the more static or localized code and reading tasks.",
+  "correct": false
+}

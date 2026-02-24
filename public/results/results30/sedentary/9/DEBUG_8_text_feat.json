@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations clustered around limited code-like regions with repeated revisits, plus occasional large saccades to screen extremes (e.g., near (664,24)), match the focused, iterative inspection and re-checking pattern typical of debugging rather than the more linear scans of READING/WRITING or the broader exploratory movements of SEARCH/BROWSE/WATCH/PLAY.",
+  "correct": true
+}

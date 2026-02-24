@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are clustered in several discrete positions scattered across both horizontal and vertical dimensions, without the strong left-to-right band of reading or the predominantly horizontal line of horizontal saccades, consistent with following a randomly moving target across the screen.",
+  "correct": false
+}

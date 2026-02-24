@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is clustered in the upper screen (y\u22480.12\u20130.40) with medium\u2011length fixations and smooth spatial shifts, lacking the long horizontal scanpaths of reading/writing or the wide exploratory movements of search/browse/play. This pattern aligns best with following dynamic content (faces/subtitles) in a video-watching task.",
+  "correct": true
+}

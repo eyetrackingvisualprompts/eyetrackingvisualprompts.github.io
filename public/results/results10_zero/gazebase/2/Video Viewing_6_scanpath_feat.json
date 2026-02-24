@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations cluster around multiple, widely separated positions across the screen with approximately one-second holds and abrupt jumps in varying directions, matching a randomly moving target rather than strictly horizontal motion, sustained central fixation, reading-like left-to-right patterns, game-driven clustered targets, or free video viewing.",
+  "correct": false
+}

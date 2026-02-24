@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows extended scanning with substantial vertical shifts, alternating between upper and lower screen regions, and periods of slower reading-like movement followed by larger exploratory saccades, closely matching the SEARCH example pattern and differing from the more constrained, line-based READ or the more uniform WATCH/PLAY trajectories.",
+  "correct": false
+}

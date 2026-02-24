@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal and vertical exploration with frequent saccades and less structured, less repetitive scan paths than reading. The pattern is more dispersed than READ but more text-focused than BROWSE, aligning best with SEARCH behavior on results pages and queried content.",
+  "correct": false
+}

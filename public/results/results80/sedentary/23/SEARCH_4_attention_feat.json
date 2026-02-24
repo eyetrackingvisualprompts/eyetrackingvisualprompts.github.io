@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread horizontally across the upper-middle of the screen with multiple separated clusters, including to the left where query input/results usually appear and further right where additional result snippets or related content are shown. This distributed yet text-focused pattern matches the SEARCH example more closely than the more centralized WATCH/PLAY or the denser code/reading patterns.",
+  "correct": true
+}

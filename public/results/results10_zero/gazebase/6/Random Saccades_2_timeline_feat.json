@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions jump to various non-central locations with differing amplitudes and dwell about one second at each, forming a step-like trajectory in 2D space characteristic of following a randomly moving target rather than purely horizontal, reading-like, or static fixation patterns.",
+  "correct": true
+}

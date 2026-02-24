@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band with long, stable fixations and short, small-amplitude saccades along that band, consistent with reading text on a single line or small region, unlike the larger multi-directional shifts seen in browse/search or play/watch, and not confined to screen corners as in write.",
+  "correct": false
+}

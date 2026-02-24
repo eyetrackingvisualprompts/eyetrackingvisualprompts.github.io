@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze jumps between spatially separated positions across both horizontal and vertical dimensions, with each cluster indicating brief stationary periods before large shifts, matching the pattern of following a randomly moving target rather than smooth reading lines, central fixation, purely horizontal motion, or game-like clustered fixations.",
+  "correct": false
+}

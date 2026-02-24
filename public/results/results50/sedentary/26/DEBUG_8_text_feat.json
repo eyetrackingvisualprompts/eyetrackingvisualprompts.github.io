@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with repetitive short saccades and revisits between closely spaced vertical positions (around y\u2248330\u2013480), indicative of mentally tracing control flow or variable states rather than broad scanning (SEARCH/BROWSE) or horizontal line sweeps (READ). The pattern closely matches INTERPRET examples, where participants repeatedly move between a few code lines to reason about program output.",
+  "correct": false
+}

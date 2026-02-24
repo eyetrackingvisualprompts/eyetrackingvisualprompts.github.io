@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small, stable region with minimal horizontal progression or line-by-line movement, indicating attention to a localized dynamic stimulus (e.g., part of a video) rather than scanning text, code, or multiple webpage elements; this localized, sustained focus best matches the WATCH activity.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread across upper and middle regions with numerous horizontal sweeps and revisits, covering multiple screen areas similar to scanning search results, closely matching the SEARCH example pattern.",
+  "correct": false
+}

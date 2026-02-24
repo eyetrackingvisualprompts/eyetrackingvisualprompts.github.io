@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively narrow horizontal spread with mid-screen vertical positions and moderate, localized saccades, resembling focused inspection of a compact code snippet as in the INTERPRET example, rather than the broader scanning or stronger horizontal sweeps seen in tasks like READ, SEARCH, or BROWSE.",
+  "correct": false
+}

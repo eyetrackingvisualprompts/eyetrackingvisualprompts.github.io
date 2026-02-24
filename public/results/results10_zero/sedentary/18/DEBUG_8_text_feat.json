@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The pattern shows many medium-length fixations (200\u2013900 ms) clustered in a confined central region with frequent but not highly rhythmic saccades, suggesting focused inspection and reinspection of nearby elements rather than continuous line-by-line scanning (READ) or wide exploratory or pursuit movements (PLAY, WATCH, BROWSE, SEARCH). This concentrated, iterative gaze behavior is most consistent with debugging code in an IDE, where attention repeatedly shifts among related code fragments and outputs.",
+  "correct": true
+}

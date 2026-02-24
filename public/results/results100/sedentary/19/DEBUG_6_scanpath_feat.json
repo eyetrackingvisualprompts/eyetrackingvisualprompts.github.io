@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over the left-central region (typical code area) with repeated back\u2011and\u2011forth saccades, plus occasional long shifts to the right side (likely console/output or documentation within IDE), matching the debug pattern more than interpret or write.",
+  "correct": true
+}

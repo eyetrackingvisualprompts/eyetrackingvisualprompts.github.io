@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (horizontal and vertical), visits to both central and near-edge areas, intermittent long dwell/idle intervals (e.g., 6.9 s gap), and irregular scanpaths without systematic line-by-line structure match exploratory web browsing more than the more structured, code-focused or stimulus-centered patterns of the other tasks.",
+  "correct": false
+}

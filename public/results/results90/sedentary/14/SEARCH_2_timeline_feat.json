@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows periods of horizontal text-like scanning interleaved with large vertical jumps and shifts to new regions, indicating alternating between reading snippets and moving to different areas of the page, which matches search-engine use more than the other activities.",
+  "correct": true
+}

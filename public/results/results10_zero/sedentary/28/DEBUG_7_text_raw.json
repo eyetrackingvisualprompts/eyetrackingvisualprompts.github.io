@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows very large, rapid shifts across wide screen areas (including off-screen coordinates), with scattered, non-linear patterns rather than horizontal line-by-line scans or focused regions. This pattern is consistent with tracking moving elements and frequent repositioning typical of game play, rather than the more structured, localized gaze of reading, coding, or web browsing.",
+  "correct": false
+}

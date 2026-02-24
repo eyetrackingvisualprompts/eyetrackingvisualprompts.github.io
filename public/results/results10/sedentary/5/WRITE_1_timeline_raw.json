@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent shifts between two vertical regions (code and editor/console), occasional large vertical saccades, and irregular yet task-focused gaze resemble the WRITE template more than the steadier, more linear patterns of READ/INTERPRET or the broader sweeps of SEARCH/BROWSE/PLAY/WATCH/DEBUG.",
+  "correct": true
+}

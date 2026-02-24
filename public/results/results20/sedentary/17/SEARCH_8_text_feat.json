@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large vertical excursions to very high and very low y-coordinates, repeated jumps to off-content or out-of-bounds regions, and scattered fixations across disparate areas resemble scrolling and heterogeneous page exploration typical of free web browsing rather than the more structured, line-based or centrally focused patterns of code, reading, games, or video watching.",
+  "correct": false
+}

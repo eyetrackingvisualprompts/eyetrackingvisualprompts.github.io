@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points move smoothly with predominantly small horizontal and vertical shifts forming clustered, line-like progressions with intermittent small regressions, consistent with reading lines of text rather than rapid multidirectional exploration (search/browse), large motor shifts (play), or focus on a single dynamic region (watch/write).",
+  "correct": true
+}

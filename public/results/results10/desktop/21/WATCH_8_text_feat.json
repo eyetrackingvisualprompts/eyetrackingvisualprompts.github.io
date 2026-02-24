@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in the upper screen region with relatively long, stable fixations and moderate vertical shifts, including excursions slightly beyond the normalized screen area (>1.0 y). This pattern closely matches the WATCH example, where eyes follow dynamic content (characters/subtitles) near the top while occasionally moving across and beyond screen bounds, unlike the more horizontally structured reading/browsing or the highly dispersed gaming/search behavior.",
+  "correct": true
+}

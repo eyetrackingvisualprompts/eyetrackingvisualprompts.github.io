@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a compact upper-left code area, with occasional downward excursions resembling looks to console or other IDE panels, closely matching the WRITE example scanpath and typical coding/implementation behavior rather than reading prose or browsing.",
+  "correct": false
+}

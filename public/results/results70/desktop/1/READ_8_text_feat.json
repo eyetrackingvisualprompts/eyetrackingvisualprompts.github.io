@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains in a relatively narrow horizontal band with small, local saccades and medium-long fixations around the mid-upper area, showing incremental shifts and occasional short jumps\u2014this pattern closely matches the BROWSE examples, which feature scanning around mixed content rather than the highly structured line sweeps of READ or the dispersed, larger-amplitude shifts seen in PLAY, WATCH, SEARCH, or the upper-screen clustering of WRITE.",
+  "correct": false
+}

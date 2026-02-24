@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a small code-like region with many short fixations and small corrective saccades, including repeated revisits between nearby lines/blocks and occasional jumps to another small cluster, matching the localized, back-and-forth inspection typical when mentally simulating code to predict its output (INTERPRET) rather than the broader, more extensive scanning seen in DEBUG or the more linear patterns in READ/BROWSE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain clustered in a small central region with limited horizontal spread and minimal vertical movement, indicating continuous attention to a compact, central visual area typical of watching a video rather than scanning text, searching, browsing, or gaming, which would show broader, more systematic saccades.",
+  "correct": false
+}

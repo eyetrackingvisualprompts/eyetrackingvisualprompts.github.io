@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered on the left-central region where code editor text typically appears, with minimal excursions elsewhere, matching the focused, localized pattern seen in the WRITE example rather than the broader distributions of DEBUG or other tasks.",
+  "correct": false
+}

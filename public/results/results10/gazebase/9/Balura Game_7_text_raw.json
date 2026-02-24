@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Video Viewing",
+  "reason": "The data shows long, complex, continuous scanpaths with many direction changes, varied amplitudes, and extended sequences across a wide area without the strictly horizontal pattern of horizontal saccades, nor the line-structured, regimented progression of reading. It also lacks the clear central fixation of fixations and the discrete ballistic jumps of simple random or horizontal saccade tasks, and there is no clear pattern of repeated precise refixations on small moving targets as in the Balura game. This rich, exploratory pattern best matches natural free-viewing behavior during video viewing.",
+  "correct": false
+}

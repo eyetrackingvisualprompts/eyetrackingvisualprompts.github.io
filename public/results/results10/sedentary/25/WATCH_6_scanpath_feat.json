@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like area on the left-center of the screen with limited excursions and moderate regressions, closely matching the INTERPRET example pattern and differing from more dispersed DEBUG or WRITE scanpaths.",
+  "correct": false
+}

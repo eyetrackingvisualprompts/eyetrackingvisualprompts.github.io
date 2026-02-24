@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude saccades in multiple directions (including large vertical shifts between upper and lower screen regions) interleaved with short, variable fixations suggest scanning heterogeneous, spatially distributed elements such as links, headlines, and images on web pages, which is more typical of browsing behavior than the more linear, horizontally structured patterns of reading, writing, or watching video, or the highly dynamic, wide-range scanning in gameplay or search-result focused SEARCH episodes.",
+  "correct": false
+}

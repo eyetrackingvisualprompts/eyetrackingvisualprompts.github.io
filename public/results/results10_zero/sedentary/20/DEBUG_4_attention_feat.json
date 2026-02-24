@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a small region toward the upper-left, consistent with focused reading of a localized text block rather than wide exploration or dynamic object tracking seen in other tasks.",
+  "correct": false
+}

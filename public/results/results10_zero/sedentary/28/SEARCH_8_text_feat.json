@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates between several distinct vertical regions (top code area around y\u2248100\u2013130, mid area ~280\u2013350, and lower area ~590\u2013680) with long saccades up and down the screen and medium-length fixations, consistent with scanning code, tracing control flow, and repeatedly checking different code segments typical of debugging rather than the more linear patterns of reading/browsing or the central focus of watching/playing.",
+  "correct": false
+}

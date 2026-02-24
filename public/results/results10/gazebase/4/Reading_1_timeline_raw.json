@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "X position shows step-like left-to-right progressions with periodic large regressions, while Y position drifts slowly downward with small vertical corrections\u2014this pattern matches line-by-line reading behavior rather than discrete target tracking or random large saccades.",
+  "correct": true
+}

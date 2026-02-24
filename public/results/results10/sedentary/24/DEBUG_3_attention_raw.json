@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on a narrow horizontal band in the lower-left/central area, resembling focus on a search results snippet rather than the more centered, tighter band of continuous reading; pattern best matches the SEARCH example heatmap.",
+  "correct": false
+}

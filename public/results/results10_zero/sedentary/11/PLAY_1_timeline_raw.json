@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a relatively narrow horizontal band with smooth, continuous movements and small fluctuations in both x and y, lacking the sharp regressions and clustered fixations typical of reading, coding, or searching; this pattern best matches passive, continuous viewing of dynamic content such as a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around a central region with moderate horizontal and vertical shifts, showing multiple short fixations and revisits across nearby areas\u2014more scattered than reading or writing, but less wide-ranging than search or gameplay\u2014matching typical news/web browsing patterns.",
+  "correct": false
+}

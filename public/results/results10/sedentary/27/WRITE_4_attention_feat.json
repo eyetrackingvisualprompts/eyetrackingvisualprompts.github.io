@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a narrow vertical strip on the left with multiple clusters extending downward, closely resembling the INTERPRET example where participants focus on stacked code lines rather than a single tight block (DEBUG) or a wider horizontal text region (READ).",
+  "correct": false
+}

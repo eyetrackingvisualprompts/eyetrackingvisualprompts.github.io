@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a small lower-region band with many short, rapid shifts and localized clusters, resembling continuous, fine-grained control and HUD/character tracking typical for gameplay rather than line-wise scanning (READ), top/mid-page scanning (SEARCH/BROWSE), long central fixations (WATCH), or alternating text\u2013cursor gaze (WRITE).",
+  "correct": false
+}

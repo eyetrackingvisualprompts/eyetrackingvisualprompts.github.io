@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid saccades spanning wide horizontal and vertical ranges (e.g., from ~0.85,0.44 to 0.08,0.26 and then across the screen), with brief fixations interspersed\u2014characteristic of dynamic tracking and target switching in gameplay rather than the more localized or line-structured patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

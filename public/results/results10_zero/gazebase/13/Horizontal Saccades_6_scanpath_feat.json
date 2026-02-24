@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows gaze moving back and forth along a nearly constant vertical position across a wide horizontal range, consistent with following a target making large horizontal saccades while holding each position briefly, matching the Horizontal Saccades task description.",
+  "correct": true
+}

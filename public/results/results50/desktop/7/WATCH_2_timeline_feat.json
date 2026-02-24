@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixations remain in the lower half of the screen with relatively limited vertical range and moderate horizontal movement, closely matching the WRITE pattern where gaze stays near the text input area rather than mid-screen (READ) or more widely distributed (SEARCH/BROWSE/PLAY/WATCH).",
+  "correct": false
+}

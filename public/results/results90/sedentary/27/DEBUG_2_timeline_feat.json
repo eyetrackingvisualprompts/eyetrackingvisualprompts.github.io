@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium-range, irregular shifts in both X and Y with scattered saccades and no strong left-to-right line scanning or smooth pursuit, matching the mixed, exploratory pattern typical of inspecting and modifying code during debugging rather than structured reading or web search/browsing.",
+  "correct": true
+}

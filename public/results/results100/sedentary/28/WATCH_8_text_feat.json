@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen areas (including extreme coordinates), mixed with shorter local tracking and revisits, indicate following dynamic moving targets typical of gameplay rather than the more linear, text- or code-centered patterns of READ/WRITE/DEBUG/INTERPRET or the web-structure-driven SEARCH/BROWSE; this spatiotemporal pattern best matches the PLAY examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between mid-right and upper-left/lower-left regions with medium fixations and frequent medium-length saccades, indicating scanning across dispersed areas rather than the tightly horizontal patterns of READ/WRITE or the more centralized, stable viewing of WATCH. This distributed, exploratory pattern best matches BROWSE behavior on a web/news page with content in multiple screen regions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered near the screen center with small, localized fixations and minimal large saccades, matching the stable, focused pattern seen in the INTERPRET coding examples rather than the broader, more exploratory movements of browsing, reading, searching, or playing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain clustered around a small central region with slow, smooth transitions and limited horizontal scanning, lacking the systematic line-by-line or code-structure patterns typical of reading, coding, or search; this stable, screen-centered behavior aligns best with passively watching a video clip.",
+  "correct": false
+}

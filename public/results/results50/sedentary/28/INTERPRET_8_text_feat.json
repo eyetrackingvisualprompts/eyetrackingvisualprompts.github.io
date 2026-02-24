@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Initial prolonged work around a compact region of code-like coordinates with many short, local regressions and revisits, followed by occasional large jumps to other screen areas and back, matches the intensive, localized inspection and re-checking behavior seen in the DEBUG examples more than the more linear patterns of READ/WRITE or the broader exploratory patterns of SEARCH/BROWSE/WATCH/PLAY.",
+  "correct": false
+}

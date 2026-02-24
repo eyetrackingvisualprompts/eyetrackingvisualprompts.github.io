@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a relatively stable, slowly increasing horizontal (X) position with small, regular regressions and a narrow Y range, consistent with line-by-line text reading rather than large exploratory or game-like movements.",
+  "correct": false
+}

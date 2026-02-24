@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show predominantly small, clustered horizontal movements within narrow vertical bands, with stepwise shifts to nearby vertical regions and repeated stable fixations\u2014typical of line-by-line reading on static text\u2014rather than the larger dispersed exploration of SEARCH/BROWSE, dynamic multi-directional shifts of PLAY, or broader central focus of WATCH or WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points remain tightly clustered in a small region near the screen center with only minor jitter and no large, systematic horizontal or random movements, indicating sustained fixation on a static target rather than tracking moving stimuli or reading text.",
+  "correct": true
+}

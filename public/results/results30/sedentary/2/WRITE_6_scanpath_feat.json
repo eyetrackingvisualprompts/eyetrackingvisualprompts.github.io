@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread over multiple vertical regions (top results area and mid-page content) with frequent transitions between them, resembling scanning search results and linked pages rather than the more localized clusters of coding (DEBUG/WRITE/INTERPRET) or the structured horizontal lines of reading/browsing text.",
+  "correct": false
+}

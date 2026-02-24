@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows repeated long fixations around a central horizontal band with large saccades spanning wide code-typical regions, consistent with scanning between code lines, function areas, and I/O/console sections while actively editing and verifying code, which best matches the WRITE task among the options.",
+  "correct": false
+}

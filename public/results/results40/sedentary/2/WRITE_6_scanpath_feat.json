@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered on the upper-left code area with repeated vertical movements between nearby lines and occasional checks slightly to the right, matching the focused, localized inspection pattern typical of debugging rather than broader reading or browsing.",
+  "correct": false
+}

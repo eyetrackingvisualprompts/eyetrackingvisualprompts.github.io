@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-sized, irregular horizontal and vertical shifts with several jumps between distinct vertical regions, resembling scanning across different webpage areas rather than the systematic line-by-line pattern of READ or the more localized patterns of coding tasks, matching the BROWSE example most closely.",
+  "correct": false
+}

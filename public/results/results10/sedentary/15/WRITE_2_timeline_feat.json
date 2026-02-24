@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows mostly horizontal, steady fixations with very small vertical variation and infrequent saccades, closely matching the INTERPRET example pattern of concentrated reading over a single code snippet rather than the more scattered or dynamic patterns seen in other tasks.",
+  "correct": false
+}

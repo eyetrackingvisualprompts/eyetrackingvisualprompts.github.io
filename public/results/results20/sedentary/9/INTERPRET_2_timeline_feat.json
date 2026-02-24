@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate vertical spread with irregular saccades and revisits, resembling the non-linear code inspection and error checking seen in the DEBUG example more than the steadier, line-by-line patterns of READ/WRITE or the wider, more dynamic movements of PLAY/BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

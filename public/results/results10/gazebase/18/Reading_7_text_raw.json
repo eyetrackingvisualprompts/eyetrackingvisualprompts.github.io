@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Balura Game",
+  "reason": "The data shows many localized horizontal mini-sweeps and short-range drifts around multiple off-center positions, with frequent small corrective movements and repeated revisits to nearby coordinates. This pattern of clustered, re-fixation-like behavior at various eccentric locations matches the Balura Game examples more closely than the smoother scanpaths of reading/video or the more stereotyped saccade patterns of the other classes.",
+  "correct": false
+}

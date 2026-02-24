@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions are confined to a narrow vertical band with small, smooth horizontal shifts and brief local oscillations, indicating line-by-line scanning of static text rather than large exploratory or dynamic movements typical for search, browsing, games, or video watching.",
+  "correct": false
+}

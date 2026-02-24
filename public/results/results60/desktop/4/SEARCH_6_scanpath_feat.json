@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows clustered but dispersed fixations across a central band with frequent transitions among multiple nearby regions, resembling the mixed reading-and-scanning behavior in the SEARCH example more than the tighter clusters of BROWSE or the more linear patterns of READ/WRITE.",
+  "correct": true
+}

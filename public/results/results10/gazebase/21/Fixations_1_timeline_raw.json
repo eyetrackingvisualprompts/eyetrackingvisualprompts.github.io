@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain nearly constant around the center with only minimal noise and a single brief deviation, matching the stable central fixation pattern of the Fixations class rather than the larger, structured movements seen in other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains clustered around a small region near the center with only slow, low-amplitude drifts and micro-adjustments, without the large, discrete saccadic jumps or systematic scanning patterns characteristic of saccade, reading, game, or video-viewing tasks; this closely matches the provided fixation example patterns.",
+  "correct": true
+}

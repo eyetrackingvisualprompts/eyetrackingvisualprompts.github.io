@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band slightly below the screen center, suggesting sustained attention to a single small region such as the active text line and nearby UI elements in a word processor, which best matches the WRITE task compared to the broader or more vertically distributed patterns expected in reading, browsing, searching, watching, or playing.",
+  "correct": false
+}

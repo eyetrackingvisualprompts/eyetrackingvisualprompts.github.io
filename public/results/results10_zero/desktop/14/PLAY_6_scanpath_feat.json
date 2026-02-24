@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain tightly clustered around the screen center with minimal horizontal or vertical excursions, indicating prolonged central fixation typical of watching a video, whereas reading, writing, searching, browsing, or playing would show broader, directional scanpaths across the screen.",
+  "correct": false
+}

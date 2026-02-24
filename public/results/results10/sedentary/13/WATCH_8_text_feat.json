@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-long saccades between spatially separated regions (top, mid, bottom of screen) with moderate fixations, consistent with scanning result lists/snippets and jumping between different interface elements, which aligns best with the SEARCH pattern rather than the more linear READ/WATCH or the code-focused tasks.",
+  "correct": false
+}

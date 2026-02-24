@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent rapid shifts across wide screen areas, including large vertical excursions and many off-screen samples (extreme or negative coordinates), consistent with tracking dynamic game elements and frequent screen-centered reorientation rather than structured reading or code inspection patterns.",
+  "correct": false
+}

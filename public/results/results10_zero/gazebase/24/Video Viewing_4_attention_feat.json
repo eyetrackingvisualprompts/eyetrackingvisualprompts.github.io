@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "Fixation density is highly concentrated near the screen center with only a few very small nearby clusters, indicating largely stable central gaze consistent with a static central fixation target rather than broader scanning or systematic horizontal/reading movements.",
+  "correct": false
+}

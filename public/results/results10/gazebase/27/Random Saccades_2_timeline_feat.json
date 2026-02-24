@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y fixation positions jump irregularly across a wide range in both axes with roughly 1-second plateaus, forming a grid-like sequence of discrete locations rather than systematic horizontal sweeps or central fixation, matching the random target jumps of the Random Saccades task.",
+  "correct": true
+}

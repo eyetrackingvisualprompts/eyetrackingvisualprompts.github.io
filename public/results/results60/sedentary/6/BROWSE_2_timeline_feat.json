@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-length horizontal saccades with occasional larger jumps and a mid-session region of denser fixations resemble scanning result lists and opening pages, matching the SEARCH pattern more than the steadier, line-by-line movements seen in READ or the tighter code-focused patterns in WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

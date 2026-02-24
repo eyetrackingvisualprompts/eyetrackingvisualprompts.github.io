@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y positions change smoothly with occasional moderate shifts, lacking the structured horizontal sweeps of reading/writing or the frequent rapid jumps of search/browse/play, which is most consistent with passively watching dynamic video content.",
+  "correct": true
+}

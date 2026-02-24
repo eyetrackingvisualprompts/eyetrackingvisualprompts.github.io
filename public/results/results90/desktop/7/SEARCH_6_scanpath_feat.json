@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a dense cluster around the center-right of the screen with moderate dispersion and frequent local saccades, matching the browsing example more closely than the tighter horizontal band of reading or the more widely spread, dynamic patterns of play or watch tasks.",
+  "correct": false
+}

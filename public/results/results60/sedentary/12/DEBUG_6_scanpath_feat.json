@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is densely clustered over a compact left-side code area with recurrent vertical and diagonal revisits, similar to the INTERPRET example and distinct from the broader spread seen in DEBUG or SEARCH.",
+  "correct": false
+}

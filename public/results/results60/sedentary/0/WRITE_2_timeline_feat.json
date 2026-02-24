@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band with small, localized saccades and a slow upward drift in Y, matching focused inspection of a compact code snippet as in the INTERPRET task rather than the wider or more dynamic scan patterns of other activities.",
+  "correct": false
+}

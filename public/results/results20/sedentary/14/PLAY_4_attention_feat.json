@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are distributed in a narrow horizontal band near the screen center, forming a left\u2011to\u2011right line pattern with limited vertical spread, which matches the reading behavior heatmap more closely than the other activities.",
+  "correct": false
+}

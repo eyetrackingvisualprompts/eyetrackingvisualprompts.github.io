@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal movements with step-like shifts and relatively constrained vertical range, consistent with line-by-line reading behavior rather than the larger, multidirectional shifts typical of browsing, searching, playing, or watching videos; writing would show more fixations near a similar vertical band with smaller horizontal sweeps.",
+  "correct": false
+}

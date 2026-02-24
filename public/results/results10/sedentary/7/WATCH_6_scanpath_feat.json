@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a predominantly horizontal band with sequential left-to-right movements and relatively small vertical shifts, closely matching the reading scanpath pattern shown in the READ example, unlike the more scattered or multi-region patterns of browsing, search, or debugging.",
+  "correct": false
+}

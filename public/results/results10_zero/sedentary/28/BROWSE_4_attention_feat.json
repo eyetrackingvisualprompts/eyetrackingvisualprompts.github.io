@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a compact, vertically-extended region near the screen center with limited horizontal spread, consistent with reading a narrow column/paragraph of text rather than distributed browsing, code tasks, or wide motion tracking in video or games.",
+  "correct": false
+}

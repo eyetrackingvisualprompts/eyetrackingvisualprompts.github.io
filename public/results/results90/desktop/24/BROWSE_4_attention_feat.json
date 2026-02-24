@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a compact area slightly above screen center, matching the example SEARCH heatmap where gaze focuses on the search result region rather than the broader central area seen in BROWSE.",
+  "correct": false
+}

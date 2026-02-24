@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained within a narrow band in the upper-middle of the screen with many short fixations and small horizontal/vertical saccades, matching line-by-line text scanning in reading rather than the broader, more dispersed patterns seen in browse/search or the larger shifts common in watch/play.",
+  "correct": false
+}

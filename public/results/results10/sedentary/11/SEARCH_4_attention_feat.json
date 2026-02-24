@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a horizontal band across mid-screen resembling reading a results or article line, with additional clusters near top-left and top-right typical of navigation elements (tabs, address bar, search box), matching browsing behavior more than the other tasks.",
+  "correct": false
+}

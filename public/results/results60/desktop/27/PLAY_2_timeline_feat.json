@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations stay near screen center with moderate horizontal and vertical variability and frequent small saccades, closely matching the browsing example pattern rather than the more structured horizontal scans of READ/WRITE or the larger excursions of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

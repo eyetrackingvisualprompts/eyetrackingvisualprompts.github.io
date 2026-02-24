@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-length horizontal saccades with gradual downward drift and occasional larger jumps in both X and Y, indicating scanning varied web content rather than structured lines (READ) or focused code regions (WRITE/DEBUG/INTERPRET). This pattern best matches the BROWSE example plot.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, irregular jumps in both horizontal and vertical directions, with fixations at varied screen positions rather than along lines of text, a single central point, or strictly horizontal motion, matching the random target-following pattern of Random Saccades.",
+  "correct": false
+}

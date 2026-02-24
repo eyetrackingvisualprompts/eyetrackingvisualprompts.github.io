@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are mostly confined to a narrow vertical band with slow, incremental rightward drift and very small vertical changes, indicating focused inspection of a compact code segment rather than broad scanning (SEARCH/BROWSE) or dynamic tracking (WATCH/PLAY). This closely matches the concentrated, line-by-line viewing seen in the DEBUG example.",
+  "correct": false
+}

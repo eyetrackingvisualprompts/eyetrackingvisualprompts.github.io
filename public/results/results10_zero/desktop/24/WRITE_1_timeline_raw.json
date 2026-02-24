@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a narrow, stable region with only small smooth drifts and minimal saccades or scanning, consistent with passively watching a fixed central video area rather than reading, searching, browsing, playing, or writing which typically show more directional saccades and line-based patterns.",
+  "correct": false
+}

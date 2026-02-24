@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a compact code-like region (x\u2248900\u20131150, y\u2248350\u2013480) with many long fixations (0.5\u20133.7s) and short local saccades, plus occasional vertical shifts within that band, matching intensive reasoning on a single snippet rather than scanning pages (READ/SEARCH) or wider IDE navigation (DEBUG/WRITE). This pattern best aligns with INTERPRET, where participants focus on understanding one function\u2019s behavior.",
+  "correct": false
+}

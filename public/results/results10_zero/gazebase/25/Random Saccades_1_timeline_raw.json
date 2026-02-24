@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between multiple discrete positions across both horizontal and vertical axes, with each position held roughly around one second before a rapid shift to another, matching the description of tracking a randomly moving target rather than purely horizontal steps or continuous free viewing.",
+  "correct": true
+}

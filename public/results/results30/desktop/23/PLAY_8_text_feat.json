@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains around screen center with moderate vertical shifts between mid and slightly upper regions, many short fixations and medium-amplitude saccades, resembling scanning of mixed text and elements as in the BROWSE example rather than the more line-structured READ or strongly text-bottom-focused WRITE patterns, and lacking the large, rapid excursions seen in PLAY, SEARCH, or WATCH.",
+  "correct": false
+}

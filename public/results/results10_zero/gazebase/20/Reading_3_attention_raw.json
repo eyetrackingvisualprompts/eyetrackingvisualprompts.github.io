@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze heatmap shows a narrow vertical band near the top of the screen with fixations spread widely and almost exclusively along the horizontal axis, consistent with tracking a target that moves horizontally at a fixed vertical position rather than random 2D motion, reading lines, or central fixation.",
+  "correct": false
+}

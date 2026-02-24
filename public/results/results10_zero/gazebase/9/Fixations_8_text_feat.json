@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Reading",
+  "reason": "The data show many relatively small-amplitude saccades (mostly within ~1\u00b0 horizontally and vertically) interspersed with long, variable-duration fixations (up to ~2\u20132.6 s), consistent with text reading patterns rather than the large, regular jumps of horizontal/random saccades, the static gaze of fixations, or the more dispersed and dynamic gaze shifts typical of video viewing or a gaze-driven game.",
+  "correct": false
+}

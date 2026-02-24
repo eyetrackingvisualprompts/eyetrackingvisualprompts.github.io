@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively long (mostly 200\u2013500 ms) and densely clustered around the screen center with short, small-amplitude saccades and no clear large, goal-directed sweeps or rapid wide-range scanning. This pattern is characteristic of reading continuous text rather than visually exploring pages (BROWSE/SEARCH), tracking dynamic game or video content (PLAY/WATCH), or alternating between text and keyboard/own text production (WRITE).",
+  "correct": false
+}

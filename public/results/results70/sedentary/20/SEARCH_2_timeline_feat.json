@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows horizontal scanning with periodic downward shifts resembling reading, but with several irregular large vertical and horizontal saccades and changes in viewing regions, matching the varied, less-structured exploration typical of web browsing compared to the more regular line-by-line behavior of pure reading or the tighter focus of code tasks.",
+  "correct": false
+}

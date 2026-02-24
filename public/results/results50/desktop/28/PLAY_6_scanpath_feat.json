@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated band with relatively regular left-to-right saccades and limited vertical spread, matching the structured line-by-line scanning pattern characteristic of reading, and differing from the more scattered, exploratory patterns of browse/search or the dense upper-screen clusters of write/play/watch.",
+  "correct": false
+}

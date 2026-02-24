@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The fixations are dispersed across the screen in both horizontal and vertical directions without forming structured lines (reading) or clustering around a few points (horizontal saccades, fixations, video). This scattered yet discrete pattern matches the random target jumps of the Random Saccades task.",
+  "correct": true
+}

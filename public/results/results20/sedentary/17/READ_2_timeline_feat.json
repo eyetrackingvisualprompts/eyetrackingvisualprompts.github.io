@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly stable with minimal horizontal movement and very slow downward drift in Y, showing prolonged central fixation typical of passively watching a video rather than the frequent, structured horizontal saccades seen in reading/coding or the larger multidirectional shifts of search, browsing, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Predominantly mid-screen, code-area\u2013like gaze clusters with many short, local shifts around similar coordinates, interspersed with occasional jumps (likely to reference or console regions), closely resemble the WRITE examples\u2019 dense, intra-panel scanning patterns rather than the broader navigation or reading/search behaviors of other classes.",
+  "correct": false
+}

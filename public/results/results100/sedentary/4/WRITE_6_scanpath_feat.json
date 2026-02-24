@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered on the left-central area (code editor) with frequent long saccades to the right side (console/documentation), closely matching the WRITE example pattern where participants implement code while occasionally referencing output or instructions.",
+  "correct": true
+}

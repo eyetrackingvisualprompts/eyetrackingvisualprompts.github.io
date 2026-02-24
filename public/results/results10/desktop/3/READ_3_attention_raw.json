@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a smooth left-to-right, slightly upward progression across much of the screen, resembling sequential line-by-line scanning typical of reading text rather than the more clustered patterns seen in search, browsing, or watching tasks.",
+  "correct": true
+}

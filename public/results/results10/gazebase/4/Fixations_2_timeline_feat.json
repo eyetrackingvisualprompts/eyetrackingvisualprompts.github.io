@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze positions drift slowly with small, irregular changes in both X and Y, without large systematic sweeps or strict central fixation, matching the natural, low-amplitude eye movements seen during video viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated in a single horizontal band near the top of the screen with some spread and fewer dense fixations than intensive reading, closely matching the browsing example heatmap rather than the tighter mid-screen band of pure reading text.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a central band with mostly short to medium horizontal saccades and many medium-long fixations, consistent with line-by-line reading rather than the larger vertical shifts of SEARCH/BROWSE, the peripheral clustering and large jumps of PLAY/WATCH, or the upper-area focus of WRITE.",
+  "correct": false
+}

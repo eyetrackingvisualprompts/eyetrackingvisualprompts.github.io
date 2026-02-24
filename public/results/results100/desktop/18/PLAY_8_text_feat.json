@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows long periods of fixation near the top and bottom edges (likely HUD/status areas) interspersed with frequent, large-amplitude saccades across wide portions of the screen (e.g., from bottom center to upper corners and back), consistent with tracking a moving game character and screen elements rather than the more line-structured horizontal scanning of reading or the more central, video-like viewing of watching. The extensive multi-directional movements and rapid shifts between disparate regions match the PLAY exemplars best.",
+  "correct": true
+}

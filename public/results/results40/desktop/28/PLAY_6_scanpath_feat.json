@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered in the upper-middle region with moderate dispersion and frequent shifts, resembling the example SEARCH pattern more than the tighter, line-like READ or the broader BROWSE/WATCH distributions.",
+  "correct": false
+}

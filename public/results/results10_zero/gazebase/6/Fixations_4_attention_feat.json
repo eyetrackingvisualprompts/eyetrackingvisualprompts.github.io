@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows a single tight cluster of gaze points around the screen center with no dispersion or distinct secondary clusters, indicating sustained central fixation rather than movements characteristic of saccades, reading, video viewing, or game play.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Very long, stable fixations clustered in the lower-central region (likely near a video subtitle or control area) with occasional large vertical and diagonal saccades across the screen are characteristic of passive video watching, matching the WATCH pattern more than the scan-like patterns of SEARCH/BROWSE or the line-structured movements of READ/WRITE.",
+  "correct": false
+}

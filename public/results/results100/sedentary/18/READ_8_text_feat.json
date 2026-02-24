@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows highly systematic, horizontal left-to-right sweeps clustered in several narrow vertical bands (around y\u2248150\u2013200, 250\u2013320, 340\u2013380, 420\u2013470, 550\u2013700), with small regressions and line transitions that closely match the example READ scanpaths, and lacks the larger vertical jumps and heterogeneous exploration typical of SEARCH or BROWSE.",
+  "correct": true
+}

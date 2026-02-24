@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large saccades between widely separated horizontal and vertical regions (center results area to far right/bottom), with medium-length fixations on multiple spaced locations, matches the pattern of scanning search results and snippets rather than line-by-line reading or code-focused tasks.",
+  "correct": false
+}

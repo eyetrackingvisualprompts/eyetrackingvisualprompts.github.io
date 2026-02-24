@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left side where code typically appears, with multiple vertically distributed clusters suggesting scanning through several lines and regions of code, closely resembling the DEBUG example heatmap rather than the more compact INTERPRET or more dispersed tasks like BROWSE or WATCH.",
+  "correct": false
+}

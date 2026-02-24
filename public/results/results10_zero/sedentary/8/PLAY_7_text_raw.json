@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid shifts across wide screen areas (center to corners, high to low y-values) with less structured horizontal line-by-line scanning, consistent with visually tracking moving elements and monitoring dispersed screen regions as in simple games, rather than the more localized, row-based patterns typical of reading, coding, debugging, or web search.",
+  "correct": true
+}

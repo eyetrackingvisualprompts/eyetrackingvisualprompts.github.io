@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in the left code area with frequent vertical and diagonal shifts between lines and toward the top (likely errors/console), similar to the DEBUG example and more dispersed than INTERPRET, indicating active code inspection and correction rather than simple reading or writing.",
+  "correct": false
+}

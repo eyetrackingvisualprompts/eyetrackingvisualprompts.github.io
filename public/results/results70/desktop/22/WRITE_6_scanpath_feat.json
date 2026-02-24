@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows a moderately wide area with frequent shifts between clustered regions and some larger saccades, resembling exploration of results pages and query refinement more than the tighter central focus of BROWSE or the structured horizontal patterns of READ/WRITE; overall it best matches the SEARCH example.",
+  "correct": false
+}

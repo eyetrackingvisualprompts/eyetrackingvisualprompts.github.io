@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered around the upper-left coding area with repeated fixations and short saccades, but includes occasional long saccades to the right side, matching the reference DEBUG pattern where participants focus on code while intermittently checking output or other panels.",
+  "correct": false
+}

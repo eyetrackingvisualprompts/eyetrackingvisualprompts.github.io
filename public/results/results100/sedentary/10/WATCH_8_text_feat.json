@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions including edges and off-screen coordinates, with many revisits to moving-like locations and vertical excursions, closely resemble the dynamic object-following and spatial scanning patterns seen in the PLAY examples rather than the more line-structured (READ/WRITE) or panel-focused (DEBUG/INTERPRET) tasks.",
+  "correct": false
+}

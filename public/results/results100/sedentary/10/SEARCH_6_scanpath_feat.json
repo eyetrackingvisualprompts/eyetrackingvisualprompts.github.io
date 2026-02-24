@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread across much of the screen with varied vertical positions and irregular horizontal movements, lacking the structured columns of READ or the focused code areas of programming tasks, matching the heterogeneous scanpath typical of free web browsing.",
+  "correct": false
+}

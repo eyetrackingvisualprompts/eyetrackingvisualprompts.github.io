@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cover a wide range of screen regions with rapid shifts between dispersed clusters (including corners and edges), short fixations, and frequent direction changes, which is characteristic of dynamic game play and unlike the more centralized, line\u2011structured, or vertically constrained patterns seen in READ, WRITE, SEARCH, BROWSE, or WATCH examples.",
+  "correct": true
+}

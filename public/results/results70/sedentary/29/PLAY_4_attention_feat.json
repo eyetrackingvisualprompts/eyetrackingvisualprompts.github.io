@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is concentrated around the central horizontal band with spread across the width and limited vertical movement, resembling the WATCH example\u2019s distribution over a full-screen video rather than the more text-block-focused or code-left-heavy patterns of reading, writing, or debugging.",
+  "correct": false
+}

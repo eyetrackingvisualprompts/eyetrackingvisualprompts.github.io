@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated shifts between upper and lower screen regions with varied horizontal positions, indicating alternating attention between results, query box, and different snippets, which best matches the heterogeneous scanning behavior typical of SEARCH rather than the more patterned reading/browsing or focused code-related tasks.",
+  "correct": true
+}

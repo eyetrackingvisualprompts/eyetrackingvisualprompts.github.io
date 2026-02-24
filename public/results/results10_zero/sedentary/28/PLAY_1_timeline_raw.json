@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are very stable with only small smooth drifts in both X and Y over the full 10 s, showing no line-by-line horizontal sweeps or frequent shifts between regions. This sustained, relatively central fixation pattern is most consistent with passively watching a video rather than reading, searching, coding, debugging, browsing, interpreting, or playing an interactive game, all of which typically exhibit more frequent and structured saccades across the screen.",
+  "correct": false
+}

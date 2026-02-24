@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long, stable fixations around mid-screen with small local saccades and occasional larger jumps to a different screen region closely match the browsing pattern, especially the BROWSE example\u2019s behavior around (0.5\u20130.6, 0.4\u20130.6) with sporadic transitions to another area, rather than the more line-structured READ or highly dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

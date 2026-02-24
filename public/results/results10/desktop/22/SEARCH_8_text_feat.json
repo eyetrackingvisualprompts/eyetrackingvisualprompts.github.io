@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The pattern shows medium-length fixations with several vertical transitions between mid and upper screen regions and occasional larger relocations, matching the mixed reading-scanning behavior and vertical navigation typical of search-engine result browsing rather than the more local, line-based patterns of READ/WRITE or the highly dynamic spreads of PLAY/WATCH/BROWSE.",
+  "correct": true
+}

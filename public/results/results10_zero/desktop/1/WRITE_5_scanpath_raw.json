@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a compact central area with small, smooth shifts and no clear horizontal line-by-line or vertical scrolling patterns; this suggests passively viewing content in roughly the same region of the screen, which is more consistent with watching a video than with reading, playing, searching, writing, or browsing that typically involve larger systematic or directional eye movements.",
+  "correct": false
+}

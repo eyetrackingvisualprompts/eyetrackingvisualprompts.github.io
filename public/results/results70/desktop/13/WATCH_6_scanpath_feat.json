@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are distributed over a moderate central area with multiple clusters and frequent shifts among them, indicating exploration of different regions on a webpage. This pattern matches the browsing example more than the more localized patterns of READ/WRITE or the more extreme motion seen in PLAY/WATCH.",
+  "correct": false
+}

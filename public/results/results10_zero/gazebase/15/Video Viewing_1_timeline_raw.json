@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show large, discrete jumps to various locations across the full \u00b115\u00b0/\u00b19\u00b0 range, with periods of relatively stable fixation between jumps and no clear constraint to a single horizontal line or to the screen center, matching the random target positions in the Random Saccades task rather than purely horizontal, central fixation, reading, gaming, or natural viewing patterns.",
+  "correct": false
+}

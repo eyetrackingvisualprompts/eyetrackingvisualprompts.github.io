@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with dense, repeated fixations around the same coordinates (\u2248270\u2013330 x 340\u2013540), oscillating between a few nearby lines/areas rather than scanning broadly or progressing line by line. This tight, revisiting pattern over a small area is characteristic of mentally simulating and re-checking a short code snippet (INTERPRET), and matches the spatial density and dynamics of the INTERPRET examples better than the more dispersed, multi-panel patterns seen in DEBUG/WRITE or the horizontal line sweeps in READ/BROWSE/SEARCH.",
+  "correct": true
+}

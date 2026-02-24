@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays in a narrow horizontal band near the top of the screen with long, linear left\u2013right and right\u2013left sweeps and revisits, matching reading and re-reading of a single search-results row or query area, similar to the SEARCH example\u2019s horizontal scanning, and unlike the more vertical line-by-line patterns in READ or the localized code-focused patterns in INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

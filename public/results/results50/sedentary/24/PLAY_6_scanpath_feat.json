@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed over several horizontal bands like reading result snippets, with occasional long saccades to the far right (likely search result items or answer panels), similar to the SEARCH example and less focused than READ or WRITE but more structured than BROWSE or PLAY.",
+  "correct": false
+}

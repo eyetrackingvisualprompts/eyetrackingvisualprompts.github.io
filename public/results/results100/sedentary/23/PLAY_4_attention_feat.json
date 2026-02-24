@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations form a primarily horizontal band across the upper-middle of the screen, similar to scanning search results or the top of a search page, and closely matches the provided SEARCH heatmap pattern more than the other activities.",
+  "correct": false
+}

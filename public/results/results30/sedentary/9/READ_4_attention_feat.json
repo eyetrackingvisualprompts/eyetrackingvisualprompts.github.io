@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a mid-lower horizontal band with some spread and occasional glances to the upper area, matching the pattern of attending mainly to a code editor region while occasionally checking other UI elements, which aligns best with the WRITE examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is scattered over a mid-screen region with moderate saccade lengths and no strong horizontal line structure, unlike the tight horizontal bands of READ or concentrated upper areas of WATCH/WRITE; pattern best matches exploratory, less-structured viewing typical of BROWSE.",
+  "correct": true
+}

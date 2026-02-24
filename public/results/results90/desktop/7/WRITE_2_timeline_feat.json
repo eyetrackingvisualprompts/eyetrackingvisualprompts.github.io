@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows a relatively stable, high Y fixation band with a slowly drifting X fixation from left to right over time and moderate saccades, closely matching the structured, line-by-line progression pattern seen in the WRITE example rather than the more scattered SEARCH/BROWSE or highly vertical PLAY/WATCH behaviors.",
+  "correct": true
+}

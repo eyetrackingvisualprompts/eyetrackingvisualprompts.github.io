@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-length fixations with several long, multi-directional saccades, including large vertical jumps between widely separated screen regions, consistent with scanning search results, scrolling, and re-locating information rather than the more line-structured patterns of READ or the localized code-focus patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

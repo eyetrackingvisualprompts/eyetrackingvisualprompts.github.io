@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated on a relatively tall, narrow area on the left where code editing typically occurs, with some scattered fixations elsewhere (e.g., console or auxiliary panels). This spatial pattern and spread closely resemble the WRITE example more than the other activities.",
+  "correct": false
+}

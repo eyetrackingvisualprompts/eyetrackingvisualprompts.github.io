@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The X fixation remains relatively stable around the screen center while Y fixation stays in the upper half with gradual drifts and occasional larger vertical saccades, matching the example WATCH pattern of following on-screen video content rather than the more systematic scanning or tight reading patterns seen in SEARCH/READ/WRITE/BROWSE.",
+  "correct": true
+}

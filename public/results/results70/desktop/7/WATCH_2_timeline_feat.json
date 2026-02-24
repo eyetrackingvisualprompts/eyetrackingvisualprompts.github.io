@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations stay near screen center with small, frequent saccades and limited vertical range, closely matching the compact, centrally focused pattern of the BROWSE example rather than the broader sweeps seen in reading, writing, search, play, or watch tasks.",
+  "correct": false
+}

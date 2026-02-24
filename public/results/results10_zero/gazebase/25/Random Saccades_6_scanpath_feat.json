@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations cluster around several discrete positions that persist for about one second each, with relatively large jumps between them in both horizontal and vertical directions and no clear horizontal line structure or dense central clustering, matching a gaze following a randomly moving target rather than reading, video viewing, fixations, a game, or strictly horizontal saccades.",
+  "correct": true
+}

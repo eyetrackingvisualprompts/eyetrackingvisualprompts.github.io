@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly concentrated on a left-centered band consistent with reading search results, with occasional long saccades to the far right and lower area indicative of checking another part of the page or a different result, matching the SEARCH pattern more than the other tasks.",
+  "correct": false
+}

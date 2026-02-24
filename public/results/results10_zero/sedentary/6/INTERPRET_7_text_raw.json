@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cluster around a relatively small central region with frequent short saccades and occasional large jumps (including to screen extremes), consistent with tracking dynamic game elements and intermittently checking other areas, rather than the more linear scan paths of reading/searching or the more stationary patterns of code-focused tasks.",
+  "correct": false
+}

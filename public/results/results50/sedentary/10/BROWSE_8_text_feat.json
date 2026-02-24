@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps between top, bottom, and off-screen coordinates, with extended horizontal scanning around mid-screen rows and many fixations in a scroll-like vertical band resemble navigating and reading varied web content more than focused code, search results, or continuous gameplay/video patterns.",
+  "correct": true
+}

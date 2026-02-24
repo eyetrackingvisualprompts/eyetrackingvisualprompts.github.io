@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a narrow horizontal band with slow, small shifts and brief vertical transitions, forming stable clusters akin to line-by-line inspection near mid-lower screen. The pattern lacks the large exploratory jumps and vertical scrolling typical of SEARCH/BROWSE or the broader spatial dispersion of WATCH/PLAY/WRITE, and best matches the sustained, localized fixation structure seen in the READ examples.",
+  "correct": false
+}

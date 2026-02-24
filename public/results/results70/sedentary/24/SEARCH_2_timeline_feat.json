@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent shifts between upper and lower screen regions with irregular horizontal movements, resembling alternating attention between search results, snippets, and possibly opened pages\u2014most similar to the SEARCH example pattern compared to the more linear READ/BROWSE or more localized INTERPRET/WRITE behaviors.",
+  "correct": true
+}

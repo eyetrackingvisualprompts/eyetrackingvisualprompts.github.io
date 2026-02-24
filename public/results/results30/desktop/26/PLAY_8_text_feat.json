@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band in the upper-middle screen with long, stable fixations and small corrective saccades, matching focused text-entry behavior in a word processor rather than wider, multi-directional exploration typical of search, browse, or play, and occurring higher than the usual reading lines for the provided READ examples, consistent with looking near a text cursor and toolbar region while writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze coordinates are concentrated in the lower half of the screen with rapid, continuous shifts and arcs, suggesting tracking and anticipating moving targets and avatar positions rather than line-by-line reading or code inspection; this dynamic, bottom-area\u2013focused pattern best matches gameplay behavior among the given classes.",
+  "correct": false
+}

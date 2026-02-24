@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are grouped into several horizontal bands with strong clusters on the left and center-top, resembling attention to search results titles/snippets and some scanning lower lines, matching the SEARCH example more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large, smooth shifts and wide spatial coverage with periods of off-screen or calibration-like points, consistent with following dynamic visual content across the screen rather than structured line-by-line reading or code-focused tasks; this pattern best matches passive video watching behavior.",
+  "correct": false
+}

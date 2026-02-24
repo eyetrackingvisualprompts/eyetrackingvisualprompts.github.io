@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between a dense cluster in the upper-left and several widely separated areas including a large excursion to the bottom-center, indicating navigation across different webpage regions rather than focused code reading/writing or continuous video watching; this scanpath best matches the varied, exploratory pattern of web browsing.",
+  "correct": false
+}

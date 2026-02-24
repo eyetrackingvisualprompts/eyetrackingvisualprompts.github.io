@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations for both X and Y stay near screen center with moderate, irregular saccades and no clear monotonic trend or strong vertical scanning pattern, matching the mixed, locally exploratory behavior seen in the BROWSE example rather than the more structured patterns of READ, SEARCH, WATCH, WRITE, or PLAY.",
+  "correct": true
+}

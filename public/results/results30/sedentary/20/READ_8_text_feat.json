@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid gaze shifts across wide screen areas (including extreme corners and outside central content), frequent revisits to bottom regions, and highly dynamic vertical and horizontal movements resemble tracking moving objects or regions in a game more than the more structured, line-based or code-panel patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

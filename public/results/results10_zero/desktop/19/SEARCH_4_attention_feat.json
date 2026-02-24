@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations cluster mainly near the top edge and a bit lower center, resembling attention to a few salient areas such as faces or key regions in a video frame, without the horizontal line patterns of reading or the broader exploratory spread typical of search, browse, play, or write tasks.",
+  "correct": false
+}

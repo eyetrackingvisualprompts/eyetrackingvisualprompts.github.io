@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Large, frequent vertical and diagonal saccades between code-like regions (mid screen) and extreme top/bottom positions, plus repeated revisits to similar coordinates and prolonged scrutiny of mid-screen clusters, match the complex, iterative inspection and re-inspection patterns seen in the DEBUG examples more than the other tasks.",
+  "correct": true
+}

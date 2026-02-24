@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Predominantly localized fixations around a compact code-like region (x\u2248200\u2013450, y\u2248330\u2013430) with long dwell times, small back-and-forth saccades, and occasional large jumps to distant points resemble the INTERPRET example patterns more than the broader scanning of SEARCH/BROWSE or the dynamic shifts of PLAY/WATCH. The behavior matches focused reasoning over a snippet rather than typing (WRITE) or extensive navigation (DEBUG).",
+  "correct": false
+}

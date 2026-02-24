@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains within a relatively small region with smooth, continuous movements and few structured horizontal or vertical sweeps, suggesting following dynamic visual content rather than line-based reading, text entry, or extensive web search/browsing patterns; this is most consistent with watching a video segment.",
+  "correct": false
+}

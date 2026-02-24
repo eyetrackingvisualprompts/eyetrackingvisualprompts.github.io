@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a single compact region with minor local shifts, similar to the BROWSE example\u2019s localized fixation pattern and unlike the more distributed or line-structured patterns of PLAY, READ, SEARCH, WATCH, or WRITE.",
+  "correct": false
+}

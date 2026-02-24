@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is spread over a relatively large vertical region on the left/middle of the screen with many regressions and diagonal saccades, similar to the DEBUG example and unlike the more localized clusters (WRITE/INTERPRET) or horizontal reading patterns (READ/BROWSE). This pattern matches code debugging, where the user repeatedly scans between code lines and interface elements.",
+  "correct": true
+}

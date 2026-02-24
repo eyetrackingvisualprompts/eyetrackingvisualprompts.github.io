@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers a mid-screen region with irregular multi-directional movements and moderate dispersion, matching the browsing example pattern more closely than the more linear, tightly banded paths in READ or the constrained regions in WRITE and PLAY.",
+  "correct": true
+}

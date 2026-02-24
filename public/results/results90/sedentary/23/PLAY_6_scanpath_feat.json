@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a confined code-area region with vertical movements between a few lines and occasional checks to another small area, matching focused code inspection typical of interpreting a snippet rather than the broader spread seen in writing or debugging tasks.",
+  "correct": false
+}

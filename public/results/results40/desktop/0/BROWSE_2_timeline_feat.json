@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-amplitude horizontal and vertical shifts with varied fixation bands across Y, indicating scanning of SERPs and result pages; pattern closely matches the SEARCH example more than the other activities.",
+  "correct": false
+}

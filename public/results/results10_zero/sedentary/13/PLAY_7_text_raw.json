@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows rapid, large-amplitude shifts across wide screen regions (center, bottom, top, corners) with irregular paths and revisits, consistent with tracking moving objects and navigating a dynamic scene typical of simple games, rather than the more line-structured, horizontal scan patterns of reading/browsing or the relatively focused regions of coding-related tasks or passive video watching.",
+  "correct": true
+}

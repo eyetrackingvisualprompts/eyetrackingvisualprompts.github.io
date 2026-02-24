@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows a sequence of discrete fixations connected by relatively straight saccades to spatially separated positions, including larger vertical and moderate horizontal jumps, with each cluster revisited over time\u2014consistent with following a randomly moving target rather than repetitive horizontal sweeps, static fixation, or reading-like left-to-right patterns.",
+  "correct": false
+}

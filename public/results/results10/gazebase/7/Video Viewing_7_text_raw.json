@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The target data shows large-amplitude, multi-directional jumps across wide visual angles (including frequent transitions between far eccentric positions and more central ones), followed by ~1 s clusters of relatively stable samples at each location\u2014matching the trial structure of Random Saccades rather than the strictly horizontal motion, text-line structure, game-driven, or central fixation patterns of the other classes.",
+  "correct": false
+}

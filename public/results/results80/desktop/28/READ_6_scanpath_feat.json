@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Scanpath shows dense, systematic horizontal sweeps with small vertical shifts\u2014typical of line-by-line text reading and distinct from the more clustered (WRITE/SEARCH/BROWSE) or dispersed (WATCH/PLAY) patterns.",
+  "correct": true
+}

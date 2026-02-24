@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, irregular vertical excursions with broad spread and fewer structured horizontal scan patterns, matching the more free-form, scene-driven viewing behavior seen in the WATCH examples rather than the more line-oriented or interface-focused patterns of READ, WRITE, SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread horizontally across the upper-middle band with multiple dispersed fixations, similar to scanning results and snippets on a search results page, and less concentrated than INTERPRET/DEBUG or structured like READ/WRITE/BROWSE, matching the SEARCH example most closely.",
+  "correct": false
+}

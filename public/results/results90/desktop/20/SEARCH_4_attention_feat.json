@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central region with moderate vertical spread and some scattered points, closely matching the browsing example pattern rather than the more linear (READ/WRITE) or widely dispersed (WATCH/PLAY) distributions.",
+  "correct": false
+}

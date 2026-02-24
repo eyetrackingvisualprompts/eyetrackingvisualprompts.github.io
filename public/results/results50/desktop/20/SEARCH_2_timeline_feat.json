@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are centered around the middle of the screen with moderate vertical range and frequent small shifts in both axes, similar to the heterogeneous, exploratory pattern seen in the BROWSE example rather than the more structured or strongly directional patterns in READ, SEARCH, WATCH, WRITE, or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively long (200\u2013700 ms) and clustered around central screen regions with mostly small, localized saccades and limited large-amplitude shifts. The pattern suggests sustained attention on nearby points rather than broad exploratory scanning or rapid target tracking, which is most consistent with reading static text on the screen.",
+  "correct": false
+}

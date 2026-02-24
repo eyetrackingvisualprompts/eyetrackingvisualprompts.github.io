@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated over the left-side code area with vertical spread, indicating scanning through multiple lines, plus a secondary cluster on the right likely on console/output or debugger panel\u2014pattern most consistent with debugging rather than the more localized WRITE/INTERPRET views or the more dispersed BROWSE/SEARCH/WATCH activities.",
+  "correct": false
+}

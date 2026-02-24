@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is spread horizontally across the upper-middle region like scanning a navigation bar or multiple webpage elements, with a few fixations lower on the page, closely resembling the BROWSE example heatmap more than the tighter code/text-focused or game/video patterns of other classes.",
+  "correct": false
+}

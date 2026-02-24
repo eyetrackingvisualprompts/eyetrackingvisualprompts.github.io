@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated around the central region with additional sparse points across the screen, resembling the WATCH example\u2019s distributed yet center-biased pattern typical of viewing dynamic full-screen video rather than the more localized or structured patterns of text/code tasks or web pages.",
+  "correct": false
+}

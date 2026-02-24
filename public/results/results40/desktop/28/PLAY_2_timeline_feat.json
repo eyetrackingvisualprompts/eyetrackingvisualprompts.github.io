@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is centered with moderate vertical elevation, limited horizontal range, and intermittent saccades\u2014closely matching the SEARCH example pattern where attention alternates between search box, results list, and some scrolling, unlike the more static READ or more scattered BROWSE distributions.",
+  "correct": false
+}

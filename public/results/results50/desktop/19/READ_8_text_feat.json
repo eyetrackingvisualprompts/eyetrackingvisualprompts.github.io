@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows medium-length fixations with frequent shifts between upper and mid screen, and repeated large vertical/horizontal relocations (e.g., jumps from top edge to mid/left and back), resembling scanning across heterogeneous content blocks typical of web browsing rather than the more line-structured, band-limited patterns of reading or the more static, top-center focus of writing/search results.",
+  "correct": false
+}

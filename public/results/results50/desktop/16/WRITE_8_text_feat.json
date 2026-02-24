@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large vertical transitions between mid-page and near-top/bottom regions, mixed with periods of detailed inspection at varying vertical positions, match the scroll\u2013scan\u2013inspect pattern seen in SEARCH data more than the more line-structured READ or the localized WRITE patterns.",
+  "correct": false
+}

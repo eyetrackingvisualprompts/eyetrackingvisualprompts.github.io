@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze points alternate between two clusters at the same vertical level but opposite horizontal sides of the screen, forming repeated long horizontal movements with minimal vertical variation, which matches the horizontal saccade pattern.",
+  "correct": true
+}

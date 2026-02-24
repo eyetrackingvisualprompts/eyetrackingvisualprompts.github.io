@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixation positions are confined to lower screen regions with relatively small, steady shifts and limited vertical range, matching the focused, localized gaze pattern seen in the WRITE example more than the broader scanning of READ or SEARCH.",
+  "correct": false
+}

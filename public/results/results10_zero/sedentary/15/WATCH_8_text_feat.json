@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze behavior shows frequent medium-length fixations interleaved with short, multidirectional saccades clustered in a relatively localized region, consistent with inspecting and re-inspecting small code sections and moving between related lines or elements\u2014typical of debugging\u2014rather than the more linear scanpaths of reading/interpreting or the broader exploratory patterns of browsing, search, play, or watching video.",
+  "correct": false
+}

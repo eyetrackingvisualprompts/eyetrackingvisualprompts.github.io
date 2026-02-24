@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points move dynamically between two vertically separated clusters, indicating frequent directional shifts rather than horizontal reading or static viewing, which aligns best with interactive game play patterns among the given classes.",
+  "correct": false
+}

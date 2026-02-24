@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central-middle of the screen with a roughly vertical spread, matching the browsing example pattern (central content area and some vertical scrolling) more than the other task heatmaps.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in the upper-left central region at high Y values, matching the focused, localized pattern of looking near the text cursor area in a word processor, similar to the WRITE example heatmap and more concentrated than READ or BROWSE.",
+  "correct": false
+}

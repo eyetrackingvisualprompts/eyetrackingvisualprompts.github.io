@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows a horizontally elongated band of fixations sweeping from left to right across much of the screen height, matching the line-by-line scanning pattern seen in the READ example rather than the more localized clusters of BROWSE, SEARCH, or WRITE.",
+  "correct": true
+}

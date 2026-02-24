@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a few compact regions, mainly mid\u2011left and center, with limited vertical spread, indicative of tracking localized game elements (e.g., player/ball) rather than scanning lines of text or code as in reading, writing, debugging, or interpreting tasks.",
+  "correct": false
+}

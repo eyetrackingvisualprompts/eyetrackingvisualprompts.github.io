@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains within a relatively constrained vertical band while smoothly shifting horizontally across mid-to-lower screen regions, with frequent small saccades among clustered coordinates\u2014consistent with following dynamic on-screen content (e.g., characters or objects in a video) rather than line-by-line reading or code-focused tasks. The pattern lacks the systematic line/paragraph structure of READ/BROWSE or the tight code-block fixations of WRITE/INTERPRET/DEBUG, and is more continuous and less target-jumping than typical SEARCH/PLAY behavior.",
+  "correct": false
+}

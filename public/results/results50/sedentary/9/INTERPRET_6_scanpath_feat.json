@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, focused gaze cluster on the left code/IDE area with occasional long saccades to a smaller cluster on the right side (likely console or editor region), closely matching the WRITE example where participants switch between coding area and output, unlike the more dispersed patterns of BROWSE or SEARCH.",
+  "correct": false
+}

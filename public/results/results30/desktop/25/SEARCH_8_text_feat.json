@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts span a broad vertical range (around y=0.23\u20130.58) with frequent medium/long saccades between separated regions, interleaved with moderate fixations. This pattern reflects scanning multiple spatially distinct elements (e.g., headlines, images, different page sections) more than the line-structured, horizontally constrained movements of READ or the highly central, text-band focus of WRITE. The mix of exploratory jumps and local inspections matches the BROWSE example dynamics best.",
+  "correct": false
+}

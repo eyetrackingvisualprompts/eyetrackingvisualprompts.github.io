@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered with small jitter around a central area, indicating sustained attention to a relatively static region of the screen without systematic horizontal or vertical scanning patterns typical of reading, browsing, searching, or writing; this is most consistent with watching a video where the main action is near the center.",
+  "correct": false
+}

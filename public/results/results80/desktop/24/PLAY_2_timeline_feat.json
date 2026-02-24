@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions are centered with relatively small, irregular saccades and modest drift in both X and Y, resembling the mixed, less-structured scanning seen during web browsing rather than the systematic line-by-line patterns of reading or the larger, more dynamic shifts typical of play, watch, search, or write tasks.",
+  "correct": false
+}

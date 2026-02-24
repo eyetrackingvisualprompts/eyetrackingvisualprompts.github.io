@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large saccades between upper-mid and lower screen regions and across vertical levels, with short fixations, resemble scanning between search box, result snippets, and lower content, matching the heterogeneous, multi-level gaze transitions seen in the SEARCH examples more than the more line-structured READ or centrally clustered BROWSE patterns.",
+  "correct": false
+}

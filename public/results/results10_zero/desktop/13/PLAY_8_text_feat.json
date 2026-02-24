@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively long (200\u2013700 ms) and clustered in a compact central region with small, mostly horizontal saccades and frequent regressions, consistent with reading lines of text rather than the larger, more exploratory eye movements typical of browsing, searching, playing, watching video, or writing (which also shows more gaze to peripheral UI elements and keyboard).",
+  "correct": false
+}

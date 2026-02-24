@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze remains within a mid-screen horizontal band, repeatedly sweeping between central and right regions with medium-length fixations and systematic revisits, consistent with reading/editing code in an IDE during function implementation rather than the broader vertical scanning of browsing/search or the more line-structured horizontal movements of prose reading.",
+  "correct": false
+}

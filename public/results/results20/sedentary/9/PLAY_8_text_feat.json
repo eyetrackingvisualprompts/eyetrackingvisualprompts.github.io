@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are long (often >0.5\u20131s) and clustered along a narrow horizontal band with small regressions and short saccades within that band, matching line-based reading behavior more than the more scattered, multi-region patterns of coding, games, or web search/browsing.",
+  "correct": false
+}

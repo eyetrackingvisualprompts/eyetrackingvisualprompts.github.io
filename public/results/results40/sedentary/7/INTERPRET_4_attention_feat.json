@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered on a single code region in the upper-left area with minimal spread elsewhere, resembling the focused vertical pattern seen in the INTERPRET example where participants read and reason about a short code snippet, rather than the more distributed patterns of DEBUG or WRITE.",
+  "correct": true
+}

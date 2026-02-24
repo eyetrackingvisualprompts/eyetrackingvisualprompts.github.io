@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large-amplitude saccades in multiple directions (both horizontal and oblique) with brief fixations at dispersed positions, rather than a stable central gaze, strictly horizontal shifts, or systematic left-to-right reading patterns, matching the random target-following behavior of Random Saccades.",
+  "correct": true
+}

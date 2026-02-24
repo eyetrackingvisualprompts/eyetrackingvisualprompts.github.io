@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains within a relatively narrow central band with slow, smooth positional changes and few large jumps, resembling continuous tracking of screen content rather than line-by-line reading or code inspection patterns, which fits best with watching a video.",
+  "correct": true
+}

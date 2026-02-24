@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades covering a wide vertical and horizontal range with few stable, line-like fixations. This pattern reflects continuous tracking and reorienting typical in simple games (e.g., following moving objects), rather than the more localized, left-to-right or paragraph-structured fixations seen in reading, searching, or code-related tasks.",
+  "correct": false
+}

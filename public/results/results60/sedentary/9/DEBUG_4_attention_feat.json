@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated over a tall, narrow region on the left side of the screen spanning multiple vertical positions\u2014matching the pattern for viewing and revisiting several lines of code as in the DEBUG example, rather than the more compact INTERPRET cluster or the broader distributions of other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The data shows extremely long, smooth pursuits (multi-second saccades) with brief fixations, indicating continuous tracking of moving visual content across large screen regions, which matches watching dynamic full-screen video rather than discrete text/code or web navigation tasks.",
+  "correct": false
+}

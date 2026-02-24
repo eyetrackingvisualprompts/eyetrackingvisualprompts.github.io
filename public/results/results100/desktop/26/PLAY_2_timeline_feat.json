@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower half of the screen (Y around 0.25\u20130.4) with relatively narrow X range and small, frequent saccades, matching the pattern of focusing near a text-entry area and toolbar while writing, and distinct from the more central/upper focus of reading or browsing and the wider, more dynamic movements in search, watch, or play tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a tight, localized cluster of fixations in the upper-left code area with minimal spread elsewhere, matching the focused, stationary gaze pattern seen in the INTERPRET example rather than the broader scanning of DEBUG or other tasks.",
+  "correct": true
+}

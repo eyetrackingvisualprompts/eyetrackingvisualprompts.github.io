@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly mid-screen code-region fixations with frequent revisits, vertical shifts between code and likely console/output areas, and occasional large saccades to screen corners and outside-screen coordinates match the dense, revisory inspection pattern seen in DEBUG, rather than the more linear READ/WRITE or top-heavy SEARCH behaviors.",
+  "correct": true
+}

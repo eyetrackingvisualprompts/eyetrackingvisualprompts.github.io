@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread across multiple vertical regions and horizontally around mid-screen with several distinct clusters, resembling scanning of different webpage areas, similar to the BROWSE example rather than the more confined patterns of code, reading, or video tasks.",
+  "correct": false
+}

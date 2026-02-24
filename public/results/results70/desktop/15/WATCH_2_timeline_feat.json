@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations fluctuate around mid-screen with frequent, irregular saccades and no strong directional trend or banded structure, matching the heterogeneous, multi-region scanning pattern seen in the BROWSE example rather than the more structured patterns of READ/WRITE or the larger shifts of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

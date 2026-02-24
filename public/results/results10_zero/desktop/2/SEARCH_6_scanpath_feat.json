@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points remain clustered within a small upper-central region with minimal horizontal scanning or line-by-line progression, showing few distinct fixations and limited exploratory saccades. This stable focus on a single area is most consistent with passively watching video content rather than reading, searching, browsing, writing, or playing a game, which typically involve broader or more structured eye movements.",
+  "correct": false
+}

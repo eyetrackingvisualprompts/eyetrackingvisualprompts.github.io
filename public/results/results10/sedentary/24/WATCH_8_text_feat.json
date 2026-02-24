@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length fixations interleaved with many short saccades between a few vertically compact code-like regions (mid-left, central, and upper-right), plus repeated returns to similar coordinates, match the detailed, line-to-line and reference-checking gaze behavior typical of debugging, and differ from the more horizontal reading/browsing scans or the smoother, object-following patterns of watching/playing.",
+  "correct": false
+}

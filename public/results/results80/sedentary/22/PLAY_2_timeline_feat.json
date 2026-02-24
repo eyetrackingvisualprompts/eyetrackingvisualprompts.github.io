@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The target data shows a steady, monotonic increase in X fixation with relatively smooth, slowly rising Y fixation, closely matching the line-by-line progression pattern seen in the READ example and differing from the more scattered, multi-region patterns of coding, browsing, or gaming tasks.",
+  "correct": false
+}

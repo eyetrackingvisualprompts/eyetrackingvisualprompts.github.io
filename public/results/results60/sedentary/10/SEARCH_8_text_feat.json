@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between widely separated vertical regions (top results, middle snippets, lower area), horizontal scans along lines around y\u2248270\u2013370, and repeated returns to top-like coordinates match the structured but exploratory pattern of scanning a search results page rather than continuous text reading or focused code inspection.",
+  "correct": true
+}

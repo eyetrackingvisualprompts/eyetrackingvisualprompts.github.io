@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like movements to various locations across both horizontal (\u00b115 DVA) and vertical (\u00b19 DVA) directions, with each position held for around one second, matching the random target jumps and dwell times of the Random Saccades task rather than purely horizontal, static, or reading-like patterns.",
+  "correct": false
+}

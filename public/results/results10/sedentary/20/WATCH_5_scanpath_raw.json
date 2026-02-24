@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, rapid movements covering wide vertical and horizontal extents with less structured revisits, indicative of following dynamic objects or navigating a game space, which matches the PLAY examples more than the more localized, structured code or reading tasks.",
+  "correct": false
+}

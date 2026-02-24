@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Very long saccades across the screen (top bar, central content, bottom area), revisits to top-left/top-right regions, and extended dwelling near screen edges resemble free web navigation patterns more than structured code (WRITE/DEBUG/INTERPRET) or continuous media (WATCH/PLAY). The scanning and revisiting behaviour over widely separated coordinates aligns best with BROWSE examples.",
+  "correct": true
+}

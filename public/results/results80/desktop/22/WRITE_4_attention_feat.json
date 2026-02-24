@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region near the upper-center of the screen, similar to the BROWSE example where gaze clusters around a central content area, unlike the more horizontally spread patterns seen in READ or WRITE.",
+  "correct": false
+}

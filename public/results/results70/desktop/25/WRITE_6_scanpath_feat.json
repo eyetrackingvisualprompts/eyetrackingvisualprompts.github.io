@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze covers a broad vertical region with multiple scattered clusters and frequent transitions across mid-screen, resembling the mixed reading-and-navigation pattern seen in browsing, and differing from the more constrained bands of READ/WRITE and the upper-screen focus of WATCH/PLAY.",
+  "correct": false
+}

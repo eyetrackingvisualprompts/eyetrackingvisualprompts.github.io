@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered around the screen middle with frequent, irregular saccades in both axes and no strong directional scan pattern, matching the exploratory, scattered gaze typical of web browsing rather than the more structured horizontal/vertical patterns of reading, writing, searching, watching, or gaming.",
+  "correct": false
+}

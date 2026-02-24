@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is centered horizontally around mid-screen with relatively stable X and higher Y positions, plus moderate vertical saccades and occasional shifts\u2014closely matching the search example pattern of focusing on upper and mid regions of a results page rather than the more extensive vertical scanning seen in READ or the scattered patterns in BROWSE/PLAY.",
+  "correct": false
+}

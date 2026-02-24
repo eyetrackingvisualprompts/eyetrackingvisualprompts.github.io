@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a few compact regions on the left/upper-left (likely code editor area) with an additional small cluster mid-right (e.g., console or reference panel), consistent with focused editing of code in an IDE rather than continuous reading, browsing, or watching content spread across the screen.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is tightly clustered in a small region with minimal spread, indicating focused attention on a localized area of the screen, which matches the concentrated fixation pattern observed in the PLAY examples rather than the broader, more distributed patterns of reading, searching, browsing, watching, or writing.",
+  "correct": false
+}

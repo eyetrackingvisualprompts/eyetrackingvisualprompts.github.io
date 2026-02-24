@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are centered horizontally with moderate vertical position and intermittent larger saccades, showing periodic shifts like moving between search results and content; this spatiotemporal pattern aligns best with the SEARCH example compared to the more stable READ or more dispersed BROWSE patterns.",
+  "correct": false
+}

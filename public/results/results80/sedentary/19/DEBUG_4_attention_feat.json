@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are densely clustered in the upper-left coding area with some vertical spread, similar to the DEBUG example where attention shifts around related code regions, and less tightly focused than INTERPRET or WRITE, indicating active inspection and correction across multiple lines of code.",
+  "correct": true
+}

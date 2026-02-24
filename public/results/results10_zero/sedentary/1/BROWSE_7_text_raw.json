@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cover wide screen areas with frequent rapid shifts between dispersed regions (center, lower, and far right), consistent with tracking dynamic in-game elements and navigating the scene, rather than the more linear, local, and column-bound patterns typical of reading, coding, or web search/browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent multidirectional saccades spanning much of the screen (vertical and horizontal), with relatively short, scattered fixations and repeated returns to central-upper areas\u2014matching dynamic game-like visual exploration rather than the more structured, line-based patterns of READ/WRITE or the more constrained mid/upper-band scanning of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

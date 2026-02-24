@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "After an initial large saccade, gaze stabilizes in a compact code-like region (x\u2248280\u2013420, y\u2248320\u2013420) with repeated regressions between closely spaced lines and local clusters of medium-long fixations, matching the focused, back-and-forth inspection pattern seen in the INTERPRET example rather than the broader scanning of DEBUG or SEARCH or the horizontal line sweeps of READ.",
+  "correct": true
+}

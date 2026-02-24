@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, continuous movements across a relatively wide area, with irregular, curving trajectories and fewer clear line-by-line reading patterns. This suggests tracking or anticipating moving objects on the screen, which is most consistent with the PLAY condition (e.g., following game elements) rather than the more localized or structured patterns typical of reading, coding, or web search/browsing.",
+  "correct": true
+}

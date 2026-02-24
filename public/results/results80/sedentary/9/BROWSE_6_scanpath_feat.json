@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Wide spatial coverage with frequent long saccades across the screen and clustered fixations around a central region resembles dynamic object tracking and exploration typical of gameplay, matching the PLAY example more than the more localized or structured patterns of coding, reading, searching, or watching.",
+  "correct": false
+}

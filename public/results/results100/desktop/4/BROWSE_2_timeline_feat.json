@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixations form relatively smooth, slowly drifting lines with moderate horizontal saccades and constrained vertical range, closely matching the structured left-to-right, line-by-line pattern seen in the READ example rather than the more scattered or highly variable patterns of browse, search, watch, play, or write.",
+  "correct": false
+}

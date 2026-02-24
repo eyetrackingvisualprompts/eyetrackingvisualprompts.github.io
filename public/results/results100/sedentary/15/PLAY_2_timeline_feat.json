@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent wide horizontal saccades with moderate vertical shifts and irregular scanning, resembling the SEARCH example more than the more structured READ or the denser, more chaotic PLAY/DEBUG/BROWSE patterns.",
+  "correct": false
+}

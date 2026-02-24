@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades spanning most of the screen in both horizontal and vertical directions with dispersed fixations, resembling the wide-range, dynamic gaze patterns seen in gameplay rather than the more clustered (BROWSE/SEARCH) or line-structured (READ/WRITE/WATCH) patterns.",
+  "correct": false
+}

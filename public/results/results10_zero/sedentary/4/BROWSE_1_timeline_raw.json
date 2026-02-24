@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Horizontal gaze position is relatively stable with slow left-to-right drift, while vertical position shows step-like downward shifts consistent with line changes; this pattern matches continuous reading of text lines rather than scanning, code interaction, or dynamic object tracking.",
+  "correct": false
+}

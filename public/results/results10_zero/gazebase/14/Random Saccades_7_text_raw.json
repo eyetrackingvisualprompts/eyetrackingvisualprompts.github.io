@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show large, discrete jumps in gaze position (multi-degree shifts) followed by relatively stable clusters of points around new locations, consistent with following a target that moves to a new random position about once per second, rather than continuous tracking or structured left-to-right/right-to-left scan paths; this pattern best matches the Random Saccades task.",
+  "correct": true
+}

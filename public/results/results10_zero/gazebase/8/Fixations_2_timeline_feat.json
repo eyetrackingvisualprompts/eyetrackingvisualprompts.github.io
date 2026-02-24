@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains essentially at the screen center with only very small initial adjustment and then stable x/y fixation positions over the 10 s window, consistent with maintaining fixation on a static central target rather than tracking moving stimuli or reading.",
+  "correct": true
+}

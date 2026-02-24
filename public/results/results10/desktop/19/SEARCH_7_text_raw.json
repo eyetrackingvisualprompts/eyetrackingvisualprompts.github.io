@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long, smooth shifts between screen regions with extended fixations and large vertical excursions, consistent with following dynamic video content rather than the more structured horizontal/vertical scanpaths of reading, writing, searching, or browsing, and without the rapid multi-directional shifts characteristic of gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely dispersed across both horizontal and vertical axes with many long saccades and no clear reading structure or code/editor clustering, closely matching the dynamic, screen-wide tracking pattern seen in the PLAY example (especially games like Pong or Agario).",
+  "correct": false
+}

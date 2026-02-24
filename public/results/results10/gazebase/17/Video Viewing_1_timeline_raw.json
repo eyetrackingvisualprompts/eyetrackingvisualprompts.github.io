@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete jumps in both horizontal and vertical directions with roughly 1-second plateaus at each position, matching the step-like, multi-directional pattern of the Random Saccades example rather than the more constrained or smoother patterns of the other tasks.",
+  "correct": false
+}

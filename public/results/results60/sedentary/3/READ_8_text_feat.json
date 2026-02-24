@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long horizontal sweeps clustered in narrow vertical bands (around y\u2248180\u2013300 and then y\u2248350\u2013450), with repeated leftward return saccades and rightward progressions, matching line-by-line reading behavior seen in the READ examples rather than the more scattered, multi-region patterns of search, browse, code tasks, or dynamic tracking in play/watch.",
+  "correct": true
+}

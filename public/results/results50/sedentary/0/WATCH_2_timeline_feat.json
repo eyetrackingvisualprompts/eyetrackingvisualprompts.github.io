@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent shifts between two vertical bands and moderate vertical movements, indicating alternation between search results and individual pages or interface elements, which matches the SEARCH pattern more than the steadier READ/INTERPRET and less structured BROWSE/PLAY/WATCH behaviors.",
+  "correct": false
+}

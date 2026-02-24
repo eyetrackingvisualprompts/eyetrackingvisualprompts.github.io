@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a single horizontal band near the screen center, indicating focused inspection of one compact area (like a short code snippet) without extensive vertical or horizontal scanning typical of reading long text, browsing, or searching. This stable, localized pattern best matches interpreting a short function\u2019s output rather than writing/debugging or dynamic activities like playing or watching.",
+  "correct": false
+}

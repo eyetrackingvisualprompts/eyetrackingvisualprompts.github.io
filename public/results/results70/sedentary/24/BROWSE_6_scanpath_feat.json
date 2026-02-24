@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a left region and a central results-like cluster with long saccades between them, resembling query box plus results inspection as in the SEARCH example more than the other tasks.",
+  "correct": false
+}

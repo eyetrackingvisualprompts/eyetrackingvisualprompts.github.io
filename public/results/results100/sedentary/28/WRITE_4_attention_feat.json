@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a dense horizontal cluster on the left-center region, consistent with focusing on a code editor while typing, plus a distinct secondary cluster on the right side resembling brief attention to a console or output panel\u2014matching the WRITE example heatmap pattern.",
+  "correct": true
+}

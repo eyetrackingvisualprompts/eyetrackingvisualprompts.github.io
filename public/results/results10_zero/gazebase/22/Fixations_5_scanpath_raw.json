@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows a few large, discrete shifts between separated positions (mainly vertical) with relatively stable periods in between, consistent with following a target that jumps to new locations and holds for about a second, as in the Random Saccades task, rather than continuous tracking, dense horizontal lines, central fixation, or complex game/reading/video patterns.",
+  "correct": false
+}

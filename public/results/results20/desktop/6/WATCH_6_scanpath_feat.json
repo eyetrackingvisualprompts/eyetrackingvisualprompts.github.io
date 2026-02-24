@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows two spatially distinct clusters (upper-left and lower-center) connected by long saccades, with gaze spread over a wide area and frequent large transitions, matching the dynamic, multi-directional viewing patterns typical of gameplay rather than the more localized patterns of reading, writing, or passive watching/searching/browsing.",
+  "correct": false
+}

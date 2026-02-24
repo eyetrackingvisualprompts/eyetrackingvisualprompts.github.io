@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows moderate horizontal movements around screen center with both X and Y fixation traces slowly wandering and small saccades, resembling the mixed scanning of scattered elements seen in the BROWSE example rather than the more structured line-wise READ pattern or the more static WATCH pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely spread over a central region with frequent multidirectional saccades and revisits, resembling the exploratory, mixed vertical-horizontal pattern in the SEARCH example more than the more localized or structured patterns of READ, WRITE, WATCH, BROWSE, or PLAY.",
+  "correct": false
+}

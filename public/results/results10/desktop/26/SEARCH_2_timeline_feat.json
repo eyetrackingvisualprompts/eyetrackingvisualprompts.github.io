@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, large saccades and variable fixation positions in both X and Y, covering a wide screen area with dynamic shifts rather than structured line-by-line patterns (READ/WRITE) or more constrained upper-area focus (SEARCH/BROWSE). This broad, rapid exploration is most consistent with visually tracking game elements during PLAY.",
+  "correct": false
+}

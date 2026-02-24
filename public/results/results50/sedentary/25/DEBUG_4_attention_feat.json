@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations over a left-side code area with additional scattered looks across other regions, resembling checking outputs or IDE elements, matches the debugging heatmap more than the more localized WRITE/INTERPRET or scanline-like READ/BROWSE patterns.",
+  "correct": true
+}

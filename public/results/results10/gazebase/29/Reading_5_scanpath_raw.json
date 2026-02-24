@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps in both horizontal and vertical directions, covering a broad area of the screen with extended fixations at each location, consistent with following a target that randomly changes position rather than the constrained patterns of reading, horizontal-only saccades, or central fixation.",
+  "correct": false
+}

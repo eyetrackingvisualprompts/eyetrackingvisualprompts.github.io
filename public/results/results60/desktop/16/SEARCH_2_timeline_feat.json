@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts in both X and Y with broad vertical excursions and irregular patterns, matching the dynamic, multidirectional viewing behavior seen in the PLAY example rather than the more constrained, structured patterns of reading, writing, browsing, or searching.",
+  "correct": false
+}

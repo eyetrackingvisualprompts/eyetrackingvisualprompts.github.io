@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows primarily left-to-right, horizontally aligned fixations across several closely spaced lines with small vertical transitions, matching the typical multiline reading pattern and differing from larger, more dispersed movements seen in random or game-related saccades.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid directional changes and long saccades in multiple directions across the screen, with fewer tight horizontal or vertical line-by-line patterns. This broad, dynamic exploration is more consistent with tracking moving game elements than with reading, writing, browsing, searching, or passively watching video.",
+  "correct": false
+}

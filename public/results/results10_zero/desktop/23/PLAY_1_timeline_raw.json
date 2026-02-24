@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows prolonged periods at stable positions with occasional large, rapid shifts in both X and Y directions, consistent with following dynamic visual content and scene cuts in a video rather than systematic line-by-line reading, scanning for search results, or interactive cursor-focused tasks like writing or playing games.",
+  "correct": false
+}

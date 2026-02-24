@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band in the lower-middle of the screen with short, regular saccades and medium-length fixations, forming a stable, line-like scanpath typical of reading text rather than the larger vertical shifts of browsing/searching, the peripheral/extreme positions of play/watch, or the top-left biased pattern of writing.",
+  "correct": false
+}

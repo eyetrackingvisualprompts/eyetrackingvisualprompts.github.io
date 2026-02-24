@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The data shows repeated left-to-right horizontal scan patterns with periodic vertical shifts and a generally upward drift in Y fixations, matching the mixed reading-and-scrolling behavior characteristic of free web browsing rather than the more uniform, structured patterns of continuous reading or the more localized patterns of coding tasks.",
+  "correct": false
+}

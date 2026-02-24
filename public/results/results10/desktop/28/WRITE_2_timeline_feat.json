@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The first 7 seconds show relatively stable horizontal gaze around mid\u2013upper screen with moderate vertical shifts, then a large downward saccade and new fixation region, matching patterns of scanning results then moving to a clicked page in web search behavior; this trajectory best aligns with the SEARCH example.",
+  "correct": false
+}

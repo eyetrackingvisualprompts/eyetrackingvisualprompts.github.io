@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered over a relatively small left-central area with repeated vertical movements towards the bottom, resembling focused interaction with a code editor and occasional glances to related interface elements, which matches the WRITE pattern more than the broader, more dispersed patterns of SEARCH, BROWSE, or DEBUG.",
+  "correct": true
+}

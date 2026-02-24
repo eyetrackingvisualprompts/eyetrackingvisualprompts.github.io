@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows mostly horizontal motion with gradual rightward drift and occasional sharp regressions while vertical position stays nearly constant, matching line-by-line reading on a single text block rather than dynamic or multi-region tasks like play, search, or coding activities.",
+  "correct": false
+}

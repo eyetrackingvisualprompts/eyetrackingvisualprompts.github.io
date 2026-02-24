@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The data shows a sequence of medium-length fixations (mostly ~0.17\u20130.57s with some around 1s) and short saccades largely confined to a horizontal band, with occasional larger vertical/horizontal jumps and regressions. This pattern is consistent with reading lines of text and making line changes/regressions, rather than the continuous large-amplitude tracking of PLAY or the more scattered, multi-panel exploration common in SEARCH/BROWSE or code-centric tasks like DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

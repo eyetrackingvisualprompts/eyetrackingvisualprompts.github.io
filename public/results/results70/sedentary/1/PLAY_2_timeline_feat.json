@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Long, smooth horizontal fixation with gradual drifts and occasional vertical shifts, followed later by more scattered movements, best matches the relatively stable but scene-driven gaze patterns seen in the WATCH example, rather than the more line-structured (READ/BROWSE) or highly erratic (PLAY/SEARCH/DEBUG/WRITE) patterns.",
+  "correct": false
+}

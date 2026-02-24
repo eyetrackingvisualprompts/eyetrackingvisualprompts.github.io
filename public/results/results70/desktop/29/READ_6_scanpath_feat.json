@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows multiple long, horizontally aligned bands of fixations with systematic left-to-right progressions and slight vertical shifts between lines, characteristic of reading text across several lines rather than the more clustered or scattered patterns seen in browsing, searching, watching, playing, or writing.",
+  "correct": true
+}

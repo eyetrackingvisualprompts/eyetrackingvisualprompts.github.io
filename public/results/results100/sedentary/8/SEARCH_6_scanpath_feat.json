@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers a wide horizontal range with repeated returns to the left side, consistent with scanning a search results page: frequent shifts between a left-aligned results list and other areas, unlike the more central focus of READ or the constrained coding-area focus of INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

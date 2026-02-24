@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent long saccades between far-apart screen regions (top-left corner, far right, bottom), revisits to header-like areas, and long horizontal sweeps across mid-screen bands, matching scrolling and navigation over a long web page rather than structured code (WRITE/DEBUG/INTERPRET) or line-by-line reading. The pattern closely resembles the provided BROWSE examples with repeated jumps between content blocks and header/footer zones.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is tightly clustered around the central region with small vertical movements, closely matching the browsing example heatmap and less dispersed than the search pattern centered higher on the page.",
+  "correct": false
+}

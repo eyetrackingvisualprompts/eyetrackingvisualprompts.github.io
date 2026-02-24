@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Long, stable fixations with small, mostly horizontal saccades clustered along narrow horizontal bands, plus occasional vertical shifts to nearby bands, closely match the structured line-by-line scanning pattern seen in the READ examples rather than the more scattered, multi-directional exploration of SEARCH/BROWSE or the peripheral, upper-screen focus typical of WATCH/WRITE/PLAY.",
+  "correct": false
+}

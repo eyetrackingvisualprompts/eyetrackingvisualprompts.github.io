@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a horizontal band slightly below screen center with a sequence of neighboring fixations extending left\u2013right, matching the line-by-line scanning pattern typical of reading rather than the more scattered or peripheral distributions seen in browse, search, play, watch, or write.",
+  "correct": false
+}

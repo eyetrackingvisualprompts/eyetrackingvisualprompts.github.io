@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a horizontal band across the middle of the screen with several adjacent clusters, matching code editing where attention shifts along lines within the IDE, similar to the WRITE example and less focused on a single code block as in INTERPRET/DEBUG.",
+  "correct": false
+}

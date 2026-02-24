@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a single, relatively small rectangular code area without long horizontal sweeps typical of reading prose or browsing; this localized, intensive inspection of one block of text matches the pattern seen in the INTERPRET (code understanding) example.",
+  "correct": false
+}

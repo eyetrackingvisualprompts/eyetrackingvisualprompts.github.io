@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show predominantly horizontal, step-like progressions with short saccades and clustered fixations at similar vertical levels, consistent with line-by-line reading rather than large exploratory movements typical of browsing, searching, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-scale saccades with revisits across a confined central region, resembling the scattered yet task-focused pattern of the DEBUG example more than the steadier code-reading/interpreting traces or the more exploratory browsing/searching behaviors.",
+  "correct": false
+}

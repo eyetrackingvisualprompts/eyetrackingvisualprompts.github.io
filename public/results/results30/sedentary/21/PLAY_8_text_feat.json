@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many horizontal saccades clustered around a mid-screen band, interleaved with occasional large jumps to top-of-screen coordinates and back, match the heterogeneous, scroll-and-skim pattern seen in the BROWSE example rather than the more locally constrained, line-structured READ pattern or highly focal WATCH/PLAY behaviors.",
+  "correct": false
+}

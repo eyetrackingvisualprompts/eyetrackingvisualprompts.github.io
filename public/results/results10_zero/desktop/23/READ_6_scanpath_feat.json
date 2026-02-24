@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered with very small spatial dispersion and minimal systematic horizontal or vertical scanning, suggesting the participant is mainly fixating a central region (such as a video focal area) rather than reading lines of text, searching, browsing, or tracking wide-ranging game elements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations progress steadily in X with a very slow, monotonic downward drift in Y over the 10s window, indicating line-by-line reading with minimal large saccades or vertical scanning typical of other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like fixations with both horizontal and vertical position changes of varying amplitudes and directions, with each plateau lasting about one second before jumping to a new, non-regular location, matching the random multi-directional target jumps of the Random Saccades task rather than purely horizontal motion, static fixation, reading, video viewing, or game-specific patterns.",
+  "correct": false
+}

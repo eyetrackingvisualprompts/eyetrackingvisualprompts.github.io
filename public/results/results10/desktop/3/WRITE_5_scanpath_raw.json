@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows long, smooth, large-amplitude sweeps across the screen with relatively few localized clusters, resembling continuous following of moving visual content, which matches the WATCH example pattern more than the other activities that show denser, text- or interface-focused fixations.",
+  "correct": false
+}

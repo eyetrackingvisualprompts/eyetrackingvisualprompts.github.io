@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The X position shows several extended horizontal scanning segments separated by abrupt shifts, while Y remains in a narrow upper band\u2014matching the pattern of moving between search results and content regions seen in the SEARCH example, rather than the steadier READ pattern or more variable BROWSE/PLAY/WATCH/WRITE traces.",
+  "correct": false
+}

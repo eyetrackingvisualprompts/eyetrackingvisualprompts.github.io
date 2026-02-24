@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze stays mostly in the upper-left/upper-middle region with several medium-length fixations and occasional vertical and horizontal transitions, including moves from upper content toward mid-page and between nearby items\u2014patterns consistent with scanning search results and related content, and most similar in spatial zone and movement style to the provided SEARCH example compared with the more central-horizontal patterns of READ/BROWSE or the bottom-focused WRITE behavior.",
+  "correct": false
+}

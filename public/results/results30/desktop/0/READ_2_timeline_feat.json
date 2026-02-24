@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations show relatively smooth, continuous drifts in both X and Y with occasional larger shifts, resembling following moving visual content rather than systematic line-by-line scanning or localized interaction. This pattern best matches the WATCH examples, where gaze tracks dynamic video elements across the screen.",
+  "correct": false
+}

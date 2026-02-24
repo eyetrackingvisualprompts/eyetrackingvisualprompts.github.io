@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts spanning most of the screen in multiple directions, with fewer localized clusters. This wide, dynamic exploration pattern aligns best with gameplay (especially action/navigation games) rather than the more localized or structured patterns seen in reading, writing, browsing, searching, or passive watching.",
+  "correct": false
+}

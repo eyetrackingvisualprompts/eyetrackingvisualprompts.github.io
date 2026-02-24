@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over the left-central code area with occasional long saccades to the right, matching the WRITE pattern where attention stays on the editor with brief glances to other UI elements, and differing from the more dispersed DEBUG or WATCH scanpaths.",
+  "correct": false
+}

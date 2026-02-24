@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small code-like region on the left with limited horizontal spread and no long excursions to other UI areas, matching the focused, localized viewing pattern seen in the INTERPRET example rather than the broader exploration typical of DEBUG, WRITE, or browsing tasks.",
+  "correct": true
+}

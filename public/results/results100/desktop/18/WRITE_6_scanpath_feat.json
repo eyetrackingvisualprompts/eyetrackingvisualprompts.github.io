@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a compact, horizontally elongated region at a lower vertical position, with short, orderly saccades and stable fixations\u2014consistent with tracking a single local text area during reading, unlike the wider dispersion or multi-region shifts seen in browse, search, play, watch, or write patterns.",
+  "correct": false
+}

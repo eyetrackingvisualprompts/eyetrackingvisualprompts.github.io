@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-long fixations interleaved with vertical shifts between upper, middle, and lower screen regions, plus occasional large jumps to corners, match the exploratory, page-scanning behavior seen in the SEARCH template more than the steadier horizontal banding of READ or the center-focused patterns of WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The x-position shows large, regular, back-and-forth horizontal steps between about \u00b115 DVA with ~1 s plateaus, while the y-position stays near zero with only small transients\u2014matching the structured bidirectional motion of the horizontal saccades task.",
+  "correct": true
+}

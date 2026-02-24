@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows several large vertical saccades and shifts between distinct horizontal bands rather than continuous line-by-line reading or tight code inspection. This resembles scanning across different regions of a search results page, matching the SEARCH example more closely than other tasks.",
+  "correct": false
+}

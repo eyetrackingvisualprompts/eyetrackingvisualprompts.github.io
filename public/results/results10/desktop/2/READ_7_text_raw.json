@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows clustered fixations near screen center interspersed with rapid, large relocations to peripheral lower-left regions and back, suggesting repeated attention shifts to dynamic, spatially distributed elements typical of game play rather than the more line-structured or vertically scrolling patterns of reading, browsing, search, or writing, or the smoother broader sweeps seen in video watching.",
+  "correct": false
+}

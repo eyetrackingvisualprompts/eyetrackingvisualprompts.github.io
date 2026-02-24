@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band around mid-screen with long, stable fixations and small vertical shifts\u2014highly consistent with line-by-line reading behavior and closely matching the READ examples, unlike the larger exploratory movements seen in BROWSE/SEARCH or the more dispersed dynamics in WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly concentrated in a narrow central band with modest horizontal movement and occasional large vertical saccades, matching the reference WRITE pattern where attention alternates between the code editor and other UI elements while typing, rather than the stronger line-by-line scanning of READ or the broader exploratory movements of SEARCH/BROWSE.",
+  "correct": false
+}

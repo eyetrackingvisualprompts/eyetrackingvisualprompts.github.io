@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form multiple dense clusters around mid-screen with frequent transitions among them, resembling the example SEARCH pattern more than the others, which reflects scanning results, query box, and related elements on a search engine page.",
+  "correct": true
+}

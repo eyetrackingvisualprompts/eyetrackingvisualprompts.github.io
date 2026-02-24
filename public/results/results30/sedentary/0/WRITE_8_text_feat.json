@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a compact code-like area with many short horizontal saccades and frequent returns within the same region, resembling line-by-line inspection of a small snippet rather than long vertical reading (READ) or wide exploratory movements (BROWSE/SEARCH). The pattern closely matches INTERPRET examples, where gaze shuttles over a localized block of code while mentally simulating its behavior.",
+  "correct": false
+}

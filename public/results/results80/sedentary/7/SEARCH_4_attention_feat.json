@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple horizontal bands with distinct clusters near the top and mid-screen, resembling scanning search results and snippets rather than concentrated code (WRITE/DEBUG/INTERPRET) or central dynamic content (PLAY/WATCH).",
+  "correct": true
+}

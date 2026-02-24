@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points are scattered across a mid-screen band with multiple discrete clusters both horizontally and vertically, without a single dominant central fixation or strict horizontal two-point pattern, matching the random target jumps of the Random Saccades task.",
+  "correct": false
+}

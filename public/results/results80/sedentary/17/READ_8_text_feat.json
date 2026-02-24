@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanpaths around several vertical levels, repeated sweeps across wide x-coordinates, and intermittent large jumps (including to upper text-like bands) resemble navigation over a long, scrollable webpage more than focused code, game object following, or continuous video watching patterns. The fixation durations and saccade structure align best with BROWSE examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data shows large, rapid saccades in varying directions (both horizontal and vertical) across a wide area, with roughly ~1 s fixations at each location, matching the pattern of following a randomly moving target rather than the more structured horizontal-only saccades, line-based reading, or dense small movements of video viewing/Balura.",
+  "correct": true
+}

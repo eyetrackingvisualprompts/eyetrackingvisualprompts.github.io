@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows periods of relatively steady horizontal scanning interspersed with large vertical saccades and shifts between separated regions of the screen, resembling transitions between search box, results list, and different result areas, which matches the SEARCH pattern more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered around a compact code region with repeated local fixations and occasional long saccades to distant UI areas (e.g., console, file navigator), closely matching the WRITE example scanpath and typical behavior when implementing code in an IDE.",
+  "correct": false
+}

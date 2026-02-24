@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze begins clustered on the left side near the top\u2014likely the search box and initial results\u2014then makes long horizontal saccades across the very top and another line below, consistent with scanning result titles and snippets. Additional downward excursions to the lower-left resemble checking a result and returning, matching the more dispersed, top-focused pattern typical of SEARCH rather than the denser, line-by-line patterns of READ/BROWSE or the central focus of code tasks.",
+  "correct": false
+}

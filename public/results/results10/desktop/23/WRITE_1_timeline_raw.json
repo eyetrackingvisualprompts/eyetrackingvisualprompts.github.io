@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Both X and Y traces show continuous, smooth movement with moderate variability and no clear line-by-line or vertical scanning pattern; this resembles the dynamic, ongoing gaze adjustments seen in the PLAY example more than the more structured movements of READ, WRITE, BROWSE, SEARCH, or WATCH.",
+  "correct": false
+}

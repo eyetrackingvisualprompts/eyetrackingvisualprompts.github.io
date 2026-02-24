@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-scale vertical and horizontal shifts between upper content-like regions and mid/lower regions, including multiple sudden jumps to top-left/top-center and then to result-like mid-page lines, matches the heterogeneous scanning and SERP-to-page transitions typical of SEARCH rather than the more locally clustered patterns of INTERPRET/DEBUG/WRITE or the smoother trajectories of WATCH/PLAY/READ.",
+  "correct": false
+}

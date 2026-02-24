@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in a narrow vertical band with gradual rightward drift and frequent short, local saccades\u2014similar to code-focused inspection. The pattern most closely matches the DEBUG example, where users repeatedly scan small code regions rather than line-by-line reading or broad visual exploration.",
+  "correct": false
+}

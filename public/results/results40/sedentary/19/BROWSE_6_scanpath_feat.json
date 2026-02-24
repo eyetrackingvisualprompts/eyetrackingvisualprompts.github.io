@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze spans a moderate vertical range with several larger saccades between upper and lower regions, but is confined to a narrow horizontal band\u2014consistent with scanning a search results page rather than dense code (WRITE/DEBUG/INTERPRET) or continuous reading (READ).",
+  "correct": false
+}

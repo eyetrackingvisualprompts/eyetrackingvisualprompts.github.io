@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a mid\u2011screen band with many short, local fixations and small saccades around a narrow region, interleaved with occasional jumps to upper areas\u2014matching code/text editing behavior seen in WRITE, and unlike the broader vertical sweeps of READ or the larger exploratory jumps of SEARCH/BROWSE or WATCH/PLAY.",
+  "correct": false
+}

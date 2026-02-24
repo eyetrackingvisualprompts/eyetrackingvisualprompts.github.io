@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows frequent long saccades between dispersed screen regions (center, top, bottom, far corners) and mid\u2011length fixations around moving clusters near mid\u2011screen, with repeated returns to similar regions and strong vertical/horizontal jumps. This spatial spread, dynamic repositioning, and revisiting patterns resemble the PLAY examples (video\u2011game tracking and navigation) more than the more localized, line\u2011based or code\u2011panel patterns in READ/WRITE/DEBUG/INTERPRET or the scrolling-heavy SEARCH/BROWSE behaviors.",
+  "correct": true
+}

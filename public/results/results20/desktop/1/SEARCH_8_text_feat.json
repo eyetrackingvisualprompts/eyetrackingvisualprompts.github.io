@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several large, rapid saccades between disparate screen regions (e.g., mid-left to top-right, center to upper area) interleaved with shorter exploration and medium fixations, consistent with scanning SERP/results and then focusing on selected areas, which best matches the SEARCH pattern among the provided classes.",
+  "correct": true
+}

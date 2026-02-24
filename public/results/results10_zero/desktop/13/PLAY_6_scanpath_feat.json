@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a small central region with minimal horizontal scanning or vertical progression, suggesting attention to a static central area such as a video\u2019s focal point rather than line-by-line reading, web searching, or text editing, which would show stronger directional scanning patterns.",
+  "correct": false
+}

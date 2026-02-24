@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The target plot shows smooth, progressive rightward movements of X fixation with gradual downward drift in Y fixation, forming a staircase-like pattern over time, which matches the reading behavior seen in the READ example more than the other activities.",
+  "correct": false
+}

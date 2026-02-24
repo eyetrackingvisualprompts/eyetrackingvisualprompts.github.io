@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates repeatedly between approximately +15\u00b0 and -15\u00b0 along the horizontal axis with small vertical variation, matching the large, regular, left-right sweeps characteristic of the Horizontal Saccades task rather than the more irregular, multi-directional patterns of other activities.",
+  "correct": true
+}

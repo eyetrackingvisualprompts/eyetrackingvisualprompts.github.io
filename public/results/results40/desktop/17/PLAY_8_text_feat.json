@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains clustered near mid-screen with small horizontal/vertical shifts, moderate fixation durations, and occasional moves to slightly different vertical levels\u2014matching the relatively localized, interface-centered scanning seen in the BROWSE example more than the line-like horizontal sweeps of READ or the larger, multi-directional excursions of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

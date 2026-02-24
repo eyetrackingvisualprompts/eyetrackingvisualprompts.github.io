@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in the upper-middle region with a slight horizontal spread, resembling attention to search results and top page elements; this pattern aligns more closely with the SEARCH example than with the more central BROWSE, horizontally extensive READ, localized WRITE, or left-top PLAY patterns.",
+  "correct": false
+}

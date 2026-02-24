@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows many medium-length fixations with frequent vertical and horizontal shifts, including several larger jumps suggesting scrolling or moving between different content regions. The pattern is more irregular and exploratory than structured line-by-line reading, and less centrally focused than watching video, matching typical web/news browsing behavior.",
+  "correct": true
+}

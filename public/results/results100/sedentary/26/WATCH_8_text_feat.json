@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across widely separated screen regions (including off-screen coordinates), alternation between top, middle, and bottom areas, and varied horizontal/vertical excursions match the heterogeneous, exploratory patterns seen in BROWSE rather than the more structured line-based (READ/WRITE/DEBUG/INTERPRET/SEARCH) or object-focused (PLAY/WATCH) behaviors.",
+  "correct": false
+}

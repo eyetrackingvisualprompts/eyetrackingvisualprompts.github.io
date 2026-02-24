@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, horizontally elongated cluster with small vertical dispersion, indicating line-by-line scanning typical of reading text laid out in a row, matching the READ pattern more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows largely horizontal back-and-forth sweeps at a few distinct vertical levels with long, straight horizontal saccades covering much of the screen width and little vertical range within each band, consistent with tracking a target moving horizontally across the screen rather than the more irregular, multidirectional movements expected in random saccades, video, reading, or gaming tasks.",
+  "correct": false
+}

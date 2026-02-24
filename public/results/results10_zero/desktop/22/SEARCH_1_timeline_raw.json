@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains mostly within a narrow horizontal band with slow drifts and brief vertical shifts, suggesting following relatively fixed on-screen content like characters/subtitles in a video rather than systematic line-by-line reading, text entry, or exploratory search/browsing patterns.",
+  "correct": false
+}

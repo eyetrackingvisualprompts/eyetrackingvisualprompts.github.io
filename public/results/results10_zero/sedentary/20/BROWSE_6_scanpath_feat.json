@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades across the full width of the screen with relatively few, short fixations and no clear horizontal reading lines or columnar code inspection pattern, which is more consistent with visually tracking or navigating dynamic game elements than with reading, coding, or browsing tasks.",
+  "correct": false
+}

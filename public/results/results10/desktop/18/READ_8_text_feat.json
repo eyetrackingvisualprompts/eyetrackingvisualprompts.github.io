@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a narrow vertical band around y\u22480.6 with medium-to-long fixations (0.3\u20132.0s) and short, mostly horizontal saccades, matching line-by-line text reading behavior rather than the larger, more exploratory shifts seen in browse/search or the more dispersed patterns in play/watch/write.",
+  "correct": true
+}

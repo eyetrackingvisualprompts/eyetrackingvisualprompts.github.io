@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the central area with moderate dispersion and multidirectional saccades, resembling focused exploration of a results page or content area. This pattern matches the SEARCH example more closely than the more horizontally constrained READ/WRITE patterns or the broader PLAY/WATCH/BROWSE distributions.",
+  "correct": false
+}

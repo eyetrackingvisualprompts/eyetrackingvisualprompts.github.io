@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, multi-directional jumps with long, stable plateaus at distinct positions scattered across both horizontal and vertical axes, consistent with following a randomly moving target that steps and then holds for about a second, rather than the strictly horizontal oscillations of Horizontal Saccades, the central stability of Fixations, or the more locally clustered, content-driven patterns of Reading, Video Viewing, or Balura Game.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Two tight fixation clusters at symmetric left and right horizontal extremes with similar vertical position indicate following a target moving horizontally between two locations, matching the horizontal saccades pattern.",
+  "correct": true
+}

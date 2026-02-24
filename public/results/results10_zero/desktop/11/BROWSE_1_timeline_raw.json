@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains relatively stable around a central region with small drifts and occasional short shifts, consistent with following on-screen video content rather than systematic line-by-line scanning (READ) or large exploratory movements (BROWSE/SEARCH/PLAY).",
+  "correct": false
+}

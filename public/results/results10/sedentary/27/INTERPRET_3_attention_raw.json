@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is tightly clustered in a single mid-left area with minor nearby shifts, indicating sustained attention on a small code region, closely matching the DEBUG example heatmap pattern.",
+  "correct": false
+}

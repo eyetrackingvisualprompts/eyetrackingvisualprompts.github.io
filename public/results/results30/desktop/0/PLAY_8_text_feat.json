@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow band in the lower-central screen region with predominantly short horizontal saccades and medium-to-long fixations, forming patterns similar to line-by-line text scanning rather than the larger jumps and broader spatial exploration seen in BROWSE/SEARCH or the peripheral, more erratic movements in PLAY/WATCH/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show long periods of relatively stable fixation interspersed with large, abrupt shifts in both horizontal and vertical directions (including very large excursions like ~\u221210 to \u221214 deg vertically), with positions then held and jittering locally. This pattern of discrete, multi-directional jumps with ~1 s dwell is characteristic of following a randomly moving target rather than purely horizontal tracking, sustained central fixation, reading-like line sweeps, or complex exploratory behavior from video/game tasks.",
+  "correct": false
+}

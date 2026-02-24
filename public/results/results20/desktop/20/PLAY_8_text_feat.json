@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains around screen center with short to medium fixations and frequent small multidirectional saccades within a compact region, lacking the systematic horizontal line sweeps of READ and the very dynamic, larger jumps of PLAY or WATCH. The pattern closely resembles the exploratory, locally shifting scan behavior shown in the BROWSE example near (0.5, 0.5).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across a broad horizontal range with varying vertical positions, resembling scanning of heterogeneous webpage elements rather than the more line-structured READ pattern or the tighter clusters of SEARCH and PLAY; this distribution best matches the BROWSE example.",
+  "correct": false
+}

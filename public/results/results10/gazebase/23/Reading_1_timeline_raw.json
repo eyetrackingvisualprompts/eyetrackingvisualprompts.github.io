@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The X position shows a staircase-like left\u2013right pattern with relatively small, regular shifts while the Y position drifts slowly downward over time, matching line-by-line reading behavior rather than large, symmetric saccades or random movements.",
+  "correct": true
+}

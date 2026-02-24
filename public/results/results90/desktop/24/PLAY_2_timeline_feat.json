@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude shifts in both x and y with variable vertical positions, indicating scanning across different regions of changing webpages, which best matches the exploratory, multi-region viewing pattern of web search tasks rather than the more structured (READ/WRITE) or focused (WATCH/PLAY) behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are clustered around the screen center with small-amplitude, mostly vertical and minor horizontal saccades, and relatively long, stable fixations (200\u20131200 ms). The pattern shows systematic revisits to nearby positions rather than wide exploratory movements or rapid large jumps, matching text reading behavior more than dynamic, wide-ranging viewing typical of PLAY, WATCH, or SEARCH/BROWSE tasks.",
+  "correct": false
+}

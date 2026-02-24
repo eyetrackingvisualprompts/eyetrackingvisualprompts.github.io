@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The x-position shows large, regular, almost square-wave horizontal shifts between about +14 and -13 degrees with ~1 s plateaus, while the y-position remains near zero with minimal variation\u2014matching the structured bidirectional horizontal target motion of the Horizontal Saccades task.",
+  "correct": true
+}

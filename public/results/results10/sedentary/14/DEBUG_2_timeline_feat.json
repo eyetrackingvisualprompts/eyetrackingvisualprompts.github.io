@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are mostly in a narrow horizontal band with slight gradual drift and occasional small saccades, closely matching the DEBUG example pattern and differing from the more vertical-scanning SEARCH/BROWSE or PLAY behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on mid-lower and right areas with clusters suggesting reading result snippets and detailed content, plus occasional shifts to upper left consistent with query bar interaction; this pattern best matches the SEARCH example compared to other tasks.",
+  "correct": false
+}

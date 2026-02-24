@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long fixations with moderate-amplitude shifts between clustered screen regions, repeatedly tracking moving content without systematic line-by-line or code-structured scanning. There are occasional large jumps but overall fewer keyboard-focused or text/navigation patterns, matching passive, visually driven viewing behavior characteristic of WATCH rather than the more structured or search-like patterns of READ, WRITE, DEBUG, INTERPRET, SEARCH, BROWSE, or the highly dynamic PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal and vertical movements with frequent shifts between mid and upper screen regions, resembling the mixed scanning of results lists and content areas typical of search tasks, and it best matches the SEARCH example pattern among the provided classes.",
+  "correct": false
+}

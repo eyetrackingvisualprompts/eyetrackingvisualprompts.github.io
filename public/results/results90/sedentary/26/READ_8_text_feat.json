@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows orderly, left-to-right sweeps along several horizontal bands (y\u2248120\u2013220, 250\u2013360, 400\u2013460, 530\u2013620, 670\u2013700, 720\u2013770, 830\u2013870), with systematic returns from right margin back to the left at similar vertical positions, consistent with scanning successive text lines. Movements are constrained within a central column, unlike the large, multi-region jumps seen in SEARCH/BROWSE or WATCH, and lack the object-chasing and abrupt cross-screen saccades typical for PLAY. This horizontal, line-by-line pattern best matches reading behavior.",
+  "correct": true
+}

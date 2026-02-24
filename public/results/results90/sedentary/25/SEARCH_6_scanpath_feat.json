@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-central block (code) with frequent returns, plus repeated saccades to the right side of the screen where execution/output or tool panels would be, matching the debugging example more than the other activities.",
+  "correct": false
+}

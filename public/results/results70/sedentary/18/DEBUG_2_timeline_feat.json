@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly left-to-right horizontal movements with slowly increasing Y fixation over time, indicating line-by-line progression through text, matching the reading pattern in the READ example more than the other activities.",
+  "correct": false
+}

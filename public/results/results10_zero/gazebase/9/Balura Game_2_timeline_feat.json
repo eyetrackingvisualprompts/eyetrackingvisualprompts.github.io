@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions show step-like movements in both horizontal and vertical directions with roughly 1-second plateaus and jumps of several degrees in irregular directions and amplitudes, matching a target that moves randomly in 2D rather than purely horizontal, static, or content-driven patterns.",
+  "correct": false
+}

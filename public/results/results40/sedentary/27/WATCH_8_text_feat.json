@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows many large vertical and horizontal shifts between widely separated regions (top, middle, bottom of page), repeated revisits to mid-page bands around y\u2248600\u2013750, and excursions to screen edges and off-center locations, consistent with scanning a long, scrollable webpage rather than line-by-line reading, code-focused tasks, or following continuous motion as in games or videos.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered around a code-like region with frequent medium-length fixations, many short corrective saccades between nearby lines and columns, and repeated vertical excursions between upper (approx. y\u2248170\u2013230) and lower (y\u2248500\u2013650) areas consistent with scanning between error points and effects. The pattern closely matches the DEBUG example and is more focused and revisitation-heavy than the more exploratory SEARCH/BROWSE or the more linear INTERPRET/WRITE patterns.",
+  "correct": true
+}

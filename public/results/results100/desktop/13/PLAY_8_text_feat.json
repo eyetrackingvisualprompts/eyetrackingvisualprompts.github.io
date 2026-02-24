@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around central-middle coordinates with frequent medium-length saccades up/down and modest horizontal shifts, including occasional larger jumps to mid/upper regions\u2014matching the mixed reading-scanning, vertical scrolling behavior seen in the BROWSE template more than the tighter line-wise READ pattern or the more dispersed SEARCH/WATCH/PLAY patterns.",
+  "correct": false
+}

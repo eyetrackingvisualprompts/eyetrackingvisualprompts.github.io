@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, frequent saccades in varying directions covering much of the screen, without the horizontal-only pattern of Horizontal Saccades, the line-structured pattern of Reading, or the localized clusters seen in Video Viewing or Balura. This broad, quasi-uniform spatial spread with one-second-like dwells matches the Random Saccades task.",
+  "correct": false
+}

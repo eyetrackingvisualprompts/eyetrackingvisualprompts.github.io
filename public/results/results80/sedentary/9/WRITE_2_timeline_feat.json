@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band with moderate horizontal movement and occasional larger saccades, matching the code-area plus brief tool/console checks typical for WRITE; it differs from the more extensive horizontal sweeps of READ/BROWSE and the more dynamic patterns of PLAY/WATCH/SEARCH.",
+  "correct": true
+}

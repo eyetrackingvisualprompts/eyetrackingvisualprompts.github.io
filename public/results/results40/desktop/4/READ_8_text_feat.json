@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze remains in a narrow vertical band around y\u22480.66 with medium-long fixations and small corrective saccades, matching the stable, line-like inspection of search results seen in the SEARCH example and differing from the more horizontal scanning of BROWSE or the structured line-by-line motion of READ.",
+  "correct": false
+}

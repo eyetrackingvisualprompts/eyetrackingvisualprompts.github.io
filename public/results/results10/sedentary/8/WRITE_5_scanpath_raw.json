@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively narrow vertical strip where code would appear, with repeated returns to the same upper region and occasional checks lower down, matching the focused but somewhat exploratory pattern seen in the INTERPRET example rather than the more distributed movements of DEBUG or WRITE.",
+  "correct": false
+}

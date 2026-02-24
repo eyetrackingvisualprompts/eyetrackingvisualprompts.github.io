@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between top/URL-like regions, mid-page horizontal sweeps, and large vertical jumps with many off-content (negative / extreme) coordinates and scattered revisits, matching exploratory, multi-region web browsing rather than focused code, reading, or game object tracking.",
+  "correct": false
+}

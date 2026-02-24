@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Long fixations (up to ~1.7s) clustered in a compact screen region with frequent short, local regressions and small-amplitude saccades are typical of code-focused tasks. The predominantly mid-screen, non-linear scanning with repeated returns to nearby coordinates matches reading and mentally simulating code, which aligns best with WRITE among the coding-related options (WRITE, INTERPRET, DEBUG), as there is no clear evidence of stepping through outputs or searching for specific bugs.",
+  "correct": false
+}

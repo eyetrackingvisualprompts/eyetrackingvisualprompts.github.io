@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze repeatedly oscillates between code-like regions (clustered around y\u2248250\u2013350) and distant screen areas (top, bottom, corners), with many medium-duration fixations and revisits to similar coordinates, matching the iterative, error\u2011checking and re-checking pattern seen in the DEBUG examples more than the more linear or passive patterns of READ, WATCH, or PLAY.",
+  "correct": false
+}

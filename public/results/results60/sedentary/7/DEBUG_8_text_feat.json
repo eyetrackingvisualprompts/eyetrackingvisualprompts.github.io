@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent jumps across wide screen areas (including off-screen coordinates), long fixations on varied regions, and no clear horizontal line-by-line or code-structure reading pattern. This broad, dynamic scanning with recurrent returns to central/upper regions matches the visual exploration patterns seen in the WATCH examples more than the more structured, text- or code-focused behaviors of READ/WRITE/DEBUG/INTERPRET or the search/browse layouts.",
+  "correct": false
+}

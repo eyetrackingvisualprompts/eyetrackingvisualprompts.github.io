@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze X-position alternates regularly between two symmetric extreme positions with a period of about 1 second, while Y-position stays near the center with minimal variation, matching the controlled left-right tracking pattern of the Horizontal Saccades task.",
+  "correct": true
+}

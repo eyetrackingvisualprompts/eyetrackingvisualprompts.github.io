@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements along a narrow vertical band, consistent with line-by-line reading behavior and similar to the READ example pattern, rather than the more scattered or clustered patterns seen in browsing, search, or gameplay.",
+  "correct": true
+}

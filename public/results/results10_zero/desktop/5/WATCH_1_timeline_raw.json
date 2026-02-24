@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze positions stay within a few stable horizontal bands with relatively small, smooth movements and infrequent large saccades, indicating sustained focus on central screen regions typical of watching a video rather than the systematic line scanning of reading, the frequent vertical page shifts of browsing/searching, or the rapid multi-directional shifts of gameplay.",
+  "correct": true
+}

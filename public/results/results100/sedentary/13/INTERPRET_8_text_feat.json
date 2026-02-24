@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact code-like area with many medium/long within-line fixations, frequent short regressions and re-reading of almost identical spatial positions, plus occasional large saccades to extremal points (likely UI elements). This pattern closely matches the WRITE examples and is more localized and repetitive than the broader scanning seen in SEARCH/BROWSE or the line-structured, left-to-right sweeps in READ.",
+  "correct": false
+}

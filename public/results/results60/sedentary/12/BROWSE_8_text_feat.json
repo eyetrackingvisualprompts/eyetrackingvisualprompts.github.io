@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extremes and off-screen coordinates), many revisits to central mid-lower areas, and rapid oscillations between dispersed clusters are characteristic of tracking dynamic game elements rather than structured reading/code or linear web browsing patterns.",
+  "correct": false
+}

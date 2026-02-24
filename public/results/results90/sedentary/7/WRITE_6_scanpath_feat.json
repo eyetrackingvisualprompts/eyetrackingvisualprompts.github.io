@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered over a compact code/typing region on the left-center with occasional long saccades to the right (likely to console or reference area), closely matching the WRITE example scanpath pattern and differing from the broader, more scattered patterns of browsing or search.",
+  "correct": true
+}

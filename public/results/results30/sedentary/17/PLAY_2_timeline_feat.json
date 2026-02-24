@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows two main vertical bands of activity with mid-level horizontal movement: an early phase with scattered saccades and moderate Y variation, followed by a sustained period with stable X around the code area and Y shifts between code and a nearby region (e.g., editor and console). This pattern best matches the WRITE example, where users alternate between the code they type and related UI elements, rather than the more linear scanning of READ or the more dispersed movements of SEARCH/BROWSE.",
+  "correct": false
+}

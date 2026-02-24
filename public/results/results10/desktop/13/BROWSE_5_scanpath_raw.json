@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows moderate dispersed movements around the screen center with frequent shifts but within a confined region, resembling the browsing example more than the more linear READ pattern, the wider SEARCH exploration, or the more extreme PLAY/WATCH/WRITE patterns.",
+  "correct": true
+}

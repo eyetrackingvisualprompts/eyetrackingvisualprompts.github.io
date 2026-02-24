@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "Fixations form a mostly horizontal band in the upper part of the screen with left-to-right progression and limited vertical spread, matching the reading heatmap pattern rather than the more scattered or centralized patterns of other tasks.",
+  "correct": false
+}

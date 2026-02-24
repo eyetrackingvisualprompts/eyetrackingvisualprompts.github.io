@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including extremes and corners), with gaze often around central/character-height levels and rapid shifts between dispersed locations, match the dynamic, multidirectional viewing behavior observed in the PLAY examples rather than the more line-structured (READ/WRITE) or vertically constrained (SEARCH/BROWSE) patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small horizontal region with little vertical movement and no scanning across broader areas, consistent with watching a localized element in a video (e.g., main characters or subtitle area) rather than reading, browsing, searching, writing, or gameplay that would show wider, more systematic exploration.",
+  "correct": false
+}

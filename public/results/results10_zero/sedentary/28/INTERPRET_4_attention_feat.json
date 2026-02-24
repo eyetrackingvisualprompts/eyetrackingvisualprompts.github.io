@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a narrow vertical strip on the left side with multiple horizontal bands, matching line-by-line reading of text that begins at the left margin, unlike the more dispersed or central patterns expected for search, browsing, coding, or video watching.",
+  "correct": false
+}

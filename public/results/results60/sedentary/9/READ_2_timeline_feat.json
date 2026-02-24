@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal X fixations with slowly increasing Y over time, consistent with line-by-line reading; saccades are short and regular rather than the larger, more scattered movements seen in search, browse, or play, matching the READ example most closely.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a central region with many short, back-and-forth saccades and repeated fixations on nearly the same spots, indicating intensive re-reading and local checking typical for debugging code rather than the more linear scan of reading/watching or the broader exploration of browsing/searching/playing.",
+  "correct": false
+}

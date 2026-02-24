@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is heavily concentrated on a code/text area on the left-center with a smaller fixation cluster on the right, matching the WRITE example pattern where attention focuses on the editor with occasional looks at a reference/UI element.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a mid-screen region with some spread horizontally, resembling the browsing example heatmap more than the others, which show stronger top-band (write/read/watch/play) or upper-center (search) patterns.",
+  "correct": true
+}

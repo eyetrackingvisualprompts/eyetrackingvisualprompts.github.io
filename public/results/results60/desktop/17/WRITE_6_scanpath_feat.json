@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in a central-upper region with occasional downward saccades, resembling transitions between search results and linked pages; the spatial spread and pattern align more with SEARCH than the more localized READ or the more dispersed BROWSE/WATCH/PLAY activities.",
+  "correct": false
+}

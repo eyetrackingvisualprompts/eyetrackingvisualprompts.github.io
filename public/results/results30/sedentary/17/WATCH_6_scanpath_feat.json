@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are widely distributed across the central-right area with frequent shifts and no clear line-by-line or code-structure pattern, resembling the dispersed, object-following behavior seen in the WATCH example rather than the more localized or systematic patterns of reading, coding, searching, or browsing.",
+  "correct": true
+}

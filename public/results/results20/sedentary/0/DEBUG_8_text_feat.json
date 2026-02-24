@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact code-like region on the left, with frequent vertical transitions between a top area (~y\u224840\u2013100) and mid/lower bands (~y\u2248200 and 450\u2013580), plus repeated revisits to similar x-positions. This pattern of scanning between definition/header (top) and body/output (middle/lower) matches the WRITE example more closely than the other tasks, which either show broader horizontal reading (READ), more dispersed navigation (BROWSE/SEARCH), or different spatial distributions for INTERPRET/DEBUG.",
+  "correct": false
+}

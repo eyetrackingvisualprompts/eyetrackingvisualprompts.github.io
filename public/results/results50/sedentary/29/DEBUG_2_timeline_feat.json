@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a generally progressive, monotonic increase in both X and Y fixation positions over time with relatively regular short saccades, matching the left-to-right and downward scanning pattern typical of continuous text reading and most similar to the READ example plot among the provided classes.",
+  "correct": false
+}

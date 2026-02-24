@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense clustered fixations over the left-central region where code editor typically resides, with repeated returns and occasional long saccades toward the right side (likely console or run button), closely matching the WRITE example pattern and differing from the more dispersed DEBUG or SEARCH behaviors.",
+  "correct": false
+}

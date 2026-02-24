@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Early segment shows repeated sharp vertical saccades between code and reference areas, followed by more stable horizontal scanning similar to the WRITE example, matching gaze shifts between editor, console, and possibly documentation while implementing code.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The X position shows mostly monotonic sweeps in one direction with discrete return saccades, while Y position stays within a relatively narrow band with occasional line-change jumps\u2014this pattern matches left-to-right reading with periodic return sweeps rather than large random or strictly horizontal saccades.",
+  "correct": true
+}

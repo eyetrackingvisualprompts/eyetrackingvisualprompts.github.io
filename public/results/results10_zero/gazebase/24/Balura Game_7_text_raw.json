@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates exhibit large, abrupt jumps in both horizontal (x from about -18\u00b0 to +22\u00b0) and vertical (y from about +10\u00b0 to -18\u00b0) directions, followed by short, tight clusters indicative of brief fixations at distinct positions. The movements are not constrained to a horizontal line, ruling out Horizontal Saccades, and the pattern shows large, discrete target-to-target shifts rather than smooth exploratory scanning typical of reading or video viewing. This matches a task where a single target appears at randomly distributed positions across the screen and is held there briefly, i.e., Random Saccades.",
+  "correct": false
+}

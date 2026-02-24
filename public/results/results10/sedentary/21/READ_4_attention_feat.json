@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are distributed across multiple vertically separated regions (upper and lower screen) rather than concentrated on code/text blocks or a central game object, resembling the dispersed viewing of dynamic visual content typical for WATCH rather than the more localized patterns of coding, reading, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Two dense fixation bands near the top and bottom of the screen suggest alternating attention between code editor region and console/output or other UI elements, matching the WRITE example more than other tasks.",
+  "correct": false
+}

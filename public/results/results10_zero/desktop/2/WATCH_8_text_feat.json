@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a relatively narrow central band (x\u22480.46\u20130.59, y\u22480.21\u20130.51) with repeated short fixations (~0.17\u20130.43s) and medium-length mostly vertical saccades between nearby positions, consistent with line-to-line transitions and local regressions in reading rather than the larger spatial exploration typical of SEARCH, BROWSE, or PLAY, or the more bottom-focused/subtitle or character-centered patterns of WATCH and WRITE.",
+  "correct": false
+}

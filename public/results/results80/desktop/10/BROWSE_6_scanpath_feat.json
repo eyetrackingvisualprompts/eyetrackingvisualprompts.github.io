@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a compact cluster around the center-top area with frequent, multidirectional saccades and no clear horizontal reading lines, closely matching the SEARCH example pattern more than the other activities.",
+  "correct": false
+}

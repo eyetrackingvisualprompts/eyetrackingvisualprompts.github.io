@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show step-like jumps to various amplitudes within the \u00b115\u00b0 (X) and \u00b19\u00b0 (Y) bounds, with segments of roughly constant position between jumps, consistent with following a randomly moving target that holds each location briefly rather than purely horizontal oscillations or text-like scanning.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze paths cover a mid-screen band with irregular, multidirectional saccades and no strict horizontal pattern or central fixation. The movements are not constrained to a single line (reading) or discrete, evenly spaced jumps (structured saccade tasks), and they lack the clustered target refixations typical of the game, matching free-viewing video behavior.",
+  "correct": true
+}

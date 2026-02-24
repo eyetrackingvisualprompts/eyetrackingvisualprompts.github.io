@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, smooth horizontal drifts with relatively shallow vertical variation and frequent wide saccades across the screen, resembling continuous tracking of dynamic visual content rather than line-by-line reading or code-focused tasks; this pattern best matches the WATCH examples.",
+  "correct": false
+}

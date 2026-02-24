@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between widely separated screen regions (upper and lower, left and right) with long saccades and medium fixations, consistent with scanning SERP results, query box, and different page areas rather than the more line-structured, locally progressing patterns of READ/WRITE or the highly dynamic, continuous tracking of PLAY/WATCH. This broad exploratory pattern best matches web SEARCH behavior.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band with a cluster toward the upper-left/upper-middle area, indicative of following lines or blocks of text rather than scanning the whole screen or tracking dynamic objects; this localized, relatively orderly pattern is most consistent with reading digital content.",
+  "correct": false
+}

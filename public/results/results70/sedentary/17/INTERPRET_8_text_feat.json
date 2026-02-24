@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The segment shows extremely long saccade intervals (10\u201320s) with sparse, brief fixations and large spatial jumps across the screen, indicating mostly continuous viewing with intermittent tracking rather than dense, text- or code-oriented scanning. This pattern aligns best with passively watching dynamic visual content (WATCH) rather than interactive, search, reading, coding, or browsing tasks, which all exhibit much denser, shorter saccades and fixations in the examples.",
+  "correct": false
+}

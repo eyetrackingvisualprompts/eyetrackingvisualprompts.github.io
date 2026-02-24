@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze positions cluster around central horizontal regions with moderate, irregular saccades and more vertical variability than typical reading, resembling exploratory scanning of SERPs and linked pages seen in the SEARCH example rather than the more structured patterns of READ or the wider, more dynamic ranges of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent revisits between central code-like regions (around y\u2248220\u2013320 and y\u2248550\u2013650), with many short local saccades and medium fixations, plus occasional large jumps to screen edges and back, match the coding/implementation pattern in WRITE more than the more linear patterns of READ/SEARCH or the more dispersed dynamics of PLAY/WATCH/BROWSE/DEBUG/INTERPRET.",
+  "correct": false
+}

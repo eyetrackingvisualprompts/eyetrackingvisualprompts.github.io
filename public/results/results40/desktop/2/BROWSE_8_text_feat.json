@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a band around mid\u2011vertical coordinates (y\u22480.33\u20130.63) with predominantly small horizontal saccades and short\u2013moderate fixations, forming local left\u2011right scanning patterns and occasional small regressions\u2014matching line\u2011by\u2011line text reading more than the larger vertical spreads and scattered fixations typical of search, browse, or play, and unlike the high-bottom or top-heavy distributions seen in write or watch examples.",
+  "correct": false
+}

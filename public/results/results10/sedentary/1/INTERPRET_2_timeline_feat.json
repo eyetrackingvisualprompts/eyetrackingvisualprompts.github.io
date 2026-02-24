@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays in a narrow vertical band near the top-left region, with small, local saccades and minimal large-scale scanning, closely matching the focused, code-editing pattern seen in the WRITE example rather than the broader horizontal movements of reading or browsing.",
+  "correct": false
+}

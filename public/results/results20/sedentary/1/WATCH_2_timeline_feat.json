@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows multiple vertical transitions between two main Y-bands with intermittent horizontal scanning, resembling shifts between search results and content snippets rather than the more uniform line-by-line pattern of READ or the more chaotic movement of PLAY/WATCH/BROWSE. This matches the SEARCH example most closely.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated around the screen center with frequent medium-amplitude saccades in multiple directions (including occasional large jumps, e.g., from center to top and back), and relatively short fixations with some brief steady tracking around similar coordinates. This multidirectional, dynamic pattern with central bias and rapid relocations is more consistent with tracking a moving game character or elements (PLAY) than the more line-structured, horizontal scans of READ/BROWSE or the more static focal patterns of WATCH/WRITE/SEARCH.",
+  "correct": false
+}

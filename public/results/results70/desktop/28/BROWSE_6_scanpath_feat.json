@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in the central region with moderate horizontal and vertical dispersion, resembling the example BROWSE pattern more than the tighter, more linear READ/WRITE paths or the wider, more dynamic PLAY/WATCH distributions typical of videos or games.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like fixations with relatively large, discrete jumps in both horizontal (\u00b115\u00b0) and vertical (\u00b19\u00b0) directions, without a simple left-right pattern or dense, small, unidirectional movements. This matches a target moving to random screen positions held about 1 s each, consistent with the Random Saccades task rather than horizontal-only saccades, reading, or free viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a few vertically separated clusters near the left side of the screen, consistent with alternating gaze between code editor regions and console/tool areas during programming, matching the WRITE pattern more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to the code/console region with many short regressions and local re\u2011reads around similar y-levels, plus frequent shifts between mid-page and lower areas indicative of checking effects of edits. The pattern is more scattered and revisitation-heavy than WRITE/INTERPRET, and lacks the broad horizontal, line-by-line sweeps of READ or the large exploratory jumps of SEARCH/BROWSE, matching the intensive, back-and-forth scrutiny typical of debugging.",
+  "correct": false
+}

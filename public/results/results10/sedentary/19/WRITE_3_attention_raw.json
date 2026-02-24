@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is highly concentrated in a small region on the upper-left area of the screen with minimal dispersion, resembling focused inspection of a code segment as seen in the DEBUG example heatmap, rather than the broader scanning or line-by-line patterns of other tasks.",
+  "correct": false
+}

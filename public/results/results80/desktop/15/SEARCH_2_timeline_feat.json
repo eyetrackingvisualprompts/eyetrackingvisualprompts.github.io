@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces progress slowly with small, regular saccades and limited vertical range, resembling line-by-line scanning of static text, which matches the READ template more than the other activities.",
+  "correct": false
+}

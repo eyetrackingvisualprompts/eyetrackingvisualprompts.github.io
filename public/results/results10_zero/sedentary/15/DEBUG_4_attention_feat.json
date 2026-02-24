@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small area on the left side of the screen, consistent with focused attention on a code editor while typing, with little gaze movement to other regions, which is typical for the WRITE activity compared to more dispersed patterns in browse/search or dynamic patterns in play/watch.",
+  "correct": false
+}

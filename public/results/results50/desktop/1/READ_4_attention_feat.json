@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are distributed in a band that diagonally traverses the screen with relatively orderly, line-like clusters rather than a single central region or top band. This resembles systematic scanning of text (including possible scrolling) more than focused top-area viewing (WATCH/WRITE) or central patchy exploration (SEARCH/BROWSE) or game-specific clusters (PLAY), making READ the closest match.",
+  "correct": true
+}

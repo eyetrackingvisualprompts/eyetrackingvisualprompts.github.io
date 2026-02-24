@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are tightly clustered slightly above the screen center, similar to the SEARCH example where gaze concentrates on the search box and result snippets, rather than spread horizontally like READ or dispersed like PLAY/WRITE.",
+  "correct": false
+}

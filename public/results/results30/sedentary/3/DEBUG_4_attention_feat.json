@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in the upper-left code area with a vertical spread and scattered checks nearby, closely matching the DEBUG example\u2019s localized but exploratory pattern rather than the more compact WRITE/INTERPRET or horizontal READ/BROWSE layouts.",
+  "correct": true
+}

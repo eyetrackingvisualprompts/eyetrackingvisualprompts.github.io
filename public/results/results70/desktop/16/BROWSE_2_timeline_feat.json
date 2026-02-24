@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions remain clustered near the screen center with frequent small saccades in both axes and no strong systematic horizontal scanning or vertical progression, closely matching the example BROWSE pattern rather than the more structured trajectories seen in READ/WRITE or the wider movements in WATCH/PLAY/SEARCH.",
+  "correct": true
+}

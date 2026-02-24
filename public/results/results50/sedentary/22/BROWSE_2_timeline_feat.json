@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large saccades in both axes with irregular, non-linear trajectories and broad vertical range, closely matching the dynamic, multidirectional patterns seen in the PLAY example, unlike the more structured horizontal scanning of reading/browsing or the steadier fixations of code tasks and watching video.",
+  "correct": false
+}

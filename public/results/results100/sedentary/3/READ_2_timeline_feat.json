@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The X fixation shows repeated left-to-right sweeps with return saccades, while Y fixation gradually increases but includes a mid-interval downward jump then recovery, suggesting scrolling and irregular line transitions typical of free web browsing rather than the steadier, more uniform progression seen in structured reading tasks.",
+  "correct": false
+}

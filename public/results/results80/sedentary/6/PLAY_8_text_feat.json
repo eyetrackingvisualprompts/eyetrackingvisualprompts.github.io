@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large saccades to screen extremes and off-screen coordinates, revisits between central content and top regions, and scanning across multiple dispersed areas resemble the exploratory, results-navigation pattern seen in SEARCH rather than the more locally constrained code or text reading/writing patterns of INTERPRET/DEBUG/READ.",
+  "correct": false
+}

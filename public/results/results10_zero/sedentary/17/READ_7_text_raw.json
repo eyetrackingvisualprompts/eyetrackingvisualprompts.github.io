@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form predominantly horizontal, tightly clustered scanlines around similar y-values with small regressions and limited large saccades, matching left-to-right line reading behavior more than the broader visual exploration or multi-directional movements typical of coding, games, browsing, or search tasks.",
+  "correct": true
+}

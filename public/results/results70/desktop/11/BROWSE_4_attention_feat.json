@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are centered and moderately dispersed around the mid-screen, similar to the SEARCH example where attention alternates between query box, results list, and other elements, rather than the more horizontally constrained patterns of READ/WRITE or the widely scattered PLAY/WATCH patterns.",
+  "correct": false
+}

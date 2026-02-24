@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively narrow central area with small, systematic horizontal movements and limited large saccades, closely matching the INTERPRET example where participants inspect and reason about a short code snippet, rather than the broader scanning of SEARCH/BROWSE or dynamic movements of WATCH/PLAY.",
+  "correct": false
+}

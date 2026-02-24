@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are spread across a mid-screen region with varied saccade directions and moderate dispersion, resembling exploratory viewing of different elements on web pages, which matches the browsing pattern more than the more localized READ/WRITE or the more dynamic WATCH/PLAY patterns.",
+  "correct": true
+}

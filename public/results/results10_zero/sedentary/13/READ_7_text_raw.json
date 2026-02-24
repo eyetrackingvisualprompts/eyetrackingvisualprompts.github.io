@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points show relatively continuous, smooth movements with moderate horizontal and vertical shifts across a wide central region, without the tight, line-by-line horizontal scanning typical for reading/browsing or the concentrated code-window clusters seen in programming tasks. There are no rapid, repetitive focal shifts on small areas characteristic of gameplay tracking. This broad, fluid viewing pattern is most consistent with watching a full-screen video stimulus.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude, multidirectional shifts and scattered coverage of the screen (including extreme coordinates and off-center regions), indicative of tracking moving objects and rapid navigation rather than systematic reading or code inspection patterns, which aligns best with interactive gameplay behavior.",
+  "correct": false
+}

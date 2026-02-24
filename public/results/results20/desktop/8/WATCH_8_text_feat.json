@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered in an upper-left vertical band with repeated medium-long fixations around similar coordinates and modest local shifts, resembling monitoring and composing text in a word processor more than the more horizontally sweeping or wide-ranging scanpaths seen in READ, SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

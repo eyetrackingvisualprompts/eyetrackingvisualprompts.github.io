@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow left-side code area with occasional long saccades to a single region on the lower-right (likely execution/console), matching the WRITE example more than DEBUG, which shows denser, broader inspection of the code and UI.",
+  "correct": false
+}

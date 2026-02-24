@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps across widely separated vertical and horizontal regions (top, middle, bottom of page, and far left/right), with many revisits and scattered fixations, match the heterogeneous, exploratory patterns seen in BROWSE rather than the more structured scanpaths of reading, coding, or debugging, or the more stimulus-driven tracking of play/watch.",
+  "correct": false
+}

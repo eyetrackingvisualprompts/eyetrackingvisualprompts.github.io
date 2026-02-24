@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze points are clustered within a relatively small region with short, varied saccades and no strict horizontal line structure, indicating free-viewing behavior similar to the video viewing example rather than the more regular patterns of reading or controlled saccade tasks.",
+  "correct": true
+}

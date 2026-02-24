@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze path shows predominantly horizontal movements with small vertical shifts, concentrated in a narrow band\u2014characteristic of line-by-line reading rather than the broader, more scattered patterns seen in browsing, searching, watching, playing, or writing tasks.",
+  "correct": true
+}

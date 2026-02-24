@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The scanpath shows dense, sustained fixations on the left side (code area) with repeated long saccades to a cluster on the right (likely console/output panel), matching the pattern of alternating between inspecting code and checking results typical of debugging rather than the more localized INTERPRET or WRITE patterns.",
+  "correct": true
+}

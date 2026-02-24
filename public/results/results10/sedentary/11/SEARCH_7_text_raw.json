@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows prolonged clustered fixations around a central horizontal band (code area) with occasional shifts to top-of-screen regions (function description, instructions, or console), plus several excursions to extreme coordinates and back, matching structured, iterative inspection typical of code writing rather than smoother scanning (READ/SEARCH/BROWSE) or more continuous motion (WATCH/PLAY). The spatial pattern and transitions are most similar to the WRITE exemplar among the provided classes.",
+  "correct": false
+}

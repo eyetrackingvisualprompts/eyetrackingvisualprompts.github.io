@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The horizontal (X) gaze position shows large, regular back-and-forth steps spanning close to \u00b115 DVA, while the vertical (Y) position remains relatively stable around a high constant value with only minor fluctuations. This pattern matches a task where the target moves mainly horizontally with fixed dwell periods, consistent with Horizontal Saccades rather than random or content-driven viewing tasks.",
+  "correct": false
+}

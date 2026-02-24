@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows predominantly vertical transitions between two main horizontal bands (upper and lower regions), with relatively small horizontal dispersion within each band\u2014matching the behavior of tracking a horizontally moving target that steps between two vertical positions, as in the Horizontal Saccades task, rather than the more scattered or multi-directional patterns expected in random saccades, video viewing, reading, or gaming.",
+  "correct": false
+}

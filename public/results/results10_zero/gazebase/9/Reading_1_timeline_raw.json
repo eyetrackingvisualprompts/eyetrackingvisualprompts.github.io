@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze position shows large, regular, step-like changes confined primarily to the horizontal (X) axis between about \u00b115 degrees, while the vertical (Y) position remains nearly constant. This pattern matches following a target moving horizontally with 1 s fixations between saccades, characteristic of the Horizontal Saccades task.",
+  "correct": false
+}

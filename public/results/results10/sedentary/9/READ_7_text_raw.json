@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points cluster in a narrow horizontal band with many short, small-amplitude saccades and subtle vertical shifts across a limited vertical range, consistent with scanning search results/snippets rather than line-by-line dense reading or large, free-form movements seen in PLAY, WATCH, or BROWSE. The pattern closely resembles the SEARCH example\u2019s compact fixation-saccade structure around mid-screen and episodic jumps, rather than the more structured code (INTERPRET/DEBUG/WRITE) or text reading patterns.",
+  "correct": false
+}

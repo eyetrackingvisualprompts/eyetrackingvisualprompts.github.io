@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively stable horizontal fixation around the screen center with moderate vertical variation and frequent short saccades, closely matching the pattern in the READ example and differing from the higher-variability BROWSE and more dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

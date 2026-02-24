@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations cluster tightly in a small code-region\u2013like area (x\u2248280\u2013400, y\u2248430\u2013480) with many short regressions and re-readings of nearly the same lines, indicating intensive local reasoning rather than global scanning. There is no systematic horizontal line-by-line reading (READ) or broad vertical navigation (SEARCH/BROWSE), nor wide, screen-spanning shifts (PLAY/WATCH). The focused, back-and-forth scrutiny over a constrained area aligns best with interpreting a code snippet\u2019s behavior (INTERPRET).",
+  "correct": true
+}

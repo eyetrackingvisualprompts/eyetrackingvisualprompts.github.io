@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations form a horizontal band across the mid-screen like reading, but with more scattered points above and below the main line, matching the mixed reading-and-scanning pattern seen in the BROWSE example rather than the tighter, more uniform READ pattern.",
+  "correct": true
+}

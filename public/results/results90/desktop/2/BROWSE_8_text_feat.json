@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across both axes (including jumps off-screen bounds like y\u22481.1 and y\u22480.04), rapid shifts between widely separated regions, and relatively short, scattered fixations rather than line-based or localized reading/writing patterns. This wide-range, dynamic scanning with many vertical and horizontal excursions best matches the PLAY examples, where players track moving game elements across the whole display and beyond the main content area, rather than the more structured, band-limited patterns seen in READ/WRITE or the comparatively more constrained upper-screen focus in SEARCH/BROWSE.",
+  "correct": false
+}

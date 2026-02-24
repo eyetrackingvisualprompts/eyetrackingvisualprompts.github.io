@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades show frequent long jumps between far-separated regions (bottom-left text-like band, then extreme top edge, then back), with irregular, non-linear scan paths and varied fixation durations. This pattern is more consistent with exploratory web browsing across diverse page elements than with the structured, line-by-line horizontal patterns of reading/search, the focused code regions of programming tasks, or the smoother central tracking of video watching/playing.",
+  "correct": false
+}

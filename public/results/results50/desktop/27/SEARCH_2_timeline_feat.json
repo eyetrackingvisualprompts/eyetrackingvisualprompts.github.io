@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows prolonged periods where Y fixation stays high near the top of the screen with relatively small horizontal changes, interspersed with brief larger vertical shifts\u2014consistent with tracking key regions in a video scene rather than systematic horizontal scanning (reading/browsing) or strong lower-screen focus (writing/playing). Among the examples, this temporal pattern and vertical distribution most closely resemble the WATCH class.",
+  "correct": false
+}

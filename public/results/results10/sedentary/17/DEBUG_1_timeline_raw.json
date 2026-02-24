@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated shifts between two main vertical regions: long fixations and horizontal scans higher on the screen, then quick drops to a lower region and back, resembling movement between search box/results and other page elements. This pattern matches the SEARCH example more closely than the others.",
+  "correct": false
+}

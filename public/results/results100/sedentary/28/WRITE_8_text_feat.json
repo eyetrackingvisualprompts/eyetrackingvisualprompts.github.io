@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between a central content area (~x 250\u2013650) and far right/top regions (~x 1600\u20131800) with short inspections at those distant points match scanning results/snippets and jumping to browser UI elements in the SEARCH examples, rather than the more locally constrained patterns of code tasks or the smoother, stimulus-driven patterns of WATCH/PLAY.",
+  "correct": false
+}

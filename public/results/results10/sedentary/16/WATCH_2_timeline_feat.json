@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows frequent medium-to-large horizontal and vertical shifts with relatively few sustained line-by-line horizontal patterns, resembling dynamic visual tracking of changing on-screen content rather than structured text reading or code inspection, which matches the WATCH example most closely.",
+  "correct": true
+}

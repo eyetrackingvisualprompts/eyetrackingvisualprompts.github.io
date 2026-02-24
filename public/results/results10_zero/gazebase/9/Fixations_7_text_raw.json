@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows repeated large-amplitude jumps (up to ~15\u00b0) in both horizontal and vertical directions followed by ~1-second clusters of tightly packed, low-variance samples (stable fixations). This pattern of big, multidirectional saccades between discrete positions with sustained fixations matches a subject tracking a randomly moving target rather than purely horizontal motion, static fixation, reading-like line sweeps, game-driven multi-point pursuit, or free video viewing.",
+  "correct": false
+}

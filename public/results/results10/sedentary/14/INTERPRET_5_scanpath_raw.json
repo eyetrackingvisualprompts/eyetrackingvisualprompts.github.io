@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in the upper-left code area with frequent local saccades and occasional long shifts downward and right (likely to console or other panels), closely matching the DEBUG example pattern.",
+  "correct": false
+}

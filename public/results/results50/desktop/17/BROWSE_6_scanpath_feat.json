@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across a central region with frequent shifts between upper and lower areas, resembling scanning between search results, snippets, and the search box\u2014more scattered than READ and WRITE, but less horizontally biased than WATCH or PLAY, matching the SEARCH pattern best.",
+  "correct": false
+}

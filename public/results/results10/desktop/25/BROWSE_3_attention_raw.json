@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The heatmap shows a compact gaze cluster with minimal dispersion, centered around a single area, resembling focused fixation on a game character or central game region, similar to the PLAY example and unlike the more spread, scanning patterns seen in READ, SEARCH, BROWSE, WATCH, or WRITE.",
+  "correct": false
+}

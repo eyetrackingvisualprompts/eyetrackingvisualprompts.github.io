@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are densely clustered in a compact central region with relatively small horizontal spread and no clear line-by-line pattern, indicating sustained attention to a single, central visual area consistent with watching a video rather than scanning text or interacting with dispersed UI elements.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a mostly steady horizontal position with a gradual, monotonic downward drift in Y over time, consistent with line-by-line reading behavior, and closely matches the pattern in the READ example plot compared to other activities.",
+  "correct": false
+}

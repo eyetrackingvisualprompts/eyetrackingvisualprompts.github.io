@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows widespread exploratory movements across much of the screen with frequent shifts between dispersed clusters, indicative of scanning varied elements like search results and web pages rather than the more localized, line-structured patterns of reading or writing, or the more constrained focal regions typical of browsing news, watching video, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a mid-left code area with many dense fixations, plus repeated horizontal checks to a secondary region on the right and occasional long saccades across the screen, matching focused code inspection and cross-referencing typical of debugging rather than the more localized INTERPRET/WRITE or the more uniform scanning in BROWSE/SEARCH.",
+  "correct": false
+}

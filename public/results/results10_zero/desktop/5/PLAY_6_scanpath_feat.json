@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered around the screen center with minimal horizontal or vertical scanning, suggesting prolonged fixation on a central stimulus typical of watching a video rather than reading, browsing, searching, writing, or game play, which usually produce more distributed scanpaths.",
+  "correct": false
+}

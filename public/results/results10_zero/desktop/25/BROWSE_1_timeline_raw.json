@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show relatively stable horizontal fixations with small gradual shifts and few saccades, consistent with line-by-line reading motion rather than rapid multidirectional movements typical of play, search, browse, or watch activities.",
+  "correct": false
+}

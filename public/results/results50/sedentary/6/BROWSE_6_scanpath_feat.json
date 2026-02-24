@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly concentrated along one horizontal band resembling reading of a results list, with recurring long saccades from a left cluster to right-side areas, consistent with inspecting search results and occasionally moving to detailed content, matching the SEARCH scanpath more than the other activities.",
+  "correct": false
+}

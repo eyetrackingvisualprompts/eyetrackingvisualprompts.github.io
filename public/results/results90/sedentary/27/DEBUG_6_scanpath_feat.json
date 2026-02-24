@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a relatively small left-central region with limited horizontal spread and vertical movements within the code area, similar to the INTERPRET example where attention stays on a confined code snippet rather than scanning widely as in DEBUG or SEARCH.",
+  "correct": false
+}

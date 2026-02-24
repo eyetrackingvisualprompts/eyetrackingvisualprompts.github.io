@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows two dense horizontal bands of fixations (upper and lower text lines) with a large vertical saccade between them, characteristic of reading multi-paragraph text, matching the READ example scanpath.",
+  "correct": true
+}

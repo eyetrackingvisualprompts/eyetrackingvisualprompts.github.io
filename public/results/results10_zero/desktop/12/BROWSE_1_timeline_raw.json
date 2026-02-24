@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain in a narrow central horizontal band with slow drift and a few abrupt vertical shifts, suggesting sustained attention to a mainly static central region with occasional moves (e.g., to subtitles or changing scenes), which best matches watching a video rather than the more scan-heavy or text-line patterns of reading, writing, browsing, searching, or the larger directional sweeps of game play.",
+  "correct": false
+}

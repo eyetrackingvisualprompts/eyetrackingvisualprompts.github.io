@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly confined to a central horizontal band with small, steady movements and occasional sharp vertical spikes, matching the focused, code-editing pattern seen in the WRITE example more than the broader exploratory or reading-like patterns of other tasks.",
+  "correct": false
+}

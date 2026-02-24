@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered around a code-like region (x\u2248250\u2013600,y\u2248200\u2013400) with repeated short saccades and mid-length fixations, frequent revisits to nearly identical coordinates, and occasional vertical moves to lower lines\u2014matching focused code editing/typing patterns seen in WRITE examples rather than broader scanning (SEARCH/BROWSE), narrative reading (READ/WATCH), or highly dynamic motion (PLAY).",
+  "correct": false
+}

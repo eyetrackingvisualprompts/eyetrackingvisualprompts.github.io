@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points span a wide vertical range from near the top to bottom and move frequently between dispersed regions with brief fixations and many saccades, indicating dynamic, multi-directional visual exploration consistent with online gameplay rather than the more horizontally banded or centrally clustered patterns seen in reading, writing, browsing, searching, or video watching.",
+  "correct": false
+}

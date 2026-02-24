@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points cluster around a central region with moderate dispersion and frequent saccades between nearby locations, resembling the SEARCH example more than the more linear READ or peripheral PLAY/WRITE patterns.",
+  "correct": true
+}

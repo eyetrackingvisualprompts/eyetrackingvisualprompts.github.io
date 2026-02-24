@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze starts with relatively stable horizontal scanning, then shows a large vertical jump and later another jump with mixed fixations, indicating scrolling through different screen regions typical of web browsing rather than the more structured, line-by-line patterns of reading or the localized patterns of coding tasks.",
+  "correct": false
+}

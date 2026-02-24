@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points remain within a relatively narrow horizontal band near the screen center with slow, small-amplitude shifts and extended stable regions, consistent with reading lines of text rather than the larger, more scattered saccades typical of search, browsing, or gameplay, or the more central dynamic focus seen in video watching and writing interfaces.",
+  "correct": false
+}

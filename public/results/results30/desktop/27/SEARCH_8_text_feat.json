@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band in the lower screen with small vertical range and medium-length fixations, matching the stable, line-by-line behavior over the text-entry area seen in the WRITE example rather than the broader vertical scanning of SEARCH/BROWSE or the upper-screen focus of WATCH/READ.",
+  "correct": false
+}

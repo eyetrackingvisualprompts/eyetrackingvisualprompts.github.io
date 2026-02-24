@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are split between a left-central band (likely code editor) and a distinct right-side cluster (possibly console or documentation within IDE), matching the distributed gaze pattern seen in the WRITE example more than the other activities.",
+  "correct": true
+}

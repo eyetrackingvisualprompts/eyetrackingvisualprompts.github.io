@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a long, stable horizontal band with small regressions and occasional quick vertical shifts, closely resembling the sustained, line-by-line pattern seen in the READ example rather than the more varied or dispersed movements of browsing, coding, or gameplay.",
+  "correct": false
+}

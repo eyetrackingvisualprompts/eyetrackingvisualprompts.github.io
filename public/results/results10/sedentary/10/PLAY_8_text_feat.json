@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a relatively small region with long, sustained fixations (0.4\u20131.3s) and only short local saccades, consistent with passively following on\u2011screen motion (video) rather than scanning text, code, or web pages or tracking fast-moving game objects.",
+  "correct": false
+}

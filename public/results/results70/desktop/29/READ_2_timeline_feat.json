@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, slowly drifting fixation patterns with moderate saccades and larger vertical shifts over time, resembling the WATCH example more than the tighter, line-based scanning of READ/BROWSE or the more erratic movements in PLAY/SEARCH/WRITE.",
+  "correct": false
+}

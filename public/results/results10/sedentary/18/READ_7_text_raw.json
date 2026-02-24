@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are concentrated in the mid-to-lower screen, with smooth lateral tracking and clustered movements suggestive of following moving game elements and monitoring a playfield, matching the PLAY examples more than the more static, line- or code-structured patterns of text/code-related tasks or the broader dispersion of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

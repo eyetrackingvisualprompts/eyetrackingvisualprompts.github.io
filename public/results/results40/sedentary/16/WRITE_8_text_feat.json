@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long, clustered fixations in a compact code-like region with frequent short saccades within the same area, occasional jumps to nearby lines/regions, and absence of wide exploratory or line-by-line scanning patterns match the intensive, localized inspection typical of mentally simulating and interpreting a short code snippet rather than broader exploration (BROWSE/SEARCH), extended linear text reading (READ), dynamic tracking (PLAY/WATCH), or more dispersed revisitation seen in DEBUG/WRITE.",
+  "correct": false
+}

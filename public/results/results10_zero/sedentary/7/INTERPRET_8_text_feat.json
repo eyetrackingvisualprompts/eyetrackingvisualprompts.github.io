@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows many medium-length fixations clustered in a relatively narrow horizontal band with small vertical shifts and short saccades back and forth, characteristic of sustained reading on text rather than broad exploratory movements (browse/search), large object following (play/watch), or intensive code navigation (write/debug/interpret).",
+  "correct": false
+}

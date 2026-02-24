@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured horizontal movements with relatively small vertical shifts, resembling line-by-line scanning of text, which best matches the reading pattern among the given classes.",
+  "correct": false
+}

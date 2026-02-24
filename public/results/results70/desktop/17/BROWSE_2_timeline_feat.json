@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cluster around screen center with moderate, irregular shifts in both X and Y and no strong horizontal sweep pattern; this matches the more scattered, exploratory pattern seen in the BROWSE example rather than the structured scan paths of READ/WRITE or the larger excursions of PLAY/WATCH/SEARCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a compact area in the lower-left/mid-left region with little vertical spread and almost no activity elsewhere, consistent with focusing on a local area such as the text-entry region in a word processor rather than scanning across wider content as in reading, browsing, or watching video.",
+  "correct": false
+}

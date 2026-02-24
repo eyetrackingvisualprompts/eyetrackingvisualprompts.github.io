@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The fixations are densely concentrated around the central area with a compact horizontal spread and many surrounding saccades, matching the PLAY example heatmap where gaze tracks dynamic game elements near the screen center rather than static text blocks or dispersed browsing/search patterns.",
+  "correct": true
+}

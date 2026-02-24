@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows gaze concentrated in a relatively central region with irregular shifts and revisits rather than systematic horizontal sweeps or vertical scrolling typical of reading, browsing, or searching. There is no strong left-to-right, line-by-line pattern (READ/WRITE) and movements are not widely dispersed across the screen as in many games (PLAY). Such centralized yet dynamic gaze with moderate excursions is most consistent with watching video content where main visual elements stay near the center while changing over time.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small left-side code area with short local saccades and occasional jumps, resembling focused inspection of a compact code snippet rather than broader navigation or reading layouts; this pattern matches the INTERPRET examples most closely.",
+  "correct": false
+}

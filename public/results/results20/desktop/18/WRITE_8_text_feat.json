@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades spanning wide screen regions in both horizontal and vertical directions, with relatively short and scattered fixations at varied positions (including near screen edges). This pattern matches dynamic, multi-directional visual exploration typical of gameplay, and differs from the more line-structured, mid-screen patterns of READ/WRITE or the more vertically oriented scanning of SEARCH/BROWSE.",
+  "correct": false
+}

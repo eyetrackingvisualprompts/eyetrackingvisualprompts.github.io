@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a relatively small central area with moderate horizontal and vertical shifts, resembling focused inspection of a compact code snippet rather than wide scanning (BROWSE/SEARCH) or larger movements (WATCH/PLAY). The pattern closely matches the INTERPRET example, with sustained fixations and occasional local saccades, consistent with mentally simulating code output.",
+  "correct": false
+}

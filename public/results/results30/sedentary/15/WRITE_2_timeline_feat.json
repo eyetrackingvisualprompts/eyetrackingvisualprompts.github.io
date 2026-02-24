@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows mostly horizontal scanning confined to a narrow vertical band with occasional jumps, closely matching the WRITE example pattern of focused code editing on a few lines rather than the more extensive vertical movements seen in browsing, reading, or searching.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is distributed over a broad mid-screen band with multiple dispersed clusters and no strong central or left-margin concentration typical of reading or code tasks, resembling the wide, dynamic scanning pattern seen in the PLAY example heatmap where attention tracks moving game elements.",
+  "correct": false
+}

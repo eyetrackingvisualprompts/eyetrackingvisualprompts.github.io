@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are distributed over a relatively broad central area with frequent shifts and varied fixation durations, resembling the exploratory, multi-region scanning seen in the SEARCH example more than the tighter clusters of BROWSE or the linear patterns of READ/WRITE.",
+  "correct": false
+}

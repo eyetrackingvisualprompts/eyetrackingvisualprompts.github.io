@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows frequent medium-range shifts in both X and Y with mixed fixation locations across the screen, including the code area and surrounding UI, resembling the WRITE example more than the more stable, line-based READ/INTERPRET patterns or the highly dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

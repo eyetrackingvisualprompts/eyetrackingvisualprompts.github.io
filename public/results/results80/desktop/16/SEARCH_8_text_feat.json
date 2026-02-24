@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extreme left/right and top/bottom) with short fixations and revisits to HUD-like upper areas resemble dynamic game viewing demands more than the comparatively clustered, line-structured patterns of READ/WRITE or the mid-screen focus of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

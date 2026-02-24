@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely distributed across the screen, including top, middle, and bottom regions with no single dominant cluster, indicating extensive scanning of multiple interface elements and content areas typical of free web browsing rather than the more localized patterns of reading, coding, or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze traverses a wide two-dimensional range (around \u00b120\u00b0 horizontally and \u00b115\u00b0 vertically) with large, abrupt jumps between relatively stable clusters, matching 2D step-like target movements rather than line-like horizontal tracking, central fixation, localized reading progressions, or more stimulus-driven video/game viewing patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a very tight cluster in a single small region with almost no exploration elsewhere, indicating prolonged fixation on one static area of the screen. This pattern is most consistent with watching a video where attention is focused on a central element (e.g., a character or subtitle region), rather than scanning text or interfaces as in reading, browsing, searching, or writing, or the broader movements typical of gameplay.",
+  "correct": false
+}

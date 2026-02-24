@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered in a single small region without horizontal scanning or multiple areas of interest, indicating focused attention on a compact element such as a central article or item typical of browsing, rather than the broader horizontal patterns of reading, searching, or watching, or the dispersed movements of playing or writing.",
+  "correct": false
+}

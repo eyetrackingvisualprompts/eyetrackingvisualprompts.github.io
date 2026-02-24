@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a compact but irregular cluster around the central-upper area, indicating focused yet scattered attention typical of looking between search results, snippets, and interface elements, matching the SEARCH pattern more than the linear structure of READ or the wide spread of PLAY/WATCH/WRITE/BROWSE.",
+  "correct": false
+}

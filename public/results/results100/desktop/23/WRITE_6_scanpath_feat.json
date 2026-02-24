@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band with small progressive saccades, indicating steady line-by-line viewing of static text, which best matches the READ pattern compared to the more dispersed or wider-ranging movements in other activities.",
+  "correct": false
+}

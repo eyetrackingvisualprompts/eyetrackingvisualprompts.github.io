@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows large vertical and horizontal jumps between distant screen regions (including near top and off-screen coordinates), alternating with brief fixations\u2014indicative of scanning a results page, address bar, and other UI elements rather than line-by-line reading or focused code inspection, aligning best with SEARCH behavior.",
+  "correct": true
+}

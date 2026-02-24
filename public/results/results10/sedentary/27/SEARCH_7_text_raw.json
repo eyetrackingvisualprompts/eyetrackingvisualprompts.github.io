@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Initial clustered fixations around upper-left suggest query box reading/typing, followed by rapid vertical and horizontal shifts through mid and lower screen regions and off-screen coordinates, matching exploratory scanning of SERP snippets and page transitions seen in the SEARCH examples rather than the more line-structured (READ) or code-focused (WRITE/DEBUG/INTERPRET) patterns.",
+  "correct": true
+}

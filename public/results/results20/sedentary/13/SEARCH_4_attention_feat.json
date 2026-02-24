@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows multiple horizontally distributed regions with line-like fixations at different vertical positions, indicating reading across several content blocks and shifting attention between areas, which is most consistent with free web browsing behavior rather than focused code reading/writing or centralized video watching/playing.",
+  "correct": false
+}

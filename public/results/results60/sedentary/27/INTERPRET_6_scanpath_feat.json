@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a compact area on the left side, characteristic of focused code inspection, with occasional vertical excursions suggesting shifts between code regions or output/console, matching the DEBUG pattern more than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-central code/IDE area with occasional long saccades to a right-side region, likely console or documentation, matching the DEBUG example more than READ/WRITE/SEARCH patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates between a left text/code area and a right/lower region consistent with IDE editing and reference switching, similar to the WRITE example\u2019s dispersed but structured pattern rather than the more localized patterns of READ or INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation cluster is centered mid-screen with some horizontal spread, closely resembling the BROWSE example heatmap pattern more than the other activities, which show distinct top-band (WATCH/WRITE), broader horizontal reading lines (READ), or more dispersed motion (PLAY/SEARCH).",
+  "correct": false
+}

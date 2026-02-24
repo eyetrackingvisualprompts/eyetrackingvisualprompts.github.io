@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cluster mostly in central screen regions with smooth shifts and no clear line-by-line reading or structured scanning typical of text or code. The widespread horizontal spread and episodic larger jumps are consistent with following dynamic visual content across the screen, as in watching a video, rather than the more localized, columnar patterns seen in reading, coding (INTERPRET/DEBUG/WRITE), searching, or browsing text-heavy pages, and there is no tight object-tracking loop as in many simple games.",
+  "correct": true
+}

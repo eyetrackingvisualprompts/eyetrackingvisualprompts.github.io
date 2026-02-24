@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple vertical regions including central text-like area, some near top and bottom, and a distinct cluster on the right side resembling attention to search results list and a side element; this heterogeneous yet structured pattern best matches the SEARCH example heatmap.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between widely separated positions across both horizontal (\u2248\u00b115\u00b0) and vertical (\u2248\u00b15\u00b0) axes with clear 1-second-scale fixations between large jumps, closely matching the discrete, randomly positioned target-following pattern of the Random Saccades task rather than the more structured patterns of reading, pure horizontal motion, central fixation, video viewing, or game-driven refixations.",
+  "correct": false
+}

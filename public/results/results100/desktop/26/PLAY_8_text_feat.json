@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with small-amplitude horizontal saccades and medium-length fixations, closely resembling line-by-line inspection of static content. There are no large vertical shifts or wide exploratory jumps typical of SEARCH, BROWSE, or PLAY, nor the broader, more dispersed patterns seen in WATCH; the pattern best matches the structured, localized movements of reading text.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are arranged in a predominantly horizontal band across the mid-screen with relatively regular spacing and limited vertical spread, matching the left-to-right scan pattern characteristic of reading text rather than the more clustered (BROWSE/SEARCH/WRITE) or widely dispersed (PLAY/WATCH) patterns.",
+  "correct": false
+}

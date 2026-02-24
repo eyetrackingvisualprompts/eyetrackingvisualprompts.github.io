@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread mainly across the upper-middle part of the screen with some vertical scanning and a few visits further right, resembling inspection of search results and snippets rather than focused code (WRITE/INTERPRET/DEBUG) or full-page reading, and less center-focused and dynamic than PLAY or WATCH.",
+  "correct": false
+}

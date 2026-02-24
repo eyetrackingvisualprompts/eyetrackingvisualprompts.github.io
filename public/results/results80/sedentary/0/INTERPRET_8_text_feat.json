@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between central code/text-like regions and multiple distant UI areas (top bars, bottom/side regions) with large vertical and horizontal saccades, frequent revisits, and excursions to screen edges and beyond\u2014matching the heterogeneous, interface-spanning scanpaths seen in the SEARCH examples more than the denser, column-focused patterns of INTERPRET/DEBUG/WRITE or the smoother object-following/playback patterns of PLAY/WATCH/READ.",
+  "correct": false
+}

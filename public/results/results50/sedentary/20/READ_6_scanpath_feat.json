@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze points are tightly clustered in a small central-lower screen region with minimal horizontal spread, resembling focused inspection of a compact code snippet or output area, which matches the INTERPRET examples more than the broader, more distributed patterns of other tasks.",
+  "correct": false
+}

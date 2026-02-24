@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions show step-like jumps to varied locations across both horizontal and vertical axes, with positions held briefly between jumps and movements not restricted to a single axis, matching the pattern of following a randomly moving target rather than repetitive horizontal sweeps, central fixation, reading, gaming, or natural video viewing.",
+  "correct": false
+}

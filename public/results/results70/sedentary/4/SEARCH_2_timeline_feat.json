@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows alternating horizontal and vertical movements with scattered fixations across a broader area, including frequent jumps to higher Y positions, resembling scanning result lists and different page regions as in the SEARCH example, rather than the more regular line-by-line READ pattern or the focused code-related tasks.",
+  "correct": true
+}

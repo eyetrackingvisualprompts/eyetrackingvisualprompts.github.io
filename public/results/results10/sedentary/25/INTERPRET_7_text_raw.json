@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze data shows frequent large saccades to extreme/out-of-bounds coordinates, scattered visits to top-of-screen and off-screen regions, and irregular viewing across multiple vertical and horizontal locations\u2014patterns characteristic of scanning search results and navigating between query box, SERP snippets, and different page areas, matching the SEARCH examples more than the other tasks.",
+  "correct": false
+}

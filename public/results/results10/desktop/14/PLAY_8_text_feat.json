@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays within a compact central region with short saccades and medium fixations, lacking the systematic horizontal scanpaths of READ or the top-heavy pattern of SEARCH. The pattern shows localized exploration around a central area, most consistent with browsing mixed content rather than sustained text (READ/WRITE) or large-scene tracking (WATCH/PLAY).",
+  "correct": false
+}

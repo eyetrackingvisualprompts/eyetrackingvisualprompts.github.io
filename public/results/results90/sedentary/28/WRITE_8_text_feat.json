@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized fixations with many short regressions around code-like coordinates, frequent revisits to similar regions, and occasional large exploratory saccades (including to screen corners and off-content areas) match the detailed inspection and back-and-forth behavior seen in the DEBUG examples more than the other tasks.",
+  "correct": false
+}

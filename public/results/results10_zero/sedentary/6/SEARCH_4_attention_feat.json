@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in several horizontally aligned groups in the upper-left region of the screen, consistent with focusing on text lines or code near the top of a page, and unlike the more dispersed or central patterns expected for video watching, browsing, or gaming; this best matches a reading-oriented task, with READ being the closest among the options.",
+  "correct": false
+}

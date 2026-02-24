@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The fixations concentrate in a single, horizontally-elongated region on the left where code text and the typing location typically appear in an IDE, with scattered peripheral looks, matching the WRITE heatmap pattern more than other tasks.",
+  "correct": true
+}

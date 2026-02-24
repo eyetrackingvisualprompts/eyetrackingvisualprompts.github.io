@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain tightly clustered around the center with only small fluctuations and occasional brief artifacts, matching the stable central fixation pattern rather than the larger, systematic or exploratory movements seen in the other tasks.",
+  "correct": true
+}

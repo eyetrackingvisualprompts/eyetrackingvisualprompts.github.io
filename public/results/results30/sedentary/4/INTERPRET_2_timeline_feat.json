@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a relatively narrow horizontal band with slow, careful scanning and occasional moderate saccades, resembling the focused, line-by-line code inspection seen in the DEBUG example more than the broader movements of browsing, search, or play.",
+  "correct": false
+}

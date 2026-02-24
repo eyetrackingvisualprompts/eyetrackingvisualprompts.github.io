@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows widespread exploration across much of the screen with many medium-length saccades and dispersed fixations, resembling the example SEARCH pattern where users move between query box, results, and various page elements, rather than the more localized patterns of READ, WRITE, or PLAY.",
+  "correct": false
+}

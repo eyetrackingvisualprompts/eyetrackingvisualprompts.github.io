@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like region with many medium-to-long fixations and frequent short saccades between nearby positions, repeatedly revisiting the same small cluster of coordinates around 200\u2013300px vertically, consistent with mentally simulating and re-checking code rather than scanning long horizontal text lines (READ) or exploring broadly (SEARCH/BROWSE). This tightly focused, iterative inspection pattern best matches the INTERPRET task.",
+  "correct": true
+}

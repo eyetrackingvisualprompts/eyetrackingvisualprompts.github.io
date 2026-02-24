@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows widespread fixations across a central region with frequent saccades in multiple directions, resembling the exploratory, non-linear gaze patterns of web search results pages and differing from the more constrained horizontal patterns of reading or writing and the more upper-screen concentrated patterns of watching videos or playing games shown in the examples.",
+  "correct": false
+}

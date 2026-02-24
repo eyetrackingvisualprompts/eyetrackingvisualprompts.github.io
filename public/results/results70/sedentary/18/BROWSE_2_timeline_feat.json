@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated horizontal scan-like saccades with slowly varying vertical position and occasional larger vertical jumps, resembling reading and scanning across different webpage regions, which matches the BROWSE pattern more closely than the more stable READ or focused code-related tasks.",
+  "correct": true
+}

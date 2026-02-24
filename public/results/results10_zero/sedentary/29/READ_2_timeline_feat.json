@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near the screen center with very small, slow drifts and almost no large saccades or systematic horizontal/vertical scanning, which is typical of passively watching a fullscreen video rather than reading, coding, searching, or game playing that require more structured or rapid eye movements.",
+  "correct": false
+}

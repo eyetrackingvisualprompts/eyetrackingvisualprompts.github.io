@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal gaze movements with limited vertical shifts between two main horizontal bands, consistent with reading lines of text rather than the broader, more scattered exploration seen in browsing/search or the dynamic object tracking typical in games or videos.",
+  "correct": false
+}

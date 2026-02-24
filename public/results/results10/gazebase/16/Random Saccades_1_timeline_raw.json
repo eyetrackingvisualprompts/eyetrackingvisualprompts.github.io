@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show large, discrete jumps to varied locations across the screen (not limited to horizontal), with plateau periods around 1 s between movements, matching the pattern of a gaze following a randomly positioned target rather than structured reading, fixed central gaze, or purely horizontal motion.",
+  "correct": true
+}

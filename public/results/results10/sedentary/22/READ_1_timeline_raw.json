@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium horizontal movements with several vertical shifts and a notable drop to a lower Y band around 6.7s, similar to switching between result snippets or page regions, matching the example SEARCH pattern more than the other activities.",
+  "correct": false
+}

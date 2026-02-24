@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide spatial coverage with frequent long saccades between upper and lower regions and scattered fixations resembles scanning search results and moving between query box, results list, and possible answer pages, matching the SEARCH pattern more than the others.",
+  "correct": true
+}

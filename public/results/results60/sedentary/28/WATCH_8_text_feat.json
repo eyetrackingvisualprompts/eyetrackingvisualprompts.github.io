@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent long-range saccades across widely separated screen regions (including off-center corners and near-edges), repeated revisits to mid-page bands around y\u2248350\u2013700, and irregular vertical/horizontal scanning without the line-by-line structure of READ or the code-centered clustering of WRITE/DEBUG/INTERPRET. The heterogeneous, exploratory pattern with many jumps between top, middle, and bottom resembles the BROWSE examples most closely.",
+  "correct": false
+}

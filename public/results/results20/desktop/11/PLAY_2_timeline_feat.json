@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen horizontal fixation with intermittent larger saccades and moderate vertical shifts, indicating scanning result pages and occasionally moving to new areas, which best matches the SEARCH pattern compared to the more stable READ or more screen-edge-focused PLAY/WATCH behaviors.",
+  "correct": false
+}

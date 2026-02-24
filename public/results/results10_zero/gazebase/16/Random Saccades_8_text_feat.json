@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shifts involve large, multi-directional jumps across both horizontal (\u224825\u00b0 range) and vertical (\u224815\u00b0 range) axes with ~200 ms saccades separated by several hundred-millisecond fixations\u2014matching a target that moves unpredictably around the screen, rather than purely horizontal tracking, static fixation, or the more localized, text-line\u2013oriented patterns expected in reading or dense object-focused game play/video viewing.",
+  "correct": true
+}

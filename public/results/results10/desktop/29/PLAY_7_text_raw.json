@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is mostly confined to a narrow lower-left region with very small, consistent shifts and sustained fixations, matching the stable, line-by-line scanning pattern seen in the READ example more than the larger, more erratic movements of BROWSE/SEARCH or the broader spatial excursions of PLAY/WATCH/WRITE.",
+  "correct": false
+}

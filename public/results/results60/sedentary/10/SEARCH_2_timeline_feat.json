@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows continuous movement across a broad vertical range with frequent saccades and no clear line-by-line reading or structured code scanning; this dynamic, scene-following pattern best matches watching a video rather than tasks involving reading, coding, or web navigation.",
+  "correct": false
+}

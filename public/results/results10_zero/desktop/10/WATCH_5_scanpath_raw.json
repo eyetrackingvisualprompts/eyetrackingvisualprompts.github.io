@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze path shows broad, continuous movements across a relatively large vertical and horizontal region without clear horizontal line-by-line patterns or repeated revisits to a few UI areas. This suggests following dynamic visual content (e.g., characters and subtitles) rather than structured reading, form-filling, or focused search/browsing, matching the WATCH activity.",
+  "correct": true
+}

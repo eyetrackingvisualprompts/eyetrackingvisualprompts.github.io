@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a few long, horizontally aligned fixations with small vertical shifts over 10 seconds, consistent with line-by-line reading rather than continuous tracking (PLAY/WATCH) or scattered exploratory movements (SEARCH/BROWSE/DEBUG/WRITE/INTERPRET).",
+  "correct": false
+}

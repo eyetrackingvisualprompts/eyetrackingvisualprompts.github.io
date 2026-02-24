@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a narrow central region with small, infrequent saccades and very stable fixations, indicating focused inspection of a compact code snippet rather than extensive scanning or line-by-line reading; this pattern best matches the INTERPRET examples among the provided classes.",
+  "correct": false
+}

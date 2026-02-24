@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data show rapid, wide spatial shifts across large screen areas (including frequent moves between central, upper, and lower regions) with no stable horizontal reading lines or localized code/paragraph inspection. This heterogeneous, dynamic pattern is more consistent with visually tracking moving game elements than with the more clustered, line-based or pane-based viewing seen in reading, coding (INTERPRET/DEBUG/WRITE), web browsing, or search tasks, and differs from the more centrally focused, smoother patterns typical of passive video WATCH tasks.",
+  "correct": false
+}

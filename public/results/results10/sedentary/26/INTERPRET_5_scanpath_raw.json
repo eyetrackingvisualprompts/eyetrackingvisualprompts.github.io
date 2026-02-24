@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze path shows large screen-wide transitions combined with localized clusters around a small region, resembling navigation between different webpage regions and occasional reading, which matches the heterogeneous, exploratory patterns typical of browsing behavior.",
+  "correct": false
+}

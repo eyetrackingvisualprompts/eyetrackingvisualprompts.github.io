@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across much of the upper half of the screen with several local clusters and some lower scattered points, matching the left-to-right scanning and varied gaze behavior typical of web browsing rather than the more localized patterns of coding, reading, or watching video.",
+  "correct": false
+}

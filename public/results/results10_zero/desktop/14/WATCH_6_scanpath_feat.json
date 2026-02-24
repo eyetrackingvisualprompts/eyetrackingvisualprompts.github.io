@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered around a small central region with minimal horizontal progression or line-like patterns, indicating sustained attention to one area of the screen typical of watching a video rather than scanning text, searching, browsing, writing, or exploring a game scene.",
+  "correct": true
+}

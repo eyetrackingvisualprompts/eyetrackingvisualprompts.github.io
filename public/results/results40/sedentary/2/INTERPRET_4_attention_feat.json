@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered on a narrow vertical region on the left side of the screen, similar to the DEBUG example heatmap and consistent with focusing on a small code area within an IDE rather than scanning broadly or reading long horizontal text lines.",
+  "correct": false
+}

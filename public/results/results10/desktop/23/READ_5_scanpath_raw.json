@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows short, orderly horizontal movements with limited vertical range, resembling line-by-line text reading and matching the spatial pattern of the READ example more than the other activities, which have either more dispersed or more erratic gaze shifts.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderately constrained vertical range with frequent medium-amplitude horizontal shifts and irregular revisits to prior regions, resembling systematic but non-linear inspection typical of debugging rather than the more linear patterns of READ/WRITE or the more uniform WATCH activity.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows many medium-amplitude shifts across different vertical levels and scattered regions, with intermittent central fixations and occasional excursions to top/bottom areas, closely matching the heterogeneous, scroll-and-skim pattern seen in the BROWSE examples rather than the more structured patterns of READ, WRITE, or the more focused regions of PLAY/WATCH/SEARCH.",
+  "correct": true
+}

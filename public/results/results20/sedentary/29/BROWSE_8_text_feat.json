@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts across wide screen areas (including far corners and center) with relatively short, scattered fixations and no clear line- or code-structured reading pattern, matching the dynamic, scene-driven viewing typical of watching full-screen video rather than the more locally constrained, structured patterns of reading, coding, or web search/browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Balura Game",
+  "reason": "Fixations are scattered across both upper and lower parts of the screen with no clear linear structure, resembling multiple discrete target locations rather than the structured patterns of reading, video viewing, or controlled saccade tasks; this spatially diverse pattern best matches the Balura Game examples where gaze follows moving game objects across the display.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Predominantly mid-to-lower screen gaze with frequent, large-amplitude saccades between dispersed regions (center, corners, edges) and many revisits to similar coordinates, matching dynamic object-tracking/navigation patterns seen in the PLAY examples rather than the more line- or code-structured patterns of reading, searching, or coding tasks.",
+  "correct": true
+}

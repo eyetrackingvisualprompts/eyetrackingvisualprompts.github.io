@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a very small region around the upper-center of the screen with long, stable fixations (0.5\u20131.7s) and only short, small-amplitude saccades, indicating sustained attention to a localized text area rather than broad exploratory scanning typical of browsing, searching, gaming, or watching video; this pattern best matches reading behavior.",
+  "correct": false
+}

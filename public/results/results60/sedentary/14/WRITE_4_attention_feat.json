@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on a narrow left-side vertical region with some spread slightly right, closely matching the WRITE example where attention focuses on the code editor with occasional looks to side areas (e.g., console or references), unlike the broader distributions seen in WATCH/BROWSE/SEARCH or the more central patterns in READ/PLAY.",
+  "correct": true
+}

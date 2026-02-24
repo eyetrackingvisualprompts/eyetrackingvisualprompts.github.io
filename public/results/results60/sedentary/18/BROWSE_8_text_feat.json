@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The target data shows extremely long, smooth saccades spanning large vertical and horizontal distances with relatively few, short fixations. This pattern aligns with passive, full-screen visual tracking typical of watching dynamic video content rather than the denser, line- or code-structured scanning of reading, coding, or searching tasks or the object-following dynamics of gameplay.",
+  "correct": false
+}

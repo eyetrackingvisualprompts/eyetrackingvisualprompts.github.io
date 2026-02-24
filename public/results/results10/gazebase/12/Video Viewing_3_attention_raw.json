@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze heatmap shows several clustered fixations progressing mainly horizontally near the upper-middle of the screen with some scattered points, closely matching the example pattern of natural, unconstrained viewing during the video trailer rather than the more structured or constrained patterns of the other tasks.",
+  "correct": true
+}

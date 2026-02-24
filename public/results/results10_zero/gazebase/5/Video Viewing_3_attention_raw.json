@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "The heatmap shows a primary dense fixation cluster slightly above center with multiple scattered shorter fixations across the screen, consistent with repeatedly fixating transient moving targets (red and blue balls) rather than the regular left-right pattern of reading or horizontal saccades or the more uniform spread of free video viewing/random saccades.",
+  "correct": false
+}

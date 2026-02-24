@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves in long, smooth horizontal sweeps with short intra-line regressions, slowly drifting downward through multiple vertically stacked bands (y\u2248540\u2192600\u2192690\u2192760\u2192830\u2192900\u2192950 and then a new block around y\u2248140\u2013220). This pattern matches line-by-line text reading rather than code-focused (WRITE/DEBUG/INTERPRET) or dispersed browsing/search/game/video viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are dispersed over a broad central area with frequent shifts between multiple regions, resembling exploratory scanning of various page elements. This pattern is more variable than structured reading or writing but less directional and extreme than gameplay, matching the browsing example most closely.",
+  "correct": false
+}

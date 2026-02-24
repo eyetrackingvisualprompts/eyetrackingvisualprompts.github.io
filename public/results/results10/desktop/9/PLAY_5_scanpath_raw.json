@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are confined to a small horizontal band with short, orderly saccades and limited vertical movement, resembling line-by-line text reading rather than the broader or more erratic patterns seen in search, browsing, gaming, or video watching.",
+  "correct": false
+}

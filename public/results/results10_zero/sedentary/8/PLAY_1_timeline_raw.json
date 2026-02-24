@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow central band with smooth, continuous movements and occasional small shifts, consistent with tracking dynamic visual content in a video rather than line-by-line reading or code/IDE inspection, which would show more discrete, step-like horizontal/vertical transitions between text lines or UI elements.",
+  "correct": false
+}

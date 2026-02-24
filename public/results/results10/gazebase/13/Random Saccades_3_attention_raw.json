@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple discrete fixation clusters scattered across both horizontal and vertical dimensions without the structured left-to-right pattern of reading or the central concentration of fixation. The distribution and spacing of points resemble following a target that moves to random positions across the screen, matching the Random Saccades example.",
+  "correct": true
+}

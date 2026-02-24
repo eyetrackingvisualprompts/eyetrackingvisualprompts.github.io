@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze patterns alternate between long, stable fixations and medium-amplitude multi-directional saccades across both horizontal and vertical regions, frequently jumping between widely separated interface areas (top bar, mid content, side regions). This resembles scanning heterogeneous web pages (headlines, menus, content blocks) more than the systematic line-by-line horizontal movements of READ or the central text-band focus of WRITE, and lacks the very large, rapid spatial shifts typical for PLAY or the prolonged central clustering common in WATCH.",
+  "correct": false
+}

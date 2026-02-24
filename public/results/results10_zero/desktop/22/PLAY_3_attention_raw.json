@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a highly concentrated fixation region near the center of the screen with minimal dispersion, consistent with passively watching a focal area in a video rather than the more distributed or systematic scan patterns seen in reading, writing, browsing, searching, or gaming.",
+  "correct": false
+}

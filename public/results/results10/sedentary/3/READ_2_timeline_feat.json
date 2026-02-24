@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows smooth, gradual horizontal movements with modest vertical changes and several medium-length saccades, matching the continuous tracking of dynamic visual content seen in the WATCH example rather than the more structured, line-based patterns of reading/searching or the tighter code-focused tasks.",
+  "correct": false
+}

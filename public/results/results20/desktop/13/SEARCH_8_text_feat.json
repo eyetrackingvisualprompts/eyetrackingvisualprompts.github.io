@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains in a mid-screen band with many short saccades and medium fixations, showing localized exploration without the strong vertical scanning of SEARCH, the line-structured horizontal progression of READ/WRITE, or the larger multi-directional shifts of PLAY/WATCH; this pattern best matches the BROWSE examples\u2019 mid-page content inspection behavior.",
+  "correct": false
+}

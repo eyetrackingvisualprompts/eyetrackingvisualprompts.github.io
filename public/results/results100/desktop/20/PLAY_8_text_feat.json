@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with small, short saccades and long, stable fixations around mid-screen, resembling line-by-line inspection of static content rather than wide exploratory movements typical of search, browse, or play, or the more dispersed vertical shifts seen in watch; this pattern best matches reading behavior.",
+  "correct": false
+}

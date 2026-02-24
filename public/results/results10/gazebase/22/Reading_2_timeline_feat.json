@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y fixation positions change in irregular, multi-directional steps across a wide visual range rather than oscillating strictly horizontally, staying central, or following text-like patterns, matching the random target jumps in the Random Saccades condition.",
+  "correct": false
+}

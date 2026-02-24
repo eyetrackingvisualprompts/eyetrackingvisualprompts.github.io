@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Large spatial spread including top and bottom of screen with long oblique transitions and revisits to several regions resembles the complex, multi-area inspection typical of debugging in the examples, rather than the more localized or linear patterns of other tasks.",
+  "correct": true
+}

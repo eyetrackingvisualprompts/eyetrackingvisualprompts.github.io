@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across both horizontal and vertical axes with multiple dispersed hotspots, indicative of frequent, rapid shifts typical of tracking a game scene that requires looking in many directions, matching the PLAY pattern more than the more localized patterns of reading, writing, watching, browsing, or searching.",
+  "correct": true
+}

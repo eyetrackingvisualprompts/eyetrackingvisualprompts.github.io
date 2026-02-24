@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered in a mid-screen band with short-to-medium fixations and frequent small vertical shifts, plus intermittent jumps between slightly lower and higher regions\u2014matching the mixed reading-scanning pattern and moderate navigational movements characteristic of web browsing, and closely resembling the BROWSE example statistics and coordinate ranges, rather than the more line-locked READ or more dispersed SEARCH/WATCH patterns.",
+  "correct": false
+}

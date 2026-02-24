@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows medium-length fixations with smooth, continuous saccades following moving regions across mid and lower screen, including large vertical and diagonal shifts between clusters (e.g., center to bottom-right and back), consistent with tracking dynamic video content rather than line-based reading or code inspection patterns seen in WRITE/DEBUG/INTERPRET. The spatial spread and motion resemble the WATCH example most closely.",
+  "correct": false
+}

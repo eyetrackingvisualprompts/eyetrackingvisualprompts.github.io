@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band with small back-and-forth movements and occasional shifts downward, consistent with focusing on a code editor line and briefly checking nearby lines\u2014typical for writing/implementing code rather than extended reading or wide exploratory scanning.",
+  "correct": false
+}

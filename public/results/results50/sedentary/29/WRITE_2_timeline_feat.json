@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band with modest, frequent saccades and occasional larger jumps, indicating focused inspection and re-inspection of localized code regions rather than systematic line-by-line reading (READ) or broad exploratory scanning (BROWSE/SEARCH). This pattern best matches the DEBUG example, where participants repeatedly check specific parts of the code while testing fixes.",
+  "correct": false
+}

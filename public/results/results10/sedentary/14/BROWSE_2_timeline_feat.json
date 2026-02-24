@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows larger vertical transitions between distinct horizontal bands along with varied horizontal exploration, matching the mixed scanning and result-checking pattern typical of search engine use rather than the more linear or localized patterns of reading, coding, or gameplay.",
+  "correct": false
+}

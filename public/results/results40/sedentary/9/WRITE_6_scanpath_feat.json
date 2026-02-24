@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-central code area with frequent short fixations and revisits, plus occasional long saccades to distant interface regions (e.g., console or run button), matching the pattern of inspecting and testing code during debugging rather than the more localized INTERPRET or WRITE patterns.",
+  "correct": false
+}

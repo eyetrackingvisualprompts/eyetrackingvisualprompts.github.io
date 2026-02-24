@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions in both X and Y remain essentially constant near the screen center with only minimal drift and no large saccadic shifts, matching the static central fixation pattern.",
+  "correct": true
+}

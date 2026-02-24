@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a relatively small central-left code region with dense, short saccades and many medium-long fixations, including repeated revisits to the same lines and occasional jumps to top/other UI areas, matching the fine-grained, line-by-line inspection and editing behavior seen in the WRITE examples rather than broader scanning (SEARCH/BROWSE) or more linear reading (READ/INTERPRET).",
+  "correct": false
+}

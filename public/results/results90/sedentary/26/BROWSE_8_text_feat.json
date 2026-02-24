@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Predominantly mid-screen horizontal saccades with frequent returns along similar paths, moderate fixation durations, and occasional large jumps across the screen match the continuous object-/area-tracking and scanning patterns seen in the PLAY examples more than the more line-structured (READ/SEARCH) or code-focused (WRITE/DEBUG/INTERPRET) behaviors.",
+  "correct": false
+}

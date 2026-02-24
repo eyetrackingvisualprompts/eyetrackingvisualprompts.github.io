@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster around the screen center with short, multidirectional saccades and no long horizontal sweep or large transitions, matching the localized exploratory pattern seen in the BROWSE example rather than the more linear (READ) or widely shifting (PLAY/SEARCH) patterns.",
+  "correct": true
+}

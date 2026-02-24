@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows a compact region with frequent multidirectional saccades and revisits, similar to the BROWSE example where users scan around a central area of a webpage rather than following strict reading lines or wide exploratory movements seen in PLAY or WATCH.",
+  "correct": false
+}

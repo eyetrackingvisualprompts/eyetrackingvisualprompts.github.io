@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are spread over a central region with frequent, short saccades in multiple directions and varying fixation durations, resembling exploratory viewing of web pages. This spatial dispersion and pattern matches the BROWSE example more than the more linear READ/WRITE patterns or the more peripheral/large-movement patterns of PLAY, SEARCH, or WATCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shifts between multiple horizontal bands near the top and mid screen with several distinct clusters, indicating scanning result lists and content areas rather than a single focused region (code) or continuous full-screen motion (video/game). This pattern best matches the SEARCH example.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are mostly concentrated in a narrow vertical band with gradual horizontal progression and occasional larger saccades, matching focused line-by-line inspection of code seen in WRITE examples rather than the more distributed or rhythmic patterns of WATCH, PLAY, or BROWSE.",
+  "correct": false
+}

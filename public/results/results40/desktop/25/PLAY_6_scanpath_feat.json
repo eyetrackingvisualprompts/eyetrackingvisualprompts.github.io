@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band in the lower half of the screen with dense, short fixations and limited vertical range, matching the pattern of looking near the text-entry area while typing, which corresponds best to the WRITE activity compared to the other examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across wide screen regions (center to corners, top to bottom) with scattered fixation locations and no clear line-based reading pattern are characteristic of visually tracking dynamic game elements and the play examples, rather than the more localized and structured scanning seen in reading, coding, or web search/browsing.",
+  "correct": false
+}

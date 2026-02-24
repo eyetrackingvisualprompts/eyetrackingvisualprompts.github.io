@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across a mid-screen region with numerous short saccades in multiple directions and no clear horizontal line structure, resembling exploratory scanning of heterogeneous webpage content typical of browsing rather than the more linear patterns of reading or writing or the tighter clusters of watching/playing.",
+  "correct": false
+}

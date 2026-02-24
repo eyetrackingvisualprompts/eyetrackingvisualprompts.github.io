@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y gaze positions remain essentially constant near the display center over the full 10 s window, with only minimal drift and no large or systematic saccades, matching sustained central fixation on a static target.",
+  "correct": true
+}

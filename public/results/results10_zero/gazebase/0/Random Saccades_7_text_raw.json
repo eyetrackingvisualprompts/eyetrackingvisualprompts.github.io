@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze pattern shows large, multi-directional jumps across a wide range of horizontal and vertical coordinates (both positive and negative), followed by relatively stable clusters consistent with fixations at successive target locations. This matches a stimulus that moves unpredictably around the screen rather than strictly horizontally (horizontal saccades) or along text lines (reading), and is more structured than free viewing (video) or game-driven selective fixations (Balura).",
+  "correct": true
+}

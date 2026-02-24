@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent spatial shifts across wide screen areas, including off-screen excursions and returns, with many medium-length fixations distributed over varying regions rather than along text lines or code structures. This broad, dynamic scanning with revisits to salient clusters matches patterns from the WATCH examples more than the more structured, line-based or panel-based patterns seen in READ, WRITE, DEBUG, or INTERPRET, and lacks the strong vertical scrolling signatures typical of SEARCH/BROWSE.",
+  "correct": false
+}

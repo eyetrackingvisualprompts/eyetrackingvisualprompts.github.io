@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is focused in a relatively narrow central/lower-central band with many short fixations and medium-length saccades between nearby code-like locations, plus occasional long relocations\u2014typical of moving between error locations and related lines while inspecting and editing code, which aligns best with DEBUG among the given options.",
+  "correct": false
+}

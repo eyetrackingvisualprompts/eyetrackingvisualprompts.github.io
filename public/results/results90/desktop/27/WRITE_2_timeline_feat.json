@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent, irregular shifts in both X and Y with dispersed fixation positions around mid-screen and no clear horizontal scanlines typical of reading or writing, matching the variable, exploratory pattern seen in the BROWSE example.",
+  "correct": false
+}

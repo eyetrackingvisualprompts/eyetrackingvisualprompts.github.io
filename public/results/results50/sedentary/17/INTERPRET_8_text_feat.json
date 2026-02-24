@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are largely clustered in a mid-page band with repeated horizontal sweeps resembling reading/scanning, interspersed with frequent medium and long vertical and diagonal jumps across widely separated regions (including off-center/top and far bottom areas), matching exploratory, non-linear navigation of web pages more than the more linear, columnar patterns of READ or the tighter code-focused clusters of programming tasks.",
+  "correct": false
+}

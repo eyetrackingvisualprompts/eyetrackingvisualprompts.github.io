@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Early large saccades between dispersed regions (likely switching between code and other UI areas) followed by prolonged, localized fixations around a narrow horizontal band (~y=120\u2013160, later ~420\u2013620) are characteristic of focusing on a single code pane while typing/editing, with small corrective eye movements. The pattern matches the WRITE example more than the more scanning-oriented or game-like patterns of other classes.",
+  "correct": false
+}

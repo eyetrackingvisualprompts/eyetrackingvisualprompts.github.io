@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are relatively stable and clustered in a narrow vertical band with modest horizontal shifts, resembling focused inspection of a compact code snippet rather than wide scanning (SEARCH/BROWSE), large tracking motions (PLAY/WATCH), or strong line-wise horizontal sweeps (READ). This pattern best matches the INTERPRET examples where participants inspect a single function to predict its output.",
+  "correct": false
+}

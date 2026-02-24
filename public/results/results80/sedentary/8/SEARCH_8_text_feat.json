@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts widely across the full screen (including off-screen/out-of-content coordinates), with frequent long saccades between disparate regions, intermittent horizontal scanning segments, and many excursions to screen edges and corners. The pattern is exploratory and heterogeneous rather than structured code inspection (INTERPRET/DEBUG/WRITE), line-by-line reading (READ/SEARCH), or object-centered tracking (PLAY/WATCH), which is characteristic of free web browsing behavior.",
+  "correct": false
+}

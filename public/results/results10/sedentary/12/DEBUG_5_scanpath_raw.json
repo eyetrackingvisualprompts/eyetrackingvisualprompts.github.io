@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is focused in a compact region in the upper-left code area with occasional vertical sweeps, matching the INTERPRET example pattern of concentrated inspection of a short code snippet rather than the broader exploration seen in SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

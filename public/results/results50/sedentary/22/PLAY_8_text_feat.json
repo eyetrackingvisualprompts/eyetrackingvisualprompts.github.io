@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered around a relatively small central area with many medium-to-long dwell times and short corrective saccades, characteristic of scrutinizing a single code snippet to reason about its behavior, matching the INTERPRET patterns more than the broader scanning of DEBUG or the more linear, text-like patterns of READ/WRITE/SEARCH.",
+  "correct": false
+}

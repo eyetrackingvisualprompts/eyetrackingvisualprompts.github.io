@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Two strong horizontal fixation bands on the left side resemble scanning results and a snippet list, matching the SEARCH example pattern more than the more centrally focused code (INTERPRET/DEBUG/WRITE) or reading layouts.",
+  "correct": false
+}

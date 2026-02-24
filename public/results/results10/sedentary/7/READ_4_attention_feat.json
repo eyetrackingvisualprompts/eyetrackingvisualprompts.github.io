@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a horizontal line across a single band of the screen, characteristic of continuous line-by-line reading behavior, matching the READ example heatmap pattern.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight, mostly horizontal cluster at a fixed vertical position, similar to the example READ pattern that reflects line-by-line text reading, unlike the more dispersed or multi-directional movements in other activities.",
+  "correct": true
+}

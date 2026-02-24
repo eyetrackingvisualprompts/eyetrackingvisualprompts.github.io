@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze points are distributed across a broad central-upper area with multiple short fixations and no strict horizontal line structure or symmetric pattern, matching the scattered yet clustered viewing behavior typical of free video watching rather than reading, controlled saccades, or static fixation tasks.",
+  "correct": false
+}

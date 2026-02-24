@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows strong fixation clusters along the upper horizontal band where search results and query bar typically appear, with additional but sparser exploration down the page \u2014 closely matching the SEARCH example heatmap and differing from the more centrally clustered WATCH and the denser-scrolling BROWSE patterns.",
+  "correct": true
+}

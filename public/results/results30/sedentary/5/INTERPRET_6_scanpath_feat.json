@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a relatively small left-central area consistent with code, but with frequent vertical and diagonal shifts and revisits across multiple lines, resembling the example DEBUG pattern more than the more localized INTERPRET/WRITE or the more scattered BROWSE/SEARCH scanpaths.",
+  "correct": false
+}

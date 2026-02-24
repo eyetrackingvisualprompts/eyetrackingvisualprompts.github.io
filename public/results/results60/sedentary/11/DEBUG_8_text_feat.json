@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a narrow code-like region with frequent small vertical shifts between nearby y-levels (around 170\u2013230, ~300\u2013380, and ~520\u2013580), repeated revisits to the same lines, and back-and-forth within a confined horizontal band, matching the detailed, local inspection pattern seen in the INTERPRET examples rather than the broader navigation of WRITE/DEBUG or the structured line sweeps of READ/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the upper-left region (likely query box and top results) with additional scattered points downwards, matching the pattern of scanning search results rather than the more uniform lines of READ or the central focus of WATCH/PLAY.",
+  "correct": false
+}

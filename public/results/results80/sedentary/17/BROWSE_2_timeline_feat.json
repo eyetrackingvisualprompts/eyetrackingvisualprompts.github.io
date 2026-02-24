@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed horizontal scanning with frequent vertical shifts and large saccades across different screen regions, including abrupt transitions resembling viewing changing result pages or snippets, which best matches the heterogeneous pattern seen in the SEARCH example.",
+  "correct": false
+}

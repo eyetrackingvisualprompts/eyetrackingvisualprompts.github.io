@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster around the upper-left coding/editor area with some spread vertically, similar to the WRITE example and less dispersed than DEBUG, indicating focused code writing rather than extensive scanning or browsing.",
+  "correct": true
+}

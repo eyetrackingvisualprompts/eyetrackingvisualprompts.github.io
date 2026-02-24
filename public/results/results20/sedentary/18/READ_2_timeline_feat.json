@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "First ~13s show predominantly horizontal, line-like fixations with slow vertical drift typical of reading content. Around 13\u201314s there is an abrupt, large downward shift in Y followed by shorter, varied fixations\u2014matching the transition from scanning search results to focusing on lower-page elements, characteristic of search engine use rather than continuous reading or coding.",
+  "correct": false
+}

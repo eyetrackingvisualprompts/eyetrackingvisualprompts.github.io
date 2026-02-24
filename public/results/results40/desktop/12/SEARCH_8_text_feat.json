@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays mostly in upper-left to mid-left regions with frequent vertical excursions above the typical text area (toward y\u22480.9\u20131.1) and back, consistent with alternating between text lines and UI elements (toolbar, cursor region) seen in WRITE examples, rather than the more central, horizontal scanlines of READ or the broader, more screen-covering exploration of BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": false
+}

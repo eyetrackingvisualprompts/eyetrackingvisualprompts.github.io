@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central region with moderate spread both vertically and horizontally, resembling the browsing example more than the tighter central SEARCH cluster or the horizontal patterns of READ/WRITE/WATCH; PLAY shows more left-biased spread, so the pattern best matches BROWSE.",
+  "correct": false
+}

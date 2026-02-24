@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long, infrequent but large saccades with very long inter-saccadic intervals (seconds between moves) and revisits within a constrained code-like area match focused, mentally demanding inspection of a short snippet, as seen in INTERPRET, rather than the more continuous scanning/reading or dynamic tracking patterns of other tasks.",
+  "correct": false
+}

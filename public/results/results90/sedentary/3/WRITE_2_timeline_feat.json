@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades with both X and Y varying widely, alternating between upper and lower screen regions, resembling scanning of search results and occasional reading, which matches the SEARCH example pattern more than the other tasks.",
+  "correct": false
+}

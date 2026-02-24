@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster around a central region with moderate dispersion and irregular saccades in multiple directions, resembling the exploratory, non-linear pattern of browsing rather than the more linear patterns of reading/searching or the tighter clusters of watching/writing.",
+  "correct": false
+}

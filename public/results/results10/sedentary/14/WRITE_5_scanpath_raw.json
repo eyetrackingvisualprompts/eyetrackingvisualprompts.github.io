@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in two main regions (likely query/results and another area) with long cross-screen saccades between them, matching search behavior more than the tighter, single-region patterns of READ/BROWSE or code-focused tasks.",
+  "correct": false
+}

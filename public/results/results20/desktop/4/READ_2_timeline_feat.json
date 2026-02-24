@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixation positions show a steady, gradual upward drift over time near the upper part of the screen, consistent with following typed text lines that move down as new lines are added in a word processor, matching the WRITE pattern more than browsing, reading, or other tasks.",
+  "correct": false
+}

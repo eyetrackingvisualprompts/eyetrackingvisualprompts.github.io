@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is clustered in a central region with moderate saccades and movements in multiple directions, resembling the example BROWSE pattern more than the more linear READ, localized WRITE, or highly dynamic PLAY trajectories.",
+  "correct": false
+}

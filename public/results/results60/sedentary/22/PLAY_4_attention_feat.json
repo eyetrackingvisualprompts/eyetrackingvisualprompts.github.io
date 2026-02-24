@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated in a compact central region with some vertical spread and scattered peripheral points, closely matching the PLAY example heatmap typical of tracking a moving game object near screen center rather than the more horizontal reading/browsing or localized code-focused patterns.",
+  "correct": true
+}

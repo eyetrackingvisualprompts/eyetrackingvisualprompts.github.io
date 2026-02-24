@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is split between a code/central area and distinct regions at the top-right and lower-left, with long saccades between them, resembling transitions between search results, snippets, and related areas rather than the more localized patterns of reading, writing, or code-focused tasks.",
+  "correct": false
+}

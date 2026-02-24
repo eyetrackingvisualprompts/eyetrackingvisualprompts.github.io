@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-to-long saccades across wide screen regions (including edges and corners), with short to moderate fixations around central interaction areas and repeated returns to similar mid-screen bands\u2014characteristic of visually tracking dynamic game elements rather than line-by-line reading, code inspection, or static page browsing.",
+  "correct": true
+}

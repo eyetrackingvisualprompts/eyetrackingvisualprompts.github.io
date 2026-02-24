@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated on the left side with a vertical spread from mid to lower screen and some attention near the top, closely matching the SEARCH example heatmap showing focus on search results and snippets rather than a single code block or full-page reading.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, horizontally-elongated cluster with short progressive and regressive movements within a localized region, matching the stable, line-by-line pattern typical of reading text, and unlike the broader spatial spread seen in tasks like SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

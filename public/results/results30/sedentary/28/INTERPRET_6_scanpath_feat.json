@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively small left-side code area with dense, repeated fixations and vertical movements, plus occasional long saccades to a secondary region\u2014pattern most consistent with inspecting and re-checking code while debugging rather than briefly interpreting once or freely browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper portion of the screen with multiple distinct clusters, resembling scanning of search results and snippets rather than focused central viewing (WATCH/PLAY) or tight blocks of text/code (READ/INTERPRET/DEBUG/WRITE). This pattern best matches the SEARCH example.",
+  "correct": true
+}

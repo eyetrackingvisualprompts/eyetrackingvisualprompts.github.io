@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are highly concentrated in a compact region on the left side, matching the focused, narrow-area gaze pattern seen in the WRITE example, rather than the slightly more dispersed code inspection patterns of INTERPRET or DEBUG.",
+  "correct": false
+}

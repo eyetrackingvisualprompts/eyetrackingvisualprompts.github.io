@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is centered and mid-upper, with medium-length fixations and frequent vertical and local horizontal shifts within a compact region, indicative of scanning a search results page or query area rather than extended line-by-line reading, wide-scene watching, or highly dynamic play; the pattern best aligns with the SEARCH examples\u2019 mixed exploratory and localized inspection behavior.",
+  "correct": false
+}

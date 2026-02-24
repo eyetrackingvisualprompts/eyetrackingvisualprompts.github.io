@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze follows large, smooth positional shifts across the screen with long fixations and no tight line-based or code-like scanning; the vertical spread from mid-screen to near the bottom and persistent tracking over continuous paths matches watching dynamic visual content rather than reading, coding, searching, or playing an interactive game.",
+  "correct": false
+}

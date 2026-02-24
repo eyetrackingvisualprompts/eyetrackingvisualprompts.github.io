@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions for both X and Y fixation fluctuate around the screen center with frequent small saccades and no strong directional trend, closely matching the balanced, mid-screen, scattered pattern seen in the BROWSE example, unlike the more structured or directional patterns of READ, WATCH, PLAY, WRITE, or SEARCH.",
+  "correct": false
+}

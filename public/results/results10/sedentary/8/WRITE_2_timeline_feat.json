@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movements with occasional larger saccades and vertical shifts, indicating scanning different areas rather than line-by-line reading or stable code focus. This mixed exploratory pattern aligns best with searching through results/pages in a search engine, matching the SEARCH example more than the other activities.",
+  "correct": false
+}

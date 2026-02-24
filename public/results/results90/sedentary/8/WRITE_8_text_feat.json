@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze behavior shows dense, localized fixations and short saccades around a compact region (code-like area), with many long dwell times (1\u20132+ seconds) and frequent regressions between nearby positions, closely matching the INTERPRET example pattern and unlike the more spatially extensive, exploratory movements seen in BROWSE/SEARCH/DEBUG/PLAY/WATCH/WRITE.",
+  "correct": false
+}

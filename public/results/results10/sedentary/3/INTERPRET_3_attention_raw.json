@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a small upper-left code area with two adjacent fixation hotspots and minimal scanning elsewhere, matching the focused, localized viewing pattern of interpreting a short code snippet rather than the broader movements seen in browsing, searching, or debugging.",
+  "correct": true
+}

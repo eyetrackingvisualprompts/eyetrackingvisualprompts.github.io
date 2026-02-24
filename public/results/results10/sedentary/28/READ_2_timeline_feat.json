@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "X fixations move steadily rightward with occasional larger backward jumps and moderate Y variation, matching the example SEARCH pattern more closely than the more regular line-by-line shifts of READ or the broader, less structured movements of WATCH/BROWSE/PLAY.",
+  "correct": false
+}

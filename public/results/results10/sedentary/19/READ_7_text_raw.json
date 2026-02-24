@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points cluster around central and mid-lower screen regions with smooth, continuous shifts and many small relocations, characteristic of following dynamic visual content in a video rather than line-based reading, code-focused tasks, or highly scattered exploratory browsing/search patterns. The spatial distribution and temporal smoothness best match the WATCH examples.",
+  "correct": false
+}

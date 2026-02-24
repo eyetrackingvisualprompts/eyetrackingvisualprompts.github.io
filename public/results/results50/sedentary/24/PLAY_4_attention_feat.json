@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations spread horizontally across typical result-title and snippet areas with some attention to a central region, closely matching the SEARCH example\u2019s pattern of scanning multiple results rather than the more localized clusters of INTERPRET/WRITE or the broader dispersion of WATCH/BROWSE.",
+  "correct": false
+}

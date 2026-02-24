@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a single left-side code region with minimal spread elsewhere, matching the focused inspection pattern seen in INTERPRET rather than the broader or more vertically distributed patterns of WRITE or DEBUG.",
+  "correct": false
+}

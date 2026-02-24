@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively slow, continuous drifts with occasional larger vertical and horizontal shifts, lacking the systematic line-by-line horizontal saccades of reading or the tightly clustered fixations of code tasks. The smooth, extended trajectories are characteristic of following visual content in a video rather than scanning text or interactive elements.",
+  "correct": false
+}

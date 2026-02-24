@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent long-range saccades across large vertical and horizontal extents (top/bottom to mid-screen, left/right), alternating between clusters of short fixations in multiple vertical regions. This multi-region scanning and revisiting pattern matches web search result and SERP exploration more than the more line-structured READ, text-entry-focused WRITE, center-biased WATCH, or the tighter spatial loops seen in PLAY and BROWSE examples.",
+  "correct": true
+}

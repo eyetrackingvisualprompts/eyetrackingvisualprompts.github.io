@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered around a narrow band of y\u2248370\u2013470 with frequent short saccades up and down a small vertical span, consistent with repeatedly scanning a few lines of code and tracking variable states, similar to the INTERPRET example. There are occasional larger jumps (e.g., to top/edge regions) but no broad horizontal reading sweeps (READ), extensive web-page vertical navigation (BROWSE/SEARCH), or widely distributed screen exploration (PLAY/WATCH/DEBUG), indicating focused code comprehension rather than navigation or media viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a small central region with short, multidirectional saccades and no clear horizontal line-structured pattern, matching the browsing example more than the more linear READ or the dynamic PLAY/WATCH/WRITE patterns.",
+  "correct": false
+}

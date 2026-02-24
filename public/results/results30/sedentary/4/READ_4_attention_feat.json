@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across the upper and mid screen with several horizontally aligned clusters and multiple distinct areas of interest, resembling scanning of a search results page rather than the more localized patterns of reading code (INTERPRET/DEBUG/WRITE) or continuous viewing (WATCH/PLAY).",
+  "correct": false
+}

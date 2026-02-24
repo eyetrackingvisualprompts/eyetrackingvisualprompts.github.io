@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps between distant screen regions (top, middle, bottom) and scattered fixations, especially towards the right side and lower parts of the screen, resemble scanning and moving through long web pages rather than the more structured, line-based patterns of READ or the focused code-centered patterns of programming tasks.",
+  "correct": true
+}

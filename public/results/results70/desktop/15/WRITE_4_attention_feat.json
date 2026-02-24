@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the upper-center area, similar to the SEARCH example where attention is focused on the search box and top results, rather than the broader spread of WATCH or the horizontal text patterns of READ/WRITE.",
+  "correct": false
+}

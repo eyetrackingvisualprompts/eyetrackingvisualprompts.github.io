@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left-central code area with dense clusters and some spread vertically, similar to DEBUG example and more scattered than WRITE/INTERPRET, indicating active scanning and checking of code rather than focused reading or watching.",
+  "correct": false
+}

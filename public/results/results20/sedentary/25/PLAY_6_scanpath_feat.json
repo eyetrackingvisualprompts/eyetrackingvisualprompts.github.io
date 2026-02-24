@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread horizontally across the upper\u2011middle region with frequent saccades between separated clusters, resembling skimming result lists and switching between elements, which matches the SEARCH pattern more than the more localized or highly dynamic patterns of other tasks.",
+  "correct": false
+}

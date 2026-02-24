@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple horizontal bands with frequent transitions between upper, middle, and lower regions and several long saccades across the width of the screen, resembling scanning results and opening pages, which matches the SEARCH pattern more than the other activities.",
+  "correct": false
+}

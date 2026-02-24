@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays in a mid-upper region with horizontal movements and intermittent larger vertical saccades, suggesting scanning a results page and shifting between title/snippet areas rather than line-by-line reading or tight left-margin writing; this spatiotemporal pattern matches the SEARCH examples more closely than WATCH, PLAY, BROWSE, or READ.",
+  "correct": true
+}

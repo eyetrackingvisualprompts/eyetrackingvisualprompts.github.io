@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively long (mostly 0.2\u20130.7s) and clustered within a narrow band of y-coordinates (~230\u2013380) with many short, small-amplitude saccades and occasional medium jumps, consistent with line-by-line reading rather than the more scattered or dynamic patterns typical of browsing, search, games, or watching video.",
+  "correct": false
+}

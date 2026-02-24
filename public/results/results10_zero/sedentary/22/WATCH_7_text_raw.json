@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent large-amplitude shifts in both horizontal and vertical directions, with clusters around different screen regions and rapid transitions between them, consistent with visually tracking moving objects or navigating a game scene rather than line-by-line reading or focused code inspection. This spatio-temporal pattern best matches the PLAY activity (e.g., Mario, Pong, Agario).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades across a wide area of the screen, with dispersed fixations and no clear reading or code-structure pattern, closely resembling the exploratory, target-following gaze behavior seen in the PLAY example rather than the more localized or linear patterns of reading, writing, debugging, or browsing text.",
+  "correct": false
+}

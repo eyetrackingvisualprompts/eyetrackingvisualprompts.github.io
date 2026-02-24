@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around mid-screen with short horizontal shifts among nearby positions and occasional medium saccades, resembling scanning of varied web elements. Movement is less strictly linear than READ, more localized and stable than PLAY or SEARCH, and lacks the prolonged central fixation typical of WATCH or the upper-area bias of WRITE, matching the BROWSE pattern.",
+  "correct": false
+}

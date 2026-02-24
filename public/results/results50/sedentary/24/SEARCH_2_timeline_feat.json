@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent saccades and broad coverage of both X and Y axes with no clear line-by-line or code-structured pattern, matching the dynamic, scene-following behavior typical of watching a video rather than the more constrained, structured movements in reading, coding, or browsing tasks.",
+  "correct": false
+}

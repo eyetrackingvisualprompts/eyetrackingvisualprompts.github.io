@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around mid-screen with several distinct fixation groups and moderate saccades between them, resembling scanning results and side content as in the SEARCH example rather than the more linear pattern of READ or the wider spread of BROWSE/PLAY.",
+  "correct": false
+}

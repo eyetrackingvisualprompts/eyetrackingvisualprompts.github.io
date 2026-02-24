@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between widely separated screen regions (top code/URL area, result list area, bottom), repeated revisits to similar vertical bands, and many off-screen/extreme coordinates indicate navigating SERP/results and switching between items, matching the heterogeneous, scanning-heavy patterns of SEARCH more than the more localized, line-structured READ/INTERPRET/DEBUG/WRITE or object-following PLAY/WATCH.",
+  "correct": false
+}

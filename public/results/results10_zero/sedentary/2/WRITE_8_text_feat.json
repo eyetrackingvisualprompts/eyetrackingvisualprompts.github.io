@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, rapid shifts across widely separated screen regions (top, center, bottom, left, right) with short to moderate fixations, lacking the orderly horizontal/vertical scan paths typical of reading, coding, or search. The pattern matches visually tracking changing on-screen content, as in watching a full-screen video rather than text- or code-centric tasks.",
+  "correct": false
+}

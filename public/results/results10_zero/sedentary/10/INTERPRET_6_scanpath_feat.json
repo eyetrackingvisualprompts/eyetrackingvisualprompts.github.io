@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a small, vertically oriented region on the left side of the screen with short shifts between nearby lines, consistent with focused reading of a compact text column rather than wide code areas, dynamic game scenes, or dispersed browsing/search patterns.",
+  "correct": false
+}

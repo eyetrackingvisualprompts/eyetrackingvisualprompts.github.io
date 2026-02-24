@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with frequent mid-screen fixations and occasional larger shifts, resembling mixed scanning between central text and other page elements; this pattern best matches the SEARCH example rather than the more structured READ or the more erratic BROWSE/PLAY behaviors.",
+  "correct": false
+}

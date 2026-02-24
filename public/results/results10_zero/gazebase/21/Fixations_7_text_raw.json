@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, abrupt position jumps (multi-degree changes) followed by ~1-second clusters of relatively stable samples in widely separated regions across both horizontal and vertical axes, matching the pattern of following a bull\u2019s\u2011eye stepping to random 2\u00b0+ positions once per second rather than smooth scanning, central fixation, or predominantly horizontal motion.",
+  "correct": false
+}

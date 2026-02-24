@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small, lower\u2013central region with short, dense movements and limited horizontal spread, matching the localized scanpath typical when focusing on a text entry area while writing, rather than the broader sweeps seen in reading, browsing, or searching.",
+  "correct": false
+}

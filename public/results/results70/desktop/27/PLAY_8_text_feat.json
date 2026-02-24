@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in mid-screen with frequent medium-amplitude saccades and short fixations, including many revisits within a compact region and occasional vertical shifts\u2014matching the scan-and-glance behavior over mixed text/graphics seen in the BROWSE examples more than the more linear READ patterns or the peripheral-heavy PLAY/WRITE layouts.",
+  "correct": false
+}

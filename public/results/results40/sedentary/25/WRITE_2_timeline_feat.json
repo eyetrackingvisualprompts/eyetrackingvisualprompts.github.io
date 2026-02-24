@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate-to-large horizontal and vertical movements with varied fixation bands and intermittent larger saccades, indicating frequent shifts between different screen regions typical of scanning search results and web pages, matching the SEARCH pattern more than the more static READ/INTERPRET or the more dynamic PLAY/WATCH examples.",
+  "correct": false
+}

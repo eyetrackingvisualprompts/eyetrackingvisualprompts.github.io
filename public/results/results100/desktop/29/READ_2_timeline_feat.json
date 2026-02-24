@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cluster near screen center with frequent small fixations and short saccades in both axes, lacking the strong horizontal sweep of reading or the large shifts of playing or watching video, which best matches the browsing pattern shown in the examples.",
+  "correct": false
+}

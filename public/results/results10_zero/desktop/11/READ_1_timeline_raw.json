@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long, stable fixation segments with slow drifts and occasional sudden shifts in both X and Y, consistent with following dynamic content in a video rather than systematically scanning text (READ/WRITE/SEARCH/BROWSE) or frequent rapid, multidirectional movements typical of interactive game play (PLAY).",
+  "correct": false
+}

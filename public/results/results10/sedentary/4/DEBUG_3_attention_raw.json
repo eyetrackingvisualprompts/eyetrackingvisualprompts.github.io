@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered in a compact horizontal region slightly left-of-center with minimal vertical movement and few peripheral glances, closely matching the INTERPRET example heatmap of focused code inspection rather than broader reading or browsing patterns.",
+  "correct": false
+}

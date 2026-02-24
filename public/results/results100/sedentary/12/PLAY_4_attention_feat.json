@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated around the central area with scattered points in all directions, resembling dynamic object tracking or avatar control in the PLAY examples rather than the more horizontal text-like or code-focused patterns of READ/WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

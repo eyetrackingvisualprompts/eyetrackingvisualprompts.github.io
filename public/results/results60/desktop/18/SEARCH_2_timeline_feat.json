@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper part of the screen for Y and lower-middle for X, with relatively small vertical range and modest horizontal movement, closely matching the WRITE example where gaze stays near a single text line and toolbar area, unlike broader scanning in BROWSE/SEARCH or structured line-by-line shifts in READ.",
+  "correct": false
+}

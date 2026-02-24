@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Long-duration saccades with extended pauses between them, mostly in a limited region with occasional larger vertical shifts, match passive viewing of dynamic content (WATCH) more than the tighter horizontal scanlines of READ/WRITE or the denser, shorter movements of PLAY/SEARCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, horizontally elongated cluster with small vertical variation, resembling line-by-line scanning of text and closely matching the READ example pattern more than the other activities.",
+  "correct": false
+}

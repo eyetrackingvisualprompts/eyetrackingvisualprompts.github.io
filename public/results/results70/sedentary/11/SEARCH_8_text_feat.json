@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and horizontal saccades between widely separated screen regions (top URL/search bar, page body, near-bottom/side content), with medium fixations and revisits to similar coordinate bands, match exploratory webpage navigation rather than the more structured, line-based READ pattern or code-focused WRITE/DEBUG/INTERPRET behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze exhibits frequent medium-to-large shifts across both axes with clusters of short fixations interleaved with rapid relocations, including excursions toward screen edges and back\u2014matching the dynamic, multidirectional scanning and target tracking typical for game play, and closely resembling the provided PLAY example patterns rather than the more stable, line- or block-based fixations of READ/WRITE/BROWSE/SEARCH or the smoother WATCH trajectories.",
+  "correct": false
+}

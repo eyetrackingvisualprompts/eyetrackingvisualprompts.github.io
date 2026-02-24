@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small region in the upper part of the screen with dense, repeated fixations and tiny corrective saccades around nearly constant coordinates, indicative of monitoring a small text-entry area rather than scanning lines (READ) or exploring diverse elements (SEARCH/BROWSE/PLAY/WATCH).",
+  "correct": true
+}

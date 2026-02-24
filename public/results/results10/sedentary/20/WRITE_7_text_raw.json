@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-screen vertical band with many small local shifts and revisits, consistent with repeatedly checking nearby lines and regions (code, console, UI panels). There are occasional larger jumps to other zones and back, suggesting alternating attention between code, output, and other IDE elements, which is characteristic of debugging rather than the more linear patterns of reading/interpreting or the broader scanning of browsing/searching.",
+  "correct": false
+}

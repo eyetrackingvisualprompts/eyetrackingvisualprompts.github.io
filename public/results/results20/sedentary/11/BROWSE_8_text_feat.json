@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scan patterns around a few y-levels (likely text lines) with frequent long saccades to different screen regions, including top and lower areas, resemble scanning search results and page sections rather than orderly line-by-line reading or code-focused tasks.",
+  "correct": false
+}

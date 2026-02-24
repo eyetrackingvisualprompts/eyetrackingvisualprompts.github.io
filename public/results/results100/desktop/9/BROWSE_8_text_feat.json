@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, frequent saccades across wide vertical and horizontal extents (center \u2194 corners, mid-screen \u2194 HUD-like upper/lower regions), with many revisits to dispersed locations and irregular fixation pattern, matching the dynamic, multi-directional scanning typical of gameplay (especially Agario-like) more than the more structured, banded patterns of reading/browsing/searching or the localized clusters of writing/watching.",
+  "correct": false
+}

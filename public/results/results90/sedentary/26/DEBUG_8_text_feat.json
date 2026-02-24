@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates densely between code-like central regions and peripheral UI areas with many medium-length fixations and revisits, plus frequent long saccades to screen edges (potential console/output or other windows), matching the exploratory, back-and-forth pattern seen in the DEBUG example more than the more linear WRITE/INTERPRET or highly horizontal READ/SEARCH patterns.",
+  "correct": true
+}

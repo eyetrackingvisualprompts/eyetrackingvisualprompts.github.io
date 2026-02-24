@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts across wide screen areas (including edges and outside typical text/code regions), long smooth pursuit-like sweeps, and relatively few tight clusters typical of reading or coding. This broad, stimulus-driven scanning with long fixations and big vertical and horizontal jumps best matches the WATCH viewing pattern rather than the more structured, line-based (READ/BROWSE) or code-focused (WRITE/INTERPRET/DEBUG) behaviors.",
+  "correct": true
+}

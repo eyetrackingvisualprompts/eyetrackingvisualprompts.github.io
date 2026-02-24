@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a compact cluster in the central region with varied vertical spread and frequent medium-length saccades, closely matching the SEARCH example pattern and differing from the more horizontally banded READ/WRITE and the more dispersed BROWSE/WATCH layouts.",
+  "correct": false
+}

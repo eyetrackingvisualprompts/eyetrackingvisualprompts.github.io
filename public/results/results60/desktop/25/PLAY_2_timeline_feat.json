@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze patterns show mid-level, variable horizontal and vertical positions with frequent short saccades and no strong left-to-right line sweeps or stable bands, closely matching the heterogeneous, exploratory pattern seen in the BROWSE example plot rather than the more structured READ/WRITE or task-focused PLAY/SEARCH/WATCH patterns.",
+  "correct": false
+}

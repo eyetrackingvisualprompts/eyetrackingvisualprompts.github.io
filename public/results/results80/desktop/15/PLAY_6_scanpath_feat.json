@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, horizontally elongated cluster in the mid-lower part of the screen, indicating systematic left-to-right movements over a limited vertical range, which is characteristic of line-by-line reading rather than the broader, more dispersed patterns seen in search, browse, or watch tasks.",
+  "correct": false
+}

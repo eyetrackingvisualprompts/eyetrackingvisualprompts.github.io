@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Long, stable fixations in a narrow upper region (likely search box or top results) with occasional shifts slightly downward and then a later jump to mid-screen coordinates resemble the example SEARCH pattern of focusing on query/results areas rather than the dense horizontal scanlines of READ or the central-content focus of WATCH/BROWSE; PLAY and WRITE are less compatible with the mostly static gaze near the top-left quadrant.",
+  "correct": false
+}

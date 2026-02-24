@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a narrow horizontal band around the middle of the screen with small horizontal movements and occasional jumps toward the top and sides, matching the pattern of skimming search results rather than structured multi-line reading or the broader exploration seen in WATCH, PLAY, or BROWSE.",
+  "correct": false
+}

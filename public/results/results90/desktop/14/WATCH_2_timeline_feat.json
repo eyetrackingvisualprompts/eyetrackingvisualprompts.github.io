@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band with relatively small vertical range and slow drift downward, indicating focused attention on a single line area such as a text entry field, matching the WRITE pattern more than the broader, more scattered movements seen in READ, SEARCH, BROWSE, WATCH, or PLAY.",
+  "correct": false
+}

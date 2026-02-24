@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured horizontal sweeps with occasional downward shifts and relatively stable Y ranges, resembling line-by-line progression over text, which matches the reading pattern more than the other activities.",
+  "correct": false
+}

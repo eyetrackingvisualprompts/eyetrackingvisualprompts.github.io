@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered on two vertically separated regions along the left side of the screen, consistent with focused inspection of a small code snippet (e.g., function header and body) rather than extended reading or broad exploration, which matches the INTERPRET task of predicting a function\u2019s output.",
+  "correct": true
+}

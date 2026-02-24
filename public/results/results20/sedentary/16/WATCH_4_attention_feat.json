@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper half of the screen with multiple short clusters, resembling scanning result titles and snippets on a search results page, and matching the SEARCH example more closely than the other activities.",
+  "correct": false
+}

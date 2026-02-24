@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-scale shifts in both X and Y with no strong horizontal reading pattern or stable regions typical of READ or WRITE, and more exploratory vertical and horizontal movements resembling the mixed scanning behavior seen in the SEARCH example.",
+  "correct": false
+}

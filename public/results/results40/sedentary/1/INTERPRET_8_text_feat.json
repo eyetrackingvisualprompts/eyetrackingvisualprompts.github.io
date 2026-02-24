@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Long saccades between central content and top/upper-left regions (likely search bar and results), plus visits to lower scroll areas and back, match the mixed vertical navigation and reading-like behavior seen in the SEARCH examples more than the more linear READ patterns or code-centric DEBUG/WRITE patterns.",
+  "correct": false
+}

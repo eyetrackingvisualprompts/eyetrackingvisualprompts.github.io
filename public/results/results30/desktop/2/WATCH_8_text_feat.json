@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in an upper-left band with frequent short saccades and long, repeated fixations around a stable region, matching the behavior of monitoring a small text area and cursor while typing, and differing from the broader vertical scanning of READ or the larger exploratory shifts in SEARCH/BROWSE/WATCH/PLAY.",
+  "correct": false
+}

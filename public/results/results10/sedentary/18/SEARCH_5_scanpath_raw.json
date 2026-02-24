@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows large vertical transitions between top and lower screen regions along with horizontal exploration across a wide area, matching the dispersed, multi-region viewing typical of scanning search results and linked pages rather than the more localized patterns of reading, coding, or gameplay.",
+  "correct": true
+}

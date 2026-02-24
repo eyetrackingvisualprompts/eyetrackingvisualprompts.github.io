@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are dispersed vertically and horizontally across both central and left regions, indicating scanning multiple interface elements and result items, which aligns best with the exploratory, multi-area viewing typical of web search pages rather than the more linear patterns of reading or the more localized patterns of writing or gameplay.",
+  "correct": false
+}

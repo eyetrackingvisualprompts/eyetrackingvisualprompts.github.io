@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many rapid, multi-directional saccades spanning large horizontal and vertical extents (including jumps to screen edges and back), revisits to mid-page regions, and no clear left-to-right line-wise reading pattern or central static viewing are most consistent with exploratory web browsing behavior rather than focused reading, coding, or continuous object tracking in games or videos.",
+  "correct": false
+}

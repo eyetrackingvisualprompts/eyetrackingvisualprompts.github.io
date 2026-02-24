@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are mostly in the lower-left to mid-left region with relatively stable, narrow Y range and gradual rightward X drift over time, matching the gaze pattern of typing in a word processor rather than the broader, more exploratory movements seen in browsing, searching, or playing games.",
+  "correct": false
+}

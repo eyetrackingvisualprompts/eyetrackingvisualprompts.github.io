@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the vertical center with multiple bands across mid and lower screen, resembling attention on a search engine results page and query area, matching the SEARCH example more than the others.",
+  "correct": false
+}

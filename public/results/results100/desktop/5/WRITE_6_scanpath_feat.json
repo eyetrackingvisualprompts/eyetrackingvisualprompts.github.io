@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions form predominantly horizontal scanlines with relatively orderly progressions and limited vertical dispersion, resembling line-by-line reading behavior more than the more clustered (BROWSE/SEARCH) or widely scattered and dynamic (PLAY/WATCH) patterns.",
+  "correct": false
+}

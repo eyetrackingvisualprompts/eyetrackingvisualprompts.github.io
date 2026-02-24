@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band (stable X with small shifts) with occasional sharp vertical excursions and brief X spikes, matching focused code editing/typing behavior as seen in the WRITE example rather than scanning or wide exploration patterns.",
+  "correct": true
+}

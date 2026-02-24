@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows a few long oblique saccades with localized clusters of fixations, lacking the systematic horizontal line-by-line pattern typical of reading or writing and without the extensive multi-directional exploration common in search, browse, or play. This pattern best matches passive viewing of dynamic visual content, consistent with the WATCH activity.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are concentrated in the lower portion of the screen with a left-to-right horizontal progression and relatively narrow vertical range, matching the scanpath pattern seen when typing in a word processor rather than the more stable video-watching line or the denser reading pattern.",
+  "correct": false
+}

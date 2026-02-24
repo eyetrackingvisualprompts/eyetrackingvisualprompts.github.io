@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide scatter of fixations across the page (center, top, bottom, far left and right), frequent long saccades between distant regions (including off-center/top coordinates), and irregular revisits to multiple vertical positions resemble exploratory navigation over a long scrolling web page rather than the more line-structured patterns of READ or the more localized, code-window-focused patterns of WRITE/DEBUG/INTERPRET. This matches the heterogeneous, multi-region gaze behavior seen in the BROWSE examples.",
+  "correct": false
+}

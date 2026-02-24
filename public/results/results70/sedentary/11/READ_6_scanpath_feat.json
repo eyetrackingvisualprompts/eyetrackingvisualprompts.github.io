@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows structured, sequential horizontal movements forming clear text-line patterns in two separate text blocks with occasional regressions, characteristic of reading behavior rather than the more scattered or multi-region patterns of other tasks.",
+  "correct": true
+}

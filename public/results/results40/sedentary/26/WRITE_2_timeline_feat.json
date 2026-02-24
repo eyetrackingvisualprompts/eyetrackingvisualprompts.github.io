@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large vertical transitions between two main Y-bands, suggesting shifts between search results and detailed content, along with varied horizontal positions\u2014this pattern matches the heterogeneous scanning typical of SEARCH more than the more linear READ pattern or the more stable WATCH/INTERPRET traces.",
+  "correct": false
+}

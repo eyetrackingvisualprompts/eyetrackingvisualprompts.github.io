@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Two main gaze clusters: one upper-left region (likely search bar and top results) and another mid-lower-left area (scrolling through results), with frequent vertical transitions between them. This scanpath spans multiple vertical levels similar to the SEARCH example and unlike the more localized code or reading patterns.",
+  "correct": true
+}

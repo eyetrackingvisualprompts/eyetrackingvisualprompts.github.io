@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a compact central region with moderate vertical span and limited horizontal spread, indicating focused attention on a relatively small content area such as a news article section, which matches the browsing pattern more than the wider horizontal sweeps of reading or the dispersed movements of search, play, or watch tasks.",
+  "correct": false
+}

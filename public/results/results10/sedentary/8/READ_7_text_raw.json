@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cover a wide area with rapid, large-amplitude shifts between central, upper, and lower regions, including many extreme coordinates and revisits, resembling the dynamic, target-following and navigation patterns seen in the PLAY examples rather than the more structured line- or block-based patterns of reading, coding, or searching.",
+  "correct": false
+}

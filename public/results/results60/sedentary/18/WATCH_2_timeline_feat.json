@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The data shows large, continuous saccades and wide-ranging fixation shifts in both X and Y directions across the full screen, resembling dynamic tracking of moving visual content rather than structured reading, code inspection, or constrained UI interaction; this pattern matches the WATCH example most closely.",
+  "correct": true
+}

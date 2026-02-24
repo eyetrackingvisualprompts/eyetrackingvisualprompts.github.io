@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like jumps to various positions across both horizontal and vertical axes, with each position held roughly around one second before jumping again. Movements are not strictly horizontal nor confined to a line, matching the behavior of following a target that appears at random 2\u201315\u00b0 horizontal and up to 9\u00b0 vertical locations (Random Saccades).",
+  "correct": true
+}

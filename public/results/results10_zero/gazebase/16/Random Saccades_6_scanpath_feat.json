@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows a sequence of discrete fixations connected by long, irregular jumps in both horizontal and vertical directions, with positions held briefly before moving to new, spatially separated locations. This sparse, non-repetitive pattern across much of the screen matches a target that relocates to random positions rather than continuous tracking, central fixation, structured left-to-right reading lines, or clustered game/video viewing behavior.",
+  "correct": true
+}

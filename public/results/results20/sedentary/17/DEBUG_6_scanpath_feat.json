@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a mid-left code area with repeated vertical and local horizontal movements, resembling focus on an editor while typing, similar to the WRITE example and less dispersed than DEBUG or BROWSE, with no central dynamic focus typical of PLAY or WATCH.",
+  "correct": false
+}

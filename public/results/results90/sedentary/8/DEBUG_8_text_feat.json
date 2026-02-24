@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense, localized fixations around a compact central area with frequent short saccades between a few line-like regions, revisits, and long dwell times, indicative of carefully tracing through a small code snippet to reason about behavior rather than broader navigation (SEARCH/BROWSE), extended text lines (READ), dynamic object tracking (PLAY/WATCH), or the more dispersed, edit-focused patterns seen in DEBUG/WRITE.",
+  "correct": false
+}

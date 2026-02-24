@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays in a compact central area with short, dense saccades and limited vertical span, consistent with focusing around a text-entry region and nearby UI elements rather than scanning long text lines, webpages, or dynamic scenes.",
+  "correct": false
+}

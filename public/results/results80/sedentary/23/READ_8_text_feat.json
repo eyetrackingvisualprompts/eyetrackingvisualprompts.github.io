@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, smooth horizontal sweeps with small regressions at several vertically separated bands (y\u2248120\u2013190, 240\u2013300, 580\u2013720, 830\u2013940), characteristic of line-by-line text reading rather than localized code inspection, browsing jumps, or dynamic tracking found in games or videos.",
+  "correct": true
+}

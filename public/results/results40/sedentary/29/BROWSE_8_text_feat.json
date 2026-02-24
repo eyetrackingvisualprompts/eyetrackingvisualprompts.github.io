@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-long saccades between widely separated screen regions (including extreme corners and off-screen coordinates), alternating with brief fixations, indicate scanning heterogeneous content and shifting between upper, middle, and lower areas\u2014more consistent with web search result exploration than sustained code inspection, reading, or video watching patterns.",
+  "correct": false
+}

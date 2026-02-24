@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are moderately dispersed around the central region with multiple small clusters and vertical spread, resembling the exploratory yet center-biased pattern of web/news browsing rather than the more linear (READ), tightly upper-left (WRITE), highly dynamic full-screen (PLAY/WATCH), or search-result-focused (SEARCH) patterns.",
+  "correct": false
+}

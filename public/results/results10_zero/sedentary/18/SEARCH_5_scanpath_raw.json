@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow vertical strip on the left, characteristic of reading code, with occasional long saccades to a region on the right (likely console or problem statement). The pattern suggests focused inspection of a short code snippet and its related output rather than extensive editing (WRITE/DEBUG) or broad navigation (SEARCH/BROWSE), aligning best with INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The fixations are clustered in a few compact regions without a clear horizontal or vertical reading pattern or systematic line-by-line progression. This suggests attention to localized moving or salient visual elements, which aligns best with passively WATCHing a video rather than tasks involving structured text/code scanning or interactive search/browsing.",
+  "correct": false
+}

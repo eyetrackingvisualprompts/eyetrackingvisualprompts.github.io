@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region of the screen, suggesting attention to a compact, central area rather than line-by-line reading or scanning, which is characteristic of watching a video with little gaze movement across the wider layout.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The data shows long cross-screen saccades between widely separated regions with relatively sparse, medium-length fixations, and no tight, line-by-line or code-structure scanning. This broad, exploratory pattern with large vertical and horizontal shifts matches the WATCH examples more than the more localized, structured patterns seen in READ, WRITE, INTERPRET, DEBUG, SEARCH, or PLAY.",
+  "correct": false
+}

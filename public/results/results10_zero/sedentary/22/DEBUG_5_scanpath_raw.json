@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a relatively small central-left region with rapid, irregular saccades and occasional large jumps, indicating continuous tracking of dynamic on-screen elements rather than systematic line-by-line reading or code inspection, which is characteristic of gameplay tasks like Mario, Pong, or Agario.",
+  "correct": false
+}

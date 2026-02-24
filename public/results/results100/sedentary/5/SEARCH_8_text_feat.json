@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows many long horizontal sweeps across mid\u2011screen regions with frequent large jumps between widely separated areas, including repeated returns to top/header and lower regions, consistent with scanning web pages and navigating varied online content rather than the tighter code-focused patterns of WRITE/DEBUG/INTERPRET or the continuous central focus typical of WATCH/PLAY/READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation positions for both X and Y stay around the screen center with moderate, irregular saccades and no strong directional bias or structured scanpath, matching the distributed, shallow exploration pattern typical of browsing web/news pages rather than the more linear (READ/WRITE), focused (WATCH/PLAY), or top-biased (SEARCH) behaviors.",
+  "correct": false
+}

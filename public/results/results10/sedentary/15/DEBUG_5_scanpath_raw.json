@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a compact region on the left side, with dense, overlapping fixations and short saccades that repeatedly revisit nearby locations\u2014matching the concentrated, iterative inspection pattern seen in the DEBUG example rather than the more linear reading or broader browsing/search patterns.",
+  "correct": true
+}

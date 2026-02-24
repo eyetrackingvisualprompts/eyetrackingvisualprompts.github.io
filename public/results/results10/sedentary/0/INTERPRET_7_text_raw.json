@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points show repeated shifts between central code-like regions and peripheral UI areas (including excursions to negative/off-screen coordinates typical of keyboard/mouse interaction), with dense clusters around consistent vertical bands rather than long horizontal sweeps or object-tracking paths; this pattern best matches focused code editing/implementation behavior seen in WRITE, rather than the more linear reading of READ or the broader exploratory patterns of BROWSE/SEARCH/DEBUG.",
+  "correct": false
+}

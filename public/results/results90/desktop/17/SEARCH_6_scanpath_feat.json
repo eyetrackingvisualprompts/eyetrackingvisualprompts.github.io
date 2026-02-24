@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a compact region with predominantly horizontal, short saccades and limited screen coverage, matching the localized, line-by-line gaze pattern typical of reading rather than the broader, more exploratory movements seen in browsing, searching, gaming, or watching video.",
+  "correct": false
+}

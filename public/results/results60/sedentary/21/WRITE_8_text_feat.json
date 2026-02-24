@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly localized, dense fixations around a code-like area with many short corrective saccades, interspersed with occasional long jumps to other interface regions (e.g., console, menus) match the structured but revisiting-heavy patterns seen in the DEBUG example more than the more linear patterns of WRITE/INTERPRET or the broader exploratory moves of SEARCH/BROWSE/PLAY.",
+  "correct": false
+}

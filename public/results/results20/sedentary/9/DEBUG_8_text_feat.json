@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent shifts between a mid-height code area and a lower region consistent with console or editor bottom, with revisits to specific lines and scattered vertical navigation, match the WRITE examples\u2019 coding-and-checking pattern more than the more linear READ/BROWSE or object-tracking PLAY behaviors.",
+  "correct": false
+}

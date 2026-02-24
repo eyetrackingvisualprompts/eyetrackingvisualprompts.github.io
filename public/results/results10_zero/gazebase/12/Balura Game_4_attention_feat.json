@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the full screen in both horizontal and vertical directions without alignment to a text line or central point, matching the pattern of following a target that jumps to random screen locations rather than the constrained paths of reading, horizontal saccades, or video viewing.",
+  "correct": false
+}

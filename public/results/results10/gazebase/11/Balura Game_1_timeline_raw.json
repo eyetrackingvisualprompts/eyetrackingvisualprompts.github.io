@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y show large, abrupt, multi-directional jumps with plateaus of about 1 s at varied positions across the screen, matching the random step-like target movements in the Random Saccades task rather than the more structured, primarily horizontal or near-static patterns of the other activities.",
+  "correct": false
+}

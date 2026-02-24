@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is highly concentrated in a narrow vertical band on the left\u2014typical of focusing on a code editor\u2014with one smaller cluster to the right that likely corresponds to occasional checks of output or tools, matching the WRITE example pattern more than other activities.",
+  "correct": false
+}

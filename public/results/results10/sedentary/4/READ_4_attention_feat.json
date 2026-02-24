@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster around multiple vertically separated regions including a strong focus near the top (likely code editor) and occasional looks to lower/central areas (e.g., console or reference), resembling the dispersed pattern seen in WRITE rather than the more centralized or line-based patterns of other tasks.",
+  "correct": false
+}

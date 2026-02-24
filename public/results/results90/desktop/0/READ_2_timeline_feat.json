@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The X fixation shows a gradual drift from left to right with small regressions, while Y fixation stays in a relatively narrow lower band and slowly decreases\u2014this pattern of progressive horizontal movement with stable vertical position matches the example WRITE plot more closely than the other activities.",
+  "correct": false
+}

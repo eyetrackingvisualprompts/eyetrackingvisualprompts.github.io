@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The target segment exhibits frequent large-amplitude saccades that rapidly traverse wide screen regions (including corners and edges) with short, varied fixations and many vertical as well as horizontal shifts, closely matching the highly dynamic, omnidirectional gaze behavior seen in the PLAY examples and less consistent with the more structured scanpaths of reading/searching or the more centrally clustered patterns of watch/browse/write.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster around the left-central area typical of a code editor, with occasional long saccades to the far right consistent with glances at terminal/output or reference areas, matching the WRITE example scanpath most closely.",
+  "correct": false
+}

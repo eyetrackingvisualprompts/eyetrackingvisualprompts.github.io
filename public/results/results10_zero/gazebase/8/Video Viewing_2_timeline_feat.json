@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show both horizontal and vertical steps of varying amplitudes within approximately \u00b115\u00b0 horizontally and \u00b19\u00b0 vertically, with each position held roughly about a second before jumping to a new, non-systematic location, matching a randomly moving target rather than purely horizontal motion, static fixation, reading, gaming, or natural video viewing.",
+  "correct": false
+}

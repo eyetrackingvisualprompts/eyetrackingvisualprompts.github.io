@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a narrow vertical region on the left side with a few additional clusters slightly to the right, consistent with focused attention on code lines and nearby reference/output areas rather than extended horizontal reading or widespread exploration; this matches the concentrated gaze patterns typical of interpreting a short code snippet.",
+  "correct": false
+}

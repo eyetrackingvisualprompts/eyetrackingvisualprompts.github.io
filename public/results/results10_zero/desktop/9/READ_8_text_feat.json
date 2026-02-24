@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several long, multi-directional saccades spanning large portions of the screen with relatively brief local inspection periods, indicating repeated relocation of attention to new areas\u2014typical of scanning heterogeneous web search result pages rather than the more structured, line-based patterns of READ/WRITE or the more localized focus common in WATCH/PLAY/BROWSE segments.",
+  "correct": false
+}

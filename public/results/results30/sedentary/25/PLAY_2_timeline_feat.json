@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The target data shows frequent medium-to-large saccades in both X and Y with shifts between distinct horizontal bands, indicating scanning across multiple regions (e.g., results list, snippets, and other page elements), which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

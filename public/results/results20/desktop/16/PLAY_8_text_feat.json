@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow vertical band around y\u22480.18\u20130.27 with predominantly horizontal saccades and medium-long fixations, forming a left-to-right scanning pattern parallel to a text line near the top portion of the screen\u2014characteristic of line-by-line reading rather than the broader vertical exploration seen in browsing or search, or the more dispersed, dynamic movements in watch/play.",
+  "correct": false
+}

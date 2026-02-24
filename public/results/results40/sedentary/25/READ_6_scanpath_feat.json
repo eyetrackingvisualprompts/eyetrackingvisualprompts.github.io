@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form dense horizontal bands with small vertical shifts, consistent with line-by-line reading on a right-side text block and lacking the larger jumps or dispersed exploration seen in tasks like SEARCH, BROWSE, or PLAY.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern is compact around the screen center with frequent multidirectional saccades and no clear horizontal reading lines or strong directional bias, resembling exploratory scanning typical of browsing heterogeneous web pages rather than structured reading, writing, or game-like edge-focused viewing.",
+  "correct": false
+}

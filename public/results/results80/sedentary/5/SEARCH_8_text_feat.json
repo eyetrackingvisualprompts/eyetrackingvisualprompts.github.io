@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal scan paths around mid-height, repeated left-to-right sweeps, and large jumps to screen edges and off-page coordinates resemble navigation and reading of web pages in browsing, including visits to top bars and lower scroll regions, more than the more localized patterns of coding (WRITE/DEBUG/INTERPRET), text reading, or focused WATCH/PLAY behavior.",
+  "correct": false
+}

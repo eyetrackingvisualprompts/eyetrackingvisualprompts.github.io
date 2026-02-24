@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact region on the left side with dense, repeated fixations over code-like area and limited vertical range, closely matching the WRITE example scanpath and typical focused coding behavior rather than broader exploration or reading patterns.",
+  "correct": false
+}

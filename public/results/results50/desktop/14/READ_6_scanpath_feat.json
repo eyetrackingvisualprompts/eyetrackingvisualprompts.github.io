@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points span widely across the screen with long saccades and few tight clusters, indicating continuous tracking of moving visual content rather than localized exploration of text or interface elements, which aligns best with watching a video.",
+  "correct": false
+}

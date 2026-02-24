@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered around mid-screen vertical bands with small horizontal progressions and many medium-duration fixations, then shift downwards in steps\u2014matching line-by-line reading patterns rather than the broader, more scattered exploration of search/browse or the more peripheral, dynamic patterns of watch/play/write.",
+  "correct": false
+}

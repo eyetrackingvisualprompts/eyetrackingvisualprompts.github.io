@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, stable fixations with occasional short saccades, mostly progressing horizontally with small vertical shifts, consistent with line-by-line reading rather than dynamic tracking (PLAY/WATCH) or scattered search/browse/code-edit patterns.",
+  "correct": false
+}

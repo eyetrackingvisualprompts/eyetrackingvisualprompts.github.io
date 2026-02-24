@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a relatively narrow vertical code area with frequent regressions and some excursions to the top and side regions, resembling the DEBUG example more than the other tasks, which matches behavior of scanning code while checking for and fixing errors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a very stable, localized fixation slightly above the screen center with minimal horizontal or vertical movement over the 10 s window, consistent with passively watching a video where the main focal area (character faces/action) remains in nearly the same region, rather than the broader scanning or systematic horizontal motions seen in reading, browsing, writing, playing, or searching.",
+  "correct": false
+}

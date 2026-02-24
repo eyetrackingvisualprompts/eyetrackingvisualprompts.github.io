@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are scattered across multiple horizontal positions and vertical levels with several distinct clusters, resembling scanning varied webpage regions rather than the tighter, more linear patterns of reading/search or the focused regions of play/write/watch.",
+  "correct": false
+}

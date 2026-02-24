@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains around mid-screen with frequent medium-amplitude horizontal and small vertical shifts, plus short fixations (0.17\u20130.6s) that hop locally over a compact region. This pattern closely matches the BROWSE example, which shows dense scanning around the mid-page content, and differs from the more line-structured READ patterns or the edge-focused WRITE/PLAY behaviors.",
+  "correct": false
+}

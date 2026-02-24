@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions cluster around mid-screen with frequent, relatively small saccades and modest vertical excursions, resembling the mixed scanning pattern of general web browsing rather than the more structured horizontal sweeps of reading or the larger directional shifts seen in play/watch/search tasks.",
+  "correct": false
+}

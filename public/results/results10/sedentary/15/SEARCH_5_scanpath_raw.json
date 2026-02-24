@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the right-central area with occasional long transitions to the left, matching the coding-in-IDE pattern of WRITE more than the other activities when compared to their example scanpaths.",
+  "correct": false
+}

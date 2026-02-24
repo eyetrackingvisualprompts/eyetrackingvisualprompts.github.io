@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal scanning with relatively small vertical shifts and steady progression, closely matching the reading example pattern and differing from the more scattered, larger-saccade behavior seen in search, browse, or play tasks.",
+  "correct": false
+}

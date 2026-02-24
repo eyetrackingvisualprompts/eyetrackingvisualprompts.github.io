@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays in a relatively narrow central band with medium-length fixations (200\u20131100 ms) and short-to-moderate saccades, mostly small horizontal and slight vertical shifts, consistent with reading lines of text rather than the larger, more scattered explorations typical of SEARCH, BROWSE, or PLAY, or the wide motion/central bias of WATCH, or the more top-focused, cursor-linked pattern of WRITE.",
+  "correct": false
+}

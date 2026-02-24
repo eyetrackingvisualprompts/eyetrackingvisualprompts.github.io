@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are widely dispersed across both horizontal and vertical directions with frequent transitions and no dominant horizontal band, indicating exploratory scanning of varied content typical of web searching rather than the more structured patterns of reading, writing, or video watching.",
+  "correct": true
+}

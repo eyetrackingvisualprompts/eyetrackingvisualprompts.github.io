@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points cluster in a few compact regions with frequent short saccades and revisits, consistent with inspecting code lines, jumping between key parts (e.g., function header, body, and output-related expressions) rather than the more linear scan of prose (READ) or broad distributed exploration (BROWSE/SEARCH) or large-amplitude tracking typical of WATCH/PLAY. This pattern best matches focused reasoning over a small code snippet, as in INTERPRET.",
+  "correct": false
+}

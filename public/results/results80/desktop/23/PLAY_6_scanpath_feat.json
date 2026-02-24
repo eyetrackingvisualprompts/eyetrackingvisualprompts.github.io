@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a dense cluster in the central area with moderate, multi-directional saccades similar to the SEARCH example, reflecting focused inspection of search results and related page elements rather than the more dispersed PLAY/WATCH patterns or the linear READ layout.",
+  "correct": false
+}

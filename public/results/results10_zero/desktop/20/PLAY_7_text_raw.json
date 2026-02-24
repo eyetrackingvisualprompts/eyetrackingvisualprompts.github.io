@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow central region with small, slow vertical drifts and short within-line horizontal adjustments, showing long stable fixations and occasional small shifts\u2014characteristic of reading static text rather than the larger, multi-directional saccades and broader spatial exploration seen in search, browse, play, or watch tasks, and without the strong central\u2013lower fixation bias typical for writing on a word processor.",
+  "correct": false
+}

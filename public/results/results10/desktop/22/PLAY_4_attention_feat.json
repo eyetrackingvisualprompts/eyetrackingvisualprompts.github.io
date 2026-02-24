@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the central region with moderate vertical spread, matching the SEARCH pattern of focusing on the middle of the screen where search results and query box appear, rather than the broader spread of BROWSE or the horizontal lines of READ/WRITE.",
+  "correct": false
+}

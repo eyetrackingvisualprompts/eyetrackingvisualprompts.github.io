@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near the vertical center with small, infrequent saccades and long stable fixations, without systematic horizontal scanning or line-by-line reading patterns. This behavior best matches passively watching a video rather than reading, coding, searching, or gameplay, which typically exhibit more frequent, structured saccades and wider screen exploration.",
+  "correct": false
+}

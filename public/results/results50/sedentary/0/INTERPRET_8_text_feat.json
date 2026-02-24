@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "After initial large exploratory saccades, gaze remains tightly clustered in a small region (x\u2248260\u2013350, y\u2248440\u2013540) with many short, repeated fixations and micro-saccades, characteristic of monitoring and editing a localized block (e.g., current code lines) rather than scanning long horizontal text lines (READ) or distributed content (BROWSE/SEARCH). This localized, iterative inspection pattern best matches the WRITE (coding) task among the provided classes.",
+  "correct": false
+}

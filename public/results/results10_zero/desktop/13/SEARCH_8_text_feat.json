@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a relatively small central region with many medium-to-long fixations (up to ~2.2 s) and short, mostly horizontal or slight vertical saccades, consistent with sustained reading on a static text layout rather than the larger, more multidirectional movements typical of PLAY, WATCH, or SEARCH/BROWSE, and with fewer long off-text pauses than expected for WRITE.",
+  "correct": false
+}

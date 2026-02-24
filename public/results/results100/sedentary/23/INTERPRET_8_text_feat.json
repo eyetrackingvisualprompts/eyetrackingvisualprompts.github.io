@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude saccades between widely separated screen regions (including off-page/negative coordinates), alternating with shorter, irregular fixations and visits to both top URL-bar area and multiple vertical zones resemble scanning and jumping behavior typical of web browsing rather than the more line-structured patterns of READ/WRITE or the code-centered, columnar patterns of programming tasks.",
+  "correct": false
+}

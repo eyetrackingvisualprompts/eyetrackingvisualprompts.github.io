@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows discrete, well-separated fixation clusters scattered across both horizontal and vertical extents of the screen, with roughly similar dwell durations at each position and no clear linear (horizontal-only) structure or reading-like line pattern. This pattern matches following a target that jumps to random screen locations and holds for ~1 s, consistent with the Random Saccades task.",
+  "correct": true
+}

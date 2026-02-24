@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Multiple clustered fixation regions over the left-side code area with some scattered points, closely matching the DEBUG example pattern of repeatedly inspecting several code locations rather than a single block (INTERPRET/WRITE) or spread-out reading/browsing (READ/SEARCH/BROWSE).",
+  "correct": false
+}

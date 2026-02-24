@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-screen content regions and far-off interface areas (e.g., corners/top), with many long horizontal sweeps resembling scanning page sections, plus frequent large-amplitude jumps and revisits to similar y-bands. This exploratory, multi-region navigation with intermittent long fixations and off-content excursions matches free web browsing more than the more localized, structured patterns seen in coding, reading, search-result focus, or continuous game following.",
+  "correct": false
+}

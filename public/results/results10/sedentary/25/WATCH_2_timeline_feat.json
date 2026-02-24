@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly centered with occasional shifts to lower Y positions and back, suggesting alternation between code editing area and reference/output region, similar to the WRITE example and less exploratory than SEARCH or BROWSE.",
+  "correct": false
+}

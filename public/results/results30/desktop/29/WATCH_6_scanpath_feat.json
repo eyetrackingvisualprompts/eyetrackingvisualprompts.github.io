@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are moderately dispersed around the screen center with frequent saccades among several nearby regions, resembling the SEARCH example more than the more localized READ/BROWSE patterns or the broader PLAY/WATCH/WRITE spreads.",
+  "correct": false
+}

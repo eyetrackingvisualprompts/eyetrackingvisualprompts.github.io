@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-range horizontal movements over a constrained vertical band with repeated revisits, resembling scanning within a code editor while checking and re-checking regions\u2014more dynamic and error-search-like than READ/WRITE, and less uniform than WATCH, matching the DEBUG pattern best among the examples.",
+  "correct": false
+}

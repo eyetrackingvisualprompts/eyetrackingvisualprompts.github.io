@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered around a compact region on the left where code would appear, with several vertical transitions suggesting movement between lines or areas (e.g., code and console), resembling the DEBUG example more than the tightly focused INTERPRET or the broader WRITE/SEARCH/BROWSE patterns.",
+  "correct": true
+}

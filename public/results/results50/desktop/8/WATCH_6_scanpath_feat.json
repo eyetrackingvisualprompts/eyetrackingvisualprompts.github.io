@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated, band-like cluster with limited vertical movement and sequential progression, characteristic of line-by-line reading rather than the broader, more scattered exploration seen in search, browse, or play activities.",
+  "correct": false
+}

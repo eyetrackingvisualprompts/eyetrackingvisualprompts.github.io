@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is tightly clustered in a mid\u2011screen region with rapid, continuous micro-saccades and frequent short shifts between very close coordinates, plus recurrent transitions between two nearby zones (around y\u2248380\u2013410 and y\u2248460\u2013500). This resembles tracking and reacting to moving game elements more than the more structured line-by-line patterns of READ/INTERPRET/DEBUG or the larger navigational jumps seen in BROWSE/SEARCH; it closely matches the PLAY examples\u2019 dense, local, dynamic gaze behavior.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a compact region typical of code, with a few long saccades to the bottom/side of the screen resembling shifts between code and editor/console, matching the WRITE pattern more than other tasks.",
+  "correct": false
+}

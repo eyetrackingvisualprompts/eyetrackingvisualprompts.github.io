@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal, line-like scanpaths with short saccades and mid-length fixations clustered in narrow vertical bands, including revisits slightly above/below\u2014characteristic of reading lines of text rather than code (INTERPRET/DEBUG/WRITE) or highly dynamic/game/video scenes (PLAY/WATCH/BROWSE/SEARCH).",
+  "correct": false
+}

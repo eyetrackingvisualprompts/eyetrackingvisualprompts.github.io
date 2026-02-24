@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows gaze concentrated in two main lateral clusters at the same vertical position, connected by a narrow horizontal band of intermediate fixations, matching the left-right, constant-height movement pattern of horizontal saccades.",
+  "correct": true
+}

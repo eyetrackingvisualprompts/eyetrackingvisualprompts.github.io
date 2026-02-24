@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen vertical positions with frequent medium-amplitude vertical and horizontal saccades, including repeated returns to similar y-levels and occasional jumps to higher regions\u2014matching scrolling and scanning behavior in browsing. The pattern lacks the tight line-by-line horizontal sweeps of READ and the more disperse, larger multi-directional shifts typical of SEARCH or PLAY, and is more center-screen than the upper-band focus of WRITE or WATCH.",
+  "correct": true
+}

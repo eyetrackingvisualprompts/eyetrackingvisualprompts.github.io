@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y fixation positions step irregularly across a range of horizontal and vertical angles, with about 1-second dwells at each location and no strictly horizontal-only pattern, matching the randomly moving target behavior of the Random Saccades task.",
+  "correct": false
+}

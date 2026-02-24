@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered in an upper-central region with short saccades and occasional shifts, resembling the mixed fixations around a search results area and query box seen in the SEARCH example more than the more linear READ pattern or the broader distributions of BROWSE/PLAY/WATCH/WRITE.",
+  "correct": true
+}

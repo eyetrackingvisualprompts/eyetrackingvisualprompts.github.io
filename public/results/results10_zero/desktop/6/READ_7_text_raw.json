@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent medium-to-large saccades and broader 2D exploration rather than strict horizontal line-by-line scanning or localized fixations. There are bursts of rapid shifts and wider vertical dispersion typical of tracking dynamic game elements, fitting PLAY better than the more structured, line-based patterns of READ/WRITE or the relatively more constrained focal regions common in WATCH/BROWSE/SEARCH for this window.",
+  "correct": false
+}

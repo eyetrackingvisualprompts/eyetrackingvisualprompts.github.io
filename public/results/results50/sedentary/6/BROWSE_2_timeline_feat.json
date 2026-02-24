@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows extended periods of relatively stable horizontal scanning near mid\u2013screen with intermittent upward saccades to higher Y positions, resembling shifts between a query box/top results and lower content, which best matches the search-engine interaction pattern in the SEARCH examples rather than the more linear reading or more chaotic browsing/game patterns.",
+  "correct": false
+}

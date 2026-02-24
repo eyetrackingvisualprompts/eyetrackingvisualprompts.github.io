@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a compact region on the left side of the screen with little horizontal spread, matching the focused inspection of a single code snippet seen in the INTERPRET example rather than the more distributed patterns of reading, writing, or debugging.",
+  "correct": false
+}

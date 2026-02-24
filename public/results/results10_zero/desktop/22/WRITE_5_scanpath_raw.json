@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band in the lower half of the screen with short, irregular saccades concentrated in a small region, indicative of focusing on a central text area and nearby UI elements typical during typing in a word processor, rather than the broader vertical scanning of reading/browsing or the wider, multi-directional movements of watching videos, gaming, or searching results pages.",
+  "correct": true
+}

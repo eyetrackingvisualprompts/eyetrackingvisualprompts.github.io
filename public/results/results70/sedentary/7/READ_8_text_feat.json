@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a narrow horizontal band and progresses in smooth left-to-right sweeps with short regressions and line-like shifts (y from ~300\u2013460 then slowly down), characteristic of reading text lines rather than code (WRITE/DEBUG/INTERPRET) or highly dynamic, large-amplitude movements (PLAY/WATCH/BROWSE/SEARCH).",
+  "correct": true
+}

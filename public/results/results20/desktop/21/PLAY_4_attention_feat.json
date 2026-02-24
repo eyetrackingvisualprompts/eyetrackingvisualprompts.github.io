@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region slightly below the screen center, similar to the BROWSE example\u2019s mid-screen cluster around article content, unlike the more horizontal scan patterns of READ/WRITE or top-band activity of WATCH/PLAY.",
+  "correct": false
+}

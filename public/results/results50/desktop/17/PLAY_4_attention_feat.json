@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are concentrated in a central vertical region with some spread horizontally, closely matching the browsing example heatmap where attention is focused around the middle content area with moderate movement across elements, unlike the more linear READ pattern or dispersed PLAY/WATCH patterns.",
+  "correct": false
+}

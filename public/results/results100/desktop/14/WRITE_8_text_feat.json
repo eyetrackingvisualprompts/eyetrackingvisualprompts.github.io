@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small upper-central region with very long, stable fixations and only tiny local saccades, matching the sustained, localized attention near the text-entry and cursor area observed in the WRITE examples, rather than the broader spatial exploration seen in READ, SEARCH, BROWSE, WATCH, or PLAY.",
+  "correct": true
+}

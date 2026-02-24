@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows continuous viewing with moderate, smooth horizontal shifts and varied vertical movements tracking dynamic content, without the systematic line-by-line patterns of reading or the highly erratic, multi-directional jumps typical of search, browse, or code editing tasks. This best matches watching a video.",
+  "correct": false
+}

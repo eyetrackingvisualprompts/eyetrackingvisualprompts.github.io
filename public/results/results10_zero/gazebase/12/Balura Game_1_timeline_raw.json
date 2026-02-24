@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete jumps in both horizontal (\u00b115\u201320 DVA) and vertical (about \u221215 to +15 DVA) directions to many irregular positions, each held roughly ~1 s before the next jump. This 2D, non-periodic step pattern matches the random target locations of the Random Saccades task rather than the strictly horizontal, static, or reading-like patterns of the other activities.",
+  "correct": false
+}

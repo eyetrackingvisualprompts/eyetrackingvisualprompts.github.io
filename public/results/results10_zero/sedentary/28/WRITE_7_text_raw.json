@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze pattern shows frequent large-amplitude saccades and abrupt jumps to widely separated coordinates (including extreme and off-screen values), interspersed with short local clusters. This indicates rapid tracking and reorienting typical of following moving game elements rather than the more stable, line-based scanning of reading/searching/browsing or the focused, localized inspection seen in code-related tasks or video watching.",
+  "correct": false
+}

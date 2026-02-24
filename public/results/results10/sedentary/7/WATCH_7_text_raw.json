@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cluster around central regions with relatively smooth, continuous movements and occasional larger shifts, matching the stable, object-following and scene-centered patterns seen in the WATCH examples rather than the line-based or highly jumpy scanpaths of reading, coding, or web navigation tasks.",
+  "correct": true
+}

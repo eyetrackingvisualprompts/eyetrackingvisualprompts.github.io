@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Two dense fixation clusters: a large one on the left (code editor area) and a smaller one on the right (console/output or reference), matching the WRITE example pattern where participants alternate between coding and checking output.",
+  "correct": true
+}

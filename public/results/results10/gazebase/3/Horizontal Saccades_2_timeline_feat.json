@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X fixation alternates regularly between two horizontal positions with large, consistent amplitude while Y fixation stays near zero, matching the pattern of controlled horizontal target tracking rather than random or free-viewing movements.",
+  "correct": true
+}

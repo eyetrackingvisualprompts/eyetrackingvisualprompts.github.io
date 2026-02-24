@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated in a narrow central region with minimal large saccades, resembling focused inspection of a compact code snippet, which matches the INTERPRET example pattern more than the other activities.",
+  "correct": true
+}

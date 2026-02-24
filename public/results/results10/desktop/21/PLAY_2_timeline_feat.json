@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-scale shifts in both X and Y with many short fixations and saccades scattered over the mid-screen area, resembling the varied scanning of different elements on news or blog pages, matching the BROWSE pattern more than the more structured (READ/WRITE) or smoother (WATCH/PLAY) examples.",
+  "correct": false
+}

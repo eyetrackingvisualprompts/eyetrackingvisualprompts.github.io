@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely concentrated on the left side of the screen with a vertically extended spread, matching the pattern of scanning through multiple lines of code in an IDE, which aligns best with the DEBUG example heatmap compared to the more localized INTERPRET or more dispersed WRITE patterns.",
+  "correct": true
+}

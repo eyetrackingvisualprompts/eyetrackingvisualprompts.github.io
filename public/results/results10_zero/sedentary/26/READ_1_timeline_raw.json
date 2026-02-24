@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near a single horizontal band with slow, smooth X drifts and a few large horizontal resets, while Y remains almost constant. This pattern matches tracking motion along a stable line (e.g., key scene region) without systematic line-by-line scanning, typical of passively watching a video rather than reading, coding, or interactive tasks.",
+  "correct": false
+}

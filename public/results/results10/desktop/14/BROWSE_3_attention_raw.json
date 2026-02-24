@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is dispersed across a broad central area with multiple scattered fixations and no dominant cluster, resembling exploratory scanning patterns seen in the BROWSE example rather than the more localized clusters of READ/WRITE or the focused bands of WATCH/PLAY.",
+  "correct": true
+}

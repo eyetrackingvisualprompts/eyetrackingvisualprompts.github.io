@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Relatively stable horizontal gaze with small vertical variation and few large saccades suggests line-by-line reading of static text rather than dynamic tracking, searching, or interacting with code or games.",
+  "correct": false
+}

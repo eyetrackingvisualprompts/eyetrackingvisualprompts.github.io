@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread horizontally across multiple bands and regions, including top and mid-page areas, resembling scanning of search results and different page elements rather than the more localized clusters of coding (WRITE/DEBUG/INTERPRET) or the central focus of PLAY/WATCH or line-focused READ.",
+  "correct": true
+}

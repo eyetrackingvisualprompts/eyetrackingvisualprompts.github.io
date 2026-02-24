@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, horizontally elongated cluster with short, orderly saccades and dense fixations around a narrow band\u2014closely matching the example READ pattern and typical line-by-line reading behavior, unlike the more scattered or wide-ranging patterns seen in search, browse, or play tasks.",
+  "correct": false
+}

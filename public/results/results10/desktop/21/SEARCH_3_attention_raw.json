@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations cluster around the central area with moderate vertical spread and limited horizontal movement, resembling the BROWSE example heatmap more than the others, which show either strong horizontal reading patterns, very localized writing/watching, or wider exploratory search/play patterns.",
+  "correct": false
+}

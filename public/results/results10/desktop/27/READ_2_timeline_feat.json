@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixations show structured, incremental horizontal movements with limited vertical shifts, forming line-like scan paths typical of reading text, and they closely match the example READ pattern more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude horizontal saccades with relatively stable but slowly shifting vertical positions, indicating scanning of a results page or multiple items rather than line-by-line reading or focused code work, matching the SEARCH pattern best among the examples.",
+  "correct": false
+}

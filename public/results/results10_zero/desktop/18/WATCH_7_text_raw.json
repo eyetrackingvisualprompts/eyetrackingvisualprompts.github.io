@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates show long, stable fixations around nearby positions with only small drifts and occasional short shifts, indicating continuous attention to a relatively static central region rather than systematic line-by-line scanning or rapid, task-driven shifts. This low-amplitude, smooth viewing pattern is more consistent with passively watching a video than with reading, searching, browsing, playing a game, or writing, all of which typically involve more structured or directional saccades (e.g., horizontal sweeps for reading/writing, exploratory jumps for search/browse, or larger multidirectional movements for games).",
+  "correct": true
+}

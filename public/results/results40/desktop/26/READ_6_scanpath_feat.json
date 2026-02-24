@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows structured, mostly horizontal saccades forming several parallel bands across the screen, characteristic of line-by-line reading behavior rather than the more clustered or erratic patterns seen in search, browsing, watching videos, writing, or gameplay.",
+  "correct": true
+}

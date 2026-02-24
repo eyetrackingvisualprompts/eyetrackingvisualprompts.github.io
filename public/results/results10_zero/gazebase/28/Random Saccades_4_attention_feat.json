@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen in both horizontal and vertical directions without forming text-like horizontal lines or a central cluster, consistent with following a target that jumps to random positions for about one second each time.",
+  "correct": true
+}

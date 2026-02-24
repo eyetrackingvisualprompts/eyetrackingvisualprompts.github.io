@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are mostly clustered in a narrow horizontal band with slow, small shifts in both X and Y, indicating concentrated inspection of a compact code snippet rather than wide scanning (SEARCH/BROWSE) or dynamic tracking (WATCH/PLAY). This focused yet relatively static pattern best matches the INTERPRET activity example.",
+  "correct": false
+}

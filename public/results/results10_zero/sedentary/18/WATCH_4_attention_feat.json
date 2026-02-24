@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a few compact vertical regions left-of-center, consistent with focused inspection of short code snippets or specific lines rather than broad horizontal sweeps typical of reading/browsing or the wide, dynamic spread typical of playing or watching video. This localized, line-based attention pattern best matches interpreting code output.",
+  "correct": false
+}

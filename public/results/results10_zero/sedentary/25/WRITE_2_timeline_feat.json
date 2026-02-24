@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal fixations with occasional short vertical shifts, forming a staircase-like pattern typical of line-by-line reading rather than large dynamic movements seen in games or search/browse tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mostly horizontal reading-like fixations with a gradual downward trend in Y after ~5s, consistent with scanning search results and then moving down the page, matching the SEARCH pattern more than the other tasks.",
+  "correct": false
+}

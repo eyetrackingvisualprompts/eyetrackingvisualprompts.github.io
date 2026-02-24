@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster in the central region with moderate vertical spread and no strong horizontal line structure, resembling the example BROWSE pattern more than the more dispersed SEARCH, the horizontally constrained READ/WRITE, or the dynamic PLAY/WATCH scanpaths.",
+  "correct": false
+}

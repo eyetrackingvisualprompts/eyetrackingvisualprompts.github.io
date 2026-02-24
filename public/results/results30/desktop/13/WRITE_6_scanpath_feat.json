@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are moderately scattered over a central region with frequent saccades between multiple locations, indicating exploration of different on-screen elements typical of web search results pages, rather than the more linear pattern of reading or the tighter clusters of browsing or watching video.",
+  "correct": false
+}

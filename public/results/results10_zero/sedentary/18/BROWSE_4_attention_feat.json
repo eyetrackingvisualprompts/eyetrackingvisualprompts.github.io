@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are confined to a narrow horizontal band across the screen, progressing left-to-right with clustered pauses, matching line-by-line reading behavior rather than dispersed or multi-directional gaze typical of browsing, searching, coding, or gameplay.",
+  "correct": false
+}

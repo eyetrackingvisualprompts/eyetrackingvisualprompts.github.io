@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a predominantly horizontal sequence of fixations at nearly constant vertical position, progressing from left to right in a narrow band, characteristic of reading text on a single line, unlike the more scattered or multi-region patterns seen in coding, browsing, search, or gameplay.",
+  "correct": true
+}

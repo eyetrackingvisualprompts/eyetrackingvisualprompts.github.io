@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a few horizontal bands suggesting reading-like behavior, but with noticeable vertical transitions and dispersed fixations similar to scanning multiple snippets/sections on web pages, matching the browse example more than the more uniform READ pattern.",
+  "correct": false
+}

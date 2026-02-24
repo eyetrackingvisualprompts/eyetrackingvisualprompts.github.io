@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small, code-like region with many short saccades and repeated fixations oscillating between nearby lines and slightly different y-levels, consistent with editing or typing in an IDE. There is no long, regular horizontal scanning as in READ/BROWSE/SEARCH and no large, dynamic object-tracking movements as in WATCH/PLAY; the local, iterative inspection pattern matches WRITE and is highly similar to the WRITE example distribution of coordinates and fixation dynamics.",
+  "correct": false
+}

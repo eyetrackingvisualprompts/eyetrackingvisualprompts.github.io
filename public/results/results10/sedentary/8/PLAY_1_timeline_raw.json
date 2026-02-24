@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several medium-length horizontal scanning segments with occasional sharp vertical shifts and a large upward sweep around 6s, consistent with moving between search results, snippets, and possibly opening a result page\u2014closely matching the SEARCH example pattern.",
+  "correct": false
+}

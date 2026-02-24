@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "X and Y positions stay within a narrow central band with small, rhythmic horizontal shifts and minor vertical drift, resembling line-by-line reading patterns and closely matching the READ example more than the larger jumps of BROWSE or SEARCH or the erratic spikes of PLAY.",
+  "correct": false
+}

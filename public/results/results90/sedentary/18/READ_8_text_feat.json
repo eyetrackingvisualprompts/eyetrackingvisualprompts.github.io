@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, smooth horizontal scanpaths with short saccades along several vertically stacked bands (around y\u2248500, 560, 620\u2013700, 830\u2013940, and 120\u2013320), consistent with line-by-line reading and periodic line changes rather than object-following (PLAY), dispersed scene viewing (WATCH), or code-centric patterns (DEBUG/WRITE/INTERPRET).",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mixed vertical and horizontal movements with several large jumps and variable fixation positions, resembling the heterogeneous and exploratory pattern seen in the BROWSE example rather than the more structured or localized patterns of reading, coding, or watching video.",
+  "correct": false
+}

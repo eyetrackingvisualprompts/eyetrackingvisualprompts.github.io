@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent shifts between a central code area and top/bottom UI regions, many returns to similar mid-screen locations, and repeated large saccades to top-left and toolbar-like coordinates match the structured but exploratory scan paths seen in the DEBUG examples rather than the more linear (READ), free-scanning (BROWSE/SEARCH), or dynamic object-tracking (PLAY/WATCH) patterns.",
+  "correct": false
+}

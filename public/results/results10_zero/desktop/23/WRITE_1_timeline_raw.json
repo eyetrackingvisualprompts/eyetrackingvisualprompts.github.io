@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Both x and y positions change smoothly with small-amplitude fluctuations and no large, rapid saccades or vertical line-by-line movements. The gaze stays in a relatively confined band, consistent with watching a central video region rather than scanning text (READ/WRITE) or jumping between interface elements (BROWSE/SEARCH/PLAY).",
+  "correct": false
+}

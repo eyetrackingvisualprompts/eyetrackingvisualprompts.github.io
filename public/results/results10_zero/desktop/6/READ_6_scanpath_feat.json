@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small lower-central region with very limited vertical range and short horizontal movements, consistent with focusing on a single line/area such as the text entry region and nearby UI while writing, rather than the broader systematic vertical scanning of reading or the larger, more dispersed exploration seen in browsing, search, play, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze shows irregular multi-directional movements with varied amplitudes, including long excursions and local fixational jitter, without the strictly horizontal pattern of Horizontal Saccades or the discrete step-like target jumps of Random Saccades. The trajectory also lacks the systematic left-to-right line structure of Reading or the constrained central clustering of Fixations, and it spans diverse spatial regions consistent with naturalistic Video Viewing.",
+  "correct": false
+}

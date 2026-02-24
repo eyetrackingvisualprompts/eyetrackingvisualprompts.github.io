@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent, irregular transitions between distinct screen regions, including abrupt vertical and horizontal shifts and revisits, resembling the complex, non-linear inspection of multiple code areas and outputs observed in the DEBUG example more than the steadier or more patterned movements of the other activities.",
+  "correct": false
+}

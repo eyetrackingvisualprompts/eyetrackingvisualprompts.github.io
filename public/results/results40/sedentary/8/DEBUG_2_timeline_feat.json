@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a slow, monotonic drift in X with relatively stable Y around a band, consistent with line-by-line scanning of text and occasional return sweeps, matching the reading pattern more than the other activities.",
+  "correct": false
+}

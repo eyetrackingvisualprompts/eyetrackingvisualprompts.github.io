@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed across multiple vertical regions and horizontally span much of the screen, resembling the varied, exploratory pattern in the BROWSE example rather than the more centralized WATCH pattern or the tightly clustered code-reading/debugging patterns.",
+  "correct": false
+}

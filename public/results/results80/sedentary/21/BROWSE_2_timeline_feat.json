@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows mostly horizontal, code-line-like scanning with moderate x-range, gradual upward drift in y (reading down code), plus occasional dense saccade bursts and regressions typical of searching for and verifying fixes, matching the DEBUG pattern more than the steadier INTERPRET or WRITE examples.",
+  "correct": false
+}

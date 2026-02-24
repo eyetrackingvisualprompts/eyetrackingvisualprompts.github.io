@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trajectory is almost entirely horizontal at a constant vertical level, moving back and forth across a wide horizontal range, which matches the pattern of following a horizontally moving target in the Horizontal Saccades task.",
+  "correct": true
+}

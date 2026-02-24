@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude vertical and horizontal shifts between central/upper and far lower regions (e.g., jumps to y\u22480.1 and back to \u22480.7\u20130.8), with many medium-length fixations and continuous navigation-like scanning, closely matching the dynamic, multi-directional eye movements seen in the PLAY examples rather than the more line-structured (READ/WRITE) or top-focused (SEARCH/WATCH/BROWSE) patterns.",
+  "correct": false
+}

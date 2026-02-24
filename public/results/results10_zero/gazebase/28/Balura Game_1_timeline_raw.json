@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between multiple discrete positions across both horizontal (\u00b115\u00b0) and vertical (\u00b19\u00b0) ranges with roughly one-second plateaus at each location, matching a target that jumps to random positions and is held briefly, characteristic of the Random Saccades task rather than strictly horizontal or central fixation patterns.",
+  "correct": false
+}

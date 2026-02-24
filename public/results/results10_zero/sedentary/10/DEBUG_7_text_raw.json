@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show structured horizontal clusters with small vertical shifts, consistent with line-by-line reading of text rather than large, rapid shifts typical of games, video watching, or broad web/search navigation.",
+  "correct": false
+}

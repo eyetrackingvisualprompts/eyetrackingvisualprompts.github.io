@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows very large vertical and horizontal jumps between central content and extreme screen regions, repeated off-screen excursions, and scattered fixations across a wide area, matching the heterogeneous, scroll-heavy, page-navigation patterns seen in the BROWSE examples rather than the more code-centered, line-structured patterns of programming tasks or the smoother object-focused movements of PLAY/WATCH.",
+  "correct": false
+}

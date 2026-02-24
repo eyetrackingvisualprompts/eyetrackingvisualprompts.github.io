@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Long saccades between code/text and a localized region with dense, repetitive fixations around mid-screen coordinates resemble focused editing/typing behavior in an IDE more than scanning (SEARCH/BROWSE) or smooth global tracking (WATCH/PLAY), and closely match the WRITE pattern examples with extended dwell in a constrained area after large relocations.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band near the lower vertical region, with short, repetitive fixations and very small saccades around a stable line\u2014matching the word-processing text line behavior seen in the WRITE examples and unlike the broader vertical scanning of READ or the more dispersed patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered around the central area with short, multidirectional saccades and limited spread, closely resembling the browsing example pattern rather than the more linear (READ/WRITE) or more dispersed (SEARCH/PLAY/WATCH) scanpaths.",
+  "correct": false
+}

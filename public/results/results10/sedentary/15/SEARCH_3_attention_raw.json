@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is distributed across both the top navigation area and lower-right content area, with multiple separated clusters and horizontal movements, resembling exploratory scanning of a webpage rather than focused code reading/debugging or central video/game watching.",
+  "correct": false
+}

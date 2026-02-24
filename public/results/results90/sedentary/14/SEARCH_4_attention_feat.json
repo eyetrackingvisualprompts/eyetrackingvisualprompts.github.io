@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple horizontal bands including the top region and mid\u2011page, indicating scanning between a search box, result titles/snippets, and possibly lower content, which best matches the SEARCH pattern compared to the more localized or vertically structured patterns of the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps between far-apart screen regions (including near-screen-edge/out-of-content coordinates), interleaved with shorter fixations and horizontal sweeps around mid-screen, closely resemble the heterogeneous, multi-region scanning seen in the BROWSE examples, rather than the more line-structured (READ), code-centered (INTERPRET/DEBUG/WRITE), or dynamic-object-focused (PLAY/WATCH) patterns.",
+  "correct": false
+}

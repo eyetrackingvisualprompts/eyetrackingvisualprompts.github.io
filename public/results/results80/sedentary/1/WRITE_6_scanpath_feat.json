@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered on the left-side code area with repeated vertical movements, plus occasional long saccades to the right, closely matching the DEBUG example pattern of focusing on code while intermittently checking execution/output regions.",
+  "correct": false
+}

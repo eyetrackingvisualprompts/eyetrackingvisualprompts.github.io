@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly confined to a narrow central band with gradual drift and occasional vertical excursions, indicating focused inspection of code with intermittent checks of other regions (e.g., console/output), which best matches the debugging pattern among the examples.",
+  "correct": true
+}

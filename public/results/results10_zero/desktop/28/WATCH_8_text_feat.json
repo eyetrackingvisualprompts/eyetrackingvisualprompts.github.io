@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows relatively small horizontal/vertical shifts with many medium-length fixations (200\u2013600 ms) clustered in nearby positions and occasional short saccades, consistent with reading text in a locally confined region rather than large exploratory movements typical of browsing/searching or dynamic wide-range shifts typical of watching videos or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is constrained to the lower-left screen area with relatively stable horizontal X fixations and high Y fixations near the top, matching the pattern seen when composing text in a word processor (WRITE) rather than the broader or more vertical scanning of reading, browsing, searching, playing, or watching video.",
+  "correct": false
+}

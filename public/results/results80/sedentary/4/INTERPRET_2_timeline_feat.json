@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze positions stay within a narrow central band with relatively few large saccades and minimal vertical exploration, indicating focused inspection of a small code snippet, which best matches the INTERPRET pattern among the examples.",
+  "correct": true
+}

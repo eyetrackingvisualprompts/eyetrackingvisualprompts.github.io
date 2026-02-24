@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-range horizontal movements with intermittent larger vertical saccades and fairly dispersed fixations resemble the mixed code-and-IDE inspection seen in the DEBUG example more than the more stable INTERPRET or WRITE patterns or the smoother WATCH/READ trajectories.",
+  "correct": false
+}

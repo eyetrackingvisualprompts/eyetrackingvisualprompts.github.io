@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form mostly horizontal clusters with small regressions and vertical shifts between nearby bands, consistent with line-by-line reading of text rather than large, rapid scene changes (WATCH/PLAY) or concentrated code/IDE regions (WRITE/DEBUG/INTERPRET/SEARCH/BROWSE).",
+  "correct": false
+}

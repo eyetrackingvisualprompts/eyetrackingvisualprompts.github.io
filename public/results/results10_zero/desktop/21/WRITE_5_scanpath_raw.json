@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a small lower-central region with minimal saccades or scanning across the screen, indicating focused attention on a localized area typical of typing into a fixed text field rather than reading or browsing larger areas.",
+  "correct": true
+}

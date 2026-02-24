@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid/upper content and lower regions with many medium-length fixations and frequent vertical and diagonal saccades, including occasional large jumps, closely matching the heterogeneous scanning patterns and depth changes seen in the BROWSE examples rather than the more line-locked READ, center-biased WATCH, or localized WRITE behavior.",
+  "correct": false
+}

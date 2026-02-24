@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a central-left code/IDE area with repeated vertical transitions between mid and lower regions and occasional long saccades to the far right, consistent with alternating between editing code and UI elements (e.g., console or run button) typical of writing/implementing code rather than debugging or reading text continuously.",
+  "correct": false
+}

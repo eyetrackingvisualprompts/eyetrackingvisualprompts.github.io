@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a small left-of-center region with minor horizontal spread and little vertical movement, matching sustained fixation on a confined text area rather than exploration (SEARCH/BROWSE), dynamic tracking (WATCH/PLAY), or code spread across a larger area (WRITE/INTERPRET/DEBUG).",
+  "correct": false
+}

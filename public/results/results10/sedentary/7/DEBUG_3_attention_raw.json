@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is dispersed across multiple regions from top to bottom and left to right with several distinct clusters, indicating scanning different webpage areas rather than focused code, text reading, or following a central dynamic object, which matches browsing behavior.",
+  "correct": false
+}

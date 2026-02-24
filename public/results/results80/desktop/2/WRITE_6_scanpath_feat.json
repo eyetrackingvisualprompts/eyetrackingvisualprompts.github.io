@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are tightly clustered in a small central-lower region with short saccades and little horizontal spread, resembling focused attention on a localized content area (such as a central article block) more than the broader, structured sweeps of reading or the dispersed patterns of search, watch, write, or play; this pattern best matches the BROWSE example.",
+  "correct": false
+}

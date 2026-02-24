@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a relatively tall, narrow code region on the left side with some additional attention above and below, closely matching the concentrated multi-block viewing pattern seen in the DEBUG example rather than the more single-block focus of WRITE or INTERPRET or the horizontal sweeps of reading/browsing/searching.",
+  "correct": false
+}

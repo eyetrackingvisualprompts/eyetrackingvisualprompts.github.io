@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with frequent medium-amplitude saccades, including many vertical transitions between an upper band (~y=0.2\u20130.3) and a mid band (~y=0.6\u20130.7), plus occasional long jumps across the horizontal extent. This mixed scanning of upper and mid screen regions, without the tight horizontal line-by-line structure of READ or the very central, subtitle/face-focused band of WATCH, matches the more free-form, multi-region exploration typical of web browsing pages with headlines, menus, and content sections.",
+  "correct": false
+}

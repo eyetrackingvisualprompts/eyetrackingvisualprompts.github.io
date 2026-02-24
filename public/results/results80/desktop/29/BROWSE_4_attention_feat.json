@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered in the central region with a mostly vertical distribution and limited horizontal spread, matching the pattern of looking at a search results list rather than wider page exploration (browse) or line-by-line reading (read).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-level horizontal spread with frequent shifts between mid and upper vertical regions and irregular saccades, indicating alternating attention between central content and upper areas such as a search bar or results list. This pattern best matches the SEARCH examples rather than the more uniform scanning of READ or the denser, more localized patterns of WRITE or WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster over a compact region (left/middle code area) with many small back-and-forth saccades between nearby y-positions, suggesting detailed line-by-line inspection and re-checking typical of debugging rather than smoother top-to-bottom reading or broader exploratory browsing/search patterns.",
+  "correct": false
+}

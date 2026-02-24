@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in two main vertical regions with repeated horizontal saccades between them and occasional excursions to the screen edges, resembling movements between search results, snippets, and other page elements typically seen in SEARCH rather than the more localized code or text focus of programming or reading tasks.",
+  "correct": false
+}

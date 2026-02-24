@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are concentrated around the central-middle region with some spread, closely matching the BROWSE example heatmap\u2019s compact central cluster rather than the more horizontal bands (READ/WRITE) or top-focused (WATCH) or multi-cluster (PLAY) patterns.",
+  "correct": false
+}

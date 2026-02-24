@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (including off-center and extreme coordinates), mixed with medium-duration fixations scattered over many distinct locations and vertical levels, match the heterogeneous, exploratory scanpaths of free web browsing more than the more structured, line-based (READ), code-centered (WRITE/DEBUG/INTERPRET), or focal motion-tracking patterns (WATCH/PLAY/SEARCH).",
+  "correct": false
+}

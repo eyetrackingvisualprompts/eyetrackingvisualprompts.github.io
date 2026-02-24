@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in central/right regions with frequent vertical shifts between mid and lower areas and scattered fixations, indicating movement between search box, result list, and lower content areas, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

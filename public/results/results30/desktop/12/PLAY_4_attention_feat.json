@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region near the screen center with limited horizontal spread, matching the browsing example pattern more closely than the wider horizontal band of reading or the dispersed patterns of play, search, watch, or write.",
+  "correct": false
+}

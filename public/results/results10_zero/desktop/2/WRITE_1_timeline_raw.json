@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions change smoothly with gradual drift and small fluctuations, lacking the rapid, discrete saccades and line-by-line horizontal patterns typical of reading, searching, browsing, or writing. The continuous, moderately paced motion is most consistent with following dynamic content in a video-watching task.",
+  "correct": false
+}

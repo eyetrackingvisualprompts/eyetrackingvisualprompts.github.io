@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixation positions stay around the central band with frequent, irregular saccades in all directions, resembling the high-variability, mid-screen scanning pattern seen in the BROWSE example rather than the more structured horizontal/vertical progressions of READ or WRITE or the more stable bands of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

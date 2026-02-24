@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal movements with relatively small vertical changes, forming step-like segments consistent with scanning lines of text and occasional line shifts, which matches typical reading behavior more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The scanpath shows frequent shifts between multiple regions (upper left, center, mid-right) with both large and small saccades, resembling alternating focus between code, errors, and output typical of debugging, and differing from more localized tasks like WRITE/INTERPRET or the broader, more chaotic patterns of BROWSE/PLAY.",
+  "correct": false
+}

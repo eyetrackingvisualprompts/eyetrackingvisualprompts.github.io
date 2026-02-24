@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions stay in a narrow band around the screen center with small, smooth fluctuations and no systematic horizontal scanning or line-by-line progression, which is characteristic of passively watching a centrally located video rather than reading, searching, browsing, writing, or playing a game that would induce larger or more directional eye movements.",
+  "correct": false
+}

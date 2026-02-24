@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, orderly horizontal lines within a constrained rectangular region, characteristic of line-by-line text reading rather than more scattered or wide-ranging exploration seen in tasks like SEARCH or BROWSE.",
+  "correct": true
+}

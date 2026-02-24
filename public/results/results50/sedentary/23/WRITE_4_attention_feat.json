@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in two nearby vertical regions on the left side (likely code and console/error area) with several auxiliary glances, matching the multi-cluster pattern of the DEBUG example more than the tighter INTERPRET cluster or the broader WRITE distribution.",
+  "correct": false
+}

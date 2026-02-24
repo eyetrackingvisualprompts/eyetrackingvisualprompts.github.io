@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow central region with small vertical shifts and long fixations (400\u20131000 ms), characteristic of sustained attention to localized text rather than the larger, more frequent shifts typical of browsing/searching or the wide directional movements of playing or watching video.",
+  "correct": false
+}

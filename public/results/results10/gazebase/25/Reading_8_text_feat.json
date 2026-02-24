@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze positions stay on a nearly constant vertical level while moving systematically left-to-right across a wide horizontal range, with occasional larger regressions to the left\u2014this horizontal, line-by-line scan pattern closely matches the Reading example and not the larger, multidirectional jumps of Random/Balura Saccades or the bidirectional \u00b115\u00b0 shifts of Horizontal Saccades.",
+  "correct": true
+}

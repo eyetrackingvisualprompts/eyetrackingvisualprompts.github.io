@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster near the screen center with short, multi-directional saccades and repeated refixations, similar to the BROWSE example where attention is spread around a central region of a webpage rather than following text lines (READ) or large dispersed movements (SEARCH/PLAY/WATCH).",
+  "correct": false
+}

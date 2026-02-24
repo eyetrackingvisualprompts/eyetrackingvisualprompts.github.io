@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large vertical transitions across a wide Y range with irregular, non-periodic patterns and varied horizontal positions, resembling scanning and scrolling behavior typical of free web browsing rather than the more structured, line-based movements of reading or the tighter, more localized patterns of coding-related tasks.",
+  "correct": false
+}

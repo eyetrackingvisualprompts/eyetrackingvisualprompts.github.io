@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with many short saccades and medium\u2013long fixations, showing repeated left\u2013right passes and small regressions along roughly the same line\u2014closely matching the line-by-line scanning and local rereading typical of the READ examples, unlike the larger excursions or multi-region switching seen in SEARCH, BROWSE, or code tasks.",
+  "correct": false
+}

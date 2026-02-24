@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Predominantly code-like gaze pattern: repeated back-and-forth saccades between a compact region (~x=250\u2013350,y=180\u2013320) with revisits to a few nearby lines, interspersed with occasional jumps to other screen areas and back, matching intensive localized reasoning over a short code snippet rather than broader navigation (BROWSE/SEARCH) or line-structured reading (READ).",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered mid\u2011screen with small vertical range around y\u22480.54\u20130.58, moderate horizontal micro\u2011shifts, and many long fixations (0.4\u20131.4s). This pattern closely matches the BROWSE exemplar, which shows similar mid\u2011page fixation behavior while scanning a webpage, and is less horizontal and line\u2011like than READ and less dispersed than WATCH/PLAY/SEARCH.",
+  "correct": false
+}

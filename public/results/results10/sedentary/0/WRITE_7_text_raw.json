@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense clusters of fixations in code-like regions (around y\u2248130\u2013160 and y\u2248300\u2013360) interleaved with frequent shifts to lower areas (~400\u2013600) consistent with switching between code editor and console/output, matching the WRITE examples more than the other tasks.",
+  "correct": true
+}

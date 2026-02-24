@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are mostly mid-duration and clustered around a narrow central-horizontal band with small vertical shifts, forming locally linear scanpaths and regressions characteristic of reading lines of text, unlike the larger spatial excursions and peripheral/extreme movements seen in PLAY, SEARCH, WATCH, or WRITE, and more structured than typical BROWSE patterns.",
+  "correct": false
+}

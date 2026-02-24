@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster around mid-screen code area with many medium-length (0.4\u20132s) fixations and short revisiting saccades among nearby lines/regions, plus occasional long jumps to other code areas\u2014matching the detailed, revisitation-heavy inspection pattern seen in DEBUG examples more than in reading or passive watching.",
+  "correct": false
+}

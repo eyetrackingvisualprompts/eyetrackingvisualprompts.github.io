@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows medium-length fixations with frequent vertical transitions between mid and lower screen regions and occasional larger jumps, resembling scanning mixed text and graphical content. This is more consistent with general webpage browsing than the more horizontally structured, line-by-line movements in READ or the more stationary, central focus typical of WATCH and WRITE.",
+  "correct": false
+}

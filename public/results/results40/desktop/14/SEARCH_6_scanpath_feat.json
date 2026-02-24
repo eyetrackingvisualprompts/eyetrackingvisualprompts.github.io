@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent gaze shifts between spatially separated clusters along both horizontal and vertical directions, with dispersed fixations over a wide screen area\u2014characteristic of visually exploring and tracking elements in a game rather than the more localized or structured patterns seen in reading, writing, searching, browsing, or watching video.",
+  "correct": false
+}

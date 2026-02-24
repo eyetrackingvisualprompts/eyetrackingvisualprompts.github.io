@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near the screen center with small horizontal drifts and occasional brief vertical spikes, indicating sustained attention to a central, continuously changing stimulus typical of watching a fullscreen video rather than the structured line-by-line or search-like scanning seen in reading, coding, browsing, or debugging tasks.",
+  "correct": false
+}

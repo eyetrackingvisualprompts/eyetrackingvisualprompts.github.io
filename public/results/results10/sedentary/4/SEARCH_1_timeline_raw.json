@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y positions show continuous, smooth shifts with moderate variability and no clear line-by-line horizontal scanning or structured row resets, matching the more free-form, object-following gaze behavior seen during video watching rather than the more discrete jumps or code/text line transitions of the other tasks.",
+  "correct": false
+}

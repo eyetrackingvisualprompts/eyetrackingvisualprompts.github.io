@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points move predominantly in constrained horizontal bands with small, systematic shifts and intermittent downward transitions, consistent with line-by-line text reading rather than large exploratory jumps (SEARCH/BROWSE), continuous central focus (WATCH), strong vertical workspace transitions (WRITE), or wide, rapid multi-directional shifts (PLAY).",
+  "correct": true
+}

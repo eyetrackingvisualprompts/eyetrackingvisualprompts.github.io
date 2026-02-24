@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are tightly clustered and move slowly along a nearly horizontal line, indicating stable fixations with small, left\u2011to\u2011right movements typical of tracking a single text line, which best matches the READ activity among the options.",
+  "correct": true
+}

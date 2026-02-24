@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is almost static with very small, slow horizontal drift and nearly constant vertical position, indicating prolonged fixation on a central area of the screen consistent with passively watching a video rather than reading, coding, searching, or active interaction.",
+  "correct": false
+}

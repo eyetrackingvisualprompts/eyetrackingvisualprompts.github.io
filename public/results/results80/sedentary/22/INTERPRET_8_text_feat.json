@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and short saccades clustered around a limited central-left code area with many revisits, vertical shifts between nearby lines, and occasional excursions to top/bottom UI regions match the structured, localized scanning pattern seen in WRITE examples rather than the more linear (READ), web-page\u2013like (BROWSE/SEARCH), or highly dispersed/game-like (PLAY/WATCH) patterns.",
+  "correct": false
+}

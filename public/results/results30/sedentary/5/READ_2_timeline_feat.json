@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "X fixations show step-like horizontal progressions with periodic resets while Y fixations change slowly, matching line-by-line reading behavior and resembling the READ example plot more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent back-and-forth saccades between a compact code-like region in the upper-left (x\u224830\u2013260, y\u2248120\u2013240) and a console/output or auxiliary area on the right/bottom (x>800, y\u2248480\u2013560), with long fixations on specific lines and repeated revisits to nearly identical coordinates, matches the pattern of inspecting and editing code while checking results, characteristic of the DEBUG task rather than the more linear INTERPRET or READ behaviors or the broader exploration in BROWSE/SEARCH.",
+  "correct": false
+}

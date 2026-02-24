@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread over a moderately large central area with varied saccade directions, indicating exploration of multiple elements on a page. The pattern is less linear than READ and less constrained than WRITE, matching the diverse, exploratory viewing typical of web browsing.",
+  "correct": false
+}

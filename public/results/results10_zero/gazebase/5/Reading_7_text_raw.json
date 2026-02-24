@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze shows predominantly horizontal movements with modest vertical shifts, forming a staircase-like scan path consistent with line-by-line text reading, rather than large, symmetric horizontal sweeps (horizontal saccades), central stability (fixation), or wide 2D jumps (random saccades/game/video).",
+  "correct": true
+}

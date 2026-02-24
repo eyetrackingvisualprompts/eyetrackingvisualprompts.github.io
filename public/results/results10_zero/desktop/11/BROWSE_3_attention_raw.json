@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows two closely spaced, stable fixation clusters in the central area of the screen with little spread, indicating prolonged focused viewing of a small region, which is most consistent with reading text rather than the more dispersed or dynamic patterns expected in browsing, searching, watching videos, gaming, or writing (which would include more top-area fixations for menus and editing).",
+  "correct": false
+}

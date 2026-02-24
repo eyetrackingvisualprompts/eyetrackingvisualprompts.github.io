@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains mostly within a narrow central region with medium-length fixations and short, locally bounded saccades, occasionally stepping vertically\u2014matching line-by-line text scanning in READ more than the broader exploratory jumps of SEARCH/BROWSE or the scene-wide shifts of WATCH/PLAY; WRITE examples are more top-of-screen and localized than this pattern.",
+  "correct": false
+}

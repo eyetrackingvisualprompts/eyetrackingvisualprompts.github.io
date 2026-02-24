@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in the upper-left code area with minimal spread elsewhere, closely matching the INTERPRET example where participants focus on a small snippet to understand its output rather than scanning widely as in DEBUG or SEARCH.",
+  "correct": true
+}

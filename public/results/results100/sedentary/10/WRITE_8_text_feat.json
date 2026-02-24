@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length fixations and short saccades concentrated around a compact code-like region, interleaved with large jumps to far-off UI locations, closely resemble the DEBUG pattern more than the smoother, line-based READ/BROWSE or the highly dynamic PLAY/WATCH trajectories.",
+  "correct": false
+}

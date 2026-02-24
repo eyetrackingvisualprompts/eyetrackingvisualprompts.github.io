@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows repeated long fixations interleaved with large vertical and diagonal saccades between widely separated regions, characteristic of moving between code, error locations, and execution output while reasoning. The pattern is more scattered and revisitation-heavy than typical READ/INTERPRET, and more static than PLAY/WATCH/BROWSE/SEARCH, aligning best with debugging behavior in an IDE.",
+  "correct": false
+}

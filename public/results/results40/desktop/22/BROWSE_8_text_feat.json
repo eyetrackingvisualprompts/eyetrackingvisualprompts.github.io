@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated around a central vertical band with many medium-length fixations and short local saccades, plus occasional small shifts between mid-page (~0.6y) and slightly higher/lower regions\u2014matching reading/inspection of a results list and snippets. Compared to READ, vertical progression is less systematic and more clustered around similar y-levels, while unlike BROWSE it lacks frequent larger jumps across distinct screen regions, fitting the SEARCH pattern in the examples.",
+  "correct": false
+}

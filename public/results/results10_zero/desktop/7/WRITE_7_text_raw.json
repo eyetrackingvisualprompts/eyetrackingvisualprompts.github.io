@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, stable horizontal sweeps at near-constant vertical positions (e.g., y\u22480.37, 0.14, 0.28, 0.17) with occasional vertical shifts to new horizontal bands, consistent with progressing line-by-line through text rather than the more scattered, multi-directional movements typical of PLAY, SEARCH, BROWSE, WATCH, or the focused central\u2013upper pattern of WRITE.",
+  "correct": false
+}

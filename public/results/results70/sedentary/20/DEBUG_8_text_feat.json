@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-length fixations with many vertical and horizontal shifts across dispersed screen regions, including repeated returns to upper text-like areas and occasional large jumps, match the scan-and-skim pattern of inspecting search results rather than the more orderly line-wise progression of READ or the code-focused, clustered patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

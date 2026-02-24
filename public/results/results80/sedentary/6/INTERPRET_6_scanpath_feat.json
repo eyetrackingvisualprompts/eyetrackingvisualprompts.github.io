@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered on a single left-side code pane with minimal excursions elsewhere, matching the localized, concentrated pattern seen in the INTERPRET example rather than the more dispersed movements of WRITE or DEBUG.",
+  "correct": true
+}

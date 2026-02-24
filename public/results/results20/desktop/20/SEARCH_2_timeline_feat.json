@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze stays in a relatively narrow horizontal band with low, stable Y positions and modest X changes, matching the pattern of focusing near the lower part of the screen where a text cursor and typed content appear, characteristic of the WRITE examples rather than the more dispersed movements seen in SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

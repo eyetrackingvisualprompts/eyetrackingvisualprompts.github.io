@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show step-like jumps to various non-periodic locations held roughly for one second before shifting again, matching the irregular 2D target movements of the Random Saccades task rather than the more regular horizontal-only pattern or other behaviors.",
+  "correct": true
+}

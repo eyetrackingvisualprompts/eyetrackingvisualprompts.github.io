@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze alternates between two main vertical bands with frequent, rapid horizontal shifts and relatively narrow vertical range, consistent with tracking moving game elements (e.g., Pong) rather than line-by-line reading or code-related tasks.",
+  "correct": false
+}

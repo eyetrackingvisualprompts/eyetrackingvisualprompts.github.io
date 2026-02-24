@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points remain mostly within a central band with relatively smooth drifts and occasional moderate shifts, indicating continuous viewing of a dynamic but spatially constrained stimulus (like a video). There is no systematic horizontal line-scan or return-sweep pattern typical of reading or writing, nor the frequent large, multidirectional saccades expected in web search, browsing, or active gameplay. This pattern best matches the WATCH activity.",
+  "correct": false
+}

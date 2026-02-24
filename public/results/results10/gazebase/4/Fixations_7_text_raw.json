@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze trajectory shows continuous, small and moderate movements with gradual drifts, local fixations, and no strong, regular horizontal swings characteristic of saccade-following tasks. It is more variable and exploratory than the highly stable Fixations data, and lacks the large, discrete jumps and broader spatial coverage seen in Random Saccades or Balura Game, matching the natural, free-viewing pattern of Video Viewing.",
+  "correct": false
+}

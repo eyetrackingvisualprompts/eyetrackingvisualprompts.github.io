@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent large-amplitude shifts across wide screen areas (including far corners and substantial vertical excursions), along with clustered movements around mid\u2013lower regions, consistent with tracking moving objects and navigating space in a game rather than the more line- or block-structured patterns typical of reading, coding, or web search/browsing.",
+  "correct": true
+}

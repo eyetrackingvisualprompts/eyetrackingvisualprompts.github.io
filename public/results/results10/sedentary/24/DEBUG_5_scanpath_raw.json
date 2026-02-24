@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a relatively small, left-center area with dense, repetitive fixations and short saccades, similar to focused code inspection rather than broader reading or gameplay, matching the INTERPRET scanpath pattern.",
+  "correct": false
+}

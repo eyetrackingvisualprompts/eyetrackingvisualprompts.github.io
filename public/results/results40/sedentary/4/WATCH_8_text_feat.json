@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows medium-sized, irregular saccades across large screen regions (center, top, bottom, corners) with many mid-duration fixations, including excursions off the main content and to extreme coordinates (e.g., 1090 y, 1287 x), matching free visual exploration of dynamic full-screen video more than the structured, line-based or code-region-based patterns seen in reading, coding (WRITE/DEBUG/INTERPRET), or web search/browsing tasks.",
+  "correct": true
+}

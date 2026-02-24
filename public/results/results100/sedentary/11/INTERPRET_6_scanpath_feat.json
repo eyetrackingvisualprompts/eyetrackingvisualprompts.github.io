@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is heavily clustered in a compact code-like region on the left with dense, repeated fixations and occasional long saccades to the right, matching the focused inspection of a code snippet with rare shifts to reference/output areas typical of the INTERPRET task rather than the more dispersed patterns of DEBUG or BROWSE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a few compact horizontal clusters in the left and central region of the screen, consistent with looking at code in an IDE/editor rather than scanning full-page text or dynamic content. The localized, code-window-like pattern best matches the WRITE task where participants focus on a small code area while implementing functions.",
+  "correct": false
+}

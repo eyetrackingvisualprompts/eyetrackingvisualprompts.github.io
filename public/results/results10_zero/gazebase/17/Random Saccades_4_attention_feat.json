@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen in discrete, separated clusters without forming a clear horizontal line (as in Horizontal Saccades) or a tight central cluster (as in Fixations). The roughly uniform but random distribution of points over both horizontal and vertical ranges matches a target that jumps unpredictably to various screen positions, consistent with Random Saccades.",
+  "correct": true
+}

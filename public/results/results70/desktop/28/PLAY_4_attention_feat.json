@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in the central-middle region with some vertical spread, resembling attention to mixed text and images on a webpage; this pattern closely matches the BROWSE example heatmap compared to the more horizontal READ/WRITE patterns or more dispersed WATCH/PLAY patterns.",
+  "correct": false
+}

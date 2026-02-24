@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates remain near a small region for stretches, then exhibit occasional large, abrupt jumps of more than 10\u201315 degrees, including a pronounced vertical excursion near the end, consistent with following a target that relocates discretely to new random positions about once per second rather than smooth scanning (reading/video) or strictly horizontal motion (horizontal saccades).",
+  "correct": false
+}

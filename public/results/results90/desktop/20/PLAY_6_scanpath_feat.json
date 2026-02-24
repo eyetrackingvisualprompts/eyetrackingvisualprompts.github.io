@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are spread over a wide central area with frequent medium-length saccades and revisits across different vertical and horizontal regions, resembling exploratory navigation on varied web pages rather than the more constrained patterns of reading, writing, or focused gameplay.",
+  "correct": false
+}

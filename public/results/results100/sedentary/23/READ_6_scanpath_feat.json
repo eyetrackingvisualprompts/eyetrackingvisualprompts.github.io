@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, orderly horizontal bands within a confined rectangular region, consistent with line-by-line reading of text, closely matching the READ example pattern and unlike the more scattered, wide-range movements seen in browsing, searching, or playing.",
+  "correct": true
+}

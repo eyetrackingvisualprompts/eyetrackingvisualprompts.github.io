@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze is concentrated near screen center with moderate horizontal spread and limited vertical range, matching the natural, centrally focused viewing pattern seen in the Video Viewing example rather than the wider scatter of Balura/Random Saccades, the tight clusters of Fixations/Horizontal Saccades, or the lower-band layout of Reading.",
+  "correct": false
+}

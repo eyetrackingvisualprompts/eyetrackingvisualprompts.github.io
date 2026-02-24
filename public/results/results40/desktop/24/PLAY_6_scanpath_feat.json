@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered in a compact central region with frequent short saccades and revisits, similar to the SEARCH example where attention alternates among several nearby interface elements (query box, results, snippets) rather than following lines of text (READ) or wide horizontal movements (WATCH/WRITE).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large, frequent shifts across wide screen regions (including corners and off-center areas), with many medium-length fixations and smooth pursuit-like horizontal/diagonal movements, indicative of tracking dynamic visual content rather than line-by-line reading or focused code inspection. This spatially distributed, film-like scanning aligns best with the WATCH examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows widespread, rapid gaze shifts across much of the central screen with no clear reading lines or localized code/IDE clusters, matching the dispersed, dynamic pattern typical of tracking moving objects during gameplay rather than the more structured patterns of reading, coding, or searching.",
+  "correct": true
+}

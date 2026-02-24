@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely dispersed across both vertical and horizontal extents, with multiple scattered clusters rather than a few focused regions. This pattern matches the heterogeneous, exploratory gaze behavior of free web browsing more than the more localized patterns seen in tasks like READ, WRITE, or code-focused activities.",
+  "correct": true
+}

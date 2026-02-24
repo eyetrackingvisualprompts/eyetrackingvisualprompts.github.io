@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "DEBUG",
+  "reason": "Long sequences of localized fixations and short saccades around a lower-central code area followed by large transitions to off-screen/toolbar-like coordinates and then back, plus revisits to similar regions, match the structured yet exploratory pattern seen in the DEBUG example more than the other tasks.",
+  "correct": false
+}

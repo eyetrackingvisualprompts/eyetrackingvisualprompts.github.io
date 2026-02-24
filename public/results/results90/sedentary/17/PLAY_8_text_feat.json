@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including off-center extremes and rapid jumps between distant coordinates), with relatively short, scattered fixations and strong vertical movement patterns, match the dynamic gaze behavior seen in the PLAY examples and are unlike the more line-structured, horizontal scanning of READ/SEARCH or the more localized code-centric patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

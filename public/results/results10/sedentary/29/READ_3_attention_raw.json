@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a narrow horizontal band near the lower-central area of the screen, consistent with focusing on a single code line and nearby editor region while typing, similar to the WRITE example rather than the more dispersed or upper-screen patterns of other tasks.",
+  "correct": false
+}

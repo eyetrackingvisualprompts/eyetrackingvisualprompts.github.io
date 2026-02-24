@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points show continuous smooth movements with frequent shifts across wide screen regions (center, upper, lower, left, and right) and no stable line-by-line horizontal scanpaths typical of reading/searching or tight clusters around code blocks. The broad spatial coverage and flowing trajectories are more consistent with visually following dynamic video content than with the more structured, localized patterns seen in coding, writing, debugging, or focused web/search reading tasks.",
+  "correct": false
+}

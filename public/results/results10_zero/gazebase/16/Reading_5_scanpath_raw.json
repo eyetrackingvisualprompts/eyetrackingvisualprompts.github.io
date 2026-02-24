@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows multiple short, sequential horizontal movements within a narrow vertical band, consistent with line-by-line reading behavior rather than large uniform saccades, static fixation, or widely distributed random/game/video viewing patterns.",
+  "correct": true
+}

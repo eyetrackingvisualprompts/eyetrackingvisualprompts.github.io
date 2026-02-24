@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between distant vertical regions (top-left text-like areas, mid-page results, and lower regions), with brief fixations on many dispersed locations, including extreme off-center positions, matches the exploratory, scanning behavior of web search result pages rather than the more line-structured patterns of READ or the more localized patterns of coding tasks (WRITE/INTERPRET/DEBUG).",
+  "correct": true
+}

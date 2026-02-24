@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions cluster around several discrete points with clear jumps between them and roughly one-second dwell times, reflecting following a target that steps to new random locations rather than continuous motion or dense text scanning.",
+  "correct": false
+}

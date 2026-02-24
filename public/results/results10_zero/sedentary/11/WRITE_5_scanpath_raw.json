@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze alternates between two vertical clusters on the left and right screen edges with long horizontal saccades connecting them, indicating following scene elements moving across the screen rather than line-by-line reading or code-related scrutiny; this broad, smooth, screen-wide viewing pattern best matches watching a video.",
+  "correct": false
+}

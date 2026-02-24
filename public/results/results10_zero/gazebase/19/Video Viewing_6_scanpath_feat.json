@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows primarily horizontal movements with clusters of fixations aligned along a few roughly horizontal lines, consistent with line-by-line reading behavior rather than large systematic saccades or central fixation.",
+  "correct": false
+}

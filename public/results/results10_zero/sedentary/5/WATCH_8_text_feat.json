@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent long-distance saccades across wide screen regions (center\u2194corners, top\u2194bottom) with medium-length fixations, lacking the orderly line-by-line structure of reading or the sustained central focus typical of video watching or gameplay tracking. This scattered, exploratory pattern best matches free web browsing among the provided activities.",
+  "correct": false
+}

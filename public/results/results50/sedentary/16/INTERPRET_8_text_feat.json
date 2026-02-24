@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact central-left area with many medium-length fixations and frequent short regressions between nearby positions, matching code-focused inspection rather than broad page scanning, dynamic object following, or long horizontal text sweeps seen in READ/BROWSE/SEARCH/PLAY/WATCH; it closely resembles the INTERPRET examples where users inspect a small code snippet to reason about its behavior.",
+  "correct": true
+}

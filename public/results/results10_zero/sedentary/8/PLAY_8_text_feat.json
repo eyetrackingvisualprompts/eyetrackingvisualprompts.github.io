@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows frequent medium-to-long saccades across large screen areas (including far upper and lower regions) with relatively short, scattered fixations rather than systematic line-by-line or code-structure scanning. This broad, dynamic spatial coverage and lack of orderly reading or detailed, localized inspection is most consistent with following visual content in a video (WATCH) rather than text/code tasks, focused debugging/writing, or target-driven search/browse behavior.",
+  "correct": false
+}

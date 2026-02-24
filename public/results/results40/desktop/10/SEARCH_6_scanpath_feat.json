@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are widely distributed across the central screen with frequent medium-length saccades and no dominant horizontal reading lines or strong top-band concentration. This mixed exploration of multiple regions with revisits resembles the scanpath of using a search engine (SEARCH) more than the more localized patterns of WATCH, WRITE, PLAY, READ, or the denser central cluster of general BROWSE.",
+  "correct": true
+}

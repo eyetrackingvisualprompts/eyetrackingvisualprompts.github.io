@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates show large, smooth shifts across wide screen areas with clusters around central and upper regions, consistent with following dynamic visual content rather than line-by-line reading, code inspection, or focused text search. This spatiotemporal pattern best matches passively watching a video.",
+  "correct": true
+}

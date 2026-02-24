@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively stable, horizontally-oriented fixations around mid-screen with small, regular saccades and modest vertical drift\u2014closely matching the structured line-by-line pattern seen in the READ example, unlike the broader movements in browse/search or the larger excursions in play/watch/write.",
+  "correct": false
+}

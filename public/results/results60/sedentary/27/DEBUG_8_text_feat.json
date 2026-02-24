@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze repeatedly alternates between compact code region (~x=250\u2013420,y=150\u2013320) and lower output/console area (~y=500\u2013680), with many revisits and short, local regressions\u2014typical of iterative bug hunting and checking results, and closely matching the spatial-temporal patterns seen in the DEBUG example segment.",
+  "correct": true
+}

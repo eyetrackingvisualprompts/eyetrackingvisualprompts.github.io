@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a mid-screen region with moderate horizontal and vertical movements, resembling the mixed exploratory yet locally focused pattern of the BROWSE example more than the linear patterns of READ/WRITE or the more extreme spread of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

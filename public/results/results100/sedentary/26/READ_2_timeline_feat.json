@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The X fixation shows repetitive left-to-right sweeps with quick regressions, while the Y fixation steadily increases across the window with a large downward jump and restart near 85s. This pattern matches line-by-line reading with line changes, similar to the READ example plot.",
+  "correct": true
+}

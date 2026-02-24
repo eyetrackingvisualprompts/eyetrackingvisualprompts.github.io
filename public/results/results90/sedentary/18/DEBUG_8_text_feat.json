@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across extreme screen regions (including off-content coordinates), alternating top and bottom areas, with irregular revisits and scattered fixations resemble exploratory webpage navigation rather than structured reading, code-focused tasks, or watching a single foveal region.",
+  "correct": false
+}

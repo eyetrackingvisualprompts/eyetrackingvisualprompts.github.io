@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a relatively small central region with many short back-and-forth fixations and revisits, indicative of scrutinizing a compact code snippet rather than scanning text lines (READ) or large web pages (SEARCH/BROWSE) or dynamic scenes (WATCH/PLAY). This dense, local, deliberative pattern best matches the INTERPRET task, where participants repeatedly inspect small code regions to reason about program output.",
+  "correct": false
+}

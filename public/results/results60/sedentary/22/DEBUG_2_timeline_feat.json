@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows mostly mid-range, relatively narrow horizontal spread with moderate vertical scanning and intermittent larger saccades, closely matching the DEBUG example where users move within and between code lines and UI elements, rather than the more linear READ/BROWSE patterns or highly dynamic PLAY/WATCH behaviors.",
+  "correct": true
+}

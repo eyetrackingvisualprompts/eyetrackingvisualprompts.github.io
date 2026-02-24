@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations are concentrated around the central lower-middle region with some spread vertically, closely resembling the SEARCH example heatmap pattern more than the others, which suggests looking between query box, results, and other interface elements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a compact region on the left-center of the screen with minimal exploration elsewhere, matching the focused fixation pattern seen in the INTERPRET example where participants inspect a small code snippet rather than scanning widely like in READ, BROWSE, or DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated around a central-horizontal code area with occasional longer saccades to the right, resembling the WRITE example\u2019s pattern of alternating between the code editor and nearby UI elements, unlike the tighter clusters of INTERPRET/DEBUG or the more dispersed BROWSE/SEARCH/PLAY/WATCH patterns.",
+  "correct": false
+}

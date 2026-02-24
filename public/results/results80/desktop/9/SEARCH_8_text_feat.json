@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a compact horizontal band with many short horizontal saccades and medium-long fixations, consistent with scanning lines of text rather than large exploratory jumps (SEARCH/BROWSE) or peripheral/vertical spread (WATCH/PLAY); it also lacks the strong top text\u2013bottom editor split seen in WRITE, matching the READ pattern best.",
+  "correct": false
+}

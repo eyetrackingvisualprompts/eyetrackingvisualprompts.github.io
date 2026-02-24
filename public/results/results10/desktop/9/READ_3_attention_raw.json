@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze heatmap shows wide horizontal spread with clusters from left to right and varying vertical positions, indicating continuous scanning across the screen in multiple directions, which best matches the dynamic, multi-directional viewing patterns typical of playing an online game rather than the more localized or structured patterns of reading, writing, searching, or browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Initial dense fixations around a compact area in the upper/mid code region (y\u2248160\u2013330) with many short regressions and revisits, followed by a clear shift to a lower block (y\u2248480\u2013570) with fine-grained, back-and-forth adjustments around similar lines, matches the structured, line-based, localized gaze typical for code writing/editing rather than the more linear (READ), wide-scanning (SEARCH/BROWSE), or object-tracking (PLAY/WATCH) patterns.",
+  "correct": false
+}

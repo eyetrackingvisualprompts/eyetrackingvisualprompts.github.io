@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is clustered around the center with dispersed fixations in a compact region, resembling the SEARCH example\u2019s central, moderately scattered pattern more than the more linear READ/WRITE patterns or the edge-focused PLAY/WATCH/BROWSE patterns.",
+  "correct": false
+}

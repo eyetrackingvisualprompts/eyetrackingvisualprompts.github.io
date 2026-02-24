@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude vertical and horizontal saccades between mid, upper, and lower screen regions with short-to-moderate fixations and no clear line-by-line horizontal scan pattern suggest exploratory scanning of a dynamic page, which aligns best with web/news browsing rather than the more structured patterns of reading, writing, searching SERPs, or following video/game foci.",
+  "correct": false
+}

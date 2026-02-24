@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, rapid shifts across wide vertical and horizontal ranges (including edges and corners), frequent revisits to dispersed regions, and dynamic scanning rather than line-based or columnar patterns. This broad, erratic spatial coverage with many long saccades matches the PLAY examples more than the more centrally clustered patterns seen in READ, WRITE, or BROWSE, or the relatively more stable WATCH/SEARCH behaviors.",
+  "correct": false
+}

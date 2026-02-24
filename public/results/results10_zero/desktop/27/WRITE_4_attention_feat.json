@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a very small, tightly clustered fixation region slightly below center, indicating the gaze remained almost stationary on a single compact area for the whole 10s window. This pattern best matches watching a video where the viewer fixates near the main character/interaction region, rather than the broader horizontal scan patterns of reading, writing, searching, or browsing, or the multi-directional movements typical of gameplay.",
+  "correct": false
+}

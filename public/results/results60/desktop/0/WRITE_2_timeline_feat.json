@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The fixation pattern shows a low, gradually increasing X position with relatively high, stable Y position and limited vertical shifts, matching the writing example where gaze stays around one line and slowly moves rightward while typing, rather than the more extensive vertical scanning seen in reading or browsing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated horizontal scanning across mid-to-lower screen regions with many medium-length saccades and brief fixations, interspersed with occasional large jumps to top/header-like areas and off-screen coordinates\u2014matching free web browsing patterns more than the more line-structured READ behavior or the code-focused tasks (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points stay in central-mid vertical regions with many short fixations and small vertical shifts, interspersed with occasional larger jumps to different vertical zones\u2014matching typical web page scanning and scrolling behavior seen in the BROWSE example, and lacking the strong monotonic line-by-line horizontal patterns of READ or the extreme, rapid movements of PLAY.",
+  "correct": true
+}

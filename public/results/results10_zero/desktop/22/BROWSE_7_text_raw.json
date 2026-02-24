@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show predominantly horizontal movements with relatively small vertical shifts and clusters around similar y-levels, consistent with line-by-line text reading rather than the larger, more irregular explorations typical of browsing, searching, or gaming.",
+  "correct": false
+}

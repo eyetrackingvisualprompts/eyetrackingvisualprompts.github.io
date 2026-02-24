@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shifts between widely separated vertical regions (near top and far down the page) with few horizontal reading-like movements, resembling scanning between search bar/results and lower content rather than continuous code inspection or game tracking.",
+  "correct": false
+}

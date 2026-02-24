@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated on a single small region with minimal spatial movement across the entire 10s window, consistent with passively watching a video where attention remains on a central/localized area rather than scanning text or interfaces extensively.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-scale horizontal and vertical shifts with intermittent scanning across different screen regions, resembling the mixed reading-and-navigation pattern seen in the SEARCH example rather than the more linear READ pattern or the highly dynamic PLAY/WATCH behaviors.",
+  "correct": true
+}

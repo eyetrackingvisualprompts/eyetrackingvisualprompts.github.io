@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-side code area with dense local fixations and repeated vertical and horizontal scans, plus occasional shifts to the right/bottom region (likely console or editor controls), matching the focused yet exploratory pattern seen in the DEBUG example rather than the tighter INTERPRET cluster or the more scattered SEARCH/BROWSE patterns.",
+  "correct": false
+}

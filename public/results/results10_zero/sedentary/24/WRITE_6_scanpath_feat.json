@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The scanpath shows a tight cluster of long fixations in a small region with minor horizontal shifts and no typical left-to-right line reading or wide explorative movements, consistent with focused inspection of a localized code snippet to understand its behavior, matching the INTERPRET task.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude saccades across both vertical and horizontal directions, with many revisits between mid-page (~0.5\u20130.6, 0.5\u20130.6) and upper/lower regions, match the heterogeneous, exploratory scanpaths seen in BROWSE. The pattern lacks the regular horizontal line-sweeps of READ and shows more dispersed, irregular navigation than WATCH or WRITE, resembling the browsing example data most closely.",
+  "correct": true
+}

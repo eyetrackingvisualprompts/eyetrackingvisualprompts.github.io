@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "Fixations are tightly clustered around a single central location with minimal horizontal spread, matching a static central target rather than horizontal or random saccades, reading lines, dynamic game targets, or broad video viewing patterns.",
+  "correct": false
+}

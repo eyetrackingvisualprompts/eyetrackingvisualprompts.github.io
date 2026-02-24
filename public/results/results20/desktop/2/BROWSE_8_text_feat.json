@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts cover mid-screen regions with moderate vertical range, alternating between clusters around (0.3\u20130.4) and (0.5\u20130.6) in y, with mixed horizontal moves and no clear line-by-line horizontal scan or stable top-heavy focus. Saccades frequently jump between content-like areas with varied dwell times, resembling exploratory navigation of semi-structured webpages more than the more systematic patterns of READ/WRITE or the peripheral, larger-range dynamics seen in WATCH/PLAY/SEARCH examples.",
+  "correct": true
+}

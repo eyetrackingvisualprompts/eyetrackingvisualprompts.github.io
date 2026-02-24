@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays in a narrow central band with very small, slow vertical drifts and minimal large saccades, matching the stable, line-based fixation patterns seen in the READ example more than the larger exploratory movements of SEARCH or BROWSE or the broader motion in WATCH/PLAY/WRITE.",
+  "correct": false
+}

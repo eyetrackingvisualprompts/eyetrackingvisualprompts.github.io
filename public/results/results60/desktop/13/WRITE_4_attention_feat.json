@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a single, small region slightly below screen center, indicating sustained attention to one area with minimal scanning. This pattern best matches watching a video where gaze stays near one focal point (e.g., a character or subtitle line), unlike the broader horizontal sweeps of reading/writing or dispersed exploration in play, search, or browsing.",
+  "correct": false
+}

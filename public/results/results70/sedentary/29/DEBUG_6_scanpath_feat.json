@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly clustered on the upper-left where search results and snippets typically appear, with repeated revisits and occasional long saccades to the right side (likely other result items or related panels), matching the exploratory yet focused pattern of search rather than the more uniform reading or localized coding tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense, localized fixations and short saccades around a compact central region (\u2248x=250\u2013500, y\u2248400\u2013650) with repeated revisits, occasional jumps to top-of-screen code (y\u2248100\u2013300) and back, and no clear horizontal line-scanning as in READ. The pattern closely matches the INTERPRET example\u2019s behavior of repeatedly inspecting small code regions and their outputs, rather than the broader exploratory movements of SEARCH/BROWSE or the more dispersed, action-driven gaze of PLAY/DEBUG.",
+  "correct": false
+}

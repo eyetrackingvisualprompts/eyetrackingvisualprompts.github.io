@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows slow, monotonic horizontal progression with very small vertical changes and few saccades, matching the stable line-by-line scanning typical of reading, and closely resembling the READ example pattern more than the other activities.",
+  "correct": false
+}

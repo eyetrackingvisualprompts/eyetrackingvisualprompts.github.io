@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are widely spread across the central screen area with frequent, irregular saccades and no clear reading lines or code-focused clusters, closely matching the dispersed, dynamic pattern of the WATCH example scanpath.",
+  "correct": false
+}

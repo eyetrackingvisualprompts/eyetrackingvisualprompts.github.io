@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows repeated, sharp vertical drops in Y with relatively constrained horizontal X, consistent with moving between text lines and the typing area in a word processor, matching the WRITE example more closely than the other activities.",
+  "correct": true
+}

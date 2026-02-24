@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows many dispersed clusters across both lower and upper screen regions, repeated returns to central areas, and several large vertical transitions consistent with scanning results, opening pages, and coming back to the SERP, which best matches the search-engine task rather than the more line-structured (READ/WRITE/INTERPRET/DEBUG) or focused-central (WATCH/PLAY) patterns.",
+  "correct": false
+}

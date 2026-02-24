@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Moderate, irregular horizontal movements with mid-level vertical shifts and intermittent larger saccades resemble the mixed scanning and refixation behavior seen when inspecting and correcting code, matching the DEBUG example more closely than the other tasks.",
+  "correct": false
+}

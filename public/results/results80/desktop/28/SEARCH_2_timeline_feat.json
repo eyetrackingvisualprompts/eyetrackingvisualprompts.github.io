@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a relatively narrow horizontal band with Y around the lower-middle of the screen and X slowly drifting, resembling steady monitoring of a single line region such as text input in a word processor; this pattern matches the WRITE example more than the other activities.",
+  "correct": false
+}

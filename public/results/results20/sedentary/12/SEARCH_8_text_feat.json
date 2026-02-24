@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (center\u2194corners, bottom\u2194top), repeated jumps between distant coordinates, and focus around mid/lower screen bands resemble object-following and spatial monitoring patterns typical of gameplay rather than the more localized, line- or block-based scanning of code, text, or web pages.",
+  "correct": false
+}

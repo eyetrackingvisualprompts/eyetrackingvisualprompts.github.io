@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across widely separated screen regions (including off-screen/negative coordinates), mixed with shorter horizontal scan segments and revisits, resemble exploratory web navigation rather than structured line-by-line reading or code-focused tasks; the pattern closely matches the provided BROWSE examples with similar broad spatial coverage and erratic jumps.",
+  "correct": false
+}

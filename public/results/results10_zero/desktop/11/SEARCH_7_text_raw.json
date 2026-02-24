@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show relatively small, clustered movements with occasional vertical shifts between nearby horizontal bands, consistent with line-by-line reading and brief regressions, rather than the larger, more scattered shifts expected in browsing, searching, or gameplay, or the more central, smooth-tracking style typical of video watching.",
+  "correct": false
+}

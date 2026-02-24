@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The target data shows frequent, large gaze shifts across diverse screen areas (including corners and center), mixed with shorter fixations and vertical movements, matching the heterogeneous scanning and jumping behavior seen in the BROWSE examples rather than the more line-structured READ/WRITE patterns, the center-focused WATCH pattern, or the specific game-like PLAY trajectories.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces show structured, line-like horizontal progressions with moderate vertical shifts and dense saccades, closely matching the reading pattern example and differing from the more scattered or top-biased patterns seen in other tasks like SEARCH, BROWSE, or WATCH.",
+  "correct": true
+}

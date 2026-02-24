@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band in the upper-middle screen with many medium-to-long fixations (0.3\u20130.7s, some >1s) and short, small-amplitude saccades mostly along that band, matching line-wise text reading behavior better than the more scattered, vertical, or peripheral patterns seen in browse/search, the highly dynamic multi-directional play/watch patterns, or the upper-left\u2013biased writing behavior.",
+  "correct": false
+}

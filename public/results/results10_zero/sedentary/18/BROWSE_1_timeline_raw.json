@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "X position shows long, smooth drifts across the screen with occasional rapid shifts and brief signal losses, while Y position stays relatively stable with small fluctuations. This pattern matches following continuous motion in a video more than the structured, line-by-line or code-focused gaze seen in reading, coding, or browsing tasks.",
+  "correct": false
+}

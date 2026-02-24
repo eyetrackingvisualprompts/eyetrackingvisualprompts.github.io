@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in the upper-left region with short vertical spread and left-to-right progression, consistent with reading a text block starting at the top-left of a page and not scanning widely as in browsing, playing, or watching video.",
+  "correct": false
+}

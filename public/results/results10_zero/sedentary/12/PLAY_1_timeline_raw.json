@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change slowly with smooth, continuous drifts in both X and Y, lacking rapid, discrete saccades or line-by-line horizontal shifts typical of reading or code tasks. The pattern is consistent with following visual content across the screen, as in watching a video rather than scanning text or interacting actively.",
+  "correct": false
+}

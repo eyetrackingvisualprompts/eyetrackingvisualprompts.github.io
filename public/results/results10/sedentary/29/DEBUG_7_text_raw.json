@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze cluster is tightly focused around the central code area with small horizontal and vertical shifts, similar to the INTERPRET example where participants inspect a short snippet and reason about its output, and unlike the broader navigations or larger excursions seen in tasks like BROWSE, WRITE, or DEBUG.",
+  "correct": false
+}

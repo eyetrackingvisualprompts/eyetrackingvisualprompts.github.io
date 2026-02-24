@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades to screen extremes and off-screen regions, revisits between disparate areas, and mixed vertical/horizontal scanning with irregular, non-linear patterns match exploratory web browsing behavior more than the more structured, line-based patterns of READ or the code-centered, denser central focus seen in DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

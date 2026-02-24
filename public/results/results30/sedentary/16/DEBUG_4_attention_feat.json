@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a tall, narrow strip on the left, spanning a large vertical range with several distinct clusters, resembling scanning through multiple lines of code spread over the editor\u2014this matches the DEBUG heatmap more than the other tasks.",
+  "correct": true
+}

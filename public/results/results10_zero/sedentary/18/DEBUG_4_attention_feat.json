@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a compact, horizontally elongated region near the upper-left of the screen, consistent with reading a small text block (e.g., a paragraph or column) rather than scanning a full page, tracking moving objects, or exploring multiple UI elements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows alternating periods of local vertical scanning around mid-screen (typical for reading snippets/results) interleaved with large saccades to widely separated vertical regions and occasional jumps toward screen edges, matching the mixed reading\u2013navigation pattern seen in the SEARCH examples rather than the more uniform lines (READ), focused upper area (WRITE), or highly erratic/game-like spread (PLAY).",
+  "correct": true
+}

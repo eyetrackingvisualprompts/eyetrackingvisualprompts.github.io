@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated, large-amplitude horizontal eye movements between two stable fixation clusters at the same vertical position, consistent with following a target moving horizontally back and forth, as in the Horizontal Saccades task.",
+  "correct": true
+}

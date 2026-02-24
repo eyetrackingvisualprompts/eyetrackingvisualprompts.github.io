@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated horizontally around the central region with some vertical spread, closely matching the PLAY example where gaze follows moving game elements near the screen center, unlike the more vertical scan patterns of READ or the dispersed patterns of BROWSE/WATCH.",
+  "correct": false
+}

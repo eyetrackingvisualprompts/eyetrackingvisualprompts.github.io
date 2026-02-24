@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades across both vertical and horizontal directions (shifts between mid, top, and bottom regions and across columns) interleaved with variable-duration fixations, resembling scanning a complex web page or search results rather than the more line-structured horizontal patterns of READ, the center-biased patterns of WATCH, or the more peripheral and HUD-focused behavior of PLAY. This pattern best matches the SEARCH examples given.",
+  "correct": false
+}

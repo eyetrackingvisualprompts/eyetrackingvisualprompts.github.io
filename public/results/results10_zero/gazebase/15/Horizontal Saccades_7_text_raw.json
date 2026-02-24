@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between about -15\u00b0 and +15\u00b0 horizontally with relatively small vertical deviation, showing large, regular horizontal saccades and plateaus near the extremes, matching the instructed Horizontal Saccades task rather than the more variable or centrally clustered patterns of the other activities.",
+  "correct": true
+}

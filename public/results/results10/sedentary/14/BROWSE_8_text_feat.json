@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades spanning wide screen regions (including extremes), frequent shifts between central and peripheral/lower areas, and irregular non-linear scanpaths match the dynamic, target-following and navigation behavior typical of gameplay rather than the more localized, structured patterns seen in reading, coding, or web browsing tasks.",
+  "correct": false
+}

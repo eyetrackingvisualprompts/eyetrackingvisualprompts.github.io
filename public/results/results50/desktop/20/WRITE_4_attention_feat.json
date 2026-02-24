@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small central-lower region, suggesting stable gaze on a single moving content area (e.g., video focal region) rather than horizontally distributed text (READ/WRITE) or more scattered exploratory patterns (SEARCH/BROWSE/PLAY).",
+  "correct": false
+}

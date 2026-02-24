@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with frequent medium- to long-range saccades, including large jumps between mid-upper and lower-left regions, suggesting scanning and shifting attention across disparate on-screen elements typical of web/news browsing rather than the more line-structured pattern of reading or the highly localized upper-area focus of writing.",
+  "correct": false
+}

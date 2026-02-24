@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are concentrated around a stable mid-screen code/IDE region with short, local saccades and repeated revisits to nearby coordinates, consistent with editing text/code lines rather than long horizontal reading (READ) or broader exploratory movements (BROWSE/SEARCH/WATCH/PLAY). The dense clusters around similar y-bands and intermittent vertical shifts match the WRITE examples\u2019 pattern of focusing on and revising code.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal, step-like fixations with gradual downward shifts in Y over time, consistent with line-by-line reading behavior rather than rapid object tracking, code scanning, or free browsing.",
+  "correct": false
+}

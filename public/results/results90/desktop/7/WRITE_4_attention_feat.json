@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a central band with moderate vertical spread and multiple localized clusters, indicating scanning of a webpage with mixed text and elements, which best matches the browsing pattern rather than the more linear READ or tightly central SEARCH examples.",
+  "correct": false
+}

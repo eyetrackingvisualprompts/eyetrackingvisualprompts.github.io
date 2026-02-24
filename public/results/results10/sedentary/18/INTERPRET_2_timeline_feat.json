@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate horizontal movements with occasional larger vertical transitions, indicating scanning between results and different screen areas, matching the SEARCH pattern more than the steadier READ or code-focused tasks.",
+  "correct": false
+}

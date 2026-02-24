@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays in a relatively narrow horizontal band around mid-height with sequential left\u2013right saccades and medium-length fixations, closely matching the line-by-line scanning pattern seen in the READ examples and differing from the more scattered, vertical, and hotspot-centered patterns of WATCH, BROWSE, SEARCH, or PLAY, and from the upper-screen focus of WRITE.",
+  "correct": false
+}

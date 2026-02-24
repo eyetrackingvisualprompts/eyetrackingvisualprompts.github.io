@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are highly concentrated in the left-central area where the code editor typically is, with minimal spread elsewhere, matching the WRITE example pattern more closely than other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread over a broad vertical range with a strong cluster on the right side, resembling attention to a search-results list and side panel rather than the more centered, continuous patterns of WATCH/PLAY or the left-concentrated code/text layouts of INTERPRET/DEBUG/READ/WRITE.",
+  "correct": false
+}

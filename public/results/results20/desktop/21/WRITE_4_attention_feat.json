@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a predominantly horizontal band at a relatively constant vertical position, characteristic of line-by-line scanning across text during reading, similar to the READ example and unlike the more centralized (SEARCH/BROWSE) or dispersed (WATCH/PLAY/WRITE) patterns.",
+  "correct": false
+}

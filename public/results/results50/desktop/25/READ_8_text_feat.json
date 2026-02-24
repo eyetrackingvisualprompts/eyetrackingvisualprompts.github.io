@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many medium/large saccades spanning both central and far peripheral regions, and repeated jumps between upper and lower parts of the screen, resemble the exploratory, non-linear scanning seen in the BROWSE example more than the more structured horizontal lines of READ or the tighter vertical banding of WRITE.",
+  "correct": false
+}

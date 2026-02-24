@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations form a compact cluster in the central-lower region with some small spread, resembling the browsing example heatmap more than the other activities, which show either horizontal reading lines, upper-screen writing focus, or more dispersed game/video patterns.",
+  "correct": false
+}

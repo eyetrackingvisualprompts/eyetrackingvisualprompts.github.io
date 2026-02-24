@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows several distinct horizontal position shifts with medium vertical excursions, indicating multiple regions visited on the page, and more scattered, less regular patterns than reading or interpreting code, matching free web browsing behavior.",
+  "correct": false
+}

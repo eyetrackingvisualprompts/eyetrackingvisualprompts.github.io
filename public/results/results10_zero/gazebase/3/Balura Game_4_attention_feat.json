@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the full vertical and horizontal extents with isolated clusters, not aligned in horizontal reading lines, not confined to a central point, and not predominantly horizontal; this broad, discrete distribution best matches tracking a randomly moving target rather than reading, video viewing, or structured horizontal saccades.",
+  "correct": false
+}

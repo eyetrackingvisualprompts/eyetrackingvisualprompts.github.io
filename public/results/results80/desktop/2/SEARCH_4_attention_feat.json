@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are densely clustered around the central region with limited horizontal spread, matching the browsing example heatmap more closely than the other activities, which show either more distributed movement (WATCH, PLAY, SEARCH) or strong horizontal lines (READ, WRITE).",
+  "correct": false
+}

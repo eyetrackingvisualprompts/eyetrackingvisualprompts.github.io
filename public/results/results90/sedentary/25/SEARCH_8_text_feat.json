@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including to screen extremes), frequent revisits to a mid\u2013lower vertical band, and dense, continuous fixations clustered around a horizontal strip are characteristic of tracking moving game elements rather than line-by-line text or code, structured search result scanning, or passive video watching. The pattern best matches the PLAY examples.",
+  "correct": false
+}

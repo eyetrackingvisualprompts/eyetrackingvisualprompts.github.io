@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze path shows long, smooth, predominantly horizontal movements with small vertical shifts, characteristic of line-by-line reading across the page, closely matching the READ example pattern.",
+  "correct": true
+}

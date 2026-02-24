@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the central area with scattered fixations and frequent medium-amplitude saccades, resembling the exploratory yet locally focused scanpath of the SEARCH example more than the more structured horizontal patterns of READ/WRITE or the multi-region movements of PLAY/BROWSE/WATCH.",
+  "correct": false
+}

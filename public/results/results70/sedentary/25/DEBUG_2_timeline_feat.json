@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a compact central area with relatively short, frequent fixations and moderate saccades, resembling focused inspection of a small block of code rather than extended scanning (SEARCH/BROWSE), line-by-line reading (READ), or highly dynamic tracking (PLAY/WATCH/DEBUG). This pattern best matches the INTERPRET example.",
+  "correct": false
+}

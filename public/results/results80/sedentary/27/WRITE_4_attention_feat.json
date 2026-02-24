@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are strongly concentrated in a single compact region on the left-center, corresponding to focused attention on a code editor, with a few scattered checks elsewhere\u2014this matches the WRITE heatmap more than the tighter INTERPRET cluster or the more dispersed DEBUG pattern.",
+  "correct": true
+}

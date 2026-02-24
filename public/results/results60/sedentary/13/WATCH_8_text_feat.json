@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The data shows large, rapid saccades across wide screen regions (including corners and edges), frequent revisits between distant locations, and many long saccades between central and peripheral areas\u2014patterns characteristic of visually tracking moving game elements rather than line-by-line reading, code inspection, or static content viewing.",
+  "correct": false
+}

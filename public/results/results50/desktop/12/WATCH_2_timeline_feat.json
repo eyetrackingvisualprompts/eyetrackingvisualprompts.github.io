@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows relatively stable horizontal fixation around mid\u2011screen with moderate vertical exploration that becomes higher in the latter half, resembling the SEARCH example where users scan results and then move upward/downward more broadly, rather than the more systematic line-by-line pattern of READ or the extreme motions seen in PLAY or WATCH.",
+  "correct": false
+}

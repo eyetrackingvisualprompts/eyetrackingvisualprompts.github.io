@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster on a main code area on the left with additional focused cluster on the right, indicating attention switching between code regions typical for debugging rather than the more linear patterns of reading/browsing or the broader spread seen in watching/playing.",
+  "correct": false
+}

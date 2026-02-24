@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the left-central region where code and editor UI typically reside, with dense fixations and frequent vertical shifts between nearby lines and interface elements, closely matching the WRITE example pattern rather than the more dual-cluster pattern of DEBUG or the broader movements of other tasks.",
+  "correct": true
+}

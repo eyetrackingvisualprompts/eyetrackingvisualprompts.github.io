@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent gaze shifts covering a wide vertical and horizontal extent, with dispersed fixations rather than tight clusters. This pattern of dynamic, multidirectional exploration best matches the PLAY condition, especially the game requiring navigation in all directions, rather than the more locally clustered patterns seen in READ, WRITE, SEARCH, BROWSE, or WATCH.",
+  "correct": false
+}

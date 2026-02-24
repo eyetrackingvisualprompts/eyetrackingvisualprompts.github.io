@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a tight cluster of fixations in a relatively narrow region with short, small-amplitude saccades and one notably long fixation (~1.9s), consistent with sustained attention to localized text rather than large exploratory or scene-scanning movements typical of SEARCH, BROWSE, WATCH, or PLAY. WRITE usually shows more shifts between text and editing areas, which are not evident here, making READ the most likely activity.",
+  "correct": false
+}

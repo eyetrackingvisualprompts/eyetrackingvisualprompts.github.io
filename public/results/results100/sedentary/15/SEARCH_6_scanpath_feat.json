@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple horizontal regions including the top (search/results area) and two main vertical clusters on left and right, with frequent transitions between them, resembling scanning search results and opening pages rather than the denser central focus of DEBUG/BROWSE or the structured lines of READ.",
+  "correct": true
+}

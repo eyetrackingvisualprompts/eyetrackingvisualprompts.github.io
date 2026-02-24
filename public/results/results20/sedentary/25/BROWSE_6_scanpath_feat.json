@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers a wide horizontal span with multiple clusters and revisits across upper and mid screen regions, including occasional moves near the top bar, resembling scanning of search results and linked pages rather than the more localized patterns of coding, reading, or gameplay.",
+  "correct": false
+}

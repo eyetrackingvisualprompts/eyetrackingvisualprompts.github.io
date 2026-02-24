@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in a mid-screen band with small incremental vertical shifts and many local fixations, consistent with scanning webpages or news sections. There are occasional larger jumps up/down that resemble scrolling transitions, but not the strong horizontal motion or edge-focused dispersion seen in PLAY, nor the denser, line-by-line horizontal structure typical of READ. The pattern best matches the BROWSE exemplar behavior.",
+  "correct": false
+}

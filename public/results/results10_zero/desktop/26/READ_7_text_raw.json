@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points show frequent medium-to-large saccades in both horizontal and vertical directions, including rapid jumps between central, upper, and lower screen regions and toward edges\u2014indicative of dynamic visual exploration. The pattern lacks the systematic horizontal line structure of reading or writing and the more localized clusters typical of watching video or casual browsing/search, aligning best with visually demanding game play (especially a game like Agario requiring scanning in all directions).",
+  "correct": false
+}

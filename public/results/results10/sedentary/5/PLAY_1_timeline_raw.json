@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y show relatively smooth, continuous movements with slow drifts and few abrupt returns, resembling tracking of dynamic visual content in the WATCH example more than the discrete line/region switches seen in code or reading tasks.",
+  "correct": false
+}

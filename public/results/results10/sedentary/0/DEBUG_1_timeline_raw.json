@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y positions show relatively smooth trajectories with slow drifts and occasional small saccades, lacking the structured horizontal scanning of reading/searching or the frequent large shifts of coding or gameplay. This pattern best matches sustained viewing of dynamic content, as in the WATCH condition.",
+  "correct": false
+}

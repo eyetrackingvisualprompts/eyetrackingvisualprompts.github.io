@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze moves primarily along the horizontal axis between distinct left/right positions (about \u00b17\u201312\u00b0) with relatively small vertical variation, forming clear periods of near-stationary fixation at each horizontal extreme followed by large horizontal jumps, which matches the controlled back\u2011and\u2011forth horizontal target motion rather than random, reading-like, or complex game/video patterns.",
+  "correct": false
+}

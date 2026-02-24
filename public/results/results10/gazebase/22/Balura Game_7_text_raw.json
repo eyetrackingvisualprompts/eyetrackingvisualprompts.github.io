@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze pattern shows large, irregular jumps in both horizontal and vertical directions to many disparate screen locations, with intermittent local fixations. This spatiotemporal structure matches the Random Saccades examples (target moving unpredictably across the screen) rather than the more regular back-and-forth of Horizontal Saccades, the near-static Fixations, or the denser, structured patterns of Reading, Video Viewing, or the Balura Game.",
+  "correct": false
+}

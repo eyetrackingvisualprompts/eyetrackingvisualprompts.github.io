@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several horizontal scanning segments with occasional larger jumps and vertical shifts, resembling reading through search results and intermittently shifting attention between snippets and other page elements, which matches the SEARCH pattern more than the steadier READ or code-focused tasks.",
+  "correct": false
+}

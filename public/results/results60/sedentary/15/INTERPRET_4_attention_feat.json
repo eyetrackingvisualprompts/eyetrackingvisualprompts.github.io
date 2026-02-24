@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered on a compact area in the left-central code region with minor nearby excursions, matching the focused inspection pattern seen in the DEBUG example more than the more horizontally spread WRITE or INTERPRET patterns.",
+  "correct": false
+}

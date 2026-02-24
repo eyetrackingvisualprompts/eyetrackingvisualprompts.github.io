@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the central region with frequent, multidirectional saccades and revisits, indicating scanning of varied elements (results, snippets, interface controls) rather than linear reading or focused writing/playing, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

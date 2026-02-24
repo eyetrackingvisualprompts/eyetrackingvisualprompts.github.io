@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered mid-screen with small horizontal/vertical shifts and intermittent medium jumps, resembling scanning of mixed text and elements rather than strict line-by-line reading or the larger, more dynamic movements seen in search, watch, or play. The spatial pattern and variability closely match the provided BROWSE example segment (similar x\u22480.45\u20130.55, y\u22480.35\u20130.65 behavior and saccade scale).",
+  "correct": false
+}

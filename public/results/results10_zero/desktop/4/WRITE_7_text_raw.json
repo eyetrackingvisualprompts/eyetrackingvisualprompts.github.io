@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains highly stable around the screen center with only small vertical drifts and no systematic horizontal scanning pattern. This sustained central fixation over time is most consistent with passively watching a video rather than reading (which shows line-by-line left\u2013right sweeps), writing (center-top with cursor tracking), browsing/searching (frequent larger saccades and shifts), or playing games (broader, more dynamic gaze shifts).",
+  "correct": false
+}

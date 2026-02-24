@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a mid-screen region typical of code in an IDE, with occasional long saccades to the top-right (menus/console) and lower area (perhaps terminal or other panel), matching the WRITE example more than other tasks.",
+  "correct": false
+}

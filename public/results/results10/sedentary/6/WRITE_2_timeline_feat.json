@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a narrow, low vertical band with slow rightward drift and minimal large saccades, closely matching the focused, line-by-line inspection pattern seen in the DEBUG example rather than the more extended horizontal sweeps of reading/browsing or the broader movements of watching/playing.",
+  "correct": false
+}

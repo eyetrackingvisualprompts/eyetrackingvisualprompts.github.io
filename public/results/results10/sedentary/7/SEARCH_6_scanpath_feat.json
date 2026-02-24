@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between a dense cluster on the left (likely code or text) and a separate region on the right (likely search results or another panel), with large transitions and scattered fixations similar to the SEARCH example rather than the more localized patterns of WRITE/INTERPRET/DEBUG or continuous motion of WATCH/PLAY.",
+  "correct": true
+}

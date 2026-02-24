@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly localized in a small region with short, repeated fixations and minimal horizontal progression, indicating sustained attention to a single compact area rather than line-by-line reading or scanning. This pattern best matches passively watching a video where the focal action is centered on one portion of the screen.",
+  "correct": false
+}

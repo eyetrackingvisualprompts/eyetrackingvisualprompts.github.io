@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze positions are mid-screen with moderate vertical variation and intermittent saccades, resembling the SEARCH pattern more than the denser central fixations of BROWSE or the tighter line-based movements of READ/WRITE. The trajectory closely matches the provided SEARCH example plot.",
+  "correct": false
+}

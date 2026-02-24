@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between a central content region and far top/bottom areas, including rapid long saccades across large screen regions and extended fixations over horizontally spread zones, consistent with scanning and scrolling web pages rather than the tighter code-centered patterns of WRITE/DEBUG/INTERPRET or the highly horizontal, line-by-line structure of READ.",
+  "correct": false
+}

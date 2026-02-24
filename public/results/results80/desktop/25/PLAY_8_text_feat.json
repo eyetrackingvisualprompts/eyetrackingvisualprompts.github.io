@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a relatively small lower-central/left area with many medium-length fixations and short, local saccades, consistent with monitoring typed text and UI elements while writing, rather than the more horizontal scanning of reading or the larger, multi-directional excursions of play, search, browse, or watch activities.",
+  "correct": false
+}

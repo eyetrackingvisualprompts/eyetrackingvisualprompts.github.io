@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change slowly with modest horizontal and vertical shifts, lacking systematic left-to-right line sweeps or vertical scanning typical of reading, browsing, or searching, and without rapid wide-range movements common in gameplay; this pattern best matches following dynamic visual content in a video-watching task.",
+  "correct": false
+}

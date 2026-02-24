@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact region on the left side of the screen with frequent small shifts and occasional vertical movements, consistent with focused attention on a small text/code area like an IDE editor during code writing rather than broader horizontal sweeps (reading/browsing) or large-area exploration (watch/search/play).",
+  "correct": false
+}

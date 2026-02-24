@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated on the upper-left region (likely search box and top results) with repeated returns there, interspersed with occasional long saccades to the right and lower areas (likely result pages), matching the SEARCH example pattern more than the other activities.",
+  "correct": false
+}

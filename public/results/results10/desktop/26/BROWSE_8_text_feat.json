@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze frequently jumps between upper text-like regions (y\u22480.8\u20131.0) and a mid/lower band (y\u22480.3\u20130.6), with repeated returns to a narrow vertical area on the left\u2014closely resembling the WRITE example\u2019s pattern of switching between typing line, previous text, and UI elements, rather than the more uniform scan patterns of READ/SEARCH or the more central, smoother distributions of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

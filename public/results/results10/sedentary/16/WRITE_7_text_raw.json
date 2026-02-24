@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze pattern shows frequent shifts between upper code area and lower regions consistent with editing/typing behavior, along with localized clusters around specific coordinates similar to the WRITE example, rather than the more linear reading or more dispersed browsing/searching patterns.",
+  "correct": true
+}

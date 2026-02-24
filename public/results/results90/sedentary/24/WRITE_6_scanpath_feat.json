@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on two horizontal regions: a dense cluster on the left resembling reading a list (search results) and another on the right, with repeated long saccades between them, matching scanning results and then moving to a selected page\u2014characteristic of the SEARCH task rather than continuous reading, coding, or video/game viewing.",
+  "correct": false
+}

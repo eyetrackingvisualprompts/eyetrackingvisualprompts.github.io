@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows multiple dispersed fixation clusters across the upper and central regions of the screen, with several vertical and horizontal transitions rather than a single concentrated reading or coding area. This distribution closely matches the SEARCH example heatmap, where users scan different parts of the search results page.",
+  "correct": true
+}

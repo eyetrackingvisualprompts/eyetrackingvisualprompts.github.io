@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length saccades between a small central content area and multiple top/side regions, with many short, scattered fixations and revisits, resemble scanning and re-orienting on a webpage more than structured line-by-line reading or code-focused tasks; dynamics and spatial spread align best with the provided BROWSE patterns.",
+  "correct": false
+}

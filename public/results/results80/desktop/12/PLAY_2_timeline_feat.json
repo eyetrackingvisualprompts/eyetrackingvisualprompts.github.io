@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The Y fixation values stay predominantly in the lower part of the screen with relatively smooth, slow changes, while X fixation drifts gradually with occasional saccades\u2014matching the stable central-lower gaze pattern typical of watching video content rather than the systematic line sweeps of reading or the more scattered movements of browsing, search, play, or writing.",
+  "correct": false
+}

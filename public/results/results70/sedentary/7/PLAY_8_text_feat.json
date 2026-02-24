@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts spanning wide screen regions (including corners and off-center areas), substantial vertical and diagonal movements, and oscillations between central play area and peripheral/high coordinates match the dynamic, spatially distributed gaze expected during game play rather than the more line- or code-structured patterns of reading, coding, or web tasks.",
+  "correct": true
+}

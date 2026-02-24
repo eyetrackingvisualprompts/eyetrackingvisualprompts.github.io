@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a compact code-like region with dense, short-amplitude horizontal and small-vertical shifts, plus repeated revisits around the same clusters (e.g., ~300\u2013450x, 380\u2013460y), resembling careful line-by-line inspection and re-checking typical of debugging rather than the more global scans of SEARCH/BROWSE or the structured long sweeps of READ.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band (mid\u2013upper X, low Y) with slow, gradual horizontal drift and small saccades, matching the stable, localized viewing of a text-entry area seen in the WRITE example rather than the broader, more exploratory patterns of READ, SEARCH, PLAY, WATCH, or BROWSE.",
+  "correct": false
+}

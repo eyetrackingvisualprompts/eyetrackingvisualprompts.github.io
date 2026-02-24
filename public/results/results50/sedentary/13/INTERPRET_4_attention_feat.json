@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered on the left side where code typically appears, with vertical spread over several lines and little attention elsewhere on the screen, closely matching the focused, localized viewing pattern seen in the DEBUG example rather than the more dispersed patterns of SEARCH/BROWSE or the narrower bands of READ/WRITE/INTERPRET.",
+  "correct": false
+}

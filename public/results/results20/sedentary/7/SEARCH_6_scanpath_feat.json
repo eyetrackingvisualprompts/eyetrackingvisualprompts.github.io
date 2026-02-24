@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows multiple spatially separated regions of attention (left, middle, far-right top) with frequent transitions, characteristic of examining search results and snippets rather than the more localized patterns of reading or coding tasks.",
+  "correct": true
+}

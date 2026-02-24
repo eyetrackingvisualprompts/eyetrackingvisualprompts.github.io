@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on upper-left and mid-top regions like reading search results, with several long saccades to the right side resembling occasional clicks on result items or navigation, matching the SEARCH example more than other tasks.",
+  "correct": true
+}

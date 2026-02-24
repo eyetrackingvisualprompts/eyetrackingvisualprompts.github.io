@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered in a compact region slightly above screen center, similar to focusing on a search result snippet area, and unlike the wider horizontal span of reading, the far upper-left focus of writing, or the more dispersed multi-region patterns of browsing, watching, or playing.",
+  "correct": false
+}

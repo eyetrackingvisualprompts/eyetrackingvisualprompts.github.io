@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a single compact region in the upper-left code area, with minimal dispersion elsewhere, matching the focused inspection pattern seen in the DEBUG example more than the broader distributions of WRITE or INTERPRET.",
+  "correct": false
+}

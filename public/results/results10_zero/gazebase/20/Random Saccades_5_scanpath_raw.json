@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular gaze jumps in both horizontal and vertical directions within a bounded central region, without the orderly left-to-right line structure of reading, the strict horizontal oscillation of horizontal saccades, or the widespread exploratory pattern typical of video viewing or game play. This pattern best matches following a target moving randomly across the screen, i.e., Random Saccades.",
+  "correct": true
+}

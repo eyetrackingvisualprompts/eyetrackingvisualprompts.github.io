@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are concentrated in a narrow horizontal band around mid-screen with small horizontal progressions and limited vertical movement, consistent with following a line of text while reading rather than the broader, more dispersed patterns typical of search, browsing, video watching, writing, or gaming.",
+  "correct": false
+}

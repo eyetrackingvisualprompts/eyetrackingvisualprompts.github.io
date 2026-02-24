@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely dispersed across both horizontal and vertical axes with numerous medium-length saccades and revisits to multiple regions, resembling the exploratory, multi-region viewing seen in browsing examples rather than the more localized patterns of reading, writing, or watching video.",
+  "correct": false
+}

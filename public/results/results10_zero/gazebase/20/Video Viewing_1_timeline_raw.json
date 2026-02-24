@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between multiple discrete, widely separated positions in both horizontal (up to ~10\u00b0) and vertical (down to ~-15\u00b0) directions, with roughly one-second plateaus at each location. This pattern of step-like 2D jumps with holds matches a participant following a randomly moving target rather than strictly horizontal saccades, static fixation, reading, game play, or natural video viewing.",
+  "correct": false
+}

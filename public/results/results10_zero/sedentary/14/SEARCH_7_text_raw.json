@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show rapid, multi-directional shifts across large screen areas, including abrupt jumps between distant regions and dense clusters around moving loci\u2014patterns characteristic of tracking dynamic game elements rather than the more structured, line-based or region-focused patterns seen in reading, coding, or web browsing tasks.",
+  "correct": false
+}

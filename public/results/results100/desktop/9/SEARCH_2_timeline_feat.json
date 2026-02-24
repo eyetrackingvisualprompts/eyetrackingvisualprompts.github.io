@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent, irregular shifts in both horizontal and vertical directions without strong horizontal reading patterns or stable regions typical of writing or watching video. This heterogeneous, exploratory scan behavior best matches the browsing activity, which involves scanning varied webpage layouts and content blocks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades spanning wide screen regions (center\u2013top\u2013bottom\u2013corners), many vertical excursions, and dispersed fixations without systematic line-by-line or code-structure scanning match the dynamic, scene-following pattern typical of video watching rather than reading, coding, or web search/browsing layouts.",
+  "correct": false
+}

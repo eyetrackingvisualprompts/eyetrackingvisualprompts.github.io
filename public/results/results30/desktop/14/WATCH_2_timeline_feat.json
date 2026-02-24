@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades cluster around central regions with moderate, irregular shifts in both X and Y, resembling the dispersed yet bounded scanning seen in the BROWSE example, rather than the stronger vertical shifts of READ/WRITE or the larger movements of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

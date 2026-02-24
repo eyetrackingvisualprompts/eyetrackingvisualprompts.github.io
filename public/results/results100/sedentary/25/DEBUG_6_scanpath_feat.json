@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a compact left-side region with frequent short saccades and some returns to upper and lower lines, closely matching the intensive, localized code-inspection pattern seen in the DEBUG example rather than the more dispersed or linear patterns of other tasks.",
+  "correct": true
+}

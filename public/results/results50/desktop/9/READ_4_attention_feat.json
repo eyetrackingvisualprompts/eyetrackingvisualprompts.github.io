@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form two vertically separated clusters around central x-values, resembling scanning between headline and content areas on a webpage, which matches the browsing heatmap more than the other task patterns.",
+  "correct": false
+}

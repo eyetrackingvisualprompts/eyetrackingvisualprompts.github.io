@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow horizontal band around y\u22480.3 with frequent short horizontal saccades and sustained fixations, matching line-by-line reading behavior rather than larger vertical or peripheral movements typical of search, browse, watch, play, or write tasks.",
+  "correct": false
+}

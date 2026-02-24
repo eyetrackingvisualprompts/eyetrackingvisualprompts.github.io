@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze points progress in a relatively narrow horizontal band with small, systematic left-to-right and line-to-line shifts, consistent with reading lines of text rather than scanning code (WRITE/DEBUG/INTERPRET) or large, erratic movements typical of browsing, searching, playing, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a compact horizontal band near the upper-left area, resembling line-by-line text reading with minimal vertical or global exploration, matching the READ pattern more than code- or game-related tasks.",
+  "correct": false
+}

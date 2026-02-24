@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely concentrated in a compact vertical band on the left-central area with some additional nearby clusters, matching the focused, localized inspection pattern seen in the DEBUG example more than the broader distributions of other tasks.",
+  "correct": false
+}

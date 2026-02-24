@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between two horizontal bands (likely results list and a specific result/content area) with some vertical transitions, matching the pattern of scanning search results and then inspecting a chosen snippet, similar to the SEARCH example and less dispersed than BROWSE or PLAY.",
+  "correct": false
+}

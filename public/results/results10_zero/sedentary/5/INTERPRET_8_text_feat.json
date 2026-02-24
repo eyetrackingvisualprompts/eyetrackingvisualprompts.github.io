@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Pattern shows repeated short saccades and medium-length fixations clustered along a narrow vertical band in the upper/middle-left area of the screen, consistent with line-by-line text reading or re-reading, rather than wide exploratory scanning (SEARCH/BROWSE), continuous tracking (WATCH/PLAY), or code-focused work patterns (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between two positions on the same horizontal line near mid-height of the screen, with large, consistent left-right saccades and no vertical displacement, matching the pattern of following a horizontally moving target.",
+  "correct": true
+}

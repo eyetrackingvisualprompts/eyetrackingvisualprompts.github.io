@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target data shows systematic, horizontal scan-like saccades with gradually shifting fixation positions and relatively stable vertical gaze, closely matching the structured line-by-line reading pattern seen in the READ example and differing from the more erratic, multidirectional patterns of browsing, searching, or playing games.",
+  "correct": true
+}

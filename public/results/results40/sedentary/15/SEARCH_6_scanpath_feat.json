@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on a central-left vertical region (search results list) with a strong horizontal line of fixations to the right (top result or answer panel), plus occasional excursions elsewhere\u2014closely matching the SEARCH example pattern rather than the more localized INTERPRET/DEBUG or uniform READ behavior.",
+  "correct": true
+}

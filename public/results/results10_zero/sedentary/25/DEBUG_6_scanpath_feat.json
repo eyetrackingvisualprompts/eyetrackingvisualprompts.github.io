@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a compact vertical band with small horizontal shifts and repeated fixations around mid-screen, consistent with line-by-line reading of text rather than wide explorations (SEARCH/BROWSE), dispersed scene viewing (WATCH/PLAY), or code editing behaviors (INTERPRET/DEBUG/WRITE).",
+  "correct": false
+}

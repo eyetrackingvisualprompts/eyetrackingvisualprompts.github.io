@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal band with limited vertical spread, consistent with line-by-line reading of text and unlike the broader, more scattered patterns seen in browsing, searching, or gameplay.",
+  "correct": false
+}

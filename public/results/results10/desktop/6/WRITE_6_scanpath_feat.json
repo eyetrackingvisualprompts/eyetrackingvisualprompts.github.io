@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are tightly clustered in a small central region with minimal horizontal sweep, indicating localized inspection of a small area (e.g., specific content block) rather than systematic line-by-line reading, wide exploratory search, gameplay, or writing patterns; this best matches the browsing example\u2019s compact fixation cluster.",
+  "correct": false
+}

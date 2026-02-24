@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations and saccades clustered around a central code-like area with frequent vertical jumps to near-top coordinates (line numbers or error locations) and back to mid-page, plus many revisits and short dwells, closely resemble the DEBUG examples\u2019 pattern of repeatedly checking and re-checking specific code lines rather than the more linear READ/BROWSE scans or the large-amplitude PLAY/WATCH movements.",
+  "correct": false
+}

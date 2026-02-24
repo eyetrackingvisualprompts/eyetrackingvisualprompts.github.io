@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band with one main cluster on the left/center and occasional long saccades to the right, matching alternating attention between code editor and a secondary area (e.g., console or reference) seen in WRITE examples, rather than the more scattered or structured patterns of other tasks.",
+  "correct": false
+}

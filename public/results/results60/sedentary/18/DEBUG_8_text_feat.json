@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a compact region typical of code editing (mid-screen horizontal band), with many short saccades and medium-length fixations repeatedly revisiting similar coordinates, plus occasional jumps to top-of-screen areas (likely function headers) and back. The pattern closely matches the structured, line-based, revisiting behavior in the WRITE examples rather than the broader scanning or dynamic object tracking seen in SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

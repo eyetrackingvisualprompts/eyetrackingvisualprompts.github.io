@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large, rapid shifts across wide screen areas, including edges and off-screen coordinates, with clusters around central and character-like regions rather than orderly line-by-line or code-structured scanning\u2014indicative of following dynamic visual content such as a video rather than reading, coding, or targeted search.",
+  "correct": false
+}

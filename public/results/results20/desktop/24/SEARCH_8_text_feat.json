@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades across wide screen areas (including extremes like y\u22480.04 to y\u22480.90, and big horizontal jumps), with relatively short fixations and no clear horizontal line-by-line pattern typical of reading or search results scanning. The dynamic, multidirectional movements and rapid relocations match the example PLAY patterns more than the more clustered, mid-screen fixations seen in BROWSE/SEARCH, the stable upper-region focus of WATCH, or the vertical text-band focus of WRITE/READ.",
+  "correct": false
+}

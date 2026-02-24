@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and edges) interleaved with shorter local adjustments, spanning both central and extreme coordinates, match the dynamic, multi-directional gaze behavior seen in the PLAY examples rather than the more constrained, line- or band-like patterns of reading, writing, browsing, or searching, or the relatively more clustered WATCH fixations.",
+  "correct": false
+}

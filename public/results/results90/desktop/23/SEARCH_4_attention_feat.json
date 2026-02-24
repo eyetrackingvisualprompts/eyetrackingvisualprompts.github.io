@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central region with a compact cluster similar to the BROWSE example, indicating focused attention on a central content area such as a webpage rather than the more vertically extended SEARCH or horizontally distributed READ/WRITE patterns.",
+  "correct": false
+}

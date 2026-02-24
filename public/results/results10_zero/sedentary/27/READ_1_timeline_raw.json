@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze stays within a relatively narrow vertical band with slow, smooth drifts in X and Y and no systematic left-to-right or line-by-line scanning, suggesting following visual content in a video rather than reading, coding, or active search/navigation tasks.",
+  "correct": false
+}

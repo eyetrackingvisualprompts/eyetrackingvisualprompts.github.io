@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact code-like area on the left, with repeated local fixations and occasional long saccades to the right (likely to run/inspect results), closely matching the provided DEBUG pattern and differing from the more dispersed patterns of browse/search/play/watch.",
+  "correct": true
+}

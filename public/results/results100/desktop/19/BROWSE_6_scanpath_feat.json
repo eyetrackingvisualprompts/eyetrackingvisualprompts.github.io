@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a compact, horizontally oriented cluster around the screen center with limited vertical range, resembling line-by-line fixation patterns typical of reading, and differing from the broader, more dispersed patterns of search, browse, play, watch, or write.",
+  "correct": false
+}

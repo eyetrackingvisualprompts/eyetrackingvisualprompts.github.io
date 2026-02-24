@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around the central area with moderate dispersion and no strong horizontal line or left-edge focus, matching the browsing example heatmap pattern more than the more linear READ/WRITE or edge-focused WATCH/PLAY patterns.",
+  "correct": false
+}

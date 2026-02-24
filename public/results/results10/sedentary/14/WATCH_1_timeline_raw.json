@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows rightward reading-like horizontal movements with several abrupt vertical shifts to new regions and transient spikes, closely matching the mixed reading-plus-UI navigation pattern seen in the SEARCH example rather than the more uniform reading (READ) or code-oriented tasks.",
+  "correct": false
+}

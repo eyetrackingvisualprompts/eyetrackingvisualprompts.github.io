@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a relatively small central region with continuous, smooth movements and no structured horizontal line-by-line or code-like scanning. The pattern suggests following changing visual content in one area, typical of watching a video rather than reading, coding, searching, or browsing, which usually show broader, more discrete fixations and saccades across the screen.",
+  "correct": false
+}

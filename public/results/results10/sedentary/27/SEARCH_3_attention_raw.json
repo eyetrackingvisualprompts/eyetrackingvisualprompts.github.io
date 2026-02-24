@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated on a few horizontally separated regions near the top, matching scanning between search box/results blocks rather than continuous lines of text (READ) or a single central area (WRITE/DEBUG).",
+  "correct": true
+}

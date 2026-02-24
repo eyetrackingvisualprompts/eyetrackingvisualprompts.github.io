@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are concentrated in two strong clusters on the left and right at similar vertical positions, with a smaller central cluster, indicating repeated large-amplitude horizontal shifts characteristic of the Horizontal Saccades task.",
+  "correct": true
+}

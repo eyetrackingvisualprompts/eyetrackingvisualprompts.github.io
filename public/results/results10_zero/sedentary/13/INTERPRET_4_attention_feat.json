@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small lower-left area with minimal horizontal or vertical scanning, indicating attention to a localized moving or salient region rather than line-by-line reading or code inspection, which aligns best with watching a video.",
+  "correct": false
+}

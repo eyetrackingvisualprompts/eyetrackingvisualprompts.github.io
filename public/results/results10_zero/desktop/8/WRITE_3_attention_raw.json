@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is highly concentrated in a small region slightly below screen center with minimal horizontal or vertical dispersion, indicating prolonged fixation on one compact area typical of watching a video (e.g., focusing on central characters), rather than the broader, scan-like patterns expected in reading, searching, browsing, writing, or playing games.",
+  "correct": false
+}

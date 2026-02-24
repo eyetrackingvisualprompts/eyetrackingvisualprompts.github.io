@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains concentrated around a compact code region with many short back-and-forth saccades and long revisits to nearly identical line/column positions, indicating repeated checking of specific statements rather than broad exploration (SEARCH/BROWSE) or horizontal text reading (READ). This localized, iterative inspection of a small snippet matches the INTERPRET task patterns more closely than WRITE/DEBUG, which show more frequent shifts between code and other UI elements.",
+  "correct": false
+}

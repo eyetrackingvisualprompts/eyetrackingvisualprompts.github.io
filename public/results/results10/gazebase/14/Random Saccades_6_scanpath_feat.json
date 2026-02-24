@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, irregular saccades in both horizontal and vertical directions among multiple scattered fixation clusters, resembling the more chaotic, task-driven search and re-fixation behavior seen in the Balura Game rather than the structured patterns of reading, horizontal/random saccades, or video viewing.",
+  "correct": false
+}

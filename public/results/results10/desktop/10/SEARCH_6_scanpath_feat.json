@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points form a compact cluster near screen center with small, multidirectional saccades, closely matching the BROWSE example pattern and differing from the more linear READ pattern or the wider movements in PLAY and SEARCH.",
+  "correct": false
+}

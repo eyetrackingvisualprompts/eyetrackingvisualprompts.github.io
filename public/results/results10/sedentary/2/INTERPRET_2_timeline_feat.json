@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze shows relatively localized horizontal movements with modest vertical shifts, similar to reading short code snippets and mentally simulating them, matching the INTERPRET example more than the more extensive scanning in SEARCH/BROWSE or the steadier patterns in WATCH/READ/WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The data show relatively large gaze shifts across wide screen regions, alternating with short stable clusters rather than systematic horizontal or vertical scanpaths. This pattern is more consistent with following dynamic visual content (video) than with line-by-line reading, focused writing, or targeted search/browsing, and lacks the rapid multi-directional movements typical of active gameplay. Hence, WATCH is most likely.",
+  "correct": false
+}

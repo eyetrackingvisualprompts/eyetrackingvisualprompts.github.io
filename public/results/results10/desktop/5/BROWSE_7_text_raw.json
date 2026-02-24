@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays in a mid-screen band with frequent small vertical shifts and occasional larger jumps, matching the scanning and scroll-following patterns seen in the BROWSE example, rather than the more uniform lines of READ or the more extreme, dynamic movements of PLAY or WATCH.",
+  "correct": true
+}

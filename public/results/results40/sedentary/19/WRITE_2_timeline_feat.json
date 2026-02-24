@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze transitions between two main vertical regions with moderate horizontal shifts and occasional larger saccades, resembling alternating attention between code and output/console, which matches the DEBUG pattern more than the relatively stable INTERPRET or more erratic SEARCH/BROWSE behaviors.",
+  "correct": false
+}

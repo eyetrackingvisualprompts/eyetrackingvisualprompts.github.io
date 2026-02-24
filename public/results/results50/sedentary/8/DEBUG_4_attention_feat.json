@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly concentrated on a left-side vertical code-like region with a secondary cluster slightly to its right, matching the focused, limited-area pattern seen in INTERPRET examples rather than the more distributed patterns of DEBUG or other tasks.",
+  "correct": false
+}

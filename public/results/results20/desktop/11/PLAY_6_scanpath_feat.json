@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, multi-directional saccades covering much of the screen with relatively few tightly clustered fixations, indicating dynamic gaze shifts typical of tracking game elements rather than the more localized, structured patterns seen in reading, browsing, or searching tasks.",
+  "correct": true
+}

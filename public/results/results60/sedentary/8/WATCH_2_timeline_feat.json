@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal and vertical movements with scattered saccades and no strong repetitive left-to-right line scanning pattern (READ) or stable code-line focus (INTERPRET/DEBUG/WRITE). The pattern resembles the example SEARCH plot, where attention alternates between result list items, query box, and different page regions during information seeking.",
+  "correct": false
+}

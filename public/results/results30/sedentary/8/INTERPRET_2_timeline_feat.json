@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement around a central band with frequent small saccades and occasional larger jumps, resembling scanning result snippets and shifting between query box, results, and possibly different result sections\u2014most similar to the SEARCH example pattern compared to the more structured READ/BROWSE or more dispersed PLAY/WATCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze moves predominantly left-to-right with relatively small vertical shifts between nearby horizontal bands, forming sequences of short horizontal saccades and intermediate fixations, which matches line-by-line reading patterns rather than large, symmetric horizontal sweeps or random 2D target jumps.",
+  "correct": true
+}

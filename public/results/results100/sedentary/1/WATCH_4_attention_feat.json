@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across mid-screen with several localized hotspots and notable movement between distinct regions, resembling scanning multiple webpage elements rather than focused code (INTERPRET/DEBUG/WRITE) or full-screen motion tracking (PLAY/WATCH). This pattern best matches the BROWSE example.",
+  "correct": false
+}

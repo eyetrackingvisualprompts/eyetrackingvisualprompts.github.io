@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows dense, rapid, multidirectional movements constrained to a relatively small central region, resembling the compact, highly dynamic gaze pattern seen in the PLAY example more than the broader exploratory paths of SEARCH/BROWSE or the horizontal structure of READ/WRITE/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a steady, monotonic drift in X with relatively stable Y, indicating systematic horizontal scanning across lines with minor vertical movement, matching the reading pattern rather than the more scattered or bi-directional movements seen in browsing, search, or games.",
+  "correct": true
+}

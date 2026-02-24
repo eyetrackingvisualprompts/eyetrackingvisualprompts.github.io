@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show long, stable horizontal bands with small fluctuations and occasional vertical shifts, consistent with reading lines of text and moving between sections, rather than the larger, multidirectional movements typical of search, browsing, video watching, gaming, or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in the central-upper area with moderate vertical spread and several focal points, resembling the SEARCH example where gaze alternates between query box, results titles, and snippets, rather than the more linear READ pattern or the tightly focused PLAY/WRITE clusters.",
+  "correct": false
+}

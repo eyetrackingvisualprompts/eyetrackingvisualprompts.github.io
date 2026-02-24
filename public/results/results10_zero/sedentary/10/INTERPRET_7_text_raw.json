@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates exhibit frequent medium-to-large saccades in multiple directions (both horizontally and vertically), with scattered fixations over broad regions of the screen rather than organized line-by-line patterns typical of reading or code-centric tasks. This multidirectional, dynamic pattern aligns best with visually tracking moving objects and navigating space, as in the described game-playing activities, rather than the more localized, structured gaze behavior expected in DEBUG, WRITE, INTERPRET, READ, SEARCH, BROWSE, or WATCH tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small IDE/code region with many medium-length fixations and short horizontal/vertical saccades, plus frequent revisits between a few nearby lines/areas and occasional jumps to UI-like extremes (including off-screen coordinates). This spatio-temporal pattern closely matches the WRITE examples and is less consistent with the broader scanning of SEARCH/BROWSE, the smooth, central shifts of WATCH/PLAY, or the more localized code-chunk inspection typical of INTERPRET/DEBUG.",
+  "correct": false
+}

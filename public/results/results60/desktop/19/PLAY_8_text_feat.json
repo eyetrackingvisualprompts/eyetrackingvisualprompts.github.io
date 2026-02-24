@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with frequent medium-amplitude vertical shifts between content regions and occasional larger jumps, matching the heterogeneous, scroll-and-skim pattern seen in the BROWSE examples more than the more line-structured READ or highly peripheral/search-targeted SEARCH patterns.",
+  "correct": false
+}

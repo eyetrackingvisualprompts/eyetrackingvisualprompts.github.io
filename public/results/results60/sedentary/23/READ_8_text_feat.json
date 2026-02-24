@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses smoothly in long, predominantly horizontal sweeps at several vertically separated bands (around y\u2248370\u2013880), with sustained fixations (~0.4\u20130.8s) and short intra-line saccades, consistent with line-by-line reading or scrolling text. There are no large erratic jumps or object-following patterns typical of PLAY, nor the broader spatial exploration seen in BROWSE/SEARCH/WATCH; the pattern best matches the structured horizontal scanpaths of READ.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in smooth, mostly horizontal scanpaths with short saccades and medium-to-long fixations across a narrow vertical band, repeatedly sweeping left-to-right at several heights (y\u2248150, 210, 220, 300\u2013330, 380\u2013450, 480\u2013550). This pattern closely matches sustained line-by-line reading of text, similar in coordinates and timing to the READ examples, and unlike the more dispersed or task-switching patterns seen in coding, browsing, search, or dynamic game/video viewing.",
+  "correct": true
+}

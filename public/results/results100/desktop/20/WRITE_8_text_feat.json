@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across wide screen regions (including extreme corners and beyond-normalized bounds), with clustered fixations around dynamic upper areas and irregular scanning, resemble game tracking demands rather than structured text or web layouts seen in READ/WRITE/BROWSE/SEARCH. The pattern best matches PLAY behavior.",
+  "correct": false
+}

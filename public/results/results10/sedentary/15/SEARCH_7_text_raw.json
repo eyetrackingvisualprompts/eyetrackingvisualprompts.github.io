@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large spatial jumps across wide screen areas (far right code/IDE region, then down to lower central and left regions, then back to upper/central), with varied vertical scanning and multiple dispersed clusters, matching heterogeneous webpage browsing rather than the more line-structured patterns of READ/WRITE/INTERPRET/DEBUG or the object-following patterns of PLAY/WATCH.",
+  "correct": false
+}

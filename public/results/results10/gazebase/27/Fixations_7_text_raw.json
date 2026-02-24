@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze coordinates show continuous, irregular scanning with many small drifts and local fixations, no strong left\u2011to\u2011right line structure of reading, no strictly horizontal two-position pattern of horizontal saccades, and no large, jumpy \u00b115\u00b0 target steps of random saccades. The pattern resembles natural exploratory viewing typical of watching a dynamic scene such as a video.",
+  "correct": false
+}

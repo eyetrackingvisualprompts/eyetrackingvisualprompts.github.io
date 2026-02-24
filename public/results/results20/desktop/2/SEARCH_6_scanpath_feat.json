@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central region with short saccades and no strong horizontal reading lines or large exploratory sweeps, matching the localized, mildly exploratory pattern seen in the BROWSE example rather than structured READ/WRITE or highly dynamic WATCH/PLAY behaviors.",
+  "correct": false
+}

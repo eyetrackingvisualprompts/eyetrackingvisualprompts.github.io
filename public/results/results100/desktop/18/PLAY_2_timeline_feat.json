@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-amplitude saccades with substantial vertical shifts between distinct horizontal bands and intermittent scanning resemble alternating focus between search results, input box, and linked pages, matching the SEARCH pattern more closely than the steadier READ/WRITE or more extreme PLAY/WATCH traces.",
+  "correct": false
+}

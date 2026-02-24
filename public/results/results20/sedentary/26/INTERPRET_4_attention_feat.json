@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are tightly clustered in a compact region on the left side of the screen with minimal spread, matching the focused, localized gaze pattern seen in the DEBUG example rather than the more distributed patterns of other tasks.",
+  "correct": false
+}

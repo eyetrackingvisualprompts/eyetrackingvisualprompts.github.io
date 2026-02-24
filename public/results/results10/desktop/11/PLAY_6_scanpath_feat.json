@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are spread across a mid-screen vertical region with multiple clustered fixations and moderate saccades between nearby areas, reflecting examination of several elements such as search results and snippets rather than the more linear pattern of reading or the tight area of writing; this best matches the SEARCH behavior among the examples.",
+  "correct": false
+}

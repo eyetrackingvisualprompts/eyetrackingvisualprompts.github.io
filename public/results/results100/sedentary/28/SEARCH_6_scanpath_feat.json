@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-side code/editor area with repeated vertical checks and horizontal sweeps across several lines, plus intermittent long saccades to the right (likely console/output), matching the structured yet exploratory pattern typical of debugging rather than the more chaotic WATCH/PLAY or the more localized WRITE/INTERPRET behaviors.",
+  "correct": false
+}

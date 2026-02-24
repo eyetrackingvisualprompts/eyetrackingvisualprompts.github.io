@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered in a small central region with short, repetitive movements and no clear horizontal line sweeps typical of reading or browsing. This localized, jittery pattern is consistent with focusing on a small area such as the text cursor and nearby words while typing in a word processor, matching the WRITE activity.",
+  "correct": false
+}

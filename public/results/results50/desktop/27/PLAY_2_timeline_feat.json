@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations fluctuate around mid-screen with frequent medium-sized saccades and no strong horizontal reading pattern or stable upper/lower fixation band, resembling the mixed scanning behavior seen in the BROWSE example rather than structured READ/WRITE or the more polarized WATCH/PLAY layouts.",
+  "correct": false
+}

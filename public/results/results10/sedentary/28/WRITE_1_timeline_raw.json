@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze stays near a central region with small horizontal motion and several sharp vertical spikes, closely matching the INTERPRET example pattern where attention is mostly fixed on code with occasional large vertical saccades, unlike the broader movements seen in browsing, reading, or playing.",
+  "correct": false
+}

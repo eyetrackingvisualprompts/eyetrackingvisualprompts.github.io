@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points show discrete jumps between well-separated positions scattered across both horizontal and vertical dimensions, with no strict left\u2013right pattern (ruling out horizontal saccades) and no tight clustering at the center (ruling out fixations). The pattern reflects following a target that appears at various screen locations, consistent with Random Saccades rather than structured reading, continuous video viewing, or game-specific re-fixations.",
+  "correct": true
+}

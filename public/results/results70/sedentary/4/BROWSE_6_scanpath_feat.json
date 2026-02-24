@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a narrow left-central region typical of code in an IDE, with dense local fixations and frequent short vertical and horizontal saccades plus some occasional long jumps\u2014pattern most similar to the DEBUG example among the provided classes.",
+  "correct": false
+}

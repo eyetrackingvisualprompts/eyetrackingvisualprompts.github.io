@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium/long saccades across varied screen regions (including large vertical jumps to top/bottom and back), with many short- to mid-length fixations and no stable horizontal line-sweep pattern. This heterogeneous, exploratory scan path over mixed vertical positions matches the browsing example more than the more line-structured READ, the localized WRITE, the highly dynamic PLAY, or the more centrally clustered WATCH/SEARCH patterns.",
+  "correct": false
+}

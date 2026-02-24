@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Large, rapid shifts across wide screen regions (including off-screen coordinates), long saccades lasting over a second, and broad coverage from corners to center match dynamic visual following in video watching more than the more structured, line-based or code-block-based patterns of reading, writing, debugging, or interpreting code.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically and horizontally around mid-screen with several clusters, indicating scanning across results and elements rather than the tight horizontal band of reading or the single focus area of writing/playing; this spatial distribution best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

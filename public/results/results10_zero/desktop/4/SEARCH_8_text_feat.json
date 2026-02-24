@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in the upper-central band of the screen with medium-length fixations and frequent medium-to-long oblique saccades, suggesting following dynamic visual elements (e.g., characters, subtitles region) rather than systematic horizontal line scanning of text (READ/WRITE) or frequent edge-directed shifts typical for SEARCH/BROWSE interfaces or highly dispersed movements common in PLAY.",
+  "correct": false
+}

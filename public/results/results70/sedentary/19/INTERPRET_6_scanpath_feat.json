@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively compact area on the left side of the screen with dense, repeated fixations and short saccades, similar to the DEBUG example and characteristic of scrutinizing and revisiting code segments rather than the more localized writing (WRITE) or single-block reasoning (INTERPRET).",
+  "correct": false
+}

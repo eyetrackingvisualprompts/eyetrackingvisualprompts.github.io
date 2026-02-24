@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a relatively narrow central-left region with dense, repeated fixations and limited excursions, matching code-reading/interpretation behavior rather than broader exploration (SEARCH/BROWSE/WATCH/PLAY) or text-like line scanning (READ); this pattern most closely resembles the INTERPRET example.",
+  "correct": false
+}

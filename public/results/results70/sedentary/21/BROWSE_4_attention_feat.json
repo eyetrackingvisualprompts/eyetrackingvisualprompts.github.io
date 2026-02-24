@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are arranged in multiple horizontal bands with systematic left-to-right sweeps and vertical shifts, characteristic of line-by-line reading, and closely resemble the READ example heatmap more than the other task patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between discrete, widely spaced fixation positions in both X and Y, each held roughly around one second before jumping to a new location, matching the pattern of following a randomly moving target rather than continuous horizontal motion, central fixation, or reading/game-like behavior.",
+  "correct": false
+}

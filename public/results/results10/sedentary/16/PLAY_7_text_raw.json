@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large spatial shifts across wide screen regions, including upper and lower areas, with smooth, extended trajectories and cluster transitions rather than tight, line-based fixations typical of reading or code tasks. This broad, dynamic viewing pattern best matches watching a full-screen video rather than text- or search-oriented activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to one narrow horizontal band near the bottom of the screen, with left-to-right saccades and short regressions typical of reading a single line or two of text, rather than the broader spatial exploration seen in browsing, searching, playing, or watching video.",
+  "correct": true
+}

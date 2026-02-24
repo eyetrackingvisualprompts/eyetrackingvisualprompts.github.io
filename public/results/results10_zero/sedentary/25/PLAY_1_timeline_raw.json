@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show very smooth, gradual drifts in both X and Y with no rapid back-and-forth horizontal sweeps typical of reading or code tasks, and no abrupt, frequent saccades characteristic of game play or active search; this stable, continuous tracking pattern best matches passively WATCHing a video.",
+  "correct": false
+}

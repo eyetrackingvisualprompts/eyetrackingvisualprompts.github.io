@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain relatively central with smooth, continuous small-amplitude drifts in both X and Y, lacking the systematic left-to-right line sweeps of reading, the focused central fixation of writing, or the larger, more erratic shifts typical of active search, browsing, or game play\u2014patterns most consistent with passively watching a video on the screen.",
+  "correct": false
+}

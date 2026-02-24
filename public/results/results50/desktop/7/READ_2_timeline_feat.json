@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is predominantly in the upper half of the screen with relatively high and stable Y fixation values and moderate horizontal movements, matching the pattern of focusing on the text area while occasionally shifting horizontally and vertically as in the WRITE example more than the other activities.",
+  "correct": false
+}

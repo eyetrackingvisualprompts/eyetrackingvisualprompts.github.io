@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Early fixations appear in the upper-left (likely reading the problem statement or template), then most gaze concentrates in a dense band over a limited central area, consistent with focused attention on a code editor while typing, matching the WRITE pattern more than the other activities.",
+  "correct": false
+}

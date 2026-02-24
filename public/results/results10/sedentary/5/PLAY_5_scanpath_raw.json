@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shifts between multiple screen regions with broad horizontal movements and repeated returns to a central area, resembling the complex, distributed scanpath seen in the DEBUG example rather than the more localized or linear patterns of READ/INTERPRET or the smoother focus of WATCH/PLAY.",
+  "correct": false
+}

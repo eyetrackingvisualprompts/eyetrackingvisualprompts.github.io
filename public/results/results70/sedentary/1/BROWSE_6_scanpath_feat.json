@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are widely distributed across the entire screen with frequent large saccades in all directions and no line-by-line horizontal pattern, consistent with tracking moving objects or navigating in a game rather than reading or code-focused tasks.",
+  "correct": false
+}

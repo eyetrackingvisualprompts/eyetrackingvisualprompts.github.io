@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions vary smoothly around central screen regions without clear line-by-line horizontal scanning or structured revisits typical of reading, coding, or web search. The continuous, moderately shifting focus with occasional vertical shifts matches watching a full-screen video more than interactive or text-focused tasks.",
+  "correct": false
+}

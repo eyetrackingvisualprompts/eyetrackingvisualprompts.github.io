@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is clustered around a relatively stable horizontal band with moderate saccades and limited systematic vertical scanning or line-by-line reading. This pattern aligns best with passively following dynamic on-screen content as in the WATCH condition, rather than structured code/text tasks or highly exploratory browsing/searching/gameplay.",
+  "correct": false
+}

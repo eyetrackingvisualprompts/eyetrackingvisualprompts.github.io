@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points cover wide screen areas with frequent large saccades between distant regions (center, upper, lower, corners) and irregular, non-linear trajectories, indicative of tracking moving objects and rapid visual shifts typical in gameplay rather than the more structured, line-based patterns of reading, writing, or code-related tasks.",
+  "correct": false
+}

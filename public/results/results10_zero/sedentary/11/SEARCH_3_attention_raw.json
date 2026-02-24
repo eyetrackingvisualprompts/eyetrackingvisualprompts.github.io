@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a dominant horizontal band of fixations around mid-screen, consistent with sustained line-by-line reading behavior, with a few brief excursions elsewhere, rather than the more scattered or object-following patterns typical of play, watch, browse, search, or coding-related tasks.",
+  "correct": false
+}

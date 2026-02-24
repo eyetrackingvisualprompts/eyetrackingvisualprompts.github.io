@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is tightly clustered in a small region on the left side with minimal dispersion, suggesting prolonged fixation on a relatively static area typical of watching a full-screen video rather than scanning text/code or interacting with dynamic game or search/browsing elements.",
+  "correct": false
+}

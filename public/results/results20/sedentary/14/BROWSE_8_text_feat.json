@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including to extreme corners and off-screen coordinates), with brief fixations and repeated returns to central/interaction areas, match the dynamic, global scanning behavior typical of game play rather than the more line- or block-structured patterns of reading, coding, or web browsing.",
+  "correct": false
+}

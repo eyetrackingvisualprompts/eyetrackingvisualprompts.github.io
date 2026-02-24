@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small region near the lower-left area of the screen, similar to the example WRITE heatmap where gaze is concentrated around the text-entry area in a word processor, unlike the more distributed patterns seen in reading, browsing, or searching.",
+  "correct": false
+}

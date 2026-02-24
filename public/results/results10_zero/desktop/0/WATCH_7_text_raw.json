@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are mostly clustered in horizontal bands with small, regular saccades and stable fixations around mid-screen, occasionally shifting to nearby bands\u2014consistent with line-by-line reading rather than the larger, multi-directional shifts typical of PLAY, SEARCH, or WATCH, or the wider vertical excursions and cursor following often seen in BROWSE/WRITE.",
+  "correct": false
+}

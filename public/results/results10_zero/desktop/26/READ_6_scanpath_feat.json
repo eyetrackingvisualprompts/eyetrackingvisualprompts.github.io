@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points remain tightly clustered in a small central region with minimal horizontal or vertical movement over the full 10-second window, consistent with passively watching a video where attention is focused on a small area of the screen, rather than the systematic horizontal sweeps of reading, extensive navigation of search/browse, or wide-range movements common in playing games or writing.",
+  "correct": false
+}

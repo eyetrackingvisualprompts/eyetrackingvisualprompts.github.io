@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, long-duration saccades across wide screen areas, with relatively short fixations and frequent directional changes, consistent with following or anticipating moving game elements rather than line-by-line reading or code inspection patterns seen in READ/WRITE/DEBUG/INTERPRET, or the more clustered, segment-based scanning typical of SEARCH/BROWSE, and unlike the more continuous, smoother tracking common in WATCH tasks.",
+  "correct": false
+}

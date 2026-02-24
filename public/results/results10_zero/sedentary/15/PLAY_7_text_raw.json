@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points move rapidly and broadly across the screen in both axes, with many short, dispersed fixations and large saccades rather than stable horizontal reading lines or focused code/IDE regions. The pattern suggests continuous tracking and navigation across wide areas, consistent with visually following or controlling game elements rather than reading, writing, or debugging text/code or passively watching video.",
+  "correct": true
+}

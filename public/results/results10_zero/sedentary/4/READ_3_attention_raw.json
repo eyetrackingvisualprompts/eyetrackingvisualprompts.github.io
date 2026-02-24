@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a few vertically distributed, relatively large fixation clusters without the systematic horizontal scanpaths typical of reading or code-related tasks. The concentrated attention near the top center and occasional shifts downward are consistent with following dynamic content in a video rather than line-by-line text or interactive search/browsing/game behavior.",
+  "correct": false
+}

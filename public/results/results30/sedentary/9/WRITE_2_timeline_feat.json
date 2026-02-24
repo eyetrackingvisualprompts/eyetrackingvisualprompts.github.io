@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal, line-like fixations with small, regular saccades and very limited vertical range, closely matching the structured left-to-right scan pattern characteristic of reading text rather than the larger, more erratic movements seen in browsing, search, or interactive tasks.",
+  "correct": false
+}

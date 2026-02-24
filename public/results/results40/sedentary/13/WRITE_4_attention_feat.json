@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in two separate regions in the upper-left portion of the screen, consistent with scanning search engine results (query box/first results) rather than the continuous central band of READ or the single code block focus of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

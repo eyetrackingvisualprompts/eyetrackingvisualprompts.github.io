@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered near the screen center with limited vertical span, similar to the BROWSE example\u2019s compact central hotspot and unlike the more elongated horizontal patterns of READ/WRITE or dispersed patterns of PLAY/SEARCH/WATCH.",
+  "correct": false
+}

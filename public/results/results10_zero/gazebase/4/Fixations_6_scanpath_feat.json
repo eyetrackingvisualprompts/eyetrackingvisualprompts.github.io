@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points remain tightly clustered around a single central location with minimal movement over the full 10 s, consistent with maintaining fixation on a static central target rather than scanning text, tracking moving targets, or exploring dynamic scenes.",
+  "correct": true
+}

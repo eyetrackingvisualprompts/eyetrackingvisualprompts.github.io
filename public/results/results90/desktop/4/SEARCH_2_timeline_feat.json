@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster near screen center with frequent, irregular saccades in both axes and no strong monotonic vertical scan, matching the dynamic yet center-focused pattern typical of browsing heterogeneous webpages rather than structured reading, writing, or game-like tracking.",
+  "correct": false
+}

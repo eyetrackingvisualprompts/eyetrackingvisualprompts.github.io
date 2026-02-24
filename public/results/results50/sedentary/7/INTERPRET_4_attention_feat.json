@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a strong, tight fixation cluster over a single code region on the left side, with few scattered looks elsewhere\u2014matching the INTERPRET example more closely than WRITE or DEBUG, which show broader spread and tool/console checks.",
+  "correct": true
+}

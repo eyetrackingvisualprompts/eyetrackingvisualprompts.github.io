@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a narrow, mostly horizontal band around mid\u2011screen with many long, stable fixations and small local shifts, indicating line-by-line viewing of static text rather than large exploratory movements (BROWSE/SEARCH), dynamic multi-directional shifts (PLAY/WATCH), or repeated returns to a central writing area (WRITE).",
+  "correct": false
+}

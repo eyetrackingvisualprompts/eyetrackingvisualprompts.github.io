@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Predominantly horizontal gaze around mid-screen (y\u22480.33\u20130.6) with many short, contiguous fixations and small progressive saccades, plus occasional larger horizontal jumps, closely matches the structured scanpath patterns of reading rather than the more scattered vertical/higher movements seen in browsing/search or the upper-screen focus in watch/play/write examples.",
+  "correct": false
+}

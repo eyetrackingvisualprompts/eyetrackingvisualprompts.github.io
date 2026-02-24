@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-scale vertical shifts between bands (likely scrolling) with moderate horizontal movement and intermittent larger jumps resemble the browsing example pattern more than the steadier READ/WRITE traces or the more erratic PLAY/WATCH traces.",
+  "correct": false
+}

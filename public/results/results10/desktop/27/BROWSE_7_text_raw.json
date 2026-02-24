@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent large jumps between widely separated regions (e.g., from central-upper to lower-left and near-corner areas), repeated excursions to screen edges, and irregular, multi-directional movements rather than the more stable horizontal bands typical of READ/WRITE or the relatively constrained patterns in BROWSE/SEARCH. This pattern is most consistent with visually tracking a game character and stimuli moving around the screen in all directions, matching the PLAY activity.",
+  "correct": false
+}

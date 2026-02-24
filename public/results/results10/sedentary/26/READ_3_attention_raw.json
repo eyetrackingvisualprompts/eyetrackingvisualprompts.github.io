@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is distributed in a single horizontal band across the upper-middle of the lower screen area, indicating scanning across one line of content such as search results, closely matching the SEARCH example\u2019s lateral sweep pattern more than the more localized or multi-region patterns of other tasks.",
+  "correct": false
+}

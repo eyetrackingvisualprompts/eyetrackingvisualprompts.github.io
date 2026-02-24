@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze repeatedly jumps between widely separated positions across the screen (large horizontal and vertical shifts of ~30\u201340 deg) and then stabilizes around local clusters for about a second, matching the pattern of following a moving target that steps to new discrete locations, as in the Random Saccades task, rather than the more continuous, structured, or content-driven patterns seen in reading, video viewing, the game, or pure horizontal saccades.",
+  "correct": false
+}

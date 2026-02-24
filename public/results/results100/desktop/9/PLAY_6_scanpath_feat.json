@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around a central region with moderate dispersion and short saccades, resembling the compact central search-result area in the SEARCH example more than the horizontal band of READ or the upper-screen patterns of WATCH/WRITE/PLAY/BROWSE.",
+  "correct": false
+}

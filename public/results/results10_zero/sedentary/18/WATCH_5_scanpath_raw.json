@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a central vertical region consistent with a narrow code editor column, with frequent short saccades and revisits indicative of editing/typing rather than longer systematic reading or free browsing; the pattern matches focused code-writing behavior.",
+  "correct": false
+}

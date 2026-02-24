@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is clustered tightly around code-like regions with short, repeated saccades over the same lines and columns, plus occasional larger vertical shifts and off-screen excursions typical of scrolling, compiling, and checking outputs during debugging rather than the more linear progression seen in reading or the wide-range movements seen in play, watch, or browse.",
+  "correct": false
+}

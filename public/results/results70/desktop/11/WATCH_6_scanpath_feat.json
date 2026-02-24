@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered in a central area with frequent medium-range saccades between nearby regions, indicating switching between result snippets and related elements, which aligns best with the SEARCH pattern compared to the more linear READ or highly dispersed PLAY/BROWSE patterns.",
+  "correct": false
+}

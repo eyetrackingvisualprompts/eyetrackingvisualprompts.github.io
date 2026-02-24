@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely spread across the screen with long saccades in many directions and no stable reading block or code-area clustering, matching the dynamic, multi-directional scanpath pattern typical of playing a game rather than reading, coding, or browsing tasks.",
+  "correct": false
+}

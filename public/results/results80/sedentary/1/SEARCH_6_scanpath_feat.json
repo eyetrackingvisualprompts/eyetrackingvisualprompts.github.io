@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers multiple vertical regions from top (likely search bar/results header) down through mid and lower page with many transitions between columns, resembling exploration of search results rather than focused reading or code-centered tasks.",
+  "correct": true
+}

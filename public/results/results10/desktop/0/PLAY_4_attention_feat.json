@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal band near the lower part of the screen, similar to the WRITE example where gaze is focused around the text cursor line in a word processor rather than mid/upper screen areas typical of reading, browsing, or search pages.",
+  "correct": false
+}

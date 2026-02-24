@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay around the screen center with moderate, frequent small shifts in both X and Y, resembling the relatively constrained but continuously wandering pattern seen in the BROWSE example, unlike the more linear reading or the stronger directional movements of search, play, or writing.",
+  "correct": true
+}

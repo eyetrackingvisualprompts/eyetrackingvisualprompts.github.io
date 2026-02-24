@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent long-range saccades between a narrow code/text region on the left and a specific area on the right, with many revisits and local adjustments around mid-line coordinates, match the pattern of editing and verifying code seen in WRITE more than in other tasks such as READ (more linear), PLAY/WATCH (wider, object/scene-driven), or SEARCH/BROWSE (more vertical/top-bottom navigation).",
+  "correct": true
+}

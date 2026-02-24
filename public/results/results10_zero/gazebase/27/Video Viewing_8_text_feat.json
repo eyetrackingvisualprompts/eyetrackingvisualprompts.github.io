@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shifts are large in both horizontal and vertical directions, with irregular, non-linear trajectories and no clear left-to-right line structure typical of reading or localized clustering typical of fixations or game targeting. This broad, multi-directional movement pattern best matches following a randomly moving target in the Random Saccades task rather than constrained horizontal saccades or naturalistic video viewing.",
+  "correct": false
+}

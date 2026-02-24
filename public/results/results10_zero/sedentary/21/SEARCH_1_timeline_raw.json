@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains mostly in a few broad screen regions with slow drifts and brief transitions rather than systematic line-by-line or code-structured scanning; the pattern fits passively following central visual content as in video watching more than structured reading, debugging, coding, or active web search/browsing.",
+  "correct": false
+}

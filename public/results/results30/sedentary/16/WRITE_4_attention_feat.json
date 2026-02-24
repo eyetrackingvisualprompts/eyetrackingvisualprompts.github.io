@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated on a mid-left vertical region (likely search results text) with additional clusters higher on the page and a distinct cluster on the right side (possible related panel or result), matching the dispersed yet text-focused pattern of SEARCH rather than the more localized coding (INTERPRET/WRITE) or broader motion-focused tasks (PLAY/WATCH).",
+  "correct": false
+}

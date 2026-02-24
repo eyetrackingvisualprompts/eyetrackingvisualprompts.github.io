@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large saccades and shifts across both axes, with periods at different vertical bands and revisits, indicating scanning multiple regions (e.g., results, snippets, other pages) rather than orderly lines (READ) or more stationary coding views (WRITE/DEBUG/INTERPRET). This exploratory, multi-area pattern best matches SEARCH behavior.",
+  "correct": false
+}

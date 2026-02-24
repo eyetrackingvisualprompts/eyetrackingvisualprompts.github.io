@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays mostly within a horizontal band around y\u2248280\u2013320, making sequential left-to-right and right-to-left passes similar to reading scan lines, then moves to a higher region (y\u224880\u2013160) with long fixations and small corrective saccades\u2014consistent with scanning search results/snippets and then focusing on elements near the top of the page (query box, top results or tabs), matching the SEARCH exemplar more than other tasks.",
+  "correct": true
+}

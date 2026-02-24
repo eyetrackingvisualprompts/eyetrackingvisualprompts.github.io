@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Almost the entire 10s window is spent in a few long, stable fixations (several seconds at nearly the same coordinates) with only brief saccades between them, matching a static central-target fixation paradigm rather than continuous tracking or reading-like scanning patterns.",
+  "correct": true
+}

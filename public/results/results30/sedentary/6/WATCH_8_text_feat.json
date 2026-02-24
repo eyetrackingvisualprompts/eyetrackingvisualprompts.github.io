@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Wide, rapid gaze jumps across large screen regions (including off-center and near-border coordinates), frequent long saccades between distant points, and relatively short/medium fixations with revisits to dynamic central areas resemble tracking moving game elements rather than the more line-structured patterns of reading/searching or the localized code-focused patterns of programming tasks.",
+  "correct": false
+}

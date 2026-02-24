@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The data shows frequent medium-to-large saccades with gaze distributed across a broad vertical and horizontal range, without the strong left-to-right reading sweeps of READ or the tight, code-line-focused bands of WRITE/DEBUG/INTERPRET. This wide, dynamic scanning pattern best matches the WATCH (video viewing) activity.",
+  "correct": false
+}

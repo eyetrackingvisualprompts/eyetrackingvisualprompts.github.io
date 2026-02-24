@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a relatively small code-like region with dense, non-linear fixations and frequent vertical movements, closely matching the DEBUG example pattern more than the more compact INTERPRET or WRITE patterns.",
+  "correct": false
+}

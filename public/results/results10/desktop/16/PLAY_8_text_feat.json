@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze begins with medium-height, localized fixations, then shows several rapid, larger-amplitude saccades between widely separated vertical positions (mid-screen to near top and bottom regions), consistent with scanning SERP elements, results, and possibly jumping between query box, results list, and other UI areas\u2014patterns that closely match the example SEARCH data and are less stationary than READ or BROWSE, and less constrained than WATCH or WRITE.",
+  "correct": false
+}

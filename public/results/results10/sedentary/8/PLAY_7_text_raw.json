@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long stable clusters with smooth shifts across large screen regions, including extended periods in central and upper areas and then drifting to corners, matching passive following of dynamic visual content in a video rather than the tighter line-based patterns of reading/searching or the localized code/IDE focus of programming tasks.",
+  "correct": false
+}

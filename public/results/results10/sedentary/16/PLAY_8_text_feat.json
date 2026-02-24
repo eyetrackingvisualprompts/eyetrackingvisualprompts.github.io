@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows medium-length fixations interleaved with large, multidirectional saccades across a wide screen area (including far-right regions up to x\u22481580), without the systematic horizontal line-by-line structure of reading or the tight vertical code-panel focus of programming tasks. The pattern matches following changing visual content over the screen, which is most consistent with the WATCH video condition among the given classes.",
+  "correct": false
+}

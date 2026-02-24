@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form tight horizontal clusters around a few y-levels (\u2248320\u2013350, 480\u2013520, 580\u2013620), with small left\u2013right progressions and occasional short vertical jumps between nearby bands, characteristic of reading lines of text or code rather than the larger spatial excursions seen in search, browse, or game/watch tasks.",
+  "correct": false
+}

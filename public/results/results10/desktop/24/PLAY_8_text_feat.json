@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows medium-length fixations with frequent multidirectional saccades across a mid-screen region, including several vertical and diagonal shifts without the systematic horizontal progression typical of reading, the stable top/bottom focus of writing, or the large, prolonged peripheral shifts often seen in video watching or dynamic gameplay. This heterogeneous, exploratory pattern best matches web browsing behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze positions stay in a relatively narrow central band with moderate horizontal movement and low vertical range, closely matching the INTERPRET example where participants inspect a compact code snippet rather than scanning long text (READ) or widely exploring the screen (BROWSE/SEARCH).",
+  "correct": false
+}

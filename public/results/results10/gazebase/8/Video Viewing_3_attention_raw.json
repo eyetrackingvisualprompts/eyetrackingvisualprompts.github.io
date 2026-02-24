@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are dispersed broadly across the screen without forming horizontal text-like lines, and they span a wide 2D area rather than mainly horizontal or central regions, matching the random target jumps of the Random Saccades task.",
+  "correct": false
+}

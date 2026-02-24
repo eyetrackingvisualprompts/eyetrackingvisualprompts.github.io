@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The X position shows sequential, staircase-like rightward movements with occasional regressions, while Y drifts slowly downward over time without large step changes, closely matching the pattern of line-by-line reading rather than discrete target jumps or free-viewing variability.",
+  "correct": true
+}

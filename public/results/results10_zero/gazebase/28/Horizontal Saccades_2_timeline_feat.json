@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between approximately +15 and -15 degrees in the horizontal (X) direction with near-zero vertical (Y) movement, forming regular 1-second plateaus at each position, which matches the structured left-right tracking of the Horizontal Saccades task.",
+  "correct": true
+}

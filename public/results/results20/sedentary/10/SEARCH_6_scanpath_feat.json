@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers multiple distinct vertical regions including a low horizontal band and scattered fixations across the screen, indicating exploration of varied web content rather than focused code, reading lines, or tracking a single moving object, which aligns best with browsing behavior.",
+  "correct": false
+}

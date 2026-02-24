@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show predominantly stable horizontal movements with small vertical shifts and long fixations in a mid-screen band, consistent with line-by-line reading rather than the broader, more erratic scanning seen in search, browsing, or gameplay, and with more structured patterns than watching video or composing text.",
+  "correct": false
+}

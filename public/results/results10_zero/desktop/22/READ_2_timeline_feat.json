@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays around mid-screen with small, gradual horizontal shifts and very limited vertical movement, suggesting following central visual content without line-by-line reading or large exploratory scans, which best matches watching a video rather than reading, browsing, searching, writing, or gaming.",
+  "correct": false
+}

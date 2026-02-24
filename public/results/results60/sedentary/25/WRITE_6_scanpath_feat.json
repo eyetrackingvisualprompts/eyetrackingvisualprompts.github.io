@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a code-like area at the left with occasional long saccades to a few specific points on the right and bottom (likely console/output or other interface regions), matching the pattern of debugging where users alternate between code and execution results, similar to the DEBUG example.",
+  "correct": false
+}

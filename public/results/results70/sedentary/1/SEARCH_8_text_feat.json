@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long-range saccades between top search bar/upper content and lower page regions, scanning of result-like horizontal text bands, and repeated revisits to different vertical positions resemble the exploratory, scroll-and-scan behavior seen in the SEARCH examples more than the more linear READ pattern or highly dynamic PLAY/WATCH trajectories.",
+  "correct": true
+}

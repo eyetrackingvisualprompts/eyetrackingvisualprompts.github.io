@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on the left-central code area with several nearby clusters and some scattered fixations elsewhere, matching the more distributed yet code-focused pattern seen in the DEBUG example rather than the tighter INTERPRET/WRITE clusters or broader BROWSE/SEARCH patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-amplitude horizontal movements with frequent shifts in vertical position and irregular saccades, suggesting navigation across multiple regions (e.g., results list, snippets, possible clicks) rather than the more linear patterns of READ or the focused code-oriented patterns of DEBUG/WRITE. This best matches the SEARCH behavior.",
+  "correct": false
+}

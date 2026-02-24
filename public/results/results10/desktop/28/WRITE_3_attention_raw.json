@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across the screen with multiple clusters at varying horizontal and vertical positions, indicating frequent, multidirectional shifts typical of tracking dynamic game elements rather than the more linear, banded patterns of reading/browsing or the concentrated areas of writing/searching/watching.",
+  "correct": false
+}

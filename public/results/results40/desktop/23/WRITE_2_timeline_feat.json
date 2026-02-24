@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze remains within a relatively narrow horizontal band with slowly drifting X fixations and low, steady Y positions, matching the constrained text-line and toolbar region typical of writing in a word processor, and differing from the more central, wider-ranging movements seen in browse/search/read/watch/play tasks.",
+  "correct": true
+}

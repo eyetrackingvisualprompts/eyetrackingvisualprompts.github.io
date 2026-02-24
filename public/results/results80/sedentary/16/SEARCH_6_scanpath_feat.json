@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left and central regions with substantial vertical movement between upper and mid screen, resembling transitions between search box, result list, and possibly a clicked page, matching the SEARCH example more than the other tasks.",
+  "correct": true
+}

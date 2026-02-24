@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, frequent jumps across wide screen areas including off-content coordinates, interspersed with shorter reading-like sweeps and revisits\u2014indicative of heterogeneous webpage navigation and scanning rather than focused code work, continuous text reading, stable video watching, or tight game-object following, matching the BROWSE pattern best.",
+  "correct": false
+}

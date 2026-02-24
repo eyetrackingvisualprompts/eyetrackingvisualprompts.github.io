@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on the left code area but spans a larger vertical range and shows more back-and-forth transitions than INTERPRET or WRITE, indicating frequent checking between lines and regions typical of debugging activity.",
+  "correct": false
+}

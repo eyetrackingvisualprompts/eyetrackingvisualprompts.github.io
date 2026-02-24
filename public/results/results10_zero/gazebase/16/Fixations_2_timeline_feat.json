@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains essentially at a constant central position with minimal movement in both X and Y over the full 10 s window, matching a sustained central fixation task rather than saccadic or exploratory behavior.",
+  "correct": true
+}

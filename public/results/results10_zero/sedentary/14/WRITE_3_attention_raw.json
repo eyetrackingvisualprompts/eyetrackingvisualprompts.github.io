@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The heatmap shows a few tight, spatially separated fixation clusters with large regions of unused screen space and no systematic horizontal or vertical reading pattern, consistent with following or monitoring moving game elements rather than scanning text or code or passively watching a full-screen video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze jumps between discrete positions scattered over both horizontal and vertical extents, with relatively straight saccade paths and brief clusters at each location, consistent with following a randomly moving target that holds each position for about one second rather than smooth reading, pure horizontal motion, or central fixation.",
+  "correct": false
+}

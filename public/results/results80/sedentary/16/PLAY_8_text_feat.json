@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a compact code-like region with many medium-to-long fixations, short horizontal/diagonal saccades, and repeated revisits within roughly the same block\u2014strongly matching INTERPRET examples and lacking the broader vertical scanning or navigation seen in DEBUG, WRITE, or SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows smooth, gradual shifts in horizontal position with relatively stable vertical position and few sharp jumps, resembling passive following of onscreen motion rather than line-by-line reading or code-focused tasks; this pattern best matches the WATCH example.",
+  "correct": false
+}

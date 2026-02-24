@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left-central area where code typically appears, with frequent vertical moves between top and mid lines and occasional longer saccades to the right\u2014similar to the DEBUG example and more scattered and revisiting than the more localized WRITE/INTERPRET patterns.",
+  "correct": false
+}

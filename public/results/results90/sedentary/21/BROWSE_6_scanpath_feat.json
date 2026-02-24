@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-side code/editor area with repeated fixations and short saccades, plus frequent long horizontal jumps to the far right consistent with looking at console/output or error messages\u2014matching the debug pattern more than the steadier write or tightly clustered interpret behaviors.",
+  "correct": false
+}

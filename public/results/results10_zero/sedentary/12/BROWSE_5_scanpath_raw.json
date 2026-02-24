@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, continuous diagonal movements across substantial screen regions with fewer, shorter fixations, characteristic of following or controlling moving objects in a game rather than line-by-line or segment-wise reading/searching patterns typical of textual or code-based tasks.",
+  "correct": false
+}

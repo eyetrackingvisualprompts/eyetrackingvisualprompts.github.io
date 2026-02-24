@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze is clustered around a central region with several nearby fixation hotspots and moderate dispersion, matching the localized yet dynamic viewing pattern seen in the Video Viewing example rather than the more structured (reading, horizontal) or widely scattered (random, game) tasks.",
+  "correct": true
+}

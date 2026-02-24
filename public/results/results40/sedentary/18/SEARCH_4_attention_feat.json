@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely distributed across the screen, with no strong concentration in text-like horizontal bands or code areas, and include fixations in upper and lower regions consistent with following visual content in a full-screen video, matching the WATCH pattern.",
+  "correct": false
+}

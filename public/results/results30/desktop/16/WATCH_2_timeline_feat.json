@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively stable horizontal fixations with small, gradual shifts and limited large saccades, closely matching the pattern of the READ example rather than the more dynamic or exploratory behaviors seen in BROWSE, SEARCH, PLAY, or WATCH.",
+  "correct": false
+}

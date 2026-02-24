@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal scanning with gradual vertical shifts and moderate saccades, closely matching the reading example pattern of line-by-line text navigation rather than the more scattered or extreme movements seen in browsing, searching, gaming, or watching.",
+  "correct": true
+}

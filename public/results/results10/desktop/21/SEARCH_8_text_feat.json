@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements around mid-screen y-levels with medium-to-long fixations and occasional larger vertical saccades, closely matching the structured line-by-line reading pattern seen in the READ example rather than the more dispersed, exploratory patterns of SEARCH/BROWSE or the more static patterns of WATCH/WRITE/PLAY.",
+  "correct": false
+}

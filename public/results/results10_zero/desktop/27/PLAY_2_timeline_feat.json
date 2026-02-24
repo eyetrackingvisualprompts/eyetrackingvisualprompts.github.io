@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show small, regular horizontal shifts with relatively stable vertical positions, indicating line-by-line reading behavior rather than large exploratory movements typical of search, browse, or play tasks, nor the broader vertical shifts expected in writing or watching video.",
+  "correct": false
+}

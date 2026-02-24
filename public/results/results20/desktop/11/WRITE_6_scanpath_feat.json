@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around mid-screen with several vertical and diagonal transitions between nearby regions, resembling movement between search box, results list, and snippets; this pattern matches the SEARCH example more closely than the other activities.",
+  "correct": false
+}

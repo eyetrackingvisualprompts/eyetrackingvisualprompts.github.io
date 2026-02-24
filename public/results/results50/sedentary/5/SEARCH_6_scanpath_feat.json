@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in horizontal bands near the top of the screen with frequent jumps between regions, resembling reading and scanning of search results rather than dense local code inspection or continuous central watching; the pattern matches the SEARCH example most closely.",
+  "correct": true
+}

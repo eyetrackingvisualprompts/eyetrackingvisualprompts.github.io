@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen X positions with moderate horizontal exploration and more varied vertical movements than typical reading, along with intermittent larger saccades suggesting scanning result pages and different regions of a search interface, matching the SEARCH pattern more than the steadier READ or more dispersed BROWSE profiles.",
+  "correct": true
+}

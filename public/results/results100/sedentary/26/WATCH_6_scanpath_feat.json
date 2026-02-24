@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are distributed widely across the horizontal axis with frequent, rapid shifts tracking moving elements, similar to the PLAY example and less clustered than coding or reading tasks.",
+  "correct": false
+}

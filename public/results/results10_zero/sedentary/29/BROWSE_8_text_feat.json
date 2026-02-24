@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows sequences of horizontal fixations and saccades within a narrow vertical band, with occasional larger horizontal sweeps and regressions\u2014typical of line-by-line text reading rather than dynamic object tracking (PLAY/WATCH) or scattered, exploratory scanning (SEARCH/BROWSE). The stable, moderately long fixations and orderly left\u2013right/right\u2013left shifts are more consistent with sustained reading than with code-focused tasks (WRITE/DEBUG/INTERPRET), which usually show more localized back-and-forth within code blocks and along vertical structure boundaries.",
+  "correct": false
+}

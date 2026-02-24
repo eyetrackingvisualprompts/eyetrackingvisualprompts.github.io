@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively narrow vertical range with gradual horizontal progression and short saccades, closely matching the stable, line-by-line pattern seen in the READ example rather than the more scattered or extreme movements of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across a central region with frequent saccades in multiple directions and no strict horizontal reading lines, resembling the exploration and mixed reading-scanning pattern seen in the SEARCH example more than the other activities.",
+  "correct": false
+}

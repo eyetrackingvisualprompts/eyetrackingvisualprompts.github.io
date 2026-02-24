@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly stable with minimal horizontal or vertical shifts and almost no rapid saccades, indicating continuous attention to a central area of the screen rather than line-by-line reading or scanning; this pattern best matches watching a video.",
+  "correct": false
+}

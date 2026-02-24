@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered in a mid-screen region with moderate dispersion and multidirectional saccades, resembling mixed reading and interface inspection typical of search engine result pages rather than the linear patterns of READ or the peripheral focus of WRITE/PLAY/WATCH.",
+  "correct": false
+}

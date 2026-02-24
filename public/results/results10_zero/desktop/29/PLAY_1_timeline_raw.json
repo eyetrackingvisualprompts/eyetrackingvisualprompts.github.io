@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions remain relatively confined with small horizontal drift and limited large saccades, indicating line-by-line scanning of static content rather than rapid, wide movements typical of browsing, searching, or gaming; this stable, focused pattern best matches reading behavior.",
+  "correct": false
+}

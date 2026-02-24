@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades covering a broad vertical and horizontal area, with dispersed fixations rather than concentrated lines or clusters typical of reading, writing, or static browsing. This wide, dynamic viewing pattern best matches the visual exploration required during gameplay.",
+  "correct": false
+}

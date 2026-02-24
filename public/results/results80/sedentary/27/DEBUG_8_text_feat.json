@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around code-like regions with many back-and-forth, short-range saccades within a compact area, frequent re-fixations, and occasional jumps to other screen regions, matching the detailed inspection and verification patterns seen in the DEBUG examples more than the other tasks.",
+  "correct": true
+}

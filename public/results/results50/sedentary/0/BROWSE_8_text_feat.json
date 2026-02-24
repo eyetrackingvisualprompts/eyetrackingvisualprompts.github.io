@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-screen horizontal sweeps at different vertical bands and large jumps to far off-screen coordinates, indicative of scanning various webpage regions, address/tab areas, and possibly other windows. The pattern is less structured and line-regular than READ, less focal and code-block-centered than INTERPRET/DEBUG/WRITE, and lacks the smooth object-following or tight AOI tracking typical of PLAY or WATCH, fitting free web browsing behavior.",
+  "correct": true
+}

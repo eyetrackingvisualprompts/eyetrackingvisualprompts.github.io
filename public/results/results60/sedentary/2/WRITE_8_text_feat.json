@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Frequent medium-duration fixations clustered around a relatively small code region with many short, local saccades and occasional long jumps (including to top-of-screen coordinates) match the introspective, back-and-forth inspection pattern seen in INTERPRET, rather than the more extensive scrolling/linear scan of SEARCH/BROWSE or the broader distributed gaze of DEBUG/WRITE.",
+  "correct": false
+}

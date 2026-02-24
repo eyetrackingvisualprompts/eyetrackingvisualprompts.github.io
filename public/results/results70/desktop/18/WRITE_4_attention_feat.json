@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered in a compact region near the upper-central area, similar to the BROWSE example\u2019s localized attention on a small content area, unlike the more horizontally extended patterns of READ/WRITE or the dispersed patterns of PLAY/SEARCH/WATCH.",
+  "correct": false
+}

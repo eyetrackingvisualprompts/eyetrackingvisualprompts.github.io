@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated horizontal sweeps with occasional larger jumps and moderate vertical drift, resembling line-by-line reading interspersed with bigger navigation movements typical of scrolling and skimming across different web pages, matching the BROWSE pattern more than the more regular READ or the more localized coding tasks.",
+  "correct": false
+}

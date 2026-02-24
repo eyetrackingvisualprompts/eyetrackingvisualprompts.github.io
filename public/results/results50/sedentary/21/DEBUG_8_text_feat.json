@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Long dwell times with many medium-sized saccades clustered around code-like vertical regions, frequent revisits between upper and lower screen areas, and substantial back-and-forth inspection of a limited set of locations match the detailed scrutiny and verification behavior typical for debugging rather than the more linear (READ/WRITE/INTERPRET) or more dispersed (SEARCH/BROWSE/PLAY/WATCH) patterns.",
+  "correct": true
+}

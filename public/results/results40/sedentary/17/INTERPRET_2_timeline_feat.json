@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a relatively narrow band with modest horizontal and vertical movement and occasional checks elsewhere, closely matching the WRITE example pattern where attention centers on the code editor with brief glances to other UI elements, unlike the broader scans of DEBUG/SEARCH or systematic sweeps of READ.",
+  "correct": false
+}

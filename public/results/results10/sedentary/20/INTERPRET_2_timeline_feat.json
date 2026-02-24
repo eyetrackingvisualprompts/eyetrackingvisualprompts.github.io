@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows moderate, structured horizontal movements with noticeable but not extreme vertical shifts, resembling focused inspection of code lines rather than broad page exploration (SEARCH/BROWSE) or large-screen viewing (WATCH/PLAY). The pattern closely matches the INTERPRET example, with similar variability in both X and Y fixations while remaining largely within a confined region, consistent with reading and mentally simulating code rather than editing (WRITE) or intensive back-and-forth scanning (DEBUG).",
+  "correct": true
+}

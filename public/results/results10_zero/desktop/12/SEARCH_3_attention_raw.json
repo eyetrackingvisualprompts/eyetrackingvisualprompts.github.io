@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a tight cluster of fixations around the screen center with very limited horizontal or vertical spread, suggesting the participant is steadily looking at a central region (e.g., video content) rather than scanning lines of text (READ/WRITE) or exploring/searching across the screen (BROWSE/SEARCH/PLAY). This stable, centrally focused gaze pattern is most consistent with WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around screen center-upper region with moderate, multidirectional saccades (including vertical transitions between ~0.25\u20130.6) and medium-length fixations, resembling scanning mixed text/graphics rather than line-by-line reading or extreme, rapid shifts typical of gaming or video watching. This spatial and temporal pattern best matches the provided BROWSE examples.",
+  "correct": false
+}

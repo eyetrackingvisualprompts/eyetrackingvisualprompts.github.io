@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions hover around mid-screen with modest horizontal and vertical shifts and frequent but not extreme saccades, closely resembling the browsing example pattern and less structured than reading or writing, and less dynamic than play or search.",
+  "correct": false
+}

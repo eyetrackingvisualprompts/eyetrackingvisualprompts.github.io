@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extremes), many fixations clustered around mid\u2011vertical game-like area (~y=550\u2013700), and recurrent sweeps between central and peripheral locations resemble tracking dynamic objects or HUD elements in a game more than the line-based, text-oriented or code-editing patterns of READ/WRITE/DEBUG/INTERPRET or the scanning patterns of SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

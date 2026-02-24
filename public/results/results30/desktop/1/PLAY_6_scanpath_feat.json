@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely scattered over a central-right region with frequent saccades and varied fixation positions, resembling the heterogeneous, exploratory pattern of browsing web pages rather than the more constrained patterns of reading, writing, watching, or structured search results scanning.",
+  "correct": false
+}

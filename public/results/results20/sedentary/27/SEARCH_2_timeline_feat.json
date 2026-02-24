@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal movements with occasional larger shifts in both X and Y, including a notable mid-sequence jump and later upward drift, consistent with scanning search results and shifting between results and answer content rather than the more regular line-by-line pattern of reading or the more scattered patterns of play or browse.",
+  "correct": true
+}

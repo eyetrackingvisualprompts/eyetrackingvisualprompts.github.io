@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a narrow horizontal band in the upper quarter of the screen with small back\u2011and\u2011forth movements, consistent with reading and scanning a search results page (titles, snippets, query box) rather than full-page reading or code on an IDE. The pattern and coordinates closely resemble the provided SEARCH example segment in spatial distribution and saccade amplitude.",
+  "correct": false
+}

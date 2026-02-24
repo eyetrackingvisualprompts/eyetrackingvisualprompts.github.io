@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid\u2013upper screen with many medium-long fixations and frequent vertical shifts between ~0.2\u20130.45 y, consistent with scanning mixed text/graphics (news/blog pages). The pattern lacks the tight horizontal line sweeps of READ and the more central, less vertically variable behavior of WATCH, and shows broader exploratory movements than WRITE\u2019s localized upper-area focus.",
+  "correct": true
+}

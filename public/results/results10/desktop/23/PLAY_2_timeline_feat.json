@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze Y-position is very stable and high for the first half, then drops sharply and gradually increases again with few horizontal shifts, resembling a passive following of vertically moving content as in video watching, and differing from the more systematic horizontal scanning or frequent directional shifts seen in reading, browsing, searching, playing, or writing.",
+  "correct": false
+}

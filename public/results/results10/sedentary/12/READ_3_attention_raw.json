@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is distributed horizontally across the central band of the screen with smooth coverage and no strong vertical reading patterns or narrow code-focused clusters, matching the WATCH example heatmap of following dynamic content in a video.",
+  "correct": false
+}

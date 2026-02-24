@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered around a narrow left-side area (code editor) with repeated long saccades to a smaller right-side cluster (console/output or reference), closely matching the WRITE example pattern and distinct from other activities.",
+  "correct": true
+}

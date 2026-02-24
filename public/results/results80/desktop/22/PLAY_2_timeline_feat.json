@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay near the screen center with relatively small vertical range and frequent, short saccades, closely matching the browsing example pattern rather than the more vertically extensive movements seen in reading, writing, or search tasks.",
+  "correct": false
+}

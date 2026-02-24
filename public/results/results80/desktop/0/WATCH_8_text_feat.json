@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large vertical saccades between low (y\u22480.2\u20130.3) and mid/high (y\u22480.5\u20130.7) regions, with many brief fixations and revisits to the central area resemble scanning SERP and scrolling through web content more than the more stable line-based patterns of READ or the highly top-focused patterns of WRITE; dynamics differ from the peripheral-heavy, clustered WATCH and PLAY examples, and browsing example shows denser, more local scanning than this broader, search-like exploration.",
+  "correct": false
+}

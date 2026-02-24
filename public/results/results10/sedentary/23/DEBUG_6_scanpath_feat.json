@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated over a compact code-like area on the left with slightly broader vertical spread and back-and-forth transitions between nearby lines, closely matching the DEBUG example pattern more than the tighter INTERPRET cluster or other activities.",
+  "correct": true
+}

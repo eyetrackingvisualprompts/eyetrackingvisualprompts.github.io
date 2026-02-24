@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "After initial large saccades across the screen (likely between code and console), gaze settles into a tight cluster around a mid-lower left region with many short, repeated fixations and small corrective saccades\u2014matching the sustained, localized inspection pattern seen in the WRITE examples near the editor/cursor area, rather than the broader scanning of BROWSE/SEARCH or the line-structured patterns of READ/INTERPRET/DEBUG.",
+  "correct": false
+}

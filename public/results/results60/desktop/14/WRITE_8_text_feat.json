@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is almost entirely stable around a single upper-central screen location with very long fixations (often >2 s) and only tiny corrective saccades, indicating passive viewing of a persistent on-screen element rather than scanning, reading lines, typing, or tracking fast-moving game objects. This sustained, low-exploration pattern best matches the WATCH (video viewing) activity among the provided classes.",
+  "correct": false
+}

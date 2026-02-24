@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze path is predominantly horizontal across a narrow vertical band, with repeated left-right movements between two horizontal positions, matching the pattern of following a target in horizontal saccades rather than the more scattered or localized patterns of the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent mid-screen fixations with intermittent larger saccades and vertical shifts, indicating alternating between reading content and moving to new regions (e.g., search results and query box), matching the SEARCH pattern more than the steadier READ or more chaotic BROWSE/PLAY behaviors.",
+  "correct": false
+}

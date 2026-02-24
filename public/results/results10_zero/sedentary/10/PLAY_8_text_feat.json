@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively long, stable fixations (0.3\u20131.3s) with short saccades within a confined mid-screen region, consistent with sustained reading or text inspection rather than rapid, wide movements typical of gaming, browsing, or searching, and without the frequent code-region switching often seen in DEBUG/WRITE/INTERPRET tasks.",
+  "correct": false
+}

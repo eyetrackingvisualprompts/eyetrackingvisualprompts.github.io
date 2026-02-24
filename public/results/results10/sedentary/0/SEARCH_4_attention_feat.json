@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal band in the upper-left/center, consistent with focusing on a code editor line area, and closely resemble the WRITE example heatmap more than the other activities.",
+  "correct": false
+}

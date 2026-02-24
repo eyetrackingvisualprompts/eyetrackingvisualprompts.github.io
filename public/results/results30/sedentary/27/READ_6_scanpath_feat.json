@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form several dense, nearly horizontal bands with small vertical shifts, indicating line-by-line reading over a confined text area, matching the READ pattern more than the other activities.",
+  "correct": true
+}

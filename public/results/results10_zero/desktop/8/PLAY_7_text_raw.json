@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show long, stable fixations in a narrow horizontal band with slow, small vertical shifts, consistent with line-by-line reading on a static text layout rather than the larger, more dispersed or dynamic gaze shifts expected in search, browsing, gaming, video watching, or writing tasks.",
+  "correct": false
+}

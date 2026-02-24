@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple horizontal bands across a wide area with scattered fixations and saccades between upper and lower regions, indicating reading result lines and moving between snippets or interface elements, which matches the SEARCH pattern more than the more localized or structured patterns of other tasks.",
+  "correct": true
+}

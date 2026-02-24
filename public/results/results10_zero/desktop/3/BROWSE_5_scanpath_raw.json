@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze remains confined to a relatively small central region with short, irregular movements and no clear horizontal line-by-line pattern, indicating focused attention around a local area such as the text insertion point and nearby words, which is characteristic of writing rather than extended reading, browsing, or dynamic tasks like watching or playing.",
+  "correct": false
+}

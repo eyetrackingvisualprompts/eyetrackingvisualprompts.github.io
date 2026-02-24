@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal and vertical shifts between mid-screen regions, with frequent but not strictly linear fixations, resembling scanning across varied web page elements more than the more structured, line-by-line patterns of READ or WRITE and less center-focused than WATCH or PLAY, matching the BROWSE template best.",
+  "correct": false
+}

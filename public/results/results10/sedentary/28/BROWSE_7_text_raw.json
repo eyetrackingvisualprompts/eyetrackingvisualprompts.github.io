@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show large spatial coverage, frequent rapid shifts between distant regions (center, top, bottom), and strong vertical excursions into high y-values, resembling tracking moving objects and navigation typical in gameplay. The pattern is less structured than reading/searching and more dynamic than code-related tasks, matching the PLAY examples best.",
+  "correct": false
+}

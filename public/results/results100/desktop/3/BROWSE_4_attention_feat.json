@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze heatmap shows a compact fixation cluster centered slightly below the screen midpoint, matching the example BROWSE pattern where attention is focused on a central content area with limited horizontal scanning, unlike the more top-heavy WRITE or upper-band WATCH distributions.",
+  "correct": true
+}

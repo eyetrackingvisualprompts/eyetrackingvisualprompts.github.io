@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze points are tightly clustered in a small region on the left side of the screen with short local saccades and prolonged fixations, closely matching the INTERPRET example pattern of concentrated attention on a small code snippet rather than the slightly wider area used while writing code.",
+  "correct": true
+}

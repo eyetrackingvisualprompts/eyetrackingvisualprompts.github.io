@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates between a lower band and a higher band with frequent medium-range horizontal and vertical saccades, indicating repeated shifts between code regions and possibly console/output, which matches the debugging pattern more than the more uniform interpret or the more exploratory browse/search behaviors.",
+  "correct": true
+}

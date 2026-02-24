@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is predominantly clustered near the upper part of the screen with long, stable fixations and occasional smooth shifts, including excursions above the nominal screen area (y>1.0) indicative of tracking dynamic visual content rather than line-by-line text or interface elements. This spatiotemporal pattern\u2014extended fixations in a narrow band with slow drifts and saccadic returns\u2014matches the WATCH example more closely than the more horizontal scanning (READ/WRITE/BROWSE/SEARCH) or highly erratic, wide-ranging movements seen in PLAY.",
+  "correct": true
+}

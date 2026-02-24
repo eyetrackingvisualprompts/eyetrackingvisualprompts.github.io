@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scanpaths around a narrow vertical band with repeated passes over the same lines, interleaved with frequent long saccades between mid\u2011page text region and top/URL/toolbar/header areas, plus occasional large downward jumps and bottom-of-screen visits. This pattern closely matches web search result page inspection rather than continuous reading (READ) or code-oriented tasks (WRITE/DEBUG/INTERPRET).",
+  "correct": true
+}

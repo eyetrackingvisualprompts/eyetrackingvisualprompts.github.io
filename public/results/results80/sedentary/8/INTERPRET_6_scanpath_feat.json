@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the upper-left area with movements between a compact vertical cluster and a horizontal strip above it, matching the pattern of viewing search results and moving between query box, result titles, and snippets, similar to the SEARCH example and less dispersed than BROWSE or WATCH.",
+  "correct": false
+}

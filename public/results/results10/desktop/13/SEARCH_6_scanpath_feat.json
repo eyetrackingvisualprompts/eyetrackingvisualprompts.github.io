@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small central-lower region with dense, repetitive fixations and short saccades, resembling monitoring a single area like a text cursor in a word processor, which matches the WRITE pattern more than the broader, more exploratory distributions seen in SEARCH or BROWSE.",
+  "correct": false
+}

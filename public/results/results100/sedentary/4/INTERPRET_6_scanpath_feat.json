@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in a small left-side region consistent with focused code inspection, with occasional longer saccades similar to the DEBUG example scanpath rather than the broader exploration seen in SEARCH, WATCH, or PLAY.",
+  "correct": false
+}

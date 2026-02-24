@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band with slowly drifting X fixation and high, stable Y fixation, matching looking near the top text line while composing text, similar to the WRITE example and less variable than SEARCH or BROWSE.",
+  "correct": false
+}

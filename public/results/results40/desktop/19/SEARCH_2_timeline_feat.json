@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay in a mid-screen band with moderate, irregular horizontal shifts and small vertical range, resembling the mixed, scattered fixations and saccades seen in browsing rather than the more structured patterns of reading or the stronger movements of play/watch/search.",
+  "correct": false
+}

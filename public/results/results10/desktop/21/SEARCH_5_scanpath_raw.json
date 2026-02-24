@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern is concentrated in a mid-screen region with irregular multi-directional movements and moderate dispersion, resembling the example BROWSE scanpath more than the more linear READ/WRITE patterns or the wider PLAY/WATCH/SEARCH explorations.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central area with moderate vertical spread and some scattered points, resembling the browsing example heatmap where attention centers on a main content region with occasional looks to other page elements, rather than the more linear (READ/WRITE) or upper-screen (WATCH/SEARCH) patterns.",
+  "correct": true
+}

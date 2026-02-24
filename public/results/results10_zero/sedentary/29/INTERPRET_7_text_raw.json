@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are densely clustered in horizontal bands with small, systematic shifts and regressions, consistent with line-by-line reading behavior rather than the larger, more dispersed movements typical of search, browsing, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a mostly horizontal band near the lower part of the screen with sequential left-to-right movements and clustered fixations, closely matching the pattern of reading text lines rather than the more scattered or central patterns seen in browse/search/play/watch examples.",
+  "correct": false
+}

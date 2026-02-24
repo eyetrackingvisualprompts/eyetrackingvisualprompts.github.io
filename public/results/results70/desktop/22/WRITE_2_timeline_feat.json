@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, predominantly horizontal progression with moderate vertical shifts and regular saccades, closely matching the structured left-to-right scanning pattern seen in the READ example rather than the more scattered or central patterns of other activities.",
+  "correct": false
+}

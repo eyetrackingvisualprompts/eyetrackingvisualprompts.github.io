@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across a broad central area with notable activity around mid and lower regions, indicating scanning of multiple UI elements (results list, snippets, and lower-page content), which aligns best with the more exploratory, multi-region gaze pattern seen in SEARCH compared with the more localized or horizontally constrained patterns of the other tasks.",
+  "correct": false
+}

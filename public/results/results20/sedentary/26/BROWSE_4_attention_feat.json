@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a single horizontal band near the top-left, following a code-like line structure similar to the WRITE example, with occasional checks toward the upper-right (e.g., console or run button), matching coding/implementation behavior rather than reading prose or other tasks.",
+  "correct": false
+}

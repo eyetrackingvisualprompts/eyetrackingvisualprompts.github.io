@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-band horizontally with gradual upward drift of Y fixation and moderate saccades, similar to the provided DEBUG example where participants repeatedly inspect code regions rather than scan sequential lines (READ) or move freely (BROWSE/SEARCH). The pattern of stable blocks with intermittent shifts matches focused code debugging behavior.",
+  "correct": false
+}

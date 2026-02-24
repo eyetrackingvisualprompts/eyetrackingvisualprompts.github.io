@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze coordinates show rapid, frequent shifts over a relatively confined central area with occasional larger jumps, consistent with tracking moving objects and reacting in real time (e.g., Pong or Mario), rather than the more linear, row-wise scan patterns typical of reading/searching or the denser, localized fixations of code-related tasks.",
+  "correct": false
+}

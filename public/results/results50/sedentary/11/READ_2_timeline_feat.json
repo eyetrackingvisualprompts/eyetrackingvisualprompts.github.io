@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The X fixation shows repeated long left-to-right sweeps with returns, and Y fixation slowly drifts downward, resembling sequential reading of multiple vertically-scrolling sections rather than a single static page. The frequent large X saccades and gradual Y progression closely match the browsing example pattern more than the more uniform, line-structured READ data.",
+  "correct": false
+}

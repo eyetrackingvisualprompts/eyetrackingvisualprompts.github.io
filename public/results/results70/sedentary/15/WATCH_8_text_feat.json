@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions, repeated jumps between central playfield and peripheral/top areas, and extended fixations around mid-screen coordinates match dynamic tracking and strategic scanning typical of game play rather than the more linear, text- or code-oriented patterns in READ/WRITE/DEBUG/INTERPRET or the web-structured patterns of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

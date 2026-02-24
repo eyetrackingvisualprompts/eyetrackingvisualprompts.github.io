@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between distinct fixation positions with roughly 1-second plateaus, and both horizontal and vertical positions change irregularly in size and direction across the full allowed range, matching the behavior of following a randomly moving target rather than purely horizontal, central, or task-structured movements.",
+  "correct": false
+}

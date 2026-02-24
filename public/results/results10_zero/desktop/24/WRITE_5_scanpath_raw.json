@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points remain tightly clustered around a single small region with minimal horizontal or vertical shifts over the full 10-second window, indicating stable fixation on a central area rather than systematic line-by-line movements (reading/writing) or broad exploratory scanning (searching/browsing/playing). This pattern is most consistent with passively watching a video where the main content stays near one location on the screen.",
+  "correct": false
+}

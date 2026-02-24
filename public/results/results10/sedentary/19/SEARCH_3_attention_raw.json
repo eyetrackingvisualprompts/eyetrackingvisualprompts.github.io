@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are concentrated in a narrow vertical band on the left side with multiple clusters at different heights, matching the column-like code-reading pattern seen in the INTERPRET example rather than the more spread or central patterns of other tasks.",
+  "correct": false
+}

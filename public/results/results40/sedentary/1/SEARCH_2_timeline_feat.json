@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated transitions between a high vertical region and a low one, with horizontal scanning in each region and several larger saccades\u2014consistent with moving between search results and content snippets on a search page, matching the SEARCH example more than continuous reading, coding, or video watching patterns.",
+  "correct": true
+}

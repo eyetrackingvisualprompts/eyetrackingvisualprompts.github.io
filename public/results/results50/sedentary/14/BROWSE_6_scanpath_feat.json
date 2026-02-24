@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a dense cluster around the central-right region (results area) and sparser fixations on the upper-left region, with several large saccades connecting them\u2014matching the pattern of reading result snippets and moving back to the search box or other UI elements, characteristic of SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves over a compact region with medium-length fixations and smooth shifts, without the strong horizontal line structure of reading/browsing code or text, nor the wide, rapid, goal-directed jumps typical of search, play, or debugging; this pattern best matches watching dynamic visual content.",
+  "correct": false
+}

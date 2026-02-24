@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are densely clustered in a compact, horizontally elongated region with minimal large saccades, indicating sustained fixation over a limited text area, matching the reading pattern more than the more dispersed patterns of search, browse, watch, write, or play.",
+  "correct": false
+}

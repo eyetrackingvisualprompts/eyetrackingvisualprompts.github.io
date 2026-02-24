@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are relatively stable with a slow rightward drift in X and moderate upward drift in Y, showing limited large saccades and little vertical scanning, matching the focused, code-editing behavior of WRITE rather than the more scattered or line-by-line movements of other tasks.",
+  "correct": true
+}

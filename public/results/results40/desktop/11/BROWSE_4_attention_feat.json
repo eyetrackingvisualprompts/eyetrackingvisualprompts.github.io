@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around the central-upper region with some vertical spread, closely matching the SEARCH example heatmap pattern and typical gaze on a search results page (query box and results list).",
+  "correct": false
+}

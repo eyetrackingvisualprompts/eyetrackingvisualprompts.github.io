@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a narrow vertical code region with multiple clusters at different heights, similar to the DEBUG example and more dispersed than the INTERPRET/WRITE patterns, indicating scanning up and down while checking and correcting code.",
+  "correct": false
+}

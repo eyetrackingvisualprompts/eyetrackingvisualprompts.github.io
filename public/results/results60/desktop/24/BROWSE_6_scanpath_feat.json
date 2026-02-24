@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, horizontally-elongated cluster with small vertical range and orderly left-right progression, matching line-by-line reading behavior and resembling the READ example more than the other activities.",
+  "correct": false
+}

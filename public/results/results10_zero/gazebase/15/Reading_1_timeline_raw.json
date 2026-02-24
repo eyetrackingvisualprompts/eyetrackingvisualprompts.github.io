@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like jumps to various 2D positions with both horizontal and vertical components, each held roughly 1 second before shifting to a new, irregular location. This pattern matches a target moving randomly across the screen rather than strictly horizontal motion, reading lines, video viewing, game-related clustered fixations, or central fixation.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows mainly horizontal code-line scanning with occasional larger vertical shifts and clusters of saccades around mid-to-late seconds, matching the more exploratory, back-and-forth behavior in the DEBUG example rather than the steadier INTERPRET/WRITE or more dynamic BROWSE/PLAY/WATCH patterns.",
+  "correct": false
+}

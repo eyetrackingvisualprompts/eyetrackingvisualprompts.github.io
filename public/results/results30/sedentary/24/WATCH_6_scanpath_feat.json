@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely distributed across a central horizontal band with irregular saccades and no strict line-by-line structure, indicating exploratory viewing of varied on-screen content, which matches the browsing pattern more than the more localized or structured patterns of coding, reading, or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows medium-scale shifts between central and slightly upper regions, intermittent vertical transitions resembling moving between search box, result snippets, and browser UI, and clustered fixations with short saccades similar to the SEARCH example, rather than the more static line-by-line patterns of READ or the peripheral/extreme excursions characteristic of PLAY or WATCH video scenes.",
+  "correct": false
+}

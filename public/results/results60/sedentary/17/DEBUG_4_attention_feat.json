@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered vertically along a narrow left-side code area with multiple hotspots at different heights, matching the DEBUG example pattern more than the more compact INTERPRET or wider WRITE distributions.",
+  "correct": true
+}

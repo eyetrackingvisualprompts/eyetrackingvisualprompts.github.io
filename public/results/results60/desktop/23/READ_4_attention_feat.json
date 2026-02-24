@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a compact region slightly below the screen center, matching the typical gaze cluster around the search bar and top results area seen in the SEARCH example, rather than the more spread horizontal patterns of READ/BROWSE or the multi-focal patterns of PLAY/WATCH/WRITE.",
+  "correct": false
+}

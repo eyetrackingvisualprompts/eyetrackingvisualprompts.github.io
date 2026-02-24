@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are widely dispersed across the entire screen without a dominant horizontal band or localized cluster, indicating attention to dynamic content over the full display, which matches the WATCH (video viewing) pattern more than the more localized or structured patterns of the other tasks.",
+  "correct": false
+}

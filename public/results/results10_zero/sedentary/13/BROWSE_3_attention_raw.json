@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are concentrated in one horizontal band across the upper-middle of the screen, with smooth left-to-right progression and limited vertical movement, consistent with reading a single line or short block of text rather than scanning code, browsing multiple elements, or tracking dynamic objects.",
+  "correct": false
+}

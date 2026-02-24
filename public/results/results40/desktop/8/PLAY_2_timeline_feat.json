@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal, line-like progressions with relatively small vertical shifts and moderate, regular saccades\u2014matching the structured, row-by-row pattern typical of reading text rather than the larger, more scattered movements seen in search, browse, play, or watch activities.",
+  "correct": false
+}

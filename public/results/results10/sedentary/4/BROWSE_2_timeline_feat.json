@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows horizontal scanning with moderate vertical shifts and intermittent saccades, resembling the example SEARCH pattern where the user inspects search results across lines and occasionally moves vertically between items, rather than the more linear reading or code-focused behaviors of other tasks.",
+  "correct": false
+}

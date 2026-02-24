@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze alternates between a compact region near the top (code area) and a few deep vertical excursions to the lower part of the screen (e.g., console or debugger output), matching the scattered, multi-panel viewing seen in the DEBUG example more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in a relatively small vertical band on the left, with many short revisits and back\u2011and\u2011forth saccades between nearby lines/regions, consistent with scrutinizing and re-checking code segments during debugging rather than the more linear sweeps of reading/interpreting or the larger, more dispersed movements of browsing, search, play, or watch.",
+  "correct": false
+}

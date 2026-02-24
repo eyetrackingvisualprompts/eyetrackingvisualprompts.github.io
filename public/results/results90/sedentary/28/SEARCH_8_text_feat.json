@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-length fixations with many horizontal scans across mid-upper screen lines, interspersed with large vertical and lateral jumps to widely separated regions (including off-screen coordinates), matches scanning SERP/snippets and moving between result areas and browser chrome, characteristic of SEARCH rather than the more line-structured READ, code-focused WRITE/DEBUG/INTERPRET, or continuous WATCH/PLAY patterns.",
+  "correct": true
+}

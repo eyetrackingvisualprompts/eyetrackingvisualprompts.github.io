@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows extended horizontal reading-like movements across much of the screen with frequent jumps to different vertical regions and a secondary cluster on the right, matching the varied, multi-area navigation typical of web browsing rather than the more localized patterns of code tasks or the structured lines of pure reading.",
+  "correct": false
+}

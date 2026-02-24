@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains in a relatively narrow central area with small, steady horizontal and vertical shifts and few large saccades, closely matching the INTERPRET example where participants inspect a short code snippet rather than scanning widely like SEARCH/BROWSE or tracking motion like WATCH/PLAY.",
+  "correct": false
+}

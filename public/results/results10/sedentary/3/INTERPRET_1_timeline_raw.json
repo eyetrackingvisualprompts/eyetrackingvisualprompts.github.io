@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze positions remain relatively stable with small horizontal movements and occasional brief vertical saccades, resembling focused inspection of a compact code snippet rather than extended reading, wide navigation, or dynamic tracking; this pattern best matches the INTERPRET examples.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y fixation traces are very stable with minimal saccades over the whole window, indicating sustained gaze on a relatively static region\u2014typical when watching video content\u2014while other tasks (read, search, write, browse, play) show more frequent and larger gaze shifts in the examples.",
+  "correct": false
+}

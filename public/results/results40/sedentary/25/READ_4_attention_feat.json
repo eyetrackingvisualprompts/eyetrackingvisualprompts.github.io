@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a single horizontal band near the bottom of the screen with minor vertical spread, matching the pattern of reading a single line/paragraph of text rather than the broader, multi-region distributions seen in tasks like DEBUG, SEARCH, or PLAY.",
+  "correct": true
+}

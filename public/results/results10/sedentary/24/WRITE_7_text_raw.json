@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points cluster around mid-lower screen with dense, small horizontal and vertical movements typical of code/IDE region, including repeated revisits to similar coordinates, matching the WRITE examples more than the other tasks.",
+  "correct": true
+}

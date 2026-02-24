@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations on the left where the code editor likely is, plus scattered fixations across the mid-right area resembling console/output or other IDE panels, matching the broader spread and dual-region focus typical of debugging compared with the more localized INTERPRET pattern.",
+  "correct": false
+}

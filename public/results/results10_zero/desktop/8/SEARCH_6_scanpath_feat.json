@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow vertical region near screen center with small, frequent shifts up and down rather than long horizontal sweeps; this pattern matches monitoring typed text and glancing between current line and nearby UI elements typical for writing, rather than broader exploration seen in reading, browsing, searching, watching, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mainly around mid-screen with many short fixations and small multi-directional saccades, occasionally including vertical moves into mid\u2011upper regions\u2014matching the mixed text/image, center\u2011biased scanning seen in the BROWSE examples more than the line\u2011structured horizontal patterns of READ or the dense peripheral patterns of WRITE/PLAY/WATCH.",
+  "correct": false
+}

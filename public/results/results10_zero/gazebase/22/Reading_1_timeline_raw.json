@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete step-like changes in both horizontal and vertical positions to various locations across the screen, with each position held roughly around one second before jumping elsewhere. Movements are not restricted to a simple horizontal axis nor to a central fixation, matching a random target relocation task rather than reading, video viewing, or the game pattern.",
+  "correct": false
+}

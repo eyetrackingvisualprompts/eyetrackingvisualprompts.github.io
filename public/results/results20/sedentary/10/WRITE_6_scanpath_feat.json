@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively compact region corresponding to a code snippet, with repeated horizontal and small vertical movements and no wide excursions to other interface elements, matching the focused code-inspection pattern seen in the INTERPRET example rather than the broader navigation of DEBUG or WRITE.",
+  "correct": false
+}

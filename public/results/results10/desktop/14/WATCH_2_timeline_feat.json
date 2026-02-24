@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band with relatively low Y position and small variance, resembling focused attention on a single line area (e.g., typing in a word processor) rather than the broader vertical excursions seen in reading, browsing, or searching, and lacking the large directional shifts typical of watching videos or playing games.",
+  "correct": false
+}

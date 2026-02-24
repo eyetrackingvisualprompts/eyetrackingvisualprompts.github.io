@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively long, stable fixations clustered in a central-to-upper screen region with occasional medium-size saccades, including a notable jump from (0.46, 0.70) to (0.17, 0.63). There is no consistent horizontal, line-by-line scanning typical of READ or WRITE, nor the rapid multidirectional shifts common in PLAY or SEARCH/BROWSE. This pattern aligns best with following dynamic visual content (e.g., characters or regions) in a video-watching task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered around a central area with frequent, short saccades in multiple directions, resembling scanning mixed text and elements on a webpage; this pattern best matches the BROWSE example rather than the more linear READ or constrained WATCH/PLAY paths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are dispersed over a mid-screen region with frequent saccades and varied fixation locations, more scattered than READ/WRITE but less constrained than PLAY/WATCH, matching the exploratory, multi-area viewing typical of web browsing.",
+  "correct": false
+}

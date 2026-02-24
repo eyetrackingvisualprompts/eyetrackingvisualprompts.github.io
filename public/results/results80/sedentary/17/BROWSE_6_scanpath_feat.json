@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a central code-like area with frequent vertical transitions and revisits, plus occasional excursions to the top and bottom regions similar to checking other parts of code or output, matching the DEBUG pattern more than other activities.",
+  "correct": false
+}

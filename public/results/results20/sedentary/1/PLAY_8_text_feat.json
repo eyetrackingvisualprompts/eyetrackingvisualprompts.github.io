@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a relatively compact region with long fixations and smooth, infrequent shifts, without the systematic horizontal scanning of READ or the broader exploratory jumps of SEARCH/BROWSE/PLAY. The pattern matches passive following of onscreen content typical for WATCH.",
+  "correct": false
+}

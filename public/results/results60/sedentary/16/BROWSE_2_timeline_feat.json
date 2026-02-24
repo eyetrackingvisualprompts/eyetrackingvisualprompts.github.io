@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large vertical transitions between two main horizontal bands, with irregular revisits and scattered saccades, matching the pattern of moving between search results, snippets, and possibly a separate answer page typical of SEARCH behavior rather than the more regular line-by-line READ or focused code views of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, rapid saccades spanning most of the screen in multiple directions with relatively few localized clusters, indicating continuous tracking of moving objects and navigation demands typical of gameplay rather than the more localized or structured patterns seen in reading, writing, browsing, searching, or passive watching.",
+  "correct": true
+}

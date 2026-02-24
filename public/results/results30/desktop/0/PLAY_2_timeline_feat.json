@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with moderate, irregular horizontal shifts and relatively small vertical range, resembling shallow scanning over mixed web content rather than the more structured line-by-line pattern of reading or the larger, more dynamic shifts seen in play, watch, search, or write tasks.",
+  "correct": false
+}

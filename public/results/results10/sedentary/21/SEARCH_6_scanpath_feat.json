@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze covers large central and upper screen areas with long saccades between distant points and clusters near the right side, resembling tracking moving objects and rapid shifts typical of gameplay rather than the more localized, text- or code-centered patterns of reading or programming tasks.",
+  "correct": false
+}

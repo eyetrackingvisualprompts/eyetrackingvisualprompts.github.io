@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Scanpath shows large, irregular jumps across both horizontal and vertical axes with pauses at scattered positions, consistent with following a target that moves unpredictably around the screen rather than along a fixed line (reading), purely horizontally (horizontal saccades), centrally (fixation), or in stimulus-driven free viewing/game patterns.",
+  "correct": false
+}

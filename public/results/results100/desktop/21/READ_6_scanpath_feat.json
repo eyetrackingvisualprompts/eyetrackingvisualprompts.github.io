@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, multi-directional gaze movements spanning most of the screen, with frequent shifts between scattered fixation clusters across both horizontal and vertical axes, resembling the dynamic, exploratory viewing patterns seen in the PLAY example more than the more localized or structured patterns of reading, writing, searching, or browsing.",
+  "correct": false
+}

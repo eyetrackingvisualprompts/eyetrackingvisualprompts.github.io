@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster around the left-center code area with additional movements to lower and slightly right regions, resembling the dispersed but code-focused pattern of DEBUG rather than the tighter clusters of WRITE/INTERPRET or the broader spread of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

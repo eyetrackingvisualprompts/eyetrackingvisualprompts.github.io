@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal, slowly progressing fixations with periodic vertical resets, matching line-by-line reading behavior and closely resembling the READ example pattern more than the other activities.",
+  "correct": false
+}

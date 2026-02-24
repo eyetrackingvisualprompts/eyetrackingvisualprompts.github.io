@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a confined central-left region with short, repeated saccades and revisits, typical of code editing in an IDE rather than linear reading, free browsing, or following moving objects in games or videos; this focused, iterative pattern best matches implementing code (WRITE).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent vertical shifts in gaze position with plateaus and rapid transitions, alongside moderate horizontal variation, resemble tracking and repositioning behavior seen in dynamic game play rather than the more stable, line-based patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

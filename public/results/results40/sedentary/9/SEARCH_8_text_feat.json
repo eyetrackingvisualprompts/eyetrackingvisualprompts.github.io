@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal scanlines at top (likely tabs/url/search bar), mid-page reading-like movements, repeated jumps to widely separated coordinates including near-screen edges and bottom regions, and irregular large saccades between distinct UI areas match the heterogeneous, multi-region gaze behavior seen in BROWSE examples rather than the more structured patterns of READ, SEARCH, or code tasks.",
+  "correct": false
+}

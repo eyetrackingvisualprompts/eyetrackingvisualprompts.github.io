@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large vertical and horizontal saccades between widely separated screen regions (top/center \u2194 far bottom/left/right), repeated revisits to upper content areas after scanning lower regions, and short, scattered fixations resemble scrolling through and scanning SERP and result pages rather than line-by-line reading or code-focused tasks.",
+  "correct": false
+}

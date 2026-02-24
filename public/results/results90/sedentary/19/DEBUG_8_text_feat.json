@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Large, frequent gaze shifts between code area and off-screen/GUI regions (including negative and extreme coordinates), many revisits of similar regions, and long, irregular fixations indicate intensive code inspection and problem solving typical of debugging rather than the more structured or content-focused patterns of reading, browsing, or playing.",
+  "correct": true
+}

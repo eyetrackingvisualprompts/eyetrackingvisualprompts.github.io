@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y gaze positions are relatively stable with small, smooth fluctuations and only minor saccadic shifts, indicating sustained fixation around a narrow horizontal band and limited vertical movement, which is characteristic of reading text on a screen rather than the larger, more varied gaze shifts seen in browsing, searching, watching videos, gaming, or writing.",
+  "correct": false
+}

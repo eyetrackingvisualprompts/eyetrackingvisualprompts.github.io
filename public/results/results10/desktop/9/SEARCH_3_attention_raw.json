@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows horizontally distributed fixations at a mid-screen vertical level, forming line-like patterns characteristic of reading text, and differs from the more central clusters of SEARCH/BROWSE and top-band patterns of WATCH/WRITE/PLAY.",
+  "correct": false
+}

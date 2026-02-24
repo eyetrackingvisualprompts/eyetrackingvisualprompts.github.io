@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long horizontal saccades across the upper part of the page, revisits to similar y-bands, and jumps between top bar/URL-like negative coordinates and results-like mid-page lines match the structured, scan-and-revisit pattern of looking through search results rather than the more linear READ pattern or localized code areas of DEBUG/WRITE/INTERPRET.",
+  "correct": true
+}

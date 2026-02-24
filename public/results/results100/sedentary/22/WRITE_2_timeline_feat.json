@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze positions remain mostly within a compact central region with moderate, irregular saccades and no systematic horizontal sweep typical of reading or browsing. This focused but relatively stable inspection of one code area best matches the INTERPRET pattern among the examples.",
+  "correct": false
+}

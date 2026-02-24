@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions are centered with moderate, irregular shifts in both X and Y, resembling mixed vertical and horizontal exploration across a page. This pattern matches the browsing example more than the more structured horizontal scans of READ/WRITE or the larger directional shifts in WATCH/PLAY/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-screen with moderate vertical shifts and frequent medium-scale saccades between nearby regions, lacking the strong horizontal line sweeps of reading or the highly exploratory jumps of search/play; the pattern closely matches the browsing exemplar sequences centered near (0.5, 0.5\u20130.6) with similar fixation durations and local navigation movements.",
+  "correct": false
+}

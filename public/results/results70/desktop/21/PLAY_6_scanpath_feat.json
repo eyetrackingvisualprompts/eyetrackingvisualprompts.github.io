@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points form a compact cluster in the central-upper area with moderate dispersion and no strong left-margin concentration or strict horizontal line structure, resembling the SEARCH example more than the other tasks, which show either margin-focused (WRITE), strongly horizontal (READ), or edge-biased/game-like (PLAY) patterns.",
+  "correct": false
+}

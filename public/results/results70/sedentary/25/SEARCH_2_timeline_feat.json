@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows long rightward sweeps in X with gradual upward drift in Y, interspersed with occasional large vertical saccades and periods of stable reading-like behavior, closely matching the mixed scanning and reading pattern seen in the BROWSE example rather than the more uniform patterns of dedicated reading, coding, or gameplay tasks.",
+  "correct": false
+}

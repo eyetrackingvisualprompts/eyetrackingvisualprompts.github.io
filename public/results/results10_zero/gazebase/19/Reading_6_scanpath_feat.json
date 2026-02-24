@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze positions form a largely horizontal band near the top of the screen, with repeated left-right movements of similar horizontal extent and relatively small vertical variation, consistent with tracking a target moving horizontally at fixed vertical level rather than scattered movements, central fixation, or reading-like line structure.",
+  "correct": false
+}

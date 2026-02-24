@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions fluctuate around the screen center with moderate, irregular saccades and no strong directional pattern (unlike the systematic horizontal shifts in READ or the large, dynamic excursions in PLAY/WATCH/WRITE), matching the browsing example\u2019s mixed, exploratory scan behavior.",
+  "correct": true
+}

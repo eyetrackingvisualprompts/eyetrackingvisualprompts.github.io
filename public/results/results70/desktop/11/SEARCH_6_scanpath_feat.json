@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze cluster is moderately centralized with several dispersed fixations and transitions, reflecting mixed reading and interface navigation behavior typical of using a search engine, and it visually matches the provided SEARCH example more closely than the other classes.",
+  "correct": true
+}

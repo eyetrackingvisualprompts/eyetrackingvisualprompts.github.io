@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is confined to a mid-upper region with short to medium fixations and small multidirectional saccades around a central area, resembling scanning and re-checking of interface elements or article snippets typical of web browsing, rather than the more line-structured horizontal sweeps of reading or the larger, more dispersed shifts seen in play, search, or watch tasks.",
+  "correct": false
+}

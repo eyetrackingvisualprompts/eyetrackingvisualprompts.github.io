@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-scale shifts in both x and y with many short fixations and varied directions, resembling scanning across heterogeneous web content, which matches the browsing pattern more than the more structured reading or localized writing and playing behaviors.",
+  "correct": true
+}

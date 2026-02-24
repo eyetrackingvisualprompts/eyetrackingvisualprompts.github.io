@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in a compact code-like region with repeated back-and-forth saccades over nearly the same lines, including long dwell times on a few coordinates and occasional jumps to other screen areas, matching the intensive re-reading and line-hopping typical of debugging rather than the more linear scanpaths of reading/interpreting or the broader exploration in browsing/search.",
+  "correct": false
+}

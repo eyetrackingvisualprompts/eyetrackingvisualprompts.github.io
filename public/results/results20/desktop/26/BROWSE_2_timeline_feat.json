@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows relatively stable horizontal fixations around mid-screen with gradual vertical shifts and occasional larger saccades, resembling the provided SEARCH example more than the more variable BROWSE or strongly top-focused WATCH patterns, and lacking the tight horizontal, line-by-line scanning of READ or the bottom-focused WRITE behavior.",
+  "correct": false
+}

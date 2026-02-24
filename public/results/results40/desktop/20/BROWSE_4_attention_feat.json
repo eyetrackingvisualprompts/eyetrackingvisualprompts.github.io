@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread over a broad central area with multiple vertical and horizontal clusters, resembling scanning of mixed text and images on webpages, unlike the linear band of READ or the more localized clusters of SEARCH or WATCH.",
+  "correct": true
+}

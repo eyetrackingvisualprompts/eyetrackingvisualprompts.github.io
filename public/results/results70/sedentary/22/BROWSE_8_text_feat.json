@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Wide, rapid gaze shifts across large screen regions, frequent returns to central/upper areas, and many mid-duration fixations without systematic line-by-line or code-structure scanning resemble the dynamic, spatially distributed tracking behavior seen in the PLAY examples rather than the more constrained, horizontal/text-like or code-focused patterns of READ/WRITE/DEBUG/INTERPRET/SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

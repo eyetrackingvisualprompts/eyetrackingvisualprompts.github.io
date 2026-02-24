@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in several vertically separated clusters on the left side, resembling code inspection across multiple lines, similar to the DEBUG example and showing more vertical spread and revisits than the more compact INTERPRET pattern.",
+  "correct": false
+}

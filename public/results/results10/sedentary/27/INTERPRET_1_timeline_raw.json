@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze shows mostly stable horizontal position with limited vertical movement and occasional brief jumps, matching the focused, code-editing behavior seen in the WRITE example rather than the more exploratory or scanning patterns of other tasks.",
+  "correct": false
+}

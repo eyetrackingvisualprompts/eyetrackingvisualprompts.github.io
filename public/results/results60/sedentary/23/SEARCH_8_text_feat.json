@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanpaths across a wide screen width at near-constant vertical levels, interleaved with occasional large vertical jumps and excursions to screen edges, match the pattern of web browsing over pages and tabs more than the more localized, code-focused patterns of WRITE/DEBUG/INTERPRET or the central dynamic focus of WATCH/PLAY.",
+  "correct": false
+}

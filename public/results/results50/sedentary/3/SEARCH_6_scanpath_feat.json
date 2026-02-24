@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze clusters around a left-side code area with frequent long saccades downwards and rightwards to other regions (e.g., console/output or documentation within IDE), plus revisits across these areas. This multi-region, back-and-forth pattern matches the DEBUG example more than the other tasks.",
+  "correct": false
+}

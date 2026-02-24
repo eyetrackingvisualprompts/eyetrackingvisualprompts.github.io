@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a narrow horizontal band near the upper-middle of the screen, indicating sequential fixation along a single text line with minimal vertical movement, characteristic of reading rather than the broader, more scattered patterns expected in browsing, searching, watching videos, playing games, or writing (which typically includes shifts to keyboard/toolbar areas).",
+  "correct": true
+}

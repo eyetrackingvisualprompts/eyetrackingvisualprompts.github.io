@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-to-large vertical shifts between central and upper/lower regions and scattered fixations rather than stable horizontal bands. This pattern of dynamic, multidirectional movements with intermittent short fixations aligns best with interactive game play rather than the more stable, line-based (READ/WRITE) or predominantly central (WATCH/BROWSE/SEARCH) viewing patterns.",
+  "correct": false
+}

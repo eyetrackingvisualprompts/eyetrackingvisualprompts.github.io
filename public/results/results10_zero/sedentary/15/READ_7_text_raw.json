@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent medium-to-large amplitude shifts in both x and y directions, with many rapid relocations and dispersed clusters rather than orderly horizontal scanpaths or tight code/text inspection patterns. This broad, dynamic spatial coverage and irregular movement is more consistent with tracking moving game elements on the screen than with reading, coding (WRITE/DEBUG/INTERPRET), web/search browsing, or passive video watching.",
+  "correct": false
+}

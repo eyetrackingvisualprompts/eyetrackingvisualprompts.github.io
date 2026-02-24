@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze clusters over multiple vertical regions with occasional long saccades toward the right resemble scanning search results and briefly opening pages, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

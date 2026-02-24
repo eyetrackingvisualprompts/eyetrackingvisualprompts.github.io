@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered in a compact region around mid-upper screen with moderate vertical shifts and several medium-length saccades, resembling scanning and refixations over a small text/element area rather than long horizontal sweeps (READ) or highly dynamic dispersed movements (BROWSE/PLAY). The pattern best matches the localized, task-focused inspection typical of SEARCH results or query areas.",
+  "correct": true
+}

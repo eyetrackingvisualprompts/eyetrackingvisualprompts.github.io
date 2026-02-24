@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a main code area on the left with occasional long saccades to a secondary region on the right, matching the WRITE pattern where participants alternate between editing code and briefly checking another part of the IDE, rather than the denser, more dispersed exploration seen in DEBUG or other tasks.",
+  "correct": false
+}

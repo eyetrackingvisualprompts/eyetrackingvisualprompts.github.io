@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including far periphery), mixed with shorter local adjustments and varied vertical positions, match dynamic tracking of game elements rather than line-based reading or code-focused tasks. The pattern closely resembles the PLAY examples with rapid shifts between dispersed coordinates and intermittent local fixations.",
+  "correct": true
+}

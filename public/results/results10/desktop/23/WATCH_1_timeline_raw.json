@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows repeated horizontal segments at a relatively high, stable Y position with periodic vertical shifts, resembling line-by-line reading patterns and closely matching the provided READ example more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long horizontal scanpaths across the upper page, repeated passes over a results-like text region, and frequent large saccades to extreme top/edge coordinates (URL/search bar and tab areas) with occasional jumps to lower page sections closely resemble the example SEARCH patterns more than code-focused (INTERPRET/DEBUG/WRITE) or continuous media/game (WATCH/PLAY) behaviors.",
+  "correct": true
+}

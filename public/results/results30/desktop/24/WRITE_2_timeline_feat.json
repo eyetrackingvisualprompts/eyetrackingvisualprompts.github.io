@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions are low on the screen (X around mid, Y near bottom) with very small, slow shifts and minimal large saccades, matching the stable, text-area-focused pattern seen in the WRITE example rather than the more dynamic movements of browsing, searching, watching, playing, or reading across larger text regions.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several horizontal scanning segments with occasional larger vertical shifts and position changes, resembling transitions between search results and content snippets, matching the SEARCH pattern more closely than the more focused, stable code-reading or game-watching patterns.",
+  "correct": false
+}

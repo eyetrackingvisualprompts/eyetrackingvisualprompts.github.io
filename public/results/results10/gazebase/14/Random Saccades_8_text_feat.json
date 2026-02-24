@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze shifts are irregular in both direction and amplitude (diagonal and vertical as well as horizontal), with moderately long, variable fixations and no consistent horizontal line-by-line structure or strict left\u2013right alternation. The pattern matches natural, unconstrained viewing similar to the provided Video Viewing example rather than structured tasks like reading or controlled saccade paradigms.",
+  "correct": false
+}

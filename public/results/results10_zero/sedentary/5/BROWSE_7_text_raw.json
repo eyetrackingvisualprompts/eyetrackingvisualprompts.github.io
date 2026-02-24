@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates progress in structured horizontal bands with relatively small, systematic shifts, indicative of line-by-line scanning and regressions typical of reading text rather than the larger, more erratic or object-focused movements seen in search, browsing, coding, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces are very stable with slow, small shifts and few large saccades, resembling steady line-by-line viewing of static text rather than the larger, more varied movements seen in search, browsing, video watching, gaming, or writing.",
+  "correct": false
+}

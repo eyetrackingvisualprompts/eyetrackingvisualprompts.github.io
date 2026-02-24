@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps between widely separated screen regions (including extreme off-content coordinates and vertical transitions), interleaved with short local exploration and moderate fixations, match the heterogeneous, free-scanning patterns seen in the BROWSE example rather than the more structured or task-focused patterns of reading, coding, or debugging.",
+  "correct": false
+}

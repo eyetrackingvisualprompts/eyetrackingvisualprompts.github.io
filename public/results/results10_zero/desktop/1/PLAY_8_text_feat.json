@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a relatively narrow central band with short to medium fixations (200\u2013700 ms) and small horizontal/vertical saccades, consistent with line-by-line inspection of static text rather than large exploratory movements seen in SEARCH/BROWSE or dynamic tracking in PLAY/WATCH/WRITE.",
+  "correct": false
+}

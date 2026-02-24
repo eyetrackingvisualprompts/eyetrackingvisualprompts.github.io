@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows rapid, large-amplitude shifts across wide screen areas (including edges and off-screen coordinates), with irregular, multi-directional movements typical of visually tracking dynamic game elements and navigating space, rather than the more line-structured, localized, and repetitive patterns expected in reading, coding, or web search tasks.",
+  "correct": false
+}

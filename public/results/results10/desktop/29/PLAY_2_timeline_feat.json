@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow band with slow, smooth shifts and few large saccades, similar to the WATCH template where viewers primarily track central content without extensive scanning, unlike the more varied horizontal/vertical movements seen in READ, BROWSE, or SEARCH.",
+  "correct": false
+}

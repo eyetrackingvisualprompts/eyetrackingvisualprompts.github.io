@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Large, smooth gaze shifts across wide screen regions with many long fixations clustered around upper screen coordinates and character-like areas, plus occasional rapid jumps to new regions, match the spatiotemporal pattern of passively following dynamic video content rather than the more regular line-based scanning of READ or the tighter central interactions of BROWSE/SEARCH/WRITE/PLAY.",
+  "correct": false
+}

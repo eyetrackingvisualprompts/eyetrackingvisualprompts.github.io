@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades spanning a wide area of the screen in multiple directions, with fewer dense fixations in one region. This broad, multidirectional exploration pattern best matches the PLAY example, where game interaction requires looking around the screen, rather than the more localized or structured patterns seen in READ, WRITE, SEARCH, BROWSE, or WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a mostly stable horizontal band of X fixations with small, stepwise shifts and a slowly drifting Y position, matching the line-by-line progression and limited vertical movement characteristic of reading, and differing from the larger vertical excursions and variability seen in browsing, search, or coding tasks.",
+  "correct": false
+}

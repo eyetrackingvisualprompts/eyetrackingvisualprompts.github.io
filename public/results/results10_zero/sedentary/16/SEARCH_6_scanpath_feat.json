@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal band near the bottom of the screen (typical code editor area) with occasional vertical shifts and a long saccade to a small region near the top (likely console/output). This pattern matches code editing/implementation behavior rather than continuous reading, browsing, or watching content spread over the whole screen.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are mainly in the upper half of the screen (Y around 0.6\u20130.8) with moderate horizontal spread and frequent vertical saccades, matching the pattern of alternating between search box, results list, and different page regions typical for SEARCH, and differing from the more centered BROWSE or tightly structured READ patterns.",
+  "correct": false
+}

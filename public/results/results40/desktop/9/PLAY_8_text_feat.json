@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a horizontal band with small left-right saccades and moderate fixations, resembling line-by-line scanning of text near the upper portion of a page. There are no large exploratory jumps typical of SEARCH/BROWSE or multi-directional wide movements seen in PLAY, and the pattern is more systematic and constrained than WATCH, matching the READ exemplars\u2019 horizontal progression and local regressions.",
+  "correct": false
+}

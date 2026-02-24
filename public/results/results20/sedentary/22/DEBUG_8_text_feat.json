@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze clusters repeatedly around mid-left code-like regions with frequent vertical shifts suggestive of moving between code and output/console, plus several long, large-amplitude saccades to screen corners and back (e.g., toward top and bottom extremes) consistent with navigating an IDE and checking different panels, typical of debugging rather than steady line-by-line reading or passive watching.",
+  "correct": true
+}

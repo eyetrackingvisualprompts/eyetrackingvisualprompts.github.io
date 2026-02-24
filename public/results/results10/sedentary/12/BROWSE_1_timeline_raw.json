@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Distinct large vertical shifts in Y with corresponding X changes, alternating between upper and lower screen regions, match the pattern of moving between search results, query box, and different page sections typical of the SEARCH example.",
+  "correct": false
+}

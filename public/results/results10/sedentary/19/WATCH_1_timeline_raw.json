@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows mid-screen work with moderate, repeated horizontal shifts and occasional vertical movements, resembling focused editing/typing patterns seen in the WRITE example rather than the more exploratory or large-saccade behaviors of SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

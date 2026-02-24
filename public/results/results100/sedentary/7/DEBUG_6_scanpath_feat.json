@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over the code area on the left, with recurring long saccades to a region on the lower-right likely corresponding to the console/output area, a pattern characteristic of debugging and running code rather than interpreting or writing alone.",
+  "correct": true
+}

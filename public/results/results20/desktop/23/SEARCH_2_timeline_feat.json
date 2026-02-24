@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-level horizontal movement with notable vertical shifts and scattered saccades, indicating scanning results and switching between content and query areas, which best matches the SEARCH pattern compared to the more stable READ or more centrally focused WATCH examples.",
+  "correct": true
+}

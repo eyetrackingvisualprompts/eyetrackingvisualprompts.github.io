@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The target sequence shows medium-length fixations with frequent multi-directional saccades across central and mid-peripheral screen regions, including repeated transitions between mid-page and various vertical levels. This mixed vertical\u2013horizontal scanning with intermittent larger jumps resembles the exploratory, interface-driven gaze behavior in the BROWSE example more than the more linear READ patterns or the highly dynamic PLAY trajectories.",
+  "correct": false
+}

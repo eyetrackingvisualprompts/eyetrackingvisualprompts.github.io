@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely distributed across the screen with long, multi-directional saccades and fewer structured line-like patterns, closely matching the dispersed, dynamic scanpath seen in the WATCH example rather than the more localized or text-structured patterns of reading, coding, or browsing tasks.",
+  "correct": true
+}

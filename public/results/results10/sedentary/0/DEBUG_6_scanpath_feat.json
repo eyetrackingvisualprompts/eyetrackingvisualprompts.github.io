@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered on a small left-side region with vertical movements between two nearby bands, resembling focused inspection of short code snippets similar to the INTERPRET example rather than broader exploration or dynamic tracking seen in other tasks.",
+  "correct": false
+}

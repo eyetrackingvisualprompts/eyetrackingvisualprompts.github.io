@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a compact left-side region at code height with secondary clusters at top and some scattered checks on the right, closely matching the DEBUG example pattern of repeatedly revisiting a few code areas while occasionally glancing to other interface elements.",
+  "correct": false
+}

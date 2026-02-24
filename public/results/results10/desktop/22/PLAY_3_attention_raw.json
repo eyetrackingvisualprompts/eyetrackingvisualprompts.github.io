@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated in a compact cluster near the screen center with modest vertical spread, resembling the example SEARCH heatmap where attention is focused around the central search box and result area, rather than the broader horizontal patterns of READ/BROWSE or peripheral focus of WRITE/PLAY/WATCH.",
+  "correct": false
+}

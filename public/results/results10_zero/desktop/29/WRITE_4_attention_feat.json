@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are extremely concentrated in a small upper-central region with minimal horizontal or vertical scanning, indicating sustained attention to a single localized area (such as a character\u2019s face or focal object in a video), which is more consistent with WATCH than with the broader, line-based or exploratory patterns expected in READ, WRITE, BROWSE, SEARCH, or PLAY.",
+  "correct": false
+}

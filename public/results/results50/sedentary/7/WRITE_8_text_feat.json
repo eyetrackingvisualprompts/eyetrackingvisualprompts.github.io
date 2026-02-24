@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across wide screen regions including off-screen/negative coordinates, with many vertical and diagonal movements and revisits to central action areas, match the dynamic visual tracking and navigation patterns seen in the PLAY examples rather than the more line- or block-structured patterns of code or text tasks.",
+  "correct": false
+}

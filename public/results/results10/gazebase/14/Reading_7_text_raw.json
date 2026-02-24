@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze predominantly oscillates along the horizontal axis with relatively small, smooth vertical variation around a near-constant elevation, matching the structured left-right tracking pattern seen in the Horizontal Saccades exemplar rather than the more complex or dispersed movements of the other tasks.",
+  "correct": false
+}

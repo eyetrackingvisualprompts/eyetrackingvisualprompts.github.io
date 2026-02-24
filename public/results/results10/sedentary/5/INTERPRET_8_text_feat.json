@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Long fixations and repeated saccades within a tight code-like region (x\u2248180\u2013320, y\u2248240\u2013380) with occasional large jumps between upper and lower areas resemble the WRITE example\u2019s pattern of looking between code and other interface elements during implementation, more than the more linear INTERPRET/DEBUG scans or the horizontal READ/BROWSE patterns.",
+  "correct": false
+}

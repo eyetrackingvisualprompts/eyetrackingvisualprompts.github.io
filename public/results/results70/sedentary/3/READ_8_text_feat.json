@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, smooth, left-to-right sweeps along several horizontal bands with regular regressions, consistent with scanning successive text lines. There are few large, irregular screen-spanning jumps or object-following patterns characteristic of PLAY, SEARCH, BROWSE, or WATCH, and no tight code-window clustering as in WRITE/INTERPRET/DEBUG, matching the reading examples most closely.",
+  "correct": true
+}

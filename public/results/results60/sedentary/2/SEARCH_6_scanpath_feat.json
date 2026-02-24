@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a central-left code area with repeated vertical moves to lower regions (likely editor/console) and occasional long horizontal saccades to the right (running code or interacting with UI), closely matching the WRITE example scanpath and typical code-implementation behavior rather than reading-only or free browsing patterns.",
+  "correct": false
+}

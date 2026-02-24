@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent scene-spanning saccades across the entire screen, including to off-screen coordinates, with long fixations on salient regions and no systematic line-wise or code-block scanning. This wide, stimulus-driven pattern aligns with watching dynamic full-screen video rather than structured reading, coding, or task-focused web navigation.",
+  "correct": true
+}

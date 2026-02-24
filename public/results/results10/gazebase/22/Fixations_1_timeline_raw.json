@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y gaze positions remain close to the center with only small drifts over time and a single brief excursion, matching the near-static pattern of central fixation rather than the larger, structured movements seen in reading or saccade tasks.",
+  "correct": true
+}

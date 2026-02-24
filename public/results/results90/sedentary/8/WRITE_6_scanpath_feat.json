@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a left-side code/text area with occasional long saccades to a right-side region, consistent with typing in an IDE while briefly checking output or documentation windows, matching the WRITE pattern more than the others.",
+  "correct": true
+}

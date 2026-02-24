@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large vertical shifts with scattered fixations spanning mid to upper screen regions, resembling transitions between search results and page elements. This pattern best matches the SEARCH example, differing from the more line-structured READ traces and the more stable WATCH/WRITE behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a narrow horizontal band at a consistent vertical level, indicating left-to-right scan along a single text line rather than broad exploratory or dynamic tracking typical of search, browse, play, or watch tasks; this localized, line-based gaze pattern aligns best with reading behavior.",
+  "correct": false
+}

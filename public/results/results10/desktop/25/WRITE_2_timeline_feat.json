@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is very stable with slow, small horizontal drifts and nearly constant vertical position near the top portion of the screen, matching the steady, top-area focus seen in the WRITE example where attention stays around the typing line and toolbar rather than scanning text or dynamic content.",
+  "correct": true
+}

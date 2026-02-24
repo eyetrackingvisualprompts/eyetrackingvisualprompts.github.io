@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze positions vary predominantly along the horizontal axis between about -8 and +8 degrees, with relatively small vertical changes, showing repeated left-right saccades of large amplitude followed by ~200\u2013300 ms fixations\u2014matching a guided horizontal tracking task rather than the more irregular patterns of random saccades, reading, gaming, or video viewing.",
+  "correct": false
+}

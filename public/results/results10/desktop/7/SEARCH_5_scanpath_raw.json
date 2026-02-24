@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze pattern shows dense, irregular movements concentrated in the upper screen region with frequent vertical shifts, similar to the WRITE example where attention alternates between the text area and UI elements, rather than the more structured horizontal sweeps of reading or the more distributed exploration of browsing/searching.",
+  "correct": false
+}

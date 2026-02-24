@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small upper-central region with minimal horizontal scanning, indicating sustained fixation on a single moving area (such as main characters or subtitles) rather than line-by-line reading or broad exploration typical of search, browse, write, or play tasks. This localized, stable focus best matches the WATCH activity.",
+  "correct": false
+}

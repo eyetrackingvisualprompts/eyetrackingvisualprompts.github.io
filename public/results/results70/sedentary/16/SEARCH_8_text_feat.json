@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long sequences of horizontal fixations in the upper part of the screen consistent with scanning a search results/title bar area, interleaved with occasional large vertical saccades to lower content and back to top, closely matching the SEARCH template patterns and differing from more continuous line-by-line READ or tightly clustered code-focused patterns in INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

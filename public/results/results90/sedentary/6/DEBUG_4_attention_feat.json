@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a vertical band on the left\u2014consistent with reading search results\u2014plus a smaller cluster on the right where result snippets or related elements appear, matching the SEARCH example more than the other tasks.",
+  "correct": false
+}

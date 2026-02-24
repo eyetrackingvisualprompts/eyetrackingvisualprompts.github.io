@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The fixation trajectories show a steady, progressive movement pattern with relatively constrained vertical range and smooth horizontal advance, closely resembling the structured left-to-right, line-by-line scanning seen in the READ example, rather than the larger, more erratic shifts characteristic of BROWSE, SEARCH, PLAY, WATCH, or WRITE.",
+  "correct": false
+}

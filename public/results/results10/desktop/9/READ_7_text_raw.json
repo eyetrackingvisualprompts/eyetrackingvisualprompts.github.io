@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude shifts across wide screen regions (from low-left to high-right, then around upper-right and back down), including off-center excursions and rapid returns, consistent with continuous spatial exploration and target tracking typical of gameplay rather than the more line-structured, horizontally banded patterns seen in reading, writing, or web browsing, or the relatively stable central focus of watching videos or search result pages.",
+  "correct": false
+}

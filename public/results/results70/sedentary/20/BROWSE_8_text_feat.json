@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows long horizontal saccades and fixations along one main text line band (typical reading/scan of SERP snippets), but with frequent large vertical and diagonal jumps to widely separated regions (top, middle, bottom of page, even off-center areas), consistent with navigating search results or related content rather than continuous text reading or focused code inspection. This spatial spread and pattern best matches the SEARCH example behavior.",
+  "correct": false
+}

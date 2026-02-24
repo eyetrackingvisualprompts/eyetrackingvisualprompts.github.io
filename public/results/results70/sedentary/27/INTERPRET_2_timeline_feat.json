@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-like behavior: mostly mid-screen banded fixations with gradual upward Y drift (scrolling through lines), intermittent moderate saccades, and occasional brief jumps, closely matching the DEBUG example pattern more than the other tasks.",
+  "correct": false
+}

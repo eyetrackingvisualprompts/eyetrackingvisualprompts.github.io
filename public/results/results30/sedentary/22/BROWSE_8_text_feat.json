@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across widely separated screen regions (including corners and off-center areas), mixed vertical and horizontal jumps, and visits to near-border coordinates resemble scanning and jumping between elements in a web page more than the more line-structured code (WRITE/INTERPRET/DEBUG) or text (READ), or the smoother object-centric motion in PLAY/WATCH. This exploratory, non-linear pattern best matches BROWSE.",
+  "correct": true
+}

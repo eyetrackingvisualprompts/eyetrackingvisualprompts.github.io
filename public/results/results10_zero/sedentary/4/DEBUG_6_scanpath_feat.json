@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are clustered in a small horizontal band with short left-to-right progressions and minimal vertical movement, consistent with reading a localized text segment rather than the broader, more dispersed exploration seen in browsing, searching, coding, or gameplay.",
+  "correct": false
+}

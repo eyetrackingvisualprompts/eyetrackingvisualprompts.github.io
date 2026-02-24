@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-scale vertical shifts and varied fixations across the screen, indicating scanning different regions such as search results and webpages, which best matches the SEARCH pattern compared with the more structured READ/WRITE or more static WATCH/PLAY behaviors.",
+  "correct": false
+}

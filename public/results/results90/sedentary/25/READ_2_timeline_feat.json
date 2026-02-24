@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a dominant, steady horizontal scanning pattern with gradually increasing vertical position and frequent short saccades, closely matching the structured line-by-line reading behavior in the READ example rather than the more scattered or multi-region exploration seen in coding, search, or browsing tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points stay tightly clustered in a small central-left area with minimal horizontal/vertical movement, indicating prolonged fixation on one region rather than scanning lines or code; this stable, localized attention is most consistent with passively watching a video segment.",
+  "correct": false
+}

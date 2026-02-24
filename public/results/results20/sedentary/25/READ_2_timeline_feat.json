@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces are nearly horizontal and slowly drifting with minimal saccades, indicating line-by-line, stable gaze typical of continuous reading behavior rather than code interaction, search, or dynamic visual tasks.",
+  "correct": true
+}

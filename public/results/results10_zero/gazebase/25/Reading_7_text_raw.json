@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze coordinates show predominantly horizontal movements spanning a wide range of x-values (approximately -8 to +10 degrees) while y-values remain within a narrow band in each segment, indicating large, primarily horizontal saccades between discrete positions, consistent with following a horizontally moving target rather than random 2D jumps, static fixation, or the more irregular patterns of reading, video viewing, or gaming.",
+  "correct": false
+}

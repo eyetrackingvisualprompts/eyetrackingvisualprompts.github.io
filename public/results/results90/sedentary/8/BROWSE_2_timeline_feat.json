@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The target data shows medium-to-large, irregular saccades with gaze transitions between higher and lower vertical regions, resembling scanning between search box, results, and snippets. This pattern closely matches the SEARCH example and is less structured than READ/INTERPRET but more text-oriented than PLAY or WATCH.",
+  "correct": false
+}

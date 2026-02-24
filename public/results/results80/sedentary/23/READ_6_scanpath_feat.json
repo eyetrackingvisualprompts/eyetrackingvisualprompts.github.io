@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Two dense horizontal code-like regions (upper and lower) with repeated transitions between them and occasional long saccades to the far right resemble switching between editing area and another panel in an IDE, matching the WRITE scanpath pattern more than the others.",
+  "correct": false
+}

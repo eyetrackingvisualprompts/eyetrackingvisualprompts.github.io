@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact mid-left region with small vertical spans and many short regressions, consistent with scanning and editing lines of code in an IDE rather than broad horizontal text reading or dispersed browsing/search/game patterns. The pattern closely resembles the WRITE example\u2019s dense cluster around a code area with occasional jumps to other UI elements.",
+  "correct": false
+}

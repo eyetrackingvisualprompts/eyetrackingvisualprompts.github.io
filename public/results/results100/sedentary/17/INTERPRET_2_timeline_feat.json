@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal exploration with vertical shifts between regions, including occasional larger saccades and varied fixation positions, matching the mixed scanning of results and content typical in SEARCH rather than the more linear READ pattern or the denser code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

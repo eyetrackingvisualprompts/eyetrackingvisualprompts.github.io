@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, fast movements across almost the entire screen in both horizontal and vertical directions with dispersed fixations, resembling dynamic visual exploration required in gameplay rather than the more clustered or line-structured patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

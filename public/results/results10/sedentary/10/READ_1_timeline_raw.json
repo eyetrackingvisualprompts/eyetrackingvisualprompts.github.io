@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The X position shows a mostly smooth, gradual drift with a few larger jumps, while the Y position remains relatively stable with small fluctuations\u2014this pattern closely matches the continuous left-to-right, line-by-line scanning seen in the READ example and differs from the more erratic or multi-region movements of other tasks.",
+  "correct": true
+}

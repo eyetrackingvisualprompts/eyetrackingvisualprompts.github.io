@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent horizontal sweeps across central screen regions at mid-height, revisits to similar y-level bands, and periodic large jumps to screen edges/top and bottom resemble scanning web pages and UI elements rather than focused code (INTERPRET/DEBUG/WRITE) or continuous tracking (PLAY/WATCH). The pattern best matches the BROWSE examples, which show similar multi-region exploration and mixed vertical/horizontal navigation.",
+  "correct": false
+}

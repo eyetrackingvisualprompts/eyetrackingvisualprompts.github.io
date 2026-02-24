@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Early segment shows focused, clustered fixations around a small region (likely code text), followed by many excursions to high and negative y-coordinates and back, indicative of scrolling and interacting within an IDE. The dense gaze clusters around mid-screen, combined with frequent vertical shifts and later dispersed gaze over lower screen areas, match the debug examples more than the more stable reading/interpreting patterns or the more dispersed browse/search patterns.",
+  "correct": false
+}

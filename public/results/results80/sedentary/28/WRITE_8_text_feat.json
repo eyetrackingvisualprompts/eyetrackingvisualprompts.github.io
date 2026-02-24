@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent transitions between distant screen regions (including extreme left/right and top areas), mixed with medium-length fixations and revisits to scattered locations, resemble exploratory webpage navigation rather than structured line-by-line reading or focused code inspection/debugging patterns.",
+  "correct": false
+}

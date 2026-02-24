@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points jump irregularly in both horizontal and vertical directions over large amplitudes with roughly one-second dwells, matching the 2D unpredictable target movements of the Random Saccades task rather than the linear pattern of Horizontal Saccades or clustered patterns of reading/video/game tasks.",
+  "correct": false
+}

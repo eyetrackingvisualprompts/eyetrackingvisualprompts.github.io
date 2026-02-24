@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to widely separated positions across both horizontal and vertical axes, followed by short, locally stable clusters consistent with 1-second target holds. Movements are neither constrained to a single horizontal line (ruling out Horizontal Saccades) nor confined near screen center (ruling out Fixations), and the structured, step-like pattern of jumps is more typical of following a moving target than of free viewing, reading, or a game with many short object-centered refixations. This best matches the Random Saccades task description.",
+  "correct": false
+}

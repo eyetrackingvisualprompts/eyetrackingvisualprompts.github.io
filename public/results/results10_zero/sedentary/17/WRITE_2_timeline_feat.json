@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal, stepwise progressions with relatively small vertical shifts, characteristic of line-by-line reading, without the large, fast, multi-directional movements expected in PLAY or the scattered exploration typical of SEARCH/BROWSE or code-centric tasks.",
+  "correct": false
+}

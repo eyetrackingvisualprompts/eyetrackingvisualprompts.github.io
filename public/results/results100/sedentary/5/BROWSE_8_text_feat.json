@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large saccades across widely separated screen regions, including many excursions to screen edges/negative coordinates and back, with irregular scanning rather than structured line-by-line reading or code-focused inspection. This heterogeneous, exploratory pattern with many vertical jumps and off-content looks aligns best with free web browsing behavior compared to the more constrained, content-focused patterns in READ/WRITE/DEBUG/INTERPRET or the smoother, centrally focused patterns in WATCH/PLAY/SEARCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is widely distributed across the screen with multiple scattered clusters and long saccades to distant points, resembling exploratory viewing of different webpage regions rather than the more localized patterns of coding (WRITE/DEBUG/INTERPRET) or the structured lines of READ/SEARCH.",
+  "correct": false
+}

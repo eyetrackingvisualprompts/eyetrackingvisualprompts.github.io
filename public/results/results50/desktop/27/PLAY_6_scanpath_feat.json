@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are distributed over a mid-screen region with frequent, multidirectional saccades and scattered fixations, closely matching the exploratory, non-linear pattern seen in the BROWSE example rather than the more structured horizontal bands of READ/WRITE or the concentrated regions of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

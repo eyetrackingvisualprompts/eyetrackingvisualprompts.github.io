@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a compact region on the upper-left side, matching the focused gaze on an IDE\u2019s code editor seen in the WRITE example, with little spread to other areas of the screen.",
+  "correct": false
+}

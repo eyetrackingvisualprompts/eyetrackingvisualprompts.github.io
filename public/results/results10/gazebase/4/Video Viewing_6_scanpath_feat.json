@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points are distributed across both horizontal and vertical dimensions with irregular, non-repetitive jumps and no clear central fixation or purely horizontal pattern, matching the random target movements of the Random Saccades task rather than structured reading, video viewing, game interaction, or steady fixation.",
+  "correct": false
+}

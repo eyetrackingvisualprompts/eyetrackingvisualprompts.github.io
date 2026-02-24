@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the central vertical region with a primary hotspot slightly below mid-height, similar to where search results and query box appear, and the spread pattern closely matches the SEARCH example more than the other activities.",
+  "correct": false
+}

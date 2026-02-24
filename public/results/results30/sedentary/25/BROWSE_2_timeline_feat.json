@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large vertical transitions between upper and lower screen regions and diverse saccades across the page, resembling the varied scanning and scrolling behavior seen in the BROWSE example more than the more localized, pattern-specific movements of coding, reading, or watching tasks.",
+  "correct": true
+}

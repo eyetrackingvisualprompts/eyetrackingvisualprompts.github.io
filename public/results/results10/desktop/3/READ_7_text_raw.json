@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze exhibits medium-amplitude vertical and horizontal shifts between clustered fixation regions (e.g., 0.6\u00d70.5, 0.8\u00d70.6, 0.3\u00d70.25, 0.2\u00d70.1, 0.6\u00d70.4), with periods of local scanning and then jumps to new areas. This mixed pattern of short fixations and intermittent larger relocations matches the browsing example more closely than the more linear, banded patterns of READ/WRITE or the more erratic PLAY trajectories.",
+  "correct": false
+}

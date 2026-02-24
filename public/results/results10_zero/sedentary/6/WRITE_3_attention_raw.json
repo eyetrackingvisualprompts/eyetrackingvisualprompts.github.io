@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band near the upper-left area, matching fixation patterns on the first line or heading of text during reading, rather than the broader, more dispersed patterns typical of browsing, searching, playing, or watching video.",
+  "correct": false
+}

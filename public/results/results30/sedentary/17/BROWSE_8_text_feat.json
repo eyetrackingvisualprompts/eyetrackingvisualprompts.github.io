@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen areas (including corners and off-center regions), mixed with shorter inspection fixations, and repeated transitions between mid-page content and top/side regions match the heterogeneous, exploratory scanpaths typical of free web browsing rather than the more structured, line-based (READ/SEARCH) or code-focused (DEBUG/WRITE/INTERPRET) patterns or the tighter object-tracking of PLAY/WATCH.",
+  "correct": true
+}

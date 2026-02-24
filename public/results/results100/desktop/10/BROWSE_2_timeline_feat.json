@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations for both X and Y are centered mid-screen with moderate variability and frequent short saccades dispersed around that region, resembling the scattered yet relatively constrained patterns seen when scanning mixed-content web pages during browsing, rather than the more linear (READ/WRITE), highly dynamic (PLAY), or top/bottom-heavy (WATCH/SEARCH) patterns.",
+  "correct": true
+}

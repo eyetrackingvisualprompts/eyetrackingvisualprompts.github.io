@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows continuous, smooth horizontal progression with monotonic upward drift in X around mid-window and broader vertical excursions than reading or writing; patterns resemble tracking moving objects across the screen, matching the PLAY example more than the other tasks.",
+  "correct": false
+}

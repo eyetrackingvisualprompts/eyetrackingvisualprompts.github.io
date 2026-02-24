@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in a small left-of-center region with intense focus and minimal spread, closely matching the DEBUG example pattern and differing from the more distributed SEARCH/BROWSE and line-structured READ/WRITE/INTERPRET patterns.",
+  "correct": false
+}

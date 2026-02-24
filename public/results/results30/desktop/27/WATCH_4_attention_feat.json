@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are scattered across a broad central band with multiple clusters and moderate vertical spread, resembling the exploratory, multi-region viewing pattern of browsing news or blog pages rather than the more linear (READ), top-focused (WATCH/WRITE), or corner-focused (PLAY/SEARCH) patterns.",
+  "correct": false
+}

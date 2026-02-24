@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower half of the screen with relatively stable, narrow vertical range and moderate horizontal movements, matching the pattern of looking at a text entry area and nearby UI in the WRITE example more than the broader, more variable patterns of reading, browsing, searching, playing, or watching.",
+  "correct": false
+}

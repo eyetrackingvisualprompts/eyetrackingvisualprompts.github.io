@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows orderly horizontal movements with small vertical shifts between lines, concentrated in a mid-screen text block and lacking large exploratory jumps, closely matching the provided READ example pattern of line-by-line reading.",
+  "correct": true
+}

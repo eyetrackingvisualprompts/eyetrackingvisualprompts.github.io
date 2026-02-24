@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, frequent jumps across widely separated screen regions (including off-screen coordinates), alternating between upper content areas and lower/side regions, with varied fixation durations. This scattered, multi-region exploration with many long saccades and no stable horizontal line-by-line pattern matches the heterogeneous navigation behavior observed in BROWSE, rather than the more structured patterns of READ, WATCH, or code-centric tasks.",
+  "correct": false
+}

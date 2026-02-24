@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central-middle area of the screen with limited vertical spread, closely matching the BROWSE example pattern of focusing on a central content region on a webpage rather than the horizontal bands seen in reading or writing tasks.",
+  "correct": false
+}

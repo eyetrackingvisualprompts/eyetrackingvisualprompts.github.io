@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large saccades across wide screen areas (including to screen edges), mixed with medium fixations and revisits to mid-screen regions, suggest free-form navigation on a web page rather than structured reading, static watching, or code-focused tasks. The pattern closely resembles the heterogeneous, exploratory gaze behavior seen in the BROWSE example.",
+  "correct": false
+}

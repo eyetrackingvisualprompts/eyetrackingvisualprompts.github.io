@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper-left to mid-left region with many small vertical shifts and revisits, consistent with monitoring typed text and cursor position in a text editor rather than line-by-line horizontal scanning (READ) or broad vertical exploration (BROWSE/SEARCH) or far-peripheral dynamics (PLAY/WATCH).",
+  "correct": false
+}

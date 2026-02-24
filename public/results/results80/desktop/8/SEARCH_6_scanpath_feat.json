@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across the screen with frequent long saccades in multiple directions and no stable horizontal band or central cluster, indicating continuous exploratory viewing consistent with tracking dynamic game elements rather than localized reading, writing, searching, or browsing patterns.",
+  "correct": false
+}

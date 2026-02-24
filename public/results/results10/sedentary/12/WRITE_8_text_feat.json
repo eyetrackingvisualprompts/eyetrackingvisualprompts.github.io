@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a small code-like region with many short, repeated fixations and back-and-forth saccades around similar coordinates, including revisits between two vertical levels (\u2248330 vs \u2248240 px), consistent with mentally simulating a code snippet rather than scanning long text (READ), large webpages (BROWSE/SEARCH), or dynamic full-screen content (WATCH/PLAY). This tightly clustered, re-reading pattern best matches the INTERPRET task examples.",
+  "correct": false
+}

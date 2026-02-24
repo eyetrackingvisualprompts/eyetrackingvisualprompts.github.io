@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent alternation between a compact central code area (x\u2248250\u2013600, y\u2248350\u2013480) and a right-side region (x\u22481550\u20131700, y\u2248500\u2013600) suggests toggling between code and console/output panes typical of an IDE. The pattern shows many local regressions and revisits within the same code block rather than long, smooth reading lines (READ/SEARCH) or broad dispersed exploration (BROWSE/WATCH/PLAY). This focused, iterative inspection of a small region with periodic shifts to another pane aligns best with debugging behavior rather than writing or interpreting code alone.",
+  "correct": false
+}

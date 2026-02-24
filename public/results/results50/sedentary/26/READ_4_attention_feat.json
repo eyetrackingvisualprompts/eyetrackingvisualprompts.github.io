@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is split between a top horizontal band and a lower cluster, suggesting attention to search results/snippets at the top and detailed reading or scrolling in a lower area, which matches the typical pattern for SEARCH more than the other activities.",
+  "correct": false
+}

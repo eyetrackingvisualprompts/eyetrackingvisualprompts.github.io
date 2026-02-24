@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points cluster in a central band with small, smooth horizontal shifts and long stable fixations, occasionally moving slightly up or down\u2014consistent with line-by-line reading on a static page rather than the larger, multi-directional saccades and frequent peripheral excursions typical of PLAY, SEARCH, BROWSE, or WATCH, or the top-focused, cursor/toolbar-referenced behavior of WRITE.",
+  "correct": true
+}

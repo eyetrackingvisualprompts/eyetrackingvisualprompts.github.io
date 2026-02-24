@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target plot shows long, regular left-to-right horizontal scan patterns in X with periodic regressions and a steadily increasing Y position, closely matching the structured line-by-line reading pattern seen in the READ example and differing from the more variable or vertical patterns of browsing or search.",
+  "correct": true
+}

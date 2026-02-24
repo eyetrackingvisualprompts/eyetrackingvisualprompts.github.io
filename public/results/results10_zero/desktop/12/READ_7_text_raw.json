@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered with very small, gradual horizontal shifts and nearly constant vertical position, indicating sustained fixations with minor regressions typical of reading static text rather than the larger, multi-directional saccades seen in browsing, searching, watching video, playing games, or writing (which includes more keyboard/GUI glances).",
+  "correct": true
+}

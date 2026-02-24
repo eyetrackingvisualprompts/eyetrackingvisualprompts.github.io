@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered on the left-central region (typical code editor area) with intermittent long saccades to the far right, matching the pattern of looking at code while occasionally checking console/output or other IDE panels, which corresponds best to the WRITE coding task examples.",
+  "correct": false
+}

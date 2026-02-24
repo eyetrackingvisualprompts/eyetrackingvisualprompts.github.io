@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts are large, multidirectional, and span much of the \u00b115\u00b0\u00d7\u00b19\u00b0 field with no clear horizontal-only structure, line-by-line pattern, or central fixation. Fixations are relatively short (~200\u2013500 ms) and interleaved with sizable saccades in varying directions, consistent with following a randomly moving target rather than reading, watching video, playing a selective-fixation game, pure horizontal tracking, or static fixation.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations form several discrete, horizontally aligned clusters around the screen midline with limited vertical spread, matching a target stepping horizontally at 1 s intervals rather than random 2D movements, reading lines, game-driven selections, or free viewing.",
+  "correct": false
+}

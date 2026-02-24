@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered over a narrow left-side code/IDE area with occasional long saccades to the right (likely running/output panel or reference UI), matching the WRITE example more than the more compact DEBUG pattern or broader browsing/search behaviors.",
+  "correct": false
+}

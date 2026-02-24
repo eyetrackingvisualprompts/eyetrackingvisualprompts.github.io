@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across multiple rows with several distinct clusters, reflecting scanning of search results and related content rather than the tight code-focused clusters (DEBUG/WRITE/INTERPRET) or the narrow text lines of focused reading. The pattern best matches the SEARCH example heatmap.",
+  "correct": false
+}

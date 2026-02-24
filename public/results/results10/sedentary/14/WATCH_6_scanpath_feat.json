@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shifts rapidly across a wide vertical and horizontal range, following moving targets and alternating between upper and lower screen regions, which closely matches the dynamic, multi-directional scanpath pattern seen in the PLAY example (especially games like Pong or Agario), rather than the more localized or structured patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly confined to upper central screen with small horizontal shifts and many short fixations around similar y-levels, resembling reading and scanning of search results or snippets. There are occasional jumps to other regions (e.g., mid-screen coordinates and right side) consistent with moving between result titles, snippets, and possibly side elements, which matches the provided SEARCH pattern more than the more continuous WATCH, the denser code-focused WRITE/DEBUG/INTERPRET, or the broader exploratory PLAY/BROWSE behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered around mid-screen with small vertical shifts, long fixations (often >0.5\u20131 s), and short corrective saccades, matching the stable, line-by-line scanning seen in the READ examples rather than the larger exploratory jumps of BROWSE/SEARCH or dynamic shifts of PLAY/WATCH.",
+  "correct": false
+}

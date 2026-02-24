@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, stable horizontal fixations around similar vertical bands with occasional larger saccades to new vertical regions, consistent with line-by-line reading and periodic transitions between text regions, rather than the more erratic multi-directional movements typical of PLAY, SEARCH, BROWSE, or WATCH, or the top-area, cursor-following behavior common in WRITE.",
+  "correct": true
+}

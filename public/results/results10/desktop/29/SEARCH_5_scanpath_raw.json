@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows frequent, multi-directional saccades within a moderate central area, similar to the SEARCH example where users alternate between query box, results list, and other elements, rather than the more linear READ pattern or the tighter WATCH cluster.",
+  "correct": true
+}

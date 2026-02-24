@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze forms a smooth, diagonal trajectory across the screen with relatively continuous movement and no tight horizontal line or localized cluster typical of text or UI interaction, matching the pattern of following dynamic visual content in a video (WATCH).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scanpaths around a few consistent y-levels, repeated passes over the same text-like bands, and frequent long saccades between top-of-page and mid-page regions resemble scanning SERP titles/snippets more than continuous line-by-line reading or code-focused tasks; occasional large jumps to screen corners and back are also characteristic of search/browsing, with this pattern best matching the SEARCH examples provided.",
+  "correct": true
+}

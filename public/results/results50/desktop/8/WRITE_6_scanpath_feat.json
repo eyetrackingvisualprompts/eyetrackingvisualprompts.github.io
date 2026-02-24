@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a mid-sized central region with varied vertical and horizontal movements, showing scattered fixations rather than the tight horizontal band of reading or the two-cluster pattern of playing. This mixed exploration pattern best matches browsing behavior on heterogeneous web pages.",
+  "correct": false
+}

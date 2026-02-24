@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band with relatively small, regular shifts and few large saccades, indicating focus on a limited area such as an IDE text region, which matches the WRITE pattern more than the more dispersed or dynamic patterns of other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a horizontally elongated cluster in a narrow vertical band near the lower part of the screen, with relatively regular left\u2013right saccades and limited vertical movement, matching the pattern of line-by-line reading rather than the more scattered fixations seen in browsing, searching, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a single, compact code area on the left without extended vertical coverage or multiple regions, matching the focused code-comprehension pattern of INTERPRET rather than the broader scans seen in DEBUG or WRITE.",
+  "correct": false
+}

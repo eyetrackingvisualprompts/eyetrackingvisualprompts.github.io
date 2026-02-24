@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades between widely separated vertical regions (top, middle, near-bottom) and across horizontal positions, with revisits and scattered clusters, match exploratory web page navigation patterns seen in BROWSE rather than the more structured line-by-line patterns of READ or the tight code-region focus of programming-related tasks.",
+  "correct": false
+}

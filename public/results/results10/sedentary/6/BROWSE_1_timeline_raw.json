@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Long stable horizontal fixations at upper screen region with occasional sharp vertical spike and mid-task shifts resemble code editing and brief checks of other UI elements, matching the WRITE template more than other activities.",
+  "correct": false
+}

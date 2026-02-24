@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a single small region on the left side of the screen with minimal horizontal progression or scanning, indicating sustained attention to a localized moving or salient visual element rather than line-by-line reading or code inspection; this pattern best matches passively watching a video where key action occurs in one area.",
+  "correct": false
+}

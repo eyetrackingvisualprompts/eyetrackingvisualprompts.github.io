@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a central-left cluster and a right-side region, with horizontal saccades suggesting repeated shifts between result list and selected pages, matching the SEARCH pattern more than the denser, more localized patterns of WRITE/INTERPRET/DEBUG or the more uniformly spread WATCH/PLAY/BROWSE behaviors.",
+  "correct": false
+}

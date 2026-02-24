@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude jumps between widely separated regions (including off-screen coordinates) interleaved with long horizontal scan-like sweeps at multiple vertical positions, plus revisits to top-of-page header-like areas, match heterogeneous, multi-region web navigation patterns seen in BROWSE rather than the more structured, code-focused or game-object-centered patterns of other tasks.",
+  "correct": true
+}

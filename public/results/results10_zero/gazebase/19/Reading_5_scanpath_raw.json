@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze pattern shows repeated left-right movements confined to a narrow vertical band, with relatively consistent horizontal amplitudes and one-second-like dwells, matching the behavior of following a horizontally oscillating target rather than random or task-driven scanning.",
+  "correct": false
+}

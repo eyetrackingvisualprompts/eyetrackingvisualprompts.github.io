@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows continuous medium-range horizontal movements with frequent saccades and notable vertical variation, indicating dynamic tracking of moving objects across the screen, which best matches the eye-movement pattern observed in the PLAY examples (particularly game-like tasks) rather than the more line-structured or static patterns of reading, coding, or browsing.",
+  "correct": false
+}

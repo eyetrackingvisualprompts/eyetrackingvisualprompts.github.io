@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around a central region with moderate dispersion and frequent short saccades, similar to the BROWSE example and less horizontal/line-structured than READ or WRITE, indicating scanning mixed web content rather than continuous text or video watching.",
+  "correct": false
+}

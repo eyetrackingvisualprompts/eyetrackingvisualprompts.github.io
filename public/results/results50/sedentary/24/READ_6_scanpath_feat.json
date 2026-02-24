@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows structured, mostly horizontal scanlines with small vertical shifts, characteristic of reading text line by line, with occasional downward saccades, closely matching the READ example scanpath.",
+  "correct": true
+}

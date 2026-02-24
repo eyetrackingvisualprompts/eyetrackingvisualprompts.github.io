@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small code-area region with dense, repeated fixations and short saccades, matching the focused inspection pattern of interpreting a short code snippet rather than the broader exploration seen in search, browse, or debug tasks.",
+  "correct": true
+}

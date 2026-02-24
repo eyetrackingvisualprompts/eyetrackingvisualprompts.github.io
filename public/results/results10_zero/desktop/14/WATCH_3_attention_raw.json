@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze positions are tightly clustered in a small central region with minimal horizontal or vertical scanning, indicating sustained fixation on a small area typical of watching a video (e.g., central characters) rather than the broader, systematic or exploratory movements seen in reading, searching, browsing, writing, or playing games.",
+  "correct": true
+}

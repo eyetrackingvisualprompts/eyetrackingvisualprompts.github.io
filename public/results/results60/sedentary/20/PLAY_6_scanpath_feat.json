@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered around a single central code/editing area with occasional upward shifts, indicating focused editing/typing behavior rather than wide exploratory or reading-only patterns, which best matches the WRITE task example.",
+  "correct": false
+}

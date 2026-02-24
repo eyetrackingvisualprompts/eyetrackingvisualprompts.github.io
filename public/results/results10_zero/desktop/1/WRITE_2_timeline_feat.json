@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains near the screen center with small, slow, mostly horizontal shifts and minimal vertical movement, consistent with line-by-line reading rather than wide, rapid explorations typical of play, search, browse, watch, or write activities.",
+  "correct": false
+}

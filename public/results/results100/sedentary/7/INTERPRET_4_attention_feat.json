@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered on a single code area in the left-center of the screen with minimal spread elsewhere, matching the focused reading of a provided code snippet typical of the INTERPRET task rather than the slightly more distributed patterns seen in WRITE or DEBUG.",
+  "correct": true
+}

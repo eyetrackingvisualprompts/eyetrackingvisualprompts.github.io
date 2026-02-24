@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated near the top-left region, consistent with reading search results, with occasional long saccades to the right side resembling checks of results or related content\u2014matching the SEARCH example more than the other coding- or reading-focused patterns.",
+  "correct": false
+}

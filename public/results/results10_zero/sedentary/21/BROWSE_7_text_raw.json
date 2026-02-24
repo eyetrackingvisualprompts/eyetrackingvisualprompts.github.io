@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent spatial shifts across wide screen areas (including extremes and vertical excursions), with many rapid transitions rather than stable, line-like reading or code-inspection patterns. This broad, dynamic coverage is more consistent with tracking game elements and navigation in a game than with reading, coding, or watching a video.",
+  "correct": false
+}

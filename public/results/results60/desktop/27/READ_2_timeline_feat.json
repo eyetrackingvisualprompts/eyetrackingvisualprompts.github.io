@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations remain around mid-screen with small, frequent saccades and modest vertical drift, closely matching the distributed, less-structured gaze patterns seen in the BROWSE example rather than the more linear (READ/WRITE) or dynamic (PLAY/WATCH/SEARCH) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades to screen edges and corners, visits to off-content regions (very high/low coordinates), and irregular scanning patterns with revisits resemble web browsing/search-results navigation more than structured code, game tracking, or line-by-line reading.",
+  "correct": false
+}

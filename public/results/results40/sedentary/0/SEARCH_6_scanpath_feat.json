@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a concentrated region on the left (likely search results list) and a horizontal band across the top (address/search bar and tabs), with occasional vertical excursions\u2014this pattern matches the SEARCH example more than the other activities.",
+  "correct": true
+}

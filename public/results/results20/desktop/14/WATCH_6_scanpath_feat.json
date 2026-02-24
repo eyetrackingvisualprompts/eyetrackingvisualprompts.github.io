@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large saccades across a wide horizontal range with fixations clustered in a few separate regions, including lower and upper screen areas, indicating active visual exploration typical for game play rather than the more localized or systematic patterns seen in reading, writing, searching, or browsing.",
+  "correct": false
+}

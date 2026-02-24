@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gradual, step-like rightward shifts in X with concurrent slower vertical drift and occasional larger jumps resemble scanning results pages and transitioning between search results, matching the SEARCH pattern more closely than the other activities.",
+  "correct": false
+}

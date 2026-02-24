@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Frequent long fixations with large vertical excursions beyond the nominal screen bounds (y\u22480.9\u20131.1) and substantial jumps between dispersed regions suggest gaze following dynamic video content and subtitles more than structured text or UI elements; the pattern aligns best with the WATCH examples rather than the more line- or center-bound patterns of READ, WRITE, BROWSE, SEARCH, or the more tightly task-focused PLAY.",
+  "correct": false
+}

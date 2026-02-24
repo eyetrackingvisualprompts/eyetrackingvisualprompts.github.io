@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a compact cluster of gaze points concentrated near the screen center with minimal horizontal or vertical scanning, indicating prolonged central fixation consistent with passively watching a video rather than reading, writing, searching, browsing, or dynamically exploring a game scene.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on a narrow horizontal band in the left-central area with a few nearby fixations, closely matching the DEBUG example\u2019s localized focus on a specific code region rather than the broader or more scattered patterns seen in other tasks.",
+  "correct": false
+}

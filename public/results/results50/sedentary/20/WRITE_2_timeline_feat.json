@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains mostly around a narrow horizontal band with small, gradual x-movements and limited large saccades, indicating focused inspection of a compact code snippet rather than extensive scanning or reading long text; this pattern best matches the INTERPRET example timeline.",
+  "correct": false
+}

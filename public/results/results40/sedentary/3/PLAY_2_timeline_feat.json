@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows slow, smooth horizontal drift with modest vertical changes and sparse saccades, resembling continuous following of dynamic visual content. Pattern closely matches the WATCH example and differs from line-by-line reading or code-related tasks, which show more structured horizontal resets or tighter fixations.",
+  "correct": false
+}

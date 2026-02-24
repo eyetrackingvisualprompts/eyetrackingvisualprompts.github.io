@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows relatively stable, low-variance horizontal and vertical positions with small, localized saccades and minimal large shifts, matching the focused, narrow-area viewing typical of typing in a word processor rather than the broader scanning patterns seen in browsing, searching, reading, playing, or watching video.",
+  "correct": true
+}

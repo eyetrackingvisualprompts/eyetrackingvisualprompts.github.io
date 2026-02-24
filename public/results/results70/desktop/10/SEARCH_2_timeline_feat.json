@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered near the screen center with moderate, irregular small horizontal shifts and varied vertical movements, closely matching the dispersed, mid-screen pattern seen in the BROWSE example rather than the more structured line-like scans of READ/WRITE or the broader excursions of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

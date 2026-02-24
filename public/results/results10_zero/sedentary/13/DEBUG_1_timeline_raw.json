@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are relatively stable with slow drifts and only occasional larger saccades, without the systematic horizontal scanning or line-by-line patterns typical of reading, coding, or browsing. This smooth, continuous viewing pattern best matches passively watching a fullscreen video.",
+  "correct": false
+}

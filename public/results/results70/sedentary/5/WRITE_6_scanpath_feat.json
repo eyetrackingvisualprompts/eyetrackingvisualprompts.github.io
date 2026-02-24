@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a limited left-side code area with occasional long saccades to the right, matching the focused inspection pattern seen in INTERPRET rather than the broader spread of SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

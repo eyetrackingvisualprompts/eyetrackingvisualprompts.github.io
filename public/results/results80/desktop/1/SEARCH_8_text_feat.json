@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts are mostly within a mid-screen band with frequent medium-amplitude vertical and horizontal saccades between nearby regions, intermittent jumps up and down the page, and no clear left-to-right line sweeping pattern of reading. The dynamics and spatial spread closely resemble the browsing example, with exploratory movements across content blocks rather than focused text reading or game-like large excursions.",
+  "correct": false
+}

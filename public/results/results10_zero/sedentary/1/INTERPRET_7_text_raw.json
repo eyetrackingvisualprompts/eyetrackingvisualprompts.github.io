@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze points cluster in narrow horizontal bands with small progressive and regressive movements, indicating line-by-line text scanning rather than large exploratory saccades, object tracking, or code-editing patterns; this is most consistent with reading continuous text.",
+  "correct": false
+}

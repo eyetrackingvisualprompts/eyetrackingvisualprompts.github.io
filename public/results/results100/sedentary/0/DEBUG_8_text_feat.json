@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long horizontal fixations and revisits around the upper screen (likely search box and top results), combined with repeated vertical shifts between top and mid/lower regions and occasional large jumps to far screen locations, match the pattern of scanning search results and opened pages rather than focused code reading/debugging, continuous prose reading, or game/video tracking.",
+  "correct": false
+}

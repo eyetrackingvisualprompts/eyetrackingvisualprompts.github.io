@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated over the left-central area where code would be written, with frequent long horizontal saccades to a cluster on the right (likely console or reference panel), matching the WRITE example pattern more than other activities.",
+  "correct": true
+}

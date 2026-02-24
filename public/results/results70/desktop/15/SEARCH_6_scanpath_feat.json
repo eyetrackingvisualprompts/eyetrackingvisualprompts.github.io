@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a relatively localized cluster around mid-screen with occasional saccades spreading outward, closely matching the SEARCH example\u2019s compact central pattern rather than the more linear (READ/WRITE) or widely dispersed (WATCH/PLAY/BROWSE) scanpaths.",
+  "correct": true
+}

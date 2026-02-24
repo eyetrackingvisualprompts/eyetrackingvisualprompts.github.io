@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze path is predominantly horizontal with small vertical variation, closely resembling the linear, left-to-right scan pattern of reading text, and is more constrained than the broader, multidirectional movements seen in search, browse, play, watch, or write tasks.",
+  "correct": false
+}

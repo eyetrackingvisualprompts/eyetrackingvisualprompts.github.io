@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated over the left-central code area with several secondary clusters lower on the screen, matching the pattern of moving between code and output/other IDE regions seen in WRITE, rather than the more vertically distributed pattern of DEBUG or the single tight block of INTERPRET/READ.",
+  "correct": true
+}

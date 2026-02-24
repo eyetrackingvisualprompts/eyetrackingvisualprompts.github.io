@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze positions are relatively stable with modest horizontal and vertical spread and few large saccades, closely matching the INTERPRET example where participants focus on a compact code snippet rather than scanning widely as in BROWSE, SEARCH, or WATCH.",
+  "correct": false
+}

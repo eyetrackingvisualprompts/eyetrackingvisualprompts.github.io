@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude vertical and horizontal saccades across a wide portion of the page (y\u22480.1\u20130.7, x spread 0.3\u20130.7), with many mid-duration fixations and repeated revisits around mid-screen, match the heterogeneous scanning and revisiting behavior seen in the BROWSE examples rather than the more line-structured READ pattern or the more centrally clustered WATCH/WRITE patterns.",
+  "correct": false
+}

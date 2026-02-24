@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces show slow, mostly monotonic sweeps with small regressions, consistent with line-by-line reading movements rather than the broader exploratory jumps of browsing/search or the larger, more erratic shifts of play/watch tasks.",
+  "correct": true
+}

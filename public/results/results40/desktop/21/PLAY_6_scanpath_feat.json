@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are distributed over a moderately wide central region with varied saccade directions and no strong horizontal line structure or distinct clusters, matching the more scattered, exploratory pattern seen in the BROWSE example rather than the tighter clusters (SEARCH), strong horizontal lines (READ/WRITE), or larger excursions (WATCH/PLAY).",
+  "correct": false
+}

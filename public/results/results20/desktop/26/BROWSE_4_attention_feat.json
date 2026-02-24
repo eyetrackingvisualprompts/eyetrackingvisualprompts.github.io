@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are clustered around the screen center with moderate vertical spread, resembling the browsing example more than the tighter SEARCH cluster or the more dispersed PLAY/WATCH patterns, indicating attention on a central web content area typical of browsing news or blogs.",
+  "correct": true
+}

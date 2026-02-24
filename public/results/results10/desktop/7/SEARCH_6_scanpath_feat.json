@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows medium-range saccades in both horizontal and vertical directions with multiple dispersed fixation clusters, resembling the exploration and mixed text/image viewing typical of web browsing rather than the more linear horizontal pattern of reading or localized patterns of writing/searching.",
+  "correct": false
+}

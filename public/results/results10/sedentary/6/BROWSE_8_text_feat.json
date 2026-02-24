@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Long fixations and horizontal scanning around a single text row near the top, with occasional large saccades across the width, match the pattern of reading and re-reading a search results snippet line rather than continuous paragraph reading or code-focused tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts in both X and Y directions with extended periods near screen edges and no clear horizontal line-by-line scanning, resembling the dynamic, wide-ranging movements seen in the PLAY example more than the other tasks.",
+  "correct": false
+}

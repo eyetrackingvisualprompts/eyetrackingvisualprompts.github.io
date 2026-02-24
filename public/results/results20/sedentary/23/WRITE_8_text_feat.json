@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long saccades between code region and off-code areas (likely console or mental reference), with repeated returns to dense central code-like zones and relatively short fixations, best match the interpret/code-comprehension pattern rather than the more line-structured READ/BROWSE or highly dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

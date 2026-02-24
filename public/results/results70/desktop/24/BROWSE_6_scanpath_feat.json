@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows wide exploratory movements across much of the screen with many medium-duration fixations, resembling the distributed, multi-area attention pattern of web searching rather than the more line-structured reading, localized writing, or upper-screen watching/gaming patterns.",
+  "correct": false
+}

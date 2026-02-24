@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered around a central region with minimal horizontal or vertical scanning, indicating sustained attention to a compact dynamic stimulus rather than line-by-line reading, document writing, or web navigation; this pattern best matches the WATCH example.",
+  "correct": false
+}

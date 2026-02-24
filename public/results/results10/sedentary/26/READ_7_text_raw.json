@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cluster in a relatively narrow vertical band and drift smoothly over time with short, local saccades and few large jumps, consistent with following dynamic on\u2011screen content rather than line\u2011by\u2011line reading or code navigation. The spatial pattern and smooth temporal progression resemble the WATCH examples more than the more segmented, horizontally structured patterns seen in READ/SEARCH/WRITE/DEBUG/INTERPRET or the more extreme, object\u2011tracking movements in PLAY.",
+  "correct": false
+}

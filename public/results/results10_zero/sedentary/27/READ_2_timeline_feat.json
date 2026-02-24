@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows small, slow drifts in X with nearly constant Y around screen center and relatively few, moderate saccades\u2014consistent with following central content in a video, rather than the systematic line-by-line shifts of reading or the larger, more scattered movements typical of search, browse, code-related, or game tasks.",
+  "correct": false
+}

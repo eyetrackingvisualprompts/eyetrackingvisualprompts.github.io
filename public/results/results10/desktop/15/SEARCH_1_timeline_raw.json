@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y show mid-screen positions with frequent short horizontal shifts and occasional vertical jumps, resembling scanning and occasional scrolls typical of browsing news pages, and matching the BROWSE example pattern more closely than the other activities.",
+  "correct": false
+}

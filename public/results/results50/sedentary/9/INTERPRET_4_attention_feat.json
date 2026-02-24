@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated on a vertical strip on the left (code editor) with occasional fixations on the right side (console or output), matching the WRITE example where participants implement code and sometimes check results, rather than the denser multi-column pattern of DEBUG.",
+  "correct": false
+}

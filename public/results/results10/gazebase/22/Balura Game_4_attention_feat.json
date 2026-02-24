@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are dispersed widely across the entire screen, without alignment to text lines, central clustering, or a clear horizontal axis. This broad, scattered pattern best matches the random target movements in the Random Saccades task.",
+  "correct": false
+}

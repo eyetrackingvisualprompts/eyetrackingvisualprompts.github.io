@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a dense, horizontally oriented band around mid-screen with small vertical variation, characteristic of line-by-line reading, with only one long saccade elsewhere; this pattern best matches the READ example compared to other more scattered or vertically diverse activities.",
+  "correct": false
+}

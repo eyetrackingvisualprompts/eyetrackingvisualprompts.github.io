@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows multiple medium-length saccades between several clustered regions, with no strict line-by-line horizontal reading structure and more exploratory movements than in PLAY or WRITE, matching the heterogeneous, scan-and-scroll behavior typical of web browsing.",
+  "correct": false
+}

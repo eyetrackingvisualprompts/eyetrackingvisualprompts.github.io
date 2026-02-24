@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, mostly horizontal cluster with short, orderly saccades and limited vertical spread, matching the stable line-by-line pattern typical of reading rather than the wider, more scattered movements seen in search, browse, watch, write, or play tasks.",
+  "correct": false
+}

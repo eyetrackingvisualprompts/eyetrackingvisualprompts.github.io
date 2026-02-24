@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scan patterns around a few y-bands with frequent short regressions and mid\u2011page jumps, plus occasional large saccades to far screen regions, match the heterogeneous, scanning-and-jumping behavior seen in BROWSE examples more than the more regular line-by-line READ or the tighter code-focused WRITE/DEBUG/INTERPRET patterns.",
+  "correct": false
+}

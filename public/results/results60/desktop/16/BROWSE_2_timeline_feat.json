@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large saccades with substantial vertical movement and variable fixation locations resemble the exploratory, multi-region scanning typical of search-engine use, matching the SEARCH example more than the steadier patterns of READ/WRITE or the more extreme patterns of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-range horizontal and vertical movements with irregular saccades, shifting between distinct regions rather than line-by-line reading or tight code-focused inspection, resembling the varied scan patterns seen in the BROWSE example.",
+  "correct": false
+}

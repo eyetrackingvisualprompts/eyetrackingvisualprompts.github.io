@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many vertical transitions between mid and upper/lower screen regions, interleaved with occasional large saccades to different areas, matches exploratory scanning of heterogeneous web pages seen in the BROWSE examples more than the more structured, line-based patterns of READ or the more top-focused, query-result jumps of SEARCH.",
+  "correct": false
+}

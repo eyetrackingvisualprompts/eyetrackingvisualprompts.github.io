@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the center with some vertical spread, similar to browsing/search result pages, but more compact and less scattered than SEARCH and without the top-edge concentration seen in WATCH or WRITE; unlike READ, there is no long horizontal line pattern.",
+  "correct": false
+}

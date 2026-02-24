@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal and vertical exploration over a central band, with frequent but not chaotic saccades and no strong line-by-line reading pattern. This resembles the DEBUG example more than the others, indicating code inspection and back-and-forth checking behavior.",
+  "correct": true
+}

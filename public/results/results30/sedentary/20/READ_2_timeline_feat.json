@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is mostly near the screen center with relatively smooth horizontal drifts and intermittent large, sharp saccades\u2014especially a pronounced vertical saccade around 15 s\u2014resembling object tracking and sudden repositioning typical of interactive game play rather than the more structured line-wise or code-focused patterns of reading, writing, interpreting, or debugging.",
+  "correct": false
+}

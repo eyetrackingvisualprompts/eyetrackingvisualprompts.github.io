@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude horizontal sweeps along one or two bands (y\u2248340\u2013380 and y\u2248440\u2013480) interleaved with occasional large jumps to other regions and down/up the page, matching scanning of multiple web content blocks. The pattern lacks the tight local code-centered loops of WRITE/DEBUG/INTERPRET, the structured line-by-line progression of READ, or the wide, highly dynamic object-following of WATCH/PLAY, and instead fits exploratory webpage browsing with repeated passes over similar horizontal extents at different vertical positions.",
+  "correct": true
+}

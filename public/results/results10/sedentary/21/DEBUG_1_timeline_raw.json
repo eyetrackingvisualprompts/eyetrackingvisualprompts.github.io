@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze positions stay within a narrow central band with small smooth shifts and occasional brief vertical excursions, closely matching the INTERPRET example pattern of focused inspection on a compact code snippet rather than the wider, more dynamic movements seen in browsing, search, play, or reading tasks.",
+  "correct": false
+}

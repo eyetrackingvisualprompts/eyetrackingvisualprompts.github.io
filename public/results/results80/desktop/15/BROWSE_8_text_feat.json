@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with mostly short horizontal saccades and medium\u2013long fixations, occasionally stepping down then re-centering\u2014this pattern best matches line-by-line reading behavior rather than the larger vertical and more scattered exploration seen in search, browse, or play, or the upper-screen focus of watch/write.",
+  "correct": false
+}

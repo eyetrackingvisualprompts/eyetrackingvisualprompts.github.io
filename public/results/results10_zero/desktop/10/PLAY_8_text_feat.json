@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The data shows sequences of medium-duration fixations with mostly horizontal and small vertical saccades confined to a central band of the screen, consistent with line-by-line text reading rather than the larger, more exploratory scanpaths typical of browsing, searching, or gameplay.",
+  "correct": false
+}

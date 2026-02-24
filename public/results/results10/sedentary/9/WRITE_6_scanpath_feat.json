@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze points are tightly clustered in a small region with short, local movements and no large transitions across the screen, matching focused inspection of a single code snippet as in the INTERPRET example rather than the broader exploration seen in DEBUG, SEARCH, or BROWSE.",
+  "correct": false
+}

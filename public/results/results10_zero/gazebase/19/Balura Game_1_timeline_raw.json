@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y gaze positions show discrete step-like changes to various locations across the \u00b115\u00b0\u00d7\u00b19\u00b0 range, with each position held roughly around one second before jumping elsewhere in two dimensions, matching the description of following a randomly moving bull\u2019s-eye target rather than purely horizontal motion or continuous free viewing.",
+  "correct": false
+}

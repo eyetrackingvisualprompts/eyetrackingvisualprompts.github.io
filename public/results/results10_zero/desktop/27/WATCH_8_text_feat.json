@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows sequences of short to medium saccades with frequent fixations clustered around central and slightly upper-mid screen regions, consistent with scanning lines of text and shifting between nearby words or lines. Movements are mostly horizontal with small vertical adjustments, and no large erratic jumps or screen-edge exploration typical of search, browse, or play. This pattern best matches sustained reading behavior.",
+  "correct": false
+}

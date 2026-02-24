@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude saccades between widely separated screen regions (e.g., corners, top bar, middle, bottom), interleaved with shorter, local scanning and variable fixation durations, matches exploratory, non-linear navigation typical of web browsing rather than the more structured line-wise or code-block patterns of reading, writing, or debugging.",
+  "correct": false
+}

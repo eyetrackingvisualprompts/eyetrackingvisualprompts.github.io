@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixation positions show a gradual upward trend over time with relatively constrained horizontal range and fewer large saccades, matching the progressive line/paragraph advancement and cursor-focused behavior typical of the WRITE activity rather than the more exploratory patterns of READ, SEARCH, or BROWSE.",
+  "correct": true
+}

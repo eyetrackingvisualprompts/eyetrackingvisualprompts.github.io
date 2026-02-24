@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like changes in both horizontal and vertical positions to various non-repeating coordinates across the screen, with intervals of relative stability between movements and no strict left-right pattern or central fixation, matching the behavior of following a randomly moving target rather than reading, smooth video viewing, or purely horizontal saccades.",
+  "correct": false
+}

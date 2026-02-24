@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a mostly vertical band on the left side, resembling reading of a narrow text column, with sequential downward progression and little spread across the rest of the screen, matching the READ example more than code- or search-related tasks.",
+  "correct": false
+}

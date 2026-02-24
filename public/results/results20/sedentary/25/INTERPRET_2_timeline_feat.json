@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band with small, frequent local shifts and brief saccades\u2014consistent with repeatedly checking a nearby code region while typing, matching the WRITE pattern more than the others.",
+  "correct": false
+}

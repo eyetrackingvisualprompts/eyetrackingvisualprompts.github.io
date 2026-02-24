@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, fast gaze shifts across wide screen regions, including extreme coordinates and off-screen values, with irregular vertical excursions and revisits, match dynamic object tracking and navigation behavior seen in PLAY rather than the more structured, line/paragraph-based or code-block-based patterns of the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze distribution forms a horizontal sequence of fixations at a similar vertical level, characteristic of line-by-line reading behavior and closely matching the READ example heatmap.",
+  "correct": true
+}

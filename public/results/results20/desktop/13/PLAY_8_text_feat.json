@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays within a relatively small central region with mixed short fixations and medium saccades, including vertical shifts consistent with scanning web/news layouts; patterns closely resemble the BROWSE example more than the more linear READ pattern or the more dispersed SEARCH/PLAY behaviors.",
+  "correct": false
+}

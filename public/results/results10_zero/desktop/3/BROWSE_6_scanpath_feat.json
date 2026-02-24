@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are tightly clustered in a small central region with short, repetitive saccades and little spatial exploration, consistent with monitoring a local area such as the text insertion point and nearby words while typing rather than scanning large areas as in reading, searching, browsing, or game playing.",
+  "correct": false
+}

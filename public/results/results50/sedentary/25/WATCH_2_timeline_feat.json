@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The target data shows frequent, large and irregular saccades in both X and Y directions with quickly shifting fixation positions across much of the screen, resembling continuous tracking and navigation patterns typical of interactive gameplay rather than the more structured, line-based or panel-focused patterns seen in reading, coding, or web tasks.",
+  "correct": false
+}

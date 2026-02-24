@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster near mid-screen in X with small fluctuations and moderate Y variation, resembling the relatively stable, center-biased pattern of BROWSE rather than the more directional scans of READ/WRITE or the larger, task-driven shifts of PLAY/SEARCH/WATCH.",
+  "correct": false
+}

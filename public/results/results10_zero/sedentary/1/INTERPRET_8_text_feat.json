@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze consists of relatively long, localized fixations with short saccades in a constrained area, indicating line-by-line inspection of static content rather than large exploratory jumps (SEARCH/BROWSE), dynamic target tracking (PLAY/WATCH), or code-editing patterns (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

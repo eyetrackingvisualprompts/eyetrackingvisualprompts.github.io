@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, steady horizontal fixations with slowly increasing Y position and very few large saccades, matching a line-by-line reading pattern rather than the more scattered or highly dynamic movements seen in browsing, searching, playing, or watching video.",
+  "correct": false
+}

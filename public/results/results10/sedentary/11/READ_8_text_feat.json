@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows repeated horizontal sweeps across a mid-screen band with medium-length fixations and periodic returns to the left, similar to scanning lines of web content or results. This closely matches the BROWSE example structure and spatial layout, and less so the more constrained line-wise READ pattern or the more dispersed SEARCH/DEBUG behaviors.",
+  "correct": false
+}

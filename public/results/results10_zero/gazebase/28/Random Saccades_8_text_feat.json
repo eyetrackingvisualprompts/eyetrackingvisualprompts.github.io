@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze jumps between widely separated positions across both horizontal (\u00b115\u00b0) and vertical (~\u00b19\u00b0) ranges with ~1 s dwell-like fixation periods, matching a target that moves to discrete, random locations rather than strictly horizontal motion, central fixation, structured text scanning, or game-/video-like natural viewing patterns.",
+  "correct": true
+}

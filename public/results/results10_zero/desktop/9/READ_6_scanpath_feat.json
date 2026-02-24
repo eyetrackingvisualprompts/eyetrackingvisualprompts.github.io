@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, irregular saccades spanning much of the screen with few clear horizontal or vertical reading lines and no tight clustering around a single area, suggesting visually exploring and tracking dynamic elements across the display, which best matches gameplay behavior rather than structured reading, writing, or web search/browsing.",
+  "correct": false
+}

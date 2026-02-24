@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between central/lower content and screen edges/corners (including off-screen coordinates), many horizontal scans at multiple vertical bands (400\u2013700px and near top), and returns to toolbar/URL-like top region resemble free web browsing behavior more than the more localized, code-focused (WRITE/DEBUG/INTERPRET) or game-object-centered (PLAY) patterns.",
+  "correct": true
+}

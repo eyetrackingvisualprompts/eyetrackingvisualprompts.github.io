@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near screen center with small, slow, symmetric horizontal and vertical shifts and no long systematic left-to-right scanpath typical of reading or searching; this stable central viewing with minor adjustments best matches watching a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze clusters around code-like central regions with frequent short saccades between nearby points, repeated revisits to the same bands (around y\u2248400\u2013550) and occasional large excursions, matching the pattern of scanning and re-checking code seen in DEBUG rather than the more linear READ/INTERPRET patterns or the wider, more dynamic movements of PLAY/BROWSE/WATCH/SEARCH.",
+  "correct": true
+}

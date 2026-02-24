@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, irregular movements in both X and Y with no strong horizontal line-scan pattern of reading or the focused central region of gaming or video watching. This mixed, exploratory pattern best matches the browsing activity, which involves varied page layouts and scattered attention across the screen.",
+  "correct": false
+}

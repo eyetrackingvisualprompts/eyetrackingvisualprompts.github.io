@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is densely clustered near the screen center with frequent multi-directional saccades radiating outward, resembling continuous object tracking and spatial navigation patterns typical of game play rather than the more structured, columnar patterns of reading/searching or the left-side code-focused patterns of programming tasks.",
+  "correct": true
+}

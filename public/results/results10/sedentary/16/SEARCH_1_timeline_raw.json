@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "First ~6.5s show mainly high Y with horizontal X sweeps like reading code, then a marked drop of both X and Y to a lower region (switching to editor/console) with brief tall spikes similar to the WRITE example where gaze alternates between code area and other UI elements while typing and running code, matching the WRITE pattern more than other tasks.",
+  "correct": false
+}

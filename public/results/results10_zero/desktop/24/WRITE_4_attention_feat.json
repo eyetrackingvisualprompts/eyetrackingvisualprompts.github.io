@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows an extremely concentrated fixation cluster around a single point near the upper-center of the screen, indicating that gaze remained nearly static on one location for the full 10-second window. This pattern matches watching a video where the viewer\u2019s eyes rest on the main action area, rather than the distributed or scan-like patterns typical of reading, browsing, searching, playing games, or writing.",
+  "correct": false
+}

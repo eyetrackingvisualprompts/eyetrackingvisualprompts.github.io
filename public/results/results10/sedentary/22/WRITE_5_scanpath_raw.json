@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dense, iterative fixations in the upper-left region (likely the search box/results) combined with long saccades to the right side of the screen, closely matching the example pattern for SEARCH where users alternate between query/results and target content.",
+  "correct": false
+}

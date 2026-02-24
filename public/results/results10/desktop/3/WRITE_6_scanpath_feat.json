@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows a central cluster with occasional long saccades to both left and right regions at similar vertical levels, indicating scanning of multiple dispersed elements on a page, which aligns best with browsing behavior rather than the more linear READ pattern or localized WRITE/PLAY patterns.",
+  "correct": false
+}

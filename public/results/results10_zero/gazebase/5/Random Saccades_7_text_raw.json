@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show repeated large-amplitude jumps to distinct positions followed by ~1-second clusters of low-variance samples (stable fixations), with movements in both horizontal and vertical directions and variable amplitudes, matching a randomly moving target rather than strictly horizontal saccades, continuous central fixation, or more localized patterns typical of reading, video viewing, or the Balura game.",
+  "correct": true
+}

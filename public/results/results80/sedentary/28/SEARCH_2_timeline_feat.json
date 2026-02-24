@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large vertical and horizontal shifts with variable fixation patterns, resembling scanning and moving across different page regions rather than line-by-line reading or focused code inspection. This spiky, exploratory pattern best matches the SEARCH example plot.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Predominantly localized fixations with medium-length dwell times around code-like coordinates, frequent short corrective saccades within a compact area, and occasional large jumps to other screen regions closely resemble the INTERPRET exemplars\u2019 pattern of scrutinizing a small code snippet and intermittently consulting other screen areas, rather than the broader scanning of SEARCH/BROWSE or the wide horizontal sweeps of READ/WRITE/DEBUG.",
+  "correct": false
+}

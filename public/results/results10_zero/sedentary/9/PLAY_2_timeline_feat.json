@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions vary gradually across a limited vertical band with relatively long, stable fixations and smooth horizontal shifts, lacking the systematic line-by-line horizontal scanning of reading tasks or the rapid, large-amplitude multidirectional movements typical of games, search, or coding. This pattern is most consistent with passively watching a video.",
+  "correct": false
+}

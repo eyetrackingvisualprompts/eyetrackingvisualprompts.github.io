@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay around screen center with small, frequent horizontal and vertical shifts and occasional moderate jumps, resembling the mixed yet moderate exploration seen in browsing examples rather than the more structured lines of reading/writing or the larger, more dynamic shifts of watching videos, searching, or playing games.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains in a relatively compact central-lower region with short saccades and medium-length fixations, forming small horizontal shifts and occasional vertical adjustments, consistent with following lines of text. There are no large peripheral excursions (as in PLAY or SEARCH), no prolonged near-static upper-screen fixation (WATCH, WRITE), and less scattered exploratory movement than BROWSE, matching the READ pattern best.",
+  "correct": false
+}

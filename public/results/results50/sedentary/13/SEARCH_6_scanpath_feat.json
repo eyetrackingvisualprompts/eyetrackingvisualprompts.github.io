@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Two main gaze clusters (left-middle and upper-center) with frequent long saccades between them and to a few scattered points resemble shifting between search results and target content, matching the SEARCH scanpath more than the more localized coding/reading patterns or the broader, more dynamic WATCH/PLAY/BROWSE patterns.",
+  "correct": true
+}

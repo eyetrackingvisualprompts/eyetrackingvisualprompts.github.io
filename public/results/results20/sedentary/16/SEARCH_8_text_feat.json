@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long horizontal scanpaths across central/top regions resembling search results, interspersed with occasional large vertical jumps to other screen areas and back, closely matching the SEARCH example patterns rather than the more localized, line-structured READ/WRITE/DEBUG/INTERPRET behaviors or the more dynamic PLAY/WATCH movements.",
+  "correct": true
+}

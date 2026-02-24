@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows mid-screen horizontal fixations with moderate vertical shifts and intermittent larger saccades, indicating scanning result lists and moving between query box, results, and possible pages\u2014most consistent with web searching behavior compared to the more static READ or the more dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

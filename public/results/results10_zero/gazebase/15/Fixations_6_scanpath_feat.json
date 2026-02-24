@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points are clustered tightly around the screen center with minimal dispersion and only a single short movement, consistent with maintaining fixation on a static central target rather than following moving stimuli or scanning dynamic content.",
+  "correct": true
+}

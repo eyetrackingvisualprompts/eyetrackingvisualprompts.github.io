@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains in a narrow vertical band around mid-screen with long, stable fixations and small, line-like vertical shifts\u2014matching the sustained, line-by-line scanning pattern seen in the READ examples, rather than the broader, more exploratory movements typical of BROWSE or SEARCH.",
+  "correct": false
+}

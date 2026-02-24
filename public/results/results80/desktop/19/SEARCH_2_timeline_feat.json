@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal exploration with varying vertical positions, mixing focused bands with frequent shifts across regions\u2014more scattered and exploratory than READ or WRITE, but less dynamic and edge-reaching than PLAY or WATCH. This pattern best matches web SEARCH behavior involving scanning results and pages.",
+  "correct": true
+}

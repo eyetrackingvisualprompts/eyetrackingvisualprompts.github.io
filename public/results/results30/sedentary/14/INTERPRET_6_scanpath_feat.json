@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in the upper-left IDE/code area with short horizontal shifts and limited vertical exploration, matching the focused, localized viewing seen in the WRITE example rather than the broader or more structured patterns of browse, read, or search tasks.",
+  "correct": false
+}

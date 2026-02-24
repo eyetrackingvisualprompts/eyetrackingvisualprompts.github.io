@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the central upper area with moderate dispersion and several revisits across nearby regions, resembling the mixed reading-and-scanning pattern of search results pages more than the tighter horizontal lines of READ or the broader spread of BROWSE/WATCH/PLAY.",
+  "correct": false
+}

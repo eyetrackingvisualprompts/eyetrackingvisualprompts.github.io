@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are mostly confined to a mid\u2011upper vertical band with small, slow shifts and repeated fixations around a few nearby locations, punctuated by occasional modest jumps\u2014very similar to the BROWSE example\u2019s pattern of scanning and re-fixating sections of a webpage, and unlike the more line-structured READ or highly dynamic PLAY/SEARCH trajectories.",
+  "correct": false
+}

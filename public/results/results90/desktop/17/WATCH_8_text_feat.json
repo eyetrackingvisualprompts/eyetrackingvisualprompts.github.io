@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large saccades between widely separated vertical regions (top, mid, bottom) and horizontal positions, interleaved with short-to-moderate fixations and periods of local examination, match the scanning of SERP, result pages, and query box seen in the SEARCH examples more than the steadier line-based patterns of READ/WRITE or the more centrally clustered, stimulus-driven patterns of WATCH/PLAY.",
+  "correct": false
+}

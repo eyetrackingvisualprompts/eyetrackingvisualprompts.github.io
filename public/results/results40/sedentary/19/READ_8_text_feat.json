@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Long periods of horizontal scanning in upper page regions interleaved with large vertical jumps between top (around y\u2248150\u2013200) and bottom (y\u2248800\u2013950) screen areas suggest moving between content and browser chrome or page sections, typical of web browsing rather than focused reading or coding tasks.",
+  "correct": false
+}

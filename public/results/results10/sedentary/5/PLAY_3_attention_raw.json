@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is concentrated around the central area of the screen with some vertical spread, resembling following dynamic content in a video rather than scanning text or code, which matches the WATCH heatmap pattern most closely.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cluster around mid-screen with moderate, frequent small saccades and relatively stable bands for both X and Y, resembling scanning of a central content area with limited vertical range, which best matches the browsing pattern rather than the more structured reading or focused writing layouts.",
+  "correct": false
+}

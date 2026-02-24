@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows frequent short-range horizontal movements with moderate vertical shifts around a central region, resembling focused code editing with back-and-forth checks rather than extensive vertical scanning typical of READ/SEARCH or the more dispersed patterns seen in PLAY/WATCH/BROWSE. This matches the WRITE template most closely.",
+  "correct": false
+}

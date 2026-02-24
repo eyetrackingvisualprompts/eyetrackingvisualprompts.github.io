@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent medium-to-large saccades spanning wide horizontal and vertical extents, with relatively short, scattered fixations across the screen (including lower areas) resemble dynamic visual tracking typical of gameplay (e.g., Mario/Agario) more than the more line-structured, central-band patterns seen in reading, browsing, or searching, and lack the upper-screen focus of writing interfaces or the longer, more static fixations of passive video watching.",
+  "correct": false
+}

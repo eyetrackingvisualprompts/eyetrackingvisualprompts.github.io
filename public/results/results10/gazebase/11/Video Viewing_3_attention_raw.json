@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the upper-central portion of the screen with irregular spacing in both horizontal and vertical directions, lacking a single central cluster (Fixations), a strict horizontal band (Reading, Horizontal Saccades), or broad full-screen coverage (Balura Game). This pattern best matches a target that jumps to random positions and is held briefly, consistent with Random Saccades.",
+  "correct": false
+}

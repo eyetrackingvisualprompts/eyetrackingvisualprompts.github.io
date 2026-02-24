@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are widely distributed across the screen with many horizontal and vertical saccades and multiple regions of dense fixations, resembling the scattered, multi-area exploration seen in the SEARCH example rather than the more localized patterns of coding, reading, or watching tasks.",
+  "correct": false
+}

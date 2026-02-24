@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains near the horizontal center with slow, small vertical shifts forming plateaus, indicating line-by-line reading with occasional larger downward jumps consistent with progressing through text, rather than the broader, faster sweeps typical of browsing, searching, gaming, or watching video.",
+  "correct": false
+}

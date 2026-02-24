@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "X fixations show a pronounced cluster in the upper code area followed by a long, relatively stable segment near a lower region, consistent with alternating between reading and typing in an editor; this pattern and vertical transitions best match the WRITE example rather than the more exploratory movements of SEARCH/DEBUG or the smoother patterns of READ/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered tightly on a code-like region on the left with occasional long saccades to a secondary area on the right, matching the WRITE example pattern of focusing on the IDE while intermittently checking another panel, unlike the more dispersed or row-based patterns of other tasks.",
+  "correct": false
+}

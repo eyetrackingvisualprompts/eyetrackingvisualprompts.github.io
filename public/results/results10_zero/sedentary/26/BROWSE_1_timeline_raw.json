@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a relatively narrow vertical band with slow, smooth horizontal drift and few large saccades, consistent with following on-screen motion during continuous video watching rather than line-by-line reading or scanning discrete interface elements.",
+  "correct": false
+}

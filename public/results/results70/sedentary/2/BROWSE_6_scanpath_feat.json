@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers a wide horizontal area with frequent shifts between upper and middle regions, resembling scanning result lists and detailed content. The pattern is more dispersed than READ/INTERPRET and less globally scattered than BROWSE, matching the SEARCH example most closely.",
+  "correct": false
+}

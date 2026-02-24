@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are spread widely along a horizontal band across the upper-middle of the screen, with no dense cluster on a specific region. This pattern matches the WATCH example, where gaze follows dynamic visual content across the screen, rather than being concentrated (coding tasks) or line-structured (reading/search).",
+  "correct": false
+}

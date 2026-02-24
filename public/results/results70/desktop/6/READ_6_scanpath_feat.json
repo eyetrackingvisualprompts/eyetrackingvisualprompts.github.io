@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form several dense, nearly horizontal bands with systematic left-to-right saccades and limited vertical transitions, matching line-by-line reading behavior more than the other activities, which show either more dispersed exploration, vertical scanning, or upper-screen focus.",
+  "correct": true
+}

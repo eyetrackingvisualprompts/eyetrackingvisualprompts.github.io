@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze follows tightly clustered, predominantly horizontal scanpaths progressing down the screen in bands (y\u2248150\u2192250\u2192320\u2192360\u2192420\u2192520\u2192650\u2192750\u2192800\u2192900), with frequent short intra-line saccades and periodic long regressions to the left\u2014matching line-by-line text reading behavior more than the broader, less structured movements seen in browsing, search, or video watching.",
+  "correct": true
+}

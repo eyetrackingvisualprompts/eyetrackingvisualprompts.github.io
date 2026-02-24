@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "After initial large transitions between distant regions (likely scanning code and output area), the gaze remains confined to a compact code-like area with many short, back-and-forth fixations around similar y-coordinates, reflecting detailed, line-level reasoning rather than broad navigation (SEARCH/BROWSE) or extended horizontal reading (READ). This localized, iterative inspection pattern best matches INTERPRET, where participants carefully inspect a small code snippet to infer its behavior.",
+  "correct": true
+}

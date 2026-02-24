@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show relatively localized, stepwise shifts with clusters along nearby vertical bands and moderate vertical progression, consistent with line-by-line reading and occasional regressions rather than the larger, more erratic movements typical of playing games, broad web searching/browsing, or video watching; they also lack the frequent screen-edge excursions and strong central clustering often seen during writing in a word processor.",
+  "correct": false
+}

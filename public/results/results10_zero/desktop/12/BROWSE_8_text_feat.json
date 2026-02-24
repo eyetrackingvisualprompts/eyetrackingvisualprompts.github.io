@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are relatively long and clustered near the screen center with small, smooth saccades and occasional larger vertical shifts, consistent with following visual content in a video rather than systematic line-by-line reading, horizontal game tracking, or text-intensive search/browse/write behavior.",
+  "correct": false
+}

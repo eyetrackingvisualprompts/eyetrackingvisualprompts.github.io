@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small horizontal band with dense, short back-and-forth saccades and revisits, consistent with monitoring and editing a localized code region while typing, rather than the more extensive vertical scanning seen in READ/BROWSE or the broader movements typical of WATCH/PLAY/SEARCH/DEBUG/INTERPRET.",
+  "correct": false
+}

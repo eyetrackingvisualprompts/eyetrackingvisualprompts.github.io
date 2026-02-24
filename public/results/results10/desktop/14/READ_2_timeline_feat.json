@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Horizontally progressing X fixations with small regressions and relatively stable Y positions match the line-by-line reading pattern seen in the READ example more than the more scattered or vertical patterns in other tasks.",
+  "correct": true
+}

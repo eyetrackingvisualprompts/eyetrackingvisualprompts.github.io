@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between far-apart screen regions (top, bottom, off-screen), repeated revisits to vertical positions suggestive of SERP and result pages, and mixed short fixations around different vertical bands match exploratory, scanning behavior typical of web search rather than focused code, continuous text reading, or video watching.",
+  "correct": false
+}

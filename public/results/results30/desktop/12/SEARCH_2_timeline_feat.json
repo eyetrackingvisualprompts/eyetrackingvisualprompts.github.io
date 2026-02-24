@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with Y fixations mostly in the upper half and occasional vertical shifts, indicating attention switching between a results list and other page elements; this pattern aligns more with SEARCH than the more line-structured READ or the more static WATCH/WRITE behaviors.",
+  "correct": true
+}

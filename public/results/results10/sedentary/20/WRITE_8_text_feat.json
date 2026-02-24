@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a relatively small mid-lower code/IDE-like region with repeated short saccades among nearby coordinates and several long fixations (0.5\u20130.9s), consistent with focused code production and cursor/text monitoring rather than long horizontal line sweeps (READ/BROWSE) or large-screen, stimulus-driven shifts (WATCH/PLAY/SEARCH). The pattern best matches the WRITE examples, which show dense, local movements around similar y-ranges and prolonged fixations while typing and thinking.",
+  "correct": true
+}

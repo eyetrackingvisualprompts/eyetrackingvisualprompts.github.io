@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely concentrated in a compact, horizontally-elongated region around the screen center with minimal spread elsewhere, matching the focused line-by-line reading pattern seen in the READ example, unlike the broader or multi-area distributions of coding, search, or browsing tasks.",
+  "correct": false
+}

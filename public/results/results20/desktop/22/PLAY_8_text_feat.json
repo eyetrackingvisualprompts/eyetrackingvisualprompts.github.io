@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is confined to the central-mid region with frequent short saccades and medium-length fixations, resembling inspection of a small content area (e.g., a paragraph or panel) without systematic horizontal scanning found in READ, nor the large-amplitude shifts of WATCH/PLAY/SEARCH. This spatial and temporal pattern best matches the BROWSE example segment, which also shows dense, local movements around the mid-screen.",
+  "correct": false
+}

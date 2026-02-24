@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in mid-to-lower screen bands with many short horizontal saccades and brief fixations, frequently sweeping laterally across wide x-ranges (suggestive of scanning rows of mixed content) and jumping vertically between mid-page and far bottom regions, matching the heterogeneous, scroll-and-skim behavior seen in the BROWSE examples rather than the more structured line-by-line patterns of READ or the focal object tracking of PLAY/WATCH.",
+  "correct": false
+}

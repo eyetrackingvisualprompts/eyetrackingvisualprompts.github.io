@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small region with minimal horizontal scanning or vertical progression, indicating prolonged fixation on a relatively static central area, consistent with watching a video rather than reading, browsing, searching, playing, or writing which typically show wider or directional scanpaths.",
+  "correct": false
+}

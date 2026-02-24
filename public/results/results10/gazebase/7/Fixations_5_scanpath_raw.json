@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze traces cover a confined vertical strip with multiple discrete positions and abrupt transitions rather than smooth horizontal sweeps or clustered fixation. This pattern matches following a target that jumps to different random locations and holds briefly, characteristic of the Random Saccades task.",
+  "correct": false
+}

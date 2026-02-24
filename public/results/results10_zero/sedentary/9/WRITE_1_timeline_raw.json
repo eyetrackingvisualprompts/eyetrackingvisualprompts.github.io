@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions stay within a narrow horizontal band with small, regular saccades and long fixations, without large rapid excursions or tracking of moving objects. This stable left\u2013right pattern is characteristic of reading text rather than interactive tasks like PLAY, SEARCH, or coding-related activities.",
+  "correct": false
+}

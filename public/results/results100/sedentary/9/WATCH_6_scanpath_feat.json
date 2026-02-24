@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across the screen with frequent long saccades in multiple directions and no clear reading lines or column structure, closely matching the dynamic, spatially spread pattern shown in the PLAY example (tracking moving objects and navigation) rather than the more localized or linear patterns of coding, reading, or browsing tasks.",
+  "correct": false
+}

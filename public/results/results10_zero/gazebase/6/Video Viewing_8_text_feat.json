@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between dispersed fixation points with both horizontal (up to ~\u00b115\u00b0) and vertical (~\u00b14\u00b0) components, with target-like ~1 s dwell intervals broken by large, multi-directional saccades rather than a single central fixation, line-structured reading pattern, or purely horizontal movements; this best matches the random target jumps of the Random Saccades task.",
+  "correct": false
+}

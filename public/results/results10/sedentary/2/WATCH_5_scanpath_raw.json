@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The scanpath shows concentrated fixations around a narrow code region with repeated vertical sweeps between that region and a lower area, similar to the INTERPRET example where participants alternate between reading code and mentally tracing its execution, rather than the broader navigation of WRITE/DEBUG or the screen-wide exploration of BROWSE/SEARCH.",
+  "correct": false
+}

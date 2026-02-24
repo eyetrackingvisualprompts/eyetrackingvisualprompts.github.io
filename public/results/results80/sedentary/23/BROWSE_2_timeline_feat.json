@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows relatively high, variable X positions with irregular saccades and less structured horizontal scanning than reading or coding, resembling the more dispersed, dynamic patterns seen in the PLAY examples rather than the line-by-line or code-focused patterns of READ/WRITE/DEBUG/INTERPRET/SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show large, discrete jumps in gaze position to widely separated locations across both horizontal and vertical axes, each followed by relatively stable clusters indicative of fixations at those positions. This pattern matches pursuit of a target that jumps to random screen locations and holds for ~1 s, consistent with the Random Saccades task rather than rhythmic horizontal-only motion, continuous reading-like scanning, static fixation, or complex game/video viewing patterns.",
+  "correct": true
+}

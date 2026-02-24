@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions for both X and Y fluctuate moderately around the screen center with frequent short saccades and no strong vertical bias, closely matching the distributed, exploratory pattern seen in the BROWSE example rather than the more structured or polarized patterns of the other activities.",
+  "correct": true
+}

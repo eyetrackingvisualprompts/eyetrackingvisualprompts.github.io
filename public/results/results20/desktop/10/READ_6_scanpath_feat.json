@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a long, narrow horizontal band with orderly progression along the x-axis and limited vertical movement, matching line-by-line reading behavior rather than the more clustered (WRITE/BROWSE), scattered (PLAY/SEARCH), or upper-screen-focused (WATCH) patterns.",
+  "correct": true
+}

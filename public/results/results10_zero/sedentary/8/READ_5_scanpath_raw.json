@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid, and multidirectional gaze shifts over a wide central/lower area of the screen with brief clustered fixations, characteristic of tracking moving game elements (e.g., Mario/Pong/Agario), rather than the more linear or block-focused patterns typical of reading, coding, or searching tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, localized fixations and short saccades over a confined central code/IDE region with repeated revisits and occasional large context shifts (to top/side UI) match programming/IDE interaction. The pattern strongly resembles the WRITE exemplars (coding with intermittent checks) rather than the more static INTERPRET/DEBUG or more scan-based SEARCH/BROWSE behaviors.",
+  "correct": true
+}

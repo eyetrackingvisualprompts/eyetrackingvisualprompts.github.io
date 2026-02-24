@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper-central region with small vertical oscillations around a stable line, interspersed with occasional downward\u2013upward sweeps, consistent with focusing near the text input line and brief glances to other interface elements during typing, matching the WRITE pattern more than the broader exploratory shifts seen in SEARCH/BROWSE or the larger scene-wide movements of WATCH/PLAY.",
+  "correct": false
+}

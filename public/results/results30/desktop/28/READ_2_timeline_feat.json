@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, moderately paced horizontal movements with small vertical shifts and dense fixations, resembling line-by-line progression over text; this pattern best matches the provided READ example compared to the more scattered (BROWSE/SEARCH), stationary (WATCH), upward-biased (WRITE), or large-amplitude (PLAY) patterns.",
+  "correct": true
+}

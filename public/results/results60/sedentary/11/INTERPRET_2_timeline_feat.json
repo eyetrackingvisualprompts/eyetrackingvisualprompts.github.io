@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered with small, infrequent saccades and very limited horizontal or vertical scanning, indicating a focused, local inspection pattern typical of understanding a short code snippet rather than extended navigation, reading, or debugging across larger areas.",
+  "correct": true
+}

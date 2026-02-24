@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position shows large, regular, symmetric back-and-forth shifts between two horizontal extremes with ~1 s plateaus, while Y position stays near zero with only small fluctuations\u2014matching the structured left-right tracking of the Horizontal Saccades task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread over the upper-left region with multiple vertically separated clusters resembling attention to search box, query results, and snippets, matching the SEARCH example pattern more than the more centralized, columnar code or reading layouts.",
+  "correct": false
+}

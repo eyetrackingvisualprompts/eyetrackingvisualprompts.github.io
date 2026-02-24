@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The scanpath shows wide, repeated transitions between dispersed screen areas combined with dense fixations in a primary code region, matching the exploratory and back-and-forth gaze behavior typical of debugging rather than the more localized patterns of reading/interpreting or the more uniform motion of watching/playing.",
+  "correct": true
+}

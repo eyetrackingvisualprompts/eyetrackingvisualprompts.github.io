@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered around the upper-central region with some vertical spread, closely matching the SEARCH example pattern (focus on search box and result list) rather than the more horizontally distributed READ or center-wide BROWSE layouts.",
+  "correct": true
+}

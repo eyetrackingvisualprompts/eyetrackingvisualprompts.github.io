@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows long horizontal sweeps across wide x-range with multiple vertical excursions and scattered fixations resembling navigation through webpages, matching the BROWSE example more than the more localized patterns of coding, reading, or watching tasks.",
+  "correct": false
+}

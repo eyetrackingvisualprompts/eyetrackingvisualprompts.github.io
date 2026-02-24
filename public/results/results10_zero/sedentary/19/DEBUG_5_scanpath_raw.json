@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows frequent, irregular movements within a confined area plus several long saccades across the screen, consistent with tracking moving game elements and quickly shifting attention between regions, which matches gameplay more than the more systematic or text-focused patterns of reading, writing, searching, or debugging.",
+  "correct": false
+}

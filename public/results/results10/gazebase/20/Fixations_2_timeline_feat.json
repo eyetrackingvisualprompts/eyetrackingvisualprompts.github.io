@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze drifts slowly and smoothly across both axes with small, irregular shifts and no repetitive structure or large discrete jumps, matching natural, unconstrained eye movements during free video viewing rather than the more structured or static patterns of the other tasks.",
+  "correct": false
+}

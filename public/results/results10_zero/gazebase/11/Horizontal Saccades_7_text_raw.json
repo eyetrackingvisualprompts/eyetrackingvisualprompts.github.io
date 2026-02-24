@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates in large, nearly symmetric horizontal shifts between about \u221215\u00b0 and +16\u00b0 with relatively stable plateaus at each side and minimal vertical movement, matching the pattern of following a horizontally moving target rather than random, reading, fixation, video viewing, or game-like gaze behavior.",
+  "correct": true
+}

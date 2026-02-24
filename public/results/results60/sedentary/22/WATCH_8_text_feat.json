@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen areas including off-center/extreme coordinates, rapid shifts between dispersed regions (top, bottom, corners), and mixed vertical/horizontal movements with relatively brief fixations resemble tracking dynamic game elements rather than the more line- or block-structured patterns of reading, coding, or web browsing.",
+  "correct": false
+}

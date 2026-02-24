@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The target data shows relatively narrow horizontal gaze range with modest, localized saccades and stable fixations near a small code region, closely matching the INTERPRET example pattern and differing from the broader, more exploratory patterns in SEARCH, BROWSE, or WATCH and the denser activity in WRITE/DEBUG.",
+  "correct": true
+}

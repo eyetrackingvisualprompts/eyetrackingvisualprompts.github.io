@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions for both X and Y fluctuate moderately around the screen center with irregular but frequent saccades and no strong horizontal reading pattern or stable top/bottom bias; this mixed, exploratory scan pattern best matches the browsing behavior example.",
+  "correct": false
+}

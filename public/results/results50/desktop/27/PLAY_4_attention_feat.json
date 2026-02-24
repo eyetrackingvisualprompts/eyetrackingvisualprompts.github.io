@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered around the central region with moderate vertical spread and some scattered points, resembling the BROWSE example heatmap more than the tighter central SEARCH cluster or the horizontal band patterns of READ/WRITE and WATCH/PLAY distributions.",
+  "correct": false
+}

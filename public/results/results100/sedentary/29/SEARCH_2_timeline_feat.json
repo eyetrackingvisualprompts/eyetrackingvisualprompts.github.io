@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated horizontal scanning with stepwise downward Y movements and many saccades across a wide X range, resembling navigation through multiple vertically-scrolling web pages, matching the BROWSE pattern more than the more focused or static tasks.",
+  "correct": false
+}

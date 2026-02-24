@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-to-long fixations (200\u20131000 ms) interleaved with rapid saccades jumping between multiple clustered regions, including repeated returns to similar upper-screen coordinates. This pattern aligns with code debugging, where developers repeatedly switch between related code fragments (e.g., function definitions, error locations, and outputs) rather than the more linear patterns typical of reading, interpreting, or writing, or the smoother, more continuous motion found in watching videos or playing games.",
+  "correct": false
+}

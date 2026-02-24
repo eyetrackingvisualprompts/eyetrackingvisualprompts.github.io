@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows several large, irregular saccades across wide screen regions with clustered refixations on multiple scattered locations, matching the dynamic, visually driven search-and-refixation behavior of the Balura Game rather than the more structured or constrained patterns of the other tasks.",
+  "correct": false
+}

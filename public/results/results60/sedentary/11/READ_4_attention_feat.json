@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are distributed horizontally across a wide lower band with additional sparser points elsewhere, indicating following dynamic content rather than focused reading or code-related tasks; this spread best matches the WATCH example pattern.",
+  "correct": false
+}

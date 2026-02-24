@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a tight region on the left (code area) with repeated long saccades to a cluster on the far right (e.g., console or documentation), closely matching the WRITE example pattern of coding with periodic checks of output, unlike the denser, more vertically distributed DEBUG pattern.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide spatial exploration with frequent large saccades across screen regions (including off-center/top areas), irregular revisits, and mixed vertical/horizontal movements resembles scanning heterogeneous web pages more than the structured line-by-line patterns of READ or the more localized, code-area-focused patterns of programming tasks. The dynamics and dispersion best match the provided BROWSE examples.",
+  "correct": false
+}

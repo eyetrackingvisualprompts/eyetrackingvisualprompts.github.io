@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated near the screen center with small, slow movements and stable fixations, with only occasional moderate shifts and no large, rapid multidirectional excursions. This pattern is characteristic of sustained reading rather than dynamic scanning (SEARCH/BROWSE), rapid wide movements (PLAY/WATCH), or frequent top-area reference typical for WRITE.",
+  "correct": false
+}

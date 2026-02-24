@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows continuous, moderately wide horizontal movements with frequent vertical shifts and many saccades, resembling tracking dynamic objects across the screen. This spatiotemporal pattern aligns most closely with the PLAY examples rather than the more line-structured (READ/WRITE/INTERPRET) or more static (WATCH) behaviors.",
+  "correct": true
+}

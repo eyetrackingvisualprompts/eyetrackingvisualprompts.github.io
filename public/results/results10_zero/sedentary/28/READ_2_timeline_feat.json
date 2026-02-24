@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a narrow vertical band near screen center with slow, small horizontal shifts and long stable fixations, indicating following central visual content rather than systematic line-by-line scanning of text or code; this pattern aligns best with passively watching a video.",
+  "correct": false
+}

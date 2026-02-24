@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent, localized fixations and saccades over compact code-like regions interleaved with large jumps to UI elements (top bars, far right), revisits to the same areas, and long problem-solving dwells are characteristic of inspecting and re\u2011inspecting buggy code and outputs rather than continuous reading or passive watching, best matching the DEBUG pattern.",
+  "correct": false
+}

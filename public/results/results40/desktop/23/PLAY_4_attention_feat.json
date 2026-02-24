@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered in the mid-screen region with moderate vertical spread and scattered peripheral points, closely matching the browsing example heatmap rather than the more horizontally elongated pattern of reading or the wider spread of playing or watching video.",
+  "correct": false
+}

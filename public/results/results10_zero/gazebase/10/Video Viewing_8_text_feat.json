@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shifts show large, irregular jumps in both horizontal and vertical directions, with positions scattered broadly across the visual field and dwell times around ~200\u2013400 ms at each location, matching a task where a target moves unpredictably and is held for about a second. This pattern is inconsistent with the strictly central fixation, periodic horizontal-only motion, or structured text-like scanning seen in the other classes, so it best fits Random Saccades.",
+  "correct": false
+}

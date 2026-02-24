@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a predominantly horizontal scanline with small vertical variation, closely matching the structured left-to-right reading pattern seen in the READ example and differing from the more scattered or vertically distributed patterns of the other activities.",
+  "correct": true
+}

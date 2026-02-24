@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows several discrete, well-separated fixation clusters scattered across both horizontal and vertical dimensions, with no strong central bias or clear horizontal reading pattern. This pattern matches a target that jumps to random screen positions and is fixated for brief intervals, consistent with the Random Saccades task.",
+  "correct": true
+}

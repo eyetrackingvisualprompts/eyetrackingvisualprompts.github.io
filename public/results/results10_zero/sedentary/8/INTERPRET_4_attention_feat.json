@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region on the left side with almost no horizontal scanning or line-by-line progression, suggesting attention to a relatively static area (such as a character or object) rather than reading or code/navigation tasks, which better matches watching a video than the other activities.",
+  "correct": false
+}

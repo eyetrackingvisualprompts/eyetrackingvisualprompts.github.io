@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps in both horizontal and vertical directions across much of the screen, with gaze holding relatively steady at each visited location before moving to another. This pattern of multi-directional, stepwise movements matches following a randomly moving target rather than strictly horizontal tracking, central fixation, structured reading lines, game-related clustered fixations, or more distributed video free-viewing.",
+  "correct": false
+}

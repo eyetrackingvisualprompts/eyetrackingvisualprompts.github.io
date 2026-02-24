@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large vertical and horizontal shifts across wide screen regions with extended periods around central and lower areas, plus some off-screen/blink artifacts, consistent with following dynamic video content rather than structured reading, code, or targeted search/interaction.",
+  "correct": false
+}

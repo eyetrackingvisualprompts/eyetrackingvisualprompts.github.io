@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a tall, narrow vertical band on the left side with clusters at multiple vertical positions, resembling scanning up and down through a small code block rather than horizontal text reading or wide-area browsing; this pattern best matches the INTERPRET (code understanding) task.",
+  "correct": false
+}

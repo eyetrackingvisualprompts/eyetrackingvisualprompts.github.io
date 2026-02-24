@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates show large, smooth shifts across wide screen regions with less structured horizontal line-by-line patterns typical of reading or code inspection, and without the tight object-following seen in many games. This broad, continuous scanning over varied vertical and horizontal areas is most consistent with passively watching dynamic visual content such as a video.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in the upper-left region with a few scattered fixations vertically, resembling scanning of a web page or list, similar to the BROWSE example and unlike the more centrally focused or code-specific patterns of other tasks.",
+  "correct": false
+}

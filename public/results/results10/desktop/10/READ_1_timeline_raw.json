@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, gradual left-to-right horizontal progression with occasional discrete downward jumps and relatively stable vertical position, matching reading-like line transitions similar to the READ example and unlike the more erratic or multi-directional patterns of browsing, searching, or playing.",
+  "correct": true
+}

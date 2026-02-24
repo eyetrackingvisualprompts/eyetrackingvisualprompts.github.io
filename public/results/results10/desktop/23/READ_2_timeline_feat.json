@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal progression with noticeable vertical shifts and varied saccades, indicating scanning across different screen regions (results, query box, other elements), which aligns best with the SEARCH pattern compared to the more uniform READ or more dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

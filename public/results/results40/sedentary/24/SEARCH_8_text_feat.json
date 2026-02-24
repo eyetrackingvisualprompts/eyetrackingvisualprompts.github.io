@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Predominantly code-region horizontal scanning with many regressions between central/upper text-like bands and lower area, plus repeated long saccades IDE-output/console area \u2194 code area and back, matches the WRITE examples\u2019 coding/compilation loop more than the denser local re-reading of INTERPRET/DEBUG or the more static horizontal lines of READ/SEARCH.",
+  "correct": false
+}

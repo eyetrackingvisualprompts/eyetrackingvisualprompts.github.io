@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a relatively narrow horizontal band with small, systematic horizontal shifts and minor vertical drift, consistent with line-by-line reading rather than large multidirectional movements typical of play, search, browse, watch, or the focused central gaze of writing.",
+  "correct": false
+}

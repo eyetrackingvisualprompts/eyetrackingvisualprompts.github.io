@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The data shows long, continuous saccades with relatively few and short fixations, and large gaze shifts across the screen (including rapid moves toward the center and corners). This pattern is more characteristic of visually tracking dynamic objects or navigation targets in a game than of reading, coding, or web browsing, which typically exhibit denser, shorter saccades and more frequent fixations in structured regions.",
+  "correct": false
+}

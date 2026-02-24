@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range vertical transitions between two main bands (results and content), with occasional deeper excursions and irregular scanning, closely matching the SEARCH example pattern rather than the more linear READ pattern or the more dispersed WATCH/PLAY behaviors.",
+  "correct": false
+}

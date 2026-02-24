@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact region on the left-center of the screen, with little horizontal spread, closely matching the INTERPRET example heatmap for focused inspection of a small code snippet rather than the slightly broader and more varied patterns seen in WRITE or DEBUG.",
+  "correct": false
+}

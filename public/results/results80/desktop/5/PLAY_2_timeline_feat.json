@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively stable within a narrow horizontal band with slow, small shifts in both X and Y, resembling line-by-line scanning of text and closely matching the READ example pattern more than the other activities.",
+  "correct": false
+}

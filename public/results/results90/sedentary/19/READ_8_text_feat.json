@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows systematic, mostly horizontal scanpaths progressing in bands from upper to lower screen with short, regular saccades and medium fixations, consistent with line-by-line reading. There are no object-following trajectories, large exploratory jumps, or code/IDE-centered clusters typical of PLAY, WATCH, SEARCH, BROWSE, WRITE, INTERPRET, or DEBUG tasks, and the vertical progression from top toward bottom and then lower bands strongly matches the provided READ examples.",
+  "correct": true
+}

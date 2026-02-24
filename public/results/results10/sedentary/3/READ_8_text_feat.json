@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is constrained to a narrow horizontal band near the bottom of the screen with rapid short-range saccades and brief fixations tracking along that band, matching the dynamic, localized bottom-area gaze seen in gameplay (e.g., status bar or character region) rather than the larger vertical excursions typical of reading, browsing, or coding tasks.",
+  "correct": false
+}

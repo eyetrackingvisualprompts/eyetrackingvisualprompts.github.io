@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed across multiple vertical regions and depths on the left side, with frequent long saccades between separated clusters and no clear linear reading pattern, closely resembling the example SEARCH scanpath rather than the more localized INTERPRET/WRITE or horizontal READ patterns.",
+  "correct": false
+}

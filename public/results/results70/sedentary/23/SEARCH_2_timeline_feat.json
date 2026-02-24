@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The X fixation shows repeated horizontal sweeps with step-like regressions, and Y fixation gradually increases with occasional line-change drops, closely matching the structured left-to-right, line-by-line pattern of reading text seen in the READ example rather than the more variable or focal patterns of coding, search, or video tasks.",
+  "correct": false
+}

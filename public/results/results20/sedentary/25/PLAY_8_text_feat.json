@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large spatial jumps across widely separated regions (both horizontally and vertically), alternating between upper and lower screen and side areas, with medium-length fixations and no clear line-by-line structure suggest exploratory scanning of a complex webpage rather than focused reading, code-centric tasks, or following dynamic game objects or videos.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a left-side coding area with repeated horizontal shifts and additional scattered looks to other regions, closely matching the DEBUG example heatmap and typical code-inspection and testing behavior rather than the more centralized or vertically structured patterns of other tasks.",
+  "correct": true
+}

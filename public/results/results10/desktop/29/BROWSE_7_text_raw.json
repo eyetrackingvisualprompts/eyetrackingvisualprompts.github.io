@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays mostly near the upper\u2011center region where search bars and result titles appear, with small vertical shifts between closely spaced lines and occasional downward jumps to mid\u2011screen, matching the scan\u2013scroll\u2013refocus pattern seen in the SEARCH example more than the steadier READ pattern or the more dynamic BROWSE/PLAY/WATCH behaviors.",
+  "correct": false
+}

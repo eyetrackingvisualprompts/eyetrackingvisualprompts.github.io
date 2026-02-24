@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are concentrated in a compact region with many small local shifts and revisits, consistent with focused inspection of a small code area in an IDE rather than broad horizontal sweeps (reading/browsing/search) or large scene shifts (play/watch). This localized, iterative pattern best matches the WRITE (coding) task context.",
+  "correct": false
+}

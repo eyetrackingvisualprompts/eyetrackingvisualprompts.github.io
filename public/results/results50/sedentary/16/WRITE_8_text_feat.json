@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent long fixations and revisits around a compact central area consistent with code/editor lines, interspersed with large, rapid saccades to extreme screen regions (likely console, file tree, or other IDE panels) match the WRITE examples more than other tasks, which either show smoother reading (READ), more scattered web/video scanning (BROWSE/SEARCH/WATCH), or game-like wide tracking (PLAY).",
+  "correct": true
+}

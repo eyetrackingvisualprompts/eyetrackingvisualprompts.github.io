@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades across wide screen areas (including towards corners and off-center regions), many revisits to dynamic central zones around mid\u2011screen, and rapid shifts between disparate clusters (e.g., upper HUD-like areas and lower regions) resemble continuous target tracking and spatial monitoring patterns typical of gameplay rather than the more line-structured, locally bounded scanpaths seen in reading, coding, or web search/browsing tasks.",
+  "correct": true
+}

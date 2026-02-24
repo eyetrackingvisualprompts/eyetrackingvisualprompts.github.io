@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-screen with frequent short saccades and modest vertical shifts, including occasional larger jumps then re-centering\u2014matching scanning of a webpage\u2019s mid-region and navigating items, and closely resembling the spatial-temporal fixation/saccade patterns in the BROWSE examples more than the more linear READ patterns or the more dispersed WATCH/PLAY behaviors.",
+  "correct": false
+}

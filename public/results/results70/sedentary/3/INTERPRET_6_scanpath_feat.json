@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a compact code area with frequent vertical shifts and occasional long saccades to other regions, closely matching the example DEBUG scanpath pattern and typical behavior when searching for and verifying code errors.",
+  "correct": false
+}

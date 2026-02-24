@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered in two main horizontal regions (upper-left and mid-right) with repeated vertical transitions, matching typical code writing behavior where attention alternates between code area, console/output, and possibly editor UI, rather than the more linear patterns of reading or the full-screen focus of watching/playing.",
+  "correct": false
+}

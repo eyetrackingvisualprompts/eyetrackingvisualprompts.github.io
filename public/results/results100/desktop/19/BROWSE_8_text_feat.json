@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band (y\u22480.24\u20130.44) with predominantly horizontal saccades and short vertical shifts, forming stable line-like scanpaths and local regressions, which closely matches the structured, line-by-line reading pattern seen in the READ examples rather than the more dispersed and exploratory movements of SEARCH or BROWSE.",
+  "correct": false
+}

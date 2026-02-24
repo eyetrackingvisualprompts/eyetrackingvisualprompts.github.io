@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large vertical and horizontal saccades between dispersed regions (upper, center, and lower screen), including jumps to extreme top/bottom and corner-like areas, with many short fixations and rapid direction changes, match the dynamic, wide-range gaze shifts seen in the PLAY examples rather than the more line- or region-structured patterns of reading, writing, searching, or browsing, or the upper-band focus of watching video.",
+  "correct": true
+}

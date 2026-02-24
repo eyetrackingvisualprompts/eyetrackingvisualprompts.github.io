@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form several clustered regions with moderate dispersion and frequent transitions between them, resembling exploration of different content areas on a webpage, which matches the browsing pattern more than the more constrained READ/WRITE or highly dynamic WATCH/PLAY patterns.",
+  "correct": false
+}

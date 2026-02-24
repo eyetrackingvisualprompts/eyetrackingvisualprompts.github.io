@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with many medium-long fixations, short corrective saccades, and frequent revisits to nearly the same coordinates, indicating intensive local reasoning rather than line-by-line reading or broad web/document scanning. The pattern closely matches the INTERPRET examples, where participants repeatedly inspect and re-inspect a small area of code to mentally simulate its behavior.",
+  "correct": true
+}

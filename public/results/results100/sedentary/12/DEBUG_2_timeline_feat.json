@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow horizontal band with relatively small, local saccades and modest vertical shifts, indicating focused inspection of a compact code snippet rather than scanning long text (READ/BROWSE) or widely exploring content (SEARCH/WATCH/PLAY); this pattern best matches the INTERPRET example.",
+  "correct": false
+}

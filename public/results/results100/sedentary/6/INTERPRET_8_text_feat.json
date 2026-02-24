@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Long dwell times on a localized code-like region with many short, back-and-forth saccades around similar coordinates, interspersed with occasional large jumps to other areas, matches the intensive re-reading and revisiting pattern seen in DEBUG examples more than in WRITE/INTERPRET or browsing/searching behaviors.",
+  "correct": false
+}

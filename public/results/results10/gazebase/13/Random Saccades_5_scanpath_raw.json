@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular jumps across both horizontal and vertical axes with positions held briefly, matching the dispersed, multi-directional pattern of the Random Saccades example rather than the more structured or constrained patterns of the other tasks.",
+  "correct": true
+}

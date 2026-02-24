@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show relatively small, smooth fluctuations around central screen regions with no systematic left-to-right scanning patterns typical of reading or writing, and without the large, rapid directional shifts common in active game playing or web searching/browsing. This stable, moderate movement pattern is most consistent with passively watching video content on the screen.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations cluster in a relatively small code-like region with frequent medium-length saccades back and forth between nearby lines/segments, resembling detailed reasoning over a snippet rather than long horizontal text sweeps (READ/BROWSE) or broader exploration (SEARCH/PLAY/WATCH). The pattern aligns best with focused inspection typical of INTERPRET examples.",
+  "correct": false
+}

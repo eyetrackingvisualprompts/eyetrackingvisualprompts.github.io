@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium horizontal span with gradual upward drift in Y fixations and frequent short saccades, resembling code inspection with repeated passes over similar lines, which best matches the DEBUG pattern among the provided examples.",
+  "correct": true
+}

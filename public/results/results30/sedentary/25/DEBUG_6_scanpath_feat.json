@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered on a single code-like region in the left-center of the screen with repeated fixations and short saccades, similar to the INTERPRET example and less vertically split than the DEBUG pattern, indicating focused inspection of one code snippet rather than searching or editing across multiple areas.",
+  "correct": false
+}

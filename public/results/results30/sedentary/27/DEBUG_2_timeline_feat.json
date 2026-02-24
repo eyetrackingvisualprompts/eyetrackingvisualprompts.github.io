@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions are relatively stable with small, slow movements and few large saccades, closely matching the calm, focused pattern seen in the WRITE example plot rather than the more dynamic or scanning behaviors of other tasks.",
+  "correct": false
+}

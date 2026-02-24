@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a code-like central region with many short saccades and medium fixations, frequent revisits to similar coordinates, and intermittent large jumps to UI/extreme areas, matching the pattern of scanning and re-checking code plus interacting with the IDE typical for debugging rather than linear reading, browsing, or game-like tracking.",
+  "correct": false
+}

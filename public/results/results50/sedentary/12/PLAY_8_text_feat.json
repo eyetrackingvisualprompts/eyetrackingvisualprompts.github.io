@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including to extreme off-center coordinates and outside nominal screen bounds), repeated returns to mid-field areas, and irregular fixation pattern without line-structured scanning are characteristic of visually tracking dynamic game elements rather than reading/browsing/code-oriented tasks; this spatial-temporal profile best matches PLAY.",
+  "correct": true
+}

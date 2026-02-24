@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between discrete fixation points with ~0.2\u20130.7 s fixations and saccades of varying amplitudes in both horizontal and vertical directions, including some large jumps across the screen. This pattern matches following a randomly moving target rather than strictly horizontal tracking, sustained central fixation, line-structured reading, or game-/video-like exploratory scanning.",
+  "correct": false
+}

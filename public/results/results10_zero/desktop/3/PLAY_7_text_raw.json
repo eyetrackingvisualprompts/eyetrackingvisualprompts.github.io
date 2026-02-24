@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show frequent large saccades across both horizontal and vertical axes (including to extremes near top/bottom of the screen) interleaved with short fixations at varied locations, indicating continuous wide-area visual exploration and rapid target shifts typical of game play, especially a game requiring looking in all directions, rather than the more line-structured, horizontally constrained patterns of reading, writing, or browsing, or the more central, smoother patterns of watching video or search result pages.",
+  "correct": true
+}

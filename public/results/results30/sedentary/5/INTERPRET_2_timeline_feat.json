@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Moderate, irregular scanning across code-like vertical region with frequent but not extreme saccades and variable fixation positions, closely matching the example DEBUG pattern rather than the more stable INTERPRET/WRITE or highly dynamic PLAY/BROWSE behaviors.",
+  "correct": false
+}

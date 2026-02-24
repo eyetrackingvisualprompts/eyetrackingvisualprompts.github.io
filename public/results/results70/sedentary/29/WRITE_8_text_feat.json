@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze alternates between a relatively small interaction area and very large, rapid saccades to screen extremes (including corners and off-center regions) with frequent returns, consistent with tracking moving game elements and HUD regions rather than systematic reading or code inspection patterns seen in WRITE/DEBUG/INTERPRET/READ. The wide, erratic spatial coverage and recurrent jumps to far-right coordinates match the PLAY examples\u2019 dynamics.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a central region with medium dispersion and frequent shifts among nearby locations, resembling the browsing example more than the more linear READ pattern or the more static WATCH/WRITE patterns.",
+  "correct": true
+}

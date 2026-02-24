@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations with many short saccades clustered in a narrow vertical band around mid\u2013upper screen coordinates, frequent revisits to similar code-like regions, and occasional long saccades to far-off points (likely console or other IDE panes) match the sustained, localized inspection and cross-checking pattern seen in the DEBUG examples more than the broader exploratory movements of BROWSE/SEARCH or the smoother scanning of READ/WATCH.",
+  "correct": false
+}

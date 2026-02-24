@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Horizontal gaze position shows relatively small, step-like shifts with longer stable periods, while vertical position changes are infrequent and occur in larger jumps, consistent with line-by-line reading rather than rapid multi-directional movements seen in play, search, browse, or watch tasks.",
+  "correct": false
+}

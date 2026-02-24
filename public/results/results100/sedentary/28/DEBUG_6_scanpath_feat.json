@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small central-left region with occasional checks to a lower-left area, resembling focused inspection of a code snippet and output/console area; this pattern closely matches the INTERPRET example scanpath compared to other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The heatmap shows multiple dispersed fixation clusters around the central area without a strict horizontal line or tight central point, indicating free-viewing behavior rather than structured tracking (horizontal or random saccades), static fixation, or systematic reading layout; this pattern best matches natural eye movements during video viewing.",
+  "correct": true
+}

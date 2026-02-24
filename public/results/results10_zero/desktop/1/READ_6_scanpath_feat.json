@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain clustered in a small central region with minimal horizontal or vertical scanning and no systematic line-by-line pattern, indicating passive, steady viewing of a central area on the screen, which best matches watching a video rather than reading, writing, searching, browsing, or playing a game.",
+  "correct": false
+}

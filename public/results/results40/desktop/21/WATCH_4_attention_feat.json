@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper-left quadrant with a vertical spread and limited horizontal extent, matching the pattern of focusing on the left-aligned text area and nearby interface elements typical for writing in a Word document, and differing from the more central (SEARCH/BROWSE) or horizontal-line (READ) patterns.",
+  "correct": false
+}

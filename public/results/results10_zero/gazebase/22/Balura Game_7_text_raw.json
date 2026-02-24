@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze exhibits large, discrete jumps to widely separated positions in both horizontal and vertical directions (often >10\u201320 deg) followed by ~1 s clusters of small, low-variance samples (fixations), consistent with following a randomly moving target. The movements are not constrained to a single horizontal axis (ruling out Horizontal Saccades), are far too large and scattered for Fixations or Reading, and lack the structured object- or scene-driven scanpaths characteristic of Video Viewing or the Balura Game.",
+  "correct": false
+}

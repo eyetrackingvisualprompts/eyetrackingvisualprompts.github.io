@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a small lower-screen region with very long, stable fixations (several seconds) and only occasional short saccades, indicating passive viewing of relatively static content rather than active text scanning, typing, or interactive search/game behavior. This spatiotemporal pattern best matches the WATCH activity examples, which show prolonged fixations with minimal exploratory movement.",
+  "correct": false
+}

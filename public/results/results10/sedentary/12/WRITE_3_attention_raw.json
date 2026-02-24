@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a small region in the upper-left, with minimal vertical spread and almost no exploration elsewhere, matching the focused, localized viewing pattern seen in the INTERPRET example more than the broader distributed patterns of other tasks.",
+  "correct": false
+}

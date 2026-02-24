@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows continuous, wide-ranging movements in both X and Y with frequent saccades and no clear line-by-line reading or code-editing pattern, matching the dynamic scanning typical of watching full-screen video content rather than text- or task-focused activities.",
+  "correct": false
+}

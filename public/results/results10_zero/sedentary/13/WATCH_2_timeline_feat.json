@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows step-like, mostly horizontal fixations with periodic downward shifts in Y, consistent with line-by-line reading behavior rather than rapid object-following (PLAY) or concentrated code editing/debugging. This structured scanning pattern best matches a READ task.",
+  "correct": false
+}

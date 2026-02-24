@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points progress in relatively smooth, horizontally clustered bands with modest vertical shifts, consistent with line-by-line reading behavior rather than the larger, object-following or dispersed exploration patterns typical of PLAY, WATCH, or BROWSE.",
+  "correct": false
+}

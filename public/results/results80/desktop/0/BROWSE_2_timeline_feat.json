@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay around the screen center with moderate, irregular shifts in both X and Y and no strong directional pattern (unlike structured line-by-line READ or vertically constrained WRITE/PLAY). This diffuse yet active scanning best matches web browsing behavior.",
+  "correct": true
+}

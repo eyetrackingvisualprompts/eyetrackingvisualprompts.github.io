@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are mid-duration (0.2\u20131.0s) with many small-to-moderate saccades clustered around the central area, plus some vertical movement between mid and upper screen\u2014matching the mixed scanning and local reading/inspection pattern seen in the BROWSE example more than the more linear READ pattern or the top-focused WRITE/SEARCH behavior.",
+  "correct": true
+}

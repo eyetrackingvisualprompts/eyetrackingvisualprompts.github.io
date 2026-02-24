@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple horizontal regions with frequent saccades between a dense cluster on the left and scattered fixations toward the middle and lower screen, suggesting scanning result lists and occasionally moving to content areas, which matches the search pattern more than the other tasks.",
+  "correct": true
+}

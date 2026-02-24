@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is nearly static around the screen center with minimal horizontal or vertical scanning and very few discrete fixations, consistent with passively watching a video rather than reading, coding, searching, or active interaction tasks that show richer saccade and fixation patterns.",
+  "correct": false
+}

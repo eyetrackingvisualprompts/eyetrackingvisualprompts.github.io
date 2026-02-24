@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze coordinates show large, discrete jumps to widely separated positions (often >10\u201320 degrees), followed by relatively stable clusters around each new location for about a second, consistent with tracking a single target that steps to random positions rather than smooth scanning of text, free viewing of video, or strictly horizontal oscillations.",
+  "correct": false
+}

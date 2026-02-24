@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a relatively narrow horizontal band with small sequential horizontal saccades and medium-length fixations, consistent with line-by-line text scanning. The pattern closely matches the READ example\u2019s dense, orderly horizontal movements rather than the larger jumps and more scattered vertical coverage seen in BROWSE, SEARCH, PLAY, WATCH, or WRITE.",
+  "correct": false
+}

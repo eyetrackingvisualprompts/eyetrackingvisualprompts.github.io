@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are moderately dispersed around the central area with frequent saccades and varied vertical movement, more scattered than READ/WRITE but less extreme and directional than PLAY, matching the exploratory yet text-focused pattern typical of web SEARCH tasks.",
+  "correct": false
+}

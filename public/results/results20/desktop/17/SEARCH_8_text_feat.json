@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between mid-upper and lower regions with several larger vertical saccades and medium fixations, including occasional jumps to screen top (likely address/search bar) and back to content areas. This mixed pattern of scanning results, shifting between sections, and revisiting mid-page resembles the provided SEARCH example more than the more line-structured READ or the more centralized WATCH/BROWSE patterns.",
+  "correct": true
+}

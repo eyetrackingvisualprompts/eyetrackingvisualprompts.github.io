@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate, scattered fixations across both axes with frequent short saccades and occasional jumps, indicating active code inspection and revisiting different parts of the screen. This spatiotemporal pattern most closely matches the DEBUG example rather than the more linear patterns of READ/WRITE or the smoother, more stable WATCH behavior.",
+  "correct": false
+}

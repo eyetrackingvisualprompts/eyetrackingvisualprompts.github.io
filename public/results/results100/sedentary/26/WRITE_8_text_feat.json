@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows repeated, localized scanning between a small set of code-like regions (mid\u2011screen and upper-left), with many short saccades and long fixations, including frequent revisits to nearly the same coordinates\u2014characteristic of mentally simulating and checking code output (INTERPRET) rather than broader navigation, continuous reading lines, or dynamic object tracking.",
+  "correct": false
+}

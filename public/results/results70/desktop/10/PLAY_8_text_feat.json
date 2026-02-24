@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, frequent shifts across wide screen regions (including extreme top/bottom and corners), with mixed short and medium fixations and substantial vertical as well as horizontal movement, matching the dynamic, multidirectional scanning typical of game play rather than the more line-structured or centrally clustered patterns of reading, writing, browsing, watching, or searching.",
+  "correct": true
+}

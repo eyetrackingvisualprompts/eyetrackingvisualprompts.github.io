@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates between left/central and right code areas with long cross-screen saccades and clustered fixations on specific vertical regions, matching the pattern of editing and referencing code typical for WRITE rather than the more localized clusters of INTERPRET/DEBUG or the horizontal line patterns of READ/BROWSE.",
+  "correct": false
+}

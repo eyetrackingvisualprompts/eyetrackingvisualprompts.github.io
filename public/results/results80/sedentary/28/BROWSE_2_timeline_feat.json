@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right scan segments with occasional vertical shifts and irregular jumps, mixing short reading-like sweeps with exploratory movements, closely matching the heterogeneous pattern seen in the BROWSE example rather than the more structured patterns of READ, SEARCH, or code-related tasks.",
+  "correct": true
+}

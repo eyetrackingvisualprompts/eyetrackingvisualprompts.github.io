@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated around a central-left region like reading text or code, but with several long saccades to the far right and different vertical levels, indicating navigation between search results, page elements, or new tabs\u2014typical of a web search pattern rather than the more localized patterns of coding tasks or continuous central focus of watching/playing.",
+  "correct": false
+}

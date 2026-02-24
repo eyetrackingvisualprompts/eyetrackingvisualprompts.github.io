@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large vertical shifts with two distinct Y-level bands (top around 0.8 and lower around 0.5) and broader horizontal excursions than reading/browsing, resembling following moving game elements across different screen regions rather than line-by-line text or static content exploration.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, local fixations and regressions around code-like coordinates with frequent small vertical movements within a narrow region, interspersed with occasional larger saccades to other interface areas, closely resemble the DEBUG exemplars\u2019 pattern of inspecting and re\u2011inspecting nearby lines/columns rather than the more linear sweeps of READ/BROWSE or large object-tracking jumps of PLAY/WATCH.",
+  "correct": true
+}

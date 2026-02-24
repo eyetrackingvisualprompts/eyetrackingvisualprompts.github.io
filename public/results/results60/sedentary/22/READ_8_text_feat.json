@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze moves smoothly and repeatedly along horizontal bands at several vertical levels (y\u2248430\u2013930 then y\u22480\u201370), with mid-length fixations and occasional large vertical saccades, matching line-by-line webpage/content scanning with jumps to top/bottom and off-screen rather than focused code or game-object tracking patterns; this best fits BROWSE.",
+  "correct": false
+}

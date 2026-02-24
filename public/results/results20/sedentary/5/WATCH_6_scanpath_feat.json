@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze covers multiple vertical regions with irregular, non-linear scanpaths and varied fixations across the page, resembling free-form navigation rather than structured reading, code-focused tasks, or continuous object tracking typical of games or videos.",
+  "correct": false
+}

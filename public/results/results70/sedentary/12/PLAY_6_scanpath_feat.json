@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, multidirectional gaze shifts across much of the screen, with many long saccades and dispersed fixations similar to the PLAY example, indicative of tracking moving game elements rather than reading, coding, or constrained text-based tasks.",
+  "correct": true
+}

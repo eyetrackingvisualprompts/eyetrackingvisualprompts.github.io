@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length fixations and revisits within a constrained central code area, interspersed with large vertical and horizontal saccades to UI elements (top, bottom, far right) and back, match the pattern of navigating and inspecting code and outputs during debugging rather than continuous reading or free web browsing.",
+  "correct": false
+}

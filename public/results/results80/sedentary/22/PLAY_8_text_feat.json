@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, repeated fixations and short saccades clustered around similar code-like regions (mid-left then mid-right), with frequent revisits and local oscillations, match the sustained, localized inspection and re-checking behavior typical of debugging rather than linear reading, browsing, or video watching.",
+  "correct": false
+}

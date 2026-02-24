@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, slow cross-screen saccades between disparate upper/lower regions, with many medium-length fixations and no clear horizontal line-by-line scanning or tight text-area clustering, matching the broader, scene-based viewing pattern typical of watching video rather than reading, searching, writing, browsing, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates repeatedly between a narrow horizontal band near the top (around y\u224890\u2013140, consistent with browser URL/search bar and top of SERP) and mid\u2011page/content regions, with frequent long vertical saccades to off-screen or bottom areas and back up. The pattern shows scanning of short text segments and interface elements rather than continuous line-by-line reading, and lacks the code-focused clustering of INTERPRET/DEBUG/WRITE or the dynamic object tracking of PLAY/WATCH, matching search-engine use behavior.",
+  "correct": true
+}

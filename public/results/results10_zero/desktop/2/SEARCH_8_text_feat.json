@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a compact region in the upper-central area with many short saccades and medium-to-long fixations, including a very long fixation (~1.8s). Movements are mostly small horizontal/diagonal adjustments rather than large exploratory shifts, matching focused reading behavior more than the broader, more dispersed patterns typical of SEARCH, BROWSE, PLAY, or WATCH, and lacking the repeated top-area transitions usually seen in WRITE.",
+  "correct": false
+}

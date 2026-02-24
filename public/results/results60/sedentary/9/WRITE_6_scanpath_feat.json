@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on the left code area with repeated fixations and occasional long saccades to a single region on the right (likely output/console), matching the interpret task pattern rather than the denser code-only focus of debugging or the broader spread of other activities.",
+  "correct": false
+}

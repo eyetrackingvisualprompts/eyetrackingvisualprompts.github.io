@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the upper-left code area with some spread vertically, similar to the DEBUG example where attention shifts across multiple code regions, rather than the tighter cluster of INTERPRET or WRITE.",
+  "correct": false
+}

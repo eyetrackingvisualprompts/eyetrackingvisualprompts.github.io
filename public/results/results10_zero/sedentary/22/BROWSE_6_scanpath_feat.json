@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a series of horizontal fixations in a narrow vertical band with left-to-right progression and occasional regressions, typical of line-by-line reading rather than the larger, more scattered movements expected in browsing, searching, playing games, or watching video.",
+  "correct": false
+}

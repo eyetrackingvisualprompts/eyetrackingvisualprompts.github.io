@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is highly concentrated on the left-central vertical region with dense local fixations and limited spread, matching the focused IDE/code editor area seen in WRITE examples rather than the more dispersed patterns of PLAY/SEARCH/WATCH or the multi-line horizontal sweeps of READ/BROWSE.",
+  "correct": false
+}

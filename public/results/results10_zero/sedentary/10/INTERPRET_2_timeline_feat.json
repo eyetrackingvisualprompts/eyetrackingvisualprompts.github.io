@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows mostly horizontal, line-like fixations with small stepwise vertical shifts and limited large saccades, consistent with reading text line by line rather than dynamic tracking (PLAY/WATCH) or scattered exploration (BROWSE/SEARCH/DEBUG/WRITE/INTERPRET).",
+  "correct": false
+}

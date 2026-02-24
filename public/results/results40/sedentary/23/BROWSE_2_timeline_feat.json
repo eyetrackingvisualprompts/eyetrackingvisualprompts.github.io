@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude horizontal shifts and intermittent vertical jumps, indicating repeated switching between different screen regions (e.g., search box, results, and clicked pages), which best matches the SEARCH pattern compared to the more linear patterns of READ/WRITE or the highly scattered WATCH/PLAY behaviors.",
+  "correct": false
+}

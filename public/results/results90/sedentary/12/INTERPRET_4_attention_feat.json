@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered on the upper-left portion of the screen where code typically appears, with additional but sparser attention around the mid-right area consistent with occasional focus on output or error messages\u2014this spatial pattern most closely matches the DEBUG example heatmap.",
+  "correct": false
+}

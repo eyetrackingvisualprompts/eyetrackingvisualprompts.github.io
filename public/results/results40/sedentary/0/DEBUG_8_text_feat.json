@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in mid-to-lower screen with many horizontal sweeps across a narrow vertical band, repeated revisits to similar y-levels, and occasional large vertical/oblique jumps\u2014closely matching the scrolling and result-scanning pattern in the SEARCH example more than the more code-line\u2011focused (INTERPRET/DEBUG/WRITE) or media/game patterns (WATCH/PLAY).",
+  "correct": false
+}

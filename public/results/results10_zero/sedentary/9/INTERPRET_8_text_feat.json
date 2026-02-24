@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows tightly clustered fixations in a narrow horizontal band with short saccades back and forth, plus an occasional large vertical jump consistent with moving to another line or region of text. Fixation durations around 0.4\u20130.9s and re-reading behavior match reading patterns better than the more dispersed or dynamic gaze expected in PLAY, WATCH, or SEARCH/BROWSE, and there is no strong indication of code-specific navigation typical for WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

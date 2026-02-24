@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small central region with little horizontal scanning, consistent with passively watching a video where gaze stays near the screen center rather than systematically traversing lines of text (READ/WRITE) or exploring diverse areas (PLAY/SEARCH/BROWSE).",
+  "correct": true
+}

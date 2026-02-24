@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are highly concentrated around the central region of the screen with minimal vertical spread, matching the browsing example pattern more than the other activities, which show either horizontal reading lines, upper-screen focus, or wider dispersion.",
+  "correct": false
+}

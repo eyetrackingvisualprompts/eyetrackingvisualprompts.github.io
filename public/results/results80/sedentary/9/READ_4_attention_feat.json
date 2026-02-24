@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations form multiple dense vertical clusters resembling text columns and paragraphs, with systematic top-to-bottom scanning similar to the READ example heatmap, rather than the broader spread or central focus seen in other activities.",
+  "correct": true
+}

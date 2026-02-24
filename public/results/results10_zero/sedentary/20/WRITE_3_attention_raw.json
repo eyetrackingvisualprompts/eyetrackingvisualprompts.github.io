@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is tightly clustered in a single small region with minimal horizontal or vertical progression, indicating sustained attention to one localized area rather than scanning text or code or following moving objects. This is most consistent with passively watching a video where a salient element remains in roughly the same screen location.",
+  "correct": false
+}

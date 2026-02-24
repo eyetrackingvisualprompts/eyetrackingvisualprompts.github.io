@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points stay in a mid\u2011lower vertical band and move in small, irregular clusters with occasional short jumps, resembling incremental scanning and local refixations typical of scrolling and exploring mixed web content, and are most similar in pattern and spatial region to the BROWSE example rather than the more stable WATCH/READ fixations or the larger, more dispersed PLAY movements.",
+  "correct": false
+}

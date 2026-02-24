@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered but spread over a relatively tall vertical region with frequent shifts between distinct areas, indicating scanning multiple elements (like search results) rather than the more linear horizontal sweeps of reading or the more localized patterns of writing/browsing. This pattern best matches the SEARCH example.",
+  "correct": true
+}

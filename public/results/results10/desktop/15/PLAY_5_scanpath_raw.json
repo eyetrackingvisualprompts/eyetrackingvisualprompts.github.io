@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path covers a relatively wide central-horizontal area with irregular saccades and scattered fixations, resembling exploratory scanning across different interface elements typical of web searching, rather than the more localized, structured patterns seen in reading or the tight clusters seen in playing or browsing examples.",
+  "correct": false
+}

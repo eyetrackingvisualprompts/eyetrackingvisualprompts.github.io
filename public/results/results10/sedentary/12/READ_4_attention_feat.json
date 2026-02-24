@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are spread horizontally around the screen center with moderate movement and no strong vertical scanning pattern, matching the typical gaze distribution while watching a video rather than the more localized or vertical patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

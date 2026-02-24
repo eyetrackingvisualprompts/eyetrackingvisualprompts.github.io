@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations and short saccades in a compact region suggest detailed code inspection, with occasional longer saccades to another code area, matching typical debugging behavior more than continuous reading or free browsing.",
+  "correct": false
+}

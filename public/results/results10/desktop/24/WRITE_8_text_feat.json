@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains extremely stable around a single central-upper screen location with very long fixations (up to several seconds) and only tiny corrective saccades, indicating continuous attention to a persistent stimulus region (e.g., a character or subtitle area) rather than active scanning or line-by-line progression, which best matches the WATCH pattern among the given classes.",
+  "correct": false
+}

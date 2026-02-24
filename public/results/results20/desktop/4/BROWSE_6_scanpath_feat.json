@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, multidirectional saccades across both vertical and horizontal axes with dispersed fixations, indicating continuous exploratory tracking of moving objects, which best matches the dynamic gaze behavior during game playing rather than the more localized or structured patterns seen in reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

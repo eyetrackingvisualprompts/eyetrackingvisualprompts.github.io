@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows continuous but smooth horizontal movements with gradual shifts in vertical position and occasional large saccades, resembling visual tracking of changing screen content rather than structured reading or code navigation, which aligns best with the WATCH activity example pattern.",
+  "correct": false
+}

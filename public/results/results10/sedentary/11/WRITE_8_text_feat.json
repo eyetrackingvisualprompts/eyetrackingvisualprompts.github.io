@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Large, repeated transitions between upper code area and lower console/output-like regions, including off-screen/negative coordinates and revisits to similar vertical bands, match the extensive vertical scanning and back-and-forth checking typical of debugging rather than the more linear or localized patterns of reading, browsing, or interpreting.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points form a compact but moderately dispersed cluster around mid-screen with frequent short saccades and no strong horizontal reading lines, resembling the example BROWSE pattern more than the more linear READ/WRITE or multi-cluster PLAY patterns.",
+  "correct": false
+}

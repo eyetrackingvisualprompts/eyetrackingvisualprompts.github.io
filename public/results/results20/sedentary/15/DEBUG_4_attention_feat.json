@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a vertical band on the left side with multiple clusters at different heights, matching the pattern of scanning search results and snippets on a search engine results page, similar to the SEARCH example heatmap and more dispersed than WRITE/INTERPRET but less spread than BROWSE/WATCH.",
+  "correct": false
+}

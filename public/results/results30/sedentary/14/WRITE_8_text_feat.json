@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent vertical transitions spanning from near the top of the screen to far below (including off-screen regions), interspersed with medium-length fixations and occasional jumps to extreme side/top coordinates, indicate scrolling and scanning of a long web page rather than line-by-line reading or focused code inspection. This spatial pattern and variability best match the BROWSE examples.",
+  "correct": false
+}

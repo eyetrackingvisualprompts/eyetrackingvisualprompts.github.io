@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like shifts to various locations across both horizontal (\u00b115\u00b0) and vertical (\u00b19\u00b0) axes, with brief plateaus indicating fixations at each position before jumping to a new, non-regular location. Movements are neither strictly horizontal nor confined to a small central area, matching a random target-jump paradigm rather than reading, video viewing, fixations, horizontal saccades, or the game pattern.",
+  "correct": false
+}

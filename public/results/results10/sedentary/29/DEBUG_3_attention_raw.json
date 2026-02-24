@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is highly concentrated in a single region on the left side with minimal dispersion elsewhere, closely matching the WRITE example where attention is focused on the code editor area while typing, unlike the more distributed or horizontal scan patterns of reading, browsing, or watching video.",
+  "correct": false
+}

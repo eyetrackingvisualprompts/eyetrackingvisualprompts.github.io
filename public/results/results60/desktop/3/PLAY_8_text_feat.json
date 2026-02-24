@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal movements with clusters of fixations around similar y-levels, moderate saccade amplitudes within a constrained vertical band, and long, stable fixations\u2014patterns characteristic of line-by-line reading rather than the larger, more scattered exploration seen in search/browse or the localized upper-area focus of writing and gaming.",
+  "correct": false
+}

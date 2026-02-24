@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact lower-left/top text-line region with many short, local saccades and repeated refixations around similar coordinates, resembling attention to a single text area (typing/composing) rather than the more horizontally sweeping, line-by-line progression of READ or the broader exploratory patterns of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

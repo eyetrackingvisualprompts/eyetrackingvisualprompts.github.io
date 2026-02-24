@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is relatively stable with small horizontal and vertical ranges, dominated by local fixations and short saccades, resembling focused code comprehension rather than wide exploration (BROWSE/SEARCH), continuous reading lines (READ), or dynamic tracking (WATCH/PLAY/DEBUG/WRITE).",
+  "correct": true
+}

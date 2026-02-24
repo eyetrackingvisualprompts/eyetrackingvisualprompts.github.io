@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze coordinates stay clustered very close to the center with only tiny shifts, and fixations are long (often >0.8\u20131.5 s), matching a static central target rather than large or patterned movements seen in saccade, reading, game, or video viewing tasks.",
+  "correct": true
+}

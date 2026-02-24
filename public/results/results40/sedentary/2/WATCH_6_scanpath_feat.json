@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath covers almost the entire screen with long vertical and horizontal saccades and dispersed fixations, closely resembling the wide-ranging, multi-region exploration characteristic of web browsing rather than the more localized or structured patterns of the other tasks.",
+  "correct": false
+}

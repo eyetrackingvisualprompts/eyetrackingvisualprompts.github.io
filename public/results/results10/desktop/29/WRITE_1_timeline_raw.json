@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions stay within a narrow band with slow, smooth drifts and only small occasional spikes, indicating relatively stable central viewing consistent with watching a video rather than the larger, structured horizontal scans of reading/searching or the abrupt multi-directional jumps seen in browsing or playing games.",
+  "correct": false
+}

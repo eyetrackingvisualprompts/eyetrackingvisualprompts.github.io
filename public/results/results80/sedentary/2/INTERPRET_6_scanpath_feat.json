@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a relatively narrow vertical strip on the left, corresponding to focused inspection of a small code window, with occasional diagonal shifts\u2014this pattern closely matches the INTERPRET example and differs from the broader spread seen in SEARCH, BROWSE, or WATCH.",
+  "correct": true
+}

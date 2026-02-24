@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The fixation positions in both X and Y change in discrete steps of several degrees and remain stable for about one second before jumping to a new location, with movements distributed across both axes rather than only horizontal. This matches the protocol of a randomly moving target with 1 s holds, characteristic of Random Saccades.",
+  "correct": false
+}

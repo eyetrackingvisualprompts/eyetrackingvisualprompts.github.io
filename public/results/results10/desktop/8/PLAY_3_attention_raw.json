@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a compact region in the lower\u2011right central area, with minimal horizontal or vertical scanning. This localized, stable gaze pattern matches the example WATCH heatmap, where viewers track a small area of interest in a video, rather than the broader vertical and horizontal movements seen in reading, searching, browsing, writing, or playing games.",
+  "correct": false
+}

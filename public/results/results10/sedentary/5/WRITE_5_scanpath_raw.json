@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on the left-central area where code and editor typically appear, with dense, irregular movements and vertical transitions resembling switching between code lines and perhaps console, matching the WRITE example more than other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, relatively slow vertical shifts between distinct horizontal bands with limited horizontal scanning within each band, consistent with following different regions of a video frame (faces, action area, then subtitles) rather than systematic line-by-line reading or the highly scattered exploration typical of search, browse, or play tasks.",
+  "correct": false
+}

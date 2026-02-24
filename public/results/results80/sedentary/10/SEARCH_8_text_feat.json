@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long horizontal sweeps across wide x-ranges, many returns to similar vertical bands, and large jumps to screen edges and off-content coordinates resemble scanning heterogeneous web pages and navigating around, matching the browsing pattern more than the more constrained, line-structured movements of READ or the localized code-centric patterns of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

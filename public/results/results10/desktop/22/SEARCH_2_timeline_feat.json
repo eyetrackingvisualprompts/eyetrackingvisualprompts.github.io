@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate horizontal progression with mid-screen Y fixations, then a noticeable upward shift around 7.5s consistent with checking upper-page elements (e.g., search results, query bar). The mixture of reading-like scanning and occasional larger vertical saccades matches the SEARCH pattern more than the steadier READ or more variable BROWSE traces.",
+  "correct": true
+}

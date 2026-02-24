@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a mid-screen code-like region with short, localized saccades and frequent small regressions, suggesting careful line-by-line inspection and mental simulation rather than broad navigation (SEARCH/BROWSE) or continuous tracking (PLAY/WATCH). The pattern closely matches the INTERPRET examples, where participants scrutinize a limited code snippet to infer its output.",
+  "correct": false
+}

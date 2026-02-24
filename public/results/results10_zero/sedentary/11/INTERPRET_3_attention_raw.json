@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, highly localized fixation area in the upper-left region with minimal exploration elsewhere, indicating sustained attention to a small, stable visual region\u2014more consistent with passively watching a video scene than with the broader scanning or line-by-line movements typical of reading, coding, browsing, searching, or game playing.",
+  "correct": false
+}

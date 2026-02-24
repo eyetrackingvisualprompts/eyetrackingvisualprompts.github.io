@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in upper-left text-entry area with many small vertical adjustments, long fixations around y\u22480.75\u20130.9 and occasional large saccades toward lower/side regions, matching the writing pattern in the WRITE example rather than the more line-structured READ or dispersed SEARCH/BROWSE behaviors.",
+  "correct": false
+}

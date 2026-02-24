@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small lower-central region with short, repetitive saccades and limited vertical span, consistent with focusing near a text cursor/toolbar area during typing rather than scanning large areas as in reading, browsing, searching, playing, or watching video.",
+  "correct": false
+}

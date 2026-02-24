@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers multiple horizontal regions and includes long saccades to the top area (likely search box/results) and back to mid-page content, resembling the varied, exploratory pattern seen in the SEARCH example more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades sweeping across wide screen regions (including corners and far edges), with gaze often near upper and side areas and less regular line-like scanning, match the dynamic, spatially spread patterns seen in the PLAY examples rather than the more centrally clustered and structured movements of reading, writing, browsing, search, or watching video.",
+  "correct": false
+}

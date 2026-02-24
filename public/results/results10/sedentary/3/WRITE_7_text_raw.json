@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points cluster around a mid-lower screen region with dense, local movements and repeated revisits, plus occasional large off-screen/IDE-interface jumps\u2014closely matching the WRITE example\u2019s coding-in-IDE behavior rather than the broader scanning of SEARCH/BROWSE or the more static patterns of READ/WATCH.",
+  "correct": true
+}

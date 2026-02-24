@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent medium-length fixations and systematic horizontal sweeps around central code-like regions (y\u2248430\u2013520), interleaved with returns to side/top screen areas and occasional large saccades to far UI elements, closely match the structured, code-and-editor-centered gaze behavior seen in the WRITE examples rather than the more error-focused DEBUG or dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

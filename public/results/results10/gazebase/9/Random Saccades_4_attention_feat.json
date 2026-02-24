@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen in both horizontal and vertical directions with no clear structure (unlike reading or video viewing) and fewer central / symmetric clusters than horizontal saccades or fixations, matching the random target-jump pattern of Random Saccades.",
+  "correct": true
+}

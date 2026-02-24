@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on upper-left horizontal band like reading search results, with repeated long saccades to a single area on the right (likely a result or separate pane), matching the SEARCH scanpath more than other activities.",
+  "correct": false
+}

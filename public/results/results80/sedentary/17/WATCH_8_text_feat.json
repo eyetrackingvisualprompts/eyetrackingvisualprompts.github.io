@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide horizontal and vertical extents (including to screen edges and off-screen), repeated jumps between distant regions, and relatively short to moderate fixations on many different loci resemble exploratory navigation of long web pages rather than structured line-by-line reading, sustained video watching, or focused code interaction; this spatiotemporal pattern best matches the BROWSE examples.",
+  "correct": false
+}

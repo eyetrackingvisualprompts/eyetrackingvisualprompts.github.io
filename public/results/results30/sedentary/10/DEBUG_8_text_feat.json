@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between several vertically separated regions (near top, mid, and lower screen) with scattered long fixations and large saccades, consistent with scanning and scrolling over heterogeneous web content rather than orderly line-by-line reading or code-focused tasks.",
+  "correct": false
+}

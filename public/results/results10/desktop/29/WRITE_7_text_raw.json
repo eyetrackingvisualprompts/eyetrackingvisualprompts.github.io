@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is highly stable around a single upper-central location with small vertical adjustments and occasional brief shifts, closely matching the fixation pattern over the search bar and results list seen in the SEARCH example segment, and less consistent with the larger vertical sweeps of READ or the more dynamic movements of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

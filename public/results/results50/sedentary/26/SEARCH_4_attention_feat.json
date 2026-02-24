@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are dispersed across multiple vertical regions with several horizontal scanning bands and side areas, resembling exploration of a search results page rather than focused code (DEBUG/WRITE/INTERPRET) or continuous reading (READ/BROWSE) or central dynamic content (PLAY/WATCH).",
+  "correct": true
+}

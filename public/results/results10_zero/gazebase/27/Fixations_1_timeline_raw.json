@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y gaze positions remain almost constant near the center with only small noise over the full 10 s, except for a brief artifact toward the end. This stable, central gaze pattern matches the Fixations task with a static central target, unlike the larger systematic movements expected in saccades, reading, game, or video viewing.",
+  "correct": true
+}

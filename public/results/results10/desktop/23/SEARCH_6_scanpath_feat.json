@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is tightly clustered in a small central region with frequent short saccades and minimal large-scale exploration, matching the focused, localized viewing typical of tracking a game character rather than the broader scanning seen in browsing/searching or the linear sweeps of reading.",
+  "correct": false
+}

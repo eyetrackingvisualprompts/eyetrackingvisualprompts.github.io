@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain relatively centralized with small jitter and occasional large vertical saccades, suggesting following salient movements within a confined region of the screen, which is characteristic of passively watching a video rather than systematic reading, coding, or interactive tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mid-screen, scattered fixations with frequent multidirectional saccades and no strong left-to-right line structure or stable horizontal bands, matching the variable, exploratory pattern typical of web browsing rather than structured reading, writing, searching, playing, or watching video.",
+  "correct": false
+}

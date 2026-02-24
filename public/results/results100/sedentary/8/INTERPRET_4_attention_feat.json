@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The heatmap shows intensive fixations concentrated on the upper-left area (typical of query box and top results) with some scattered fixations across the horizontal axis, closely resembling the SEARCH example pattern more than the other task distributions.",
+  "correct": false
+}

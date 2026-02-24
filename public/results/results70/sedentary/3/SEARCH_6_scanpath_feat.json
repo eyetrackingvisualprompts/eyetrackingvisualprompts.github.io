@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows repeated horizontal sweeps across several rows near the top and middle of the page, with frequent long saccades between left and right regions and some excursions downward, matching the pattern of scanning search results and snippets rather than the denser, more uniform lines of continuous reading or the more localized patterns of coding-related tasks.",
+  "correct": true
+}

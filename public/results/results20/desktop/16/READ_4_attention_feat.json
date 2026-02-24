@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations form a compact cluster near the center of the screen, similar to the BROWSE example where attention is focused around the main content area of a webpage rather than the upper text lines (READ/WRITE) or widely distributed patterns (WATCH/PLAY/SEARCH).",
+  "correct": false
+}

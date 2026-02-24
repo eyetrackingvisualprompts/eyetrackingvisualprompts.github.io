@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate, intermittent vertical scrolling with fixations clustering around a horizontal band, plus frequent saccades to higher Y positions, closely matching the mixed scanning-and-scrolling behavior seen in the SEARCH example rather than the more regular lines of READ or the denser code-focused patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The data shows periods of horizontal scanning over a narrow vertical range with two sharp upward spikes in both X and Y, matching the INTERPRET example\u2019s pattern of focused code inspection with occasional large gaze shifts (e.g., to output or different code regions).",
+  "correct": false
+}

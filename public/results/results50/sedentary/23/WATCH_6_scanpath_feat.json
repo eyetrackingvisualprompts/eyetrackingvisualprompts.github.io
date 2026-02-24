@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely scattered across the entire screen with long multidirectional saccades and no clear reading or code-focused cluster, matching the dynamic, screen-wide tracking seen during game playing rather than the more localized or linear patterns of reading, coding, browsing, or watching video.",
+  "correct": false
+}

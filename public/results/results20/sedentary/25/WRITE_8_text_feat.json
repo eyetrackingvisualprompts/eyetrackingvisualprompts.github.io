@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large initial saccade from off-screen to upper-left, followed by many medium-length saccades and short fixations across a vertical span (around y\u2248110\u2013320, later down to mid-400s) matches scanning of SERP titles/snippets and moving between result clusters, rather than the more strictly horizontal lines of READ or the more localized, code-window-constrained patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

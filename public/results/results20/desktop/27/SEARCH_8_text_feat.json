@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around the screen center with short to moderate fixations (\u22480.17\u20130.87s) and small horizontal/vertical shifts, without long stable lines or clear left-to-right progression typical of READ. The pattern closely matches the central, locally exploratory fixations and micro-saccades seen in the BROWSE example, rather than the more dispersed SEARCH or strongly left-biased WRITE/PLAY behaviors.",
+  "correct": false
+}

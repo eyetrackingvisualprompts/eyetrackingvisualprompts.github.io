@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations form a diagonal band from bottom-left to upper-right with spread across a large vertical range, indicating continuous tracking of a moving target across the screen, which is most consistent with dynamic gameplay rather than the more localized or band-like patterns of reading, writing, searching, or browsing.",
+  "correct": false
+}

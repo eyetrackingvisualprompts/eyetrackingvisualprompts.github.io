@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions move in small, mostly horizontal clusters with occasional short regressions and vertical shifts, consistent with line-by-line text reading rather than the larger, more erratic movements typical of search, browsing, or gameplay, and without the prolonged central fixation expected during video watching.",
+  "correct": false
+}

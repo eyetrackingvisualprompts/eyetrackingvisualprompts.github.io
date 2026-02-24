@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent horizontal saccades with long amplitudes across a narrow vertical band, repeatedly sweeping back and forth around similar y-levels, match tracking a moving game object (e.g., Pong) more than the more structured line-wise patterns of reading, code tasks, or the broader scanning seen in browsing/searching.",
+  "correct": false
+}

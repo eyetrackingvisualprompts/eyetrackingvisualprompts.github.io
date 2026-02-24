@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered around the screen center with medium spread in both x and y, showing frequent short saccades among nearby regions and no clear horizontal text-line pattern or strong lateral bias, which best matches the exploratory, multi-region viewing typical of web browsing compared with the more linear READ/WRITE or directional PLAY patterns.",
+  "correct": true
+}

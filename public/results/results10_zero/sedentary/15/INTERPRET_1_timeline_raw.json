@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are relatively centralized with small, smooth fluctuations and no systematic horizontal scanning or line-by-line reading patterns. The brief spike around 4.8s suggests a transient attention shift (e.g., to a sudden event) rather than structured code/text inspection or search behavior, matching passive viewing of dynamic visual content such as a video.",
+  "correct": false
+}

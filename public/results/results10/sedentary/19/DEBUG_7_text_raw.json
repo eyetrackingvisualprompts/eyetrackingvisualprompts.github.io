@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze clusters heavily around a central code-like region (x\u2248350\u2013450, y\u2248180\u2013280) with repeated short saccades and revisits, then shifts vertically to mid and lower screen bands (y\u2248500\u2013600, then \u2248740), consistent with scrolling through and re-checking code. The pattern of frequent regressions within a narrow horizontal span and multiple passes over similar coordinates matches the DEBUG exemplar more closely than READ/WRITE/INTERPRET or general web activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are clustered around the screen center with frequent short saccades and repeated revisits within a compact region, plus intermittent larger jumps in both horizontal and vertical directions. This dynamic but spatially constrained pattern matches the PLAY examples, where subjects track moving game elements near the center, more than the more linear scanpaths of READ/SEARCH or the more static patterns of WATCH/WRITE/BROWSE.",
+  "correct": false
+}

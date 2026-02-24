@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze behavior shows sequences of short, local saccades with medium-length fixations that progress within constrained horizontal/near-horizontal regions, interspersed with occasional larger relocations\u2014typical of moving between and along lines/sections of text\u2014matching reading patterns more than the more dispersed scanning of SEARCH/BROWSE, the dynamic wide movements of WATCH/PLAY, or the document\u2013UI shifts common in WRITE.",
+  "correct": true
+}

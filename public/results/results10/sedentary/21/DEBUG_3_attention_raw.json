@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a mid-left code area with minimal vertical spread, closely matching the INTERPRET example where participants inspect a small code snippet to predict its output, rather than the broader distributions seen in WRITE or DEBUG.",
+  "correct": false
+}

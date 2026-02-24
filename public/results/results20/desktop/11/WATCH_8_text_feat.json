@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a compact region with very long, stable fixations and minimal saccades, indicating passive viewing of a small on-screen area rather than active scanning or line-by-line reading; this pattern best matches the WATCH examples, which show sustained fixations around similar coordinates with occasional small shifts.",
+  "correct": true
+}

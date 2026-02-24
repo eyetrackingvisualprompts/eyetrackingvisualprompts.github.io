@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid/upper page regions and higher/lower areas with many medium-length horizontal scans over similar y-levels, interspersed with larger jumps across the screen. This resembles scanning web pages and navigating content, not the tight horizontal lines of READ nor the central, stimulus-driven pattern of WATCH or PLAY, and is more dispersed and multi-region than focused code-oriented tasks (WRITE/INTERPRET/DEBUG).",
+  "correct": false
+}

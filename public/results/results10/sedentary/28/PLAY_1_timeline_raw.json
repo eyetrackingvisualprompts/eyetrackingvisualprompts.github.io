@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Both X and Y positions show slow, smooth drift with small fluctuations and no large saccades or line-by-line jumps, resembling the stable, code-focused gaze pattern seen in the DEBUG example more than the other, more dynamic or scanning activities.",
+  "correct": false
+}

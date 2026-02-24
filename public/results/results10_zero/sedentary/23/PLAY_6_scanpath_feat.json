@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze points cluster tightly within a confined central region, with repeated short saccades among a few nearby locations and no systematic horizontal line-by-line pattern typical of reading or browsing. This concentrated inspection of several neighboring code elements over 10 seconds aligns best with interpreting a code snippet rather than writing, debugging, or other tasks.",
+  "correct": false
+}

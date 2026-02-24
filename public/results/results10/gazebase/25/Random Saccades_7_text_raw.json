@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows complex, irregular movements with varied amplitudes and directions, including smooth drifts, small local fixations, and occasional larger shifts, without the strict horizontal pattern of horizontal/random saccades or the line-structured, row-wise progression typical of reading. This heterogeneous, naturalistic pattern best matches free video viewing behavior.",
+  "correct": false
+}

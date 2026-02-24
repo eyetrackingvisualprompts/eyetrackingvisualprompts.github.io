@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated around central-upper regions with frequent medium-length saccades between content-like areas (top center, slightly above and below), recurrent returns to a central band (~0.4\u20130.5 vertical) and occasional jumps higher (0.6) and lower (0.2\u20130.3). This pattern matches scanning SERP results and page headings more than linear horizontal reading (READ) or more bottom-focused writing (WRITE), and lacks the wide, multi-directional spread typical of PLAY/WATCH or the more mid-screen, article-style BROWSE behavior in the examples.",
+  "correct": false
+}

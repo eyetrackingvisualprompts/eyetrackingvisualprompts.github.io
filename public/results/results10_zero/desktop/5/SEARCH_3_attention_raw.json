@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band around mid\u2011screen with slight vertical spread, consistent with reading lines of text; there is no wide exploratory spread typical of BROWSE/SEARCH or large directional shifts typical of PLAY/WATCH, and less upper-area focus than expected for WRITE (toolbars, cursor).",
+  "correct": false
+}

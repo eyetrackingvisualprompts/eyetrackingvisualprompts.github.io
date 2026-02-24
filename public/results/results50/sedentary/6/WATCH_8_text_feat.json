@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including corners and edges), frequent revisits to dispersed locations, and many transitions between central and peripheral areas match the dynamic, target-following and navigation-heavy gaze patterns seen in the PLAY examples, rather than the more line-structured or locally clustered patterns of code or text tasks.",
+  "correct": false
+}

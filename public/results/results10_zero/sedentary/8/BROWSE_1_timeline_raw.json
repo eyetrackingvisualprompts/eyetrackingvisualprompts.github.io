@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions are concentrated in a central horizontal band with small, regular left\u2013right shifts and occasional downward jumps in Y, consistent with line-by-line reading on a static text rather than large exploratory movements or screen-wide shifts typical of browsing, searching, coding, or gameplay.",
+  "correct": false
+}

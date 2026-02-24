@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow horizontal region with relatively stable X positions and moderate vertical scanning, closely matching the INTERPRET example where participants inspect a compact code snippet rather than the broader, more dispersed patterns seen in browsing, reading long text, or playing games.",
+  "correct": false
+}

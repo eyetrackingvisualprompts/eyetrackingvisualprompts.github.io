@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated around mid-screen with frequent moderate-amplitude vertical and horizontal shifts between nearby regions, including repeated transitions between central text-like band (y\u22480.4\u20130.6) and slightly above/below, plus occasional jumps to lower areas. This pattern matches scanning and re-orienting behavior seen in BROWSE examples more than the steadier line-by-line READ pattern or the more extreme, multi-directional excursions typical of PLAY, SEARCH, or WATCH; it also lacks the strong upper-screen bias and long fixations of WRITE.",
+  "correct": true
+}

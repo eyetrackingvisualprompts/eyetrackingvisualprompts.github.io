@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a single horizontal band near the top of the screen, consistent with reading a short line of text such as a search query or top search results, rather than the longer multi-line scan paths typical of full-page reading or browsing.",
+  "correct": true
+}

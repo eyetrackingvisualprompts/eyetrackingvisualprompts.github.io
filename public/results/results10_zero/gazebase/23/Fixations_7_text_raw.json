@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show repeated large-amplitude jumps (multi-degree changes) followed by relatively stable clusters lasting on the order of ~1 s at distinct locations, with movements in both horizontal and vertical directions. This pattern matches following a target that relocates intermittently and remains at each position, consistent with the Random Saccades task rather than continuous tracking, central fixation, reading-like horizontal scans, or free viewing/game-like behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows mostly horizontal code-line scanning with relatively stable Y positions and occasional vertical saccades to nearby lines, with fewer wide exploratory jumps than SEARCH/BROWSE and less dispersion than DEBUG/WRITE, matching focused code interpretation behavior.",
+  "correct": false
+}

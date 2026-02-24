@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions span a wide 2D range (approximately \u00b115\u00b0 horizontally and \u00b19\u00b0 vertically) with long, large-amplitude shifts between relatively stable clusters, consistent with following a randomly moving bull\u2019s-eye target rather than purely horizontal motion, central fixation, reading-like small left-to-right progressions, video free-viewing, or game-related clustered fixations.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are tightly clustered in the upper\u2011central region with a small vertical spread, closely matching the SEARCH example heatmap (focused on search box/results) rather than the wider lateral or multi\u2011row patterns seen in READ, BROWSE, WRITE, WATCH, or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely dispersed across both horizontal and vertical axes with frequent long saccades and shifting clusters, indicating dynamic visual content over much of the screen, which best matches the WATCH (video viewing) pattern rather than the more localized patterns of reading, writing, searching, browsing, or game play in the examples.",
+  "correct": true
+}

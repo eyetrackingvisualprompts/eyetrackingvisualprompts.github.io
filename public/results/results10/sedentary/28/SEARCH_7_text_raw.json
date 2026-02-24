@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are largely clustered around a central code/IDE area with repeated short-range revisits (editing-like behavior), plus occasional shifts to top/upper regions (e.g., menus or problem statement) and to lower regions (console/output), closely matching the spatial and dynamical pattern seen in the WRITE example more than the other tasks.",
+  "correct": false
+}

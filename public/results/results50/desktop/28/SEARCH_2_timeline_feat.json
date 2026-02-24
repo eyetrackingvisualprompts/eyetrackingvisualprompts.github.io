@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are centered around the middle of the screen with moderate, irregular shifts in both X and Y, resembling the scattered yet bounded exploration seen in the BROWSE example more than the more systematic horizontal patterns of READ/WRITE or the larger directional movements of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

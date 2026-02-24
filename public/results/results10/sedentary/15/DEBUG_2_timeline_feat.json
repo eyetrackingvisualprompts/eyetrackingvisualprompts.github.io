@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal and vertical movements between a few key regions (results list, query box, possible answer area) with occasional larger saccades, resembling the SEARCH example more than the more static code-reading/interpretation or the more dynamic browsing and play patterns.",
+  "correct": false
+}

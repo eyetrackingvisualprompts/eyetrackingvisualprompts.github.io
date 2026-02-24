@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze stays within a relatively constrained central region with repeated fixations around similar coordinates, suggesting focused inspection of a compact, structured stimulus (such as a short code snippet) rather than extended navigation (BROWSE/SEARCH), continuous tracking (PLAY/WATCH), or long-line reading (READ). The pattern is consistent with carefully examining parts of a small code fragment to reason about its output, matching the INTERPRET task.",
+  "correct": false
+}

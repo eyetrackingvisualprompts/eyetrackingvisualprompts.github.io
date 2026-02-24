@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is constrained to a narrow central horizontal band with relatively small, consistent shifts and few large saccades, similar to the WRITE example where attention stays around code lines and IDE elements, unlike the wider horizontal sweeps of reading/browsing or the more variable patterns of watch/play/search/debug.",
+  "correct": false
+}

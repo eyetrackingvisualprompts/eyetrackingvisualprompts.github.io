@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows a single, highly concentrated cluster at the screen center with no other fixation regions, matching the pattern of sustained central fixation on a static target.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including off-center extremes), repeated returns between central play area and screen edges, and irregular non-linear gaze paths resemble tracking dynamic game elements rather than structured reading or code-based tasks, matching the PLAY patterns in the examples.",
+  "correct": true
+}

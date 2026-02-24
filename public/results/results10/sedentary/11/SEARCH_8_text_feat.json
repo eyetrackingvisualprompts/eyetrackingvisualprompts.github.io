@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows extended horizontal scanning across a single line region (likely results/title row) with repeated left-right passes, then large saccades between upper-left and upper-right interface areas and the top bar region. This pattern of revisiting the same horizontal band and jumping between distant UI elements matches search-engine use much more than continuous reading, coding, or video watching.",
+  "correct": true
+}

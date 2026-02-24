@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts with relatively low, stable Y and mid X, then shows two sharp vertical spikes and later a sustained jump to higher X and Y followed by another drop\u2014consistent with scanning search results, brief fixations on highlighted items/snippets, and then moving to a different area, matching the SEARCH pattern more than the smoother reading or coding-like traces.",
+  "correct": true
+}

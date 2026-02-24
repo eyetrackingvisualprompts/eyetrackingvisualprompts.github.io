@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are clustered in a central-to-upper region with frequent medium-length vertical and horizontal shifts and occasional larger jumps, resembling scanning through mixed text and visual elements as in web browsing. The pattern is more exploratory and multi-directional than the regular horizontal line sweeps of READ, less top-focused than SEARCH, and lacks the large, fast, omnidirectional shifts typical of PLAY or WATCH, and the very localized, upper-zone focus typical of WRITE.",
+  "correct": false
+}

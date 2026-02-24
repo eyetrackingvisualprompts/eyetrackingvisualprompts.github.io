@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are dispersed across central and upper regions with multiple clusters and vertical shifts, resembling scanning between query, results, and page elements as in the SEARCH example rather than the more localized or linear patterns of READ, WRITE, or BROWSE.",
+  "correct": false
+}

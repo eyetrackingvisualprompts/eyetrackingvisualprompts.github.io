@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows relatively long, stable fixations (often 0.3\u20130.7s) with moderate saccades along roughly horizontal bands and small vertical repositioning, consistent with line-by-line text reading rather than highly dynamic object tracking (PLAY) or dispersed exploration (BROWSE/SEARCH). The structured, sequential scanning without large scene-wide shifts aligns best with a reading task on a static page (READ).",
+  "correct": false
+}

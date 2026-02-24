@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains around mid-screen with moderate horizontal and small vertical shifts, featuring many short fixations and local exploratory saccades without strong line-like reading patterns or large scene jumps; this matches the scanning/scrolling behavior seen in BROWSE more than the more structured READ/WRITE or the larger, more dispersed movements in SEARCH, WATCH, or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on the left/mid-left region where code typically appears, with occasional long saccades to the right likely toward an output or prompt area, matching the INTERPRET pattern more than WRITE or DEBUG, which show either more right-side activity or denser left-clustered fixations.",
+  "correct": false
+}

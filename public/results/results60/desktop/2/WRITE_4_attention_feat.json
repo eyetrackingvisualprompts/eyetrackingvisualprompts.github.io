@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a mostly horizontal band across mid-screen with limited vertical spread, consistent with line-by-line reading rather than the more centralized clusters (SEARCH/BROWSE), localized top band (WRITE), dispersed motion (PLAY), or upper-focus patterns (WATCH).",
+  "correct": false
+}

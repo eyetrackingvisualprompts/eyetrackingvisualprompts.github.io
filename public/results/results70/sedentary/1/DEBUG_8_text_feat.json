@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly mid-screen code-region fixations with short intra-line saccades, frequent returns to nearby lines, and repeated revisits between code and peripheral interface areas (top, bottom, corners), including several large jumps typical of running/checking code, match the debugging pattern more than reading, writing, or web browsing behaviors.",
+  "correct": true
+}

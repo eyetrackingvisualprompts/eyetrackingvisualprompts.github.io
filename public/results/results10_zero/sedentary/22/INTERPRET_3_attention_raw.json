@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows gaze concentrated in a small region with minimal horizontal scanning or line-by-line movement, suggesting sustained attention to a single localized area, which is most consistent with watching a video rather than reading or interacting with scattered code or web content.",
+  "correct": false
+}

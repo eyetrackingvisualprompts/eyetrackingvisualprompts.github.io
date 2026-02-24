@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are spread broadly across the screen with many medium-to-long saccades and clusters that shift over time, resembling the example WATCH pattern of tracking dynamic visual content rather than the more localized, structured patterns seen in coding, reading, or search tasks.",
+  "correct": true
+}

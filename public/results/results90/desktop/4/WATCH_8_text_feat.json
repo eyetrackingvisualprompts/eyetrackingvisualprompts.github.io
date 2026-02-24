@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The target data shows very large, rapid saccades spanning wide screen areas (including extreme corners and off-center regions) interleaved with shorter, local adjustments and moderately long fixations\u2014closely matching the dynamic, multi-directional gaze behavior seen in the PLAY examples, especially the Agario-like wide navigation pattern, and differing from the more constrained, line- or region-bound patterns in READ/WRITE/BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

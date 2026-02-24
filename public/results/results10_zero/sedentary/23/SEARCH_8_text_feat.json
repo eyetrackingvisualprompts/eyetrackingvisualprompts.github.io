@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid multidirectional saccades across wide screen areas, including off-center/top regions, with relatively short fixations and no clear horizontal line-by-line reading or systematic code/IDE scanning; this pattern is most consistent with visually tracking or navigating dynamic game elements rather than reading, coding, or debugging.",
+  "correct": false
+}

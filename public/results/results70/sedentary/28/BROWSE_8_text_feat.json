@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including off-screen coordinates), repeated transitions between central gameplay area and screen edges/corners, and substantial vertical and horizontal shifts with moderate fixations match the dynamic, spatially distributed gaze typical of interactive gameplay rather than the more localized, structured patterns of reading, coding, or browsing/searching.",
+  "correct": false
+}

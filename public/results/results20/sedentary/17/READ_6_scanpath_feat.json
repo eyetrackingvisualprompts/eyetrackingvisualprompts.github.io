@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a mid-lower horizontal region (likely result list or answer area) and a single upper area (search box or new query), with moderate dispersion and revisits, matching search-engine interaction more than reading, coding, or continuous media tasks.",
+  "correct": false
+}

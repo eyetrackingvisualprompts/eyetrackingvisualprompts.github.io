@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Long horizontal scanpaths near the top suggest reading across a search results page, interleaved with frequent vertical jumps and revisits between a central text region (~x=220\u2013450,y\u2248250\u2013430) and side/top areas, matching exploration of snippets and result links rather than the more uniform line-by-line patterns of READ or the localized code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

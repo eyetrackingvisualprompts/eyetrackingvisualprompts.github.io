@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated over a relatively small left-side region consistent with code editor focus, with occasional long saccades toward the bottom-right suggesting brief reference to other UI elements (e.g., console or file area), matching the WRITE example more than other classes.",
+  "correct": false
+}

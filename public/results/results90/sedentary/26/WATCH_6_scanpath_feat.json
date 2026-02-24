@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are widely distributed across the entire screen with frequent large saccades in all directions and no clear structured regions (like text columns or code blocks), matching the dispersed, dynamic viewing pattern typical of watching a full-screen video.",
+  "correct": true
+}

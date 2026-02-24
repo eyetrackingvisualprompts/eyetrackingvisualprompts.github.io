@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze moves predominantly horizontally within narrow vertical bands that gradually step downward (y from ~0 to -6), with many short, left-to-right saccades followed by a larger return saccade to the left\u2014matching the line-by-line reading pattern rather than large-amplitude, symmetric horizontal tracking or random multi-directional jumps.",
+  "correct": true
+}

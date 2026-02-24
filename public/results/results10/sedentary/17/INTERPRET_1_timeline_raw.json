@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, distinct horizontal shifts between two main vertical regions resembling transitions between search results and a separate page, with periods of focused fixation, closely matching the SEARCH example pattern more than the other activities.",
+  "correct": false
+}

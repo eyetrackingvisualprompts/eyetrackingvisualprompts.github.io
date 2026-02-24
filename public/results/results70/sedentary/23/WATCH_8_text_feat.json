@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long, stable fixations (up to several seconds) interspersed with large saccades across wide screen regions and into corners, consistent with following dynamic visual content rather than line-by-line reading or code/GUI interaction. The spatiotemporal pattern (prolonged looks at regions, big jumps to new areas, limited structured scanning) best matches the WATCH condition\u2019s video-viewing behavior.",
+  "correct": true
+}

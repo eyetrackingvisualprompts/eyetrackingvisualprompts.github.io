@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixation bands are mid-screen with moderate horizontal shifts and intermittent vertical changes, resembling the SEARCH example more than others: less vertical scanning than READ, more structured than BROWSE, and without the edge-focused or extreme movements typical of WATCH or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Predominantly local exploration around a compact code-like region (x\u2248200\u2013400, y\u2248450\u2013650) with many medium/long fixations and frequent short saccades between a few nearby lines, matching the detailed, line-by-line reasoning and back\u2011and\u2011forth checking typical of INTERPRET more than the broader scanning in DEBUG or the horizontal patterns in READ/BROWSE.",
+  "correct": true
+}

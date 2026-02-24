@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows rapid, frequent, and wide-ranging saccades across almost the entire screen in both horizontal and vertical directions, with no orderly reading lines or concentrated code/IDE regions. This dispersed, dynamic gaze pattern best matches interactive game play rather than reading, coding, or browsing tasks.",
+  "correct": false
+}

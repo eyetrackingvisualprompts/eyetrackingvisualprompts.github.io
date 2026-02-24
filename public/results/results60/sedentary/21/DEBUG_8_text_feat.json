@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized fixations and short saccades around code-like regions (low x,y), with frequent vertical transitions between mid and lower areas, interleaved with occasional jumps to top-left (potential error or line numbers) and top of screen, closely match the DEBUG pattern of repeatedly checking and revisiting small code areas rather than the more linear scan of READ/WRITE or the broader exploratory movements of SEARCH/BROWSE/PLAY.",
+  "correct": true
+}

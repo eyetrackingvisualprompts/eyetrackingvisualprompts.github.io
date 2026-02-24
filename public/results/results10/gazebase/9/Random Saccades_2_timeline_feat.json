@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y fixation traces show step-like jumps to various horizontal and vertical positions with roughly 1-second holds, covering a wide 2D range rather than just horizontal motion or clustered reading lines, matching the random target-following pattern of Random Saccades.",
+  "correct": true
+}

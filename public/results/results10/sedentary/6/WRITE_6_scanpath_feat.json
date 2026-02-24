@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a compact region at the upper-left, similar to the DEBUG example where attention stays on a small code area without horizontal reading or scrolling patterns typical of READ/BROWSE/SEARCH.",
+  "correct": false
+}

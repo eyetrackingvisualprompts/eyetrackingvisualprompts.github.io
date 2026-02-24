@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between multiple horizontal bands (likely result lines and snippets) with medium-length saccades and revisits, resembling scanning a search-results page rather than the tighter, line-by-line pattern of continuous reading or the more dispersed patterns of browsing or coding tasks.",
+  "correct": false
+}

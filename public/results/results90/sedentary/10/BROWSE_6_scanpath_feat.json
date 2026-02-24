@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows wide horizontal movements between separated regions at top-left, center, and top-right, with less dense local clustering than programming or reading, matching the dispersed exploratory gaze typical of web search results pages.",
+  "correct": false
+}

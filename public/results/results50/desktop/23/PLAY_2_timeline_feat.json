@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered with moderate horizontal movement and frequent small saccades, resembling the example BROWSE pattern more than the others, which show stronger vertical shifts (PLAY/WATCH) or more regular reading-like scans (READ/SEARCH).",
+  "correct": false
+}

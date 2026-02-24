@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows gaze concentrated in a few discrete clusters aligned horizontally at roughly the same vertical position, with strong fixation at two lateral positions and brief intermediate fixations, consistent with following a target moving back and forth along a horizontal line rather than random or reading-like patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a narrow horizontal band with small, smooth shifts over time, indicating sustained attention to a localized moving stimulus rather than line-by-line reading or code inspection; this stable tracking pattern is most consistent with watching a video segment where focal action occurs in one region of the screen.",
+  "correct": false
+}

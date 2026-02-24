@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central band with relatively small, regular horizontal shifts and occasional larger saccades to upper regions, matching the focused code-editing behavior in the WRITE example more than the broader exploration or dynamic tracking seen in other tasks.",
+  "correct": false
+}

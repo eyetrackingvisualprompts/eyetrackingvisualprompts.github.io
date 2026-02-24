@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, rapid shifts across distant screen regions followed by medium-length, relatively stationary fixations that track changing areas, consistent with following dynamic visual content rather than line- or code-based reading, targeted search, or tightly clustered IDE/code views. This spatiotemporal pattern best matches the WATCH activity.",
+  "correct": false
+}

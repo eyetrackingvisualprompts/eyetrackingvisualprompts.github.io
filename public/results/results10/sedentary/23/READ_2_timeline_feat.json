@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows a smooth, continuous drift across the screen with minimal discrete line-by-line jumps, matching the stable, following-type eye movements typical of watching dynamic visual content rather than text- or code-based tasks.",
+  "correct": false
+}

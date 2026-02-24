@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Very large, frequent jumps between code-like (central/upper) and far peripheral/negative coordinates, with irregular revisits to similar regions, best match the coding-oriented, IDE-based gaze patterns seen in WRITE and DEBUG; the extensive off-text excursions and long sweeping saccades align more closely with the WRITE examples than with the more locally constrained DEBUG or the more structured scanning in SEARCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band with very small, gradual shifts and minimal large saccades, similar to the WRITE example where participants focus on a single code area in the IDE, unlike the broader scanning or dynamic patterns seen in browsing, reading, search, or games.",
+  "correct": false
+}

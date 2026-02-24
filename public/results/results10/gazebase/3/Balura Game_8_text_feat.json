@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large-amplitude saccades jump unpredictably across both horizontal and vertical axes with no repetitive pattern or clear horizontal line structure, matching the random target movements rather than structured reading, purely horizontal saccades, central fixations, or the more clustered/game- or scene-based viewing patterns.",
+  "correct": false
+}

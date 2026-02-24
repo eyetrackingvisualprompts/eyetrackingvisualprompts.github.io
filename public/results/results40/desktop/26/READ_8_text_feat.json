@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium/large saccades across wide vertical and horizontal extents (from near top to bottom and side to side), with clusters of short fixations at several vertical levels\u2014consistent with scrolling and scanning heterogeneous web/news content. Patterns differ from the more line-structured mid-height fixations of READ, the very top-focused WRITE, and the more central, longer-fixation behavior of WATCH; they also lack the tightly task-centric regions typical for PLAY or SEARCH results pages, matching BROWSE best.",
+  "correct": false
+}

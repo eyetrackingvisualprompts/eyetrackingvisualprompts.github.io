@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shows step-like jumps to various positions across both horizontal (\u00b115\u00b0) and vertical (\u00b19\u00b0) ranges with ~1 s plateaus between movements, matching a target that appears at random screen locations and is held briefly, characteristic of the Random Saccades task rather than strictly horizontal, central fixation, reading, video viewing, or game-specific patterns.",
+  "correct": false
+}

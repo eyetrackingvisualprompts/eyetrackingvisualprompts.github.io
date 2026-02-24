@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts with dense horizontal movements near the bottom of the screen (likely over search results or browser chrome), then makes a long saccade to an upper-central horizontal band where it continues scanning left-to-right across a narrow vertical range\u2014matching typical scanning of search snippets or result titles, not the more continuous line-by-line pattern of pure reading or the localized code/IDE focus of programming-related tasks.",
+  "correct": false
+}

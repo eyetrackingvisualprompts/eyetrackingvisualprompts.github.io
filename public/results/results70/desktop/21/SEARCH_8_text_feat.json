@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades spanning broad screen regions (including corners and HUD-like areas), rapid shifts between central, upper, and extreme edge locations, and irregular fixation pattern match dynamic, multi-directional gaze behavior typical of gameplay rather than the more structured, line-based or area-focused patterns seen in reading, writing, searching, or browsing, and more stable regions of interest in watching video.",
+  "correct": false
+}

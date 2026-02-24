@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is distributed horizontally across a mid-screen band with multiple dispersed clusters and some vertical shifts, indicating scanning various webpage regions rather than focusing on a single code block, text column, or central moving object\u2014matching the browsing pattern.",
+  "correct": false
+}

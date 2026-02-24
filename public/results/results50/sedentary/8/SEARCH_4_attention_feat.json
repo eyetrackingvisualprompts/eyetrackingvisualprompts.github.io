@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in two vertical regions on the left side, with revisits and some spread to nearby lines\u2014matching the focused, iterative scanning of code areas seen in the DEBUG example rather than the more centralized (INTERPRET) or broadly distributed (BROWSE/SEARCH) patterns.",
+  "correct": false
+}

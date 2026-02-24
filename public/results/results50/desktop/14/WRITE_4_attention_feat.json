@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a long, narrow horizontal band across the mid-lower part of the screen, consistent with line-by-line reading behavior rather than the more clustered (SEARCH/BROWSE), top-heavy (WRITE/WATCH), or scattered (PLAY) patterns.",
+  "correct": false
+}

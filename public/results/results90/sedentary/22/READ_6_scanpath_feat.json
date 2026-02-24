@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense horizontal bands within a narrow vertical column, indicating systematic line-by-line reading on a central text block, closely matching the READ example pattern.",
+  "correct": true
+}

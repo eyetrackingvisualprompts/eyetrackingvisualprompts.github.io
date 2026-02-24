@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is predominantly arranged in a horizontal band with left\u2011to\u2011right scanning across nearly the full screen width, including occasional vertical transitions and jumps to other regions, matching the mixed reading-and-navigation pattern typical for web browsing rather than the more uniform lines of READ or the localized clusters of coding tasks.",
+  "correct": false
+}

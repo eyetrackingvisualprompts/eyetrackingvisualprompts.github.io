@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are narrowly clustered in a single small horizontal region near the screen center with minimal vertical spread, consistent with watching a localized area such as the focal region of a video rather than scanning lines of text or exploring multiple screen regions as in reading, writing, searching, browsing, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays mostly in central-mid vertical regions with frequent medium saccades between mid and upper areas, plus occasional large vertical jumps consistent with moving between query box, result snippets, and top/bottom of a search page. The pattern and amplitudes resemble the provided SEARCH example more than the tighter horizontal scan lines of READ or the more central, less task-switching patterns of WATCH and PLAY.",
+  "correct": true
+}

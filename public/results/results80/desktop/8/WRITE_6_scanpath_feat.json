@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated band with limited vertical movement, indicating line-by-line scanning typical of reading rather than the more dispersed or vertical patterns seen in search, browsing, video watching, writing, or gaming.",
+  "correct": false
+}

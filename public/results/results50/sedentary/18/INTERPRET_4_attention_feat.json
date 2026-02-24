@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a mid-left vertical region with some scattered points elsewhere, closely matching the WRITE example pattern over the code editor area while occasionally glancing at other UI elements.",
+  "correct": false
+}

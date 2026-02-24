@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a narrow lower-screen band with very small, slow drifts and almost no large saccades or directional sweeps. This resembles idle or low-engagement inspection of a small UI region (e.g., part of a webpage) more than the systematic line-by-line horizontal movements of READ, the wide exploratory shifts in SEARCH or PLAY, or the more variable fixation zones in WATCH and WRITE. The spatial pattern aligns best with BROWSE examples, which often show localized scanning around specific content areas.",
+  "correct": false
+}

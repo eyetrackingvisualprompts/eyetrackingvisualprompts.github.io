@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized fixations around code-like coordinate bands with frequent short revisits, vertical shifts between nearby lines, and occasional large jumps (e.g., to (597,506), (230,635)) resemble scanning and re-checking regions typical of debugging rather than smoother horizontal reading or broader exploratory browsing/playing patterns.",
+  "correct": false
+}

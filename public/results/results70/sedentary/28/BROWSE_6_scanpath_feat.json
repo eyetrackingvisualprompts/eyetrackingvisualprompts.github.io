@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively confined central-left region with frequent vertical shifts and revisits, plus occasional long saccades to the top and bottom\u2014matching the dense, revisiting scanpaths seen when inspecting and correcting code, as in the DEBUG example, rather than the more linear (READ/BROWSE) or globally scattered (WATCH/PLAY) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the vertical center of the screen with moderate vertical spread and some horizontal shifts, resembling the mixed central reading and peripheral exploration pattern seen in the BROWSE example more than the tighter, line-based READ/WRITE patterns or the top-focused WATCH pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, frequent jumps in both horizontal and vertical directions with positions held briefly before moving elsewhere, matching the pattern of following a randomly moving target rather than the more structured horizontal-only motion, tight central fixation, or reading-like left-to-right sweeps.",
+  "correct": false
+}

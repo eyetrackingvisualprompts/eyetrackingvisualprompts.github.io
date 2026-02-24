@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the central region with moderate spread both horizontally and vertically, resembling the example BROWSE pattern more than the tighter horizontal band of READ or the upper-screen focus of WATCH/WRITE/PLAY. This suggests scanning mixed webpage content rather than structured reading or video/game viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are strongly clustered on the left side around a narrow vertical region (likely code editor) with a secondary cluster on the upper-right (e.g., console or reference panel), matching the WRITE example pattern of focusing on the editor while occasionally checking another area, unlike the more concentrated INTERPRET or dispersed DEBUG patterns.",
+  "correct": false
+}

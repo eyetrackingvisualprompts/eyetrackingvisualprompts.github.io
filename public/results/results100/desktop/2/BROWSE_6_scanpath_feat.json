@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a wide central area with frequent shifts between multiple regions, resembling the exploratory, multi-section viewing seen in the BROWSE example rather than the more constrained patterns of READ, WRITE, or the more clustered regions of PLAY and WATCH.",
+  "correct": true
+}

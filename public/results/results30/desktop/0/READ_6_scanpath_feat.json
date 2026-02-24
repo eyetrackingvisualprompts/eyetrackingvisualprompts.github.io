@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze path shows multiple diagonal sweeps and clusters concentrated in the upper-left region with occasional excursions rightward, closely matching the WRITE template where users look between text lines and UI elements while composing, rather than the more uniform horizontal bands of READ or the scattered patterns of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

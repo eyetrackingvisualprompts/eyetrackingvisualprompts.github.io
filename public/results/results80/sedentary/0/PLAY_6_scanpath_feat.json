@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are widely spread across the screen with frequent long saccades in multiple directions and no structured reading or code-inspection pattern, closely matching the dynamic, object-following behavior seen in the PLAY example rather than the more localized or systematic patterns of other tasks.",
+  "correct": true
+}

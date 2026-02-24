@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated band at mid-lower screen with sequential clustered fixations, matching the left-to-right reading pattern seen in the READ example rather than the more centralized clusters of BROWSE/SEARCH or the corner-focused patterns of WRITE/PLAY/WATCH.",
+  "correct": false
+}

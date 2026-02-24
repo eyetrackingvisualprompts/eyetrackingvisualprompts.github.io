@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show mostly stable, horizontally constrained fixations with small jitter and periodic short saccades, consistent with scanning lines of text. There are no large, continuous multi-directional movements typical of PLAY or WATCH, nor the more scattered exploratory pattern expected in SEARCH or BROWSE; instead the behavior matches sustained reading over the 10s window.",
+  "correct": false
+}

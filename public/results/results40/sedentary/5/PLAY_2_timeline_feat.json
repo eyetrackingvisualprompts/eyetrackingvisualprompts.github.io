@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-to-high variability in both X and Y with frequent saccades and shifts between different vertical regions, resembling the heterogeneous, exploratory patterns in the BROWSE example more than the more stable or structured patterns seen in coding, reading, or video watching tasks.",
+  "correct": false
+}

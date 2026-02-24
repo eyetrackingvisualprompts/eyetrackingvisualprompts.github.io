@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "X position shows systematic, step-like horizontal shifts with relatively stable Y position around a central line, matching left-to-right line reading with occasional line changes rather than the more varied movements seen in browsing, search, or dynamic tasks like play/watch/write.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around the central area with vertical spread and several distinct clusters, resembling attention shifts between search box, results list, and other page elements typical of web search behavior, rather than the more linear horizontal pattern of reading or the upper-screen focus of watching/writing.",
+  "correct": false
+}

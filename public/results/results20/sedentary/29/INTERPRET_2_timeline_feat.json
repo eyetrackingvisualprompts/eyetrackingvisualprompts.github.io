@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows irregular, wide-ranging horizontal and vertical movements with varying fixation positions, similar to the heterogeneous patterns in the BROWSE example rather than the more structured, line-based or focused patterns in READ, WRITE, INTERPRET, or DEBUG.",
+  "correct": false
+}

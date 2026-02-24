@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on two vertically separated code areas on the left side of the screen, with some spread within each block and few looks elsewhere, matching the pattern of scanning and revisiting multiple code regions typical for debugging rather than the single tight block of INTERPRET or WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-like behavior: mostly mid-screen vertical Y-fixations with moderate, irregular X-movements and intermittent larger saccades, indicating repeated scanning and checking rather than systematic line-by-line reading (READ/BROWSE) or focused output prediction (INTERPRET). This pattern best matches the DEBUG task where users inspect and re-inspect scattered code regions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to many different positions across both horizontal (\u2248\u00b110\u201320\u00b0) and vertical (\u2248\u22126 to \u221222\u00b0 then up to +10\u00b0) ranges, followed by short, locally stable clusters\u2014consistent with following a randomly relocating target over a wide 2D area. The pattern is not constrained to a single axis (ruling out Horizontal Saccades), is too structured and target-like for free Video Viewing or Reading, and lacks the central stability of pure Fixations or the task\u2011driven clustering typical of the Balura Game.",
+  "correct": false
+}

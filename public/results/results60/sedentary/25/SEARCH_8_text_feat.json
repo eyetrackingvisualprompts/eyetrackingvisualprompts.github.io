@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across widely separated screen regions (including off-content coordinates), revisits to top and bottom areas, and mixed mid-length fixations resemble exploratory web navigation patterns seen in the BROWSE examples rather than the more structured, line-based patterns of READ or code-centric activities like WRITE/DEBUG/INTERPRET, or the object-following behavior of PLAY/WATCH.",
+  "correct": false
+}

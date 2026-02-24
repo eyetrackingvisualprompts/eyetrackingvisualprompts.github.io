@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show large, rapid movements across wide screen areas (including edges and off-screen regions), with irregular, non-linear patterns and frequent shifts between disparate locations. This is characteristic of visually tracking moving objects or navigating in a dynamic environment, as in simple games (Mario, Pong, Agario), rather than the more structured, line-based or region-focused patterns typical of reading, coding, or web search/browsing.",
+  "correct": false
+}

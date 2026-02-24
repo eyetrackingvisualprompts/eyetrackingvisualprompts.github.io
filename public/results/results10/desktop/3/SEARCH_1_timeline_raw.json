@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Alternating medium-length horizontal scan segments with periodic vertical jumps and relatively smooth trajectories matches the browsing example pattern more closely than the more regular line-by-line READ pattern or the more static WATCH/WRITE behaviors.",
+  "correct": false
+}

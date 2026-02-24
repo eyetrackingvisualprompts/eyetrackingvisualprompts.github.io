@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shifts repeatedly between mid and upper screen regions with short fixations and vertical transitions, resembling scanning result lists and moving to different areas, which aligns best with the search pattern rather than the more line-structured (READ/WRITE) or highly dispersed, dynamic movements (WATCH/PLAY/BROWSE).",
+  "correct": false
+}

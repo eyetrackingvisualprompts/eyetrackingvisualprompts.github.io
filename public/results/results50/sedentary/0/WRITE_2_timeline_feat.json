@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions remain within a narrow horizontal band with modest, localized saccades and no large vertical shifts, matching the stable, code-centered viewing pattern seen in the WRITE example rather than the broader or more structured scanning seen in reading, browsing, or searching.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain clustered in a small, central region with minimal horizontal or vertical progression, indicating prolonged fixation on a single area of the screen, consistent with passively watching a video rather than scanning text, searching, browsing, or tracking widely moving game elements.",
+  "correct": false
+}

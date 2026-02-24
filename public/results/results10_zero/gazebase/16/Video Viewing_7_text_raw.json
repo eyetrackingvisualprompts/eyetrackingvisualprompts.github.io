@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, rapid jumps to widely separated positions in both horizontal and vertical directions, followed by short local clusters consistent with fixations at each new location. Movements are not constrained to a single axis (ruling out Horizontal Saccades) and do not show the tight central clustering of Fixations or the orderly, line-based pattern typical of Reading. The broad spatial coverage and step-like shifts to new positions every ~1 s are characteristic of following a randomly moving target, matching Random Saccades.",
+  "correct": false
+}

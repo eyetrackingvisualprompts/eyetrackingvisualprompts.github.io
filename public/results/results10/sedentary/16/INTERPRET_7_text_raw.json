@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The data shows frequent shifts between code-like coordinate regions, many off-screen or negative coordinates indicative of IDE edge interactions and scrolling, plus scattered clusters at multiple vertical bands rather than stable horizontal reading lines. This pattern aligns best with the complex, multi-area exploration and verification typical of debugging compared to the more linear patterns of READ/INTERPRET or the smoother, object-following trajectories of PLAY/WATCH.",
+  "correct": false
+}

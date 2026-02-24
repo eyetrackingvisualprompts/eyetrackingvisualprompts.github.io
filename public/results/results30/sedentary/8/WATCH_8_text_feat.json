@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen areas (including edges and off-screen coordinates), rapid revisits between distant regions, and relatively short, scattered fixations match the dynamic, spatially distributed gaze behavior typical of game play rather than the more line- or region-structured patterns of reading, coding, or web/search tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions vary smoothly with small fluctuations and gradual drifts, without the regular left-to-right saccadic sweeps or line-change jumps typical of reading or writing, and without large multidirectional shifts common in searching, browsing, or gameplay; this stable, continuous pattern best matches watching a video.",
+  "correct": false
+}

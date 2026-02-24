@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are clustered at discrete, widely separated positions across both horizontal and vertical extents, with no continuous band (as in horizontal saccades) or text-like rows (as in reading). The scattered clusters across the screen match following a target that jumps to random locations each second, consistent with Random Saccades.",
+  "correct": false
+}

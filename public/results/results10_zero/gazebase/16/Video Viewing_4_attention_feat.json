@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "Fixations are arranged in a predominantly horizontal band with small vertical dispersion and multiple neighboring clusters, characteristic of line-by-line reading rather than single-point fixation or large, discrete saccades seen in tracking tasks or games.",
+  "correct": false
+}

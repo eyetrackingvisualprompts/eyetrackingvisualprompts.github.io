@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a compact central region with long, stable fixations (often >1s) and short, small-amplitude saccades, indicating sustained attention to mostly static content rather than systematic line-by-line reading, code inspection, or broad exploratory scanning typical of browsing, search, or coding tasks. This localized, steady viewing pattern is most consistent with watching a video in the center of the screen.",
+  "correct": false
+}

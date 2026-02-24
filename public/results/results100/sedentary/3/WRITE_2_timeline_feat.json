@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows mostly localized, medium-range fixations with intermittent vertical and horizontal saccades around a constrained central area, plus occasional larger shifts\u2014closely matching the DEBUG pattern where attention alternates between code, error messages, and execution output, rather than the more linear (READ/BROWSE) or highly dynamic (PLAY/WATCH/SEARCH) trajectories.",
+  "correct": false
+}

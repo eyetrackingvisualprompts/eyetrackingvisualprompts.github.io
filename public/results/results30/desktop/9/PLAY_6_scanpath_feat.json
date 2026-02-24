@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around a central area with moderate dispersion and irregular saccades, indicating focused exploration of a confined region typical of reading search results and scanning a search page, matching the SEARCH pattern more than the more structured READ or more scattered BROWSE/PLAY patterns.",
+  "correct": false
+}

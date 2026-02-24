@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze shifts across the full screen, including to extreme edges and outside typical code/text regions, plus visits to both mid-screen content and far bottom areas, match the heterogeneous, exploratory scan patterns seen in BROWSE rather than the more line- or block-structured patterns of coding, reading, or debugging tasks.",
+  "correct": false
+}

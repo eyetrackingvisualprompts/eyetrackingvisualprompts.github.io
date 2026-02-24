@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Predominantly horizontal, line-like gaze shifts with small vertical movements and clusters around similar y-levels match the structured, line-by-line scanning patterns seen in the READ examples more than the other activities.",
+  "correct": true
+}

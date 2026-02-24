@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered on a narrow, left-side region typical of a code editor, with occasional longer saccades to a few other spots but no broad horizontal spread as in SEARCH/BROWSE or strong central focus as in WATCH/PLAY. This focused inspection of one code area with brief checks elsewhere matches the INTERPRET task of reasoning about a given code snippet.",
+  "correct": true
+}

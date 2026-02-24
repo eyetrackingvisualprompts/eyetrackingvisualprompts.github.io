@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are split between a cluster in the upper-left (likely code area) and a horizontal line of dense fixations near the bottom (consistent with frequent attention to keyboard/console or lower UI), matching the WRITE example pattern more than other tasks.",
+  "correct": false
+}

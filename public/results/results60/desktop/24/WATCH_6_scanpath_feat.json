@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a relatively compact central-upper area with moderate saccade amplitudes and no strong horizontal line structure indicative of reading or writing. The pattern closely resembles the provided BROWSE example more than the denser, more dispersed SEARCH pattern or the linear WATCH/WRITE trajectories, suggesting focused viewing of a limited webpage region while browsing.",
+  "correct": false
+}

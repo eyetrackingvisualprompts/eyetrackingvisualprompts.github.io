@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts cover a wide 2D area (x from about -22\u00b0 to +18\u00b0, y from about -15\u00b0 to +8\u00b0) with both horizontal and vertical components, and fixations last a few hundred ms between larger relocations. This pattern matches following a randomly moving target rather than strictly horizontal tracking, stable central fixation, structured reading lines, game-driven clustered refixations, or natural video viewing.",
+  "correct": false
+}

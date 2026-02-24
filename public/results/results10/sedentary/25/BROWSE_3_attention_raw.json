@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated mainly in the upper-left region with occasional shifts to mid-screen, resembling the WRITE example where attention alternates between the code editor (top-left) and other interface elements, rather than the more centered or line-structured patterns of reading, browsing, or playing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze stays mostly in the central-upper region with medium-length fixations and frequent medium-amplitude saccades, including repeated vertical and horizontal shifts consistent with scanning mixed text and graphics (typical of web pages). The pattern closely resembles the BROWSE example: localized exploration around a band of y-values, without the strong left-to-right line sweeps of READ, the very long fixations of WATCH, or the larger, more erratic shifts seen in PLAY and SEARCH.",
+  "correct": false
+}

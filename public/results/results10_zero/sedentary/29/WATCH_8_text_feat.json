@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows multiple large-amplitude saccades across distant screen regions (e.g., far right to far left, then to lower areas), frequent shifts between separated clusters, and no clear linear reading pattern or tight code-centered area. This scattered, exploratory pattern is more consistent with free web browsing than with focused reading, coding (WRITE/DEBUG/INTERPRET), or continuous viewing (WATCH/PLAY).",
+  "correct": false
+}

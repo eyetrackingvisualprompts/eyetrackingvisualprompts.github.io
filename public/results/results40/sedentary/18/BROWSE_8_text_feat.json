@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a horizontal band, with repeated left-to-right saccades and short regressions at several nearby vertical positions, forming line-like scanpaths very similar in pattern and coordinates to the provided READ example, and unlike the larger spatial jumps and broader exploration seen in SEARCH or BROWSE.",
+  "correct": false
+}

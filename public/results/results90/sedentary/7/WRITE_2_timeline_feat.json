@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band with mostly short, local saccades and few large jumps, similar to focused code inspection rather than broad exploration or dynamic tracking, matching the INTERPRET example pattern best.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show step-like shifts to various discrete locations across the screen (including horizontal and vertical changes) with plateaus lasting about a second, matching a target that jumps to random positions rather than purely horizontal motion or continuous scanning/reading.",
+  "correct": true
+}

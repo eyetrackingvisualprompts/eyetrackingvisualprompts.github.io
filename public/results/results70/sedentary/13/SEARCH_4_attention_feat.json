@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are spread horizontally across the upper-central band of the screen with relatively smooth coverage and fewer vertical scanning or text-like line patterns, closely matching the WATCH example heatmap where gaze tracks changing content in a video rather than concentrated on code/text areas or reading lines.",
+  "correct": false
+}

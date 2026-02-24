@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread horizontally across the upper-left area, consistent with scanning a row of search results, plus a secondary cluster on the right resembling attention to a specific result or related panel, matching the SEARCH heatmap more than the other tasks.",
+  "correct": false
+}

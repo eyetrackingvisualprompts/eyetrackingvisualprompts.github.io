@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, irregular saccades with numerous revisits and crossings between dispersed locations, resembling active target-seeking behavior rather than structured reading, constrained tracking, or centralized fixation; this pattern best matches the Balura Game examples.",
+  "correct": false
+}

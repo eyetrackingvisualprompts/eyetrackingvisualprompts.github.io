@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are concentrated in a central region with moderate surrounding dispersion, closely matching the browsing example heatmap where attention centers on a main content area with some exploration, unlike the more linear READ pattern or highly distributed PLAY/WATCH patterns.",
+  "correct": false
+}

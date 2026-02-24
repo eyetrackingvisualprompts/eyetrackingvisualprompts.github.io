@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated on a horizontal band in the upper-middle left, with additional smaller clusters elsewhere on the screen, matching the dispersed yet result-focused pattern of scanning search engine results rather than the more localized code-focused (WRITE/DEBUG/INTERPRET) or continuous text block (READ) patterns.",
+  "correct": false
+}

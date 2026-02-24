@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly stable with minimal saccades and nearly constant fixation positions, indicating passive viewing of a central region on the screen, which best matches the WATCH activity compared to the more exploratory or scanning patterns of browse, search, read, write, or play.",
+  "correct": false
+}

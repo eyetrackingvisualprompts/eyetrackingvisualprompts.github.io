@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a narrow horizontal band with small vertical shifts and moderate-duration fixations, consistent with scanning lines of text near the top portion of the screen, matching the reading pattern rather than the larger, more scattered movements seen in browse, search, or play tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows medium horizontal movement with frequent but bounded saccades and relatively stable vertical progression, resembling careful inspection and re-reading of localized text/code regions, which best matches the INTERPRET (code understanding) pattern among the provided examples.",
+  "correct": false
+}

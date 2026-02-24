@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band with moderate, local saccades around the code area and occasional jumps, resembling the WRITE example more than the others, which show either strong horizontal scanning (READ/SEARCH/BROWSE) or larger dispersed movements (PLAY/WATCH).",
+  "correct": false
+}

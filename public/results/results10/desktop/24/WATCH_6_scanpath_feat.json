@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are spread over a moderately wide horizontal range near the upper-middle of the screen with multiple clusters and transitions, indicating scanning different elements (results, query box, controls) rather than the more linear pattern of READ or the tighter clusters of WRITE; this most closely matches SEARCH behavior.",
+  "correct": false
+}

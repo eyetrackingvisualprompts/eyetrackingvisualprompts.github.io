@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in a mid-screen region with moderate dispersion and frequent shifts among nearby areas, resembling interactions with search results and SERP elements more than the tighter horizontal patterns of reading/writing or the more expansive movements seen in browsing, playing, or watching videos.",
+  "correct": false
+}

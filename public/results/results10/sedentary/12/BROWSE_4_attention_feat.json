@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated over a mid-left code area with vertical spread and some shifts downward, similar to the DEBUG example pattern of scanning and revisiting lines in a code editor rather than the tighter cluster of WRITE or INTERPRET or the wider spread of SEARCH/BROWSE/WATCH/PLAY.",
+  "correct": false
+}

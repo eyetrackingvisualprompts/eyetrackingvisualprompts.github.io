@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long periods of stable fixation along a nearly constant horizontal line (likely following a static band such as subtitles or a central action region), interspersed with occasional large, rapid shifts to other vertical positions and brief scans, then returning to similar bands. This pattern of sustained focus with intermittent broader shifts matches watching video (especially with subtitles) more than the more systematic line-by-line scanning of READ, the dispersed, multi-region exploration of BROWSE/SEARCH, the precise local shifts of WRITE, or the highly frequent, multi-directional rapid movements typical in PLAY.",
+  "correct": false
+}

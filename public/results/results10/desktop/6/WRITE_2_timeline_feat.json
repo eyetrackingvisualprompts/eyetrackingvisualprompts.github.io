@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower-left region with relatively small horizontal excursions and very stable vertical positioning, matching the pattern for looking near a text input area while typing, similar to the WRITE example and distinct from the wider vertical ranges seen in READ or SEARCH.",
+  "correct": true
+}

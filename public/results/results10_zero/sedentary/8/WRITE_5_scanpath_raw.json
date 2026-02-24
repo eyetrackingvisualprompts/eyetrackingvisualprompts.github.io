@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical strip with repeated back-and-forth movements between two main horizontal bands, consistent with switching attention between code lines and nearby interface elements while editing/implementing code rather than continuous reading, web navigation, or full-screen video watching.",
+  "correct": true
+}

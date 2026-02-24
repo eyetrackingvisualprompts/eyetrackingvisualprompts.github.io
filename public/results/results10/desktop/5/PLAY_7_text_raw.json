@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-amplitude shifts around mid-screen with occasional larger excursions and brief stable clusters, matching the more dynamic, multi-directional viewing behavior in the PLAY examples rather than the steadier, line-like patterns of READ/WRITE or the more vertical/scroll-like patterns in BROWSE/SEARCH.",
+  "correct": true
+}

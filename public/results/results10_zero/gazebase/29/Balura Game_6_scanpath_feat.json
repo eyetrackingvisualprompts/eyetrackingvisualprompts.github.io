@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps between sparsely distributed fixation points across both horizontal and vertical dimensions, with positions held briefly before the next jump, matching the pattern of following a randomly moving target rather than rhythmic horizontal tracking, dense reading lines, or static fixation.",
+  "correct": false
+}

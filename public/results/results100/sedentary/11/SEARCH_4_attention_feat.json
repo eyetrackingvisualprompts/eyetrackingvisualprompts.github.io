@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread mainly across the top of the screen with multiple horizontal bands and clusters, resembling attention to a search bar and several result snippets rather than a single central object (PLAY/WATCH) or left-code area (WRITE/INTERPRET/DEBUG). This pattern matches the SEARCH example heatmap most closely.",
+  "correct": true
+}

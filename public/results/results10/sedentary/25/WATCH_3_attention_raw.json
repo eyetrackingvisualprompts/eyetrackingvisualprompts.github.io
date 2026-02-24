@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly focused on a compact region in the upper-left code area with slight vertical spread, closely matching the INTERPRET example heatmap pattern and differing from the more dispersed, multi-region fixation seen in DEBUG or other tasks.",
+  "correct": false
+}

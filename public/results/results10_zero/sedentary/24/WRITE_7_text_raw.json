@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form compact, horizontally clustered bands with small regressions and limited large-amplitude shifts, consistent with line-by-line reading of text rather than dynamic object tracking, coding, or broad exploratory browsing/searching patterns.",
+  "correct": false
+}

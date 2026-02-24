@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are confined to a small, narrow horizontal band with short back-and-forth saccades and minimal vertical movement, resembling localized reading behavior more than the broader, multidirectional patterns seen in search, browse, watch, write, or play activities.",
+  "correct": false
+}

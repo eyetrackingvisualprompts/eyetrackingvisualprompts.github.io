@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including bottom, center, and upper areas) with short to moderate fixations and repeated returns to central zones resemble dynamic, multi-directional gaze shifts typical of game play rather than the more line-structured (READ/WRITE) or top-centered (SEARCH/BROWSE) patterns or upper-band focus of WATCH.",
+  "correct": false
+}

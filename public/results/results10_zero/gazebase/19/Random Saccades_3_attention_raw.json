@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows discrete, spatially separated fixation clusters scattered across both horizontal and vertical extents, with no clear linear horizontal pattern (as in Horizontal Saccades) and no central concentration (as in Fixations). The isolated clusters at varying vertical positions are characteristic of following a randomly moving target rather than reading or free video viewing.",
+  "correct": true
+}

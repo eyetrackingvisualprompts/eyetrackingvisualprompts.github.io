@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid shifts in both X and Y with broad coverage of the screen and irregular fixation patterns, matching the dynamic, multi-directional eye movements typical of playing games rather than the more stable or patterned movements seen in reading, writing, browsing, searching, or watching videos.",
+  "correct": false
+}

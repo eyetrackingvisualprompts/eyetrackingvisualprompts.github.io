@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the vertical center with a strong concentration slightly right of center and some spread upward, matching the pattern of scanning search results and snippets seen in the SEARCH example, rather than the more linear READ or more dispersed WATCH/PLAY patterns.",
+  "correct": false
+}

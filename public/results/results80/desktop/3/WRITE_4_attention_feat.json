@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are tightly clustered in a small central-lower region, similar to focused attention on a single information area (e.g., search result snippet), matching the SEARCH example\u2019s compact heatmap more than the broader scanning seen in BROWSE or READ.",
+  "correct": false
+}

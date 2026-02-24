@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts are mostly horizontal within a narrow vertical band, with medium-length fixations and repeated sweeps left/right across a central strip of the screen, matching the scanning of web content seen in the BROWSE example rather than the more structured line-by-line patterns of READ or the more static/code-centered patterns of programming tasks.",
+  "correct": true
+}

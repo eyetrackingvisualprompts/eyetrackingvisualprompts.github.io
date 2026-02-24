@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The X position shows repeated left-to-right saccadic sweeps with returns toward the left, while Y position drifts slowly downward then jumps upward once, matching line-by-line reading rather than strictly horizontal or random saccades or game/video patterns.",
+  "correct": true
+}

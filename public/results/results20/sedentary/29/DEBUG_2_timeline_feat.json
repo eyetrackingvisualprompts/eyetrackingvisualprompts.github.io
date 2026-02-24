@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium horizontal movement with varied, non-linear scan paths and fluctuating vertical positions, resembling mixed reading and exploratory viewing seen in the BROWSE example rather than the more linear patterns of READ/WRITE or the more stable WATCH pattern.",
+  "correct": false
+}

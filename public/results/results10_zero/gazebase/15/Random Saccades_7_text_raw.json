@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show many large-amplitude multi-directional jumps (often near the \u00b115\u00b0 horizontal limits and varied vertical positions) separated by relatively stable clusters consistent with 1-second fixations. This pattern of broad, irregular 2D movements with sizable inter-fixation shifts matches the Random Saccades task rather than the predominantly 1D Horizontal Saccades, localized Fixations, or more constrained, content-driven movements in Reading, Video Viewing, or the Balura Game.",
+  "correct": true
+}

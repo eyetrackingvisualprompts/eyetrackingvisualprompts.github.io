@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, horizontally elongated cluster around mid-screen with short, systematic saccades and limited vertical spread, matching the structured line-by-line scanning pattern typical of reading rather than the broader, more scattered exploration seen in search, browsing, watching, writing, or gameplay.",
+  "correct": false
+}

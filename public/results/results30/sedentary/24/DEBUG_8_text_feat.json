@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent, rapid shifts between a compact upper-left region (likely code editor) and a lower central region (likely console or auxiliary panel), including many vertical transitions and revisits, match the structured yet scattered scanpaths seen in WRITE examples more than the more line-structured patterns of READ/INTERPRET or the broader exploratory patterns of BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": false
+}

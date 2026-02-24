@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations over a relatively wide central area with frequent saccades between vertically and horizontally separated regions, consistent with exploring dynamic search result pages rather than the more linear, banded patterns of reading or the localized clusters seen in writing or browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows medium-length fixations with large, multi-directional saccades spanning substantial portions of the screen (including big vertical shifts and jumps between widely separated regions), and no stable horizontal line-by-line pattern. This broad, stimulus-driven scanning is more consistent with passively following dynamic video content than with text-focused tasks (READ/WRITE) or search/browse behaviors, and lacks the intense, clustered upper-field focus typical of PLAY examples, matching WATCH best.",
+  "correct": false
+}

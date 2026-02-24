@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated along a horizontal band in the upper-middle region with some activity near the top, resembling scanning search results and a query bar, matching the SEARCH pattern more than the other tasks.",
+  "correct": true
+}

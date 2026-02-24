@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "Saccades vary in both horizontal and vertical directions with irregular amplitudes, and fixation durations are short and variable without a clear 1-second step pattern or strictly horizontal structure, which is consistent with natural free viewing of a dynamic video rather than structured tracking, reading, or a game with discrete targets.",
+  "correct": false
+}

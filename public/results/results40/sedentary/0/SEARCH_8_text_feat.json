@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, horizontally aligned fixations with short saccades along one or two text lines, plus periodic large vertical shifts consistent with moving between lines or sections, matching sustained text reading behavior rather than code, search results, or dynamic stimuli.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen in both horizontal and vertical directions without forming horizontal text-like lines or concentrated central clusters, matching the random, widely distributed target positions of the Random Saccades task rather than the more structured patterns of reading, video viewing, gaming, horizontal-only saccades, or central fixations.",
+  "correct": true
+}

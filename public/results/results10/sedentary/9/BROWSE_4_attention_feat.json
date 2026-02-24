@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations form a horizontal band across the middle of the screen with additional clusters lower down, suggesting attention split between reading existing code and looking at an editor/console area, which matches the WRITE task pattern more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows multiple spatially separated clusters and long saccades between them, with gaze covering a wide vertical and horizontal range, resembling the dispersed, multi-region viewing pattern seen in the PLAY example rather than the more localized or banded patterns of reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

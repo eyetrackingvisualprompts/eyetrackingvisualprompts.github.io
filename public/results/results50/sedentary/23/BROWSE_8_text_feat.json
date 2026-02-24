@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated near the very top of the screen, with long horizontal saccades across a narrow vertical band, frequent jumps between far left and far right, and revisits\u2014matching scanning of a search results page or query area rather than reading continuous text or code, and unlike the more central, object-following or scene-focused patterns seen in WATCH or PLAY.",
+  "correct": false
+}

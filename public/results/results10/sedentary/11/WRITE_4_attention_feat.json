@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered around two vertically distributed code regions on the left and right, with repeated attention to a central block\u2014matching the multi-region, back-and-forth inspection typical of debugging rather than the more localized focus of interpreting or writing code.",
+  "correct": false
+}

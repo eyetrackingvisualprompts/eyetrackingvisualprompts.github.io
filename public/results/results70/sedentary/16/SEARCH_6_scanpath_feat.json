@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on a narrow vertical band on the left where code would be, with some horizontal sweeps along a single text line and occasional shifts to the right\u2014matching focused code inspection typical of interpreting code rather than the denser, more dispersed patterns of debugging or browsing.",
+  "correct": false
+}

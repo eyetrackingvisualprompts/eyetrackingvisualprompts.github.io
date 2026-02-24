@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between widely separated vertical regions (top bar, mid-page content, lower sections) and across horizontal extents, with relatively short, scanning fixations resemble the exploratory, page-level navigation and SERP/content switching characteristic of search behavior rather than the more line-structured reading or focused code-oriented tasks.",
+  "correct": false
+}

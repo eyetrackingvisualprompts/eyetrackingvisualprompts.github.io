@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a relatively small left-central area with dense fixations and short saccades, plus occasional longer shifts, closely matching the INTERPRET example pattern of focused code inspection rather than broader exploration (SEARCH/BROWSE) or widespread dynamic viewing (WATCH/PLAY).",
+  "correct": false
+}

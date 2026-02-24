@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are widely distributed across the screen with many rapid, long saccades and fewer localized clusters, matching the dynamic, screen-spanning tracking seen in the PLAY example and unlike the more localized or structured patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

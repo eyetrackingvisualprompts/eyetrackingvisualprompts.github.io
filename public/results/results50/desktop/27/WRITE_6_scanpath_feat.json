@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are densely clustered in a narrow horizontal band with small vertical spread and sequential left\u2011to\u2011right movements, matching typical line-by-line reading behavior and closely resembling the READ example pattern compared to other activities.",
+  "correct": false
+}

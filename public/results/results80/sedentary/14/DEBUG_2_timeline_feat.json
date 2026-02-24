@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent shifts between two main vertical regions with irregular saccades and revisits, matching the pattern of alternating attention between code and output/other panels typical of debugging, and it most closely resembles the DEBUG example plot compared to other tasks.",
+  "correct": true
+}

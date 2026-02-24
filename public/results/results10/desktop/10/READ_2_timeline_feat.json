@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, gradual horizontal progression with relatively stable vertical position and occasional small regressions, closely matching the structured line-by-line scanning pattern typical of reading compared to the more erratic or exploratory movements in browse/search/play tasks.",
+  "correct": true
+}

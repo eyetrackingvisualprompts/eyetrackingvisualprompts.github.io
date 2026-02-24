@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points form a compact cluster around the screen center with moderate dispersion and no strong horizontal reading lines or large dynamic shifts; this pattern best matches the example BROWSE scanpath over similar central regions, unlike the broader vertical spread of SEARCH or the strip-like pattern of READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively long, stable fixations (often >0.7s) with short, mostly small-amplitude saccades and limited spatial range, consistent with reading text lines or paragraphs rather than the broader, more exploratory patterns of browsing/searching or the rapid, larger, multidirectional shifts typical in games or video watching. Writing would also involve more shifts toward UI elements and gaze to keyboard, which are not evident here.",
+  "correct": false
+}

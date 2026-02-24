@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Long fixations with frequent regressions around clustered code-like regions, combined with repeated vertical shifts between related areas and occasional large relocations, closely resemble the DEBUG exemplars\u2019 pattern of inspecting, re-checking, and revisiting multiple error-prone code sections rather than the more linear scans of READ/WRITE or the more exploratory jumps of SEARCH/BROWSE/PLAY/WATCH/INTERPRET.",
+  "correct": false
+}

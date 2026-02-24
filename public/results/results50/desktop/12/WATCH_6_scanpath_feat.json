@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Two main fixation clusters separated vertically with frequent transitions between them suggest alternating attention between search results and another area (e.g., query box or result details), matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively small code-like region with many short back-and-forth saccades and medium-to-long fixations, including repeated revisits to nearly the same y-coordinates (around 440\u2013480) suggestive of line-by-line re-checking. There are frequent vertical shifts between code and a lower region consistent with console/output or error locations, matching the DEBUG pattern more than the more linear INTERPRET or the broader, more dispersed SEARCH/BROWSE behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is distributed across multiple vertical regions\u2014top, middle, and bottom of the screen\u2014with several distinct clusters rather than a single horizontal band or a focused code/text block. This scattered, multi-area inspection best matches the behavior when scanning search results and related page elements in the SEARCH task.",
+  "correct": false
+}

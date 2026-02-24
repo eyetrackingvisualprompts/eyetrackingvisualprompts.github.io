@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact vertical region with repeated fixations and short saccades, typical of examining a small code snippet in an IDE rather than scanning across wider text (READ/SEARCH/BROWSE) or tracking large screen areas (PLAY/WATCH). This focused, revisiting pattern matches code interpretation behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around the screen center with medium-length fixations and frequent vertical shifts between mid and upper/lower regions, including occasional larger jumps resembling movement between content sections and interface elements. This spatiotemporal pattern aligns more with web browsing than with the more line-structured horizontal scans in READ or the highly central, stable fixations seen in SEARCH.",
+  "correct": false
+}

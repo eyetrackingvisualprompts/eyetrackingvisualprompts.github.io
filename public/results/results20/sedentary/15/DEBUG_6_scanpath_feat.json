@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a mostly vertical region on the left (reading results list) with some horizontal line-like fixations and a few long saccades toward the top center/right (to the search bar or new results), closely matching the SEARCH example pattern.",
+  "correct": false
+}

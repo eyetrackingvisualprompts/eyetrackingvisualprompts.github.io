@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The data show smooth, continuous drifts with occasional moderate shifts in both horizontal and vertical coordinates, lacking the large, regular horizontal jumps of Horizontal Saccades, the near-static behavior of Fixations, the strong 2D jumps of Random Saccades, or the line-structured, mostly horizontal pattern of Reading. The pattern best matches naturalistic, irregular gaze shifts and drifts seen in Video Viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations cluster at multiple discrete positions scattered across both horizontal and vertical axes, with no linear reading pattern and no tight central cluster, matching a target that jumps to random screen locations and is fixated at each position.",
+  "correct": true
+}

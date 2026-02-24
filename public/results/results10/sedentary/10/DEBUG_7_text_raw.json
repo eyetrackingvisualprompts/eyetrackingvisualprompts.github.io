@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent gaze shifts between upper screen regions (likely code editor area) and mid-lower regions, with many clustered fixations around small coordinate neighborhoods and occasional off-screen/edge points, closely resemble the WRITE example\u2019s coding/editor navigation pattern more than the more line-structured READ/SEARCH or continuous WATCH/PLAY patterns.",
+  "correct": false
+}

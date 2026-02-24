@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed over multiple vertical regions with frequent horizontal sweeps and larger excursions to the right side, resembling scanning of search results and occasional navigation rather than the more confined, block-like reading or code-focused patterns of READ/WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

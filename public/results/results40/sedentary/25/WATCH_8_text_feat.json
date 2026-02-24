@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide spatial coverage with many long saccades across screen regions (including to extreme sides and varying vertical positions), intermittent medium-to-long fixations on scattered locations, and repeated returns to mid-page areas resemble exploratory web navigation rather than line-by-line reading, continuous video following, or focused code editing/debugging. The pattern closely matches the heterogeneous, jumpy gaze behavior shown in the BROWSE examples.",
+  "correct": false
+}

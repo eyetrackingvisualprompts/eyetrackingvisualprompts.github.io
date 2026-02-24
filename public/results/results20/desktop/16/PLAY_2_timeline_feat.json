@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "X fixation stays in lower half and drifts slowly rightward with occasional small regressions, while Y fixation remains low and relatively stable with minor upward trend\u2014matching the monotonically low horizontal-line scanning seen when typing in a text editor, similar to the WRITE example and distinct from the more vertical or widespread movements in browsing, reading, searching, watching, or playing.",
+  "correct": false
+}

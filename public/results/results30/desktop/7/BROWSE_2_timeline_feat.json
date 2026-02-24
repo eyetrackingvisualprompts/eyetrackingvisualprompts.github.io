@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal and vertical exploration with intermittent larger saccades and variable fixation positions, indicating scanning different regions of a page (results, snippets, new pages) rather than the more systematic lines of reading or the dense, localized movements in writing/browsing; this pattern best matches the SEARCH example.",
+  "correct": false
+}

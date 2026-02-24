@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in the upper-left area where a code editor would be, resembling the WRITE example\u2019s localized focus and lacking the scattered secondary regions seen in INTERPRET or DEBUG.",
+  "correct": false
+}

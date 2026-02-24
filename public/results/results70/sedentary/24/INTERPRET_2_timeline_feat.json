@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal exploration with noticeable vertical shifts between bands, resembling scanning result lists and occasional page visits. The pattern and variability most closely match the SEARCH example rather than the more structured READ/BROWSE or more localized code/IDE tasks.",
+  "correct": false
+}

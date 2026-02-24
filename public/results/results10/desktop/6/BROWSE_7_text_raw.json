@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is mostly centered with modest vertical shifts and medium-length fixations, punctuated by occasional upward jumps\u2014matching the pattern of scanning SERPs and result pages. It is more exploratory and less strictly horizontal/line-based than READ, and lacks the large, frequent directional changes seen in PLAY or WATCH; it also differs from the more stable, narrow-band WRITE data and the somewhat more scattered BROWSE patterns.",
+  "correct": false
+}

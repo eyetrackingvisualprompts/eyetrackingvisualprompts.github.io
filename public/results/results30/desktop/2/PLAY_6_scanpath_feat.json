@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows a relatively centralized but dispersed cluster with frequent multidirectional saccades and revisits within a mid-screen region, matching the exploratory, comparison-heavy gaze behavior typical of web searching rather than the more linear patterns of reading/writing or the peripheral movements in watching/playing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in a narrow vertical strip on the left side, with small horizontal movements and repeated revisits, consistent with focused interaction with a code editor while implementing code rather than broad reading/browsing or dynamic object following.",
+  "correct": false
+}

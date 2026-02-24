@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, rapid jumps across widely separated screen regions with several extended fixations on compact areas, and no clear left-to-right line-by-line horizontal scanning typical of reading or writing. The pattern reflects following dynamic visual content and shifting attention between different on-screen areas, which is most consistent with watching video rather than static text browsing/searching or game-like continuous tracking.",
+  "correct": false
+}

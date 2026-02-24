@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows many large, rapid saccades across distant screen regions (center to far right, then to corners and extremes, including off-center top/bottom), with relatively short fixations and revisits\u2014matching the dynamic, target-following patterns during game play rather than the more localized, line- or block-based scanning typical of reading, coding, or browsing tasks.",
+  "correct": false
+}

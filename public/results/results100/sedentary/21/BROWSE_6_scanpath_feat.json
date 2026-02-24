@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are widely distributed across the full screen with frequent, rapid saccades and large central clusters, resembling the dispersed, continuous viewing pattern of watching full-screen video, and differing from the more structured horizontal lines of reading/browsing or the localized code/IDE patterns of programming tasks.",
+  "correct": false
+}

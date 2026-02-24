@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Long, sustained fixations and dense re-reading over a compact upper-left code region interleaved with frequent shifts to mid/lower areas (likely console or editor bottom) and occasional large jumps, closely matching the WRITE examples\u2019 pattern of alternating between typing location and reference code, rather than the broader vertical scanning of SEARCH/BROWSE or the more uniform horizontal sweeps of READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with frequent multidirectional saccades over a moderately sized central-upper region, including several vertical and diagonal shifts without a clear linear (reading) pattern or prolonged static focus (watching/writing). This dispersed yet content-focused exploration best matches the browsing pattern in the examples rather than the more horizontal, structured movements of READ or the very stable focus of WATCH/WRITE.",
+  "correct": true
+}

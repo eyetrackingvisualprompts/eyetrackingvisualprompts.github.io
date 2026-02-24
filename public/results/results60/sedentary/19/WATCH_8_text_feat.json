@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts across wide screen areas (including extremes and even off-center regions), many long fixations, and no systematic line-by-line or code-structured scanning. This pattern aligns with passive viewing of dynamic visual content rather than reading, coding, debugging, or focused web search/browsing, matching the WATCH examples where attention follows changing scenes and characters across the screen.",
+  "correct": true
+}

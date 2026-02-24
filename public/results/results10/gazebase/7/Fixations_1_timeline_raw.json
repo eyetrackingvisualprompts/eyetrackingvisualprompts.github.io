@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both x and y gaze positions remain near the center with minimal horizontal movement, showing only brief vertical blinks/artifacts, matching the stable central fixation pattern in the Fixations example rather than the larger shifts seen in other tasks.",
+  "correct": true
+}

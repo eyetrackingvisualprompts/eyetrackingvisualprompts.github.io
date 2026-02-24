@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows widespread horizontal movements across the top of the screen, combined with clustered fixations in the central area and occasional long saccades downward\u2014consistent with reading search results and then jumping to lower content, matching the SEARCH example pattern more than the others.",
+  "correct": false
+}

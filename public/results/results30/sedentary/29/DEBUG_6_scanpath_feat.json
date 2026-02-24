@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense clustered fixations over the code area on the left with repeated returns there, interspersed with long saccades to the right side of the screen (likely IDE output/console or other tools), matches the pattern of actively editing and running code seen in WRITE rather than the more localized gaze of INTERPRET/DEBUG or the smoother patterns of reading/browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a narrow lower-left region with slow, monotonic drifts and very few fixations/saccades, closely resembling the PLAY example where attention is focused on a game\u2019s central area rather than scanning text or webpages.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows many short fixations and saccades clustered around the upper and mid screen (near typical search bar and results locations), with occasional excursions to far corners and off-center regions, closely matching the heterogeneous, scanning pattern seen in the SEARCH example rather than the more linear (READ), continuous scene-following (WATCH/PLAY), or IDE-focused code regions (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

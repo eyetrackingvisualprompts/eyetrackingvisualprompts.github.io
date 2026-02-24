@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay near screen center with small, smooth fluctuations and no clear horizontal or vertical scanning patterns typical of reading, coding, or web pages, which is consistent with passively following central content in a video.",
+  "correct": false
+}

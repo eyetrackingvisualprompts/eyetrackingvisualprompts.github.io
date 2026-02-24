@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small central region with minimal horizontal or vertical scanning, indicating sustained attention to a single area (e.g., video focal region) rather than line-by-line text reading, searching, or game-related wide movements; this pattern best matches WATCH.",
+  "correct": false
+}

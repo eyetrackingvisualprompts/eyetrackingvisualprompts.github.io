@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large vertical and diagonal saccades between lower/central and top edge regions (e.g., jumps to y\u22480.03\u20130.05), with shorter fixations and wide spatial coverage, matching the dynamic, multi-directional scanning seen in the PLAY examples rather than the more line-structured, horizontally banded patterns of READ/WRITE or the moderate, mid-screen focus of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

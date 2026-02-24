@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Early part shows medium-amplitude exploring within upper-central region (likely scanning results), followed by long, stable fixations with small local saccades around a nearly constant vertical band (~y=0.52\u20130.60), matching the pattern of reading a specific snippet or page after searching rather than the highly structured horizontal sweeps of READ or the peripheral/vertical bias of WRITE; it also lacks the very long static fixations seen in WATCH and the larger dispersed movements of PLAY/BROWSE, making SEARCH the best fit.",
+  "correct": false
+}

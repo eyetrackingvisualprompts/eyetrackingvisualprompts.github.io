@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze shows moderate, irregular horizontal movement with substantial vertical shifts between code and other interface elements, resembling the WRITE example more than the steadier patterns for READ/INTERPRET or the broader scanning in SEARCH/BROWSE/WATCH/PLAY.",
+  "correct": false
+}

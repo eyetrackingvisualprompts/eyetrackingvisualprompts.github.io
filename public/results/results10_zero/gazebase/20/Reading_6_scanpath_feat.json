@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows gaze confined to a narrow vertical band with repeated left\u2013right movements across a wide horizontal range, consistent with tracking a target that moves only horizontally while staying at roughly the same vertical position.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact region with frequent short saccades between a few nearby coordinates, including back-and-forth revisits and moderate dwell times, matching the focused, code-line-level inspection typical of INTERPRET rather than the more line-structured READ or more dispersed SEARCH/BROWSE patterns.",
+  "correct": true
+}

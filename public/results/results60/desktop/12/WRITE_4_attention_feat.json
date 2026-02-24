@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a horizontally elongated band at a relatively constant vertical position, indicating systematic left-to-right scanning typical of reading text, closely matching the READ example heatmap.",
+  "correct": false
+}

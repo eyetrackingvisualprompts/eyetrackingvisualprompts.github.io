@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern is dominated by a horizontal band of fixations around the screen center, similar to reading lines of variable-width content with occasional side fixations, matching the example BROWSE heatmap more closely than the more localized patterns of coding or debugging tasks.",
+  "correct": false
+}

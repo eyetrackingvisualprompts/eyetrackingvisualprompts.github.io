@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows extensive exploration across the entire screen with many scattered fixations and long cross-page saccades, resembling free-form navigation rather than the more localized, structured patterns of code-related tasks or the more central, continuous focus of watching video or reading text. This best matches the BROWSE example.",
+  "correct": false
+}

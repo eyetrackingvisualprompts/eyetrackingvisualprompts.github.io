@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is highly focused around a narrow central area with small, steady fixations and few large saccades, matching the concentrated code-inspection pattern seen in the INTERPRET example more than the more dynamic SEARCH/BROWSE or the more linear READ/WRITE patterns.",
+  "correct": true
+}

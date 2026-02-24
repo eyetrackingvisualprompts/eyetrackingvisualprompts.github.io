@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates predominantly along the horizontal axis between left (around -4 to -7 deg) and right (around +5 to +8 deg) positions with relatively stable vertical values within local segments, and each position is held for ~200\u2013280 ms between large horizontal saccades spanning roughly 10\u201315 degrees or more. This pattern of repeated, large, mostly horizontal back-and-forth saccades with brief fixations is most consistent with the structured Horizontal Saccades task rather than the more irregular, multi-directional patterns expected in Random Saccades, Reading, Video Viewing, or the Balura Game, and it clearly is not a central Fixation task.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a narrow left-side code region with strong vertical concentration and minimal spread to the right, matching the focused code-panel viewing seen in INTERPRET rather than the broader scanning of SEARCH/BROWSE or distributed attention of WATCH/PLAY.",
+  "correct": false
+}

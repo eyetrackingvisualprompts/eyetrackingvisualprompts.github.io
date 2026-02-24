@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations progress smoothly from left to right with small vertical shifts, forming a banded, line-by-line pattern similar to the provided READ example and distinct from the larger jumps or variability seen in browse, search, play, or watch activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixation traces stay in relatively narrow horizontal bands with small, steady drifts and limited vertical range, matching the stable, localized gaze near the center-bottom of the screen typical for typing in a word processor rather than the larger shifts seen in reading, browsing, or searching pages.",
+  "correct": false
+}

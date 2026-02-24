@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, localized fixations with small horizontal saccades and limited vertical range, resembling line-by-line inspection of a static text region, which matches the reading pattern more than the broader, more exploratory movements seen in search, browse, watch, write, or play tasks.",
+  "correct": true
+}

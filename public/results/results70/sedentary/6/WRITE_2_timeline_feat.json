@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-range horizontal movements with revisits to similar regions and moderate saccade activity, resembling the example DEBUG pattern where the user scans and re-scans code lines and related interface elements rather than performing systematic line-by-line reading or broad web navigation.",
+  "correct": false
+}

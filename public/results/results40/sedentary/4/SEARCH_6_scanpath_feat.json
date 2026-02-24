@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows multiple reading-like horizontal sweeps across a mid-screen band combined with several long saccades to a distinct upper cluster and a right-side region, indicating shifting between search box, results list, and different result areas typical of web search behavior rather than focused reading or coding.",
+  "correct": true
+}

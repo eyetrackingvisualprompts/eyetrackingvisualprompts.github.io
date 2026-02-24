@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in a few compact regions slightly left of screen center with repeated looks to the same spots, consistent with scrutinizing specific code lines and references when debugging, rather than the broader horizontal sweeps of reading/browsing or the wide dynamic spread typical in games or video watching.",
+  "correct": false
+}

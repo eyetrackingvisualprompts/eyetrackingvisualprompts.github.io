@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is confined to a mid-screen region with smooth, continuous movements and few large jumps, resembling following dynamic visual content rather than scanning text or code; this pattern best matches the WATCH examples.",
+  "correct": false
+}

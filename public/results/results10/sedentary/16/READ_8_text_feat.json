@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Long vertical saccades between mid-screen and near-bottom regions with moderate fixations resemble scrolling and inspecting search results, matching the SEARCH pattern more than the more line-structured READ or the highly dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

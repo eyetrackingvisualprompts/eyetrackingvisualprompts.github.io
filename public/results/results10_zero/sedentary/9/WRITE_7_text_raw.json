@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered in horizontally elongated bands with small, progressive shifts and occasional regressions, consistent with line-by-line text reading rather than the larger, more scattered or object-following movements typical of PLAY, WATCH, SEARCH, or BROWSE. The stable, systematic scan pattern also aligns better with READ than with code-centric tasks like WRITE, DEBUG, or INTERPRET, which usually show more vertical navigation and sporadic jumps between code regions.",
+  "correct": false
+}

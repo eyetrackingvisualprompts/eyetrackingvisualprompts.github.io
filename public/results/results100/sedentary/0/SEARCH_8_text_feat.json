@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long horizontal scanpaths with many revisits at a few specific y-levels, alternating between top-of-page navigation/text and mid-page result snippets, plus frequent large jumps to screen edges and off-screen coordinates, closely match the web-search result page behavior seen in the SEARCH examples rather than the more line-regular READ pattern or the code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

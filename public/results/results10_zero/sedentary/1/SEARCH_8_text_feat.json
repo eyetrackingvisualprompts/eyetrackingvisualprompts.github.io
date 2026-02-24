@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze behavior shows predominantly horizontal saccades along a narrow vertical band (y\u2248250\u2013280) with medium-length fixations (200\u20131200 ms), consistent with line-by-line reading on a single text block rather than wide exploratory movements (SEARCH/BROWSE), dynamic object following (PLAY/WATCH), or code-editing patterns (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

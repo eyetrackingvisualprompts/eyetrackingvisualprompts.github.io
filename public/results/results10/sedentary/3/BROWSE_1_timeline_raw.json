@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Extended early period with very high, stable X (top of screen) suggesting focus on code editor header or typing area, followed by moderate horizontal movements with relatively stable Y and some brief vertical shifts, closely matching the WRITE example\u2019s pattern of sustained coding with occasional line transitions rather than the more exploratory or scanning patterns of other tasks.",
+  "correct": false
+}

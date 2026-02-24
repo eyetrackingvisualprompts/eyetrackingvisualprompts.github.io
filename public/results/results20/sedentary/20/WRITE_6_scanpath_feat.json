@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is confined to a compact code-like region with dense, repeated fixations and minimal long-range saccades, closely matching the INTERPRET example where participants focus on a single code snippet rather than scanning widely (as in SEARCH/DEBUG) or following lines of prose (as in READ).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze distribution is moderately spread across the central area with multiple scattered fixation clusters rather than a single horizontal band (READ/WRITE) or very wide/full-screen coverage (PLAY/WATCH). This pattern best matches the SEARCH example, where users inspect various elements of a search results page in the central region.",
+  "correct": false
+}

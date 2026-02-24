@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain clustered in a small central area with minimal horizontal or vertical progression, indicating sustained attention to a single region (e.g., video center) rather than systematic line-by-line movement (READ/WRITE) or broader exploratory scanning (SEARCH/BROWSE/PLAY).",
+  "correct": false
+}

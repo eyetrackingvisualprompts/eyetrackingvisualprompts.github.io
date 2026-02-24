@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with small, systematic horizontal shifts and medium-length fixations, resembling line-based text scanning, unlike the larger vertical excursions and more scattered patterns seen in SEARCH, BROWSE, or PLAY, and unlike the upper-screen focus of WATCH or the margin-heavy, near-static pattern of WRITE.",
+  "correct": true
+}

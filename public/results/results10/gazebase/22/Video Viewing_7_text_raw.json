@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The target data shows large, irregular multi-directional saccades across wide horizontal and vertical extents with interspersed short local fixations, closely matching the heterogeneous, roaming pattern seen in the Random Saccades example rather than the more constrained or structured patterns of the other tasks.",
+  "correct": false
+}

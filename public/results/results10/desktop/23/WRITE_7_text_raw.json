@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points stay around mid-screen with small, frequent vertical shifts and intermittent larger jumps, matching the mixed fixate-scroll-click pattern seen in the BROWSE example rather than the more line-structured READ, highly dynamic PLAY/WATCH, or top/bottom-focused SEARCH/WRITE patterns.",
+  "correct": false
+}

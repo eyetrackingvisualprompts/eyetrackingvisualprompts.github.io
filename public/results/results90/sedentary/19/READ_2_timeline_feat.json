@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The X fixations show repeated left-to-right sweeps with returns, while Y fixations gradually increase across time and exhibit small vertical shifts, indicating scrolling through vertically arranged content with reading-like horizontal scans\u2014this pattern best matches free web browsing behavior rather than more structured, uniform reading or code-related tasks.",
+  "correct": false
+}

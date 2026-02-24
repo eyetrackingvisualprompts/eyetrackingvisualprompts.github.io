@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze remains confined to a small central region with short, repetitive horizontal movements and minimal vertical span, indicating focused attention on a local area (e.g., current text line and nearby UI) rather than full-page reading or broad exploratory scanning typical of search, browse, watch, or play tasks; this localized, stable pattern is most consistent with typing/editing while writing in a word processor.",
+  "correct": false
+}

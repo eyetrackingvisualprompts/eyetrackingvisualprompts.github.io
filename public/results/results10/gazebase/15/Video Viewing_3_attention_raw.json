@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "Fixations are scattered across the screen with no clear horizontal line (reading) or symmetric target pattern (saccades). They cover a wide spatial range similar to the Balura Game example, indicating gaze shifts to multiple moving objects rather than a static or centrally constrained task.",
+  "correct": false
+}

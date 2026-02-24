@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered in a narrow horizontal band with small regressions and vertical shifts, consistent with line-by-line reading of text, and closely resemble the spatial distribution and movement patterns in the READ example data rather than the more scattered or dynamic patterns of coding, games, video, or web search/browsing.",
+  "correct": false
+}

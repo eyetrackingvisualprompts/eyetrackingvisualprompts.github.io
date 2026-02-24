@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in orderly horizontal sweeps at several closely stacked vertical bands (y\u2248150, 200, 230, 260, 280, 340, 360, 380, 400, 430, 460, 490, 520, 540, 560), with long fixations and small regressions along each line\u2014characteristic of line-by-line text reading rather than code (which would show more vertical jumps) or dynamic/irregular viewing as in browsing, search, or video watching.",
+  "correct": true
+}

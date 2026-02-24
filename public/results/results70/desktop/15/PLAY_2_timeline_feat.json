@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent, irregular shifts in both X and Y with many medium-sized saccades and varied fixation locations across the screen, resembling the heterogeneous scanning pattern seen in the BROWSE example rather than the more structured horizontal (READ/WRITE) or game-like (PLAY) trajectories.",
+  "correct": false
+}

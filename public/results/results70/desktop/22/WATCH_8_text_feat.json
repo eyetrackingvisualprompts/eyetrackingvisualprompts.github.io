@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The target segment shows long, stable fixations (often >1s) with small, systematic horizontal shifts in the central horizontal band of the screen, closely matching the sustained line-by-line scanning pattern seen in the READ examples and differing from the more scattered, multi-region exploration of BROWSE/SEARCH or dynamic multi-directional movements in PLAY/WATCH.",
+  "correct": false
+}

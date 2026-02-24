@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around the central area with moderate vertical span and irregular movements, resembling the mixed fixation\u2013saccade pattern of scanning search results, which is more dispersed and less line-structured than reading and more localized than browsing or playing.",
+  "correct": false
+}

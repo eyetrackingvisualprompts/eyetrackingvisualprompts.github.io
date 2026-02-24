@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are strongly concentrated around the central area with some spread in all directions, matching the dynamic central-focus pattern of the PLAY example heatmap more than the other task types, which show more static or text-structured scanpaths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple spatially separated clusters with long saccades between them, indicating shifting attention across different screen regions such as search results, query box, and possibly opened pages\u2014characteristic of web searching rather than the more localized patterns of reading, writing, watching, playing, or general browsing.",
+  "correct": true
+}

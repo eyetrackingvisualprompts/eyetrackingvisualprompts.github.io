@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a mostly horizontal band near the top with progressive left-to-right movements and limited vertical spread, matching the reading-like pattern in the READ example heatmap rather than the more scattered or centrally focused patterns of other tasks.",
+  "correct": false
+}

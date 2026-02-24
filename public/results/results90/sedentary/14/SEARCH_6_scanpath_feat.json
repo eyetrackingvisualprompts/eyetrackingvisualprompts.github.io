@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shifts between upper and lower regions and across screen horizontally, with multiple dispersed clusters and long saccades resembling movement between results list, search box, and opened pages, matching the SEARCH pattern more than the more localized code, reading, or game layouts.",
+  "correct": true
+}

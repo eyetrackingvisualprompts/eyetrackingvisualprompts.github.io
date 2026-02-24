@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are sparse and scattered across mid-screen areas without dense horizontal lines (reading/writing) or tight clusters (search/play). The distribution resembles watching dynamic content where gaze shifts between a few salient regions, matching the WATCH pattern best.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows long horizontal scanpaths around mid-screen and lower regions with many revisits, interspersed with large jumps to different areas and even off-screen coordinates, suggesting scrolling through varied web content rather than structured code (WRITE/DEBUG/INTERPRET) or orderly line-by-line text (READ). The heterogeneous navigation and dispersed fixations best match free-form web browsing behavior.",
+  "correct": true
+}

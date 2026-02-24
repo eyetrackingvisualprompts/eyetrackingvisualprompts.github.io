@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are spread across a wide horizontal and vertical area with multiple distinct clusters and no narrow text-like band or single central focus, matching the dispersed, exploratory pattern typical of web browsing rather than the more localized patterns of reading, coding, or watching video.",
+  "correct": false
+}

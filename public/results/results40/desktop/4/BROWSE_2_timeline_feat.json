@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay near the screen center with small, frequent saccades in both X and Y, lacking the strong horizontal sweeps of reading/typing and the larger directional shifts of playing or watching dynamic scenes\u2014this pattern best matches the browsing example.",
+  "correct": true
+}

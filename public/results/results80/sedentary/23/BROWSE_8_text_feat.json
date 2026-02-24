@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays within a few horizontal bands (around y\u2248450\u2013600) with long, smooth left\u2011to\u2011right sweeps and small regressions, characteristic of reading/browsing lines of web content. There are many fixations of 0.2\u20130.6s and repeated passes across similar x\u2011ranges (600\u20131000), closely resembling the BROWSE example patterns and differing from more vertical, code\u2011block\u2013centric movements (WRITE/DEBUG/INTERPRET) or large-screen, sparse-movement behavior (WATCH/PLAY).",
+  "correct": true
+}

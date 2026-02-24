@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Scanpath shows dense activity in the left-upper code area with occasional long vertical excursions toward lower parts of the screen, similar to the WRITE example where participants alternate between typing and referencing code, rather than the tighter, more localized patterns of DEBUG or INTERPRET.",
+  "correct": false
+}

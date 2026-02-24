@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze centers around mid-screen with frequent medium-amplitude vertical and small horizontal shifts, including several excursions to different vertical regions and returns to a central band, matching the scattered but column-oriented scanpaths typical of web/news browsing more than the more linear patterns of reading or the more dispersed motion of play/watch/search.",
+  "correct": false
+}

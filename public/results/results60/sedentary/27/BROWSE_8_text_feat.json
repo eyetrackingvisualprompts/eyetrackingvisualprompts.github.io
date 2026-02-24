@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Long dwell times and repeated fixations around central code-like regions, with frequent returns to similar coordinates and vertical shifts suggest iterative inspection and modification patterns characteristic of debugging rather than linear reading, browsing, or passive watching.",
+  "correct": false
+}

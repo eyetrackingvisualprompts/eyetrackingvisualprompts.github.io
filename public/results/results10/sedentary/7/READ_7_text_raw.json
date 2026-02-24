@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are clustered around a mid-screen band with many short, rapid shifts in both horizontal and vertical directions, including frequent revisits to nearby positions\u2014indicative of tracking moving objects and responsive motor behavior in a game, and dissimilar to the more line-structured patterns of READ/INTERPRET/WRITE or the broader exploratory jumps of BROWSE/SEARCH.",
+  "correct": false
+}

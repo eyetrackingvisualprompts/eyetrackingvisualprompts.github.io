@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts across wide screen regions (including extreme vertical and horizontal movements) with many short and medium fixations distributed broadly rather than following horizontal lines or confined reading/writing zones. This spatially expansive, dynamic scanpath with repeated returns to central and upper areas best matches interactive game play rather than the more structured, line-based patterns of READ/WRITE or the more band-limited patterns of SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

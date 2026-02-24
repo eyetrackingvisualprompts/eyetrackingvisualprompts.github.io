@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper portion of the screen, especially around likely search bar and top results, with additional but lighter attention lower on the page, matching the scanning of search results rather than focused code (WRITE/DEBUG/INTERPRET) or continuous reading/playing/watching patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact code/text area with many short, local saccades and medium/long fixations, oscillating between slightly different vertical positions\u2014matching focused editing/typing behavior rather than broad navigation (SEARCH/BROWSE), scanning (READ), or large scene shifts (WATCH/PLAY).",
+  "correct": false
+}

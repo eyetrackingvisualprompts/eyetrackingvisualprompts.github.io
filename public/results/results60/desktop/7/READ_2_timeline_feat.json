@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows a strong upward bias in Y fixation with gradual, step-like increases in X fixation and frequent resets toward lower X, consistent with looking at upper text lines then repeatedly returning to the left while typing\u2014matching the WRITE pattern more than the other activities.",
+  "correct": false
+}

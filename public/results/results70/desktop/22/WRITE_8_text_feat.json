@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered mid-screen with moderate horizontal movements and frequent medium-length fixations, occasionally jumping to distant vertical locations (e.g., near top/bottom) and back\u2014matching web-page navigation and scanning patterns seen in the BROWSE examples rather than the more linear horizontal sweeps of READ or the highly dispersed motions of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

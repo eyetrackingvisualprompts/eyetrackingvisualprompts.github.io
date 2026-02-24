@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to the lower half of the screen with relatively small, steady horizontal movements and limited vertical excursions, matching the pattern of focusing on a single text line and nearby UI elements typical in the WRITE example, rather than the broader vertical ranges seen in READ or SEARCH.",
+  "correct": false
+}

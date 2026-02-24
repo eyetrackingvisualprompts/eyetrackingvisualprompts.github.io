@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Two strong fixation clusters on the left and right at similar vertical position with a horizontal band between them indicate repeated large horizontal saccades between two static targets, matching the Horizontal Saccades pattern.",
+  "correct": true
+}

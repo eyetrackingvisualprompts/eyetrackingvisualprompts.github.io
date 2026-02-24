@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Frequent large vertical gaze shifts between lower and upper screen regions, long fixations around high y-values (>0.9\u20131.1), and broad spatial coverage resemble following dynamic scenes and subtitles in videos more than the more line-structured horizontal patterns of READ/WRITE or the center-focused, control-oriented patterns of PLAY/SEARCH/BROWSE.",
+  "correct": true
+}

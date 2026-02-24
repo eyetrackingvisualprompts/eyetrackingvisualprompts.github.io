@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a narrow horizontal band near the top, with occasional long saccades to lower regions and back, resembling scanning a search-results list and briefly inspecting lower content before returning\u2014matching the SEARCH pattern more than the others.",
+  "correct": false
+}

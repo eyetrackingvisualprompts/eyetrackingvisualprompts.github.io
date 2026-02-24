@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze coordinates show mostly small, progressive horizontal shifts with limited vertical movement, consistent with line-by-line reading of text rather than the larger, multi-directional saccades typical of browsing, searching, or gameplay, and more structured than the broader, centrally focused patterns expected during video watching or writing.",
+  "correct": true
+}

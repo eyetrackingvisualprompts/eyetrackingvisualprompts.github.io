@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades across widely separated screen regions (including off-screen/negative coordinates), mixed with short localized fixations, indicate scanning results and different UI areas rather than line-by-line reading or code-focused work; this exploratory, multi-region pattern best matches the SEARCH examples.",
+  "correct": false
+}

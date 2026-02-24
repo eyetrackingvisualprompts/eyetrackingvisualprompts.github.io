@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed across multiple horizontal bands, especially near the top and mid-screen, with scattered points lower down\u2014matching the pattern of scanning a search results page rather than the focused central cluster of PLAY/WATCH or the tight left-side clusters of code tasks.",
+  "correct": false
+}

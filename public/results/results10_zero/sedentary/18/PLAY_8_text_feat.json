@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a sequence of horizontal rightward saccades with intermediate fixations, consistent with reading across a line of text, followed by several long (2\u20133 s) clustered fixations in a nearby region as if re-reading or processing a specific passage. The pattern is more structured and line-like than expected for browsing, search results scanning, or dynamic game/video viewing, and lacks the code-window zigzag and vertical navigation typical of programming-related tasks (DEBUG, WRITE, INTERPRET).",
+  "correct": false
+}

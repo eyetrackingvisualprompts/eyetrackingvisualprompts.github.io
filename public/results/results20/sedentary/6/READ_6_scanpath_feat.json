@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a single, narrow horizontal band with small vertical dispersion and no long jumps, closely matching the WRITE example where attention is focused on a single code line region while typing, unlike the wider vertical spread seen in READ or other tasks.",
+  "correct": false
+}

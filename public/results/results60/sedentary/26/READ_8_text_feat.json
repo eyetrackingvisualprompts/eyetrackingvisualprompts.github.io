@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is dominated by long horizontal scanpaths and smooth shifts along mid-to-lower screen bands with repeated passes over similar y-levels, resembling reading/scanning across web content. There is no tight central tracking of a moving object (PLAY) or structured line-by-line paragraph reading (READ); instead the pattern closely matches the BROWSE examples\u2019 horizontal sweeps and periodic jumps between content regions.",
+  "correct": false
+}

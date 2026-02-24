@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a nearly horizontal band with small vertical variance, consistent with line-by-line reading, and lack the broad dispersal or multi-region jumps seen in SEARCH, DEBUG, or PLAY; the single upward excursion appears as a brief glance away, which can occur during reading.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete steps in both horizontal and vertical positions, with the target holding for about one second at each location and moving by varying amplitudes in both axes, consistent with following a randomly positioned target rather than purely horizontal movements, sustained central fixation, structured reading patterns, movie viewing, or game-specific re-fixations.",
+  "correct": false
+}

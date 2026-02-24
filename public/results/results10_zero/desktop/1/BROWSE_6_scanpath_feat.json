@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is tightly clustered in a small central-horizontal region with frequent short saccades and repeated refixations around the same area, matching continuous central monitoring and small adjustments typical of game play rather than the longer, systematic horizontal sweeps of reading or broader exploratory movements of search/browse/watch/write.",
+  "correct": false
+}

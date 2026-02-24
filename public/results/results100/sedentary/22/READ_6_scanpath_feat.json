@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, horizontally aligned fixations in a compact vertical band, indicating line-by-line reading with occasional vertical transitions, closely matching the READ example pattern and differing from the more dispersed or code-centered layouts of other tasks.",
+  "correct": true
+}

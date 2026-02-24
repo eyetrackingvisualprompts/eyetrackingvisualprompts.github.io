@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around a central region with frequent multidirectional saccades and revisits, indicating active exploration of a results page or query reformulation area, which best matches the SEARCH pattern compared to the more linear READ pattern or dispersed PLAY/WATCH behaviors.",
+  "correct": false
+}

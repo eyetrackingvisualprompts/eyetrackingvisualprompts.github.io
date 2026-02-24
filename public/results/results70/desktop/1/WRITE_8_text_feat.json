@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts span a wide vertical range including very top and mid\u2011screen, with many medium/long saccades between dispersed regions and relatively short, local fixations. The pattern lacks the tight horizontal line structure of READ or the lower-screen focus of WRITE, and instead matches the exploratory, multi-region scanning behavior characteristic of BROWSE examples.",
+  "correct": false
+}

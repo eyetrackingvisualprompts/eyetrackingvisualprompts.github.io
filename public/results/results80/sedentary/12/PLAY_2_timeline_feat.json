@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, gradual changes in X with limited large horizontal sweeps and moderate, scattered saccades, resembling following dynamic visual content rather than structured line-by-line reading or code-related tasks. This pattern best matches the WATCH activity example.",
+  "correct": false
+}

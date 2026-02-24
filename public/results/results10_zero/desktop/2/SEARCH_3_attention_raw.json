@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a tight cluster with minimal dispersion, indicating prolonged fixation on a small, central region of the screen. This pattern is typical of watching a video where attention is focused on a central area, rather than the systematic horizontal/vertical scanning seen in reading, searching, browsing, or writing, or the wider spread typical of game play.",
+  "correct": false
+}

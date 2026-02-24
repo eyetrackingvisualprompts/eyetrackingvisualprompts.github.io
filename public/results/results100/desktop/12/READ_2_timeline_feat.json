@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze patterns show large, smooth shifts in both X and Y with wide vertical excursions and relatively fewer, longer fixations, resembling the dynamic, scene-following movements in the WATCH example more than the more constrained, text- or interface-focused patterns of READ, WRITE, BROWSE, SEARCH, or the highly erratic PLAY behavior.",
+  "correct": false
+}

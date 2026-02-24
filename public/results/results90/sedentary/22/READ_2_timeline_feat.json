@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target data shows clear, regular horizontal saccades with stepwise downward progression in Y over time, closely matching the characteristic line-by-line reading pattern seen in the READ example and differing from the more irregular or task-specific patterns of the other activities.",
+  "correct": true
+}

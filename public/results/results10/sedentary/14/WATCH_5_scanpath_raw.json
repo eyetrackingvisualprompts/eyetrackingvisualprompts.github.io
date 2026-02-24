@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple distinct regions of the screen with several long saccades between them, indicating switching between search results, input fields, and different page areas, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

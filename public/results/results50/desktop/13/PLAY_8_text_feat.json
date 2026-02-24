@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-screen with frequent medium-amplitude vertical and horizontal shifts, alternating between nearby elements without systematic left-to-right line sweeps (READ) or large top-bottom jumps (SEARCH). The pattern closely matches the example BROWSE data\u2019s mixed exploratory fixations and saccades over a central region, indicative of scanning web/news content rather than focused reading or static watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains relatively centered with small, steady horizontal movements and limited large saccades, closely matching the stable, code-focused pattern seen in the INTERPRET example rather than the broader scanning or dynamic movements in tasks like BROWSE, SEARCH, or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points progress in a generally structured, left-to-right and then downward pattern with clusters aligned in horizontal bands, consistent with line-by-line reading on a page. Movements are predominantly small-amplitude within bands (fixation and short saccades) with occasional larger downward shifts between bands, matching reading behavior more than the more scattered or target-driven patterns typical of browsing, searching, playing, or code-centric tasks.",
+  "correct": false
+}

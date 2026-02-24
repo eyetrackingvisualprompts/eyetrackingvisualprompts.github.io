@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around the central region with many short fixations and small to medium saccades, including occasional vertical shifts and returns, forming a scanning pattern similar to the BROWSE example. It lacks the highly regular horizontal line-by-line structure of READ and the more extensive vertical movement or peripheral exploration seen in PLAY and WATCH.",
+  "correct": false
+}

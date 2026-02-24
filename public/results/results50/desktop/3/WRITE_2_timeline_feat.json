@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower part of the screen for Y and gradually drift rightward in X, indicating gaze focused on a text input area with slow horizontal progression typical of writing in a word processor, matching the WRITE pattern more than the other activities.",
+  "correct": true
+}

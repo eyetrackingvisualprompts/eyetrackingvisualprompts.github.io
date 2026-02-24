@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixation X positions show a gradual, mostly monotonic rightward movement with small regressions, while Y fixation stays around a nearly constant horizontal band with slight downward drift\u2014matching line-by-line reading behavior more than the broader vertical shifts seen in browse/search or the larger, multidirectional movements in play/watch/write.",
+  "correct": true
+}

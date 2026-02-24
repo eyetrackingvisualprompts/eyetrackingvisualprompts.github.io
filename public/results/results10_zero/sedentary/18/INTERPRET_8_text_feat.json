@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length fixations clustered in a relatively small region with many short saccades back and forth between nearby coordinates suggest focused inspection of localized elements (e.g., specific lines or tokens) rather than systematic line-by-line reading or wide exploratory scanning. The pattern of repeated returns to similar positions and short corrective saccades is characteristic of code debugging, where users repeatedly check and re-check small code sections and related areas within the IDE.",
+  "correct": false
+}

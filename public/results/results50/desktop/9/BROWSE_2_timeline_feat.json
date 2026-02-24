@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are distributed around the screen center with frequent small, irregular shifts in both X and Y, resembling the scattered, less-structured gaze pattern seen in the BROWSE example rather than the more linear or directional patterns of READ, WRITE, SEARCH, WATCH, or PLAY.",
+  "correct": true
+}

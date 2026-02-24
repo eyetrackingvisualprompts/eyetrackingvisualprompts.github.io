@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large vertical and horizontal shifts across a relatively wide area with frequent directional changes, resembling dynamic tracking of moving objects seen in gameplay rather than the more clustered or line-structured patterns of reading, writing, or static browsing/searching.",
+  "correct": false
+}

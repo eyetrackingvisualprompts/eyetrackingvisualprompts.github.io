@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates progress mainly in structured horizontal bands with relatively small vertical shifts, consistent with line-by-line reading behavior rather than the larger, more erratic spatial exploration typical of coding, search, games, or video watching tasks.",
+  "correct": false
+}

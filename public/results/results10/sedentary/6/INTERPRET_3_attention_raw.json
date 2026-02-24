@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a compact horizontal region around mid-height of the screen with slight left-to-right spread, matching the reading-like pattern in the READ example more than the other activities, which show either broader exploration, central fixation, or multiple separated clusters.",
+  "correct": false
+}

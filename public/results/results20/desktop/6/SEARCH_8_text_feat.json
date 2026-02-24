@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including big vertical and horizontal shifts between center, upper, and lower areas) with relatively short fixations and no clear line-by-line horizontal scanning pattern match the dynamic, multi-directional gaze behavior seen during game playing rather than the more structured patterns of reading, searching, browsing, watching, or the very localized gaze of writing.",
+  "correct": false
+}

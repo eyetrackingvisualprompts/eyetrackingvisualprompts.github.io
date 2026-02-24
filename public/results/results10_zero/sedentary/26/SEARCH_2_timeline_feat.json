@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows stepwise horizontal progressions with small vertical shifts, consistent with moving along text lines and then down to the next line, without large multidirectional or object-tracking movements typical of games, browsing, or coding tasks.",
+  "correct": false
+}

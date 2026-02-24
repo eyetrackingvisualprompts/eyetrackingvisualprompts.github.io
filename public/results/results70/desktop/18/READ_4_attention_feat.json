@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered in a compact central region without the extended horizontal sweep seen in reading or writing, and with less dispersed, multi-area scanning than search or play; this localized attention on a central content block best matches typical browsing behavior on a webpage.",
+  "correct": false
+}

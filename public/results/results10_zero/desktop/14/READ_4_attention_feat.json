@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small horizontal region near the screen center, with minimal vertical spread and no systematic left\u2013right sweeps typical of reading or browsing. This stable, localized gaze pattern aligns best with watching a video where attention is focused on a central area (e.g., faces), rather than the more distributed or scanning patterns seen in SEARCH, BROWSE, PLAY, READ, or WRITE.",
+  "correct": false
+}

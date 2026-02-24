@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts between two distant regions on the screen with relatively few intermediate fixations, indicative of tracking moving elements or alternating focus areas typical in gameplay, rather than the denser, line-based or block-based patterns expected in reading, coding, or web browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid eye movements crossing wide screen areas, with fewer stable reading-like horizontal lines. This wide-ranging, dynamic gaze pattern is most consistent with visually tracking and navigating elements in a game rather than focused reading, coding, or web/search browsing tasks.",
+  "correct": false
+}

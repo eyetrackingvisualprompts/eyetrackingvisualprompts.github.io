@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a sequence of horizontally clustered fixations with small stepwise saccades along similar vertical bands, consistent with line-by-line reading rather than the larger, more scattered movements typical of browsing, coding, or interactive tasks.",
+  "correct": false
+}

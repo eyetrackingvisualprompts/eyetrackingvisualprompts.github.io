@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent medium-duration fixations clustered around a narrow horizontal band with repeated small corrective saccades in a confined code-like region, interleaved with occasional excursions to other nearby interface areas, closely matches the WRITE examples\u2019 gaze around the current typing line rather than the more scan-like patterns of READ/SEARCH or the dispersed motion of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

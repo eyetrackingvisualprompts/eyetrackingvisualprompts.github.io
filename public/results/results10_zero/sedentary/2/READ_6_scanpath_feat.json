@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small central region with minimal saccades and almost no horizontal or vertical scanning, indicating prolonged fixation on a single area of the screen, which matches passively watching a video rather than tasks that involve active reading, searching, or code interaction.",
+  "correct": false
+}

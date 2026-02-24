@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows medium-length fixations interleaved with frequent, multi-directional saccades across a wide vertical and horizontal range, including repeated returns to mid-page and occasional jumps to higher/lower regions\u2014consistent with scanning mixed content (titles, snippets, images) on web pages. It lacks the orderly horizontal line scans of READ, the tightly clustered top-center focus of WRITE, and the more stable region tracking typical of WATCH, while looking less erratic and target-centric than PLAY; overall it best matches the BROWSE examples.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows moderate, irregular horizontal and vertical shifts with no strong top/bottom bias or systematic scanning pattern, resembling the mixed exploratory movements in the BROWSE example more than the more structured patterns of READ, WRITE, SEARCH, or the larger excursions of WATCH/PLAY.",
+  "correct": false
+}

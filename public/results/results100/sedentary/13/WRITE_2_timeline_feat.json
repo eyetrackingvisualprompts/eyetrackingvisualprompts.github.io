@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent shifts between a narrow horizontal band and moderate vertical movements, with intermittent larger saccades\u2014indicating repeated scanning over code and related UI elements. This spatio-temporal pattern most closely matches the DEBUG example compared to other activities.",
+  "correct": false
+}

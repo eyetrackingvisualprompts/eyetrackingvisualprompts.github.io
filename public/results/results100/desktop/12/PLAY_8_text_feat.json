@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are mostly mid-duration with frequent medium-amplitude saccades within and around a band in the lower-middle of the screen, plus intermittent larger jumps up/down\u2014matching scanning across mixed web content more than the tighter horizontal bands of READ, the extreme peripheral and erratic shifts of PLAY, or the localized upper-area focus of WRITE. The pattern best aligns with exploratory, multi-region viewing typical of browsing webpages.",
+  "correct": false
+}

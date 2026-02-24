@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large early vertical transitions followed by prolonged high X with mid-Y scanning resemble moving between search bar, results list, and reading snippets, matching the SEARCH example more closely than the more uniform READ or the dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

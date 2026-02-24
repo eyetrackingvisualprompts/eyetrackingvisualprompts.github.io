@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows smooth, continuous horizontal movements across multiple vertically separated bands, consistent with tracking moving elements or shifting attention across a video scene rather than fixating on dense text or localized interface regions seen in reading, writing, browsing, search, or gameplay examples.",
+  "correct": false
+}

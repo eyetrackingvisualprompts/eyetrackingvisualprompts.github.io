@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The target data shows long sequences of horizontal fixations clustered around a consistent y-level (\u2248150\u2013170 px, later \u2248250\u2013280 px), with short saccades along that line and occasional vertical returns\u2014matching left-to-right line reading and line changes seen in the READ examples, rather than the more scattered, multi-region patterns of search, browse, or code-related tasks.",
+  "correct": false
+}

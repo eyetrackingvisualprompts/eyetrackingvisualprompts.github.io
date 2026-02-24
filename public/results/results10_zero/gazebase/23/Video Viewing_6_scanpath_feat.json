@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows discrete fixations connected by large, irregular jumps in both horizontal and vertical directions, with positions scattered across a broad central area rather than constrained to a single line (horizontal saccades) or tight cluster (fixations), and without the systematic left-to-right line pattern of reading; this pattern best matches a target that moves unpredictably to new locations once per second, as in the Random Saccades task.",
+  "correct": false
+}

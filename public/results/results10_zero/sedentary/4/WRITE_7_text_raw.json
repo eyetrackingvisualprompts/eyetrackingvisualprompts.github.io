@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points cluster in horizontally elongated bands with small, progressive shifts and occasional vertical transitions, consistent with line-by-line reading behavior rather than large object-following (PLAY/WATCH) or frequent large navigation jumps typical of SEARCH/BROWSE or code-centric tasks (WRITE/INTERPRET/DEBUG).",
+  "correct": false
+}

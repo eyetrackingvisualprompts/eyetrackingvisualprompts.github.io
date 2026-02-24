@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze repeatedly alternates between a mid-upper code area and multiple distinct vertical regions (around y\u2248210\u2013280, 380\u2013460, 520\u2013660), with many revisits and short saccades within code-like clusters, consistent with scanning through and re-checking multiple code segments as in debugging, rather than the more linear patterns of reading/interpreting or the broader scanning of browse/search/watch tasks.",
+  "correct": true
+}

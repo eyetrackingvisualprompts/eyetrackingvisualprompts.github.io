@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple well-separated fixation clusters scattered across both horizontal and vertical dimensions, without the line-like structure of reading or the broader dispersion of the game or video. This pattern best matches discrete target positions from the Random Saccades task.",
+  "correct": true
+}

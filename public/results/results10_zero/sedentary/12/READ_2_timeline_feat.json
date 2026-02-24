@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is largely stable around a horizontal band with slow drift and few large saccades, indicating continuous attention to a central screen region rather than structured left-to-right/right-to-left reading or code manipulation, which fits passive video watching best.",
+  "correct": false
+}

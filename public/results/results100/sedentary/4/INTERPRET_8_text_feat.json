@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact code/IDE-like region, with repeated revisits between a few nearby coordinates, medium-length fixations, and occasional large saccades to the top and corners (e.g., menus/console), matching the fine-grained, iterative inspection pattern seen in WRITE more than the more scan-like SEARCH/BROWSE or the broader spatial coverage in WATCH/PLAY.",
+  "correct": false
+}

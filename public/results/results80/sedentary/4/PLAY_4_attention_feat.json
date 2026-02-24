@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is strongly concentrated around the central area with some surrounding scatter, closely matching the PLAY example heatmap where attention follows central game elements rather than text blocks or code regions.",
+  "correct": true
+}

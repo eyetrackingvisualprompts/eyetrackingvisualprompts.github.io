@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense, medium-duration fixations clustered in a compact upper-left region with repeated short saccades within the same area and occasional returns from a lower central block are characteristic of inspecting a small code snippet (few lines) to reason about its behavior, as in INTERPRET, rather than the broader vertical scanning of READ/BROWSE or the wider, more dynamic gaze shifts of PLAY/WATCH/SEARCH/DEBUG/WRITE.",
+  "correct": false
+}

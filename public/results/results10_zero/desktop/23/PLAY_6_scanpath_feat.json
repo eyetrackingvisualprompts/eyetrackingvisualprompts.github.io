@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts across both horizontal and vertical directions with relatively few sustained, line-like fixations. This pattern fits dynamic, spatially dispersed visual demands typical of gaming (PLAY), rather than the more localized, horizontally-structured patterns seen in reading, writing, or browsing/searching text, or the more centrally focused pattern common in video watching.",
+  "correct": true
+}

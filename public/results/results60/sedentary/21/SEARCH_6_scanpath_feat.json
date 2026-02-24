@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze path shows extensive exploration across multiple vertical and horizontal regions, including top, middle, and lower parts of the screen with long transitions between them, resembling the heterogeneous, wide-range scanning typical of free web browsing rather than the more localized patterns seen in coding, reading, or watching tasks.",
+  "correct": false
+}

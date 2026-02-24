@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around code-like horizontal bands with many medium-long (0.3\u20131.8s) fixations, frequent short regressions within the same region, and repeated returns to nearby lines\u2014indicative of detailed, iterative inspection and re-checking consistent with debugging rather than the more linear scans of READ/INTERPRET or the broader exploratory movements of BROWSE/SEARCH/PLAY/WATCH/WRITE.",
+  "correct": false
+}

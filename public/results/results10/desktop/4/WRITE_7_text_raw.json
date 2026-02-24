@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is highly stable around a narrow vertical band slightly above screen center with very small, slow drifts\u2014matching the sustained, local fixation pattern seen in the WRITE example and unlike the larger shifts and scanning seen in BROWSE/SEARCH/READ or the more dynamic patterns in WATCH/PLAY.",
+  "correct": true
+}

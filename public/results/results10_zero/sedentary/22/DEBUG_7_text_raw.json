@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows frequent large, rapid shifts across wide screen areas (including corners and extreme edges) with less structured horizontal or vertical scanning, indicative of tracking moving targets and reacting in real time, which aligns best with gameplay behavior rather than the more line- or region-structured patterns of reading, coding, or web browsing/searching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows multiple distinct clusters with large saccades between them and coverage of a broad screen area, matching the exploratory, multi-region viewing typical of gameplay rather than the more localized patterns seen in reading, writing, searching, browsing, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows medium-length fixations clustered in a relatively small central region with occasional larger saccades to different screen areas, including brief excursions near the top (likely code header/console) and then returns to a working area. This mix of localized re-inspection, short regressions, and occasional long jumps is more consistent with scanning and re-checking code during debugging than with continuous line-by-line reading, free browsing, or dynamic object tracking in games or video.",
+  "correct": false
+}

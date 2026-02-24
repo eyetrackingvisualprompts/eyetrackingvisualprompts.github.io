@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades between central/task regions and extreme screen/world coordinates (including off-screen negatives), with rapid revisits and dispersed spatial coverage, resemble continuous target following and spatial navigation seen in the PLAY examples rather than the more localized, structured scanpaths of code or text tasks or the vertical scrolling and reading patterns of browsing/searching.",
+  "correct": false
+}

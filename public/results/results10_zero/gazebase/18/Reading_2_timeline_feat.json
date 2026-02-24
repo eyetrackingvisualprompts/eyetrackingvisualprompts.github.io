@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze shows predominantly horizontal position changes with step-like shifts between left and right positions around a roughly constant vertical level, consistent with following a target moving horizontally between two extremes rather than random multi-directional jumps or static fixation.",
+  "correct": false
+}

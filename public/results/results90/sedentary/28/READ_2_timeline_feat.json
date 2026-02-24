@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The X fixations show repeated short horizontal scan patterns, while Y fixations drift slowly with occasional large downward jumps, matching the mixed scrolling-and-reading behavior seen in the BROWSE example rather than the more regular lines of READ or the more static patterns of coding tasks.",
+  "correct": false
+}

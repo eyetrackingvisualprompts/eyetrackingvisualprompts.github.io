@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze starts near the center and then makes a substantial, smooth displacement downward with a final cluster of fixations at a new position, consistent with following a target that jumps to and holds random locations rather than remaining static (fixation) or moving strictly horizontally (horizontal saccades).",
+  "correct": false
+}

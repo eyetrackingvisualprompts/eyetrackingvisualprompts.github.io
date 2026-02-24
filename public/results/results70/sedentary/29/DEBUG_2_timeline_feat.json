@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium dispersion with frequent shifts between a few regions (likely code, errors, and output), plus occasional larger saccades, closely matching the DEBUG example pattern rather than the more stable WRITE/INTERPRET or highly dynamic PLAY/WATCH behaviors.",
+  "correct": true
+}

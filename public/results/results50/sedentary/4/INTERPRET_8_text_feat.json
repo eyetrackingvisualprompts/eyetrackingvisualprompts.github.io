@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Long periods of dense, localized fixations around a compact region with repeated small corrective saccades and occasional jumps to other interface areas resemble code editing/implementation behavior, matching the WRITE examples more than the broader scanning in SEARCH/BROWSE or dynamic tracking in WATCH/PLAY.",
+  "correct": false
+}

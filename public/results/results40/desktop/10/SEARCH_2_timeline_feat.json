@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows frequent shifts between mid and upper screen regions with irregular horizontal movements, resembling transitions between search bar, results list, and content areas, which matches the SEARCH pattern more than the more uniform READ/WATCH or centered BROWSE examples.",
+  "correct": true
+}

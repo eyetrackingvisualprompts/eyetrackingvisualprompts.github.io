@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows extended horizontal reading-like movements across a wide central band (consistent with reading web content) combined with distinct clusters on both left and right sides and occasional large transitions between regions, matching navigation between different page areas or tabs typical of browsing behavior rather than the more localized or gameplay-like patterns of other tasks.",
+  "correct": false
+}

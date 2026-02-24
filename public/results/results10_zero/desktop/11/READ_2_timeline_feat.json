@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows mostly horizontal movements with small vertical shifts, forming a staircase pattern consistent with line-by-line reading and occasional regressions, rather than the larger multidirectional shifts typical of browsing, searching, gaming, or watching video.",
+  "correct": true
+}

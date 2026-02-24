@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cluster around screen center with frequent but moderate saccades in both axes and no strong directional drift, resembling the mixed, exploratory pattern of browsing webpages rather than the more structured scan paths seen in reading, writing, search results, videos, or gameplay.",
+  "correct": false
+}

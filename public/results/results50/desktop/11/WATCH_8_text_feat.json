@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mainly around the screen center with small-to-moderate multidirectional saccades, frequent short fixations, and no clear left\u2011to\u2011right line scanning or strong vertical progression typical of continuous reading. The pattern closely matches the BROWSE example, which shows similar central clustering with exploratory jumps, rather than the more structured, horizontal scan paths in READ or the larger, more dispersed movements in PLAY/WATCH or edge\u2011biased regions in WRITE.",
+  "correct": false
+}

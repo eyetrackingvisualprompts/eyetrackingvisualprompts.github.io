@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-length fixations around a compact central code-like area with repeated revisits, interleaved with large vertical and diagonal saccades to screen edges/upper regions (likely console or other panes), plus occasional long off-center jumps, closely matches the exploration-and-revision scanpaths seen in the DEBUG examples rather than the more linear READ patterns or the highly dynamic, object-tracking patterns of PLAY/WATCH.",
+  "correct": false
+}

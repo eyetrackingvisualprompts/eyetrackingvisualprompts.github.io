@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-amplitude horizontal and vertical shifts with irregular saccades and non-linear fixation patterns, resembling visually tracking and navigating dynamic objects, which matches the PLAY examples more than the more linear or stationary patterns of reading, writing, browsing, or code-related tasks.",
+  "correct": false
+}

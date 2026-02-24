@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered around a central horizontal band typical of the code editor text area, with occasional long saccades toward the right side of the screen where execution/output or auxiliary panels often reside, matching the WRITE pattern more than the other activities.",
+  "correct": false
+}

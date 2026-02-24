@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows a mostly vertical trajectory with a single large excursion and position maintained briefly before and after movement, matching the pattern of discrete, relatively large target jumps with 1-second holds used in the Random Saccades task, rather than the strictly horizontal motion, static fixation, or complex multi-point behavior of the other tasks.",
+  "correct": false
+}

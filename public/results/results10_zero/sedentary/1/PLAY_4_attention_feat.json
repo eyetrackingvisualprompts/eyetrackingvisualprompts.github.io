@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are sparse, vertically distributed, and not aligned to text lines or code blocks; the gaze follows a central vertical band typical of tracking dynamic visual content in a video rather than systematic reading, coding, or web search patterns.",
+  "correct": false
+}

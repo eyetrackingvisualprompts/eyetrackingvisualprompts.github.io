@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around screen center with medium-length fixations and frequent small horizontal/vertical shifts, plus occasional large jumps to other regions and back\u2014matching the mixed reading-scanning and intermittent navigation pattern seen in the BROWSE examples, rather than the more line-structured READ or more dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

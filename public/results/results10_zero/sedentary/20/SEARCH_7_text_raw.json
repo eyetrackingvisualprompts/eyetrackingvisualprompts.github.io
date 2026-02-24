@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows many large, rapid saccades across wide screen regions (including edges and off-screen coordinates), irregular vertical and horizontal jumps, and clustering around multiple disparate areas rather than line-like patterns typical of reading or code tasks. This pattern is consistent with visually tracking and shifting attention between dynamic game elements during PLAY, rather than the more structured, scanline or block-focused behavior seen in READ/WRITE/DEBUG/INTERPRET or the more central, smoother focus of WATCH or SEARCH/BROWSE on static webpages.",
+  "correct": false
+}

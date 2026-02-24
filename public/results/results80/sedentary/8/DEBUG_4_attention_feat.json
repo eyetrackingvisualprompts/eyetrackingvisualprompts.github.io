@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are strongly concentrated in a single compact area on the left side, with minimal spread elsewhere, matching the focused gaze pattern on a small code snippet seen in the INTERPRET examples rather than the broader distributions of DEBUG, WRITE, or other tasks.",
+  "correct": false
+}

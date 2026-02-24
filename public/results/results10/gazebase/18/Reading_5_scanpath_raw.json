@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze path shows multiple, roughly parallel horizontal sweeps with small vertical spacing and limited vertical range, closely matching line-by-line reading patterns rather than large horizontal jumps, central fixation, random multi-directional saccades, or wide exploratory movements seen in the other tasks.",
+  "correct": true
+}

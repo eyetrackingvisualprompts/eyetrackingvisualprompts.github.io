@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small, mid-left code/console region with many short, local saccades and long repeated fixations around similar y-levels (\u2248520\u2013560), consistent with monitoring and editing a few lines while writing code, rather than the broader vertical sweeps of reading/searching or the wide exploratory movements of browse/play/debug.",
+  "correct": false
+}

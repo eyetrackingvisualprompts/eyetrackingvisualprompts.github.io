@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate horizontal reading-like sweeps interspersed with frequent larger vertical saccades and shifts, indicating scanning between results and different on-page elements, which aligns best with the SEARCH pattern compared to more stable READ traces or the more localized code-related tasks.",
+  "correct": false
+}

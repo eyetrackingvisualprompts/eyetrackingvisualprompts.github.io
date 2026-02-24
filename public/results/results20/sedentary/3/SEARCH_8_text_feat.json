@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows repeated smooth, left-to-right horizontal sweeps across mid-screen bands, with returns to the left and re-scanning of similar y-levels, matching scrolling/skim-reading over web content typical of BROWSE rather than the tighter, line-by-line pattern of READ or the localized code-focused patterns of programming tasks.",
+  "correct": false
+}

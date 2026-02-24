@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between relatively long fixations (~0.2\u20131.8 s) and large multi-directional saccades (both horizontal and vertical components, often several degrees, including jumps from around -3\u00b0 to +16\u00b0). Movements are not constrained to horizontal only (ruling out Horizontal Saccades) and show structured, discrete position changes consistent with following a randomly moving target rather than the more clustered, text-line pattern of Reading or the more irregular, content-driven patterns of Video Viewing or Balura Game.",
+  "correct": false
+}

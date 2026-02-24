@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long, stable fixations on central regions with large, rapid saccades to widely separated screen areas (including corners and edges), consistent with following dynamic visual content rather than line-by-line reading or code inspection. The pattern matches the WATCH examples\u2019 mixture of focal fixations and broad spatial jumps more than the more structured, text/grid-oriented movements seen in READ/WRITE/DEBUG/INTERPRET or the more exploratory jumps of SEARCH/BROWSE/PLAY.",
+  "correct": false
+}

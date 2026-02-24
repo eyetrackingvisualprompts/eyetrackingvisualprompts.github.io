@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-length saccades and revisits between central result-like horizontal bands and upper areas, with occasional long jumps to the page top and side regions, match the scanning and revisiting behavior seen in the SEARCH examples more than the more localized code-focused (INTERPRET/DEBUG/WRITE) or line-regular (READ) patterns.",
+  "correct": true
+}

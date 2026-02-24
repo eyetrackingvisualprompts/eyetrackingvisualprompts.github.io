@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, clustered fixations on the left-middle region (typical code/IDE area) with occasional long saccades to a smaller cluster on the right side (e.g., console or reference panel) closely match the WRITE example pattern, unlike the more dispersed SEARCH/BROWSE or highly repetitive READ layouts.",
+  "correct": false
+}

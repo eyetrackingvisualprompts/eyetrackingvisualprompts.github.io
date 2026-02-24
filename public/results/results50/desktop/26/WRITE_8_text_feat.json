@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is almost entirely confined to a very small region with extremely long, continuous fixations (often 2\u20134+ seconds) and only tiny corrective saccades, indicating the eyes remain near a stable focal point with minimal exploration. This pattern best matches the PLAY examples, where players often stare at a central gameplay area or HUD element, unlike the more scanning, multi-location patterns seen in READ, SEARCH, BROWSE, WATCH, or WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow vertical code region on the left-center of the screen, with some movement up and down that matches scanning and revisiting lines while debugging, closely resembling the DEBUG example heatmap pattern.",
+  "correct": true
+}

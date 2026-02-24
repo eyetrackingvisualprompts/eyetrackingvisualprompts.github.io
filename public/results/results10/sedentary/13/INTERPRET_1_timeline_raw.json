@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y traces show relatively smooth, slow drift with occasional small saccades and no large, regular horizontal sweeps typical of reading or coding; the pattern matches the WATCH example where gaze follows dynamic video content without structured line-by-line movements.",
+  "correct": false
+}

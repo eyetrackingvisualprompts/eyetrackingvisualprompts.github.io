@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated in a compact region on the left-center of the screen with very few fixations elsewhere, matching the focused code-snippet inspection seen in the INTERPRET example, rather than the broader or more scattered patterns of other tasks.",
+  "correct": false
+}

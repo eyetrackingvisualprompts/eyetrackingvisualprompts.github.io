@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show large, frequent shifts across wide screen regions (including extreme left/right and substantial vertical movement) with relatively few stable horizontal scanlines. This pattern aligns with visually tracking and reacting to moving game elements rather than the more structured, line-based scan paths typical of reading, browsing, or code-related tasks, or the more centrally focused and smoother patterns seen in video watching.",
+  "correct": false
+}

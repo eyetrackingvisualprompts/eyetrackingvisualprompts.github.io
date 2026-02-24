@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations stay around the screen center with moderate variability and no strong upward bias or line-like scan pattern. This matches the relatively central, moderately dynamic gaze pattern seen when browsing web pages, rather than the more top-heavy (WATCH/WRITE), horizontal-scanning (READ), or more widely dispersed (SEARCH/PLAY) patterns.",
+  "correct": true
+}

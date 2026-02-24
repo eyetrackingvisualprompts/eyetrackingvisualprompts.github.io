@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains mostly in the upper-middle region with slow upward drift and occasional medium saccades, lacking the regular line-by-line horizontal scans of READ or the concentrated narrow-band patterns of coding tasks (WRITE/INTERPRET/DEBUG). This variable yet relatively smooth exploration best matches free web browsing behavior.",
+  "correct": false
+}

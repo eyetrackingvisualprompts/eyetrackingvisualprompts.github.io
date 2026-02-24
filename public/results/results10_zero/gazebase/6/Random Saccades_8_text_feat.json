@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between spatially separated fixation points with large, multidirectional saccades (both horizontal and vertical, irregular amplitudes and positions) and fixation durations around ~0.2\u20130.8 s at each location, matching a target that jumps to random screen positions rather than purely horizontal steps, continuous central fixation, orderly left-to-right reading sweeps, or game-like clustered re-fixations.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations are densely clustered around the central area with moderate vertical spread, resembling the SEARCH example where attention is focused on the middle of the screen with scattered movements while scanning search results, rather than the narrower horizontal band of READ or the more top-focused WATCH/WRITE patterns.",
+  "correct": false
+}

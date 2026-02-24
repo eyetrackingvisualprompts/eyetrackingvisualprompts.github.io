@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact central region with relatively small horizontal/vertical range and moderate, local saccades\u2014similar to INTERPRET example and unlike the broader scanning in SEARCH/BROWSE or the larger shifts in WRITE/DEBUG/PLAY/WATCH.",
+  "correct": false
+}

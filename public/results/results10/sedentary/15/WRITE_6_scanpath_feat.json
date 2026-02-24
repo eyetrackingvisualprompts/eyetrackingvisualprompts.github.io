@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a single small region of code with short, local saccades and no large shifts to other UI areas, matching the focused inspection pattern seen in INTERPRET rather than the broader movements in WRITE or DEBUG.",
+  "correct": false
+}

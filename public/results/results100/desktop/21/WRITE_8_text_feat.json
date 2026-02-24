@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Large gaze excursions across wide screen regions (including beyond normalized bounds), frequent vertical and horizontal shifts between dispersed clusters, and intermittent long fixations with irregular patterns are most consistent with dynamic game-play viewing demands rather than structured reading/writing or more linear browsing/searching behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze behavior shows relatively small, localized saccades with medium-to-long fixations (often 200\u2013800 ms) clustered within a constrained horizontal band, consistent with reading text lines rather than the larger, more dispersed exploration typical of browsing/searching or the rapid, wide-ranging gaze shifts seen in games or video watching. The pattern also lacks the frequent top-down or interface switching typical of writing/editing text.",
+  "correct": false
+}

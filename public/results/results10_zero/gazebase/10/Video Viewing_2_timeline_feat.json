@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions show discrete jumps to various horizontal and vertical locations (both X and Y varying irregularly), with each position held briefly before moving elsewhere. Movements are not constrained to a simple left-right pattern (ruling out horizontal saccades), not centered (ruling out fixations), and lack the structured, line-by-line horizontal pattern of reading. The irregular but stepwise target-like relocations best match the Random Saccades task.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a narrow lower-left region with small-amplitude vertical jitters and repeated back-and-forth between very close coordinates, indicating focused work on a small interface element (like a text input area or line of text) rather than wide horizontal sweeps of reading or broader exploratory scanning seen in search/browse/play/watch. This localized, stable yet slightly adjusting pattern best matches the WRITE task.",
+  "correct": false
+}

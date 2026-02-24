@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-amplitude horizontal shifts with corresponding vertical movements, resembling continuous object tracking and navigation rather than structured line-by-line reading or code inspection, which matches the dynamic scan patterns seen in the PLAY examples.",
+  "correct": false
+}

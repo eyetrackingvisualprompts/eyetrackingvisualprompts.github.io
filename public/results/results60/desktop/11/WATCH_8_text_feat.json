@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts across wide screen areas (including off-center and beyond-1.0 coordinates), with long fixations and vertical excursions typical of tracking dynamic visual content and subtitles, matching the WATCH pattern more than the more clustered, text-line- or interface-focused patterns of READ/WRITE/BROWSE/SEARCH, and the tighter central/game-HUD focus of PLAY.",
+  "correct": true
+}

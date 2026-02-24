@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right horizontal sweeps with intermediate vertical shifts and occasional larger jumps, indicating sequential reading of changing regions, consistent with free web browsing rather than focused code reading/debugging or continuous video watching.",
+  "correct": false
+}

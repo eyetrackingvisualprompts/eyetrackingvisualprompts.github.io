@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations cluster in multiple discrete locations scattered across both vertical and horizontal axes, with no clear horizontal-only pattern, central concentration, or text-like left-to-right lines; this matches following a randomly moving target rather than reading, a game with many spread-out fixations, horizontal saccades, or video viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Long fixations and dense re-fixations within a compact code-like area, frequent short saccades between nearby lines, and occasional large jumps to distant screen regions (e.g., (1650+, 500+), corners) match the error-hunting and checking behavior seen in the DEBUG examples more than the more linear READ/INTERPRET patterns or the highly dynamic PLAY/WATCH/BROWSE/SEARCH patterns.",
+  "correct": false
+}

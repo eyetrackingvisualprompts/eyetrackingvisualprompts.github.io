@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze coordinates oscillate primarily along the horizontal axis between large positive and negative x-values with relatively small vertical variation, showing repeated large-amplitude left-right transitions and extended periods near extreme horizontal positions, which matches the structured horizontal target-following pattern of the Horizontal Saccades task rather than the more variable patterns of random saccades, reading, games, video viewing, or steady fixations.",
+  "correct": true
+}

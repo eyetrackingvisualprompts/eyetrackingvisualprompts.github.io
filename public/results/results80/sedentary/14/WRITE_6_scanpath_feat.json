@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a narrow left-side code area with frequent shifts to a single right-side region (likely output/terminal), matching the pattern of repeatedly checking code and results typical of debugging rather than initial writing or interpretation.",
+  "correct": false
+}

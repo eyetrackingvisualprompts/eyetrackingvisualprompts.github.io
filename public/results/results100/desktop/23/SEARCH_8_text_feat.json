@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow central band with many medium-to-long fixations and short, local saccades mostly along a horizontal line (around y\u22480.6\u20130.8), consistent with line-by-line text reading. There are no large exploratory jumps or broad vertical movements typical of SEARCH/BROWSE or PLAY, and the fixation stability and pattern closely resemble the provided READ examples.",
+  "correct": false
+}

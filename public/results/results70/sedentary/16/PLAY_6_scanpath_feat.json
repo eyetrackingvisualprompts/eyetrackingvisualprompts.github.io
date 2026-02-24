@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread horizontally across the upper half of the screen with repeated transitions between a central cluster and areas to the left and right, matching exploration of search results and snippets rather than focused reading or code inspection.",
+  "correct": false
+}

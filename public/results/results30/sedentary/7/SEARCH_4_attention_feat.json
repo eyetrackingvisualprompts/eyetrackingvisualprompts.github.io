@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated in a horizontal band near the top of the screen, consistent with reading search results across the page, with occasional excursions downward similar to the SEARCH example heatmap rather than the more globally scattered BROWSE or WATCH patterns.",
+  "correct": true
+}

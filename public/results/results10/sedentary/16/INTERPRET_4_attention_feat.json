@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the top-left code/IDE region with additional activity near the lower-left area where a console or editor line typically is, closely matching the WRITE example pattern more than other tasks.",
+  "correct": false
+}

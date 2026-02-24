@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed vertically from near the bottom to upper-middle of the screen with a denser cluster around the lower-center, indicating scrolling and alternating attention between query box, results, and snippets characteristic of web search pages, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to varied positions across both horizontal (\u2248\u00b120\u00b0) and vertical (\u2248\u00b117\u00b0) axes, followed by short clusters of relatively stable samples at each location, matching a protocol where a target appears at random 2D positions and is held ~1 s. This 2D, irregular jump pattern is inconsistent with purely horizontal saccades, sustained central fixations, or structured reading, and better matches Random Saccades than the more complex, object-contingent Balura Game or naturalistic Video Viewing.",
+  "correct": false
+}

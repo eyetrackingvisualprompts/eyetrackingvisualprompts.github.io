@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered on a narrow vertical region on the left side of the screen with a few scattered looks lower down, matching the focused code-inspection pattern seen in the DEBUG example rather than the broader scanning or horizontal reading patterns of other activities.",
+  "correct": false
+}

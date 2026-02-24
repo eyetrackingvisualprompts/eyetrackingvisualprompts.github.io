@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show relatively stable horizontal bands with small, periodic vertical shifts, consistent with line-by-line reading and occasional regressions, rather than large multidirectional movements typical of playing games, searching, browsing, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are densely clustered around the screen center with medium dispersion and frequent multidirectional saccades, resembling the exploratory, scrolling, and link-checking behavior seen in the BROWSE example more than the more linear (READ/WRITE) or peripheral (WATCH/PLAY) patterns.",
+  "correct": false
+}

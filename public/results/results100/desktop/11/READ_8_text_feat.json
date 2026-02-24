@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many moderate saccades between central content area and multiple distinct lower/upper regions, including repeated jumps to low y (near top UI) and back into mid-page, matches the navigation and scanning behavior seen in BROWSE examples more than the more line-structured READ or the more center-clustered WATCH; movements are less task-focused than SEARCH and lack the game-like large directional shifts of PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow central band with small, steady fixations and minimal large saccades, resembling focused inspection of a compact code snippet. This pattern matches the INTERPRET example more closely than the more dispersed or dynamic patterns seen in SEARCH, WATCH, BROWSE, DEBUG, or PLAY.",
+  "correct": true
+}

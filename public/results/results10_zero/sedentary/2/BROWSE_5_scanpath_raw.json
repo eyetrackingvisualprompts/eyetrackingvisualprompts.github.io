@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a mid-left region with continuous, smooth shifts and tracking-like movements rather than line-by-line reading or scanning multiple UI areas. The pattern suggests following a moving object or character within a constrained game area, which aligns best with the PLAY activity (e.g., Pong or Mario) rather than tasks involving code, text reading, or web search/browsing.",
+  "correct": false
+}

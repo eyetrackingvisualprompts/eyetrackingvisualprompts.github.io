@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The data shows several large vertical and diagonal saccades between widely separated regions (upper, middle, and lower parts of the screen) with medium-length fixations, indicating scanning across different interface elements and result regions rather than line-by-line text reading or stable watching. This pattern best matches the exploratory, interface-spanning gaze behavior seen in the SEARCH examples, where users move between query box, results list, and different parts of the page.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to varied positions across both horizontal and vertical axes with 1-second-scale clusters of small jitter at each location, matching the pattern of following a randomly moving target rather than smooth horizontal tracking, stable fixation, or text-like scanning.",
+  "correct": false
+}

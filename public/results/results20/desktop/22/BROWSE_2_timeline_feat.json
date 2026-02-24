@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with frequent shifts in both X and Y and several larger vertical transitions, resembling the mixed reading, scanning, and result-page navigation pattern seen in the SEARCH example more than the steadier patterns of READ or the more centralized patterns of WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact region on the left side of the screen with very limited spread, closely matching the INTERPRET example where participants focus on a small code snippet to reason about its output, rather than scanning more widely as in DEBUG or WRITE.",
+  "correct": false
+}

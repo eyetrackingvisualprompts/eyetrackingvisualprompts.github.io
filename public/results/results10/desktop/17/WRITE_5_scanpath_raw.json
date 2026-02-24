@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a small, horizontally oriented region near the upper-middle of the screen with short back-and-forth movements, closely matching the stable, localized horizontal scanpath typical of reading text rather than the broader, more exploratory patterns seen in browsing, searching, playing, watching, or writing.",
+  "correct": false
+}

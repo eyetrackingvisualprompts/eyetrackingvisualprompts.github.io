@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, abrupt jumps spanning many degrees in both horizontal and vertical directions followed by short, relatively stable clusters, which matches tracking a randomly moving target with 1-second holds rather than smooth horizontal-only motion, sustained central fixation, reading-style left-to-right sweeps, game-related clustered object fixations, or free-viewing video patterns.",
+  "correct": false
+}

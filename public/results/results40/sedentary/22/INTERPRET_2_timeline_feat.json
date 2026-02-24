@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows relatively stable horizontal fixations with occasional clusters of larger vertical saccades and position shifts, indicating periodic reference to a main text/result area with intermittent moves to other interface elements, which best matches the heterogeneous scanning behavior typical of SEARCH compared to the more linear patterns of READ or the denser code-focused tasks.",
+  "correct": false
+}

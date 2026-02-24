@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates frequently between a compact code/text area (mid-screen around y\u2248330\u2013480) and a lower region (y\u2248540\u2013610) consistent with an editor plus console/terminal, with many medium-length fixations on similar coordinates and repeated vertical shifts typical of typing, checking output, and returning to the code\u2014as seen in the WRITE examples and less consistent with the more line-structured READ/SEARCH or broader-spread DEBUG patterns.",
+  "correct": false
+}

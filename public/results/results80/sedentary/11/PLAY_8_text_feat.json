@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades across widely separated screen regions (including to/from edges and corners), alternation between mid-page text-like bands and top/bottom UI areas, and irregular revisits to dispersed locations match the heterogeneous, exploratory scanpaths seen in BROWSE, rather than the more structured horizontal patterns of READ or the more localized, code-centered patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

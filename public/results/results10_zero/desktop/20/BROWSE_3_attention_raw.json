@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a small, tight cluster of gaze points around the screen center with minimal horizontal or vertical scanning. This pattern reflects sustained fixation on a central region, which is characteristic of watching a video, rather than the broader, systematic scanning patterns typical of reading, searching, browsing, playing, or writing tasks.",
+  "correct": false
+}

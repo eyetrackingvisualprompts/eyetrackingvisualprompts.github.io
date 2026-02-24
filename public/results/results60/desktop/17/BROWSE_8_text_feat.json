@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including extremes and beyond 1.0 in normalized y), with gaze repeatedly shifting between disparate vertical and horizontal locations, indicate dynamic, visually rich stimuli consistent with game play rather than the more structured, line-based or centrally-clustered patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

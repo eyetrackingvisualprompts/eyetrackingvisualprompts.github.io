@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show large, frequent shifts across both horizontal and vertical axes, including rapid jumps to screen extremes and back, with limited evidence of sustained, line-like reading patterns. This irregular, highly dynamic movement is more consistent with visually tracking moving game elements and scanning a playfield than with structured tasks like READ, WRITE, INTERPRET, DEBUG, BROWSE, SEARCH, or passive WATCH viewing.",
+  "correct": false
+}

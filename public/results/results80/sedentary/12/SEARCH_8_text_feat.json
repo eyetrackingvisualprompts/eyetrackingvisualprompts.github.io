@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between long horizontal scan paths around middle/lower screen bands and frequent large jumps to corners and off-screen coordinates, with varied vertical positions and irregular revisits\u2014matching free-form web browsing patterns rather than the more structured, code-centered or line-by-line behaviors of READ/WRITE/DEBUG/INTERPRET, or the object-following dynamics of PLAY/WATCH.",
+  "correct": false
+}

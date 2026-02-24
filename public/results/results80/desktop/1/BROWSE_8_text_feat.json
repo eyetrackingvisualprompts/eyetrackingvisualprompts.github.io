@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with frequent multi-directional saccades across a wide vertical range, including repeated returns between mid-page and upper/lower regions, resembling scanning heterogeneous web/news content rather than the more structured line-by-line pattern of READ or the focused center viewing of WATCH. This pattern best matches the BROWSE examples.",
+  "correct": true
+}

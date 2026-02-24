@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central-middle area with moderate vertical spread, resembling the browsing example heatmap more than the more top-heavy SEARCH pattern or the horizontal band of READ; distribution suggests scanning mixed text and images on a webpage.",
+  "correct": true
+}

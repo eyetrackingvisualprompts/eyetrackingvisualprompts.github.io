@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position shows large, regular, step-like horizontal shifts spanning much of the \u00b115\u00b0 range with about 1-second plateaus, while Y remains nearly constant around a lower value. This pattern matches following a horizontally oscillating target rather than random movements, reading, gaming, video viewing, or pure central fixation.",
+  "correct": false
+}

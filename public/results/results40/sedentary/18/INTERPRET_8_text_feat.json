@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with frequent short regressions and re-reading of the same small area, indicative of mentally simulating and verifying code behavior rather than continuous line-by-line reading or broad navigation; this pattern matches the INTERPRET examples most closely.",
+  "correct": true
+}

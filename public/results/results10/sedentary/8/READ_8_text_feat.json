@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long saccade from lower screen to upper code area followed by many small, localized fixations in a tight region near the top-left/upper portion of the screen matches the focused inspection of a short code snippet typical for INTERPRET, rather than the broader scans of SEARCH/BROWSE or the dynamic tracking in PLAY/WATCH.",
+  "correct": false
+}

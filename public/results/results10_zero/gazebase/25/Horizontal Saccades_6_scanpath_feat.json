@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows gaze alternating almost exclusively along a single horizontal line between two lateral positions, consistent with following a target moving horizontally with 1-second holds, matching the Horizontal Saccades description rather than random, reading, or fixation patterns.",
+  "correct": true
+}

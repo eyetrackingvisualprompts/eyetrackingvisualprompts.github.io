@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "After an initial large saccade from the upper-right to the left side (likely moving to a new line or region), the gaze stays in a relatively narrow horizontal band (y\u22480.30\u20130.40) with many short, small-amplitude horizontal and slight vertical shifts and medium-length fixations (0.2\u20130.6s). This pattern of systematic, line-like progression with local adjustments matches the structured scanning typical of reading more than the more scattered, multi-regional exploration seen in search or browse, or the localized patterns in write/play/watch examples.",
+  "correct": false
+}

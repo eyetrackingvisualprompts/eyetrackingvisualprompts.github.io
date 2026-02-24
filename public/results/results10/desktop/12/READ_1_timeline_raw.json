@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows relatively smooth horizontal progression with occasional step-like shifts and modest vertical variation, resembling scanning and refocusing between results or page regions, which aligns best with the SEARCH pattern among the provided examples.",
+  "correct": false
+}

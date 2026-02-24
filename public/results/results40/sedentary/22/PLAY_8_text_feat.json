@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades spanning wide screen areas (including to extreme edges and outside normal content bounds), frequent shifts between distant regions, and irregular, non-linear scan paths are characteristic of visually tracking dynamic game elements rather than reading, coding, or web browsing layouts.",
+  "correct": true
+}

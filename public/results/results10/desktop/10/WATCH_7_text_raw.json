@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows periods of stable fixations at mid\u2013upper screen positions interleaved with vertical shifts between lower and upper regions, plus occasional large jumps to corners. This pattern matches scanning SERP results and switching between content and search box, characteristic of the SEARCH task rather than the more line-structured READ or localized BROWSE behavior.",
+  "correct": false
+}

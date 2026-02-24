@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow lower-left region with very long, stable fixations and only small local saccades, matching the stationary, localized gaze near the text cursor seen in the WRITE examples, rather than the broader scanning or dynamic movements of browsing, reading, searching, playing, or watching video.",
+  "correct": true
+}

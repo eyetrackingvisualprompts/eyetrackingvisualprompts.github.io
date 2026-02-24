@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows a small number of strong fixation clusters aligned horizontally at a similar vertical position, indicating repeated left-right movements between discrete targets typical of horizontal saccades rather than more scattered or vertical patterns seen in reading, random saccades, video viewing, or game play.",
+  "correct": false
+}

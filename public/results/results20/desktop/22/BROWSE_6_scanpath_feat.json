@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are spread over a broad central region with frequent vertical and horizontal shifts among several clusters, resembling scanning between search box, results list, and other page elements, which matches the SEARCH pattern more than the more localized WATCH/READ or peripheral WRITE/PLAY patterns.",
+  "correct": false
+}

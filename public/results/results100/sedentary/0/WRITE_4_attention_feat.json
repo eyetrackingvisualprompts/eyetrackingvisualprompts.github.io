@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on a moderately sized region in the left-center where code would appear, with some spread above and below, resembling the DEBUG example more than the tightly focused INTERPRET or WRITE patterns or the broader BROWSE/SEARCH/WATCH distributions.",
+  "correct": false
+}

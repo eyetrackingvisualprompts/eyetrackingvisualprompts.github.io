@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-screen with frequent medium-amplitude vertical shifts between content regions (e.g., from ~0.5\u20130.6 down to ~0.2\u20130.3 and even 0.04), interleaved with many short fixations and scanning around 0.4\u20130.5\u2014matching the mixed scrolling and item-scanning pattern seen in BROWSE examples more than the more line-structured READ or strongly top-focused SEARCH patterns.",
+  "correct": false
+}

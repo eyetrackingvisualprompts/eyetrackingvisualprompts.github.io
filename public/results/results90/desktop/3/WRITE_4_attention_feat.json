@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations are tightly clustered in a compact region near the center-left, similar to focusing on a small area such as a search box or result snippet, matching the concentrated pattern seen in the SEARCH example more than the broader scan paths of READ, WATCH, BROWSE, or PLAY.",
+  "correct": false
+}

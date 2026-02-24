@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left-central area where code typically appears, with a few scattered fixations elsewhere, closely matching the DEBUG example pattern more than the tightly clustered INTERPRET or the more dispersed WRITE heatmap.",
+  "correct": false
+}

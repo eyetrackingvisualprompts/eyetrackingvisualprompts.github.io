@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally along a narrow band near the top-middle of the screen, resembling scanning across a search results list or webpage header, closely matching the SEARCH example heatmap pattern.",
+  "correct": false
+}

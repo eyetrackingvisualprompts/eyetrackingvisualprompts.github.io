@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal progression with frequent vertical shifts and scattered saccades, indicating exploration of multiple screen regions similar to the SEARCH example, rather than the more linear patterns of READ/WRITE or the highly dynamic PLAY behavior.",
+  "correct": false
+}

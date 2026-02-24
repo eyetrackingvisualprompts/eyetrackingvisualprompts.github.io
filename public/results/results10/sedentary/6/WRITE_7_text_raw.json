@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, localized fixations with small regressions around code-like vertical regions, plus occasional large gaze jumps indicative of scrolling or refocusing on different parts of an IDE, best match the WRITE examples rather than the more horizontal scanpaths of READ/BROWSE or the more dispersed, dynamic patterns of WATCH/PLAY/SEARCH/DEBUG/INTERPRET.",
+  "correct": true
+}

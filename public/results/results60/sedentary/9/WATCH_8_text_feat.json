@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between widely separated vertical regions (top bars, mid content, bottom area), many medium-length horizontal scans at similar y-levels, and irregular revisits to scattered positions resemble scanning and scrolling a web page more than the more line-structured READ pattern or focused code regions of programming tasks; dynamics also lack the tight object-following seen in PLAY or the centrally clustered patterns common in WATCH.",
+  "correct": false
+}

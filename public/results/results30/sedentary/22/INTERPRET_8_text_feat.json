@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small code-like area (x\u2248200\u2013400, y\u2248300\u2013450) with many short saccades and repeated refixations on nearby locations, indicative of working line-by-line in an editor. Patterns closely resemble the WRITE example and lack the wider vertical scanning of INTERPRET/DEBUG or the horizontal reading sweeps of READ/SEARCH/BROWSE.",
+  "correct": false
+}

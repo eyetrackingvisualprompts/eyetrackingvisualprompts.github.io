@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze positions stay within a narrow central band with a slow, slight upward trend in X and relatively stable Y, showing limited vertical scanning and modest saccades, which matches the writing pattern where attention is focused near a fixed text-entry line rather than the broader vertical movements seen in reading, browsing, or searching.",
+  "correct": false
+}

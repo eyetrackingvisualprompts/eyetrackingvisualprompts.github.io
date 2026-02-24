@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points form a compact cluster around mid-screen with moderate dispersion and multidirectional small saccades, unlike the highly structured horizontal band of READ or the wide spread in PLAY/BROWSE/WATCH/WRITE. This localized yet exploratory pattern best matches the SEARCH example, where attention focuses around the central results area of a search page.",
+  "correct": false
+}

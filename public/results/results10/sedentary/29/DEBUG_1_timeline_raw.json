@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Both X and Y traces stay in a narrow central band with small, slow shifts and almost no large saccades or vertical scanning, closely matching the stable, focused gaze pattern seen in the INTERPRET example, where participants quietly inspect a short code snippet without much navigation or line-by-line reading.",
+  "correct": false
+}

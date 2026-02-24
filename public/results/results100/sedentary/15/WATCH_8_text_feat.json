@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows rapid, large-amplitude saccades across wide screen regions (including corners and off-center areas), frequent revisits to dynamic mid-screen zones, and many vertical/horizontal sweeps typical of tracking moving game elements, rather than the more line-structured, row-wise patterns of reading/searching or the code-focused clustering of programming tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are mostly along the upper part of the screen with some vertical exploration below, resembling attention to a search bar and top results list rather than dense central reading or code-focused clusters seen in WRITE/DEBUG/INTERPRET, and lacking the broad spread typical of BROWSE or WATCH.",
+  "correct": false
+}

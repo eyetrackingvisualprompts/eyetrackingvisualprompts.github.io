@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in a compact region slightly right of center around mid\u2013upper screen, matching the localized yet somewhat spread pattern of the SEARCH example, unlike the broader horizontal sweeps of READ/BROWSE or the top-edge focus of WATCH/WRITE.",
+  "correct": false
+}

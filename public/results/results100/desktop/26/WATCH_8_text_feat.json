@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (both horizontally and vertically), with long fixations clustered near screen edges and corners, and repeated revisits to dispersed locations match the dynamic, multi-directional gaze patterns typical of gameplay rather than the more structured or centrally focused patterns of reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

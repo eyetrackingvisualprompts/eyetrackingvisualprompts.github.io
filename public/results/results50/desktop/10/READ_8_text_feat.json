@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long fixations around central content regions interleaved with large, rapid saccades to widely separated vertical locations (top, middle, bottom of page) and back, including jumps between text-like mid-screen areas and higher/bottom clusters, match the exploratory, scanning pattern of search-engine result pages more than the more line-structured READ or the localized WRITE patterns.",
+  "correct": false
+}

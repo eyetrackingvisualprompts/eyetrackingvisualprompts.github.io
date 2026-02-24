@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated slightly above the screen center with a compact cluster and moderate vertical spread, closely matching the SEARCH example heatmap (gaze around the search bar and results), and differing from the more central BROWSE cluster or horizontally elongated READ pattern.",
+  "correct": true
+}

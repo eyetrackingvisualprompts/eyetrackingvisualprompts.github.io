@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations show medium horizontal spread with gradual rightward drift and repeated revisits, while vertical gaze moves up and down through a limited band\u2014matching the scrolling and line-to-line re-reading typical of debugging rather than the more linear READ pattern or the wider, more varied BROWSE/SEARCH behaviors.",
+  "correct": false
+}

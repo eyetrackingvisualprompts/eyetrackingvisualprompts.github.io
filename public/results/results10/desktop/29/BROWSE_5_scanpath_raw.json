@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is confined to a central vertical region with frequent short saccades and revisits, resembling attention shifts between search box, result snippets, and page elements typical of web search behavior rather than the more linear READ pattern or localized WRITE/WATCH patterns.",
+  "correct": false
+}

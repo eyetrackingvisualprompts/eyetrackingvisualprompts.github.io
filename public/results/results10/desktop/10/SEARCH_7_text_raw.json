@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around a central region with small horizontal and vertical shifts, repeated short fixations, and occasional slight jumps\u2014closely matching the BROWSE example\u2019s dense cluster near mid-screen with modest scanning, unlike the stronger vertical sweeps seen in READ or the larger eccentric excursions in PLAY and SEARCH.",
+  "correct": false
+}

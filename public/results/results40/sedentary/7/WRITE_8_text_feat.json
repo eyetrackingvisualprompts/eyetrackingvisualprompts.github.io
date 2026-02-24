@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly localized fixations in a compact code-like region with frequent short saccades up/down and small horizontal moves, interspersed with occasional longer jumps to other code areas, matches the intensive line-by-line inspection and revisiting typical of debugging rather than the more uniform line sweeps of reading or the broader exploratory movements of browsing/searching.",
+  "correct": false
+}

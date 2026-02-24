@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades spanning almost the full vertical and substantial horizontal extent (e.g., jumps between near-top, mid, and near-bottom regions, plus corner-to-corner shifts), with shorter fixations and rapid repositioning. This wide-range, multidirectional scanning matches the dynamic, all-direction visual demands observed in the PLAY examples (especially Agario-like behavior) more than the more line- or region-constrained patterns of READ/WRITE or the relatively more clustered patterns of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a relatively small left\u2011central region, with frequent short saccades and revisits, and occasional vertical movements\u2014typical of focusing on and editing code in an IDE rather than continuous horizontal reading or wide exploration found in READ, BROWSE, SEARCH, or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Dense, systematic horizontal scanlines within a narrow vertical column indicate line-by-line reading of static text, closely matching the READ example pattern and unlike the more scattered or wide-ranging patterns of other tasks.",
+  "correct": true
+}

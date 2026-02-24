@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact area on the left (code region) with occasional long downward excursions, matching the exploratory and verification patterns seen in the DEBUG example rather than the more static INTERPRET or WRITE patterns.",
+  "correct": false
+}

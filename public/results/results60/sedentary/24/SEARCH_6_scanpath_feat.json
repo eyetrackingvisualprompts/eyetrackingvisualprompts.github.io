@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between clustered reading region in the middle/bottom and dispersed points near the top and left, resembling movement between a search results list and individual result pages, which matches the SEARCH scanpath pattern more than the others.",
+  "correct": true
+}

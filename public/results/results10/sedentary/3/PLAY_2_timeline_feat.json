@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderately dynamic horizontal movement with several vertical shifts to different code regions, similar to the DEBUG example where users alternate between scanning code and checking outputs, rather than the more uniform patterns of reading or interpreting single snippets.",
+  "correct": false
+}

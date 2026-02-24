@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are widely distributed across the screen with multiple clusters at different horizontal and vertical positions, indicating continuous gaze shifts to various on-screen elements typical of game playing rather than the more centrally focused or band-like patterns seen in reading, writing, searching, browsing, or watching tasks.",
+  "correct": false
+}

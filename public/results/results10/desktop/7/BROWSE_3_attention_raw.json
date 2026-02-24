@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across a mid-screen band with several nearby clusters and some vertical movement, resembling dispersed exploration of a webpage; this pattern best matches the BROWSE example compared to the more linear READ pattern or the tighter, localized clusters of WRITE/PLAY.",
+  "correct": true
+}

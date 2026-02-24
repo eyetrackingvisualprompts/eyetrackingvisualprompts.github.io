@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, sweeping saccades covering most of the screen both horizontally and vertically with irregular, task-driven trajectories rather than line-based (reading) or strictly horizontal (horizontal saccades) patterns. This broad, scattered coverage with repeated returns to different regions best matches the active, search-and-fixate behavior of the Balura Game.",
+  "correct": false
+}

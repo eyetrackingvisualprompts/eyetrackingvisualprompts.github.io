@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around screen center with many short saccades and medium fixations, including frequent small vertical moves and occasional jumps to lower text/element regions, resembling scanning mixed text and interface elements during web browsing more than the more line-structured horizontal patterns in READ or the broader, more dispersed movements in WATCH/PLAY.",
+  "correct": false
+}

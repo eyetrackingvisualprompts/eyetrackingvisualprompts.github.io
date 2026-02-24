@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large vertical shifts with varied horizontal positions and irregular fixation patterns, closely matching the example SEARCH plot where users scan result lists and different page regions rather than line-by-line reading or focused coding/debugging behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Very long, large-amplitude saccades between top and lower screen regions with short fixations, including extended upward jumps similar to moving between search box, results, and lower content, best match the exploratory, vertical-scanning behavior seen in SEARCH, rather than the more line-structured (READ), code-focused (WRITE/DEBUG/INTERPRET), or media-focused (WATCH/PLAY) patterns.",
+  "correct": false
+}

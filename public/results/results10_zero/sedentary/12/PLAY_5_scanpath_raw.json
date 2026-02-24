@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows large, smooth, diagonally sweeping saccades across a broad central area rather than line-by-line horizontal movements or localized fixations. This wide, continuous scanning pattern is most consistent with following dynamic visual content in a video (WATCH) rather than reading, coding, searching, or gaming, which typically produce more clustered or structured scanpaths.",
+  "correct": false
+}

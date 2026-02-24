@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow vertical band with many medium-to-long fixations and small horizontal shifts, matching line-based text reading more than the broader exploratory shifts of BROWSE/SEARCH or the wider, rapid movements typical of WATCH/PLAY/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze exhibits large, multidirectional saccades across wide vertical and horizontal regions, with relatively short fixations and several long transitions between dispersed points\u2014patterns typical of passively tracking dynamic visual content in videos rather than structured line-by-line movements (READ/WRITE) or focused central exploration (SEARCH/BROWSE/PLAY).",
+  "correct": false
+}

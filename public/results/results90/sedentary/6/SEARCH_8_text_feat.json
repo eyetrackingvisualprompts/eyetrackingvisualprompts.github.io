@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Horizontal scanpaths across a results-like band around y\u2248250\u2013350 with repeated left-right sweeps, intermittent jumps to top UI regions and lower scroll areas, plus occasional large excursions to screen corners match the mixed reading-and-navigation behavior seen in the SEARCH examples more than the more locally constrained code or prose reading patterns of WRITE/READ/DEBUG/INTERPRET or the more dynamic, spread-out gaze of WATCH/PLAY/BROWSE.",
+  "correct": true
+}

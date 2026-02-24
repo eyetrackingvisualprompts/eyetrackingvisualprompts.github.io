@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains mostly around a central horizontal band with relatively smooth, prolonged fixations and only a few larger saccades, indicating following on-screen content rather than systematic line-by-line reading or code inspection. This pattern aligns best with passively watching a video rather than interactive or text-heavy tasks like READ, WRITE, DEBUG, or SEARCH.",
+  "correct": false
+}

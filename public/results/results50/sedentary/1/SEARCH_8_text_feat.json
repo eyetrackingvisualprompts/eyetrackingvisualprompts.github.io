@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between widely separated vertical regions (top results, address bar/other UI, lower page) and horizontal scanning across mid-page lines resemble the heterogeneous, multi-region exploration seen in the SEARCH examples more than the denser line-by-line patterns of READ or the more localized code/IDE regions of INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

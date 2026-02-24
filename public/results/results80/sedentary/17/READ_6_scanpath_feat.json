@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze forms several horizontal bands at two main vertical levels with extended left-to-right sweeps and occasional vertical moves, closely matching the scanpath structure of the BROWSE example rather than the denser, more stationary code-focused patterns of INTERPRET/DEBUG/WRITE or the tight line-by-line READ behavior.",
+  "correct": false
+}

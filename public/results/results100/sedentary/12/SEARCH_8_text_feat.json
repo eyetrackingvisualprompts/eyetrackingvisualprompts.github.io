@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and horizontal jumps between widely separated screen regions (including off-screen coordinates), with repeated returns to top-like areas, scanning along horizontal bands, and irregular revisit patterns match exploratory web navigation rather than structured code (WRITE/DEBUG/INTERPRET) or continuous scene tracking (WATCH/PLAY). The gaze behavior and transitions closely resemble the provided BROWSE examples.",
+  "correct": false
+}

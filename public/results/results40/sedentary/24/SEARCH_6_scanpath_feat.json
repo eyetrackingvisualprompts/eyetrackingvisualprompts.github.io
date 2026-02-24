@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread horizontally across the upper-middle part of the screen with several distinct clusters and transitions between them, resembling scanning result snippets and moving between results, which matches the SEARCH pattern more than the more localized coding or reading tasks or the more global WATCH/PLAY/BROWSE patterns.",
+  "correct": true
+}

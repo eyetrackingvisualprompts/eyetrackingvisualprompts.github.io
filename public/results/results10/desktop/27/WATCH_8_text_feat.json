@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with frequent multidirectional saccades across a mid-screen region, including several larger vertical and horizontal shifts, consistent with scanning mixed text/graphics as in web browsing rather than the more line-structured horizontal patterns of reading or the more constrained, localized movements seen in writing or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-wide horizontal and vertical exploration with frequent saccades and shifting fixation bands across both axes, resembling the mixed scanning of SERP and result pages, and matching the SEARCH example pattern more closely than the more localized WATCH/PLAY or highly dense BROWSE behavior.",
+  "correct": false
+}

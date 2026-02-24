@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-to-large, irregular movements in both X and Y with frequent saccades and no repetitive horizontal scanning pattern typical of reading or coding. This heterogeneous, exploratory pattern best matches the browsing example rather than the more structured patterns of READ/WRITE/DEBUG or the highly dynamic PLAY/WATCH tasks.",
+  "correct": false
+}

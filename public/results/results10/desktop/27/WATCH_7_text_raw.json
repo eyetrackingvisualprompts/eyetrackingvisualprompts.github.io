@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster in mid-lower screen with frequent short horizontal and vertical shifts, intermittent larger jumps, and repeated re-fixations around similar x,y bands\u2014closely matching the example BROWSE pattern of scanning mixed web page content rather than the more line-structured READ data or the more central, stable WRITE data. The dynamics and spatial distribution align best with browsing behavior.",
+  "correct": false
+}

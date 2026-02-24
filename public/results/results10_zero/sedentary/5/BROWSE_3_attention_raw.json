@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows two horizontal bands of concentrated fixations in the upper-middle region, consistent with reading a few lines of text rather than scanning an entire page, tracking moving objects, or focusing on code areas in an IDE.",
+  "correct": false
+}

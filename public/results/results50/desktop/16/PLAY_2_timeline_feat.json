@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement around mid-screen with frequent vertical shifts and scattered saccades across a broad vertical range, resembling mixed reading and interface navigation behavior seen in the SEARCH example more than the steadier patterns of READ or the more centered, stable patterns of BROWSE/WATCH.",
+  "correct": false
+}

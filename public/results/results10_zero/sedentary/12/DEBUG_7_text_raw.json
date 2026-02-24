@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze coordinates show large, rapid shifts across wide screen areas (both horizontally and vertically), including sudden jumps to screen edges and corners, consistent with tracking moving game elements and navigating the playfield, rather than the more constrained, line- or paragraph-based patterns typical of reading, coding, or web browsing, or the smoother central focus of video watching.",
+  "correct": false
+}

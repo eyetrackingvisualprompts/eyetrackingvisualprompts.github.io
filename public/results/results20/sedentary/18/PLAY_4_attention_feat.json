@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a horizontal band across part of the screen with a strong cluster left-of-center and some scattered points, resembling focused attention on a single code editor region with occasional glances elsewhere, which matches the WRITE example heatmap more closely than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps to scattered positions across both horizontal and vertical extents of the display, with dwell periods at each location and no systematic left-to-right reading pattern or purely horizontal motion, consistent with following a randomly moving target rather than fixating centrally or watching video/game content.",
+  "correct": true
+}

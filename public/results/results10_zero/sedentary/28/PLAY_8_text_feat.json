@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long, repeated fixations within a compact region around mid-upper screen coordinates, with small corrective saccades and minimal horizontal scanning, are characteristic of carefully inspecting a short, static block of code to reason about its behavior, aligning best with the INTERPRET task rather than the broader navigation or continuous-motion patterns of other activities.",
+  "correct": false
+}

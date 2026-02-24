@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show medium-range, frequent multidirectional saccades with both x and y clustered near screen center and no strong linear horizontal scan pattern, matching the example BROWSE pattern more than the more structured READ/WRITE or dynamic WATCH/PLAY traces.",
+  "correct": true
+}

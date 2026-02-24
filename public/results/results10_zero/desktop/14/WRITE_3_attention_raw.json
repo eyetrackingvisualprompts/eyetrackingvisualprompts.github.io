@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are highly concentrated in a small region slightly below screen center, indicating the participant is continuously fixating on one area without the horizontal scanning or dispersed exploration typical of reading, writing, searching, browsing, or playing; this stable central fixation pattern best matches watching a video where main content is located in a fixed area of the screen.",
+  "correct": false
+}

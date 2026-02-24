@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows many large, rapid shifts across wide vertical and horizontal extents (e.g., from near top to bottom and back), interleaved with shorter local fixations. This pattern of frequent long saccades to disparate screen regions with brief dwelling, rather than stable line-based scanning or concentrated central clusters, aligns best with dynamic game play behavior seen in the PLAY examples.",
+  "correct": true
+}

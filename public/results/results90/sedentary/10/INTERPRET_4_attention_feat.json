@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a very tight cluster of fixations over a small left-side code region with almost no spread elsewhere, closely matching the INTERPRET example where participants focus intensely on a short function snippet to reason about its output, unlike DEBUG/WRITE which show more dispersed code-and-output viewing.",
+  "correct": true
+}

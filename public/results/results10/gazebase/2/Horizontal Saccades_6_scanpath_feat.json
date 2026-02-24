@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates between two horizontally separated clusters at nearly constant vertical position, matching the pattern of following a target moving horizontally across the screen.",
+  "correct": true
+}

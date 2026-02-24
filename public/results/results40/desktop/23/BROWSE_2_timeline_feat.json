@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "X fixation stays near the screen center with small horizontal shifts and relatively regular, bounded saccades, while Y fixation is higher and slowly drifts downward then up, matching the stable, line-by-line scanning pattern typical of reading rather than the larger, more erratic movements seen in browsing, search, or gameplay.",
+  "correct": false
+}

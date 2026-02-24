@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers a wide horizontal area with frequent transitions between upper and mid screen regions, resembling scanning result lists and snippets, matching the SEARCH example more than the other tasks.",
+  "correct": false
+}

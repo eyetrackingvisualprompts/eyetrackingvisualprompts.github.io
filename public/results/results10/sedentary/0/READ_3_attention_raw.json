@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a narrow horizontal band with sequential left-to-right movements at a consistent vertical level, matching the line-by-line reading pattern seen in the READ examples and unlike the more scattered or multi-region patterns of coding, browsing, or games.",
+  "correct": true
+}

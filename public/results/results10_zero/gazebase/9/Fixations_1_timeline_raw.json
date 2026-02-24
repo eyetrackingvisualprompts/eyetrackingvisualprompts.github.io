@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze is essentially stable around the center with only brief, isolated spikes likely due to blinks or artifacts; there are no systematic horizontal sweeps, random multi-directional steps, or reading-like scan patterns, which is most consistent with a central fixation task.",
+  "correct": true
+}

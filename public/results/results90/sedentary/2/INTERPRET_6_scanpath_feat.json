@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in a narrow left-side region (typical code editor area) with occasional long saccades to the right/bottom, matching the WRITE example pattern of focusing on code while intermittently checking other UI elements or output, unlike the broader dispersal seen in PLAY/BROWSE/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with short to medium durations and frequent small vertical and horizontal shifts, plus occasional larger jumps between mid and slightly higher regions\u2014closely resembling the mixed scanning of titles, snippets, and mid-page content seen in the BROWSE example, rather than the tight horizontal bands of READ or the very top-heavy SEARCH behavior.",
+  "correct": false
+}

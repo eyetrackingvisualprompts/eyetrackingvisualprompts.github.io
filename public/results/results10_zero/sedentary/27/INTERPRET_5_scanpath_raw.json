@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small central-left region with continuous small movements and no systematic horizontal or vertical progression typical of reading or code-related tasks; this stable localized viewing pattern matches sustained attention to a single moving scene region as in watching a video rather than scanning text, search results, or interactive game elements spread across the screen.",
+  "correct": false
+}

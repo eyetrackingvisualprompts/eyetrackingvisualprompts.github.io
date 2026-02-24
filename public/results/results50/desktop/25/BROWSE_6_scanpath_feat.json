@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely scattered across both horizontal and vertical dimensions with many medium-length saccades and no strong linear reading pattern, closely matching the exploratory, multi-region scanpath seen in the BROWSE example rather than the more structured patterns of READ, WRITE, or PLAY.",
+  "correct": true
+}

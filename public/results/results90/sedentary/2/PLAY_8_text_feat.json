@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Very long saccades across wide screen regions, sparse task-directed structure, and many prolonged fixations (often >1s) with extended periods of relative stability resemble passive scene following rather than systematic reading, code navigation, or goal-directed search, which matches the WATCH (video viewing) pattern best.",
+  "correct": false
+}

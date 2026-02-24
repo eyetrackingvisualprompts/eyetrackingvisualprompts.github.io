@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like region with frequent short-range regressions and revisits between nearby lines (y\u2248450\u2013560), plus occasional larger jumps to header/other code areas, matching detailed reasoning over a snippet rather than broad navigation (SEARCH/BROWSE) or long horizontal text lines (READ). This localized, iterative scan pattern is most consistent with mentally simulating code to predict its output (INTERPRET).",
+  "correct": true
+}

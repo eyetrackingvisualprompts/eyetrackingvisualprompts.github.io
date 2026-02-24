@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense, repeated fixations oscillating between a narrow code region (x\u2248270\u2013330,y\u2248320\u2013420) and nearby output/auxiliary areas (y\u2248500\u2013630), with long dwell times and small regressions, match the interpret-code pattern rather than the more linear scanning of READ/BROWSE or the broader exploratory movements of DEBUG/SEARCH/PLAY.",
+  "correct": true
+}

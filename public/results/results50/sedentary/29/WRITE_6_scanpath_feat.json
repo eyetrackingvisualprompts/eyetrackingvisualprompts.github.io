@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze covers almost the entire screen with long saccades between distant regions and multiple vertical traversals, indicating navigation across different webpage areas, which matches the heterogeneous, wide-spread scanpath typical of free web browsing rather than the more localized patterns of code tasks or reading.",
+  "correct": false
+}

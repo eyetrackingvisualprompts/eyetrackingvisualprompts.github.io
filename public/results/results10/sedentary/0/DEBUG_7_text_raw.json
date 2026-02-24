@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a narrow central region with many short, repetitive fixations and small regressions, resembling focused inspection of a compact code snippet rather than long horizontal text scans (READ) or broader exploratory navigation (BROWSE/SEARCH). The pattern closely matches the INTERPRET examples where participants examine a small code block to reason about its output.",
+  "correct": false
+}

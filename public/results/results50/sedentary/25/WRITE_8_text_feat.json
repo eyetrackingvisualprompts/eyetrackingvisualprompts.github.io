@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered around a narrow vertical band with frequent short saccades between nearby lines/regions, plus repeated up\u2013down movements between a main code area and slightly higher/lower lines\u2014matching the localized, iterative inspection and editing pattern seen in the WRITE examples, rather than the more horizontally sweeping patterns of READ/SEARCH or the broader, more dispersed movements in PLAY/BROWSE/WATCH.",
+  "correct": true
+}

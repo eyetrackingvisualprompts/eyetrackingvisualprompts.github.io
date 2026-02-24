@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show small-amplitude, relatively stable horizontal movements with limited vertical shifts and no large, rapid multidirectional saccades; this pattern matches line-by-line reading rather than dynamic tasks like playing games, searching, browsing, or watching videos.",
+  "correct": false
+}

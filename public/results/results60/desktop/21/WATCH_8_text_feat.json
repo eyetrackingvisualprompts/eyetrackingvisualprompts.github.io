@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions, including rapid jumps between widely separated coordinates (e.g., (0.50,0.25)\u2194(0.75,0.31), (0.68,0.77)\u2192(0.49,0.41)), mixed with short fixations and some vertical excursions beyond typical text areas, match the dynamic, multidirectional gaze patterns seen in the PLAY examples rather than the more line- or region-bound patterns of READ/WRITE/BROWSE or the more localized clusters of WATCH/SEARCH.",
+  "correct": false
+}

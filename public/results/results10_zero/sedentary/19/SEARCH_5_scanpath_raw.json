@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly clustered in a small region with a few long, occasional saccades to distant areas, consistent with following salient events in a video rather than systematic line-by-line reading, code inspection, or interactive tasks like playing or typing.",
+  "correct": false
+}

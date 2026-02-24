@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a compact region with small, regular horizontal and slight vertical movements, indicating sustained attention to a localized text area rather than broader exploratory or dynamic viewing seen in search, browsing, watching, playing, or writing tasks.",
+  "correct": false
+}

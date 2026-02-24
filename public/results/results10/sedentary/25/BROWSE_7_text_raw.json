@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide spatial coverage with frequent large saccades between distant regions (including off-screen/negative coordinates) and brief local fixations resembles navigating SERP/results pages and address bar, matching the heterogeneous, jumpy patterns seen in the SEARCH examples more than the more structured or screen-localized patterns of READ, DEBUG, WRITE, or PLAY.",
+  "correct": false
+}

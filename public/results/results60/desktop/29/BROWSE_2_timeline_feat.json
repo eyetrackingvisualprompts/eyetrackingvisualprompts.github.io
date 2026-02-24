@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen horizontal fixations with frequent larger vertical shifts and scattered saccades, indicating repeated transitions between results, query box, and different areas of a search page, which best matches the SEARCH pattern compared with the more stable READ/WRITE plots or the more dynamic PLAY/WATCH plots.",
+  "correct": false
+}

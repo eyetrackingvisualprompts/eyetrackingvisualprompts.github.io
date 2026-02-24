@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact vertical band around the screen center, similar to the example BROWSE pattern where attention focuses on a narrow central region typical of reading headlines or article snippets on a webpage rather than the wider horizontal spread seen in READ or WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large gaze excursions across wide screen areas, frequent shifts between distant regions, and substantial movement in lower and outer screen zones match dynamic, target-following behavior typical of gameplay rather than the more localized, line- or block-based scan patterns of reading, coding, or web search.",
+  "correct": false
+}

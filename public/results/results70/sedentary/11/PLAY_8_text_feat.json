@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps across wide screen regions (including to screen edges and off-center areas), mixed with shorter local explorations and revisits, match the heterogeneous, scanning-and-scrolling behavior characteristic of web browsing rather than the more structured patterns of reading, coding, or stable watching.",
+  "correct": false
+}

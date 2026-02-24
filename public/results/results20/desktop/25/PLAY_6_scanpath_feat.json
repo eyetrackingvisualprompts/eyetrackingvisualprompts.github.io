@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a compact central region with moderate vertical spread and irregular, non-linear transitions, resembling the exploratory yet locally focused pattern seen in the BROWSE example more than the structured horizontal pattern of READ or the wider, more dispersed movements of SEARCH or WATCH.",
+  "correct": false
+}

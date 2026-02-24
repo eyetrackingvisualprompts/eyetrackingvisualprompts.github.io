@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The gaze heatmap shows a cluster of fixations arranged in a compact, slightly rightward-elongated horizontal pattern in the upper-middle of the screen, consistent with line-by-line reading behavior rather than large-amplitude back-and-forth movements (horizontal saccades), scattered screen-wide movements (random saccades or video viewing), single-point concentration (fixations), or multiple dispersed moving targets (Balura Game).",
+  "correct": false
+}

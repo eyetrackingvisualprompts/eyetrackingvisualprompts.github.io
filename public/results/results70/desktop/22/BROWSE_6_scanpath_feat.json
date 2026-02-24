@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around the central area with frequent medium-range saccades and varied fixation locations, resembling the exploration and result-scanning pattern seen in the SEARCH example more than the tighter central cluster of BROWSE or the linear patterns of READ/WRITE.",
+  "correct": false
+}

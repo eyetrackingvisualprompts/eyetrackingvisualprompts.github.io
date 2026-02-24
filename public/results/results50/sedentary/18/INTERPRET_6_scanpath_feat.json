@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a left-central code area with frequent vertical shifts and occasional long excursions to the right/bottom (likely to run or inspect output), matching the WRITE pattern more than the denser, more localized DEBUG behavior or broader SEARCH/BROWSE patterns.",
+  "correct": false
+}

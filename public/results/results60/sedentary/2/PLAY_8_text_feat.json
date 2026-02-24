@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a relatively narrow horizontal band with many small left-right saccades and long, stable fixations around similar y-levels, indicative of line-by-line text scanning rather than wide exploratory movements or object tracking typical of PLAY, WATCH, SEARCH, or BROWSE. The pattern best matches sustained reading behavior.",
+  "correct": false
+}

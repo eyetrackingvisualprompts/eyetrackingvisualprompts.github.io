@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed horizontal scanning with frequent medium saccades and several shifts in vertical position, resembling moving between search results and linked pages. This pattern matches the SEARCH example more closely than the more linear READ pattern or code-focused tasks.",
+  "correct": false
+}

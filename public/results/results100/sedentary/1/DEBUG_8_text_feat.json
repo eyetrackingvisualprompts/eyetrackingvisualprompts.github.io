@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, localized fixations and short saccades around a narrow vertical band (x\u224850\u2013250, y\u2248400\u2013600) with repeated revisits and minor horizontal shifts resemble focused code editing on a single function, matching WRITE more than the broader scanning or large scene shifts typical of BROWSE, SEARCH, or WATCH.",
+  "correct": false
+}

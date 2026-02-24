@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude vertical and horizontal saccades across nearly the whole screen (e.g., jumps between y\u22480.05 and y>1.0, and wide x-shifts), with relatively short, variable fixations. This pattern of rapid, multi-directional scanning and repeated returns toward central/mid vertical regions matches the PLAY examples (especially Agario-like gameplay) more than the more line-structured, band-limited patterns seen in READ/WRITE or the less extreme, more region-focused movements in BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

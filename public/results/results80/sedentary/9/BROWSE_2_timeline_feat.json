@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal movements around mid-screen with occasional larger saccades and variable vertical shifts, indicating scanning across different areas (e.g., results list, snippets, and new pages). This mixed exploration pattern aligns best with search engine use rather than the more structured reading or the more chaotic watching/playing patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The X fixations show repeated horizontal sweeps with return saccades, while Y fixations gradually drift downward with occasional jumps, closely matching the scrolling and line-by-line reading pattern seen in the BROWSE example rather than the more regular progression of pure READ or the more dispersed patterns of other tasks.",
+  "correct": false
+}

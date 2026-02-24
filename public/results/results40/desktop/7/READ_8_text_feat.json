@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region slightly above screen center with many short microsaccades and long, stable fixations, matching looking at and around a text cursor while typing, and unlike the broader vertical scanning of read/browse/search or the large multi-directional shifts of play/watch.",
+  "correct": false
+}

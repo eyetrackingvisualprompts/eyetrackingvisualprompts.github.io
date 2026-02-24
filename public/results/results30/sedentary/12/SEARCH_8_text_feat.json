@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal scanning across wide x-range with frequent large jumps to top and different vertical regions, including off-center/top banner-like areas, suggests skimming and navigating web pages rather than structured code (WRITE/DEBUG/INTERPRET) or continuous media (WATCH/PLAY); the pattern best matches free web browsing behavior.",
+  "correct": false
+}

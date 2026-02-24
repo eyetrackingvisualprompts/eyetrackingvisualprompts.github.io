@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show repeated, structured horizontal movements with small regressions and vertical shifts\u2014typical of line-by-line reading behavior on a fixed text block\u2014rather than the larger, more erratic spatial jumps expected in browsing, searching, or playing games.",
+  "correct": false
+}

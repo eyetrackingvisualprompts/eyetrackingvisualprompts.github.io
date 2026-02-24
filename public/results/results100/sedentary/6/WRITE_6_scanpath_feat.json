@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on a left-central vertical region resembling a search results list, with occasional long saccades to the right side consistent with opening or inspecting result pages; this pattern best matches the SEARCH example scanpath compared to other activities.",
+  "correct": false
+}

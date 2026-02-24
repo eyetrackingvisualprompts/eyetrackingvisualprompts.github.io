@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows several horizontally aligned clusters around mid-screen with repeated back-and-forth transitions between them, suggesting scanning multiple result snippets or sections on a search results page rather than the tight single-block focus of INTERPRET/READ or the dispersed motion of PLAY/BROWSE/DEBUG.",
+  "correct": false
+}

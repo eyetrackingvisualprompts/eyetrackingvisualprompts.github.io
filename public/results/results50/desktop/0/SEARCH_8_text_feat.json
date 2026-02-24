@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-screen text-like regions and varied vertical positions with medium-length fixations and frequent navigational saccades, showing more exploratory, multi-region behavior than the steady line-by-line horizontal patterns of READ and lacking the tight upper-area clustering of WRITE or the extreme, sustained eccentric positions typical of WATCH and PLAY. This mixed, exploratory pattern best matches BROWSE.",
+  "correct": false
+}

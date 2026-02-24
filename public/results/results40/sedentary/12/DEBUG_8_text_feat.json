@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small left\u2011side region typical of code/text in an IDE, with many medium-length fixations and frequent local regressions between a few vertical bands (around y\u2248180\u2013580), plus occasional jumps to slightly higher/lower areas, matching careful line\u2011by\u2011line code manipulation seen in WRITE more than the broader vertical sweeps of DEBUG or SEARCH, or the horizontal patterns of READ/BROWSE.",
+  "correct": false
+}

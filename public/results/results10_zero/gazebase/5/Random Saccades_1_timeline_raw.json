@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show large step-like jumps in both horizontal and vertical directions with roughly 1-second plateaus between movements, consistent with following a target that jumps to random 2\u201315\u00b0 positions across the screen rather than purely horizontal motion, stable fixation, or reading-style small horizontal saccades.",
+  "correct": true
+}

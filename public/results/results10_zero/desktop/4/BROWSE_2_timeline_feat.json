@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is relatively central with moderate, smooth horizontal and vertical shifts and few large excursions, indicating following on-screen dynamic content rather than systematic line-by-line reading or frequent UI navigation typical of browsing, searching, or writing; this pattern best matches watching a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains around a mid-screen horizontal band with many medium-to-long fixations and short local saccades, occasionally punctuated by larger jumps to other horizontal positions\u2014matching web page scanning patterns in the BROWSE examples more than the tighter, code-line\u2013bounded patterns of WRITE/DEBUG/INTERPRET or the highly dynamic shifts of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions jump between widely separated locations in both horizontal and vertical directions, with no clear row-wise structure (reading) or central clustering (fixation). The pattern reflects discrete, large-amplitude, multi-directional saccades consistent with following a randomly moving target across the screen.",
+  "correct": false
+}

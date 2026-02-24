@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "X fixation is around the horizontal center with slow drift, while Y fixation stays mainly in the upper-middle region and occasionally shifts downward and back up, consistent with moving between search box, result list, and occasional scrolling\u2014matching the SEARCH example pattern more than the other activities.",
+  "correct": false
+}

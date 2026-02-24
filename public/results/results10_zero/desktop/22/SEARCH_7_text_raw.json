@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show long, stable horizontal fixations with occasional vertical transitions between two main bands (around y\u22480.3\u20130.35, later around y\u22480.7), consistent with line-by-line reading and page/segment changes, rather than the more scattered, multi-directional patterns typical of browsing, searching, gaming, or writing interfaces.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between mid-upper, mid, and lower screen regions with several medium-to-long saccades (e.g., from ~0.65 vertically to 0.24, then back to mid and upper areas), and fixations of a few hundred milliseconds. This pattern resembles scanning different sections of a webpage (top navigation, middle content, lower/upper areas) more than the more line-structured READ, the stationary central focus of WATCH, the bottom-heavy WRITE pattern, or the localized PLAY gaze. It best matches the heterogeneous vertical navigation seen in the BROWSE example.",
+  "correct": false
+}

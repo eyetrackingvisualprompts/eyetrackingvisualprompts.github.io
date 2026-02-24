@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are scattered across both central and lower-right regions with multiple clusters, indicating exploratory viewing of different areas on a webpage, which best matches the browsing pattern rather than the more localized or linear patterns of other tasks.",
+  "correct": false
+}

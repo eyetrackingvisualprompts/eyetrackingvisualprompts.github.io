@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide screen regions (center to corners, mid to top/bottom) interleaved with varied fixation locations, indicative of tracking moving game elements in multiple directions rather than line-based reading, text editing, or scanning static web/search layouts; this multidirectional, dynamic pattern best matches the PLAY activity (e.g., Agario-type gameplay).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows irregular, large vertical saccades with frequent shifts between upper and lower screen regions and somewhat erratic fixation patterns, closely matching the example DEBUG plot where users alternate between code, errors, and execution output rather than the more structured horizontal or smoother patterns seen in reading, watching, or browsing.",
+  "correct": false
+}

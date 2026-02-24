@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mostly horizontal left-to-right sweeps with periodic returns and moderate vertical drift over time, resembling scanning down a webpage. The pattern closely matches the BROWSE example: regular saccades within a band of X positions and a slowly increasing Y fixation, unlike the more uniform lines of READ or the denser local movements of coding-related tasks.",
+  "correct": false
+}

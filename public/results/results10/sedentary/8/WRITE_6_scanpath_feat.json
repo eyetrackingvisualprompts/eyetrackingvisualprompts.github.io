@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze begins on an upper-left horizontal line typical of reading search results, then shifts downward and right to a few focused regions, consistent with scanning results and then inspecting selected content, matching the SEARCH example pattern more than other tasks.",
+  "correct": false
+}

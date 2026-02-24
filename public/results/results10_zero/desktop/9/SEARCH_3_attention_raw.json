@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows two main horizontal clusters around mid and lower vertical positions, consistent with fixations along lines of text and occasional line changes, typical of reading behavior rather than the broader, more dispersed scanning seen in browsing, searching, or playing games.",
+  "correct": false
+}

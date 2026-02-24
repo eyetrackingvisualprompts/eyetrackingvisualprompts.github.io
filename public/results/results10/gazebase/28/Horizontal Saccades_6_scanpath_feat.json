@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between two horizontally separated clusters at a nearly constant vertical position, matching large-amplitude horizontal back-and-forth saccades between two fixed targets.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations in a compact left-central region (code area) with occasional long saccades to the right (console/output or documentation within IDE), closely matching the DEBUG example scanpath and typical code-debugging gaze behavior rather than reading-only or free browsing patterns.",
+  "correct": true
+}

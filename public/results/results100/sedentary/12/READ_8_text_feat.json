@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Very long, smooth pursuit-like saccades and extended fixations with large idle intervals, mostly along similar vertical and horizontal bands, indicate tracking dynamic on-screen content rather than line-by-line reading or code inspection. The durations (some >20s between substantial shifts) and broad, slow drifts are most consistent with passively watching a video rather than active tasks like SEARCH, WRITE, DEBUG, or PLAY, which show more rapid, task-driven scanning patterns in the examples.",
+  "correct": false
+}

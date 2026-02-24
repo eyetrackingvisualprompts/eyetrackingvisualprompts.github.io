@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze positions are relatively concentrated with modest horizontal movement and gradual upward drift, punctuated by occasional clusters of saccades\u2014matching the focused, code-inspection and correction behavior seen in the DEBUG example more than the other tasks.",
+  "correct": false
+}

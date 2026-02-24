@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal band with small progressive movements and limited vertical shifts, characteristic of line-by-line reading on a static region of the screen, rather than the larger vertical/hierarchical movements typical of coding, browsing, or search, or the wide, dynamic sweeps seen in games or video watching.",
+  "correct": true
+}

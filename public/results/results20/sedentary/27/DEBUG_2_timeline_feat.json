@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate, continuous horizontal movements with small vertical shifts and relatively stable fixations, closely matching the DEBUG example pattern and differing from the more linear READ and more scattered PLAY/BROWSE/SEARCH trajectories.",
+  "correct": true
+}

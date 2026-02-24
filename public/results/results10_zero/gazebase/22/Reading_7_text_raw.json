@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, abrupt jumps to widely separated positions across both horizontal and vertical dimensions, followed by ~1-second clusters of small jitter around each location\u2014consistent with following a target that relocates to random positions and is then fixated, matching the Random Saccades task rather than smooth, repetitive, or centrally clustered patterns of the other classes.",
+  "correct": false
+}

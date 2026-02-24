@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze follows long, smooth, predominantly horizontal scanpaths at several nearby vertical levels (y\u2248200\u2013350, then 300\u2013380, then 440\u2013600), with short saccades and repeated left-to-right passes and small regressions. This pattern matches line-by-line text reading much more than the more scattered, object- or UI-focused patterns seen in SEARCH, BROWSE, or coding tasks.",
+  "correct": true
+}

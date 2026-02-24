@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements with short fixations along a line, then a vertical transition and another horizontal sweep at a slightly different vertical position, matching line-by-line reading behavior rather than the more scattered or object-following patterns of other tasks.",
+  "correct": false
+}

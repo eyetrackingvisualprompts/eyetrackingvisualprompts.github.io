@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades between top-left textual regions and scattered areas including extreme corners and off-content zones, with mixed horizontal and vertical scan paths and revisits, closely resembles exploratory web browsing patterns rather than the more line-structured scanpaths of READ or the focused code-centric patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

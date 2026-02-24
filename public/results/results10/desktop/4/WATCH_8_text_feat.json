@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between a mid-upper region (~0.25\u20130.27 vertical) and a mid-screen region (~0.42\u20130.51) with short fixations and frequent medium-amplitude vertical saccades, matching scanning between content blocks typical of web browsing rather than the more line-structured horizontal patterns of READ/WRITE or the larger, more scattered movements of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

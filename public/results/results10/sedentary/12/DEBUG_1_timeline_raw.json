@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows relatively stable horizontal scanning with modest vertical drift and a few brief vertical spikes, matching the focused, localized code inspection pattern seen in the DEBUG example more than the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between upper-left and mid/lower content regions with frequent medium-amplitude vertical and horizontal saccades, interspersed with moderate fixations across a wide vertical span. The pattern shows non-linear exploration and jumps between sections, matching web browsing behavior more than the structured line-by-line horizontal pattern of reading or the more central, less text-like distributions of watch/play/write.",
+  "correct": false
+}

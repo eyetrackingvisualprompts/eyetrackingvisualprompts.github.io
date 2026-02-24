@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are spread vertically across almost the full screen height with no clear horizontal line or concentrated code/text region, matching the distributed, dynamic viewing pattern typical of watching a video rather than reading, coding, or web search tasks.",
+  "correct": false
+}

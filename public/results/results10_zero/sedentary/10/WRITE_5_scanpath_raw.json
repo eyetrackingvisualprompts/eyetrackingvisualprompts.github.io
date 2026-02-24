@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a relatively small, left-centered region with horizontal sweeps and short vertical shifts, resembling line-by-line reading of a text block rather than wide exploratory movements or object tracking found in other activities.",
+  "correct": false
+}

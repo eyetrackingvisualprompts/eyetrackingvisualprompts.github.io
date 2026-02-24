@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete jumps to various positions across both horizontal (\u00b115\u00b0) and vertical (from about \u221220\u00b0 to +12\u00b0) axes, with each position roughly maintained before the next jump. This pattern of irregular, multi-directional saccades with brief holds matches the random target movements in the Random Saccades task rather than the strictly horizontal, centrally fixed, or reading/game-like patterns of the other classes.",
+  "correct": false
+}

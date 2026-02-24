@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay around the central-lower region with modest horizontal and vertical shifts, alternating short fixations and small saccades without strong line-structured horizontal sweeps (READ) or large, rapid directional jumps (PLAY). The pattern closely resembles the BROWSE example\u2019s mid-screen, locally exploratory movements typical of navigating webpages rather than focused reading, typing, or watching static video scenes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent, irregular saccades and fixations scattered over mid-screen regions without strong horizontal line patterns (reading/writing) or prolonged central focus (watching). This heterogeneous, continuously shifting pattern best matches browsing behavior across varied webpage layouts.",
+  "correct": false
+}

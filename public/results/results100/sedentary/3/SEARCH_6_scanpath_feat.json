@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows widespread horizontal and vertical movements across much of the screen, with frequent transitions between upper, middle, and lower regions\u2014consistent with scanning search results, snippets, and possibly opening result pages, matching the SEARCH pattern more than the other activities.",
+  "correct": true
+}

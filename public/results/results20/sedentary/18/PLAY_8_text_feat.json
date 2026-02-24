@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long fixations with smooth shifts between dispersed screen locations, including large jumps to far peripheral coordinates, consistent with following dynamic visual content in a video rather than structured reading, code inspection, or game object tracking tied to screen center or text blocks.",
+  "correct": false
+}

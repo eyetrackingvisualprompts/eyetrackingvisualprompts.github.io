@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points are scattered broadly across both horizontal and vertical extents of the screen without forming a horizontal band (reading/video) or a tight cluster (fixation). The distribution resembles the example Random Saccades heatmap, with multiple discrete hotspots at varied positions, consistent with following a randomly moving target.",
+  "correct": false
+}

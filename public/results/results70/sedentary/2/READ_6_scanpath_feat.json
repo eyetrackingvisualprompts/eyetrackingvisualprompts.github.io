@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form several mostly horizontal bands with systematic left-to-right progression and occasional downward saccades, characteristic of line-by-line reading rather than code-focused (WRITE/DEBUG/INTERPRET) or dispersed exploratory patterns (PLAY/SEARCH/BROWSE/WATCH).",
+  "correct": true
+}

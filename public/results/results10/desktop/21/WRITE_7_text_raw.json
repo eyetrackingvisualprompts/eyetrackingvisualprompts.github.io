@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a very stable, localized cluster with minimal movement, consistent with sustained fixation on a small region such as a text line or paragraph, which matches the low-variance, stationary patterns seen in the READ example more than the more dynamic patterns of SEARCH, BROWSE, PLAY, or WATCH, and lacks the vertical offset and cursor-area behavior typical of WRITE.",
+  "correct": false
+}

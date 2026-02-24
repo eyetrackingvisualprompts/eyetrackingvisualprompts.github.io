@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide horizontal extents, many shifts between mid-page and top/bottom regions, and transitions to off-center/high coordinates resemble scrolling and skimming behavior on long webpages more than the more localized, structured scanpaths seen in coding (INTERPRET/DEBUG/WRITE), reading, or video watching. The pattern closely matches the BROWSE examples with broad exploratory movements and varied fixation locations.",
+  "correct": false
+}

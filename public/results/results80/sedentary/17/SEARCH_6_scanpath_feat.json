@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers a broad horizontal band near the top and middle of the screen with many transitions between left and right clusters, resembling navigation between search box, result snippets, and occasional deeper clicks, matching the SEARCH pattern more than the more centralized code or reading layouts.",
+  "correct": true
+}

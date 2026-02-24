@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show relatively stable horizontal bands with gradual downward drift in Y and moderate saccades, resembling line-by-line scanning of text, which matches the reading pattern more than the broader vertical ranges of browse/search or the larger movements in play/watch/write.",
+  "correct": false
+}

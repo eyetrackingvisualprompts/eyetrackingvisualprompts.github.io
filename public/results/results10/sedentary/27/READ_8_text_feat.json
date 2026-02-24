@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows repeated long saccades between two spatially separated regions with relatively short fixations, and movements are not constrained to horizontal line-like patterns (reading/searching) nor localized around code-like areas (write/debug/interpret). This back-and-forth, object-following style pattern with large jumps is most consistent with visually tracking dynamic game elements in the PLAY condition, similar to the PLAY example\u2019s wide, rapid transitions across the screen.",
+  "correct": false
+}

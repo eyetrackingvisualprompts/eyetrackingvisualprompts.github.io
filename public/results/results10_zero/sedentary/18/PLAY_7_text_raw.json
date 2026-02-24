@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points progress mainly horizontally with relatively small vertical shifts, consistent with line-by-line viewing of text rather than large object tracking or scene shifts typical of PLAY or WATCH. The pattern shows clusters and short saccades along similar y-levels, matching reading behavior more than code manipulation or broad web navigation.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple discrete fixation clusters scattered across the screen in both horizontal and vertical directions without a strong central or linear structure, matching the random, widely distributed target locations characteristic of the Random Saccades task rather than the more patterned or localized distributions of the other activities.",
+  "correct": true
+}

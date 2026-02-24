@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts show large, irregular movements in both horizontal and vertical directions with ~200\u2013500 ms fixations at each location, matching a target that jumps to random screen positions and is held for about one second, rather than the predominantly horizontal, line-structured pattern of reading or the more localized patterns of fixation, game play, or video viewing.",
+  "correct": false
+}

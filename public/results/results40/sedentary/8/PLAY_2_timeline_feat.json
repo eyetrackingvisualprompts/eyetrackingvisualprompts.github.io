@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal scanning bands with mid-frequency saccades and shifts between mid and upper screen regions, resembling alternation between reading snippets and scanning result lists, which matches the SEARCH example more closely than the more stable text reading or highly dynamic game/video patterns.",
+  "correct": false
+}

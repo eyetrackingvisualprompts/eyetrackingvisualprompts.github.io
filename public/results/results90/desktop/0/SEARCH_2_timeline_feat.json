@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay near screen center with moderate, irregular fixations and saccades in both axes, lacking the strong horizontal line structure of reading or the larger directional shifts of playing or watching video, closely matching the browsing example pattern.",
+  "correct": false
+}

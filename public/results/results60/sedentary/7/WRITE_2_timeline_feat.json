@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows two distinct horizontal position bands with frequent medium-range saccades and shifts between them, resembling alternating looks between search results and a specific result page, which matches the SEARCH pattern more than the steadier code-focused tasks or more dynamic WATCH/PLAY patterns.",
+  "correct": false
+}

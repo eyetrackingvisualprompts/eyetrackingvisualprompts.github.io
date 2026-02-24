@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The heatmap shows a horizontally elongated cluster of fixations around the midline of the screen with relatively small vertical spread, consistent with left-to-right scanpaths across text lines rather than single-point fixation or large target jumps.",
+  "correct": true
+}

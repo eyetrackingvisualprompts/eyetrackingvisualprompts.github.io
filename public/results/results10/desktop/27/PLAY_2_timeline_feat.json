@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively stable horizontal X fixations around the mid-screen with gradual rightward progression and small vertical Y changes, matching typical line-by-line reading patterns and most closely resembling the READ example plot compared to the other activities.",
+  "correct": false
+}

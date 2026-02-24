@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze covers a wide vertical and horizontal region with large saccades between spatially distant areas and fewer structured line-like patterns, resembling free viewing of dynamic visual content rather than focused reading, coding, or web search, which matches the WATCH example most closely.",
+  "correct": false
+}

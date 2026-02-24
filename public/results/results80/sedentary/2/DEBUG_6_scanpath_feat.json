@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a narrow vertical code area with occasional longer saccades, matching focused inspection of a small code snippet as in the INTERPRET task rather than the broader spreads seen in DEBUG, WRITE, or BROWSE.",
+  "correct": false
+}

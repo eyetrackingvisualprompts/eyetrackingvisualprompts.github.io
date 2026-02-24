@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates repeatedly between the very top/just-off-screen region (code editor tabs/toolbar) and lower screen areas with long vertical saccades, including occasional large jumps to the bottom, matching coding/IDE use seen in WRITE and DEBUG; however, the strong concentration near the top edge and fewer mid-screen code-line style regressions align better with WRITE than with DEBUG\u2019s broader workspace scanning.",
+  "correct": false
+}

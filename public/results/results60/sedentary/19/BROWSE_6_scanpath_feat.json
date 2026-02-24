@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread horizontally across nearly the full screen with frequent vertical transitions and revisits, consistent with scanning search results, checking different sections, and moving between results and target pages rather than the more localized patterns of coding or reading text blocks.",
+  "correct": false
+}

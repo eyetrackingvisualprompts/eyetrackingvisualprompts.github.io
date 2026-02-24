@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Early segment shows strong vertical saccades and wider X variation like switching between code and other UI areas, followed by more stable horizontal fixations typical of focused code editing, matching the WRITE example pattern more than other tasks.",
+  "correct": false
+}

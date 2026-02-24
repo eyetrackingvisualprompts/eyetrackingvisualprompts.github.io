@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left side with vertical movements and occasional rightward saccades, resembling scanning search results and brief visits to result pages, which matches the SEARCH example patterns more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated in a compact region in the upper-left, similar to the INTERPRET example where gaze stays mostly on a single code snippet area with minimal exploration elsewhere, unlike the broader dispersion seen in PLAY, WATCH, BROWSE, or DEBUG.",
+  "correct": false
+}

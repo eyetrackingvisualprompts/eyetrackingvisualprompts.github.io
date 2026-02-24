@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The heatmap shows multiple discrete fixation clusters scattered across the screen with one dominant, repeatedly revisited central cluster\u2014consistent with repeatedly fixating specific moving targets (red balls) rather than systematic horizontal sweeps, static fixation, line-based reading, or unconstrained video viewing.",
+  "correct": false
+}

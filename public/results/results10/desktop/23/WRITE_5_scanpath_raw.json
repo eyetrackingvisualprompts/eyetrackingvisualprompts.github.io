@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is confined to a mid-screen region with frequent short saccades and small-area movements, resembling the PLAY example where attention is focused on a game character rather than the broader, more horizontally-structured patterns seen in READ/WRITE or the larger exploratory movements in BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

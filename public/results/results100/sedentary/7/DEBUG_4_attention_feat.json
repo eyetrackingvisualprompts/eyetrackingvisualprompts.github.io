@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows dense, repeated fixations over a compact code region on the upper-left, with some additional scattered fixations below\u2014matching the DEBUG pattern more closely than WRITE or INTERPRET, which have fewer vertical excursions and peripheral checks.",
+  "correct": true
+}

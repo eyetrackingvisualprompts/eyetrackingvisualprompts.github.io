@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent long-range saccades across the entire screen (and even off-screen coordinates), with scattered fixations at varied vertical levels and intermittent returns, indicate scanning multiple interface elements and pages rather than line-by-line text reading or code-focused work. This spatially wide, exploratory pattern matches the provided SEARCH examples more closely than the more structured horizontal patterns of READ/WRITE/DEBUG or the dynamic object-following of PLAY/WATCH.",
+  "correct": false
+}

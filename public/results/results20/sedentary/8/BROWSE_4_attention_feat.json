@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed across multiple vertical regions: left/mid areas resembling code or result items, plus a distinct cluster on the right side suggestive of attention to search results or a separate pane. The spread is broader and less centrally dynamic than PLAY, but more scattered than READ/BROWSE, matching typical search-engine scanning behavior.",
+  "correct": false
+}

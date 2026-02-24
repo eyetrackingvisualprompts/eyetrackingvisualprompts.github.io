@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations for both X and Y stay near the screen center with small-amplitude, irregular saccades and no strong vertical scanning pattern; this closely matches the example BROWSE pattern and differs from the more structured or extreme movements seen in READ, SEARCH, WATCH, WRITE, or PLAY.",
+  "correct": false
+}

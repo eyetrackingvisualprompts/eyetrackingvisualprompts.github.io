@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The X fixation shows repeated horizontal scanning with regular saccadic jumps, while Y fixation slowly drifts with a notable change around the middle\u2014closely matching the mixed scrolling and scanning pattern seen in the BROWSE example rather than the more structured lines of READ or the focused code views of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

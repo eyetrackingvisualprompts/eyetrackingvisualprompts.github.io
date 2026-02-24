@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster around a central code area but include large saccades to distant regions (likely console, error messages, or other parts of the code), similar to the DEBUG example pattern of alternating focused inspection with long jumps across the screen.",
+  "correct": true
+}

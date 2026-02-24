@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are scattered over a central region with medium spread in both horizontal and vertical directions, showing frequent shifts and revisits rather than stable horizontal bands (READ) or tight clustered typing area (WRITE). This exploration pattern best matches browsing behavior on varied webpage layouts.",
+  "correct": false
+}

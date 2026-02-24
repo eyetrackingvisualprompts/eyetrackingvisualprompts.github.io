@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between distant screen regions (top-left toolbar/address area, central/right content, and lower areas), with short fixations and revisits, resemble scanning web search results and page elements rather than orderly line-by-line reading or localized code work; the pattern is closest to the provided SEARCH examples.",
+  "correct": true
+}

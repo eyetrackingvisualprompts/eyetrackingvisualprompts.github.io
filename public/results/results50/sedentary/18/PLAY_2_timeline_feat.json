@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-range horizontal and vertical shifts with varied saccades, resembling mixed scanning of different webpage regions rather than the more linear READ/SEARCH patterns or concentrated WATCH/INTERPRET behaviors; this best matches the heterogeneous patterns in the BROWSE example.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates cluster over large contiguous regions with smooth, continuous movements and revisits, including many points in mid-screen and vertical ranges consistent with following dynamic content. The pattern lacks the structured line-like scanning of reading/writing/browsing code or text, and shows broader, more fluid tracking similar to the WATCH examples where viewers follow motion in a video rather than discrete textual elements or game objects.",
+  "correct": false
+}

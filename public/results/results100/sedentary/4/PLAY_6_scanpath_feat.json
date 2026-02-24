@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a few horizontal bands like reading lines, but with occasional long saccades to different regions, resembling scrolling and shifting attention across a webpage rather than the more stable, line-by-line pattern of pure reading.",
+  "correct": false
+}

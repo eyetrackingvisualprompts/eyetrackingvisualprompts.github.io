@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze alternates repeatedly between a small upper code-like region and a lower output/console-like area with many short saccades and revisits, matching the interpret/code-comprehension pattern rather than the more linear scans of READ/BROWSE or the broader spatial exploration in SEARCH/WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a horizontally extended band with multiple clusters and vertical transitions, similar to scanning mixed web content rather than the tighter line-by-line pattern of READ or the broader spread of WATCH, matching the BROWSE example most closely.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a small region near the upper-left area of the screen, consistent with focused reading on a localized text block rather than the broader, more dispersed gaze patterns typical of browsing, search, or gameplay.",
+  "correct": false
+}

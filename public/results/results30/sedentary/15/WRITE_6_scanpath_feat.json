@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on the code area with frequent up\u2013down movements, plus occasional long saccades to the right side (likely console or output panel), matching the pattern of inspecting code while repeatedly checking execution results typical for debugging.",
+  "correct": false
+}

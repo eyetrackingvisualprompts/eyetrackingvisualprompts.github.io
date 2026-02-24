@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations across a mid-screen region with frequent multidirectional saccades and no strong horizontal reading line or tight clustering on specific UI elements, matching the exploratory, information-locating pattern typical of web search behavior rather than focused reading, watching, or game play.",
+  "correct": false
+}

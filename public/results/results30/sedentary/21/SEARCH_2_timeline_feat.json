@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows multiple transitions between mid and upper screen regions with varied horizontal scanning and intermittent larger saccades, resembling the heterogeneous, multi-section navigation pattern seen in the BROWSE example rather than the more uniform patterns of READ or WATCH or the focused central patterns of coding-related tasks.",
+  "correct": false
+}

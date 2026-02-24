@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between a dense horizontal band around mid-screen and excursions to upper and lower regions, matching movement between search results list and other page elements typical of search behavior, rather than the more localized patterns of code tasks or the full-screen spread of play/watch.",
+  "correct": false
+}

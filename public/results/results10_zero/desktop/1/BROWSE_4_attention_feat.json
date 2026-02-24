@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a narrow horizontal band around mid-screen with limited vertical spread, matching line-by-line reading behavior rather than the broader, multi-directional scanning seen in play, search, browse, watch, or write tasks.",
+  "correct": false
+}

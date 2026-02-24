@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered over a narrow left-side code area with occasional vertical shifts, closely matching the WRITE example\u2019s localized scanpath over the editor and differing from the more dispersed or horizontally-structured patterns in other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the upper-central area with a roughly vertical spread, resembling attention on search results (title, snippet, and some scrolling) and matching the SEARCH example more closely than the horizontally constrained READ/WRITE or the more dispersed PLAY/WATCH patterns.",
+  "correct": false
+}

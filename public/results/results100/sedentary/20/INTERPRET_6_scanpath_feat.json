@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact left-side code/IDE area with occasional long saccades to the far right/bottom, consistent with focused code inspection plus periodic checks of output/console typically seen in debugging, matching the DEBUG example pattern more than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two tight fixation clusters located symmetrically on the left and right at similar vertical positions, indicating repeated gaze shifts between two horizontal positions consistent with following a horizontally moving target rather than free viewing, reading, or random multi-position movements.",
+  "correct": true
+}

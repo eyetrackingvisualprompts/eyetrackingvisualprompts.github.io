@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly in the upper-left region with small clustered fixations and short saccades, consistent with scanning search results, query box, and browser chrome rather than continuous line-by-line reading or code on a central area. The pattern and coordinate range are closest to the SEARCH example, including occasional large jumps and off-screen or invalid points typical of web search navigation.",
+  "correct": false
+}

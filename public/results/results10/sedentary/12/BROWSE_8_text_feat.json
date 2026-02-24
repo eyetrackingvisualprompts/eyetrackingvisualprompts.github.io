@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (center to far off-screen, then back), including extreme coordinates and vertical jumps, indicate tracking moving objects or navigating dynamically, which matches the PLAY patterns more than the more localized, structured code or text-focused activities.",
+  "correct": false
+}

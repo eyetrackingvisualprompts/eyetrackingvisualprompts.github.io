@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points stay clustered in a small central region with minimal movement over 10 seconds, indicative of sustained fixation on a single, stable visual area such as the main content of a video, rather than the more extensive scanning and shifting expected in reading, browsing, searching, writing, or gaming tasks.",
+  "correct": false
+}

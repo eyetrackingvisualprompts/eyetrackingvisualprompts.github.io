@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows tightly clustered, horizontally aligned fixations concentrated in a narrow vertical band near the upper-middle of the screen, indicating systematic line-by-line reading behavior similar to the READ example and unlike the more dispersed or code-focused patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps between central content and off-screen/edge coordinates plus scattered fixations over varied vertical regions match exploratory, non-structured viewing typical of web browsing rather than the more localized, line-based or code-panel-focused patterns of the other tasks.",
+  "correct": false
+}

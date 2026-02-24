@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude shifts in both X and Y with varied vertical positions and irregular fixation patterns, resembling scanning across different web pages and SERPs, which best matches the SEARCH example rather than the more structured READ/WRITE or the more polarized WATCH/PLAY patterns.",
+  "correct": false
+}

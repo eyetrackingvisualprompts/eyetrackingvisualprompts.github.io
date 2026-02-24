@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-central code area with occasional long saccades to the right side, resembling checking output or error messages; this pattern closely matches the DEBUG example scanpath behavior.",
+  "correct": false
+}

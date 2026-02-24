@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide spatial dispersion including off-screen coordinates, frequent large saccades between distant regions (top/bottom, center/edges), and mixed mid-length fixations without clear line-by-line structure resemble free web navigation patterns shown in the BROWSE examples rather than the more localized or structured patterns of code tasks, reading, or video watching.",
+  "correct": true
+}

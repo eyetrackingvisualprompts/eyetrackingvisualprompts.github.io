@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in the left-middle region, with repeated vertical and short horizontal shifts resembling code inspection and movement between lines and error locations, matching the DEBUG example more than the broader exploration seen in other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations cluster around the upper-central region with some scattered exploration nearby, closely matching the SEARCH example heatmap pattern and differing from the more lateral bands seen in READ/WRITE or the top-edge focus in WATCH.",
+  "correct": true
+}

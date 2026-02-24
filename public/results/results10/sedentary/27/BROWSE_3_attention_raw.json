@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread over multiple vertical regions with moderate horizontal movement, resembling scanning and scrolling behavior across a webpage rather than the tighter clusters seen in focused tasks like READ, WRITE, or DEBUG.",
+  "correct": true
+}

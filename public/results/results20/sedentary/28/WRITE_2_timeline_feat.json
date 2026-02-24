@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent large vertical shifts between two main Y-bands (code and console/other panel) with irregular, non-linear horizontal movements and many long saccades, matching the example DEBUG pattern where users alternate between scanning code, locating errors, and checking results, rather than the more linear or stable patterns of reading, interpreting, or writing.",
+  "correct": false
+}

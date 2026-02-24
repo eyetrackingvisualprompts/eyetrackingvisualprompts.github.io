@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent shifts between mid-page content and top/near-top horizontal bands (y\u224840\u2013110) with wide horizontal saccades and revisits to dispersed regions resemble scanning SERP titles/snippets and occasionally the address/search bar, rather than the more line-structured READ pattern or the localized code-centric patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

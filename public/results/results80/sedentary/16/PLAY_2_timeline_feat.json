@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows continuous horizontal tracking near the top of the screen with frequent medium-to-large saccades and relatively stable vertical position, resembling following dynamic objects or regions as in simple games, and matching best with the PLAY example pattern compared to the more text- or code-focused tasks.",
+  "correct": true
+}

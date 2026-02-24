@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long horizontal scanpaths at multiple consistent vertical levels, with systematic left-to-right sweeps around y\u2248150\u2013400 and periodic return saccades, characteristic of line-by-line reading rather than code-focused tasks, dynamic games, or free browsing/searching. The brief transitions to top/bottom regions resemble page navigation, aligning best with READ.",
+  "correct": true
+}

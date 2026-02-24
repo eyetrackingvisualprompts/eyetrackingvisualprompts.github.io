@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively small horizontal movements with very limited vertical range, staying in a narrow band and returning repeatedly to similar positions, matching the focused, line-bound viewing pattern of examining a short code snippet as in the INTERPRET task rather than the larger sweeps or dynamics seen in browsing, reading long text, or playing games.",
+  "correct": false
+}

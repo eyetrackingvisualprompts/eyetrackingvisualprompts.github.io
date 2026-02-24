@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows horizontal movements across a wide area of the upper-to-middle screen, with several distinct fixation clusters and transitions between them, resembling navigation among different webpage regions rather than the tighter code-focused clusters of WRITE/DEBUG/INTERPRET or the orderly line patterns of READ.",
+  "correct": false
+}

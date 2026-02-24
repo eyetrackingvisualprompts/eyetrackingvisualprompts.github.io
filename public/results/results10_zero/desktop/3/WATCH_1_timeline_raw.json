@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions vary smoothly within a mid-screen band with moderate vertical shifts and limited extreme excursions, consistent with following dynamic content (e.g., characters and subtitles) in a video rather than systematic line-by-line scanning (READ) or large exploratory jumps (SEARCH/BROWSE/PLAY).",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude vertical shifts between lower and mid screen, with many fixations clustered around central vertical band (x\u22480.5\u20130.6, y\u22480.2\u20130.5), plus intermittent larger jumps, matches the mixed scanning of content blocks and navigation elements typical of web browsing more than the steadier line-by-line patterns of READ or WRITE or the more peripheral, wide-range movements of WATCH/PLAY.",
+  "correct": false
+}

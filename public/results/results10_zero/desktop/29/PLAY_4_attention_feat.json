@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small lower-central region, indicating prolonged attention to a localized area such as the text-entry line and nearby cursor/toolbars, which is more typical of focused writing than the broader scan paths seen in reading, browsing, searching, playing, or watching video.",
+  "correct": false
+}

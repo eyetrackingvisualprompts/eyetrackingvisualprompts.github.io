@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows gradual, continuous shifts across both X and Y axes with fewer stable horizontal bands and more diagonal movement than reading or browsing patterns, resembling the dynamic tracking of objects typical in gameplay rather than the line-by-line or segment-based viewing seen in text or web pages.",
+  "correct": false
+}

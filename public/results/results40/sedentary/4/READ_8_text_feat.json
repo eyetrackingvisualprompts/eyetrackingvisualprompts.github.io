@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is constrained to a narrow horizontal band with many medium-duration fixations and short, back-and-forth horizontal saccades across a wide lateral range, repeatedly sweeping between central and right regions and then jumping left\u2014highly similar to the BROWSE example\u2019s line-scanning over web content, unlike the multi-row structure of READ or the dispersed, scene-based patterns of WATCH/PLAY.",
+  "correct": false
+}

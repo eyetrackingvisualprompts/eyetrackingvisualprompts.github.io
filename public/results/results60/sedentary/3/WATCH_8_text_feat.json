@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (center to corners, top to bottom) with many brief fixations and rapid revisits to central task-relevant areas resemble dynamic object tracking and spatial exploration typical of gameplay rather than the more line-structured or code-focused patterns of reading, writing, debugging, or interpreting.",
+  "correct": false
+}

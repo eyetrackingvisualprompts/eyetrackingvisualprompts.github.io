@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid saccades across wide screen regions (from corners/top to mid and bottom), with clusters of medium-length fixations at varying vertical levels (near top, middle, and bottom). This pattern of frequent long-range shifts and multi-level monitoring matches game play demands more than the more line-like READ, mid-band WRITE, or relatively central, less extreme WATCH/BROWSE/SEARCH patterns in the examples.",
+  "correct": false
+}

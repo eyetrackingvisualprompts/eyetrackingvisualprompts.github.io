@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze exhibits many horizontal sweeps across a mid\u2011screen band (around y\u2248450\u2013600) with relatively regular stepwise progressions and returns, similar to scrolling or skimming through web content. There are occasional very long saccades to the far right and back, consistent with switching tabs or areas in a browser, and no sustained line\u2011by\u2011line horizontal pattern like READ nor the tight code\u2011region clustering typical of WRITE/DEBUG/INTERPRET. The pattern best matches the BROWSE examples, which show similar horizontal band scanning with intermittent large jumps.",
+  "correct": false
+}

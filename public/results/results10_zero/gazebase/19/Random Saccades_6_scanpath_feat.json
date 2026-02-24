@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations appear at discrete, widely separated positions across both horizontal and vertical axes with roughly 1-second intervals, matching a gaze following a randomly moving target rather than steady fixation, structured horizontal motion, or reading patterns.",
+  "correct": true
+}

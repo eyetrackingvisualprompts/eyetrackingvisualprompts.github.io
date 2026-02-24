@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a narrow left-side vertical band, with many back-and-forth saccades across a compact region and little movement to other screen areas, matching focused code inspection/editing behavior seen in DEBUG rather than the more dispersed patterns of BROWSE/SEARCH or the more line-structured patterns of READ/INTERPRET.",
+  "correct": false
+}

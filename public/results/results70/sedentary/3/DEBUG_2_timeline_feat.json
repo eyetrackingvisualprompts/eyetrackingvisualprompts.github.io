@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shows moderate horizontal and vertical exploration with recurrent revisits to nearby regions and several medium-to-large saccades later in the window, closely matching the example DEBUG pattern of scanning and rechecking code for errors rather than the more linear (READ/WRITE) or more dispersed (BROWSE/SEARCH) behaviors.",
+  "correct": true
+}

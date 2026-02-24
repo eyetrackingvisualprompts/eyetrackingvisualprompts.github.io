@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small left-side code area with two nearby hotspots (likely code and console/editor), closely matching the WRITE example pattern and differing from the more distributed patterns of DEBUG or INTERPRET.",
+  "correct": false
+}

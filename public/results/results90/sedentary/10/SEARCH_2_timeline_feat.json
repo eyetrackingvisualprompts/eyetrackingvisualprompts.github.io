@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large horizontal saccades with moderate vertical shifts and dispersed fixations across the page, resembling scanning result lists and different page areas, which matches the SEARCH pattern more than the more structured READ or the denser WATCH/PLAY patterns.",
+  "correct": true
+}

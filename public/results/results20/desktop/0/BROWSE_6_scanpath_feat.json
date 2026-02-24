@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations across multiple vertical regions with frequent shifts between clusters, resembling navigation through search results and different pages rather than the more linear pattern of reading or the localized patterns of watching, playing, or writing.",
+  "correct": false
+}

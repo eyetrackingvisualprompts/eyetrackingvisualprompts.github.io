@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact central text/code region with frequent short saccades and local regressions, including occasional jumps to top/side areas, closely matching the INTERPRET examples where participants inspect and mentally trace through code rather than scan broadly (SEARCH/BROWSE) or follow dynamic objects (WATCH/PLAY).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are centered and somewhat scattered vertically, with clusters around mid-to-upper screen and some lower elements\u2014matching attention shifts between search box, results list, and lower content typical of SEARCH, rather than the more linear READ or localized WRITE/PLAY patterns.",
+  "correct": true
+}

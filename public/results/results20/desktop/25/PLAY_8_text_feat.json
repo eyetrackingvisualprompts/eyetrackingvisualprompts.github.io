@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays in a mid-screen region with short-to-moderate fixations and frequent small saccades, including occasional vertical excursions but no systematic horizontal line-by-line progression as in READ, nor the large dispersed shifts typical of PLAY/SEARCH/WATCH; the pattern closely matches the mid-page scanning behavior shown in the BROWSE example.",
+  "correct": false
+}

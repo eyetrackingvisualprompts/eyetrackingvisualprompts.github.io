@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with frequent vertical and horizontal shifts across mid-screen and upper/lower regions, including several long saccades between dispersed areas, consistent with scanning heterogeneous webpage layouts rather than the more line-structured patterns of READ/WRITE or the more central, stable focus typical of WATCH and PLAY. The pattern closely resembles the BROWSE example in spatial distribution and saccade range.",
+  "correct": true
+}

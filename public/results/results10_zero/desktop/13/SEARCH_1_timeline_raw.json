@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is narrowly confined to a mid-screen horizontal band with small, steady drifts and occasional brief vertical shifts, consistent with looking near a text entry line and glancing slightly up/down to menus or previous lines, which best matches writing behavior rather than the larger excursions typical of reading pages, browsing, searching, playing, or watching video.",
+  "correct": false
+}

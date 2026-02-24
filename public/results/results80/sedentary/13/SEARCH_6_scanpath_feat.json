@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows horizontally distributed fixations across the upper half of the screen with several longer saccades and some vertical excursions, indicating exploration of multiple areas similar to scanning search results, and it most closely matches the SEARCH example pattern among the provided classes.",
+  "correct": true
+}

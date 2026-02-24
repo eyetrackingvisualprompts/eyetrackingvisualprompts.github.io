@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows continuous horizontal motion with broad sweeps and smooth vertical shifts, resembling tracking moving objects or navigating space, which aligns best with the dynamic patterns seen in the PLAY examples rather than the more localized, line-based or block-based movements in reading, coding, or web tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between top textual region and mid-page content, plus repeated revisits to similar header-level coordinates and occasional excursions to far off-page-like areas resemble scanning SERP/snippet layouts rather than orderly line-by-line reading or code-focused tasks; the pattern matches the SEARCH examples\u2019 mix of text-line sweeps and large relocations.",
+  "correct": true
+}

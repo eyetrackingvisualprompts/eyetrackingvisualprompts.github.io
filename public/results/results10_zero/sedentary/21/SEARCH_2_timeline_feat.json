@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains largely in the upper screen region with slow, coarse shifts and few structured horizontal or vertical scanpaths typical of reading or code-based tasks. The pattern suggests following salient on-screen motion or visual content rather than line-by-line text or interactive elements, which aligns best with watching a video.",
+  "correct": false
+}

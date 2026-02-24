@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze positions are spread over a moderate vertical range with several distinct clusters and repeated transitions between them, matching typical behavior of inspecting search results (title, snippet, sidebar, etc.), and resembling the SEARCH example more than the more horizontally constrained READ pattern or the localized clusters of WRITE/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

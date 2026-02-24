@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern is centered in the mid-screen region with irregular, multidirectional saccades and no strong horizontal line structure, resembling the exploratory, scattered scanpath seen in the BROWSE example more than the more structured patterns of READ/WRITE or the broader movements of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

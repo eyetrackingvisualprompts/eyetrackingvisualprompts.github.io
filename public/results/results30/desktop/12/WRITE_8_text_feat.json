@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a narrow horizontal band around y\u22480.22\u20130.33 with long, stable fixations and short horizontal saccades, consistent with following lines of text. There are progressive rightward movements and occasional leftward jumps along this band, matching reading behavior more than the larger multidirectional shifts seen in browse/search or the more peripheral, dynamic patterns in play/watch/write.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large vertical shifts between mid and lower screen regions with intermittent stable clusters and rapid transitions, matching the dynamic, multi-directional viewing pattern seen in the PLAY examples rather than the more stable, horizontally structured patterns of READ/WRITE or the smoother, less erratic movements of WATCH/BROWSE/SEARCH.",
+  "correct": true
+}

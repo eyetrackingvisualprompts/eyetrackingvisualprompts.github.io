@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades to screen edges and outside-screen coordinates, with dispersed fixations over wide vertical and horizontal extents and repeated returns to central/mid-lower regions, match the heterogeneous, scrolling-and-scanning pattern seen in BROWSE rather than the more structured code/line-based patterns of DEBUG/WRITE/INTERPRET or the smoother focus of WATCH/PLAY/READ/SEARCH.",
+  "correct": false
+}

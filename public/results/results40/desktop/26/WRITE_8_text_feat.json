@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a relatively small lower-central region with many long fixations (1\u20134 s) and short, local saccades, including occasional jumps to nearby lower areas (around y\u22480.2\u20130.3 then back). This pattern matches scanning and dwelling on mixed webpage elements (e.g., article blocks, thumbnails) rather than the tight horizontal line-by-line motions of READ or the large, dynamic shifts of WATCH/PLAY; it is most consistent with BROWSE examples, which show similar moderate spatial spread and extended fixations on clustered content areas.",
+  "correct": false
+}

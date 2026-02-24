@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central region of the screen with limited vertical spread, matching the browsing example pattern more than the others, which show wider horizontal (read/write/search) or peripheral (play/watch) distributions.",
+  "correct": false
+}

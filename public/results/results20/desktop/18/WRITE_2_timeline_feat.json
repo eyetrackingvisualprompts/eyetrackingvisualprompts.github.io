@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower-left region with relatively small horizontal span and low vertical positions, resembling attention near a text input area rather than scanning full pages or dynamic scenes; this pattern best matches the WRITE example trajectory.",
+  "correct": true
+}

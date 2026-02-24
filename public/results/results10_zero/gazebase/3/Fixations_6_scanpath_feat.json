@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The gaze points are clustered tightly around the central screen location with almost no spatial dispersion, indicating sustained fixation on a static central target rather than reading or following moving stimuli.",
+  "correct": true
+}

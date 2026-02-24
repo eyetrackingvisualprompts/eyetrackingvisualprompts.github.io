@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze shows relatively stable horizontal scanning with moderate, localized shifts and occasional brief jumps, closely matching the INTERPRET example\u2019s pattern of focused inspection over code rather than the broader movements seen in SEARCH/BROWSE or the line-by-line progression in READ.",
+  "correct": false
+}

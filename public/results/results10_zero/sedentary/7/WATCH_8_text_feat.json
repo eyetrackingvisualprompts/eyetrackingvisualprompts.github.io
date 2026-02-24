@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent long saccades spanning a wide horizontal range with relatively short fixations and repeated rapid reorientations, consistent with tracking dynamic game elements on different screen regions rather than the more locally clustered, line-structured patterns typical of reading, code interpretation, writing, debugging, or web search/browsing. Watching video would usually involve fewer large-amplitude, back-and-forth saccades and more stable central fixations than observed here.",
+  "correct": false
+}

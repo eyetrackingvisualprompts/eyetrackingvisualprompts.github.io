@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact area on the left code pane with minimal spread elsewhere, matching the focused code-region viewing seen in INTERPRET and differing from the more horizontally extended patterns of WRITE/DEBUG or dispersed layouts of other tasks.",
+  "correct": true
+}

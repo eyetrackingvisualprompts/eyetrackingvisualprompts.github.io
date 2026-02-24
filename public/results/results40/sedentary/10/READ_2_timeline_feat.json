@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "X fixations stay within a relatively narrow vertical band with smooth, moderate-amplitude horizontal shifts and frequent mid-sized saccades, indicating tracking of moving visual content rather than line-by-line reading or code inspection. The pattern closely matches the WATCH example (continuous engagement with a central region and periodic exploratory saccades) more than the other task templates.",
+  "correct": false
+}

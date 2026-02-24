@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered around central code-like regions with many short back-and-forth saccades and long re-fixations on nearly identical coordinates, plus repeated returns to the same lines. There are also occasional large excursions to screen edges (e.g., console/UI) before returning to the code area. This sustained, localized re-inspection and line-hopping pattern matches the provided DEBUG examples more than the more linear READ/WRITE or more dispersed BROWSE/SEARCH patterns.",
+  "correct": false
+}

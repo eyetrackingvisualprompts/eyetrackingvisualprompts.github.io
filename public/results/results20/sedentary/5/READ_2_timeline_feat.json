@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a steady, monotonic progression in X with small regressions and a slow, consistent upward drift in Y, characteristic of line-by-line reading behavior and closely matching the READ example pattern compared to other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered around the screen center with minimal horizontal scanning or vertical progression, indicating sustained fixation on a central dynamic stimulus (typical of watching video) rather than the systematic horizontal sweeps of reading/writing or broader exploratory movements of play, search, or browsing.",
+  "correct": false
+}

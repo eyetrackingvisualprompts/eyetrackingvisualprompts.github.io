@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium\u2013range horizontal movements with several vertical shifts and irregular saccades, indicating scanning across different regions rather than line-by-line reading or focused code inspection. This mixed, exploratory viewing pattern best matches the heterogeneous behavior seen in the BROWSE example.",
+  "correct": false
+}

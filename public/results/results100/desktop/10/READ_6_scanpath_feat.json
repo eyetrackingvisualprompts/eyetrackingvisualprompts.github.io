@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, frequent gaze shifts across both horizontal and vertical extents with multiple spatial clusters and long saccades between them, resembling exploratory, multi-region viewing typical of game play rather than the more localized or line-structured patterns of reading, writing, or web browsing/searching.",
+  "correct": false
+}

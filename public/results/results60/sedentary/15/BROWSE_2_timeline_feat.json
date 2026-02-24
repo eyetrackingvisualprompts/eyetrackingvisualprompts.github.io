@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent shifts between mid and upper screen regions with alternating horizontal and vertical movements, resembling transitions between search bar, results list, and possibly opened pages, matching the SEARCH example pattern more than the steadier code or reading tasks or the more dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

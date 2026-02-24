@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered around the central mid-screen area with moderate horizontal spread and limited vertical movement, matching the browsing example pattern more closely than the other tasks, which show either wider dispersion (WATCH/PLAY), strong vertical text-line structures (READ/WRITE), or upper-screen concentration (SEARCH).",
+  "correct": false
+}

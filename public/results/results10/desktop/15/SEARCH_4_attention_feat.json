@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are concentrated in a moderately sized central region with some vertical spread, closely matching the browsing example heatmap pattern and differing from the more linear (READ/WRITE) or peripheral (PLAY/WATCH/SEARCH) distributions.",
+  "correct": false
+}

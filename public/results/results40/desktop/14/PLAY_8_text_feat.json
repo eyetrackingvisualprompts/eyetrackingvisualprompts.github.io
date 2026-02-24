@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band (y\u22480.6\u20130.7) near screen center with dense, short saccades and many medium-long fixations, matching line-by-line text scanning seen in the READ example more than the larger vertical excursions and scattered patterns of SEARCH, BROWSE, or PLAY, or the more peripheral/upper-screen focus of WATCH and WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is tightly clustered around the upper\u2011central region, similar to the SEARCH example where attention focuses on a compact area of search results, unlike the more horizontally spread patterns in READ/WRITE or the dispersed patterns in WATCH/PLAY/BROWSE.",
+  "correct": false
+}

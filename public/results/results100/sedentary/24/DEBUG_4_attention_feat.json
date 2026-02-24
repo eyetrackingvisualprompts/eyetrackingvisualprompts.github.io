@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in the upper-left code area with minimal spread elsewhere, closely matching the INTERPRET example heatmap where participants focus on a single code snippet to reason about its output.",
+  "correct": false
+}

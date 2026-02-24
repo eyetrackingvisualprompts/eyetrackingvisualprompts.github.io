@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades across widely separated screen regions (bottom, corners, mid-screen) with relatively short and medium fixations, including rapid shifts between vertical levels and diagonal movements, matching the dynamic, multidirectional scanning typical of the PLAY examples rather than the more line-structured, horizontal bands of READ/WRITE or the more localized clusters of BROWSE/WATCH/SEARCH.",
+  "correct": false
+}

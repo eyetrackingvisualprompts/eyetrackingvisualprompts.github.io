@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent medium-to-large vertical and horizontal saccades between mid-screen and lower regions, with irregular, non-linear scanpaths and shorter fixations resemble dynamic game tracking patterns in the PLAY examples more than the more stable, line-structured patterns seen in READ/WRITE or the mostly mid/upper-screen focus in BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows horizontal clusters of fixations with short left\u2013right saccades at two main vertical bands, consistent with reading lines or short paragraphs of text rather than the broader spatial exploration typical of browsing, games, or code-related tasks.",
+  "correct": false
+}

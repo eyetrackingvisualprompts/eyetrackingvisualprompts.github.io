@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated left-to-right horizontal sweeps with gradually increasing Y position and occasional larger vertical transitions, indicating scrolling through varied content, which most closely matches the browsing pattern rather than the more stable, line-based reading or localized code-focused tasks.",
+  "correct": true
+}

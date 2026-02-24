@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze remains nearly constant in the vertical (Y) dimension around a fixed level while the horizontal (X) position shows step-like changes across a limited range, consistent with following a target moving horizontally and holding at each position, as in the Horizontal Saccades task.",
+  "correct": false
+}

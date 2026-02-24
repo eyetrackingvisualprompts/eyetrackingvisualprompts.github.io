@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "X shows slow horizontal progression with occasional line-like resets and relatively stable Y, resembling reading but with more irregularities and a brief vertical excursion, matching the mixed reading/scrolling pattern typical of web browsing rather than the more structured reading layout.",
+  "correct": false
+}

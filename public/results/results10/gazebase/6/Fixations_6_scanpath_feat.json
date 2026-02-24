@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "All gaze points are tightly clustered around the screen center with negligible movement, matching sustained central fixation on a static target.",
+  "correct": true
+}

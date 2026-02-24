@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows wide, scattered exploration over much of the screen with frequent direction changes and large saccades, matching the heterogeneous, exploratory pattern seen in the SEARCH example rather than the more localized patterns of READ/BROWSE or the band-like patterns of WATCH/WRITE/PLAY.",
+  "correct": false
+}

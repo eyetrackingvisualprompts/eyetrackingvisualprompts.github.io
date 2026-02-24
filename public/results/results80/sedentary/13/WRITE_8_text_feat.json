@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent vertical transitions between top and bottom regions with many medium-length fixations, scattered off-content excursions, and no stable horizontal line-by-line scanning suggest interactive scrolling through web content rather than structured reading or code-focused tasks; the pattern best matches the BROWSE examples.",
+  "correct": false
+}

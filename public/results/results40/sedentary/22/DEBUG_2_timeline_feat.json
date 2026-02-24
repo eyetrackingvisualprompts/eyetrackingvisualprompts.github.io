@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-range shifts in both X and Y with intermittent vertical excursions and revisits, indicating alternating attention between multiple code regions and outputs, which aligns best with the more spatially distributed and iterative viewing pattern typical of debugging compared to the more linear or localized patterns of reading, writing, interpreting, or browsing.",
+  "correct": true
+}

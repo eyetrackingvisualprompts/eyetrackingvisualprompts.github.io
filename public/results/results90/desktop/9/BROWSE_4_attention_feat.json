@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixation heatmap is tightly clustered around the upper\u2011central region, matching the SEARCH example pattern where gaze concentrates on the search results area, unlike the more dispersed WATCH/PLAY patterns or horizontal text lines of READ/WRITE.",
+  "correct": false
+}

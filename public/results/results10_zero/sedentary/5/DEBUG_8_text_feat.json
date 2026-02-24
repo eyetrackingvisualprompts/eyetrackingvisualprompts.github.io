@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid, multi-directional saccades with short, scattered fixations and no clear line-based or block-based reading/inspection structure, which is more consistent with visually tracking dynamic game elements than with code reading, debugging, writing, or static text browsing/reading.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains in a relatively central region with short-amplitude saccades and medium-to-long fixations (mostly 0.2\u20130.8s), showing a stable, localized scanning pattern typical of processing static text rather than the larger, more dispersed movements expected in SEARCH, BROWSE, or PLAY, or the strong dynamic/object-tracking patterns typical of WATCH or the more frequent vertical shifts and peripheral use often seen in WRITE when switching between text and cursor/toolbar.",
+  "correct": false
+}

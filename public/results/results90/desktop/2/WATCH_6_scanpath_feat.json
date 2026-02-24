@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around a central area with moderate vertical and horizontal exploration and frequent shifts, closely matching the browsing example pattern rather than the denser central-search cluster or the more dispersed play/watch patterns.",
+  "correct": false
+}

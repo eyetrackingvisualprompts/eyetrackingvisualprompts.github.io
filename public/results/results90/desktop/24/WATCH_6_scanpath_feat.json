@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered in a moderately sized region with mixed vertical and horizontal shifts, indicating focused yet exploratory viewing similar to scanning search-engine results, matching the SEARCH pattern more than the denser BROWSE cluster or the linear READ pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-scale vertical shifts between mid and upper screen regions, interleaved with horizontal movements and short fixations at multiple depths, matching the scanning and intermittent scrolling-like pattern seen in the BROWSE example more than the more line-structured READ or the more static WATCH behavior.",
+  "correct": true
+}

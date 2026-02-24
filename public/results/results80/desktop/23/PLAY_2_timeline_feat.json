@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cluster around the screen center with moderate, irregular saccades in both axes and no strong directional drift or systematic line-by-line scanning, matching the distributed, exploratory pattern seen in the BROWSE example rather than the more structured patterns of READ/WRITE or the wider excursions of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

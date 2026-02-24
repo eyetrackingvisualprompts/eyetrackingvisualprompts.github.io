@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered with small horizontal range and limited saccades, similar to focused inspection of a short code snippet rather than extended reading, browsing, or dynamic tasks like PLAY or WATCH. This pattern best matches the INTERPRET example.",
+  "correct": false
+}

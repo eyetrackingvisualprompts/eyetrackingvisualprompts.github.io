@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains largely within a compact code/text region with many medium/long fixations, repeated revisits to nearby lines, and fewer broad horizontal scans than reading/searching. The pattern matches focused reasoning and re-checking of a short snippet typical for interpreting code output rather than the more extensive navigation of DEBUG/WRITE or the more linear patterns of READ/BROWSE/SEARCH.",
+  "correct": false
+}

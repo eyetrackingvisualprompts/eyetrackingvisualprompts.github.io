@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is relatively stable with long fixations and slow, smooth shifts in horizontal position rather than rapid, repetitive left\u2011to\u2011right line sweeps typical of reading/browsing or the highly dynamic multi-directional movements expected in playing/searching/debugging. This pattern best matches watching a continuous full-screen video.",
+  "correct": false
+}

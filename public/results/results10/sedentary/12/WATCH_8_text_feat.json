@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (center to corners and back), extensive vertical and horizontal jumps, and relatively short to moderate fixations indicate dynamic target following typical of gameplay rather than text/code reading or static content viewing.",
+  "correct": false
+}

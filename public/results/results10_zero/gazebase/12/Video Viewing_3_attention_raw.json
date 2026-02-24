@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows a series of discrete, horizontally aligned fixation clusters at nearly constant vertical position, spanning much of the screen width with gaps between them, consistent with following a target that steps horizontally and pauses at each location, matching the Horizontal Saccades task description rather than the more irregular or vertical patterns expected in the other activities.",
+  "correct": false
+}

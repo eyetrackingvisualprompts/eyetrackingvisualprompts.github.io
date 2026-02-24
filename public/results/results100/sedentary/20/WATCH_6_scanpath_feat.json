@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely distributed across the entire screen with frequent, irregular saccades and no clear line or column structure, matching the dispersed and dynamic pattern typical of watching videos rather than the more localized or structured patterns of reading, coding, or web search/browsing.",
+  "correct": true
+}

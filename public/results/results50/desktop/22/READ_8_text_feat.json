@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is constrained to a narrow horizontal band in the upper screen region with many short, local saccades and medium fixations, consistent with monitoring and editing text lines and the nearby toolbar in a word processor, rather than the broader vertical scanning of READ or the more dispersed, exploratory patterns of BROWSE/SEARCH or the dynamic multi-directional shifts in WATCH/PLAY.",
+  "correct": false
+}

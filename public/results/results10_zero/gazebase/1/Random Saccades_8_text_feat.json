@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze follows discrete positions with ~1 s fixations separated by large jumps in both horizontal and vertical directions (within \u00b115\u00b0 H, \u00b19\u00b0 V) over the screen, matching a randomly moving target rather than strictly horizontal motion, static fixation, or reading-like patterns.",
+  "correct": true
+}

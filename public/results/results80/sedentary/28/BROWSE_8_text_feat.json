@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long-range saccades across wide screen regions (including off-screen/out-of-bounds coordinates), alternating between top, middle, and lower areas, and short local scanning over horizontal text-like bands resemble the exploratory, results-page navigation pattern of web search rather than the more line-structured READ or code-focused programming tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show relatively stable, mid-screen horizontal fixations with small, regular saccades and limited large excursions, closely matching the structured, line-by-line scanning pattern seen in the READ example rather than the more scattered or dynamic movements of search, browse, watch, play, or write.",
+  "correct": false
+}

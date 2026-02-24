@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show large, frequent shifts across wide screen areas (including extremes and off-screen-like values), with less structured horizontal line patterns typical of reading or code analysis. This broad, dynamic scanning and tracking behavior is most consistent with visually following and navigating game elements rather than focused tasks like READ, INTERPRET, DEBUG, WRITE, or SEARCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The X fixation shows a steady rightward progression with periodic resets, while Y fixation drifts slowly downward over time\u2014matching line-by-line reading behavior and closely resembling the READ example pattern more than the other task examples.",
+  "correct": false
+}

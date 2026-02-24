@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Video Viewing",
+  "reason": "The trajectory shows irregular multi-directional gaze shifts across many distinct spatial regions with varying amplitudes and no strict horizontal-only pattern or 1-second step-like plateaus. This heterogeneous, exploratory pattern with clusters of local fixations interleaved with larger saccades matches the free-viewing behavior seen in the Video Viewing examples rather than the more structured patterns of saccade tasks, reading lines, or game-driven target fixations.",
+  "correct": false
+}

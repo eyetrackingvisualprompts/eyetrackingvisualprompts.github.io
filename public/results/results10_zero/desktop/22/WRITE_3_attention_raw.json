@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered near the bottom-center of the screen with minimal vertical spread, consistent with sustained fixations on a local region such as subtitles in a video, rather than the broader vertical scanning seen in reading, browsing, searching, or gameplay.",
+  "correct": false
+}

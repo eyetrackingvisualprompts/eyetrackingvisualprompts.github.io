@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are tightly clustered in a small central-lower region with limited horizontal spread, indicating continuous focus on a compact dynamic area rather than scanning text lines or multiple regions\u2014this pattern best matches the PLAY task (e.g., focusing on a game character area).",
+  "correct": false
+}

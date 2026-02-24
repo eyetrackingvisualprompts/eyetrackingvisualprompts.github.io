@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over a single code area on the left with minimal dispersion elsewhere, closely matching the INTERPRET example heatmap where participants focus on understanding a presented snippet rather than scanning widely as in DEBUG or WRITE.",
+  "correct": false
+}

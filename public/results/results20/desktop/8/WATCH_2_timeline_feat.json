@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude shifts in both X and Y with varied fixation locations across the screen, resembling the exploratory, non-linear scanning pattern in the SEARCH example rather than the more structured patterns of READ/WRITE or the edge-focused patterns of WATCH/PLAY.",
+  "correct": false
+}

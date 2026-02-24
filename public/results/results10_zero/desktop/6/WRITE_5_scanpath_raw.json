@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a small central area with minor jitter and no systematic horizontal or vertical progression, indicating focus on a localized region such as a text insertion point while typing rather than scanning lines (READ) or exploring larger visual content (BROWSE/SEARCH/PLAY/WATCH).",
+  "correct": true
+}

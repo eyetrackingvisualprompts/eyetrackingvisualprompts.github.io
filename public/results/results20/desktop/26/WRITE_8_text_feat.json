@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a compact region with long, stable fixations (often >1 s) and only small, local saccades, indicating sustained attention to a relatively fixed area rather than systematic line-by-line scanning (READ) or wide exploratory jumps (SEARCH/BROWSE/PLAY). This stable, centrally located viewing pattern most closely matches watching video content on the screen.",
+  "correct": false
+}

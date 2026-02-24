@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent large-amplitude saccades in all directions, including many points well outside the typical screen bounds (likely tracking loss during fast head/eye movements), along with irregular, non-linear scanning rather than line-by-line reading or focused code inspection. This broad, rapid, and highly dynamic visual exploration is most consistent with tracking moving objects and navigation in a game, matching the PLAY activity class better than reading, coding, or passive video watching.",
+  "correct": false
+}

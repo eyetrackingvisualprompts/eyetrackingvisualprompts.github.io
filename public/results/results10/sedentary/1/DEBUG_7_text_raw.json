@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows dispersed vertical and horizontal movements across large screen regions, including extreme coordinates and off-content points, consistent with scrolling and navigating mixed web content rather than the more line-structured, band-limited patterns of READ or the focused code areas of programming tasks.",
+  "correct": false
+}

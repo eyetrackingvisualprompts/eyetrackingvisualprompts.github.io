@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster densely on the left-central region (code editor) with recurrent long saccades to a smaller cluster on the far right (likely console or reference panel), matching the WRITE example where users alternate between coding area and output, rather than the more dispersed or line-structured patterns of other activities.",
+  "correct": true
+}

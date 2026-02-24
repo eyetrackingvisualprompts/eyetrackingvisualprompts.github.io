@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and horizontal jumps between top, middle, and bottom of the page, repeated returns to similar coordinate bands without strict line-by-line progression, and many off-content excursions (near screen edges/negative or extreme coordinates) match exploratory, navigation-heavy web browsing patterns rather than structured reading or code-focused tasks.",
+  "correct": false
+}

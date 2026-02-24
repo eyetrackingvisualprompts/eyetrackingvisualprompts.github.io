@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows relatively confined horizontal movements within code-like regions, with moderate saccades and a gradual upward drift, then a shift to a slightly different vertical band around 22s, consistent with editing/implementing code rather than wide exploratory scanning or continuous reading or game tracking.",
+  "correct": false
+}

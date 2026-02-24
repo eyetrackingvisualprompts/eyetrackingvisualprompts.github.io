@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal movement with gradually increasing Y fixation and occasional exploratory saccades, indicating code scanning and re-checking behavior. This pattern best matches the DEBUG example, which has similar variability and vertical progression compared to the more stable INTERPRET and WRITE tasks or the more dynamic PLAY/BROWSE patterns.",
+  "correct": true
+}

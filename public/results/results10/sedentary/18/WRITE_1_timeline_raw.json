@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent shifts between a few horizontal bands with occasional sharp vertical transitions resemble scanning search results and moving between snippets or result sections, matching the SEARCH pattern more than the steadier code-focused or reading behaviors.",
+  "correct": false
+}

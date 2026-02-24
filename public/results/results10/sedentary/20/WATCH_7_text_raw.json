@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data shows large, rapid shifts across wide screen regions (including edges and off-screen coordinates), strong vertical and horizontal excursions, and clustered tracking around moving-like loci\u2014patterns characteristic of following dynamic game elements rather than line-based reading, code inspection, or static browsing/search tasks.",
+  "correct": false
+}

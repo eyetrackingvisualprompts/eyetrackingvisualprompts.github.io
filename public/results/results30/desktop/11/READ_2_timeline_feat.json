@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band with low-amplitude, slow drifts and few larger saccades, especially in the lower Y region typical of looking near a text cursor area in a word processor rather than scanning lines (READ) or exploring varied content (BROWSE/SEARCH/PLAY/WATCH).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows wide, frequent saccades in both X and Y with variable, non-linear trajectories resembling continuous tracking of moving objects across the screen, which matches the dynamic patterns seen in the PLAY example more than the more structured or stationary patterns of reading, coding, or browsing tasks.",
+  "correct": true
+}

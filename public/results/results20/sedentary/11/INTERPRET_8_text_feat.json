@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small code-like area with repeated up\u2013down revisits between closely spaced locations, long fixations around the same lines, and occasional larger jumps, matching the localized, back-and-forth inspection pattern seen in the INTERPRET example rather than the broader exploration in DEBUG or SEARCH.",
+  "correct": true
+}

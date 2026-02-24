@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions are relatively stable with slow, small shifts predominantly along the horizontal axis and slight downward drift, consistent with line-by-line reading movements rather than the larger, multidirectional shifts typical of search, browsing, or gameplay.",
+  "correct": false
+}

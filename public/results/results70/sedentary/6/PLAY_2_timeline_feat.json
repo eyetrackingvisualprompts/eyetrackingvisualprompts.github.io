@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows frequent medium-to-large horizontal and vertical saccades with dispersed fixation positions across both axes, indicative of scanning varied web content rather than the more linear patterns of READ/WRITE or the more localized, stable patterns seen in INTERPRET/DEBUG.",
+  "correct": false
+}

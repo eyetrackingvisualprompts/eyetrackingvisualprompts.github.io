@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a compact central band (x\u22480.44\u20130.56, y\u22480.55\u20130.75) with many medium-to-long fixations and short, small-amplitude saccades forming horizontal shifts and occasional small vertical moves, closely matching the structured, line-by-line scan pattern of the READ examples rather than the larger, more erratic shifts seen in PLAY, WATCH, or SEARCH, or the more top-region focus of WRITE and PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Highly concentrated fixations on the left-central region (code editor area) with a secondary small cluster on the right (console/IDE panel) closely match the WRITE example heatmap pattern, indicating focused coding with occasional glances to another panel.",
+  "correct": true
+}

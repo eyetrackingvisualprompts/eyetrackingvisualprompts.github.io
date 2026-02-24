@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-lower code area with repeated short saccades and revisits, plus occasional shifts to an upper region (likely error messages or other code parts), matching the focused, iterative pattern typical of debugging rather than more linear reading or broader browsing/searching scans.",
+  "correct": false
+}

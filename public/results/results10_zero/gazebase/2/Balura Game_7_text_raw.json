@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze repeatedly makes large, predominantly horizontal transitions spanning roughly \u00b120\u00b0 with brief stable plateaus, matching tracking of a horizontally moving target rather than static fixation, reading-like line sweeps, random 2D saccades, or more irregular free-viewing/game patterns.",
+  "correct": false
+}

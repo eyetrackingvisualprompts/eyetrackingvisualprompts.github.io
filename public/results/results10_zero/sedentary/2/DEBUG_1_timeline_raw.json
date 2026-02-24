@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal movements with slow drift in X and relatively stable high Y values punctuated by a few larger vertical transitions, consistent with line-by-line reading and occasional scrolls or paragraph jumps rather than rapid multidirectional or object-tracking movements seen in games or browsing.",
+  "correct": false
+}

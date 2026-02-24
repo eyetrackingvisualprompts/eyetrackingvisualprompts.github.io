@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central lower area, resembling focused attention on a small region like a main news article block, similar to the BROWSE example\u2019s compact central hotspot rather than the wider horizontal band of READ or upper-area focus of WRITE/PLAY.",
+  "correct": false
+}

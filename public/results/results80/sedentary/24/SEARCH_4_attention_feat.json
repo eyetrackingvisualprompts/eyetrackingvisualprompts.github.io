@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is distributed across multiple regions including a main horizontal band near the top (likely results list) and a separate cluster on the right-middle area (possible side panel or selected result), with scattered fixations elsewhere, matching the exploratory, multi-region pattern typical of search engine use rather than focused code, reading, or continuous video watching.",
+  "correct": true
+}

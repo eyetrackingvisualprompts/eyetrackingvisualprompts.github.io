@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-lower screen with frequent short fixations and many small horizontal and vertical saccades, plus occasional larger shifts between mid and lower regions. This resembles scanning and skimming behavior typical of web browsing (similar spatial zone and movement statistics to the BROWSE example), rather than the more line-structured horizontal sweeps of READ or the stronger vertical/scene-wide shifts in WATCH/PLAY.",
+  "correct": true
+}

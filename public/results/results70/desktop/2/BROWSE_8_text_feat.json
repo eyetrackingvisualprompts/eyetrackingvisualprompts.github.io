@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered mid-screen with frequent short fixations and moderate saccades, including recurrent vertical shifts between slightly different y-levels and occasional deeper vertical excursions, matching the mixed scanning and localized reading typical of web/news browsing rather than the more line-structured READ, highly top-heavy SEARCH, or very peripheral WATCH/PLAY/WRITE patterns in the examples.",
+  "correct": true
+}

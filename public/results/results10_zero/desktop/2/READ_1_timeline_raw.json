@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long horizontal segments with gradual upward drift and occasional large vertical resets, consistent with reading lines of text top-to-bottom and performing return sweeps to the next block or column rather than frequent multidirectional shifts typical of search, browse, play, or watch activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between multiple horizontal regions with frequent shifts and revisits across the upper and central screen, resembling movement between a results list and selected pages, which best matches the SEARCH scanpath pattern among the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster near the screen center with moderate dispersion and frequent saccades among nearby regions, resembling the mixed reading-and-navigation pattern of search engine use more than the more linear READ pattern or the edge-focused WRITE layout.",
+  "correct": false
+}

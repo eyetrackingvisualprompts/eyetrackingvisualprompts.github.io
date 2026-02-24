@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a vertical band on the left-center of the screen with some spread to lower regions, closely matching the DEBUG example pattern where gaze focuses on code and related interface panels rather than a single compact block (INTERPRET) or broader horizontal/variable scanning (READ, SEARCH, BROWSE).",
+  "correct": true
+}

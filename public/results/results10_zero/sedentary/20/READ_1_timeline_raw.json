@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a narrow band with slowly drifting X and very stable Y, indicating prolonged fixation near the screen center with minimal systematic scanning, which matches passively watching a video more than reading, coding, browsing, searching, or gameplay that would show larger, structured saccades.",
+  "correct": false
+}

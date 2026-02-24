@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively few, longer fixations with smooth gradual shifts in both X and Y, consistent with following dynamic content (e.g., characters or scene regions) in a video rather than dense line-by-line text reading or scattered search/browse/game patterns.",
+  "correct": false
+}

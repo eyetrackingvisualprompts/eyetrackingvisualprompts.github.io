@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered around a narrow code-like region with many regressions and revisits between nearby coordinates, and long fixation durations indicating intensive reasoning rather than scanning or broad exploration\u2014this spatiotemporal pattern best matches the INTERPRET examples where participants inspect a small snippet to deduce its output.",
+  "correct": true
+}

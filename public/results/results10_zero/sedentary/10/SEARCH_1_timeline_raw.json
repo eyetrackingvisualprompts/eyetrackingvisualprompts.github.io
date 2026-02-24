@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, relatively rapid shifts across wide horizontal regions and substantial vertical movements, indicating dynamic tracking of changing on-screen targets rather than line-by-line reading or code inspection, which is characteristic of playing simple action games like Mario or Pong.",
+  "correct": false
+}

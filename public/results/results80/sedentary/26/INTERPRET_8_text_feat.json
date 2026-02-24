@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Prolonged, dense fixations clustered around a mid-lower code-like region with many short, local saccades and repeated revisits to nearly identical coordinates, plus occasional long jumps to far-off positions (likely console/editor/UI) match the structured, workspace-centered gaze behavior seen in the WRITE examples more than the more scattered patterns of DEBUG, SEARCH, BROWSE, or the dynamic object tracking in PLAY/WATCH or the line-scanning of READ/INTERPRET.",
+  "correct": false
+}

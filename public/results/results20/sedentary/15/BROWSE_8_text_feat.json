@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows highly regular, predominantly horizontal scanpaths across a narrow vertical band with repeated leftward return saccades and line-like progression, characteristic of reading text lines rather than code (which would involve more vertical jumps and localized re-reading of blocks) or dynamic stimuli (which would produce less regular, object-following trajectories).",
+  "correct": false
+}

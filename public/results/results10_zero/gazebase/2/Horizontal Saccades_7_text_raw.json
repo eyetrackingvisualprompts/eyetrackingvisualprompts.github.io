@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates in large, nearly symmetric horizontal sweeps between approximately +15\u00b0 and \u221215\u00b0 with relatively stable vertical position near 0\u00b0, matching the pattern of tracking a target moving only horizontally across the screen rather than random 2D motion, reading-like patterns, or free viewing.",
+  "correct": true
+}

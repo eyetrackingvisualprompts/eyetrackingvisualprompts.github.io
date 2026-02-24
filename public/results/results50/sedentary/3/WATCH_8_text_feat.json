@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between widely separated vertical regions (top results, address/search bar, lower content), mixed with medium-length fixations and revisits to central result-like areas resemble exploratory web search behavior more than the more line-structured READ/BROWSE or code-focused WRITE/DEBUG/INTERPRET patterns.",
+  "correct": false
+}

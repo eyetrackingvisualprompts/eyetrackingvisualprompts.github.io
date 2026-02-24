@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y positions remain tightly clustered around the center with only brief, infrequent saccadic excursions, matching the pattern of maintaining gaze on a static central target as in the Fixations example.",
+  "correct": true
+}

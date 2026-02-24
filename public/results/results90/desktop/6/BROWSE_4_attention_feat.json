@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the upper-middle vertical region but with broader dispersion and multiple local hotspots than typical reading; this pattern matches scanning a search results page or search interface, similar to the SEARCH example heatmap.",
+  "correct": false
+}

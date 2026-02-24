@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades across wide vertical and horizontal extents, with clusters of fixations around multiple screen regions (center, corners, and edges) and irregular scanning patterns, match the dynamic, multidirectional gaze behavior seen in the PLAY examples rather than the more structured, row-like patterns of READ/WRITE or the more central, band-limited patterns of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

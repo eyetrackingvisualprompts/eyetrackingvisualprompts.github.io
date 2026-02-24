@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the screen center in a small region, indicating attention on a central content area such as a main article block, which best matches the browsing pattern rather than the more dispersed or horizontally elongated patterns seen in other tasks.",
+  "correct": false
+}

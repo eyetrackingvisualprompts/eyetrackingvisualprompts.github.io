@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly localized, revisiting fixations around code-like regions (x\u2248250\u2013400,y\u2248450\u2013600) with many medium-long dwell times, interspersed with occasional large saccades to distant UI elements, closely matches the detailed inspection and re-checking patterns seen in DEBUG examples rather than the more linear (READ/WRITE/INTERPRET) or broad exploratory (PLAY/SEARCH/BROWSE/WATCH) behaviors.",
+  "correct": true
+}

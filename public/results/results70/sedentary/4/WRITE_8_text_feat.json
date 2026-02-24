@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, repeated fixations and re-fixations around a compact central code region (x\u2248200\u2013400,y\u2248300\u2013400) with many short corrective saccades, interspersed with occasional large jumps to UI elements or console-like areas (corners, top, bottom) match the detailed, iterative inspection and verification typical of debugging rather than the more linear or global scanning patterns of reading, search, browsing, or playing.",
+  "correct": false
+}

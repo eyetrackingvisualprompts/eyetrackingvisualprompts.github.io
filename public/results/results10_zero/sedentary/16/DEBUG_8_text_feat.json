@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen areas (center to top edge, bottom corners, and far right side near 1900px) with relatively short fixations and no clear horizontal line-by-line pattern or focused code/IDE region, suggesting visually tracking or checking dispersed game elements rather than reading, coding, or structured browsing/searching.",
+  "correct": false
+}

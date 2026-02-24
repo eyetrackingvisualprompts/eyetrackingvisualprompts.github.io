@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The gaze shows predominantly left-to-right horizontal step patterns with occasional larger return sweeps and modest vertical shifts, closely matching the structured line-by-line scanning seen in the Reading example rather than the more erratic or purely horizontal motions of the other tasks.",
+  "correct": false
+}

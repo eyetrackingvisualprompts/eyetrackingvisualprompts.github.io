@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a main horizontal band near the top (likely reading results) and large vertical excursions downward and back (scrolling or checking content), matching the exploratory and multi-region pattern typical of SEARCH more than the more localized patterns of READ or coding tasks.",
+  "correct": true
+}

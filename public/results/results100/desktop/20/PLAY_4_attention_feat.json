@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a compact cluster around the center of the screen with some spread, resembling the BROWSE pattern more than the narrow horizontal band of READ/WRITE or the widely scattered WATCH/PLAY distributions.",
+  "correct": false
+}

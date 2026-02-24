@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small central region with many short intra-word-like saccades and long, frequent fixations, and there are no large systematic horizontal sweeps or wide exploratory jumps typical of reading, browsing, searching, watching, or playing. This localized, relatively stationary pattern best matches the WRITE examples, where attention hovers near a single area (typing and monitoring a text cursor) with fine adjustments rather than line-by-line scanning or wide exploration.",
+  "correct": true
+}

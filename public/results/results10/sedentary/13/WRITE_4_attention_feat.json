@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper-left area where code editor text and function header typically appear, closely matching the WRITE example\u2019s localized, top-left focused pattern rather than the more central or dispersed patterns of other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are confined to a small, lower-left code/IDE area with limited horizontal movement and some vertical shifts, matching the localized, focused pattern seen in WRITE rather than the broader exploration of SEARCH, BROWSE, or DEBUG.",
+  "correct": false
+}

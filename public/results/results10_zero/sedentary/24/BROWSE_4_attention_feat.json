@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are clustered in a few spatially separated regions, mostly near the lower half and center of the screen, without the horizontal line-by-line pattern of reading or code viewing. This sparse, localized distribution matches following or monitoring game elements more than browsing, reading, or coding tasks.",
+  "correct": false
+}

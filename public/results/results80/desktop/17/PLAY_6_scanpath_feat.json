@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster in a compact central region with short, multidirectional saccades and no strong horizontal reading lines, matching the browsing example more than the structured horizontal patterns of READ or the dispersed motion in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

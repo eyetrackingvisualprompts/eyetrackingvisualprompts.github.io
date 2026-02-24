@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze coordinates show frequent, rapid shifts across a relatively wide vertical and horizontal range, with many short, localized clusters interspersed by larger jumps. This pattern is more consistent with visually tracking changing game elements and navigating a dynamic scene than with the more line-structured, horizontally constrained movements typical of reading, coding, or focused web search tasks.",
+  "correct": false
+}

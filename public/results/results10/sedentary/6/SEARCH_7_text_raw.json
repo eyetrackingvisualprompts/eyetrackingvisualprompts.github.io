@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in compact code-like regions (upper-left, mid-width, then mid-vertical band), with many short, local shifts and revisits, and several large off-screen jumps suggestive of scrolling or switching within an IDE, closely matching the INTERPRET exemplars rather than the more extensive vertical/horizontal coverage of READ/BROWSE or the highly dynamic PLAY patterns.",
+  "correct": false
+}

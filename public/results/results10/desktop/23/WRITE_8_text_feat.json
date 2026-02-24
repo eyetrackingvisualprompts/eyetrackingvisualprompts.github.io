@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow central region with long, stable fixations and short, local saccades, similar to the sustained, line-based attention seen in the READ example rather than the broader exploratory movements in BROWSE, SEARCH, or WATCH, or the more dynamic shifts in PLAY and WRITE.",
+  "correct": false
+}

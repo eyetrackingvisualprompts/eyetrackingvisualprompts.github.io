@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed across multiple horizontal bands including top and mid screen, with frequent long saccades between dispersed areas\u2014matching scanning between search box, results list, and opened links more than the denser central focus of WATCH or the structured line patterns of READ/WRITE/INTERPRET.",
+  "correct": false
+}

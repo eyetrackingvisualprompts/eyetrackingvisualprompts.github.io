@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are scattered along a curved horizontal-to-diagonal path across mid-to-upper screen regions rather than aligned in text-like rows or concentrated on a few UI elements; this dynamic, wide-area scanning pattern is most consistent with visually tracking moving game elements during PLAY.",
+  "correct": false
+}

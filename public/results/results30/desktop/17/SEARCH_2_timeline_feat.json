@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with small, regular horizontal shifts and very limited vertical range, indicating line-by-line scanning of static text rather than larger exploratory movements typical of browsing, searching, or gameplay.",
+  "correct": false
+}

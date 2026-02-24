@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent, rapid shifts across a relatively localized region with repeated back-and-forth tracking-like movements and vertical transitions, consistent with following moving objects or dynamic elements on the screen in a game, rather than the more structured horizontal scan patterns of reading/searching or the more clustered, code-line-focused fixations of programming-related tasks.",
+  "correct": true
+}

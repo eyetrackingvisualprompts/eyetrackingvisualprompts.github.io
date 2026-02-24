@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around the center with medium spread and varied saccade directions, resembling the example SEARCH pattern more than the more linear READ/WRITE or multi-cluster PLAY/WATCH patterns, consistent with scanning a search-results page.",
+  "correct": false
+}

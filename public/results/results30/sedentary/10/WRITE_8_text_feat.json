@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large and frequent long-range saccades across wide horizontal and vertical extents (including to screen edges/top bar), alternated with short local scans in multiple, shifting regions, match exploratory navigation behavior on heterogeneous web pages rather than the more line-structured reading/search patterns or the localized code-centric tasks.",
+  "correct": false
+}

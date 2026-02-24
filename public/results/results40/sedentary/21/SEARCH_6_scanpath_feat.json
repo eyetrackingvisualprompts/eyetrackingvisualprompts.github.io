@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated mainly on a left-central vertical region with repeated back-and-forth saccades between a few clusters and occasional long shifts to the right, matching focused inspection and re-checking typical of debugging code in an IDE rather than more uniform reading or dispersed browsing/search patterns.",
+  "correct": false
+}

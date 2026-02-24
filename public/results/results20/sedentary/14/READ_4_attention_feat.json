@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are distributed horizontally across the upper-middle region of the screen, covering a broad area without the tight vertical band typical of reading text or the strong left-side concentration seen in code tasks. This spread, resembling the WATCH example, suggests following dynamic visual content in a video rather than focused reading or coding.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a narrow horizontal band with small, systematic fixations and occasional localized saccade bursts, closely matching the focused, line-by-line code inspection seen in the INTERPRET example rather than the broader exploration or dynamic tracking patterns of other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated near the central-upper region with moderate dispersion and frequent shifts among nearby points, closely matching the SEARCH example pattern where users inspect central search results and side elements rather than the more linear READ pattern or the broader WATCH/PLAY distributions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal band in the lower central area of the screen, matching where the document text line and cursor typically appear during typing, similar to the WRITE example and unlike the more central (BROWSE/SEARCH), upper (READ), or more dispersed (PLAY/WATCH) patterns.",
+  "correct": false
+}

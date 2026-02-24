@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large-amplitude saccades occur in varied directions (both horizontal and vertical), with scattered fixation positions across the visual field rather than constrained to a line (reading) or a single axis (horizontal saccades), and without the long central fixations of the Fixations task; this broad, quasi-random spatial pattern best matches the Random Saccades activity.",
+  "correct": false
+}

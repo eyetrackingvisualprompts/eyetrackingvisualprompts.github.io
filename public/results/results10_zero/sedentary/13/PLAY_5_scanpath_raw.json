@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent, multidirectional saccades spanning much of the screen with few stable horizontal reading lines, suggesting continuous tracking or navigation behavior typical of simple game play rather than reading, coding, or web browsing tasks.",
+  "correct": true
+}

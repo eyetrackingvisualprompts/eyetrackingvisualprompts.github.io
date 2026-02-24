@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across a central region with frequent saccades in multiple directions and medium spatial spread, closely matching the exploratory yet screen-centered pattern seen in the SEARCH example, rather than the more linear (READ/WRITE) or edge-focused (WATCH/PLAY) or more clustered (BROWSE) patterns.",
+  "correct": false
+}

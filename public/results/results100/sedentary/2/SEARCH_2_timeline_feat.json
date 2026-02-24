@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mid-level variability in both X and Y with occasional vertical shifts and irregular saccades, resembling mixed reading and scanning behavior across different page regions, which aligns best with the browsing pattern rather than the more structured reading/search or the highly dynamic play/watch examples.",
+  "correct": false
+}

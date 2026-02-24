@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze follows a mostly stable horizontal band with gradual rightward drift in X and small smooth changes in Y, plus periodic downward jumps and returns, consistent with line-by-line reading behavior rather than frequent large shifts typical of browsing, searching, or playing games.",
+  "correct": false
+}

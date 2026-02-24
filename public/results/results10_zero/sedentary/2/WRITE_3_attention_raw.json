@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered within a narrow vertical strip on the left side of the screen, spanning multiple line-like y-positions with little horizontal spread, consistent with reading text in a column rather than scanning code panels, dynamic game elements, or dispersed web browsing content.",
+  "correct": false
+}

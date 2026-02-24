@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over the left-central code area with frequent vertical and short horizontal shifts, plus occasional moves to the right, closely matching the DEBUG example pattern and differing from the tighter INTERPRET cluster or the more dispersed WRITE/BROWSE/SEARCH layouts.",
+  "correct": true
+}

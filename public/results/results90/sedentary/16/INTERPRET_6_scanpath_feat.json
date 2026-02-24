@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small left-side region with limited horizontal spread and some vertical movement, matching the focused code-reading pattern of INTERPRET rather than the wider exploration seen in browse/search/debug or the structured multiline layout of READ.",
+  "correct": true
+}

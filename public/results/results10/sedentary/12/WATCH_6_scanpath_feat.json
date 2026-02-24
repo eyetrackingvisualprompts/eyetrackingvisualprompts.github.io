@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid movements across a wide screen area with frequent shifts between central and peripheral regions, resembling tracking dynamic on-screen elements rather than line-by-line reading or localized code inspection; this spatiotemporal pattern is most consistent with gameplay behavior.",
+  "correct": false
+}

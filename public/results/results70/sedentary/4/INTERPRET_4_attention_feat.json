@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in the upper-left code area with a short horizontal spread and minimal attention elsewhere, matching the focused editor-region pattern seen in the WRITE example rather than the broader or more distributed patterns of other tasks.",
+  "correct": false
+}

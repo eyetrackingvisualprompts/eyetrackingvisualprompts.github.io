@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are clustered at a small set of discrete positions that are spread across both horizontal and vertical axes, without forming a central cluster or a left-to-right reading pattern, consistent with following a target that jumps to random screen locations and is held briefly at each position.",
+  "correct": true
+}

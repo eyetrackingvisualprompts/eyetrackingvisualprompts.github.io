@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread horizontally across the upper-middle band of the screen with multiple fixation clusters and scanning along a row, resembling reading and checking several items in a result list, which matches the SEARCH heatmap pattern more than the others.",
+  "correct": false
+}

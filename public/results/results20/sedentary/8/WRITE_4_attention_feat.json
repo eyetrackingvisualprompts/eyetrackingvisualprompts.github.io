@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple vertical regions on the left and right sides, resembling attention shifts between search results, snippets, and possibly a side panel, matching the SEARCH heatmap more than the other activities.",
+  "correct": false
+}

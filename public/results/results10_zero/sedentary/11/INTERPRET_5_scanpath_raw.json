@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is confined to a small area in the upper-left of the screen with frequent, rapid saccades and revisits to overlapping regions, consistent with visually tracking a localized game area or object rather than the systematic horizontal/vertical scan patterns typical of reading, coding, or web browsing.",
+  "correct": false
+}

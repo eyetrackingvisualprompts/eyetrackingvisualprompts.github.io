@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium horizontal movements with gradual downward Y progression and occasional larger vertical saccades, resembling mixed scanning and short reading segments typical of free web browsing rather than the more structured, steady patterns seen in READ or the tighter code-focused tasks like WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

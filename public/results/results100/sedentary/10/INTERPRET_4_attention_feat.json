@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in the upper-left code area with a secondary smaller cluster slightly to the right, matching the focused inspection of a short code snippet seen in INTERPRET, rather than the broader horizontal band of WRITE or the single dense block of DEBUG.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small region with repeated returns to similar coordinates and moderate vertical shifts between what likely correspond to code and nearby UI elements (e.g., console, toolbar). The pattern resembles focused work within an IDE rather than wide exploratory scanning (SEARCH/BROWSE), continuous central tracking (WATCH/PLAY), or long horizontal reading lines (READ). It is closest to the WRITE example, which shows similar localized movements around code-editing areas.",
+  "correct": false
+}

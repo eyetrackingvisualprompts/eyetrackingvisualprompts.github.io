@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze alternates frequently between mid-lower code region and upper/side areas, with many returns to similar code line bands, plus repeated long saccades to a small top area (likely console/output or error indicators) and back. This pattern of checking code segments, jumping to top, then re\u2011inspecting specific lines matches the DEBUG examples more than the more linear INTERPRET/READ or broader BROWSE/SEARCH scans.",
+  "correct": false
+}

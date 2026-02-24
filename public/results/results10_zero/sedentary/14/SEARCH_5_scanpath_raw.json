@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows relatively smooth, continuous horizontal sweeps across a wide portion of the screen with occasional long vertical shifts, consistent with following dynamic visual content in a video rather than the more localized, line-structured fixations typical of reading, coding, or searching tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows two compact, horizontally arranged fixation clusters slightly below screen center, consistent with reading a line or two of text in a relatively static region, rather than the broader, more dispersed or highly dynamic patterns typical of browsing, searching, gaming, or watching video.",
+  "correct": false
+}

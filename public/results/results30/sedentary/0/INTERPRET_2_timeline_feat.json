@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixation patterns are mostly centered with occasional larger vertical saccades and brief excursions, resembling the WRITE example where attention alternates between code and other UI elements, rather than the more systematic horizontal scanning of READ/INTERPRET or the broader movements of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

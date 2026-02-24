@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small central region with minimal horizontal or vertical progression and few distinct lines of saccades, indicating sustained attention to a mostly static central area\u2014as when watching video content\u2014rather than the systematic line-by-line scanning of READ, multi-area exploration of SEARCH/BROWSE/PLAY, or dispersed shifts typical of WRITE.",
+  "correct": false
+}

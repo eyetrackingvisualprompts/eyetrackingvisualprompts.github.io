@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large intermittent saccades to extreme off-screen/near-toolbar coordinates (negative y, very high x), repeated jumps between central content and screen edges, and mixed scanning with re-fixations resemble using a search engine and navigating results, matching the SEARCH pattern more than the more line-structured READ/WRITE/INTERPRET or localized code-focused DEBUG behaviors.",
+  "correct": false
+}

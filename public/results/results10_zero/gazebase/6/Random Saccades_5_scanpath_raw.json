@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete movements to scattered positions across both horizontal and vertical dimensions, with the gaze jumping between widely separated points rather than following a primarily horizontal line (reading, horizontal saccades) or staying near the center (fixation). The pattern matches following a target that appears at random screen locations, consistent with Random Saccades.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a mid\u2011lower screen band around the code area with dense, local fixations and short saccades, repeatedly revisiting nearby coordinates (editing/inspection loops) and occasional jumps to top/edge regions, closely matching WRITE examples and differing from more linear READ or more scattered BROWSE/SEARCH patterns.",
+  "correct": false
+}

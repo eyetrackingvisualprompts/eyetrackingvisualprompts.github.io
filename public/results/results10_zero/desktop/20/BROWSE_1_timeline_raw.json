@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions stay within a narrow central band with small horizontal shifts and occasional short downward saccades, indicating line-by-line progression over static content, which is characteristic of reading rather than the larger, more scattered movements typical of search, browsing, gameplay, or video watching.",
+  "correct": false
+}

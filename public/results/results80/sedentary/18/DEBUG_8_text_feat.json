@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent large saccades between extreme screen regions (including off-screen coordinates), repeated returns to code-like central areas, and prolonged pauses around mid-screen lines match the write-task examples, where participants alternate between typing (eyes off-screen or at peripherals) and checking/editing code, rather than the more linear scan of READ or the broader exploratory jumps of BROWSE/SEARCH.",
+  "correct": false
+}

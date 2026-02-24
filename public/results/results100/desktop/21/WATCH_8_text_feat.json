@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with frequent shifts between dispersed regions (including mid and lower screen, occasional jumps), lacking the highly regular horizontal scanlines of READ or the tight upper-text-band focus of WRITE. The pattern resembles exploratory navigation over heterogeneous content, consistent with BROWSE rather than the more static WATCH or the highly task-locked PLAY/search layouts.",
+  "correct": false
+}

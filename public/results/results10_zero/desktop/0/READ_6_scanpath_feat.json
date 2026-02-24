@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are confined to a narrow horizontal band near the center, with short horizontal saccades and clustered fixations, consistent with line-by-line reading rather than larger exploratory movements typical of browsing, searching, watching videos, playing games, or writing (which would show more vertical or dispersed patterns).",
+  "correct": true
+}

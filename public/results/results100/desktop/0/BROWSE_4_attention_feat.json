@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are dispersed across a broad central region with both vertical and horizontal spread, resembling scanning of search results and pages, most similar to the SEARCH example heatmap compared to the more localized or structured patterns of other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows long periods of stable fixations around mid-upper screen with frequent horizontal shifts between nearby positions, interspersed with occasional large vertical jumps and scattered points\u2014matching the mixed reading + result-scanning and query/refinement pattern characteristic of web search behavior, and closely resembling the provided SEARCH example distribution and dynamics.",
+  "correct": false
+}

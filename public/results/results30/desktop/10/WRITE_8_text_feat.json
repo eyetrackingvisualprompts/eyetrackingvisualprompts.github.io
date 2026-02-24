@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains confined to a narrow horizontal band near the top of the screen with long, stable fixations (often >1 s) and small vertical shifts, matching line-by-line reading patterns more than the larger, more scattered movements typical of browsing, searching, or gameplay, and unlike the more central/lower fixation regions for writing or video watching in the examples.",
+  "correct": false
+}

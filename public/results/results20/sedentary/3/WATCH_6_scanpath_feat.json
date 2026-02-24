@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates between a cluster on the left/top (likely code editor area) and another on the right/middle (e.g., console or reference), with long cross-screen saccades and dispersed fixations typical of programming while typing and checking output, matching the WRITE pattern more than other tasks.",
+  "correct": false
+}

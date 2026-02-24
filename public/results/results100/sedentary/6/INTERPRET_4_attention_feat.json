@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left side over multiple vertical regions resembling several code lines, with additional scattered checks lower on the page, closely matching the DEBUG example heatmap pattern of repeatedly scanning and revisiting different code segments rather than the tighter cluster of WRITE or INTERPRET.",
+  "correct": false
+}

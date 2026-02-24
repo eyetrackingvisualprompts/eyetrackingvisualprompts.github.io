@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered around a central region with moderate vertical spread and limited horizontal movement, similar to the SEARCH example where attention is focused on a results area rather than following long horizontal text lines as in READ.",
+  "correct": false
+}

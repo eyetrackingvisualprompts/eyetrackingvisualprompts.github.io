@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a band with horizontal movements across a lower region and a tight cluster above, resembling scanning result snippets and occasionally shifting to another area, which matches the provided SEARCH pattern more than the other activities.",
+  "correct": false
+}

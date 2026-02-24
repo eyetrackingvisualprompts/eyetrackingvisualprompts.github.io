@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude vertical and horizontal shifts between central and slightly upper screen regions, with many medium-long fixations and revisits, match the heterogeneous scanpaths and mixed reading-scrolling behavior seen in BROWSE more than the more strictly horizontal patterns of READ or the more bottom-focused WRITE; dynamics and spatial distribution also differ from PLAY, SEARCH, and WATCH examples.",
+  "correct": false
+}

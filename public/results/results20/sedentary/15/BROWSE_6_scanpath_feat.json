@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a single central code-like region with dense, repeated fixations and short saccades, similar to the INTERPRET example and more localized than the broader movements seen in DEBUG or BROWSE.",
+  "correct": false
+}

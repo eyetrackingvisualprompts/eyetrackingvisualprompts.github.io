@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across wide screen regions (top, bottom, left, right, even off-center extremes) with scattered mid-length fixations and no systematic line-by-line structure indicate exploratory viewing and scrolling typical of free web browsing rather than the more localized, structured patterns seen in reading, code tasks, or gameplay.",
+  "correct": false
+}

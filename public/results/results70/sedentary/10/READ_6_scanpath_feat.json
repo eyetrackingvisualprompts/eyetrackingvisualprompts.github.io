@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows extended horizontal scanlines across a wide central band of the screen with occasional vertical transitions between upper and lower content regions, matching the structured yet wide-ranging reading and navigation behavior typical of web browsing rather than the denser, more localized patterns seen in code or game-related tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Alternation between clusters of fixations in upper-left/lower-left (near 0.0\u20130.3 x, 0.0\u20130.4 y) and central/right regions with medium-length fixations and frequent medium/large saccades, including vertical and diagonal transitions, closely matches the exploratory, multi-region scanning seen in the BROWSE examples rather than the more line-structured READ pattern or the more centrally constrained WATCH/WRITE patterns.",
+  "correct": false
+}

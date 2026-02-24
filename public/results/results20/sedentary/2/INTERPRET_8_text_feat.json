@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and short saccades clustered around a narrow code-like region with repeated back-and-forth revisits, interspersed with occasional large jumps (likely to editor/console or other UI elements), closely matches the WRITE example pattern more than the other activities.",
+  "correct": false
+}

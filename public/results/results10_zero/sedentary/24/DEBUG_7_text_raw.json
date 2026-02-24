@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cover wide screen regions with smooth, continuous movements and shifts between clustered areas rather than tight line-by-line or code-column patterns, suggesting following dynamic visual content across the display, which is most consistent with watching a video.",
+  "correct": false
+}

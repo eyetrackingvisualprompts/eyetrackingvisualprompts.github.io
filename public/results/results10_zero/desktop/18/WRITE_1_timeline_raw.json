@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change smoothly with occasional vertical shifts, lacking the systematic horizontal scanning and line-by-line regressions typical of reading/writing or search/browse tasks. The pattern suggests following dynamic visual content in a relatively central region, which is most consistent with watching a video.",
+  "correct": false
+}

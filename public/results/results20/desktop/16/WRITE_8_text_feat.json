@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow band near the top of the screen with long, stable fixations and very small local saccades around a central-left region\u2014matching looking at and slightly above a text line plus the upper UI area in a word processor, and differing from the more mid-screen, scanning patterns seen in READ/BROWSE/SEARCH and the broader, dynamic movements in WATCH/PLAY.",
+  "correct": true
+}

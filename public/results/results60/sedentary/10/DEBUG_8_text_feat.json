@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent back-and-forth saccades between a compact vertical band of coordinates (roughly x=100\u2013350, y\u2248250\u2013600) with many short fixations around the same code-like area and repeated returns to similar y-levels resemble code editing behavior in the WRITE examples more than the more linear scanpaths of READ/SEARCH or the large global shifts of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

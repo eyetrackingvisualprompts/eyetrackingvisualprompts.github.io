@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are scattered across the screen with no clear horizontal lines typical of reading or writing. The gaze moves between several distinct regions, including central and side areas, consistent with scanning search results, query box, and other interface elements during web search rather than the more focused or structured patterns of READ, WRITE, WATCH, BROWSE, or PLAY.",
+  "correct": true
+}

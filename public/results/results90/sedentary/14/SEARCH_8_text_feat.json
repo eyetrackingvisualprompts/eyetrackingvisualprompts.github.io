@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent vertical transitions between top-of-page header/URL area (~y\u224850\u201370) and mid/lower regions (~y\u2248550\u2013750), with repeated revisits and scanning across horizontal bands, match the pattern of web search result page inspection more than the more uniform line-by-line patterns of READ or the more central, code-focused patterns of programming tasks.",
+  "correct": true
+}

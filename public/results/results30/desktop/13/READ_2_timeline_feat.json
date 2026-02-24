@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions are centered with moderate horizontal and vertical shifts and frequent small saccades, indicating scanning within a central region similar to browsing examples rather than structured line-by-line reading or more extreme movements seen in play/watch tasks.",
+  "correct": false
+}

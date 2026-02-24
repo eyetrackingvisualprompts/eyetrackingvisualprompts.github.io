@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "After an initial saccade into place, both X and Y positions remain essentially constant around the screen center for the full 10 s window, indicating sustained gaze on a static central target characteristic of the Fixations task.",
+  "correct": true
+}

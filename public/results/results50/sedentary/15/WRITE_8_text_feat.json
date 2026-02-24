@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long-range saccades between far-apart screen regions (including top, bottom, center, and far right) with many medium fixations and revisits to mid-page areas match scanning SERP results and clicked pages, unlike the more localized, line-structured patterns of READ/WRITE/INTERPRET/DEBUG or the smoother scene-following of WATCH and object-focused PLAY.",
+  "correct": false
+}

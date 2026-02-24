@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cluster around the central region with frequent but localized saccades in multiple directions, lacking the strong horizontal structure of reading or writing and the edge-focused or wide-range patterns seen in watching videos or playing games. This pattern best matches the browsing example, where attention shifts among various central-page elements such as headlines, images, and links.",
+  "correct": true
+}

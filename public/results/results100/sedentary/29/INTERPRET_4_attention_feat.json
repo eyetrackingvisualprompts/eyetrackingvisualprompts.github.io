@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are densely clustered in a compact region on the upper-left side, with very limited horizontal spread and a few scattered glances elsewhere. This pattern closely matches the INTERPRET example, where participants focus intensely on a small code snippet area to reason about its output, rather than the broader or more central distributions seen in other tasks.",
+  "correct": true
+}

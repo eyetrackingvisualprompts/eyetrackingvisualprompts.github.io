@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are widely distributed around the central area with multiple vertical and horizontal clusters, indicating scanning of results lists, ads, and related elements typical of search engine pages rather than the more focused central pattern of browsing a single article or the linear bands of reading/writing.",
+  "correct": false
+}

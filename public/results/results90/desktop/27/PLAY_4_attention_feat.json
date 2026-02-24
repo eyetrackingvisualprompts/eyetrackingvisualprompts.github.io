@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central mid-height region with slight horizontal spread, closely matching the BROWSE example pattern (central content area of a webpage) rather than the higher vertical position of SEARCH or the more distributed patterns of other tasks.",
+  "correct": false
+}

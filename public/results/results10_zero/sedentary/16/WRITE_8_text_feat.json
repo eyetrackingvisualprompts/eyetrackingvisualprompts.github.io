@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-length fixations with many horizontal saccades around mid-screen, punctuated by large jumps between widely separated regions (including top area), suggest scanning search results/snippets and then jumping to other result sections rather than the more line-structured reading or the tightly clustered code/IDE gaze typical of INTERPRET/DEBUG/WRITE, or the more continuous focal tracking of WATCH/PLAY.",
+  "correct": false
+}

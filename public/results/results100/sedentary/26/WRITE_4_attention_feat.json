@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated in a compact area on the left side of the screen with minimal dispersion elsewhere, closely matching the INTERPRET example heatmap of focused inspection of a short code snippet, rather than the slightly broader code areas for DEBUG or WRITE or the more scattered patterns of browsing, search, reading, play, or watch.",
+  "correct": false
+}

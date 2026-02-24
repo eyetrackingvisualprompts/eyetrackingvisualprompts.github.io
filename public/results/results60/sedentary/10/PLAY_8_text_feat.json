@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent transitions between top-of-page, off-screen, and mid-page regions, with many long saccades and scattered fixations resembling moving across headers, address bar, and multiple page sections, match the heterogeneous, exploratory scanpaths seen in the BROWSE examples more than the more localized, task-structure-bound patterns of code tasks, reading, or games.",
+  "correct": false
+}

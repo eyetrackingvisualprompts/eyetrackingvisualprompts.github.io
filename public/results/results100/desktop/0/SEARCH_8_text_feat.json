@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a small upper-central band with many long, stationary fixations and short, local saccades, showing minimal horizontal scanning and no systematic line-by-line progression. This stable, narrowly clustered pattern in the upper screen region matches the WRITE examples and differs from the broader horizontal sweeps of READ and the larger exploratory jumps of BROWSE/SEARCH or dynamic shifts of PLAY/WATCH.",
+  "correct": false
+}

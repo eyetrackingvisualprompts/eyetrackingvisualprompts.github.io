@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a narrow horizontal band with predominantly short fixations and moderate horizontal saccades, consistent with line-by-line reading behavior rather than the larger, multidirectional scanning seen in PLAY, SEARCH, WATCH, WRITE, or BROWSE.",
+  "correct": false
+}

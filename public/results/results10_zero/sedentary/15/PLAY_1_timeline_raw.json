@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows repeated horizontal sweeps at similar vertical levels with periodic downward jumps in Y position, consistent with line-by-line text reading rather than code manipulation, dynamic objects, or static video watching.",
+  "correct": false
+}

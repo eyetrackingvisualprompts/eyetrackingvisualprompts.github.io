@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in two main vertical regions: a dense cluster on the left consistent with code/text editing and another on the mid-right, with occasional long transitions between them and to the bottom\u2014matching shifts between code, console, and possibly documentation typical of writing/implementing code rather than the more localized INTERPRET/DEBUG patterns or the more dispersed SEARCH/BROWSE/WATCH/PLAY patterns.",
+  "correct": false
+}

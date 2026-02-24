@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points show large jumps across widely separated screen regions (including off-screen/negative coordinates), revisits to prior zones, and scattered, non-linear scanning patterns, consistent with free web browsing rather than structured reading, code-centric tasks, or continuous video/game following.",
+  "correct": false
+}

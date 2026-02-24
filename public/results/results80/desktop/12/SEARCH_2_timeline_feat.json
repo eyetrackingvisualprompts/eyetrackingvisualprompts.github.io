@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower part of the screen with relatively small horizontal range and stable vertical positioning, closely matching the WRITE example pattern where gaze focuses around the text-entry area rather than scanning widely as in BROWSE or SEARCH or following strong horizontal lines as in READ.",
+  "correct": false
+}

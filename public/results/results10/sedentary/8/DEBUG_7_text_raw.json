@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze points cluster tightly around a limited code-like area with many small, local saccades and vertical shifts between nearby regions, matching the focused, line-by-line inspection and re-checking typical of debugging rather than broader scanning or long horizontal reading patterns.",
+  "correct": true
+}

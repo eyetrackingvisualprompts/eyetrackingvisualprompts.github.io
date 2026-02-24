@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively narrow vertical range with moderate horizontal movement focused around a central code-like area, similar to the INTERPRET example and less exploratory than BROWSE/SEARCH or dynamic than PLAY/WATCH, indicating concentrated inspection of a code snippet to understand its behavior.",
+  "correct": false
+}

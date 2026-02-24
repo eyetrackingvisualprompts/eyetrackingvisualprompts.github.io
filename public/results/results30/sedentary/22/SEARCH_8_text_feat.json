@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze is confined to a narrow horizontal band with long sequences of left\u2013right passes and small regressions, closely matching the stable line-by-line reading patterns in the READ examples, unlike the more scattered or vertically exploratory patterns in SEARCH or BROWSE.",
+  "correct": false
+}

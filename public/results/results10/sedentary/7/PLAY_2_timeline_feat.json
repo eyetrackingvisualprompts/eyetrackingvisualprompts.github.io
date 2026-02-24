@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "X fixation drifts steadily across the horizontal axis with almost constant Y fixation, matching the line-by-line horizontal scanning pattern seen in the READ example, unlike the more varied movements in coding, browsing, search, or gameplay tasks.",
+  "correct": false
+}

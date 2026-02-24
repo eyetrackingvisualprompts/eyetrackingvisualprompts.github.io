@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze is confined to a small, upper-left region with short, local saccades and repeated fixations, indicating focused inspection of a compact text area rather than wide exploration or code-editing movements, which best matches reading behavior.",
+  "correct": false
+}

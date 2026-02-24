@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades spanning wide screen regions (including edges/corners), frequent revisits between distant points, and dynamic vertical/horizontal shifts match the highly exploratory, target-following patterns seen in the PLAY examples, rather than the more line- or region-constrained patterns of coding, reading, searching, or browsing.",
+  "correct": false
+}

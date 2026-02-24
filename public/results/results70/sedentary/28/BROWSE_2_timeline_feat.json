@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated long horizontal sweeps with gradual downward Y drift and several larger jumps, indicating scanning across multiple differently structured areas (e.g., web pages) rather than systematic line-by-line reading or focused code work, matching the browsing pattern best.",
+  "correct": true
+}

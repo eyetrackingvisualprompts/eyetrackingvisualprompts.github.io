@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Heatmap shows a horizontally elongated band of fixations in the lower half of the screen, consistent with left-to-right scan along text lines with limited vertical spread, characteristic of reading rather than large-amplitude or random saccades, static fixation, gameplay, or free video viewing.",
+  "correct": true
+}

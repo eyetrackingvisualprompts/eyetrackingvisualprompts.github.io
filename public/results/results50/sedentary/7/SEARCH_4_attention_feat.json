@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple horizontal bands and distinct regions, including top, mid, and some lower areas, resembling scanning of results, snippets, and related elements in a search engine page rather than focused code (WRITE/DEBUG/INTERPRET) or continuous reading/ watching patterns.",
+  "correct": true
+}

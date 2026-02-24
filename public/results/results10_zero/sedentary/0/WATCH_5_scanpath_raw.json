@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades spanning wide horizontal distances and substantial vertical jumps without a clear line-by-line or block-structured pattern typical of reading or code inspection. The gaze appears to follow moving targets and shift across dispersed screen regions, which is most consistent with visually tracking elements in a simple game rather than static text or code.",
+  "correct": false
+}

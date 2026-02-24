@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large saccades to screen edges/outside bounds, repeated jumps between top, middle, and far bottom regions, and many visits to extreme corners (including off-screen coordinates), consistent with scrolling and exploring different web page regions typical of free web browsing rather than the more localized, structured patterns seen in coding, reading, or video watching tasks.",
+  "correct": false
+}

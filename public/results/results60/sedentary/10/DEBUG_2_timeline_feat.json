@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow vertical band near the top-left with relatively small horizontal shifts and few large saccades, matching the stable code-and-editor region focus seen in the WRITE example rather than the broader exploration or scanning patterns of other tasks.",
+  "correct": false
+}

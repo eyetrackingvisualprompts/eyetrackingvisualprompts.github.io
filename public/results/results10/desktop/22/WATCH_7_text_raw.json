@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around a central horizontal band with frequent short saccades and brief relocations up/down and left/right to nearby regions, resembling scanning of search results and SERP elements. The pattern shows more diversified but still text-focused movements than the stable line-by-line sweeps of READ and less vertical scrolling and sidebar exploration than BROWSE, matching the SEARCH exemplar dynamics most closely.",
+  "correct": false
+}

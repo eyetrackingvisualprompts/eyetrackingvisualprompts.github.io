@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations clustered around a central code area with frequent short saccades among nearby coordinates, interspersed with periodic large jumps to top-of-screen locations and back, matches the editing/scrolling/code-navigation pattern seen in WRITE examples more than the smoother scanpaths of READ/WATCH or the more erratic wide-range jumps of BROWSE/SEARCH/PLAY.",
+  "correct": true
+}

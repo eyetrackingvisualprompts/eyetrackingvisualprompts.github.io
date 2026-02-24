@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a mid\u2011lower region with many short fixations (\u22480.2\u20130.5s) and frequent small horizontal/oblique saccades within a compact area, matching the scanning of mixed text/graphics seen in the BROWSE example and differing from the more vertical, line\u2011structured patterns of READ or the more top-heavy patterns of WRITE/WATCH.",
+  "correct": false
+}

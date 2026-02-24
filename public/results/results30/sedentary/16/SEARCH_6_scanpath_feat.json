@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers multiple vertical regions (top, mid, and near-bottom) with repeated transitions between them, similar to scanning search results and a webpage, matching the SEARCH example pattern more than the others.",
+  "correct": true
+}

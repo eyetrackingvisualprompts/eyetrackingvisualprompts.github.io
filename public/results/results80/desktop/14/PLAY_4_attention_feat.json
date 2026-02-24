@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a mid-screen vertical band around the center, with moderate spread both horizontally and vertically, resembling the browsing example heatmap more than the narrow horizontal band of reading or the upper-screen focus of watching and writing.",
+  "correct": false
+}

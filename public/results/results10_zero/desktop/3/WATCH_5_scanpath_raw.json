@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small central region with short, repetitive movements and no systematic left-to-right / top-to-bottom sweeps or large exploratory shifts, suggesting focused attention on a small area such as the text insertion point and nearby words typical of typing in a word processor, rather than the broader scan patterns seen in reading, browsing, or search, or the larger screen coverage of games or videos.",
+  "correct": false
+}

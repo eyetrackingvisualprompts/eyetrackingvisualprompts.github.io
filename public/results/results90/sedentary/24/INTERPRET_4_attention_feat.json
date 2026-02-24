@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows a dense, focused fixation cluster on the left-center area of the screen with some scattered looks to nearby regions, closely matching the DEBUG example pattern more than the tighter INTERPRET cluster or other broader-distribution tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is clustered in a relatively small central-horizontal band with limited vertical movement and no systematic left-to-right or line-by-line pattern typical of reading, browsing, or searching text. The smooth, continuous transitions between nearby points resemble following motion in a video or animation rather than scanning static content or code, making WATCH the most plausible activity.",
+  "correct": true
+}

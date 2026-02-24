@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a relatively low Y region with slowly drifting X position and periodic short regressions, matching the steady, line-focused gaze near the text input area typical of typing in a word processor, unlike the larger vertical ranges seen in reading or browsing.",
+  "correct": false
+}

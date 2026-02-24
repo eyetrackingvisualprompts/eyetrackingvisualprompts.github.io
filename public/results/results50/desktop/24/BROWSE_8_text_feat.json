@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across wide regions of the screen (from upper text-like band ~y\u22480.7\u20131.1 down to bottom y\u22480.1\u20130.3 and back), with many revisits and vertically extensive trajectories, match the dynamic, multi-directional viewing seen in the PLAY examples rather than the more line-structured, constrained patterns of READ/WRITE or the more top-centered patterns of SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

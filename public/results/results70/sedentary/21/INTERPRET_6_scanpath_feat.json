@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on the left-central code area like WRITE/INTERPRET/DEBUG, but with additional long saccades to the far right side of the screen, consistent with repeatedly checking output or error messages while examining code, which matches the DEBUG pattern in the examples.",
+  "correct": false
+}

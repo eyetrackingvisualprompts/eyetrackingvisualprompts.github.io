@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely scattered across the screen with frequent large saccades in multiple directions and fewer stable horizontal clusters, indicating dynamic, multidirectional visual search typical of gameplay rather than reading, writing, or web browsing/searching focused on text areas.",
+  "correct": true
+}

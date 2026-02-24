@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows clustered fixations in a relatively compact central region with limited horizontal scanning and no clear line-by-line pattern typical of reading or writing. The distribution suggests attention to a central dynamic stimulus, consistent with watching a video rather than text-heavy or search/browsing interfaces that induce broader, more systematic scanning.",
+  "correct": false
+}

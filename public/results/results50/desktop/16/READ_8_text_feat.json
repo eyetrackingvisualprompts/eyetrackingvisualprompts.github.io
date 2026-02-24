@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long vertical saccades between widely separated regions (top, middle, bottom), with clusters of fixations around central-horizontal bands resembling result snippets, interleaved with jumps to peripheral coordinates, matches the scan-and-scroll pattern of using a search engine more than the steadier line-by-line reading or the more localized patterns of browsing or watching video.",
+  "correct": false
+}

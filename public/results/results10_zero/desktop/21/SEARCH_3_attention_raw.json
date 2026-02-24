@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered around a central vertical region with small vertical movements, consistent with fixations on a localized text area rather than wide exploratory scanning typical of search, browse, or play, or large shifts common in watching video; this pattern best matches focused reading behavior.",
+  "correct": false
+}

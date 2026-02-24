@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze pattern shows large saccades across wide horizontal extents and dispersed vertical positions with relatively few dense clusters, resembling free viewing of dynamic visual content rather than structured line-by-line reading or code-focused inspection; this best matches the WATCH activity example.",
+  "correct": false
+}

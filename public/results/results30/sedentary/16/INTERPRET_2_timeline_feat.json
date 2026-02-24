@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent shifts between different vertical levels and broader horizontal exploration than reading or interpretation, resembling the more scattered, multi-region viewing pattern in the DEBUG example where participants alternate between code, errors, and execution output within the IDE.",
+  "correct": false
+}

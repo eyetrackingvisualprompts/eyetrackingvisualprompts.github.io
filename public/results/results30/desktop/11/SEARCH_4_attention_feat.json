@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central region with moderate vertical spread, resembling the browsing example heatmap more than the narrow horizontal band of reading or the more dispersed patterns of play, search, or watch.",
+  "correct": false
+}

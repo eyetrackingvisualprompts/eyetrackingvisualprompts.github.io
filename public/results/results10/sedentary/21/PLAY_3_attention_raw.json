@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is distributed across many regions of the screen with multiple scattered fixations and no single dominant area, indicating exploratory viewing typical of free web browsing rather than focused code reading/writing or watching a central video/game object.",
+  "correct": false
+}

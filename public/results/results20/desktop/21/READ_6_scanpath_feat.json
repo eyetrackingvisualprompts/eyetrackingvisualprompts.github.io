@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper-right text area with intermittent large vertical saccades down to a small region near the lower center, consistent with looking between the main text and a localized area such as the typing region or toolbar in a word processor, characteristic of the WRITE activity rather than the more uniformly distributed or horizontally banded patterns of the other tasks.",
+  "correct": false
+}

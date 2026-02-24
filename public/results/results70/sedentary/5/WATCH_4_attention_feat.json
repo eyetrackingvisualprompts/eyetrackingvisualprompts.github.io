@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are widely dispersed across the entire screen with no dominant cluster, indicating continuous tracking of moving objects or navigation over a large area, which best matches the PLAY (gaming) pattern rather than the more localized, text- or code-centered tasks.",
+  "correct": false
+}

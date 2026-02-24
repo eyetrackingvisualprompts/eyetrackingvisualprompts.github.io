@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces show steady, incremental shifts with relatively small vertical range and regular horizontal progression, closely matching the structured line-by-line scan pattern in the READ example rather than the more scattered or erratic patterns of BROWSE, SEARCH, or PLAY.",
+  "correct": false
+}

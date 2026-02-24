@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region around the central part of the screen with limited vertical spread, closely resembling the browsing example heatmap and typical for reading mixed text/graphics around the page center during web browsing.",
+  "correct": false
+}

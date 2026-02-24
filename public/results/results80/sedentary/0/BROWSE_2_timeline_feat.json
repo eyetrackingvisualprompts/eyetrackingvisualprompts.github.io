@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed horizontal scanning with frequent shifts between regions and intermittent vertical movements, resembling alternation between a search results list and individual pages; this pattern best matches the SEARCH example compared to the more uniform READ pattern or the more chaotic BROWSE/PLAY/WATCH behaviors.",
+  "correct": false
+}

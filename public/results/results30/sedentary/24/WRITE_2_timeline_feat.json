@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows frequent shifts between upper and lower vertical regions with moderate horizontal movements, resembling alternation between code editor and other IDE areas, which best matches the WRITE task patterns among the provided examples.",
+  "correct": true
+}

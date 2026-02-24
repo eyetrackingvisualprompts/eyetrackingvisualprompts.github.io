@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows wide vertical and horizontal movements between dispersed areas along with clusters of fixations, resembling navigation between search results, query box, and content, which matches the SEARCH pattern more than the more localized code, reading, or watching layouts.",
+  "correct": false
+}

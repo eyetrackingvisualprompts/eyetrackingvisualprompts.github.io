@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively long and clustered with small, systematic horizontal and slight vertical shifts, consistent with line-by-line inspection of localized text rather than wide exploratory scans or tracking moving objects; the pattern matches focused reading or code-like reading more than dynamic tasks like PLAY/WATCH or broad navigation like BROWSE/SEARCH, and among text-centric tasks READ is the most likely given the smooth, local progressions without frequent large context-switch jumps typical of coding/debugging.",
+  "correct": false
+}

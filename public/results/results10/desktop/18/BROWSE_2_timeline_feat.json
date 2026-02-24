@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "X fixation drifts steadily rightward while Y fixation gradually moves upward then slightly down, with relatively smooth, monotonic trends and few large vertical shifts\u2014closely matching the SEARCH example pattern of scanning results and following links, and differing from the more static READ/WRITE or more dynamic PLAY/WATCH trajectories.",
+  "correct": false
+}

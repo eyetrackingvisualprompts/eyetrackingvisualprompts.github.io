@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Both X and Y show medium-range scanning with occasional larger shifts and vertical repositioning, resembling mixed reading and interface checking behavior typical of search results pages, and matching best with the SEARCH example pattern among the provided classes.",
+  "correct": false
+}

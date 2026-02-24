@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, highly concentrated fixation region with minimal horizontal or vertical scanning, indicating sustained attention to one small area on the screen rather than line-by-line reading or code inspection, which is more consistent with passively watching a video than with interactive or text-based tasks.",
+  "correct": false
+}

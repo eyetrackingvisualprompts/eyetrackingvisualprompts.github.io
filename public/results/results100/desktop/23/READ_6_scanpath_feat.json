@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band with small vertical spread, resembling line-by-line scanning of text similar to the READ example rather than the more scattered or multi-region patterns seen in other activities.",
+  "correct": true
+}

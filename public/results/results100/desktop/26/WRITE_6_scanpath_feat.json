@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cover a mid-screen vertical range with both horizontal and vertical saccades and scattered fixations, resembling mixed reading and exploratory movements typical of browsing news/blog pages rather than the more constrained patterns of pure reading, writing, or game playing.",
+  "correct": false
+}

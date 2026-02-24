@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a mid-screen region with dispersed fixations and varied saccade directions, indicating exploratory viewing of heterogeneous on-page elements, most similar to the browsing scanpath pattern rather than the more linear READ/WRITE paths or the multi-cluster PLAY behavior.",
+  "correct": false
+}

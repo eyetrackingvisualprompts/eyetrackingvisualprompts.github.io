@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium, relatively stable horizontal position with several abrupt vertical shifts to distinct bands, resembling scrolling through different sections of a webpage; this pattern best matches the BROWSE example rather than the more dynamic SEARCH/PLAY or structured READ/WRITE behaviors.",
+  "correct": false
+}

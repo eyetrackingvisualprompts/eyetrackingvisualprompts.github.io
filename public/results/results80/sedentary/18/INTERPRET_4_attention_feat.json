@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are strongly clustered on a compact region in the left-center with a smaller cluster slightly below, matching the focused, localized code-inspection pattern seen in the DEBUG example, unlike the more distributed patterns of other tasks.",
+  "correct": false
+}

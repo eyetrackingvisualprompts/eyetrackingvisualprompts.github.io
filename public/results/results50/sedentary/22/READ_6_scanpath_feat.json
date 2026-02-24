@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow vertical band with mainly horizontal left-to-right sweeps at two distinct vertical regions (likely text lines/paragraphs), with occasional long saccades between them, matching structured reading behavior rather than dispersed exploration or code interaction.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Large, smooth shifts and broad vertical excursions in both fixation and saccade positions resemble continuous scene changes typical of watching videos, distinct from the more constrained, text-line or page-anchored patterns seen in READ, WRITE, BROWSE, or SEARCH, and less erratic than PLAY.",
+  "correct": false
+}

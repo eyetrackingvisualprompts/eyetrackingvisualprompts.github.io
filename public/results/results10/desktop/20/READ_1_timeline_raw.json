@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows slow, structured horizontal shifts with relatively stable vertical positions and occasional downward jumps, resembling line-by-line progression over text, which matches the reading pattern more than the other, more erratic or exploratory activities.",
+  "correct": true
+}

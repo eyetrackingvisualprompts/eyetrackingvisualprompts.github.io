@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate, somewhat irregular horizontal movements with vertical shifts and intermittent saccadic spikes, indicating frequent code inspection and cursor/IDE checks, which aligns best with the DEBUG example pattern among the provided classes.",
+  "correct": true
+}

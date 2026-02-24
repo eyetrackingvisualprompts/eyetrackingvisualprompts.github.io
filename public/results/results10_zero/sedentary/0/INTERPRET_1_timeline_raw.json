@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze positions show long, relatively stable horizontal regions with gradual drifts and occasional step-like shifts, indicating sustained attention to a few screen areas rather than systematic line-by-line reading or frequent scanning of text or UI elements. This pattern best matches passively watching a video, where the eyes follow on-screen content with smooth shifts rather than structured reading or code-related inspection.",
+  "correct": false
+}

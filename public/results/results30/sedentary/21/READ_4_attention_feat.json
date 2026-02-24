@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered around the screen center with moderate horizontal spread and little vertical movement, lacking the structured horizontal bands of reading or the left-anchored code patterns of programming tasks. This centralized, continuous focus pattern best matches watching a full-screen video.",
+  "correct": false
+}

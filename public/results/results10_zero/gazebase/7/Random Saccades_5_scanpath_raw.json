@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows large, primarily horizontal gaze shifts spanning much of the screen width with relatively small vertical variation and roughly 1-second dwells, matching the controlled left-right tracking of the Horizontal Saccades task rather than the more irregular or centrally clustered patterns of the other activities.",
+  "correct": false
+}

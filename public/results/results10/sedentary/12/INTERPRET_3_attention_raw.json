@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a small region in the upper-left code area with limited spread, closely matching the INTERPRET example heatmap and indicating focused inspection of a short code snippet rather than broader exploration or long text reading.",
+  "correct": true
+}

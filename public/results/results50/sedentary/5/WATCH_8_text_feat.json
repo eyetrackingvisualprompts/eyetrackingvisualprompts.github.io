@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, frequent jumps across the full screen (including extremes near screen edges), mixed vertical and horizontal transitions between dispersed regions, and irregular revisits\u2014matching the exploratory, non-linear scan paths characteristic of free web browsing rather than the more localized or structured patterns seen in reading, coding, debugging, or video watching.",
+  "correct": false
+}

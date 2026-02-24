@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shows repeated long saccades between distant regions (center\u2194corners, top\u2194bottom) with clustered fixations on several distinct locations, consistent with scanning code, checking different parts (e.g., function header, body, output/console) and revisiting specific lines, which is more typical for debugging than the more linear reading of READ/INTERPRET or the smoother focal tracking in WATCH/PLAY.",
+  "correct": false
+}

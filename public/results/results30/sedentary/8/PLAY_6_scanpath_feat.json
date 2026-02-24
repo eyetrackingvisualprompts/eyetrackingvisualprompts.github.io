@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is widely distributed over both horizontal and vertical axes with many medium-length saccades between dispersed fixation clusters, resembling tracking of moving visual content across the screen rather than structured line-by-line reading or code-focused behavior; this pattern best matches the WATCH examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely concentrated on a narrow left-side vertical region with frequent small saccades and revisits, matching focused code inspection/editing seen in DEBUG, rather than the more horizontally spread patterns of READ/WRITE or the wider exploratory patterns of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

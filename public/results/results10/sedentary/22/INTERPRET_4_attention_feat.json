@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow vertical strip on the upper-left where code would appear, with a secondary cluster lower-left (e.g., console/output or another code region). This localized but multi-area pattern best matches debugging behavior compared with the other tasks.",
+  "correct": false
+}

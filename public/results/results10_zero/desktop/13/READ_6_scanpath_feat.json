@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered along a narrow, mostly horizontal band with small horizontal saccades and nearly constant vertical position, consistent with fixations moving along a single text line rather than large exploratory or multidirectional movements typical of play, search, browse, watch, or write tasks.",
+  "correct": true
+}

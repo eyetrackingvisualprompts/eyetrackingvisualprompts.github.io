@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions in both axes, alternating between dispersed upper/lower and left/right areas, with many short to medium fixations, match the dynamic, multi-directional gaze behavior seen in the PLAY examples and are less consistent with the more horizontally banded, text- or UI-centered patterns of READ/WRITE/BROWSE/SEARCH or the more clustered WATCH pattern.",
+  "correct": false
+}

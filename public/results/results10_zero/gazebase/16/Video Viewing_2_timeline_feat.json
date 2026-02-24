@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete, step-like changes to various locations across both horizontal and vertical axes, with each position roughly maintained for about a second before jumping elsewhere. Movements are not constrained to a purely horizontal path nor centered fixation, and lack the structured left-to-right pattern typical of reading or the clustered behavior of game or video viewing, matching the random target-following pattern of Random Saccades.",
+  "correct": false
+}

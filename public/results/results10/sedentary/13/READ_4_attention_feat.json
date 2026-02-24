@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a tight horizontal band near the upper-middle of the screen, progressing smoothly from left to right with little vertical movement, matching the reading pattern shown in the READ example heatmap rather than the more scattered or central patterns of other tasks.",
+  "correct": true
+}

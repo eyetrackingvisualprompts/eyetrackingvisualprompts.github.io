@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze exhibits frequent long saccades between widely separated vertical locations (near top, mid, and bottom of page), mixed with shorter local inspections\u2014consistent with scanning and jumping around a web page. Patterns lack the orderly horizontal line sweeps of READ and the tight code-centered clusters of WRITE/DEBUG/INTERPRET, instead matching the heterogeneous navigation and content-skipping behavior seen in BROWSE examples.",
+  "correct": false
+}

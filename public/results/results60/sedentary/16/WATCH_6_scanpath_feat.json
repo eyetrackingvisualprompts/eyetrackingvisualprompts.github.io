@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are widely distributed across the screen with many long, rapid saccades and shifting clusters, indicating continuous tracking of moving objects or navigation typical of gameplay rather than the more localized or structured patterns of reading, coding, or browsing.",
+  "correct": false
+}

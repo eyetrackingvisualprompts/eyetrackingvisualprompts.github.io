@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows sustained, line-like horizontal scanning with small regressions and tight clusters around specific y-levels, consistent with reading text lines and re-reading portions, rather than wide exploratory navigation (SEARCH/BROWSE) or code/IDE regions (INTERPRET/DEBUG/WRITE). The pattern and spatial strip near the top and mid-page match the provided READ examples.",
+  "correct": false
+}

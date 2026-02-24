@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large saccades across widely separated regions with multiple clusters of fixations, indicating visually guided navigation and target tracking over the whole screen, which matches the dynamic and spatially distributed gaze behavior typical of playing games rather than the more localized patterns of reading, writing, watching, searching, or browsing.",
+  "correct": true
+}

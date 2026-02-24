@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude saccades between vertically separated regions (y\u22480.3\u20130.6) with many short-to-medium fixations and occasional longer dwells, covering both mid and upper parts of the page, matches the heterogeneous, scroll-and-skim pattern seen in BROWSE more than the more horizontal, line-locked patterns of READ or the very stable central fixations of WATCH/WRITE.",
+  "correct": false
+}

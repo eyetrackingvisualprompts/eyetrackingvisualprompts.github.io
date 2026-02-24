@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between distinct, widely separated fixation positions in both horizontal and vertical directions, with roughly 1-second plateaus and jumps of several degrees in random 2D directions, matching a target that moves unpredictably across the screen rather than purely horizontal or static viewing/reading patterns.",
+  "correct": false
+}

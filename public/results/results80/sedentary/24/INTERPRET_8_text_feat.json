@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations and saccades are concentrated in a relatively small mid-left code-like region with repeated revisits between slightly different vertical positions (around y\u2248380\u2013620) and horizontal sweeps consistent with scanning short code lines, without the long, orderly horizontal reading lines of READ or the broader navigation and top-bar excursions seen in SEARCH/BROWSE. The dense, localized, back-and-forth inspections resemble editing/implementing code as in WRITE rather than the more top-down, bug-hunting patterns of DEBUG.",
+  "correct": false
+}

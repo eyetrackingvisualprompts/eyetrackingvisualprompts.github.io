@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively long and clustered in a narrow horizontal band with small progressive/regressive saccades, consistent with reading text on a single line or nearby lines rather than wide exploratory movements (browse/search) or large dynamic shifts (play/watch).",
+  "correct": false
+}

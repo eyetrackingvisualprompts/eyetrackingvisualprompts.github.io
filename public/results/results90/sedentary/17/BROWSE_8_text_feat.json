@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including off-center extremes and vertical moves between mid and far top/bottom), repeated returns to mid-lower areas, and short fixations indicate continuous tracking of dynamic objects and spatial navigation, matching the PLAY game behavior more than the more line-structured, text- or code-focused patterns of READ/WRITE/DEBUG/INTERPRET or the more passive, broader-scene patterns of WATCH/BROWSE/SEARCH.",
+  "correct": false
+}

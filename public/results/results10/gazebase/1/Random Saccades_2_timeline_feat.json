@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "Both X and Y fixation traces show moderate, irregular movements without strict horizontality or large random jumps, resembling natural free-viewing patterns rather than structured saccade tasks, reading lines, or game-induced rapid shifts.",
+  "correct": false
+}

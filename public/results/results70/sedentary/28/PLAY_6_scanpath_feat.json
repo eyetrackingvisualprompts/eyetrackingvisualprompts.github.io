@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows early wide exploration across the upper-left region followed by concentrated fixations in a horizontal band around mid-screen, matching the pattern of scanning search results then focusing on relevant snippets typical of SEARCH behavior rather than the tighter, more uniform blocks of READ or code-related tasks.",
+  "correct": false
+}

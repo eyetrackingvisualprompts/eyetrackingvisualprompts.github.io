@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered near the center with frequent multidirectional saccades and moderate vertical spread, closely resembling the SEARCH example pattern rather than the more localized READ/WRITE, more peripheral WATCH, or more dispersed PLAY scanpaths.",
+  "correct": false
+}

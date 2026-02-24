@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze spans a large horizontal region near the bottom with long sweeps and fewer structured line-by-line fixations, resembling tracking dynamic visual content rather than reading or code-oriented tasks; this pattern best matches the WATCH examples.",
+  "correct": true
+}

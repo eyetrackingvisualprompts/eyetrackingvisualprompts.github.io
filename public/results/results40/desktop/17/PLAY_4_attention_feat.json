@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered around the central region with limited vertical spread, matching the focused central attention typical of browsing webpages rather than the wider horizontal scan of reading or the dispersed patterns of play/watch/search.",
+  "correct": false
+}

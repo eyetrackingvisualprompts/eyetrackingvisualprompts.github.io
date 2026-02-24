@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including to extreme edges and even off-screen), with frequent revisits to central areas and mixed vertical/horizontal movement patterns, match the dynamic, target-following gaze behavior seen in the PLAY examples more than the more line-structured or code/reading-focused patterns of other tasks.",
+  "correct": false
+}

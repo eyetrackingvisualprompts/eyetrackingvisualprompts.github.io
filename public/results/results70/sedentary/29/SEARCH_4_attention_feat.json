@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations form a horizontal band across the upper-middle screen with clusters on the left and center, indicating scanning across search results or snippets rather than focused code (WRITE/DEBUG/INTERPRET) or dense reading; this pattern most closely matches the provided SEARCH example heatmap.",
+  "correct": true
+}

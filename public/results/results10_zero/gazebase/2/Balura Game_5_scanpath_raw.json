@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete gaze shifts covering much of the screen in both horizontal and vertical directions with relatively straight transitions between positions, consistent with following a randomly moving target rather than line-based reading, purely horizontal motion, or more clustered exploration as in video viewing or gaming.",
+  "correct": false
+}

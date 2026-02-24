@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a small central code-like region with many medium\u2013long fixations (~0.3\u20130.9s) and frequent short regressions within the same area, indicating detailed line-by-line reasoning rather than broader navigation or horizontal reading. This localized, analytic pattern matches INTERPRET examples more closely than the more vertically extensive WRITE/DEBUG patterns or the wide-ranging WATCH/BROWSE/SEARCH behaviors.",
+  "correct": true
+}

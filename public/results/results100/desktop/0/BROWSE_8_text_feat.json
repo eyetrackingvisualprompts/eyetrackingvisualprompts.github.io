@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including extreme vertical ranges up to y\u22481.1 and down to \u22480.04) with intermittent shorter fixations, plus repeated rapid shifts between center and edges, match dynamic, multi-directional gaze behavior typical of game play rather than the more localized, line- or region-based patterns seen in reading, writing, browsing, searching, or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated in a horizontal band on the upper-left, resembling reading a short line or snippet (like a search result), with an additional compact cluster on the right consistent with briefly checking another element such as a result or sidebar\u2014matching search-result page behavior more than full-page reading or coding tasks.",
+  "correct": false
+}

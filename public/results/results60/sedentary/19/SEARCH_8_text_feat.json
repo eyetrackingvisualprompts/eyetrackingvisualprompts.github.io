@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The data shows mixed horizontal scanning over a results-like band, frequent large saccades to off-screen/URL bar regions (negative coordinates, top of screen), and repeated returns to different horizontal lines, matching the heterogeneous, exploratory gaze behavior typical for web search rather than the more linear READ pattern or code-focused tasks like WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

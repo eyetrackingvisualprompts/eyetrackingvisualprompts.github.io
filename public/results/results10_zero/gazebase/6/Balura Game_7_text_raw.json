@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze coordinates show large, abrupt jumps in both horizontal (x from about -25 to +36 deg) and vertical directions with subsequent short, tight clusters (fixations) at disparate positions. Movements are multi-directional, spanning much of the allowed \u00b115\u00b0 H and \u00b19\u00b0 V range, inconsistent with purely horizontal motion, reading scanpaths, or central fixation. This pattern best matches following a randomly moving target across the screen, i.e., Random Saccades.",
+  "correct": false
+}

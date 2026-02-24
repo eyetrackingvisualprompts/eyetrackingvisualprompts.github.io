@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed across multiple vertical regions including upper, middle, and lower parts of the screen, with several distinct clusters rather than a single code or text block. This pattern matches scanning search results and related content more than the more localized patterns of coding, reading, or watching video.",
+  "correct": false
+}

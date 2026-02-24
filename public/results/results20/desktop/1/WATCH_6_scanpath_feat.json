@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster around the screen center with moderate, multidirectional movements and no clear horizontal line structure, matching the browsing scanpath pattern more closely than the structured lines of reading or the dispersed patterns of play/search/watch.",
+  "correct": false
+}

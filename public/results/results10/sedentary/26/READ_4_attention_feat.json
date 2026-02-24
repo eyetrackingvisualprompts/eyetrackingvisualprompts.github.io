@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations form a horizontal band across the central area, similar to tracking moving elements in a game rather than static text blocks or code panels; this pattern best matches the PLAY example heatmap.",
+  "correct": false
+}

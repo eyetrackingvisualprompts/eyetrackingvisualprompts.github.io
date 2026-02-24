@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, multi-directional saccades across a broad central region without the orderly horizontal/vertical patterns typical of reading, coding, or web search. The gaze frequently shifts between a few spatially separated zones, consistent with following moving objects or character positions in a simple game rather than static text or UI elements.",
+  "correct": false
+}

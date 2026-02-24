@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, smooth, horizontally aligned sequences of fixations with regular leftward saccades to earlier x-positions at similar y-levels, progressing gradually downward through multiple horizontal bands\u2014characteristic of line-by-line reading, and closely matching the spatial-temporal patterns in the READ examples rather than the more scattered or object-following behavior in other tasks.",
+  "correct": true
+}

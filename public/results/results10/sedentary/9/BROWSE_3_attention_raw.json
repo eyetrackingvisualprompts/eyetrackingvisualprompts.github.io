@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around mid-screen text area with additional fixations slightly below, resembling attention to code and nearby editor elements similar to the WRITE example rather than the tighter top-line focus of READ or the broader spread of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in the upper-left code area with some movement slightly downward, closely matching the DEBUG example\u2019s localized inspection of one code region rather than the more spread layout of WRITE or the horizontal scan of READ/BROWSE.",
+  "correct": false
+}

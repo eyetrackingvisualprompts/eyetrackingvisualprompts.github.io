@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions for both X and Y are centered with frequent small saccades and short fixations scattered across the mid-screen, matching the dense, exploratory pattern seen in the BROWSE example rather than the more structured or directional patterns of reading, writing, searching, playing, or watching videos.",
+  "correct": true
+}

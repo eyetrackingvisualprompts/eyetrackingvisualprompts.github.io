@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered on a small region in the upper-left where a short code snippet would appear, with only a few scattered glances elsewhere, closely matching the INTERPRET heatmap pattern and differing from the more extended regions used in WRITE or DEBUG.",
+  "correct": true
+}

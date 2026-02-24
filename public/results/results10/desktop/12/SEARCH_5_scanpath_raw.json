@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is confined to a relatively small central region with irregular, multidirectional saccades and no clear horizontal reading lines, resembling the scattered fixation pattern seen in the BROWSE example more than the structured READ pattern or the broader movements of PLAY, SEARCH, WATCH, or WRITE.",
+  "correct": false
+}

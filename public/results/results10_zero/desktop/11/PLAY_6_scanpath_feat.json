@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a compact region slightly below screen center with short, local saccades and minimal vertical spread, indicating focus on a small area such as a text-entry line and nearby UI elements rather than broad horizontal scanning (reading/browsing) or wide movements (play/watch/search). This localized, sustained attention pattern is most consistent with typing in a word processor (WRITE).",
+  "correct": false
+}

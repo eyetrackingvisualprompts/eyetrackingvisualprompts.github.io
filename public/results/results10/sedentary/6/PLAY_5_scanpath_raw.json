@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized gaze with many short saccades around a small code region, plus moderate shifts horizontally, matches the concentrated inspection and re-reading typical of debugging rather than the more linear patterns of reading/browsing or the broader movements of watch/play/search.",
+  "correct": false
+}

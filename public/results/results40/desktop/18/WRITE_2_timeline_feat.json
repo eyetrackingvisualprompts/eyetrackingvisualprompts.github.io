@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows stable, horizontally progressing fixations with small vertical shifts, closely matching the structured left-to-right scanning pattern seen in the READ example rather than the larger, more erratic movements of browsing, playing, searching, watching, or writing.",
+  "correct": false
+}

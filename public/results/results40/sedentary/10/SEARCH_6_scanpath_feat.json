@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows dispersed fixations across multiple horizontal regions and vertical levels, with several long saccades to distant areas, resembling navigation across different webpage sections or pages. This spatial spread and irregular pattern best match the BROWSE example, differing from the more localized patterns of coding, reading, or interpreting tasks.",
+  "correct": false
+}

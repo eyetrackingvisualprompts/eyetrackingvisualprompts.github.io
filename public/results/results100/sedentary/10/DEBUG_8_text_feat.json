@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze repeatedly alternates between a compact code-like region (around y\u2248150\u2013400) and lower screen areas where the cursor/console would be (y\u2248550\u2013700+), with many revisits to specific coordinates and vertical transitions typical of editing and verifying code, closely matching the WRITE pattern rather than the more exploratory SEARCH/BROWSE or the more linear READ behavior.",
+  "correct": false
+}

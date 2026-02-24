@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a highly localized, stable fixation cluster near the screen center with minimal horizontal or vertical spread, suggesting the gaze stays on a central region for an extended time\u2014more consistent with passively watching video content than with the broader, scan-like or line-based patterns expected in reading, writing, searching, browsing, or playing games.",
+  "correct": false
+}

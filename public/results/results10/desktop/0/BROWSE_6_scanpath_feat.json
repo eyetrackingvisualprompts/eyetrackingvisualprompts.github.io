@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form mainly horizontal scanlines at two nearby vertical positions, consistent with line-by-line reading behavior rather than dispersed exploration (BROWSE/SEARCH), large directional shifts (PLAY), or upper-screen focus (WRITE/WATCH).",
+  "correct": false
+}

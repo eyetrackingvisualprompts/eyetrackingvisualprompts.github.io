@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays in a mid-lower screen band with many short fixations and frequent small saccades plus occasional medium jumps, resembling scanning mixed content (text + elements) as in browsing; it lacks the highly regular horizontal line sweeps of READ and the more top-heavy vertical exploration of SEARCH, and is less center-focused and stable than WATCH or WRITE.",
+  "correct": false
+}

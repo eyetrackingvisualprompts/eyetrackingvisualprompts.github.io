@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows many medium-duration fixations (\u22480.17\u20130.4s) with predominantly horizontal saccades and gradual progression across a band of y-coordinates, consistent with scanning lines of text rather than rapid object tracking, large exploratory jumps, or focused code editing/debugging patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Highly concentrated fixations on a compact region in the upper-left where the code editor text likely appears, with a few lower fixations resembling reference to console or other panels, matches the WRITE example heatmap more than other tasks.",
+  "correct": true
+}

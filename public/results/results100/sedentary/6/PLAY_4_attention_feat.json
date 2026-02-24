@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated around the central area with spread in multiple directions, resembling continuous tracking of dynamic objects rather than line-based reading or code inspection. This spatial pattern closely matches the PLAY example heatmap, where gaze follows moving game elements across the screen.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band on the left\u2013center of the screen with occasional long saccades to the right, matching looking between code editor and output/other IDE areas as in the WRITE example, rather than the denser multi-region exploration seen in BROWSE, SEARCH, or DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in a compact central region with multi-directional saccades and no strong horizontal line structure, resembling the dense, localized exploration typical of search result pages rather than the linear patterns of reading or the upper-screen focus of watching/typing.",
+  "correct": false
+}

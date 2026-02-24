@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show step-like changes to various discrete levels in different directions, with ~1 s plateaus between movements and irregular spatial pattern, matching the random, multi-directional target jumps of the Random Saccades task rather than the strictly horizontal pattern of Horizontal Saccades or the more continuous patterns of other tasks.",
+  "correct": true
+}

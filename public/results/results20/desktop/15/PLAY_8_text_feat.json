@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze exhibits medium-length fixations with frequent shifts between mid-screen vertical positions and both central and lateral horizontal positions, including occasional jumps to different regions. This mixed, non-linear scanning without strong horizontal line-by-line reading structure resembles the exploratory, multi-region viewing behavior seen in the BROWSE examples rather than the more orderly patterns of READ/WRITE or the more dispersed dynamics of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

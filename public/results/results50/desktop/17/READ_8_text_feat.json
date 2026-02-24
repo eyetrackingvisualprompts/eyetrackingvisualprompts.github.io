@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts spanning wide screen regions (including corners and edges), interleaved with shorter local adjustments, indicate dynamic tracking of moving targets rather than line-based reading or document-style browsing; this spatio-temporal pattern best matches interactive gameplay behavior.",
+  "correct": false
+}

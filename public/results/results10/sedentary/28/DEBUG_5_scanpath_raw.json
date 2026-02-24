@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated on a relatively small left-central area with repeated vertical and diagonal transitions, including long sweeps between top and bottom regions, resembling structured code inspection rather than dispersed browsing or game-like movement; this pattern best matches INTERPRET, where participants repeatedly scan code blocks to reason about program output.",
+  "correct": false
+}

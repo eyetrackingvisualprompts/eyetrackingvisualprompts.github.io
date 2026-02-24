@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly code-region gaze with many medium-length fixations and frequent vertical transitions between nearby lines/areas, plus occasional large relocations, closely matches the structured yet exploratory scan patterns seen in the DEBUG example rather than the more linear (READ/WRITE) or highly dynamic (PLAY/WATCH/BROWSE/SEARCH) behaviors.",
+  "correct": false
+}

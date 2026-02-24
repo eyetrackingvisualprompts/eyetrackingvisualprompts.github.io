@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements with small, step-like shifts and relatively stable vertical positions, consistent with line-by-line reading behavior rather than the larger, multidirectional shifts typical of browsing, searching, watching videos, playing games, or writing (which often shows more fixations around a central editing area and UI elements).",
+  "correct": false
+}

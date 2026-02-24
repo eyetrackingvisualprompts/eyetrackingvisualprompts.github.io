@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered around a central region with short saccades and frequent refixations, resembling focused examination of a localized area (like reading search results) rather than the broader horizontal sweeps of READ/WRITE or larger spatial exploration seen in BROWSE/PLAY/WATCH.",
+  "correct": false
+}

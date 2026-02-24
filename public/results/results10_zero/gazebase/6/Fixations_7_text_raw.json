@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, frequent shifts in both horizontal and vertical directions (including occasional very large jumps) followed by short stabilizations, without a consistent horizontal-only pattern or the structured left-to-right line sweeps typical of reading. The movements are not confined near the screen center as in pure fixation, and the pattern appears more like tracking a target that jumps to irregular positions than natural free viewing of video or game-driven selective fixations, matching the random saccades task description.",
+  "correct": false
+}

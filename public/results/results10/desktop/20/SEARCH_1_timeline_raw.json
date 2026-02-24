@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows sustained horizontal positions near the upper half with intermittent rapid vertical excursions and more variable vertical micro-movements, resembling shifts between text lines and UI elements typical of typing in a word processor, matching the WRITE pattern more than the steadier READ or the more scattered SEARCH/BROWSE/PLAY trajectories.",
+  "correct": false
+}

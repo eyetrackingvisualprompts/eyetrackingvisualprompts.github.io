@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points progress mainly left-to-right within confined vertical bands, with short-range horizontal saccades and local regressions indicative of line-by-line reading rather than the larger, more dispersed shifts typical of browsing, search, code-based tasks, or dynamic object tracking in games or videos.",
+  "correct": true
+}

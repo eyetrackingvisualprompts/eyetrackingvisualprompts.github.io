@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze repeatedly jumps between widely separated positions (up to ~30\u00b0 range in both axes), with each landing position held for roughly 0.2\u20130.8 s before the next large movement. This pattern of discrete, relatively long fixations at scattered locations with large, multidirectional saccades matches the behavior of following a randomly moving target rather than the more systematic horizontal-only pattern, dense line-by-line structure of reading, or the more locally clustered patterns expected in video, game play, or central fixation.",
+  "correct": true
+}

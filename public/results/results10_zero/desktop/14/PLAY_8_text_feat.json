@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered around the screen center with small-amplitude saccades and relatively long, stable fixations (often >0.5s, up to ~1s) and no clear systematic left\u2013right or line-by-line progression characteristic of reading or writing. The lack of large exploratory saccades and vertical scrolling patterns also makes search/browse less likely. This central, steady viewing pattern best matches passively watching a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a compact cluster of gaze points with only small local shifts, suggesting sustained attention on a single central region with minimal horizontal or vertical scanning. This pattern aligns best with watching a video where the main action is centrally located, rather than the systematic line-by-line scanning of READ/WRITE or the broader exploratory movements typical of BROWSE/SEARCH/PLAY.",
+  "correct": false
+}

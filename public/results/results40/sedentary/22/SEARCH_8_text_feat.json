@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long horizontal scanpaths around a single line region followed by large, frequent jumps across widely separated screen areas and into off-screen coordinates closely resemble the example SEARCH behavior on a results page with scattered attention between snippets and other UI elements, rather than the more structured line-by-line patterns of READ/BROWSE or the localized code-panel focus of programming tasks.",
+  "correct": true
+}

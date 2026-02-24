@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent medium-duration fixations and dense saccades around a constrained central code-like region, with repeated revisits and occasional large jumps (likely between code and peripheral GUI/console), closely match the structured yet exploratory gaze behavior seen in the WRITE examples rather than the more linear (READ), search-result oriented (SEARCH), or animation-following (WATCH/PLAY) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is organized in several horizontal bands with substantial vertical transitions between two main regions, resembling reading result snippets and then moving down the page. The pattern closely matches the SEARCH example, with structured but broader spread than focused code or reading tasks and more regular than free browsing.",
+  "correct": false
+}

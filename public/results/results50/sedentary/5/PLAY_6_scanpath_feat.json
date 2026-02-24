@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide horizontal spread across the page with multiple clusters around result-like regions and frequent transitions between them, resembling comparison of search results rather than the more central and smoother pattern of WATCH or the localized patterns of coding-related tasks.",
+  "correct": false
+}

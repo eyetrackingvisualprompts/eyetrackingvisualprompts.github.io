@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y positions drift slowly and smoothly with small saccades, resembling a continuous, line-by-line scanning pattern without large jumps or vertical shifts typical of browsing, searching, or code-related tasks, matching the READ example most closely.",
+  "correct": false
+}

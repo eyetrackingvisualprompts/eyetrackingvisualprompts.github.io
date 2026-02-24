@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows irregular, multi-directional saccades of varying amplitudes (including several large vertical shifts), with heterogeneous fixation durations and no clear horizontal line-by-line structure or strict left-right alternation. This pattern best matches natural, unconstrained viewing behavior as in Video Viewing rather than the more structured or constrained tasks like Reading, Horizontal Saccades, or central Fixations.",
+  "correct": true
+}

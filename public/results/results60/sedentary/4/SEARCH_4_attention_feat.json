@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow band in the upper-left/center where code and editor UI typically appear, with occasional shifts to the right side similar to the WRITE example; the spatial pattern and density best match the WRITE heatmap among the provided classes.",
+  "correct": false
+}

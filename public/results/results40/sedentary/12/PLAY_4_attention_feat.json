@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered around a central code area with limited horizontal scanning and some ancillary glances nearby, closely matching the focused yet localized inspection pattern seen in the DEBUG example heatmap rather than the broader spread of SEARCH/BROWSE or the line-like structure of READ.",
+  "correct": false
+}

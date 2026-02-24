@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows rapid, wide-ranging movements across both axes with frequent shifts between dispersed regions, lacking the stable horizontal scanpaths typical of reading or code tasks and the central clustering common in video watching; this broader, dynamic spatial exploration is most consistent with visually tracking game elements during PLAY.",
+  "correct": false
+}

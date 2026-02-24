@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show large, discrete jumps to widely separated locations followed by ~1-second clusters of small, stable variation around each location. Amplitudes span much of the \u00b115\u00b0 horizontal and \u00b19\u00b0 vertical range, matching the pattern of following a randomly moving target rather than the more regular back-and-forth of horizontal saccades or the smaller, structured movements typical of reading or video viewing.",
+  "correct": true
+}

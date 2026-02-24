@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern is widely distributed across the screen with no dominant central cluster, indicating scattered exploration consistent with web browsing rather than focused reading, coding, or video watching.",
+  "correct": false
+}

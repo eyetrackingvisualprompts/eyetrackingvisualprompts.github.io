@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively long, stable fixations with horizontal clusters around mid-screen y-levels and occasional vertical shifts, consistent with line-by-line text reading and paragraph transitions rather than continuous tracking (PLAY/WATCH) or dispersed, multi-region scanning typical of SEARCH/BROWSE/CODE-related tasks.",
+  "correct": false
+}

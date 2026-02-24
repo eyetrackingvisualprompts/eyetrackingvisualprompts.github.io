@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed across multiple mid-screen regions (center-left, right-center, and far-left), showing several distinct clusters without strong left-to-right line structure. This scattered yet content-focused pattern matches browsing dynamic web/news pages more than the more centralized SEARCH, linear READ/WRITE, or localized WATCH/PLAY patterns.",
+  "correct": false
+}

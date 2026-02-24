@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains within a relatively narrow horizontal band with smooth shifts between a few clusters, similar to tracking motion in a video, and unlike the more structured line-by-line patterns of reading/browsing or the scattered movements seen in coding-related tasks and games.",
+  "correct": false
+}

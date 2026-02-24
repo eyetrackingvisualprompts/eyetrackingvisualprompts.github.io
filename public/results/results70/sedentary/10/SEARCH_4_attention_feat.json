@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed vertically across multiple regions with several horizontal bands, indicating scanning different parts of a webpage (results list, snippets, possibly top bar), matching the SEARCH pattern more than the more localized coding or reading activities.",
+  "correct": true
+}

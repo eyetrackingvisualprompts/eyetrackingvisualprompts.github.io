@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly clustered around a central content area with occasional long saccades to the far right side of the screen, resembling transitions to side elements or new tabs/pages, which matches the browsing pattern more than the other tasks.",
+  "correct": false
+}

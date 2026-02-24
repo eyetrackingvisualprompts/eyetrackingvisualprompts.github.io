@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between mid and far-right X positions with corresponding vertical shifts, indicating repeated transitions between a central results area and a side/top region, consistent with scanning search results and related links rather than continuous reading or code-focused tasks.",
+  "correct": false
+}

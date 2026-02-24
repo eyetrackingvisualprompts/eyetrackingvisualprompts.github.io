@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are long (often 0.3\u20130.9s) and progress smoothly in a narrow horizontal band (~y=0.30\u20130.46) with small, regular rightward saccades and occasional leftward returns, closely matching line-by-line reading behavior rather than the larger, more scattered movements seen in browse/search or the peripheral, upper-screen focus of write/play/watch tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path covers a wide horizontal extent with large sweeping saccades and fewer dense clusters, resembling tracking moving visual elements across the screen as in the WATCH examples, rather than the tighter, structured patterns of reading, writing, or browsing/searching text and static pages.",
+  "correct": false
+}

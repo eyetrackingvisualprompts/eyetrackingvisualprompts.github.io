@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a few vertically separated areas on the left side of the screen, consistent with reading text in narrow columns or paragraphs rather than scanning across the full screen or following moving objects.",
+  "correct": false
+}

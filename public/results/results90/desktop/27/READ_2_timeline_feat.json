@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows regular, rhythmic horizontal sweeps in X with slow upward drift in Y, characteristic of line-by-line reading, closely matching the READ example pattern and unlike the more scattered or dynamic patterns of browsing, search, watching, playing, or writing.",
+  "correct": true
+}

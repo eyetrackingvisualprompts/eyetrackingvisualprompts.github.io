@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points jump between widely separated locations across both horizontal and vertical axes without a clear structured pattern, matching the irregular, screen-spanning movements characteristic of the Random Saccades task rather than the more localized or patterned movements of the other activities.",
+  "correct": true
+}

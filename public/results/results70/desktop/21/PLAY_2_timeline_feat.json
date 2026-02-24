@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate, sustained horizontal movement with mid-screen Y fixations and occasional saccades, resembling the SEARCH example more than the other tasks, which either have stronger vertical scanning (BROWSE/READ), low-variation focused regions (WRITE/PLAY), or larger dynamic shifts (WATCH).",
+  "correct": false
+}

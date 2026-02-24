@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The data shows two very long, slow saccades (over 4\u20135 seconds each) with only a brief fixation between them. This pattern is inconsistent with typical reading, coding, web browsing, or search\u2014where we expect many short saccades and frequent fixations\u2014but is more compatible with continuous, slow gaze shifts during passive video watching, where the eyes may track large scene changes or character movements with fewer distinct fixations.",
+  "correct": false
+}

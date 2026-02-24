@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show relatively smooth, moderate-amplitude shifts in both x and y with no clear left\u2011to\u2011right scanning or vertical scrolling patterns typical of reading, writing, or searching/browsing. Movements suggest following dynamic on-screen content with occasional saccades, which aligns best with watching a video.",
+  "correct": false
+}

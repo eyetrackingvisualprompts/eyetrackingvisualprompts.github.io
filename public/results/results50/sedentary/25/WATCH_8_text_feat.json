@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent long-distance saccades across wide horizontal extents, repeated transitions between mid/upper content and lower regions, and scanning along a horizontal band around y\u2248550\u2013650, closely matching the heterogeneous, horizontally roaming patterns in the BROWSE example rather than the more line-structured READ or object-following PLAY patterns.",
+  "correct": false
+}

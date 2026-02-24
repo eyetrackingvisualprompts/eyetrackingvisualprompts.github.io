@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are densely clustered in a relatively small central region with rapid, irregular saccades in multiple directions, resembling the localized but dynamic gaze behavior seen in the PLAY example more than the broader or more structured patterns of reading, browsing, searching, or watching video.",
+  "correct": false
+}

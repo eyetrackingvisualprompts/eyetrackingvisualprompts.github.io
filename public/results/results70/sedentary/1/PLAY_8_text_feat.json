@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Long fixations with many medium-scale horizontal saccades around a few lines, interspersed with frequent rapid, large jumps across widely separated screen regions (including edges and corners), match the mixed reading-plus-navigation pattern seen in the BROWSE examples, rather than the more vertically constrained scanning of READ or the code-centered patterns of programming tasks.",
+  "correct": false
+}

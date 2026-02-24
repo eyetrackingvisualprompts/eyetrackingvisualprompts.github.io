@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze stays mostly around a central horizontal band (code area) with frequent sharp vertical spikes and occasional coordinated X\u2013Y jumps, indicating rapid shifts between code lines and other UI elements typical of debugging rather than smoother reading/browsing or more uniform watching/playing patterns.",
+  "correct": false
+}

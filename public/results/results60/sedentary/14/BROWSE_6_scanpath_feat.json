@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows horizontal scanning across a narrow vertical region, resembling reading short text lines such as search results, with occasional larger saccades to a secondary area on the right\u2014characteristic of looking at result snippets and then focusing on a selected result, matching the SEARCH example most closely.",
+  "correct": false
+}

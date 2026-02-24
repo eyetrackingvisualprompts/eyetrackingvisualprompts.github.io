@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in the upper-left code area with minor spread downward, closely matching the INTERPRET example pattern of focused inspection of a single code snippet rather than the more extended horizontal scans of READ/WRITE or broader dispersion of other tasks.",
+  "correct": false
+}

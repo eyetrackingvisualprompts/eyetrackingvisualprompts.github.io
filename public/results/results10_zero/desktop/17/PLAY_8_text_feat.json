@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows medium-length fixations with mostly small, localized saccades interspersed with occasional larger jumps, forming clusters in nearby regions rather than continuous horizontal sweeps or highly erratic movements. This is characteristic of following lines/blocks of text and shifting between text areas (e.g., paragraphs or columns), aligning best with a reading task compared to the more dynamic, target-driven movements of PLAY, or the more frequent large navigation jumps typical of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small region near the upper-left area of the screen, similar to the WRITE example where gaze concentrates on a single text-entry area rather than scanning horizontally or across the whole display.",
+  "correct": true
+}

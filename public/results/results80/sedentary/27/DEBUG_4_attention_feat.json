@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a compact area in the upper-left code region with some spread around it, closely matching the DEBUG example pattern and differing from the tighter INTERPRET cluster and the more dispersed WRITE pattern.",
+  "correct": true
+}

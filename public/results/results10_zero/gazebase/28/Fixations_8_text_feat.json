@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains clustered near the screen center with very small-amplitude saccades (mostly <1\u20132 degrees) and long fixation durations (often >0.5\u20131 s, some >2 s), matching sustained central fixation rather than large, structured tracking (Horizontal/Random Saccades) or exploratory patterns (Reading, Video Viewing, Balura Game).",
+  "correct": true
+}

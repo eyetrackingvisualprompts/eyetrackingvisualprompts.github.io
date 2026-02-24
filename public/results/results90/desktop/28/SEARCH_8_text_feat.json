@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide screen regions (including extremes and even off-normalized bounds), rapid shifts between dispersed areas, and relatively short fixations\u2014patterns matching dynamic, spatially wide visual exploration typical of game play rather than the more central, structured scanning seen in reading, browsing, or search, or the localized patterns in writing or video watching.",
+  "correct": false
+}

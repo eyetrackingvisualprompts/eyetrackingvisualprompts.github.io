@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change slowly and smoothly with small incremental shifts and relatively sparse saccades, indicating continuous viewing of dynamic content without structured left-to-right or top-to-bottom scanning typical of reading, writing, browsing, or searching, and without large multi-directional shifts common in gameplay; this pattern best matches passively watching a video.",
+  "correct": false
+}

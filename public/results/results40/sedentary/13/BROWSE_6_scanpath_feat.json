@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread over multiple vertical regions with several transitions between upper and lower screen areas and occasional distant jumps, matching search-result scanning rather than focused reading, code inspection, or central video watching.",
+  "correct": false
+}

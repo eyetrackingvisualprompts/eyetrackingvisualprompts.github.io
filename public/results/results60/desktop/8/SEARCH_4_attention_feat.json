@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are concentrated around the central area of the screen with a roughly vertical spread and some scattered points, closely resembling the browsing example heatmap pattern more than the others, which suggests viewing a central content area like a news article or blog page.",
+  "correct": false
+}

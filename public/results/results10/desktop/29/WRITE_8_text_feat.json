@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is highly stationary in a small upper-central region with very long fixations (up to ~3.4s) and only tiny corrective saccades, indicating passive, continuous attention to a stable visual stimulus typical of video watching rather than the more scanning-intensive patterns of reading, browsing, searching, playing, or writing.",
+  "correct": false
+}

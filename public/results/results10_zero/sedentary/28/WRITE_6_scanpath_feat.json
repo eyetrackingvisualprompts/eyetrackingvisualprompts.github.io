@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are clustered in a small region with minimal horizontal or vertical progression, indicating sustained attention to a relatively fixed area rather than systematic line-by-line or code reading, search, or gameplay. This stable focal viewing is most consistent with watching a video where key content remains near the same screen location.",
+  "correct": false
+}

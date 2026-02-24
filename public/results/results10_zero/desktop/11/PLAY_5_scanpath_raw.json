@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze path is confined to a narrow horizontal band in the lower-middle area of the screen with small, repetitive left-right movements and limited vertical exploration, consistent with monitoring a single text line and nearby UI elements while typing, typical for the WRITE task rather than the broader or more dispersed scanning seen in browsing, searching, gaming, reading long texts, or watching videos.",
+  "correct": false
+}

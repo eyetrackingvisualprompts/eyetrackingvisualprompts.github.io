@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze stays near screen center with intermittent saccades of varying amplitudes and directions in both X and Y, occurring at roughly 1-second intervals but without a consistent purely horizontal back-and-forth pattern, matching the random target jumps of the Random Saccades task.",
+  "correct": false
+}

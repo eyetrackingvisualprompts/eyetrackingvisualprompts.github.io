@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large saccades across relatively few, spatially clustered fixation regions with some vertical excursions toward screen center/bottom, suggesting tracking dynamic game elements rather than line-by-line reading or code inspection, which better matches the PLAY activity.",
+  "correct": false
+}

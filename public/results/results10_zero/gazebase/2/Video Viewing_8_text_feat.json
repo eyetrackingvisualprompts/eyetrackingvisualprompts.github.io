@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shifts show large, irregular movements in both horizontal and vertical directions (often >10\u00b0 horizontally and several degrees vertically), with fixations around 200\u2013400 ms between them. This multidirectional, non-patterned sequence matches a target moving unpredictably across the screen, consistent with the Random Saccades task rather than the more structured horizontal-only motion, static fixation, line-based reading, game-driven selection, or naturalistic video viewing patterns.",
+  "correct": false
+}

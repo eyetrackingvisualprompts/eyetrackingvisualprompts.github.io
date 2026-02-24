@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows steady, incremental horizontal movements with largely stable vertical position, forming repeated left-to-right sweeps typical of line-by-line reading, and lacks the larger multidirectional shifts seen in search, browse, or game play.",
+  "correct": false
+}

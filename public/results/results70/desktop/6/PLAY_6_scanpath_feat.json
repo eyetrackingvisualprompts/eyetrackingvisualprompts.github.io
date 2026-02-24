@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal band with incremental left-to-right movements and short regressions, typical of line-by-line reading, and unlike the broader dispersed patterns seen in browsing, searching, gaming, watching videos, or writing.",
+  "correct": false
+}

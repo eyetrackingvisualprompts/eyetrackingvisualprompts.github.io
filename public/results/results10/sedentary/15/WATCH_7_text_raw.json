@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows dense, locally clustered fixations progressing mainly horizontally with small vertical shifts, consistent with line-by-line text reading rather than large exploratory jumps (BROWSE/SEARCH), continuous motion (WATCH/PLAY), or code-oriented fixation clusters (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

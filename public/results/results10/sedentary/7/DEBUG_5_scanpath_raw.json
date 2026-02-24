@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent transitions across distant screen regions with intermittent local clusters match the exploratory navigation between search results and clicked pages characteristic of SEARCH, similar to the provided SEARCH example scanpath.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mainly clustered over a left-central region consistent with reading a results list, with frequent long saccades to the far right/top\u2013right area resembling glances to a separate panel or new tab, matching the exploratory and back-and-forth pattern typical of search tasks rather than the more localized code (WRITE/DEBUG/INTERPRET) or uniform text reading (READ).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontal band across the middle of the screen with sequential fixations, closely matching the reading pattern example rather than the more scattered or vertically biased patterns of other activities.",
+  "correct": true
+}

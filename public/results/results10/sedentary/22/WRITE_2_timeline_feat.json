@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated shifts between a middle horizontal band and high vertical excursions, with varied fixation positions over time, resembling scanning results and jumping to different areas on a search results page, matching the SEARCH pattern more than the steadier reading or focused coding/debugging patterns.",
+  "correct": false
+}

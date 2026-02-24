@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a compact, rectangular region with horizontally aligned bands and limited vertical spread, closely matching the structured line-by-line pattern of reading text seen in the READ example rather than the more scattered or multi-region patterns of other tasks.",
+  "correct": true
+}

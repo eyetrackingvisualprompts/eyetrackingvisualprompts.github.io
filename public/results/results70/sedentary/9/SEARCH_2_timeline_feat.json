@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-range vertical transitions between upper and lower screen regions, mixed with horizontal scanning and occasional large saccades\u2014closely matching the varied, multi-region viewing pattern seen in the SEARCH example rather than the more line-structured (READ/WRITE) or highly dynamic (PLAY/WATCH) patterns.",
+  "correct": true
+}

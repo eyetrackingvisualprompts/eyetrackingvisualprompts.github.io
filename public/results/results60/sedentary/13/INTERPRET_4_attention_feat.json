@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a narrow vertical strip on the left side with minimal spread elsewhere, matching the localized code-area focus seen in INTERPRET rather than the wider left-side coverage of DEBUG or WRITE, which include additional regions like console or editor areas.",
+  "correct": true
+}

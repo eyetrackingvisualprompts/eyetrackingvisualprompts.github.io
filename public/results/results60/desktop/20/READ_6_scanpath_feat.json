@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, mainly horizontal band with small saccades and localized fixations, closely matching the spatial pattern of the READ example and unlike the more scattered and broader distributions seen in SEARCH, BROWSE, or PLAY.",
+  "correct": true
+}

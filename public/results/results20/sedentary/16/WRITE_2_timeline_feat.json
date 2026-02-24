@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mostly mid-screen horizontal fixations with occasional large vertical saccades to higher regions, matching the pattern of scanning search results and intermittently jumping to different result areas, similar to the SEARCH example and less systematic than READ/INTERPRET or WRITE/DEBUG.",
+  "correct": false
+}

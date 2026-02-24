@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze positions form several roughly horizontal bands with small vertical shifts and predominantly left-to-right progressions, matching the line-by-line scanpath structure typical of reading text rather than the more centralized, random, or purely horizontal patterns of the other tasks.",
+  "correct": true
+}

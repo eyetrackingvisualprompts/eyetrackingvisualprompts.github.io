@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is tightly clustered in the upper-left code area with minimal horizontal scanning, closely matching the DEBUG example where attention is focused on a small portion of the code while fixing errors.",
+  "correct": false
+}

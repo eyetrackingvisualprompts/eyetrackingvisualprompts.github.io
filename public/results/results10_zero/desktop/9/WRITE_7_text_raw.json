@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show long, stable horizontal fixations around a few discrete vertical bands (e.g., y\u22480.34, 0.37, 0.15, 0.18), with occasional saccades between these bands. This pattern matches line-by-line reading behavior on static text more than the larger, more scattered movements typical for search, browse, play, or watch tasks.",
+  "correct": false
+}

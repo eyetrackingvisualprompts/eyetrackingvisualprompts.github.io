@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows medium-scale vertical shifts between clusters (around y=0.3\u20130.4, then 0.5\u20130.6), interspersed with short local fixations and occasional jumps\u2014similar to scanning different regions of a web page or news site. It lacks the highly systematic left-to-right line patterns of READ, the wider, more erratic exploration of SEARCH, and the large-screen, edge-to-edge sweeps common in WATCH or PLAY. This matches the provided BROWSE example most closely in movement scale and variability.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze covers a wide vertical span including near and beyond screen bounds (y\u22480.2 to >1.0), with frequent medium/large saccades between dispersed regions and relatively short to mid-length fixations, resembling dynamic game navigation patterns rather than the more constrained, line- or area-focused viewing seen in reading, writing, or browsing/search tasks.",
+  "correct": true
+}

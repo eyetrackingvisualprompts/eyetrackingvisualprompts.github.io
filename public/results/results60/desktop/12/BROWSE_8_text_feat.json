@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a horizontal band in the central-upper area with many short, small-amplitude horizontal saccades and medium-long fixations, closely matching the stable, line-by-line scan pattern of the READ examples rather than the larger, more erratic shifts seen in BROWSE/SEARCH or the peripheral biases of PLAY/WRITE/WATCH.",
+  "correct": false
+}

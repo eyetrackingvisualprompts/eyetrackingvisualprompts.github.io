@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-long saccades spanning widely separated screen regions (center to edges, top to bottom) with moderate fixations and repeated revisits to upper and side areas resemble scanning SERP and results pages more than the more line-structured READ pattern or the tight top-band WRITE behavior; dynamics and spatial spread differ from WATCH and PLAY templates, and are less locally clustered than BROWSE.",
+  "correct": false
+}

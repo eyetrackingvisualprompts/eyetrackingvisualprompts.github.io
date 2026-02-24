@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are scattered across central and right regions with multiple distinct clusters and no strict horizontal line structure, indicating exploratory viewing of diverse on-screen elements similar to the BROWSE example rather than the more linear READ/WRITE or concentrated SEARCH patterns.",
+  "correct": false
+}

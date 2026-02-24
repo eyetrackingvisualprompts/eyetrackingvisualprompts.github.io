@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The fixation patterns show predominantly horizontal movements with gradual, step-like progressions in X and smoother, monotonic drifts in Y, matching line-by-line text reading behavior and resembling the READ example more than the other task patterns.",
+  "correct": false
+}

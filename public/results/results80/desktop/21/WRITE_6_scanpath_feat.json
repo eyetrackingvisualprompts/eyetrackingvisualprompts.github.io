@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows multiple distinct gaze clusters spread across the screen with frequent long saccades connecting them, indicating attention shifts between separated regions\u2014typical of visually exploring and tracking elements in a game rather than the more localized, structured patterns of reading, writing, or web browsing/searching.",
+  "correct": false
+}

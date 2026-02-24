@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper-left code area with occasional long saccades to the lower region (likely console or editor bottom) and to the right, resembling the WRITE example more than other tasks where gaze is either more clustered (INTERPRET) or more widely dispersed (PLAY/WATCH/SEARCH).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze sequence shows a small number of distinct fixation locations held for long, regular durations (\u22482.2 s, 2.2 s, 5.2 s, 2.5 s) with brief, discrete saccades between them and moderate changes in both horizontal and vertical position. This pattern matches following a target that jumps to and then stays at random screen positions for about one second or longer (Random Saccades), rather than continuous horizontal motion (Horizontal Saccades), dense line-by-line shifts (Reading), near-static gaze (Fixations), or complex, rapid, irregular patterns typical of the Balura Game or natural Video Viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The scanpath shows focused clusters over the code area with a few long diagonal saccades to another region, closely matching the INTERPRET example pattern where participants alternate between code blocks while reasoning about program output.",
+  "correct": false
+}

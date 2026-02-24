@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across wide screen regions (including extremes), substantial vertical and horizontal movements, and irregular scanning patterns resemble the dynamic, all-direction navigation and target tracking seen in the PLAY examples more than the more structured, line-based or centrally clustered patterns of READ/WRITE/BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

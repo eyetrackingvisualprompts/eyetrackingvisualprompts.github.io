@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around two horizontal bands near the top-center and lower-center of the screen, resembling attention on a search bar/results list and a result detail area, matching the SEARCH example more than the other activities.",
+  "correct": false
+}

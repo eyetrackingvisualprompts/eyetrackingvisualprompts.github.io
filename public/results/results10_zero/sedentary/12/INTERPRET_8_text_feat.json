@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "Large, multidirectional saccades with relatively long saccade durations and short, scattered fixations indicate visually tracking or navigating dynamic on-screen elements rather than systematic line-by-line text reading or focused code inspection, which is most consistent with gameplay behavior.",
+  "correct": false
+}

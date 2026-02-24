@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around code-like regions with many short, local shifts and frequent revisits (small horizontal and vertical movements within clusters), plus occasional larger jumps between clusters, matching the detailed, back-and-forth inspection typical of debugging rather than smoother reading/browsing or the more dispersed, dynamic patterns of watching videos or playing games.",
+  "correct": false
+}

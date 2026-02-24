@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude saccades between extreme screen regions (including off-content coordinates), mixed with shorter inspection fixations and repeated transitions between top URL/tool areas and lower content areas resemble exploratory, multi-region web navigation rather than the more constrained, line- or code-block\u2013oriented patterns seen in READ/WRITE/DEBUG/INTERPRET, or the central, stimulus-driven patterns in WATCH/PLAY/SEARCH.",
+  "correct": false
+}

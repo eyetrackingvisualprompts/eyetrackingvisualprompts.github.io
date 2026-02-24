@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal scan with tightly clustered fixations along a single line, matching the left-to-right reading pattern seen in the READ example more than the more dispersed patterns of search, browse, play, watch, or write.",
+  "correct": false
+}

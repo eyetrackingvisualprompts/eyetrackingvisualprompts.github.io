@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Most fixations are relatively long (300\u2013700 ms) and clustered in vertically adjacent regions (y from ~0.46\u20130.59, then ~0.05\u20130.30) with short, small-amplitude saccades, consistent with line-by-line text scanning and occasional larger relocation, which matches reading behavior better than the more dispersed or highly dynamic patterns expected in PLAY, WATCH, BROWSE, SEARCH, or WRITE.",
+  "correct": true
+}

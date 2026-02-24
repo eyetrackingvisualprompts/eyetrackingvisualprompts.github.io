@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a relatively small code-like region with many short, back-and-forth saccades along similar vertical and horizontal bands, frequent revisits to the same coordinates, and no long systematic horizontal sweeps typical of reading paragraphs or the broad spatial exploration typical of browsing/searching or watching. This tight, repetitive inspection pattern over a limited area best matches interpreting a short code snippet rather than editing/debugging larger code or other tasks.",
+  "correct": false
+}

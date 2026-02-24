@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with moderate horizontal movement and occasional vertical shifts, showing mixed exploration without strong systematic left-to-right scanning (READ) or large dynamic sweeps (PLAY/WATCH). This pattern closely matches the browsing example, where users scroll and glance around a webpage with moderate saccades and relatively stable gaze bands.",
+  "correct": false
+}

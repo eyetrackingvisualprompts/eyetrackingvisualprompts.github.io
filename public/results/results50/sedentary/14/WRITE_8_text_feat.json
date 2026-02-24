@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between top-of-page horizontal text-like regions and lower scroll/result areas, with repeated returns to similar coordinate bands and occasional large jumps to far right suggest scanning SERP snippets and navigating search results rather than continuous line-by-line reading or focused code inspection/editing.",
+  "correct": false
+}

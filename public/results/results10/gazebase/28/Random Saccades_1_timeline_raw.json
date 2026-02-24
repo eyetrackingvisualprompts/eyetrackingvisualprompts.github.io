@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show large, abrupt step-like changes to various amplitudes in different directions, with plateaus of about 1 s between moves, matching the pattern of a target jumping to random screen locations rather than purely horizontal or mostly central motion.",
+  "correct": true
+}

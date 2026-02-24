@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze covers multiple vertical regions including a top bar and lower content areas with horizontal reading-like sweeps and occasional large transitions, matching typical web browsing patterns rather than focused code reading/debugging or full-screen video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on a central region resembling result snippets, with repeated transitions to upper and right areas that match query box and selected result, similar to the SEARCH example\u2019s pattern of clustered center fixations plus broader horizontal excursions.",
+  "correct": false
+}

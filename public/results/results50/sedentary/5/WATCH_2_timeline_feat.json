@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The target data shows frequent large saccades and broad coverage of both X and Y axes, with irregular, non-linear scan patterns resembling exploration of multiple screen regions, which matches the variable, exploratory gaze behavior seen in the BROWSE example.",
+  "correct": false
+}

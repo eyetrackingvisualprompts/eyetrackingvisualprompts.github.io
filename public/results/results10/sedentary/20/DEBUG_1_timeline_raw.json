@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze positions are relatively stable with occasional sharp vertical spikes, indicating brief shifts between code and other interface areas typical of typing and checking output in a writing/coding task, matching the WRITE pattern most closely.",
+  "correct": false
+}

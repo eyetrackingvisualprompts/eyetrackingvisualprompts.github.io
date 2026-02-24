@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain in upper half of screen with relatively smooth, slower shifts and some vertical transitions, resembling the WATCH example\u2019s pattern of following video content rather than the more systematic horizontal scanning of READ/BROWSE or the larger, erratic movements seen in PLAY and SEARCH.",
+  "correct": false
+}

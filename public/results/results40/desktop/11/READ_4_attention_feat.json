@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small region near the lower-center of the screen, indicating sustained attention to a localized area similar to a text-entry field rather than the broader, more distributed patterns seen in browsing, reading, searching, playing, or watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed across multiple vertical locations with moderate spread, resembling scanning between search results and page elements more than the tighter code-focused patterns of INTERPRET/DEBUG or the line-like patterns of READ/BROWSE.",
+  "correct": false
+}

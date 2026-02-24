@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide horizontal and vertical extents (including to screen edges/outside), alternating between mid-page and far top regions, with many medium fixations on diverse locations, match exploratory, multi-region scanning typical of free web browsing rather than the more constrained, code-centered or line-based patterns of WRITE/DEBUG/INTERPRET/READ or the smoother central focus of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

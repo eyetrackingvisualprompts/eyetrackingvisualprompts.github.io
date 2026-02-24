@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions remain in a narrow band with very small, smooth variations and no large saccades or line-by-line shifts, indicating steady central viewing consistent with watching a video rather than text navigation, searching, or interactive tasks.",
+  "correct": false
+}

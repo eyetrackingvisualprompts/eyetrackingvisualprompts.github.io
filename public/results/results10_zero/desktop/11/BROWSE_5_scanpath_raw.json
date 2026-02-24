@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small central region with short, frequent back-and-forth saccades rather than long horizontal sweeps typical of reading lines or large explorations as in browsing, searching, or gaming; this localized, jittery pattern is most consistent with monitoring a small area near the text cursor during typing in a word processor (WRITE).",
+  "correct": false
+}

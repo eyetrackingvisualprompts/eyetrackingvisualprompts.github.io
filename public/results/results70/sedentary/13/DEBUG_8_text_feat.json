@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide horizontal scanning around a mid-screen band with many medium fixations, frequent returns to similar y-levels, and occasional large jumps (including off-screen coordinates) suggests navigating long web pages or UI elements rather than reading contiguous text, writing/debugging at stable code lines, or tracking dynamic objects in games/videos; this pattern best matches the BROWSE examples.",
+  "correct": false
+}

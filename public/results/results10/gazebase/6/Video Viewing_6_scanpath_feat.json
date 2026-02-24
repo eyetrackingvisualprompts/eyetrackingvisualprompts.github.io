@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "Gaze positions form a narrow horizontal band with small vertical dispersion and sequential left-to-right saccades across similar y-levels, closely matching the structured line-by-line pattern seen in the Reading example rather than the more dispersed or purely horizontal/central patterns of other tasks.",
+  "correct": false
+}

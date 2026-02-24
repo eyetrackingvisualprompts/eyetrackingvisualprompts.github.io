@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades spanning wide screen regions (center to top/bottom and far left/right) with relatively short to moderate fixations, indicating continuous spatial exploration consistent with tracking dynamic game elements rather than the more line-structured, band-limited patterns of reading/searching, or the more centrally clustered patterns of browsing, watching, or writing.",
+  "correct": false
+}

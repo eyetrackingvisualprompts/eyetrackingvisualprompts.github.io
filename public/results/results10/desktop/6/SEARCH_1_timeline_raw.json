@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid shifts and wide coverage in both X and Y positions with abrupt transitions and sustained periods at screen extremes match the dynamic, multi-directional gaze behavior seen in the PLAY example, unlike the more constrained patterns of reading, browsing, searching, watching, or writing.",
+  "correct": false
+}

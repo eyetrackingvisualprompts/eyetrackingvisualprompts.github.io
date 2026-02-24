@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts cover large, irregular 2D movements in both horizontal and vertical directions, with fixations around a few hundred milliseconds and saccades that jump unpredictably across the \u00b115\u00b0/\u00b19\u00b0 range, inconsistent with line-structured reading, purely horizontal tracking, central fixation, or stimulus-driven patterns like video or game targets; this best matches the random bull\u2019s-eye tracking in Random Saccades.",
+  "correct": false
+}

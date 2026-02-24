@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Frequent long vertical and diagonal saccades between upper-left code region and lower output/console area match the INTERPRET example pattern more closely than other tasks, indicating repeated reference to a static code snippet while reasoning about its outcome.",
+  "correct": false
+}

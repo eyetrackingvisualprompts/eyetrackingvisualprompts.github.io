@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show mostly horizontal fixations within a mid-range vertical band, with occasional short vertical shifts and returns to similar Y-levels, consistent with line-by-line reading of text rather than large exploratory movements typical in browsing, searching, or gameplay.",
+  "correct": false
+}

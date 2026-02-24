@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly steady in a constrained code area with occasional sharp vertical spikes and brief shifts, matching the focused but intermittently shifting pattern seen in the DEBUG example more than the smoother INTERPRET or the more variable WRITE/BROWSE patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Predominantly localized fixations and short saccades around compact code-like regions with frequent small regressions and revisits, plus occasional large off-screen jumps, match the INTERPRET examples more than the more scanpath-heavy SEARCH/BROWSE or line-structured READ patterns.",
+  "correct": false
+}

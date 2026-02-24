@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a single tight cluster on the upper-left code area with minimal vertical spread, closely resembling the INTERPRET example pattern where participants focus on a small function snippet to understand its behavior, rather than scanning broadly as in DEBUG or SEARCH.",
+  "correct": false
+}

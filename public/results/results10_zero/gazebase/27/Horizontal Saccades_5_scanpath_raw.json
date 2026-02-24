@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated large horizontal movements between two lateral positions at approximately the same vertical level, with brief fixations at the extremes and minimal vertical dispersion\u2014characteristic of following a horizontally oscillating target rather than reading, random or game-driven patterns.",
+  "correct": true
+}

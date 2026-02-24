@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades spanning a wide area of the screen in multiple directions, with dispersed fixations rather than the more localized clusters seen in reading, writing, browsing, or searching. This broad, dynamic gaze pattern best matches the PLAY example, where attention tracks moving game elements across the display.",
+  "correct": false
+}

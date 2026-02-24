@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Predominantly horizontal, line-like scanpaths around mid/lower vertical positions with long, stable fixations and occasional larger jumps resemble reading behavior more than the more scattered, vertical, or highly dynamic patterns seen in browse, search, play, or watch tasks, and lack the top toolbar / cursor-focused clustering typical of writing.",
+  "correct": false
+}

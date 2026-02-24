@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between widely separated screen regions (including extreme off-screen coordinates), alternating with shorter scanning along horizontal bands and sporadic returns to top/URL-like areas, match the exploratory, results-page\u2013navigation pattern seen in the SEARCH examples rather than the more structured line-by-line (READ), code-focused (DEBUG/WRITE/INTERPRET), or screen-centered (WATCH/PLAY) behaviors.",
+  "correct": true
+}

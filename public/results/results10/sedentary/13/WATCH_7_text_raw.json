@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show structured, line-like clusters in vertical bands and relatively small saccades within bands, consistent with scanning lines of text and shifting between text regions rather than large object-tracking movements or highly scattered exploratory patterns typical of browsing, searching, or playing games.",
+  "correct": false
+}

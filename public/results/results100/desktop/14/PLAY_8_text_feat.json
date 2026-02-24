@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around central-mid regions with moderate vertical and horizontal shifts, alternating medium fixations and short saccades, including occasional jumps to slightly higher/lower areas\u2014matching the mixed scanning and local reading-like inspection typical of browsing heterogeneous web pages, and differing from the stronger line-structured horizontal patterns of READ or the larger, more dispersed exploration of SEARCH or PLAY.",
+  "correct": false
+}

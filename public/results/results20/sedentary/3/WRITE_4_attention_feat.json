@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Two dense horizontal fixation bands in the mid-left region resemble scanning code lines and nearby console/IDE areas, matching the DEBUG example pattern more closely than the other tasks.",
+  "correct": false
+}

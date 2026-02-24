@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Predominantly localized gaze around a compact code area (x\u2248250\u2013400, y\u2248450\u2013600) with many short regressions and re-readings, frequent vertical shifts between slightly different lines, and occasional long saccades to top code/header regions\u2014matching the intensive, line-by-line, back-and-forth inspection seen in INTERPRET examples, rather than the more scan-like WRITE/DEBUG or horizontal line sweeps in READ/SEARCH.",
+  "correct": false
+}

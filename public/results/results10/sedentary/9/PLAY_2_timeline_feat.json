@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated upward shifts in both X and Y with bursts of larger saccades, indicative of scanning between result snippets and different screen regions rather than the more linear, stable patterns of reading or coding tasks, matching the SEARCH example most closely.",
+  "correct": false
+}

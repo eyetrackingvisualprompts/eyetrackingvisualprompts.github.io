@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves in smooth, predominantly horizontal sweeps across a narrow vertical band, with line-like progressions and small regressions at y\u2248180\u2013220, 260\u2013320, 340\u2013380, 400\u2013450, and 470\u2013520, matching line-by-line reading rather than the more scattered, multi-region exploration seen in SEARCH or BROWSE.",
+  "correct": true
+}

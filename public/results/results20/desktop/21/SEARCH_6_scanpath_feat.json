@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered in a relatively small central region with short, multi-directional saccades and no clear horizontal reading lines, resembling the heterogeneous, locally exploratory pattern seen in the BROWSE example more than the structured READ or WRITE scanpaths or the broader movements in WATCH/PLAY/SEARCH.",
+  "correct": false
+}

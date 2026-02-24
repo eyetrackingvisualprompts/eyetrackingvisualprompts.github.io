@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a small central-left region with minimal horizontal or vertical spread, suggesting the participant is focusing on a relatively compact, moving or visually central stimulus rather than scanning lines of text or code. This stable, localized gaze pattern over the 10s window aligns best with watching fullscreen video content rather than reading, searching, or coding tasks that produce broader, line-based or multi-area gaze distributions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a central vertical band with multiple clusters and frequent transitions between mid and slightly higher regions, suggesting shifting between search box, result list, and content areas\u2014more dispersed and vertically varied than READ, but less wide-ranging than BROWSE or PLAY, matching SEARCH patterns.",
+  "correct": false
+}

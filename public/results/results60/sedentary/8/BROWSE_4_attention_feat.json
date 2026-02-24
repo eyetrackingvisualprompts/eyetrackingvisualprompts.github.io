@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The heatmap shows a strong fixation cluster on the left-center region (likely search results or a snippet) with additional spread both above and below, and some attention toward the middle-right, resembling scanning of a search results page rather than focused reading or code-related tasks.",
+  "correct": false
+}

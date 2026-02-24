@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal movement with gradually rising vertical fixations and frequent medium saccades across the central area, resembling the mixed code-and-output checking pattern in the DEBUG example more than the more static INTERPRET/WRITE or highly dynamic PLAY/BROWSE/SEARCH patterns.",
+  "correct": true
+}

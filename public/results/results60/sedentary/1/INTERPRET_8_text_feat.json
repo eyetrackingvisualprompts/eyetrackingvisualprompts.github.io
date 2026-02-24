@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between a central code/text-like region and frequent long saccades to extreme screen areas (top bars, corners, bottom), consistent with navigating web pages (tabs, address bar, scrolling) rather than focused code editing/reading or continuous media watching.",
+  "correct": false
+}

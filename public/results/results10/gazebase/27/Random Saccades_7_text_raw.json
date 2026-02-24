@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The data shows irregular, multi-directional gaze shifts with varied amplitudes and many clustered small movements around changing spatial regions, reflecting free exploration of complex, dynamic content. It lacks the strictly horizontal pattern of horizontal saccades, the regular step-like jumps of random saccades, the strongly text-line-like horizontal bands of reading, the central stability of fixations, or the large target-hopping and repeated object-centered holds typical of the Balura game. This pattern best matches Video Viewing.",
+  "correct": false
+}

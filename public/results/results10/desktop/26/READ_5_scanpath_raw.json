@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are confined to a small, central region with frequent short saccades and no strong horizontal line structure (as in reading/typing) or large-area exploration (as in search, watch, or play), which best matches the browsing example pattern.",
+  "correct": false
+}

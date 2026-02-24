@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations cluster in three tight regions aligned horizontally around the screen midline, indicating repeated gaze shifts between discrete horizontal positions consistent with following a horizontally moving target rather than random or content-driven viewing.",
+  "correct": true
+}

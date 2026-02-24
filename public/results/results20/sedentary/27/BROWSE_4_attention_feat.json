@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a horizontal band near the top of the screen, consistent with scanning a search results list or top-of-page content, with limited vertical spread and a minor secondary cluster, matching the SEARCH example pattern most closely.",
+  "correct": false
+}

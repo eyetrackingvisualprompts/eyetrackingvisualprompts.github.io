@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small central region with short, local saccades and no long horizontal sweeps, matching the concentrated, localized pattern seen in the WRITE example rather than the more horizontal (READ) or more dispersed (BROWSE/SEARCH/PLAY/WATCH) patterns.",
+  "correct": false
+}

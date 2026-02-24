@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band in the upper-middle/lower screen region with very small, local saccades and long, stable fixations, consistent with monitoring a single text line and nearby cursor area during typing, matching the WRITE pattern more than the broader vertical spans of READ or the dispersed patterns of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

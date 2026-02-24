@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows prolonged fixation and small movements in the lower-left area (likely code editor), with occasional long saccades to the right-bottom (e.g., console or other UI panels), matching the WRITE example more than other tasks.",
+  "correct": false
+}

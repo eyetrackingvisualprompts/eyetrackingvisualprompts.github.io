@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows dispersed fixations across a central region with both vertical and horizontal transitions, similar to the SEARCH example where users inspect results lists and pages, rather than the more localized patterns of READ, WRITE, or BROWSE.",
+  "correct": false
+}

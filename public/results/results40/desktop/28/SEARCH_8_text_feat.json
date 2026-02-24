@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including extremes near x\u22480.02 and x\u22480.95, and big vertical jumps) with relatively short, scattered fixations indicate dynamic, multidirectional visual exploration consistent with following game elements, rather than the more central, structured, or line-based scanning seen in reading, writing, browsing, searching, or passive watching.",
+  "correct": false
+}

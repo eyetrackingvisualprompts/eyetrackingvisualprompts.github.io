@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows two horizontal bands of fixations with frequent medium-to-large vertical saccades between them and occasional excursions, indicating repeated shifts between different screen regions (e.g., query box, results list, answer page), which best matches the SEARCH pattern among the provided examples.",
+  "correct": false
+}

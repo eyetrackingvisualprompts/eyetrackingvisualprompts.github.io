@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "X fixations show a gradual upward drift over time with relatively constrained vertical (Y) movements and occasional larger saccades, matching the pattern seen in the WRITE example where gaze slowly moves across and down the document while typing, rather than the more uniform lines of READ or the more scattered patterns of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

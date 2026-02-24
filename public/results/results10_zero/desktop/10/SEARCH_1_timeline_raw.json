@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near screen center with small horizontal shifts and very limited large saccades or vertical scanning, indicating continuous viewing of a relatively stable visual scene like a video rather than text scanning, searching, or wide-range game movements.",
+  "correct": false
+}

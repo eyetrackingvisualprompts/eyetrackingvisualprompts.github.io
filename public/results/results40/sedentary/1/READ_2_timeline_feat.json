@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows a relatively high and slowly shifting X fixation with smooth gradual Y increase and sparse saccades, indicating continuous viewing of dynamic content rather than line-by-line scanning or intensive text/code interaction, which best matches the WATCH activity pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts covering a big portion of the screen, with long oblique saccades from upper-left toward central/lower areas and little evidence of line-by-line or structured reading. This broad, dynamic coverage with pursuit-like movements is most consistent with visually tracking or planning movement in a game rather than focused code/text or web search/browsing behavior.",
+  "correct": false
+}

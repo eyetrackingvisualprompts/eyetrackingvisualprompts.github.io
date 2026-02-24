@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is relatively localized with moderate, irregular saccades and no systematic horizontal scan pattern typical of reading or browsing; it closely matches the INTERPRET template where attention stays around code with occasional shifts to related regions, unlike the broader exploration seen in SEARCH, BROWSE, or WATCH.",
+  "correct": false
+}

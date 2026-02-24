@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near the screen center with very small, infrequent shifts in both X and Y, indicating largely static content with minor movements, which is most consistent with passively watching a video rather than the larger horizontal/vertical sweeps or more varied patterns typical of reading, browsing, searching, playing, or writing.",
+  "correct": false
+}

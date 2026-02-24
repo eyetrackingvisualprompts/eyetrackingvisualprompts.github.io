@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the top portion of the screen, similar to scanning a search results page or search bar area, matching the SEARCH example more than the other activities.",
+  "correct": false
+}

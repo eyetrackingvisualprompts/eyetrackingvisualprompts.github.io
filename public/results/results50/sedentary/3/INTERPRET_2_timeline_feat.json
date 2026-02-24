@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is relatively centralized with moderate, irregular shifts in both X and Y without strong horizontal scanning (reading/browsing) or large exploratory movements (play/watch/search). This pattern best matches focused but localized inspection typical of interpreting code rather than editing it (write/debug).",
+  "correct": true
+}

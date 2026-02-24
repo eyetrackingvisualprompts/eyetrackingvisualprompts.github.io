@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y show very smooth, slowly drifting trajectories with minimal large saccades or regressions, indicating continuous following of dynamic visual content rather than discrete line-by-line reading or code/navigation patterns, matching the WATCH profile.",
+  "correct": false
+}

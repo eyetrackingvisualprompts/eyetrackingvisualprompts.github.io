@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left and mid-left regions with frequent vertical shifts and occasional long saccades to the middle, resembling scanning search results and brief visits to selected results, which matches the SEARCH example pattern more than other tasks.",
+  "correct": false
+}

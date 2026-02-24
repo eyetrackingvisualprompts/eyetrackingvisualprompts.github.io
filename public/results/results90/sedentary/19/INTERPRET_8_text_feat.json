@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with many short intra-line regressions and revisits, plus repeated returns between a few nearby coordinates, consistent with mentally simulating and re-checking a small code snippet rather than scanning long lines (READ) or larger UI regions (SEARCH/BROWSE) or the IDE layout (WRITE/DEBUG).",
+  "correct": true
+}

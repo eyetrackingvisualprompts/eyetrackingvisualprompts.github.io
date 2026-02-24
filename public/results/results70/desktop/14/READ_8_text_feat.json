@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (from corners/top to bottom and back) with short to moderate fixations and irregular scanning paths resemble the dynamic, spatially distributed gaze behavior seen in the PLAY examples rather than the more localized, structured patterns of reading, writing, or browsing/searching pages.",
+  "correct": false
+}

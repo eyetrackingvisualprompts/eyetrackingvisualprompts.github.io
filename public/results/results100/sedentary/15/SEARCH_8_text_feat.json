@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long horizontal scanpaths at multiple vertical levels with dense, systematic fixations across a results-like region (200\u2013350 px rows) and frequent jumps to page edges and top/bottom areas closely match the SEARCH examples, where users read snippets and titles, scroll, and inspect SERPs, rather than the more uniform line-by-line patterns of READ or the more localized code/IDE-focused gaze of WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

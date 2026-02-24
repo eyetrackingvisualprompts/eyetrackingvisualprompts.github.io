@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays mostly within a narrow horizontal band with small, localized movements and occasional brief spikes, resembling focused attention on a central code editor while typing, which matches the WRITE pattern more than the broader scanning seen in browse/search or the larger shifts in interpret/debug.",
+  "correct": true
+}

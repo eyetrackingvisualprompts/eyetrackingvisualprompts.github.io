@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between widely separated screen regions (including off-center extremes and below-screen coordinates), intermittent long excursions to very high y-values suggestive of scroll/content changes, and mixed horizontal and vertical scanning around mid-page resemble the heterogeneous, exploratory patterns seen in the BROWSE examples rather than the more structured horizontal reading (READ) or code-focused patterns (INTERPRET/DEBUG/WRITE).",
+  "correct": false
+}

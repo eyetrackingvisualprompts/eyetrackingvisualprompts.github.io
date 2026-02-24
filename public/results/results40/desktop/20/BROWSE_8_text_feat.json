@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid/upper central regions and various dispersed locations with medium-length fixations and frequent medium/large vertical and oblique saccades, consistent with scanning heterogeneous web/news layouts. The pattern lacks the regular line-by-line horizontal structure of READ, the strong top-left focus and narrow vertical band of WRITE, and the more extreme, rapid, and wide-ranging movements typical of PLAY or WATCH, aligning best with BROWSE behavior.",
+  "correct": true
+}

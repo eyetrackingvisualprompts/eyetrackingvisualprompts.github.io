@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades across wide screen regions with relatively few stable, line-like reading patterns or code-focused clusters. This pattern of following or anticipating moving targets over a broad area matches interactive gameplay more than reading, coding, browsing, or video watching tasks, which typically exhibit denser, more localized fixations and structured horizontal scanlines.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanpaths across wide x-coordinates with frequent long jumps between disparate regions (including off\u2011center/top/bottom areas) and mixed-return movements resemble reading/scanning heterogeneous web content and page regions, rather than the tighter code/text blocks or static media patterns seen in INTERPRET/DEBUG/READ/WATCH; the irregular large excursions and varied vertical positions align best with free web browsing behavior.",
+  "correct": false
+}

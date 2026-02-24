@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively stable horizontal X fixations around mid-screen with a large upward shift in Y position around 5\u20136s followed by sustained high Y fixations, indicating attention to a mainly upper-screen region as when watching video content rather than systematic line-by-line scanning (READ/WRITE) or multi-directional exploration (SEARCH/BROWSE/PLAY).",
+  "correct": false
+}

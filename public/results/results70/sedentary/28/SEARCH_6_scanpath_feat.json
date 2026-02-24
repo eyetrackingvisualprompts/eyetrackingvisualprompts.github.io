@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is densely clustered around the left-central area (typical IDE code region) with frequent returns and medium-large saccades to the right and lower parts of the screen (likely console, error messages, or other panels), matching the complex, multi-region inspection characteristic of debugging rather than the more linear or globally scattered patterns of the other tasks.",
+  "correct": false
+}

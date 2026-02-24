@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated around the central-right area with vertical spread and some scattered points, resembling dynamic object tracking and spatial navigation patterns seen in the PLAY example rather than the more linear, text-like or code-focused distributions of READ/WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

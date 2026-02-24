@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the central area with moderate vertical and horizontal shifts, indicating exploration of a results page or mixed content rather than the more linear patterns of READ/WRITE or the broader spread seen in PLAY/WATCH/BROWSE. This best matches the SEARCH example pattern.",
+  "correct": true
+}

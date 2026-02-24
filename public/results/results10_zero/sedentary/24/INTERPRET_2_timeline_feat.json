@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a narrow band with small, smooth shifts and relatively stable fixation levels, lacking the structured horizontal scanning of reading/searching or the rapid, large-amplitude saccades typical for games or coding tasks; this pattern best matches passively watching a video clip.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves smoothly across wide horizontal ranges with clusters around similar y-values and occasional large jumps, consistent with following dynamic visual content in a video rather than line-by-line reading or focused code inspection in a constrained area.",
+  "correct": false
+}

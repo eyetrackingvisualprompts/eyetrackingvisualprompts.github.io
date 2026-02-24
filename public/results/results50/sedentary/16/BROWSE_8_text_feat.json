@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extreme edges and outside bounds), many gaze shifts between central and peripheral/upper\u2013lower areas, and short-to-moderate fixations match dynamic tracking typical of game play rather than the more line-structured, central, or code/text-focused patterns of the other tasks.",
+  "correct": false
+}

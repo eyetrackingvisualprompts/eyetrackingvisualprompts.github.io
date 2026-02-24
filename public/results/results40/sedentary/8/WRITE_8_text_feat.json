@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a narrow central band (around y\u2248250\u2013350) with frequent short saccades up to the top code/header region and down to around y\u2248620 (console or editor bottom), plus occasional jumps to near-top coordinates, matching the structured, line-based scanning and vertical shuttling seen in WRITE examples rather than the more object-following (PLAY) or wide exploratory (BROWSE/SEARCH) patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly stable with slow, small shifts and few structured horizontal scanning patterns typical for reading or code tasks; near the end, larger vertical shifts suggest attention changes between different on-screen elements, consistent with passively watching dynamic video content rather than systematic search, play, or text-based activities.",
+  "correct": false
+}

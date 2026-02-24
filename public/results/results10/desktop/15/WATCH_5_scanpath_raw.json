@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are concentrated in a small, horizontally-elongated region with short, repetitive saccades and limited vertical movement, closely matching the stable, localized scanpath typical of reading text rather than the broader or more scattered patterns seen in search, browsing, playing, watching, or writing.",
+  "correct": false
+}

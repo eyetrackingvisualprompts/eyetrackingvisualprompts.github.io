@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades across wide screen regions (including off-screen coordinates), with long fixations and no clear line-by-line or code-structure scanning pattern, match the dispersed, scene-driven gaze behavior seen in the WATCH examples more than the more structured, text/code-oriented or goal-directed patterns of READ/WRITE/DEBUG/SEARCH/BROWSE/INTERPRET/PLAY.",
+  "correct": false
+}

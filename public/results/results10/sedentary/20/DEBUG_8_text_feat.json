@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a code-like region with repeated left-right passes over similar vertical bands (around y\u2248250\u2013300), frequent revisits to prior positions, and some vertical excursions toward the top\u2014closely matching the dense, localized, back-and-forth inspection pattern seen in the DEBUG example rather than the more dispersed or systematic patterns of reading, browsing, or interpreting.",
+  "correct": true
+}

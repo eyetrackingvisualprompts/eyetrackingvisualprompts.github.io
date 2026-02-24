@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are nearly constant with very small, infrequent saccades and no systematic horizontal or vertical scanning pattern typical of reading or code-related tasks, indicating passive, stable viewing consistent with watching a video.",
+  "correct": false
+}

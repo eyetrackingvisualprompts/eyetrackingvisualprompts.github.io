@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across a wide band near the upper-left, resembling line-by-line webpage reading and scanning, with some scattered points below\u2014pattern most consistent with browsing behavior rather than the more localized code- or video-focused tasks.",
+  "correct": false
+}

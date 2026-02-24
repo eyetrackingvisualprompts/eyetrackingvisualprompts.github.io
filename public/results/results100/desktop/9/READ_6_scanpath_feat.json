@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal band with systematic left-right movements at mid-screen height, closely matching the structured line-by-line scanpath typical for reading tasks and resembling the READ example more than the other activities.",
+  "correct": true
+}

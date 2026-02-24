@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze frequently shifts between central-lower and upper/lower screen regions with large vertical and horizontal saccades, covering broad areas rather than following horizontal text lines or clustered web elements. This dispersed, dynamic scan pattern with intermittent longer fixations is most consistent with visually tracking moving game elements in the PLAY condition, rather than the more line-structured patterns seen in READ/WRITE or the more clustered mid-screen focus of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

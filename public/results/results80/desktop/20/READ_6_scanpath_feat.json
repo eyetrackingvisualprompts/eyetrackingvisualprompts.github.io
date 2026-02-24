@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large gaze shifts across widely separated regions, with clusters of fixations in multiple areas and frequent long saccades in different directions, matching the dispersed, multi-region viewing behavior typical of playing dynamic games rather than the more localized patterns of reading, writing, searching, browsing, or watching video.",
+  "correct": false
+}

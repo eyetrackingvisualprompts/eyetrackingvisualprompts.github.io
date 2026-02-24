@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations clustered around code-like coordinates with many revisits, combined with large occasional saccades to off-screen/toolbar regions and back, match the exploratory, back-and-forth inspection typical of debugging rather than the more linear patterns of reading/interpreting or the smoother scanpaths of browsing/searching.",
+  "correct": false
+}

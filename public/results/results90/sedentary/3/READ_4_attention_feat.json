@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper portion of the screen, matching the pattern of scanning search results and snippets rather than focused code (WRITE/DEBUG/INTERPRET) or dense multiline reading (READ).",
+  "correct": false
+}

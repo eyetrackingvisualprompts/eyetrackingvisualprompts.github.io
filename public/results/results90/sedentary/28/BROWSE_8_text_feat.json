@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen areas (including off-screen coordinates), repeated returns to central mid-height region around y\u2248500\u2013600, and dynamic back-and-forth tracking-like movements match interactive, visually dynamic gameplay patterns better than the more line- or block-structured patterns of reading, coding, or browsing/searching tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a single lower-band region with a strong left-to-right progression and occasional diagonal shifts, resembling line-by-line movement across a writing area, matching the WRITE example more than the other activities.",
+  "correct": false
+}

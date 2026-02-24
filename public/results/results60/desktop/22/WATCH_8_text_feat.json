@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a relatively narrow vertical band around mid-screen with repeated short saccades between nearby lines/regions and long fixations, matching the horizontal scanline and line-jump behavior seen in the READ examples rather than the more scattered, exploratory patterns of BROWSE/SEARCH or the central, character-focused patterns of WATCH/PLAY.",
+  "correct": false
+}

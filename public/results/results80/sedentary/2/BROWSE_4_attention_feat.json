@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread vertically with multiple clusters from mid to lower screen on the left side, indicating scanning through several vertically arranged items (like search results) rather than focused code blocks, continuous text lines, or central dynamic content typical of other tasks.",
+  "correct": false
+}

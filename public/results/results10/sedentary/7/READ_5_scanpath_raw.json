@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern is a mostly horizontal band with small vertical variation, characteristic of line-by-line reading and matching the READ example scanpath more than the others.",
+  "correct": true
+}

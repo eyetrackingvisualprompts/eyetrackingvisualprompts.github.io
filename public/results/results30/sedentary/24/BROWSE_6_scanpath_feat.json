@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact region on the left side of the screen with minimal vertical spread or long saccades, matching the focused inspection of a small code snippet typical of the INTERPRET task and differing from the more distributed patterns of browsing, searching, debugging, or reading longer text.",
+  "correct": false
+}

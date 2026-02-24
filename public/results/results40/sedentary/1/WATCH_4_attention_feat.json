@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Spatially dispersed fixations across top and mid screen, with clusters around probable search box/results areas and some scanning downwards, closely matching the SEARCH example heatmap rather than the more localized code (INTERPRET/DEBUG/WRITE) or continuous block reading/watch/play patterns.",
+  "correct": false
+}

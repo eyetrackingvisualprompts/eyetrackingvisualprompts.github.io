@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on two vertically separated code regions on the left side, with some additional scattered checks, closely matching the debugging pattern rather than the more localized INTERPRET or the broader SEARCH/BROWSE distributions.",
+  "correct": false
+}

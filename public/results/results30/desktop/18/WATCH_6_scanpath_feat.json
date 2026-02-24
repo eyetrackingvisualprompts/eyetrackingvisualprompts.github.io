@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are concentrated in a relatively narrow horizontal band with small progressive and regressive movements, localized more to one side of the screen, resembling focused interaction with a text-entry area rather than broad scanning or vertical reading across the page; this pattern best matches the WRITE example.",
+  "correct": false
+}

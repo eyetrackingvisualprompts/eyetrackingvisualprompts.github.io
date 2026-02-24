@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades across a wide screen area with dispersed fixations, including vertical and diagonal movements to different regions, which matches the dynamic, full-screen exploration pattern typical of playing games rather than the more localized or structured patterns of reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

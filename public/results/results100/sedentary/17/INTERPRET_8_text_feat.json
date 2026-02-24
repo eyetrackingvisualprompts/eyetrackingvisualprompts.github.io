@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many horizontal sweeps, intermittent long vertical/diagonal jumps to screen edges and off-screen coordinates, and revisits to scattered regions resemble scanning and scrolling through web pages more than the tighter, line-based patterns of READ or the code-centered, mid-screen clusters of programming tasks. The gaze often moves between content blocks and peripheral UI areas, typical of general web browsing behavior.",
+  "correct": false
+}

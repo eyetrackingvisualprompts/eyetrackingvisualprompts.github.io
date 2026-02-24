@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shifts repeatedly between mid-screen and slightly lower/side regions with moderate saccade amplitudes and many short-to-medium fixations, resembling scanning mixed text/graphics and menus. The pattern is less line-structured and regular than READ, more spatially varied than WRITE, and lacks the large, rapid directional sweeps typical of PLAY or WATCH; it closely matches the browsing example\u2019s mid-screen exploratory behavior.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in orderly horizontal sweeps at several vertically separated bands (y\u2248180\u2013220, 250\u2013310, 340\u2013380, 420\u2013520, 580\u2013620, 660\u2013710, 740\u2013820, 850+), with frequent leftward return saccades and dense, short fixations\u2014typical of line-by-line text reading rather than the more scattered, exploratory or task-focused patterns seen in search, coding, debugging, or games.",
+  "correct": true
+}

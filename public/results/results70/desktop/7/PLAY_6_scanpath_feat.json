@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are tightly clustered around the central region with small, multidirectional saccades and no strong horizontal reading pattern, closely matching the example BROWSE scanpath rather than the more distributed patterns of PLAY, SEARCH, WATCH, READ, or the upper-screen focus of WRITE.",
+  "correct": false
+}

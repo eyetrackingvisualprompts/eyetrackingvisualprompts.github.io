@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal movements with relatively constrained vertical shifts and periodic regressions, consistent with line-by-line text reading rather than broader exploratory or highly dynamic viewing seen in search, browsing, video watching, playing, or writing tasks.",
+  "correct": false
+}

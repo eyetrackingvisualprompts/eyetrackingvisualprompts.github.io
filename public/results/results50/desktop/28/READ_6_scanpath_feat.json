@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense horizontal clusters with limited vertical range, indicating line-by-line scanning of static text, which best matches the READ activity pattern compared to the more dispersed or center-biased patterns of browsing, searching, or watching video.",
+  "correct": true
+}

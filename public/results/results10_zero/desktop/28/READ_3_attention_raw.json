@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a compact horizontal cluster in the lower-central area of the screen, consistent with watching dynamic content (e.g., characters or subtitles) in a video, rather than the broader or more vertically structured scanpaths typical of reading, writing, browsing, searching, or gaming.",
+  "correct": false
+}

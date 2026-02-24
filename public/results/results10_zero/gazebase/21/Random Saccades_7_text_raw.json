@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates span a wide 2D range (about \u00b115\u00b0 horizontally and \u00b19\u00b0 vertically) with clear large-amplitude jumps between distinct, relatively stable clusters lasting around a second, matching a subject tracking a randomly moving bull\u2019s-eye target rather than line-based reading, central fixation, purely horizontal steps, or free viewing/video patterns.",
+  "correct": true
+}

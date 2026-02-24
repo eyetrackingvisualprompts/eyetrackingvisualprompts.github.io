@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze stays within a compact code-like region on the left, with many short fixations and revisits between nearby lines and blocks (y\u2248140\u2013420), characteristic of reading and mentally simulating code rather than scanning widely (SEARCH/BROWSE) or focusing on central media (WATCH/PLAY). This closely matches the INTERPRET examples\u2019 tight, iterative inspection of a small code area.",
+  "correct": false
+}

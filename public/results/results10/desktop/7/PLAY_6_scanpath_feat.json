@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows medium-range saccades and dispersed fixations across both horizontal and vertical directions, indicating exploration of heterogeneous content similar to the BROWSE example rather than the more linear READ pattern or focused clusters of WRITE/SEARCH.",
+  "correct": false
+}

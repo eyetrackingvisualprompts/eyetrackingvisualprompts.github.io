@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are scattered over a broad vertical region with multiple clusters in upper and middle screen areas, similar to scanning result lists and related content, matching the SEARCH pattern more than the more horizontally constrained READ/BROWSE or focused WATCH/PLAY/WRITE patterns.",
+  "correct": true
+}

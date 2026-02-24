@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between widely separated regions (upper code/center to lower page and back), repeated revisits to similar vertical bands, and scanning both mid-page content and top/URL-like/top-of-page regions resemble navigating SERP/results and opened pages more than the tighter, line-based patterns of READ/WRITE/INTERPRET or the localized, object-following/play patterns of PLAY/WATCH. The mixture of exploration and revisiting is most consistent with SEARCH.",
+  "correct": true
+}

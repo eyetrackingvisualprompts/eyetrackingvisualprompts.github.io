@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades covering widely separated vertical and horizontal regions (e.g., mid-screen to very top/bottom, rapid revisits), with relatively short to moderate fixations and continuous repositioning, matching dynamic game tracking behavior in the PLAY examples more than the more line-structured, mid-screen\u2013focused patterns seen in READ/BROWSE/SEARCH or the more upper-area-stable WATCH/WRITE patterns.",
+  "correct": false
+}

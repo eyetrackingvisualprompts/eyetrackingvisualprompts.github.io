@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with modest, irregular shifts in both X and Y over time and no strong vertical progression, matching the dispersed, scanning pattern seen in browsing rather than the systematic lines of reading or the larger excursions of search, watch, write, or play.",
+  "correct": false
+}

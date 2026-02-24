@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows intense, dense fixations on the upper-left code area with extended horizontal and vertical spread into nearby regions, matching the distributed, revisiting gaze pattern of debugging rather than the tighter focus of INTERPRET or the broader scanning of BROWSE/SEARCH.",
+  "correct": true
+}

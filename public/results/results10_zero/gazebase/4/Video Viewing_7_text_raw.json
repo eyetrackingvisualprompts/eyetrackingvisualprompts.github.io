@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Data show many large, abrupt gaze jumps to widely separated positions in both horizontal and vertical directions, followed by ~1 s clusters of low-variance samples (fixations) at each location. This pattern of irregular, multidirectional, discrete target positions is characteristic of following a randomly moving bull\u2019s-eye, matching the Random Saccades task rather than smooth, repetitive horizontal motion, static fixation, or reading-like scanpaths.",
+  "correct": false
+}

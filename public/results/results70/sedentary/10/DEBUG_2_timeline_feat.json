@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows mixed horizontal and vertical movements with several shifts between regions, resembling scanning result lists and content areas; pattern closely matches the SEARCH example and is less regular than READ or WRITE and less dynamic than PLAY or WATCH.",
+  "correct": false
+}

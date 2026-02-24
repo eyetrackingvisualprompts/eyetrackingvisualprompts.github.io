@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, stable fixations with short horizontal saccades clustered along a few horizontal bands and slow vertical transitions between bands, consistent with line-by-line reading of text rather than the more scattered, exploratory patterns of browsing/searching or the code-focused regions of programming/debugging tasks.",
+  "correct": false
+}

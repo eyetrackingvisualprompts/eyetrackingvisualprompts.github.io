@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows a main horizontal band of fixations across the upper-middle region (typical of scanning search results) with additional scattered fixations lower on the page, closely matching the SEARCH example heatmap more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze fixations stay around mid-screen with moderate horizontal movement and frequent small vertical shifts, resembling scanning mixed text and images. The pattern is less structured than READ, less top-focused than WRITE, and lacks the large, diverse shifts seen in SEARCH or PLAY, matching the browsing example most closely.",
+  "correct": false
+}

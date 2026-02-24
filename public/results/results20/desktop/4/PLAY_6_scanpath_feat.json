@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is centered, with vertical movements between clustered fixations at different heights, indicating scanning result lists and moving between search box, results, and content\u2014most consistent with SEARCH compared to the more horizontal, uniform READ pattern or localized WRITE/BROWSE behaviors.",
+  "correct": false
+}

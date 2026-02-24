@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repetitive large-amplitude horizontal movements between two stable fixation clusters at the same vertical position, matching the pattern of following a target moving horizontally across the screen.",
+  "correct": true
+}

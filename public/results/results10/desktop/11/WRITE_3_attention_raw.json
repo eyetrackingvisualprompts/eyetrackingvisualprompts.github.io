@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated band at a consistent vertical level, indicating left-to-right scanning typical of reading text on a single line or narrow text block, rather than the more central, scattered, or vertically varying patterns seen in browse, search, or play tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show large, multi-degree jumps in both horizontal and vertical gaze, with long periods of relatively stable position punctuated by abrupt relocations to widely separated screen locations\u2014matching a task following a randomly moving target rather than structured left-to-right reading, central fixation, predominantly horizontal oscillation, or the more localized, stimulus-driven patterns of video viewing or the Balura game.",
+  "correct": false
+}

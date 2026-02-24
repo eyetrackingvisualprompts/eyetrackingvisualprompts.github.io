@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a mostly horizontal distribution of fixations around a narrow vertical band, similar to line-by-line text reading, and closely matches the spatial pattern of the READ example compared to the more dispersed or clustered patterns of the other activities.",
+  "correct": false
+}

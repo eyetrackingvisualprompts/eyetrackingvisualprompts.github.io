@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows wide, scattered gaze movements across central and right regions with several long saccades and irregular revisits, resembling the exploratory and non-linear pattern of the SEARCH example more than the more localized or structured patterns of reading, coding, or video watching.",
+  "correct": false
+}

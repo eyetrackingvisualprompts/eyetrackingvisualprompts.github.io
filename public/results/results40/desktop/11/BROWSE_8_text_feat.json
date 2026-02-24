@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around mid-screen with moderate vertical excursions, frequent medium-length fixations, and irregular multi-directional saccades, including transitions between content and likely navigation/UI areas\u2014patterns that closely resemble the provided BROWSE example and are less structured than READ/WRITE yet less dynamic and wide-ranging than PLAY/WATCH/SEARCH.",
+  "correct": true
+}

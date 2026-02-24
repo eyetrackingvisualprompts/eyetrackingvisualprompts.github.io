@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze points form a mostly horizontal trajectory across the screen with large left-right shifts and relatively constant vertical position, consistent with following a target moving horizontally at fixed intervals rather than clustered reading lines, central fixation, random 2D jumps, or game/video-like scattered patterns.",
+  "correct": false
+}

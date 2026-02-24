@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixations show slow, monotonic rightward and slight downward progression with occasional short regressions, closely matching the line-by-line, left-to-right pattern seen in the READ example and unlike the more scattered, vertical, or highly dynamic patterns of SEARCH, WRITE, BROWSE, or PLAY.",
+  "correct": false
+}

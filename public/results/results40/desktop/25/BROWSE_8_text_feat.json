@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts are frequent and multi-directional across a mid-screen region with occasional larger vertical jumps, and fixation durations are mostly moderate (hundreds of ms) without the long, line-like horizontal sweeps of READ or the tight upper-band focus of WRITE. The pattern closely resembles the heterogeneous, exploratory scanpaths seen in the BROWSE example rather than the more structured behaviors of PLAY, SEARCH, or WATCH.",
+  "correct": true
+}

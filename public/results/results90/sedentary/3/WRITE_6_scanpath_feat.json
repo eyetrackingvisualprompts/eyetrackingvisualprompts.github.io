@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze covers multiple distinct screen regions including top and central-left with occasional long saccades to the far right, indicating exploration of different webpage areas rather than focused central video (WATCH) or localized coding window (WRITE/DEBUG/INTERPRET). This scattered, exploratory pattern best matches BROWSE.",
+  "correct": false
+}

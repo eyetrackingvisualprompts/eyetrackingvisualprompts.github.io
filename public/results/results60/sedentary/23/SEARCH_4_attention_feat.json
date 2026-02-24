@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated along a horizontal band near the top of the screen with some spread downward, similar to scanning search results and snippets, and the pattern closely matches the SEARCH example heatmap more than the other activity templates.",
+  "correct": true
+}

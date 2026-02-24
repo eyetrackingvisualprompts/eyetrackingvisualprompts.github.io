@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow horizontal band around mid-screen with many short, small-amplitude saccades and medium/long fixations, closely matching the stable line-by-line pattern in the READ examples and unlike the larger vertical excursions and dispersed gaze seen in SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

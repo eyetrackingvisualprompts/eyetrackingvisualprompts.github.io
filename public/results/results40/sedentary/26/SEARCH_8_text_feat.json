@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal scanning around a mid-screen band, interleaved with frequent jumps to the very top-left (browser UI / query area) and back to mid/lower regions, matching the pattern of reading SERP snippets, moving to result pages, and returning\u2014highly consistent with the provided SEARCH example and less so with more locally confined code or reading patterns.",
+  "correct": true
+}

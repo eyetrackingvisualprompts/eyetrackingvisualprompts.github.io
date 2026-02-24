@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows medium-to-long fixations interleaved with large, multidirectional saccades spanning much of the screen (including toward the top and bottom edges), indicative of following dynamic visual content and shifting between regions/characters rather than systematic line-by-line scanning or focused text entry. This broad, less-structured spatial exploration is most consistent with watching a video rather than reading, writing, searching, browsing, or game play, which typically show more constrained or task-structured gaze paths.",
+  "correct": false
+}

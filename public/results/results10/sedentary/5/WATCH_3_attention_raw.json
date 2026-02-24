@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is widely distributed across the entire code area with many moderate fixations and no dominant cluster, matching the dispersed inspection pattern seen in the DEBUG example rather than the more localized or structured patterns of other tasks.",
+  "correct": false
+}

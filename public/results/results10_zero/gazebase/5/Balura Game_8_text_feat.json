@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete saccades in both horizontal (up to ~\u00b120\u00b0) and vertical (~\u00b117\u00b0) directions with ~200\u2013350 ms fixations, matching a guided target that jumps to random 2\u201315\u00b0 positions across the screen rather than constrained horizontal motion, central fixation, structured reading patterns, or game/video-like free viewing.",
+  "correct": false
+}

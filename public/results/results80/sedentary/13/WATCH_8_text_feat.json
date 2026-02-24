@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large, frequent shifts across wide screen regions (center, top, bottom, corners) with many mid\u2011duration fixations (0.2\u20130.8s) and revisits to moving spatial clusters, matching dynamic scene tracking in full\u2011screen video more than the more structured, line\u2011 or code\u2011based patterns of reading, writing, debugging, or browsing/searching text-heavy pages.",
+  "correct": true
+}

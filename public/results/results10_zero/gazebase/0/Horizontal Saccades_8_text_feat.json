@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates almost exclusively between about -15\u00b0 and +15\u00b0 horizontally with minimal vertical change, with ~0.2\u20130.27 s large horizontal saccades followed by ~0.2\u20130.7 s fixations at each side, matching the prescribed \u00b115\u00b0 horizontal tracking task rather than more varied or irregular patterns of other activities.",
+  "correct": true
+}

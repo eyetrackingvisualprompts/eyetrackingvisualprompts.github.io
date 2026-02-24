@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent gaze shifts across widely separated screen regions (including extremes and even off-screen coordinates) with comparatively fewer tight, line-like reading or code-inspection patterns match the distributed, scene-following behavior observed in the WATCH examples rather than the more localized, structured patterns of reading, coding, debugging, or searching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small upper-central region with many long, nearly stationary fixations and very short, local saccades, indicating repeated attention around a single area (e.g., text cursor) rather than systematic line scanning (READ) or larger exploratory jumps (SEARCH/BROWSE/PLAY/WATCH). This pattern best matches the WRITE task examples, which show dense, localized fixations with minor adjustments near the top text area.",
+  "correct": false
+}

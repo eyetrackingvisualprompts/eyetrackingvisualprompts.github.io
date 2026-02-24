@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze remains in a very small region with long, stationary fixations (often >1\u20132 s) and only tiny corrective saccades, matching the stable top-of-page or line-area focus typical when writing in a word processor, rather than the more scanning or wide-ranging patterns seen in reading, searching, browsing, watching, or gaming.",
+  "correct": true
+}

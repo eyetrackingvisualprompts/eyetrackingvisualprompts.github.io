@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show relatively stable horizontal banding with small saccades and limited vertical range, consistent with line-by-line reading rather than the larger multidirectional shifts typical of play, search, browse, write, or watch activities.",
+  "correct": false
+}

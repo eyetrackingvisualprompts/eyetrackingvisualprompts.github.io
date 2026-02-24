@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in mid-screen with moderate horizontal movements, intermittent vertical shifts, and repeated returns to a central band\u2014similar to scanning mixed webpage content and lists\u2014matching the BROWSE exemplars more than the more line-structured READ pattern or the more extreme directional shifts of PLAY/WATCH/SEARCH/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation traces show mid-screen positions with moderate horizontal and vertical variability and frequent small saccades, resembling the mixed, less-structured scanning patterns of web/news browsing rather than the more linear patterns of reading or the stronger vertical focus of writing or watching video.",
+  "correct": false
+}

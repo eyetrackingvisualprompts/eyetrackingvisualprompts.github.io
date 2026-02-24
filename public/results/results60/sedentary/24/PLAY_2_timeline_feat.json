@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal X fixations with periodic rightward saccades forming a staircase pattern and a slowly increasing Y position, closely matching the line-by-line reading behavior seen in the READ example plot and differing from the more scattered or irregular patterns of other tasks.",
+  "correct": false
+}

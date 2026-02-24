@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are confined to a narrow vertical band around the screen center with smooth, gradual horizontal and vertical shifts and no systematic line-by-line or code-like scanning, consistent with following central content in a video rather than reading, browsing, or interacting with code or games.",
+  "correct": false
+}

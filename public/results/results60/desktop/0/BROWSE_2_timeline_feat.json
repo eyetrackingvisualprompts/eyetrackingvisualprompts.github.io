@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow horizontal X-band around mid-screen with Y fixation and saccade positions persistently low (bottom third of the screen), matching the pattern of looking near the text-entry line and toolbar in the WRITE example rather than the broader vertical ranges seen in READ, BROWSE, or SEARCH.",
+  "correct": false
+}

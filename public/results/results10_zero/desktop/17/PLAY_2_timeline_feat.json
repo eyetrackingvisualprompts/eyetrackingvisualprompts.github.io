@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements with gradual downward shifts in Y, consistent with line-by-line reading behavior rather than rapid multidirectional shifts typical of browsing, searching, playing, or watching video.",
+  "correct": false
+}

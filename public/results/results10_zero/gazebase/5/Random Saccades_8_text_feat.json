@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts are large, discrete jumps to scattered positions across both horizontal (\u2248\u00b115\u00b0) and vertical (\u2248\u00b18\u20139\u00b0) ranges, with each new location held in fixation for roughly 200\u2013700 ms, matching a task where a single target jumps to random screen locations once per second rather than patterned horizontal motion, stable central fixation, or reading-like line sweeps.",
+  "correct": true
+}

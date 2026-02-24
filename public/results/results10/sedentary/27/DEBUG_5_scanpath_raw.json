@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Scanpath shows two dense clusters (likely code and console/IDE panels) with occasional vertical transitions between them and limited horizontal spread, matching focused inspection and verification behavior typical of debugging in an IDE layout.",
+  "correct": true
+}

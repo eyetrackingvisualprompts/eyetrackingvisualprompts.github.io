@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows a narrow horizontal band with small, incremental shifts and stable fixations, consistent with line-by-line reading on a mainly static text layout rather than the larger, multidirectional movements typical of search, browsing, gaming, video watching, or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are organized in several dense, mostly horizontal bands with systematic vertical transitions, indicating line-by-line reading behavior rather than broad exploratory or code-focused scanning.",
+  "correct": true
+}

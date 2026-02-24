@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near the screen center with very small, infrequent saccades and long stable fixations, indicating passive viewing rather than scanning lines of text (READ/WRITE) or making large exploratory movements (BROWSE/SEARCH/PLAY). This pattern best matches watching a video.",
+  "correct": true
+}

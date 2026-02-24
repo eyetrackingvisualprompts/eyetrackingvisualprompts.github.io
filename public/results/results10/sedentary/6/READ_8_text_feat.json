@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Long, smooth, continuous saccades over large screen distances with very short fixations and extended movement durations suggest tracking or navigating dynamic objects, matching the PLAY patterns more than the more fixational, text- or code-oriented tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, irregular jumps across both horizontal (\u224830\u00b0 range) and vertical axes with ~200\u2013600 ms fixations at each location, matching a target that moves unpredictably around the screen rather than strictly horizontal (Horizontal Saccades) or line-structured (Reading); the pattern is more structured than free-viewing (Video Viewing) and not center-held (Fixations) or object-locked gameplay (Balura Game).",
+  "correct": false
+}

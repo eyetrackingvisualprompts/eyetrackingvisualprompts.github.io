@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a horizontal band near the top of the screen, consistent with scanning search results and the query area, with scattered glances lower on the page rather than structured line-by-line reading or focused code inspection.",
+  "correct": false
+}

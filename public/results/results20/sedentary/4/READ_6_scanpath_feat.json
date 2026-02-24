@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal band with progressive left-to-right movements and short regressions confined to a narrow vertical region, characteristic of line-by-line reading rather than the broader, multi-region exploration seen in search, browse, or play tasks.",
+  "correct": true
+}

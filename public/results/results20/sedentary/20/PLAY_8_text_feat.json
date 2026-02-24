@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts between mid-screen text-like regions and various scattered areas including vertical movements and occasional large jumps, showing mixed reading and exploratory behavior without the strict line-by-line pattern of READ or the focused code-region clustering of WRITE/DEBUG/INTERPRET, and lacking the continuous object-tracking style of PLAY/WATCH; this pattern best matches free-form webpage browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points form several long, smooth trajectories spanning a large horizontal range with relatively continuous motion, consistent with tracking dynamic visual content across the screen as in video watching, rather than the more clustered or line-structured patterns seen in reading, writing, searching, browsing, or game playing.",
+  "correct": false
+}

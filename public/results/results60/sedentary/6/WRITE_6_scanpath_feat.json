@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered on a small left-side code area with limited horizontal spread, occasional vertical shifts, and no systematic reading lines or wide navigation. This focused inspection of a compact region matches the INTERPRET code-comprehension pattern more than the broader, more exploratory patterns of WRITE or DEBUG.",
+  "correct": false
+}

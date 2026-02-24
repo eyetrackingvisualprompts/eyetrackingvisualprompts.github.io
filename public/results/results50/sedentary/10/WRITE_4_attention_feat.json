@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a compact area in the upper-left code region with some scattered looks to the right and lower parts, closely resembling the DEBUG example pattern of focused inspection with occasional checks elsewhere in the IDE rather than the more linear (READ/WRITE) or widely distributed (PLAY/WATCH/BROWSE/SEARCH) patterns.",
+  "correct": false
+}

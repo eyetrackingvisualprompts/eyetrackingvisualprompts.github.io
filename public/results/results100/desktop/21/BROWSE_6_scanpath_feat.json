@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a dense cluster in the central region with moderate dispersion and many short saccades, closely matching the SEARCH example\u2019s compact central scanpath rather than the more horizontal patterns of READ/WRITE or edge-focused patterns of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

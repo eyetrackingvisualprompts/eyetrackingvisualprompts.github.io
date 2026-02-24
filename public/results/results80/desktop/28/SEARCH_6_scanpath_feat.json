@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are tightly clustered in a compact horizontal band near the screen center, with small, systematic shifts and no large jumps, matching sustained line-by-line viewing of static text as seen in the READ example rather than the more dispersed or wide-ranging patterns of browse, search, watch, play, or write.",
+  "correct": false
+}

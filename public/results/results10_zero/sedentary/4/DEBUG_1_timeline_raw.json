@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow central band with small fluctuations and occasional brief saccadic spikes, without the systematic horizontal scanpaths or line-by-line shifts typical of reading, coding, or web search/browsing. This stable, centrally focused pattern over 10 seconds is most consistent with watching a video.",
+  "correct": false
+}

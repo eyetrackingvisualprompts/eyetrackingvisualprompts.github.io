@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow, mostly horizontal band with very small, steady fixations and few saccades, similar to the WRITE example where attention stays around the code editing area rather than making larger vertical/horizontal scans seen in reading, browsing, or searching.",
+  "correct": false
+}

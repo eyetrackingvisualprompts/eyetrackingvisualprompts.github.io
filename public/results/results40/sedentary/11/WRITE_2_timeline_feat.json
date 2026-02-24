@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows relatively focused, mid-screen fixations with moderate vertical drift and intermittent larger saccades, closely matching the DEBUG example pattern and differing from the more static WRITE/INTERPRET traces or the more exploratory BROWSE/SEARCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent, small-to-medium, multi-directional shifts in both X and Y with no strong left-to-right line structure (reading) or large stable regions (watching video). This scattered yet continuous exploration pattern best matches browsing heterogeneous web pages.",
+  "correct": false
+}

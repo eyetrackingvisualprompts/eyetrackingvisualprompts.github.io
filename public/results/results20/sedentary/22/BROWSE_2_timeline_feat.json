@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-to-large saccades in both X and Y with continuous movement and limited horizontal line-by-line scanning, resembling dynamic tracking behavior seen in the PLAY example rather than the more structured or static patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

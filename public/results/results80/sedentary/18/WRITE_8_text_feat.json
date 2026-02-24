@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between mid-page text-like regions and extreme off-content areas (negative y, far right x), with numerous long vertical jumps to high y-values (~850\u2013950) consistent with scrolling through long web pages. The pattern mixes scanning around horizontal bands with frequent large relocations and bottom-of-page visits, characteristic of free web browsing rather than the more structured, line-by-line or code-panel-focused patterns seen in READ, WRITE, DEBUG, or INTERPRET, and unlike the object-following or scene-centric behavior in PLAY or WATCH.",
+  "correct": false
+}

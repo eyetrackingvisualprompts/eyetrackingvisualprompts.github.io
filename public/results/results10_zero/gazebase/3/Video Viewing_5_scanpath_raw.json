@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, irregular jumps across both horizontal and vertical directions with positions held briefly before shifting, consistent with following a randomly moving target rather than the more linear horizontal pattern of reading or horizontal saccades, the localized center fixation of Fixations, or the more clustered, object-based patterns of the Balura Game or Video Viewing.",
+  "correct": false
+}

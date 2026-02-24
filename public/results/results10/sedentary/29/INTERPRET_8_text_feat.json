@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large horizontal shifts spanning almost the full screen width (around x\u2248300 to x\u22481700) with relatively short fixations scattered over a wide area and no consistent line-by-line reading or code-structure revisits. This broad spatial coverage with intermittent longer sweeps matches the movie-watching examples more than the structured, localized patterns seen in reading, coding, debugging, or browsing/search tasks.",
+  "correct": false
+}

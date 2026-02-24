@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a small lower-left region with short, repeated fixations and minimal horizontal/vertical scanning, closely matching the focused, localized viewing pattern seen in the DEBUG example rather than the broader movements of browsing, reading, or watching.",
+  "correct": false
+}

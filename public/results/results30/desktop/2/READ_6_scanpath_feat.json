@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact central region with small, multidirectional saccades and no strong horizontal scanline structure, matching the example BROWSE pattern more than the linear READ/WRITE patterns or the wider, more dispersed SEARCH/WATCH/PLAY patterns.",
+  "correct": false
+}

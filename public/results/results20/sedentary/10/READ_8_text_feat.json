@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze stays in mid-screen horizontal bands with smooth left-right sweeps and local revisions around similar y-levels, matching code-line following and small edits typical of programming, and resembling the WRITE example more than the other tasks.",
+  "correct": false
+}

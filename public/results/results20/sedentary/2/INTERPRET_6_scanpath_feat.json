@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a compact code/editor area with occasional long saccades to a distant region (likely console or reference in same IDE), matching the WRITE example more than the more dispersed DEBUG or browsing-like patterns.",
+  "correct": false
+}

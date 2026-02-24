@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered on the left\u2013center area (code editor) with repeated long saccades toward the far right side (likely console or run button), matching the WRITE example pattern of coding plus periodic execution checks rather than the more dispersed or structured patterns of other tasks.",
+  "correct": true
+}

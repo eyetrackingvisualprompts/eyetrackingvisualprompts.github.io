@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze pattern shows repeated vertical transitions between a central code area and regions above/below, similar to the WRITE example where participants alternate between typing and checking code, rather than the more localized patterns of DEBUG or INTERPRET or the horizontal sweeps of READ/BROWSE.",
+  "correct": false
+}

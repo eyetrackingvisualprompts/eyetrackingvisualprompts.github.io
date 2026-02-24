@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated horizontal scanning with occasional large vertical saccades and shifts between distinct regions, resembling the heterogeneous, multi-section web-page viewing pattern seen in the BROWSE example more than the more structured or task-focused patterns of READ, WRITE, or DEBUG.",
+  "correct": false
+}

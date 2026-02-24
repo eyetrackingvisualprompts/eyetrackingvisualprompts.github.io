@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows moderate, irregular movements with several vertical excursions and revisits, similar to the WRITE example where users alternate between reading existing code and the editor while typing, rather than the more uniform scanning of READ/INTERPRET or the more dynamic shifts of PLAY/BROWSE/SEARCH.",
+  "correct": false
+}

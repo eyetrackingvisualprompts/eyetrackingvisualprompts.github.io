@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-sized horizontal shifts with substantial vertical jumps and scrolling-like downward trends resemble navigating and reading multiple web pages, matching the BROWSE reference more than the more stable READ or code-related patterns.",
+  "correct": false
+}

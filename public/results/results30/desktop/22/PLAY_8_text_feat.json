@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-amplitude saccades between mid-lower and central regions with varied vertical positions, interleaved with moderate fixations, resemble the heterogeneous, scanning-and-refocusing pattern in the SEARCH example more than the more locally constrained patterns in READ/WRITE or the more central, stable patterns in WATCH/BROWSE/PLAY.",
+  "correct": false
+}

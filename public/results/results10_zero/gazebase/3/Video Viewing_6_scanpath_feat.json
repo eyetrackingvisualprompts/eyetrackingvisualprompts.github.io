@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze positions remain within a narrow vertical band while traversing a wide horizontal range back and forth over time, matching the pattern of following a horizontally moving target rather than reading text or free viewing.",
+  "correct": false
+}

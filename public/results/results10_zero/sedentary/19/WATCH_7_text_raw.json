@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows frequent, rapid shifts across wide screen regions, with many short fixations and saccades rather than orderly line-by-line or block-based reading. The pattern includes repeated returns to central areas and quick excursions to corners and edges, consistent with visually tracking dynamic game elements and UI rather than static text or code typical of READ/WRITE/INTERPRET/DEBUG or the smoother, more stimulus-driven patterns of WATCH/SEARCH/BROWSE.",
+  "correct": false
+}

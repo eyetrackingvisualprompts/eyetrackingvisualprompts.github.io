@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows concentrated fixations on the left code area with additional scattered attention above and below, similar to the DEBUG example where users repeatedly shift between different parts of the code and related UI elements, more than in WRITE or INTERPRET which are more tightly focused.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions remain around mid-screen with moderate, irregular horizontal shifts and small vertical changes, indicating scattered attention over a mostly static webpage layout; this pattern best matches the browsing example rather than the more systematic (READ), top-focused (WRITE), or highly dynamic (SEARCH/WATCH/PLAY) behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is clustered around the central region with moderate vertical spread but limited horizontal movement, matching the browsing example\u2019s compact center-of-screen focus rather than the wider horizontal patterns of reading, writing, or playing, or the top-focused watching pattern.",
+  "correct": false
+}

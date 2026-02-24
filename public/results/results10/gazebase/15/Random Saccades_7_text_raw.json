@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze traces show many medium-amplitude shifts, extended periods of locally clustered fixations that drift smoothly, and irregular changes in direction without the strict, repetitive horizontal structure of Horizontal Saccades or the highly random step-like jumps of Random Saccades. The trajectory also differs from the highly line-structured, row-wise patterns of Reading and the more discrete target-centered clusters of Balura Game and Fixations, aligning best with natural free-viewing behavior during Video Viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays within a compact code/IDE area with many medium-long fixations, frequent short saccades between nearby lines and columns, and repeated revisits to the same vertical band\u2014matching focused editing/implementation behavior seen in WRITE rather than the broader exploratory or horizontally structured patterns of READ, BROWSE, or SEARCH.",
+  "correct": false
+}

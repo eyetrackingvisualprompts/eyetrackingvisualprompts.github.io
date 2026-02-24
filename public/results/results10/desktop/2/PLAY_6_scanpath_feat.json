@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster with short, multidirectional saccades around a mid-screen region, indicating localized inspection of mixed content (e.g., text plus images/links) rather than the horizontal sweeps of reading, the dispersed exploration of search or play, or the more constrained upper-left focus of writing; this pattern best matches the browsing example.",
+  "correct": false
+}

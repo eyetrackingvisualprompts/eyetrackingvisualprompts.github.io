@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, sustained horizontal movements with moderate vertical variation and scattered saccades, resembling tracking of dynamic on-screen content rather than structured reading, code inspection, or search; this pattern best matches the WATCH example trajectory.",
+  "correct": false
+}

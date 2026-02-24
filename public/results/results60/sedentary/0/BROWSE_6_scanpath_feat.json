@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is heavily clustered on the left-center coding area with repeated returns there, interspersed with long saccades to the far right and bottom regions where console/auxiliary panels or other UI elements likely reside\u2014matching the WRITE example pattern more than the others.",
+  "correct": false
+}

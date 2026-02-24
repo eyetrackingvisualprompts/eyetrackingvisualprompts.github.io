@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts show large, irregular movements in both horizontal and vertical directions with ~200\u2013900 ms fixations and no consistent horizontal sweep or central hold, matching a target that jumps unpredictably across the screen rather than reading lines, watching video, or tracking strictly horizontal motion.",
+  "correct": false
+}

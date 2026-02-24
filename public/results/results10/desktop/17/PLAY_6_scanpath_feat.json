@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple spatially separated clusters with frequent transitions between them, including movements toward the upper-right area (likely search results or address bar) and central regions (content), indicating task-oriented navigation typical of web searching rather than the more localized patterns of reading or writing or the smoother tracking in watching video.",
+  "correct": false
+}

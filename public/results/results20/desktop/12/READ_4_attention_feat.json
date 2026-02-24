@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a mostly horizontal band across mid-screen, similar to line-by-line reading behavior and closely matching the READ example heatmap, unlike the more scattered patterns of PLAY/SEARCH or localized clusters of BROWSE/WRITE/WATCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central-middle area with some vertical spread and a few scattered points, matching the browsing example pattern more than the tighter, columnar READ pattern or the upper-screen WATCH/WRITE/PLAY patterns.",
+  "correct": false
+}

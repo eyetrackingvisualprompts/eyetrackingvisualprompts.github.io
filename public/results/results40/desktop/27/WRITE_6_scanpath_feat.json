@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally aligned band with relatively small vertical dispersion and systematic left-right movements, closely resembling the reading pattern example and distinct from the more scattered or multi-region patterns of browsing, searching, playing, watching, or writing.",
+  "correct": false
+}

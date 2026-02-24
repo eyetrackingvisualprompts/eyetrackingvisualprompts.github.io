@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across the full screen (including to extreme edges and off-center areas), many revisits between distant regions, and irregular fixation structure resemble exploratory web navigation rather than structured reading, code-centric tasks, or passive watching. The pattern best matches the provided BROWSE examples.",
+  "correct": false
+}

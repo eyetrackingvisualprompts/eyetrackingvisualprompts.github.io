@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The scanpath shows concentrated fixations in two horizontally aligned clusters\u2014one upper (likely code) and one lower (likely console/output area)\u2014with minimal wide exploration, consistent with reading and mentally simulating a short code snippet to predict its output rather than free browsing, continuous reading, or dynamic game/video tracking.",
+  "correct": false
+}

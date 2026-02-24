@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations are tightly clustered around an upper\u2011central area, resembling the concentrated gaze near the search bar/results snippet region and matching the SEARCH example more closely than the more horizontally spread READ/BROWSE patterns or the peripheral WATCH/PLAY/WRITE patterns.",
+  "correct": false
+}

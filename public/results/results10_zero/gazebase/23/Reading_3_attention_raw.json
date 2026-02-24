@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze heatmap shows a horizontally elongated band of fixations confined to the upper-central region of the screen, consistent with line-by-line reading movements across text rather than large horizontal sweeps (horizontal saccades), full-screen exploration (random saccades/video), game-like scattered targets (Balura), or a single central cluster (fixation).",
+  "correct": true
+}

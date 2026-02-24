@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shifts show large, discrete jumps to scattered positions across both horizontal (\u2248\u00b115\u00b0) and vertical (up to \u22489\u00b0) ranges, with each new position followed by a fixation of about 0.2\u20130.3 s. This pattern of widely separated, non-uniformly spaced targets with roughly one-second cycles (saccade + fixation) matches the Random Saccades task rather than the more constrained, repetitive, or centrally focused patterns of the other activities.",
+  "correct": false
+}

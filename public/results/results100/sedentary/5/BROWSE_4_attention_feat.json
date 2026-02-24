@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a central-left block with some vertical spread, similar to code inspection and revisiting around an editor area, closely matching the DEBUG example heatmap more than the other task patterns.",
+  "correct": false
+}

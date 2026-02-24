@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain within a narrow spatial region with only small, slow fluctuations and no large directional saccades or systematic horizontal/vertical shifts, matching the stable, low-amplitude patterns seen in the Fixations example rather than the broader explorations or structured movements of the other tasks.",
+  "correct": true
+}

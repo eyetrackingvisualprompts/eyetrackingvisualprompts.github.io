@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is highly stable with small horizontal movements around a single region and very few large saccades, closely matching the focused, low-variability pattern seen in the WRITE example rather than the more exploratory or scanning patterns of browsing, reading, searching, or playing.",
+  "correct": false
+}

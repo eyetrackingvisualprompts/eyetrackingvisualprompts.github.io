@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-to-large saccades covering a wide vertical range (from near top to bottom of screen) with many brief fixations and revisits, including rapid jumps between widely separated regions\u2014consistent with scanning heterogeneous web pages while browsing, and less consistent with the more structured line-wise patterns of reading or the tighter central focus typical of writing and video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a central region with moderate vertical spread and no strong horizontal line structure, matching the browsing example more closely than the more dispersed SEARCH pattern or the linear READ pattern.",
+  "correct": false
+}

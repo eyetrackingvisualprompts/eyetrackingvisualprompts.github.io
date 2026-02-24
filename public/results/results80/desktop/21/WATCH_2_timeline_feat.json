@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows steady, predominantly horizontal fixations with small, regular saccades and a slow drift in X over time, closely matching the structured left-to-right reading pattern seen in the READ example rather than the more scattered or dynamic patterns of search, browsing, watching, playing, or writing.",
+  "correct": false
+}

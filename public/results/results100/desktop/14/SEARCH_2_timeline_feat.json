@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are scattered over mid-screen with frequent small shifts and no strong horizontal line-by-line pattern (READ) or large directional sweeps (PLAY/WATCH). The pattern best matches the varied yet relatively constrained gaze shifts typical of browsing heterogeneous web/news content.",
+  "correct": false
+}

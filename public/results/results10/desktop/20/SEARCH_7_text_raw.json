@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-scale vertical and horizontal shifts between clusters with many short fixations around the central-upper region, interleaved with occasional larger jumps\u2014similar to scanning mixed text/graphics areas and navigating page elements. It lacks the tight line-by-line horizontal pattern of READ, the strong lower-screen focus of WRITE, the peripheral rapid movements of PLAY, and the sustained upper/central bands typical of WATCH, aligning best with BROWSE or SEARCH; the relatively moderate movement amplitude and extended dwell clusters more closely resemble the provided BROWSE example.",
+  "correct": false
+}

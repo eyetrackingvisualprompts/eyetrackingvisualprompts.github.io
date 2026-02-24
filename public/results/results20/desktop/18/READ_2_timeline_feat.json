@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is constrained to the lower part of the screen with relatively small, steady horizontal progressions and limited vertical movement, closely matching the WRITE example where attention stays near the text-entry area rather than higher reading regions or more scattered browsing/search patterns.",
+  "correct": false
+}

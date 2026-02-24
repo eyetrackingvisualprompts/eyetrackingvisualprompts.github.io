@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps across wide screen regions (including off-screen coordinates), alternation between horizontal text-like scanning in central bands and excursions to extreme corners/top bar areas, plus occasional looks to far periphery are characteristic of web browsing with mixed reading and navigation, matching the BROWSE pattern more than focused coding, gaming, or continuous video watching.",
+  "correct": false
+}

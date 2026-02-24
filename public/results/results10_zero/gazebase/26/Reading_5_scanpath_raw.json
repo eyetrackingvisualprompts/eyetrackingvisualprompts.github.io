@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows several nearly horizontal sweeps with small regressions at similar vertical levels, consistent with line-by-line reading, plus a downward shift toward new lines, rather than large discrete jumps of a single target or scattered fixations across the screen.",
+  "correct": true
+}

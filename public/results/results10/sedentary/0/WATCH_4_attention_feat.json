@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across the upper-middle of the screen with several clusters and some vertical shifts, resembling scanning multiple web page elements rather than the tighter band of continuous lines seen in READ or the more centralized patterns in coding or video tasks.",
+  "correct": false
+}

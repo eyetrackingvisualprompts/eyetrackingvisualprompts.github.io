@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long sequences of horizontal fixations near the top of the screen around y\u2248150\u2013190 px suggest reading search result titles/snippets, interspersed with rapid saccades to other screen regions (center, lower content, left panel) and back to the top bar. This pattern of repeatedly revisiting the top text line and jumping to dispersed areas matches exploratory web search behavior rather than continuous text reading, video watching, coding, or gameplay.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze remains near the screen center with moderate, irregular saccades in both axes and no strong vertical banding or stable top/bottom focus, matching the heterogeneous, mid-screen viewing typical of web/news browsing rather than structured reading, writing, or gameplay patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a steady left-to-right progression in X with periodic regressions and a slowly increasing Y position over time, matching line-by-line reading behavior rather than the more scattered or task-focused patterns of coding, games, search, or browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates progress in small, mostly horizontal clusters with gradual downward shifts, consistent with line-by-line reading and short regressions, rather than large, erratic movements typical of browsing, searching, gaming, or WATCH. The dense, localized fixations and smooth transitions across a confined region match sustained text reading behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Long early fixations near the bottom/center (HUD area), followed by frequent large-amplitude saccades spanning from bottom to top and across wide screen regions, match the dynamic, omni-directional gaze patterns seen in the PLAY examples rather than the more line- or column-structured patterns of READ/WRITE/BROWSE/SEARCH or the more clustered WATCH behavior.",
+  "correct": true
+}

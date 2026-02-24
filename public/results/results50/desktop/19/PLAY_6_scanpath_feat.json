@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a mid-screen region with varied horizontal and vertical movements and medium-sized fixations, resembling the exploratory yet somewhat focused scanpath of web browsing more than the more localized patterns of reading or the more dispersed patterns of search, play, or watch.",
+  "correct": false
+}

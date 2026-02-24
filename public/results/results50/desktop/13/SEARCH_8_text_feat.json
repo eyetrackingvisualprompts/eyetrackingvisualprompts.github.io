@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-to-upper screen with many medium-length fixations (0.2\u20131.4s) and frequent small vertical and horizontal shifts, including repeated transitions between ~0.55\u20130.65 vertical and ~0.75\u20130.85 vertical bands, resembling scrolling and scanning mixed text/graphics. Patterns (dispersion, fixation duration distribution, vertical jumps) align more with the provided BROWSE example than with the more line-locked READ pattern or the more dispersed/search-targeted SEARCH behavior.",
+  "correct": false
+}

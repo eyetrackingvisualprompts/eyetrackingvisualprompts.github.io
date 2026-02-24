@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal saccades with slowly increasing Y-position over time, forming line-like segments similar to left-to-right reading across successive lines, matching the READ pattern more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a compact left-central code region with repeated long saccades to a specific area on the right, resembling toggling between editor and execution/output panels, which matches the DEBUG pattern more than other tasks.",
+  "correct": false
+}

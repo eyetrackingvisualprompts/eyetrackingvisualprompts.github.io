@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a compact code area with repeated short saccades and revisits, plus occasional long shifts (likely console/editor), matching the focused yet revisory pattern typical of debugging compared with other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-amplitude saccades with many fixations around mid-screen, including both vertical and horizontal shifts and occasional moves to lower/upper regions, resemble scanning mixed text/graphics as in news/blog browsing more than the more line-structured READ patterns or the localized WRITE/PLAY gaze regions.",
+  "correct": false
+}

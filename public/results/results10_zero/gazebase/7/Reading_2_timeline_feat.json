@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze follows a target that steps to new positions about once per second with both horizontal and vertical components within \u00b115\u00b0 horizontally and \u00b19\u00b0 vertically, matching the discrete, irregular 2D step pattern characteristic of the Random Saccades task rather than purely horizontal or static fixation behavior.",
+  "correct": false
+}

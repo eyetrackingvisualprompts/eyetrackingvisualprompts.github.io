@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered on the left-central code area with some vertical spread, strongly resembling the DEBUG example heatmap and indicating focused inspection of multiple nearby code lines rather than the tighter cluster of INTERPRET or the dual-cluster WRITE pattern.",
+  "correct": true
+}

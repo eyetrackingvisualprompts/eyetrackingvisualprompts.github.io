@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows mainly horizontal movements at a nearly constant vertical level with short regressions and limited vertical spread, matching line-by-line reading behavior rather than the broader, more erratic exploration seen in search, browse, or play tasks.",
+  "correct": false
+}

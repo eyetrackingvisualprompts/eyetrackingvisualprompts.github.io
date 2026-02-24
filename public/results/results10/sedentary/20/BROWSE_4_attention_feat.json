@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated on the left side with both vertical and horizontal spread, similar to scanning a search results page (title, snippets, and options), matching the SEARCH example pattern more than the other activities.",
+  "correct": false
+}

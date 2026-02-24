@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays around mid\u2010screen with small, slow shifts and limited vertical scanning, indicating focused attention on a narrow region such as a text cursor and nearby words, which is most consistent with writing rather than broader horizontal (reading) or multi-directional (play/search/browse/watch) exploration.",
+  "correct": false
+}

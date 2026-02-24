@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are clustered in narrow horizontal bands with slow, small vertical shifts and many stable fixations, consistent with line-by-line reading near the upper portion of the screen, rather than larger exploratory movements typical of search, browse, or play, or central focus patterns of watching video.",
+  "correct": false
+}

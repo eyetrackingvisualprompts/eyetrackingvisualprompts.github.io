@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide, frequent transitions between top bar (often negative y), central content, and bottom regions with scattered fixations resemble search-engine result scanning and query refinement rather than structured reading, code-focused tasks, or following dynamic game/video objects.",
+  "correct": false
+}

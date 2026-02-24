@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "Both X and Y positions show large, discrete saccades to varying locations across the screen, with extended fixations at each location and irregular movement amplitudes and directions. This pattern of multi-directional target-driven fixations best matches the Balura Game behavior compared with the more structured horizontal or random saccades and the smoother video/reading traces.",
+  "correct": false
+}

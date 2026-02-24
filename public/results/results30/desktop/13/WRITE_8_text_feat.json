@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around central-upper areas with medium-range vertical shifts and scattered horizontal moves, resembling scanning of web/news content. The pattern lacks the tight horizontal line movements of READ, the lower-central focus of TYPICAL WRITE segments, and the more extensive directional jumps seen in SEARCH; it is also more structured and less wide-ranging than PLAY or WATCH, matching BROWSE examples most closely.",
+  "correct": false
+}

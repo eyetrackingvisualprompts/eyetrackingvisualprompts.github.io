@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extremes and corners), many visits to mid\u2011lower and upper areas, and rapid revisits to spatially separated points match the dynamic, object-following and navigation patterns seen in the PLAY examples rather than the more text/line-structured or code-focused patterns of READ/WRITE/DEBUG/INTERPRET/SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

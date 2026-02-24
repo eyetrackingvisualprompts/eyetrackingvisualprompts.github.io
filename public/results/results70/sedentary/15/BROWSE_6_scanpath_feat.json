@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around the central-left code area with frequent short saccades and revisits, similar to the INTERPRET example and less scattered than DEBUG or WRITE, indicating focused inspection of an existing snippet rather than editing or broad searching.",
+  "correct": false
+}

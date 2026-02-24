@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows predominantly horizontal rightward movement with occasional small regressions and relatively stable vertical position, closely matching the browsing example pattern rather than the more regular line-by-line shifts of reading or the larger exploratory movements of search or watch tasks.",
+  "correct": false
+}

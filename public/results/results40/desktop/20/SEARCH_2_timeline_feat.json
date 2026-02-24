@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows mid-screen horizontal fixation band with frequent small saccades and irregular vertical shifts, indicating scanning varied web layouts rather than structured reading, static writing area, focused video watching, or game-like wide movements; this best matches browsing behavior.",
+  "correct": false
+}

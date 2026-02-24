@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a narrow left-side vertical region with smaller clusters at different heights, matching the pattern of focusing on a short code snippet in an IDE, as seen in the INTERPRET example, rather than the wider spread of debugging or reading text passages.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in the lower part of the screen with many short horizontal and local corrective saccades around a narrow band (y\u2248790\u2013840), plus occasional rapid longer jumps (e.g., from x\u22481260 to 692 and back along the band). This pattern matches tracking and repositioning on a dynamic game interface more than reading/browsing (which show line-like patterns across larger vertical ranges) or code tasks (which center in code-region coordinates).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed over a moderately wide central region with frequent saccades in multiple directions, resembling exploratory scanning of varied web content; the pattern is more dispersed than READ but less dynamic and wider than SEARCH or PLAY, matching the browsing example most closely.",
+  "correct": false
+}

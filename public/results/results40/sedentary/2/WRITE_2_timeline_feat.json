@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium horizontal spread with modest vertical movements, frequent short saccades around a central band\u2014similar to the DEBUG example and less systematic than READ or INTERPRET, and less dispersed than BROWSE or WATCH, matching focused yet exploratory code-debugging behavior.",
+  "correct": false
+}

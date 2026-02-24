@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show discrete, step-like changes to various combinations of x/y locations, held roughly 1 second each before jumping to a new position, matching a target that moves randomly in 2D rather than strictly horizontal or remaining central.",
+  "correct": false
+}

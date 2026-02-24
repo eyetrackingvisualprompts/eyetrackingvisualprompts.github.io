@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Two main horizontal clusters in the upper and mid screen on the left side resemble scanning between search results/snippets and possibly related elements, matching the SEARCH heatmap more than the concentrated code-focused or reading patterns of other tasks.",
+  "correct": false
+}

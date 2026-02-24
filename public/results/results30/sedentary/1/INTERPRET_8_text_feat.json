@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent shifts between a compact set of code-like regions (upper and middle areas), revisits to specific lines, and localized inspection around error-prone zones resemble the DEBUG examples more than the other tasks, which show broader scanning (SEARCH/BROWSE), smoother reading lines (READ), or larger-amplitude movements (PLAY/WATCH).",
+  "correct": false
+}

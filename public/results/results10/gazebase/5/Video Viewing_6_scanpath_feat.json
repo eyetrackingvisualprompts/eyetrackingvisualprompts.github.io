@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points jump between multiple dispersed locations across both horizontal and vertical axes with roughly one-second dwells, forming irregular large-amplitude saccades without the structured line pattern of reading or the constrained horizontal path of horizontal saccades, matching the random saccade target-following task.",
+  "correct": false
+}

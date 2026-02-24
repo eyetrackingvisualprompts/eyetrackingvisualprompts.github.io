@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the upper-central region with some scattered points slightly above and below, matching the vertical distribution typical of viewing a search results page rather than the tighter central cluster of BROWSE or the horizontal sweep of READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a compact area on the left-central region of the screen, similar to the WRITE example heatmap and distinct from the more dispersed or horizontally extended patterns seen in reading, browsing, or searching tasks; this suggests focused attention on a small code-editing area while writing code.",
+  "correct": false
+}

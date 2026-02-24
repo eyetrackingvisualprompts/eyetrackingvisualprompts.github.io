@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze points form horizontally aligned clusters with small vertical spacing and progressive left-to-right movements across several lines, matching the characteristic scanpath of reading text rather than random or task-driven saccades.",
+  "correct": true
+}

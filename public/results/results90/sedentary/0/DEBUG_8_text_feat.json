@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around code-like regions (mid-left), with many short regressions between nearby coordinates, vertical shifts consistent with scanning/editing lines, and frequent excursions to screen edges/menus, resembling the WRITE exemplars more than the more static INTERPRET/DEBUG patterns or the horizontal READ/SEARCH scans.",
+  "correct": false
+}

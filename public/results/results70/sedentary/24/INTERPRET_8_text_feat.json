@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively small left/top code-like region with many short, local regressions and re-inspections of nearby lines/positions, plus repeated jumps between a narrow band of y-coordinates consistent with scanning and revisiting code rather than progressing linearly as in READ. There are also several large occasional jumps (likely between code, console, and other IDE areas), matching debugging behavior more than the broader exploratory patterns of BROWSE/SEARCH or the dynamic object-tracking of PLAY/WATCH or the more top-left\u2013anchored WRITE patterns.",
+  "correct": false
+}

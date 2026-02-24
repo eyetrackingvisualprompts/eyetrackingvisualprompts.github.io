@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between spatially separated fixation points across both horizontal (up to ~\u00b114\u00b0) and vertical (~\u00b17\u00b0) directions, with dwell times around 0.2\u20130.4 s and large, multi-directional saccades that match a randomly moving target rather than strictly horizontal motion, central fixation, line-by-line reading, or game-like clustered refixations.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows slow, mostly unidirectional drift with small step-like changes and few large saccades, consistent with passively following dynamic visual content (e.g., a video) rather than structured scanning or line-by-line reading typical of text or code tasks.",
+  "correct": false
+}

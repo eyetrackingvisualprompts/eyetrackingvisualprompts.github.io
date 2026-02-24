@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region corresponding to a code area with frequent revisits and short saccades, plus occasional long saccades to other UI elements, closely matching the INTERPRET example pattern rather than the more scattered SEARCH/BROWSE or tightly localized WRITE/DEBUG layouts.",
+  "correct": false
+}

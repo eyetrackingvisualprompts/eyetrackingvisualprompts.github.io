@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows relatively constrained X positions with moderate Y variation and intermittent saccades, closely matching the DEBUG example\u2019s localized code/IDE inspection rather than the more sweeping horizontal scans of READ/BROWSE or the broader movements seen in PLAY/WATCH/SEARCH.",
+  "correct": true
+}

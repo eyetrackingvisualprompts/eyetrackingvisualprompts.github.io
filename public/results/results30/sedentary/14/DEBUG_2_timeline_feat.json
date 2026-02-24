@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate horizontal movement with occasional vertical shifts and intermittent saccades, resembling scanning result lists and brief reading, which aligns more with SEARCH patterns than with the more linear READ or the denser exploration seen in BROWSE or PLAY.",
+  "correct": false
+}

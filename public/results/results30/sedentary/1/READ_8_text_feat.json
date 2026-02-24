@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in mid-to-lower screen regions with continuous, short-latency saccades and medium-length fixations that track horizontally and locally (around y\u2248600\u2013850) rather than following text lines or scanning long pages. The pattern resembles following moving objects or regions typical in simple games, and differs from the more vertical scrolling/search-like or paragraph-structured reading/browsing patterns in the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on several vertically distributed regions in the left portion of the screen, resembling attention shifts between multiple code segments as seen in the DEBUG example, rather than the tighter single-block focus of WRITE/INTERPRET or the wider spread of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

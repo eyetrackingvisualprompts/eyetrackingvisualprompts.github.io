@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly confined to a horizontal band in the middle of the screen with smooth, continuous left-right sweeps and moderate fixations, characteristic of tracking dynamic visual content rather than line-by-line reading or code inspection. The pattern closely matches the WATCH examples and lacks the vertical scanning and code-block revisits typical of programming-related tasks or the systematic scrolling of BROWSE/SEARCH.",
+  "correct": false
+}

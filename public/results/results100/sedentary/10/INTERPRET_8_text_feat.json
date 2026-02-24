@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays within a confined code-like region with many medium/long fixations, frequent short regressions and revisits between closely spaced vertical positions (around y\u2248300\u2013600), and occasional jumps toward top/left areas, matching patterns in WRITE examples where participants focus on and refine code rather than the more horizontal scan paths of READ/BROWSE or wide exploratory jumps of SEARCH/PLAY.",
+  "correct": false
+}

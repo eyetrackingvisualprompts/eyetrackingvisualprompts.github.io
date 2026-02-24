@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Early segment shows horizontal scanning over a confined vertical band like reading snippets, followed by a marked drop in Y fixation with several saccadic jumps and returns, consistent with moving between search results and possibly clicking/opening pages, matching the SEARCH pattern more than the steadier reading/browsing or more chaotic play/watch behaviors.",
+  "correct": true
+}

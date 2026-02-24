@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in the upper part of the screen with several medium/long fixations interspersed with vertical and diagonal saccades, consistent with scanning a search results page (title/snippet region) rather than the more systematic horizontal sweeps of READ or the central, dynamic focus of PLAY/WATCH.",
+  "correct": false
+}

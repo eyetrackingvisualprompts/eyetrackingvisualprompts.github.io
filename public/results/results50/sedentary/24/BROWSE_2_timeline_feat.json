@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, staircase-like horizontal movements in X with small, gradually increasing Y shifts, characteristic of line-by-line reading, closely matching the READ example pattern.",
+  "correct": false
+}

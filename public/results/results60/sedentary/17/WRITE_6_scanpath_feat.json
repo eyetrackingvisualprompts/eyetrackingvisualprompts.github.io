@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a compact region on the left side of the screen with minimal vertical spread and few long saccades, indicating focused inspection of a small code snippet rather than extensive scrolling or navigation, which aligns best with the INTERPRET task pattern.",
+  "correct": false
+}

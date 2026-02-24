@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal scanning with vertical shifts across a constrained central region, resembling code inspection with back\u2011and\u2011forth checks. Its pattern closely matches the DEBUG example timeline, more so than the more static INTERPRET or the more exploratory SEARCH/BROWSE behaviors.",
+  "correct": false
+}

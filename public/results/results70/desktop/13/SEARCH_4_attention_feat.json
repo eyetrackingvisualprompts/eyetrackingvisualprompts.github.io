@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations form a compact cluster in the central-middle region of the screen, similar to the BROWSE example where users focus on a central content area (e.g., article body) with limited vertical span, rather than the more dispersed or horizontally aligned patterns seen in WATCH or READ.",
+  "correct": false
+}

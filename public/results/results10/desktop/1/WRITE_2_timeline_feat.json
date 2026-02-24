@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions show moderate, slow horizontal drift near screen center with limited vertical change and relatively few large saccades, closely matching the browsing example pattern rather than the stronger vertical motions of reading or the more scattered patterns of search/watch/play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shifts between top search-bar/heading region (~y=100\u2013250) and mid-page result region (~y=280\u2013380), with frequent horizontal sweeps across a narrow vertical band and occasional large jumps to extreme top/bottom coordinates, matching the scanning and revisiting behavior seen in the SEARCH examples rather than the more line-structured READ pattern or the more static WATCH pattern.",
+  "correct": false
+}

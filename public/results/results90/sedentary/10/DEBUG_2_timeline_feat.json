@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades and shifts in both X and Y, indicating scanning across multiple regions rather than line-by-line reading or focused code inspection. This spatiotemporally varied pattern best matches search-engine use, where users alternate between the query box, result list, and different page areas.",
+  "correct": false
+}

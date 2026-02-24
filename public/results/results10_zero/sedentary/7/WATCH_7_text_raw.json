@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points show large, rapid shifts across wide screen areas (both horizontally and vertically) with frequent relocations between disparate regions, consistent with tracking moving objects and navigation demands of simple games, rather than the more linear, clustered patterns typical of reading, coding, browsing, or searching tasks.",
+  "correct": false
+}

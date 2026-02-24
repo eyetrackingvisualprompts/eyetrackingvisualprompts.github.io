@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively confined horizontal X positions with modest variation and mostly mid-screen Y positions, punctuated by a few brief larger vertical saccades\u2014closely matching the INTERPRET example, which reflects focused inspection of a small code snippet rather than broader exploration or line-by-line text reading/browsing.",
+  "correct": true
+}

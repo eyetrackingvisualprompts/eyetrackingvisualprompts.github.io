@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze repeatedly jumps in large amplitudes across widely separated screen locations in both horizontal and vertical directions, followed by short, tight clusters of samples (fixations) at each location. This pattern of discrete, multi-directional relocations with roughly second-long dwells matches pursuit of a randomly moving target rather than the predominantly horizontal, periodic motion of Horizontal Saccades, the near-static behavior of Fixations, or the more content-structured, less symmetric patterns expected in Reading, Video Viewing, or the Balura Game.",
+  "correct": false
+}

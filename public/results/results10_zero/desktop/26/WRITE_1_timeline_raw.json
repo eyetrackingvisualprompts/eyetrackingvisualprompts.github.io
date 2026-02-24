@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains mostly within a narrow horizontal band with few large saccades and smooth, gradual drifts in both X and Y, plus brief spikes likely reflecting character or scene changes\u2014consistent with passively watching a video rather than the frequent scanning or structured line-by-line patterns of reading, searching, browsing, writing, or playing games.",
+  "correct": false
+}

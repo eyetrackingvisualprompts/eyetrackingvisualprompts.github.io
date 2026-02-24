@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in two main vertical regions (likely code editor and console/output) with repeated horizontal sweeps across lines and frequent shifts between left and right areas, matching patterns of writing and testing code rather than the more dispersed exploration seen in debugging or browsing.",
+  "correct": false
+}

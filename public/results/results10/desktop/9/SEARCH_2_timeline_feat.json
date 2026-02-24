@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively structured, small horizontal shifts with moderate vertical changes and consistent mid-screen positions, closely matching the reading pattern example and differing from the larger, more exploratory movements seen in search, browse, or play tasks.",
+  "correct": false
+}

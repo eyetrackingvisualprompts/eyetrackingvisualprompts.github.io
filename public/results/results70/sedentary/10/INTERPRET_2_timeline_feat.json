@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is relatively steady with small, localized fixations and limited large saccades across most of the window, similar to the WRITE example where attention stays near a central code area, unlike the broader explorations seen in READ, SEARCH, or BROWSE.",
+  "correct": false
+}

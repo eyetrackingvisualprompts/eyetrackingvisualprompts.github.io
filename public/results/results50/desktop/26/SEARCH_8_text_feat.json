@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze exhibits frequent medium-to-long saccades across large vertical and horizontal extents, alternating between mid-page and near-edge/top-bottom regions, with short-to-moderate fixations and no stable line-by-line or center-only viewing. This exploratory, scanning pattern over a broad 2D area is most consistent with browsing heterogeneous web/news pages rather than the more structured patterns of reading, writing, searching SERPs, video watching, or game play.",
+  "correct": false
+}

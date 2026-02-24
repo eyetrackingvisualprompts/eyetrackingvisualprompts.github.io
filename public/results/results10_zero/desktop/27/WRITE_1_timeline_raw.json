@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay within a narrow band with small jitter and no systematic left-right or top-bottom scanning, indicating prolonged fixation near screen center typical of passively watching a video rather than reading, searching, browsing, writing, or playing games which show stronger directional saccades or wider exploration.",
+  "correct": false
+}

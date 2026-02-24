@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across the mid-screen with several clusters but no single dominant area, indicating scanning of varied content typical of browsing web pages rather than the more localized patterns seen in reading, writing, or watching video.",
+  "correct": false
+}

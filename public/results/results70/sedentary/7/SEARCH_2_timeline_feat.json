@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows alternating horizontal scanning and vertical shifts with periods of low Y (likely results list) followed by higher Y as the user scrolls or opens pages, closely matching the mixed exploration pattern of the SEARCH example rather than the more uniform reading/browsing sequences or focused coding tasks.",
+  "correct": true
+}

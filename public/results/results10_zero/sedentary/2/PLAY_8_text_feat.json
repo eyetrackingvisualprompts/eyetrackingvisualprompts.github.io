@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows predominantly horizontal saccades with medium-length fixations (200\u2013700 ms) clustered along a few nearby y-levels, consistent with scanning lines of text and occasional vertical shifts, which aligns best with reading behavior compared to more dispersed or object-tracking patterns in other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is tightly clustered around a central region with minimal spread, resembling the focused, localized attention typical when tracking a game character, and is less dispersed than browse/search patterns and less horizontally elongated than read/write layouts.",
+  "correct": false
+}

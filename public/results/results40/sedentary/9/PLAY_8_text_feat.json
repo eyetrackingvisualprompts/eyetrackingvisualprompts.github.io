@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across widely separated screen regions (including near-edges and corners), multiple vertical transitions between top, middle, and bottom, and irregular revisits to content regions resemble exploratory, non-linear scanning typical of web browsing, rather than the more line-structured patterns of READ or the centrally focused, smoother tracking of WATCH/PLAY or the more code-area-focused movements of programming tasks.",
+  "correct": false
+}

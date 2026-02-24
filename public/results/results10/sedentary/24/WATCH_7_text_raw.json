@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows repeated clustered fixations around structured horizontal and vertical regions consistent with scanning and re-checking code in an IDE, with many returns to similar line-heights and column areas, resembling the DEBUG example more than the smoother line-by-line patterns of READ/INTERPRET or the broader movements of BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": false
+}

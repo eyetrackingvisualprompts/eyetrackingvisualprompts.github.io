@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact block over the code area with occasional shifts to a lower region, similar to the INTERPRET pattern and less spread than WRITE/DEBUG, indicating focused reasoning about a given snippet rather than active editing or wide exploration.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows relatively small horizontal and vertical shifts with many medium-length fixations (0.16\u20130.8s) clustered in a central region, consistent with reading text blocks on a static page rather than rapid, larger exploratory movements typical of browsing/searching or wide, dynamic shifts typical of gaming or video watching.",
+  "correct": false
+}

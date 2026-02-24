@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long stable fixation plateaus with occasional large vertical shifts and fewer systematic horizontal sweeps. This pattern matches following dynamic video content (changing areas of interest and characters) rather than structured line-by-line scanning typical of reading, writing, searching, browsing, or game-like rapid multidirectional movements.",
+  "correct": false
+}

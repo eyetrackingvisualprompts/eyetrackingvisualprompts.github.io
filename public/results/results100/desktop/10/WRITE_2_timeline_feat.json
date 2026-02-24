@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal scans with slowly shifting vertical position, forming line-by-line patterns and moderate saccades, closely matching the structured reading behavior seen in the READ example plot rather than the more scattered or exploratory patterns of browsing, searching, or playing games.",
+  "correct": false
+}

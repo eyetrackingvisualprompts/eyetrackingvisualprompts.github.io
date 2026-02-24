@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a left-side code area with moderate vertical spread and some scattered checks below, closely matching the DEBUG heatmap pattern more than the tighter WRITE/INTERPRET clusters or broader browsing/reading distributions.",
+  "correct": true
+}

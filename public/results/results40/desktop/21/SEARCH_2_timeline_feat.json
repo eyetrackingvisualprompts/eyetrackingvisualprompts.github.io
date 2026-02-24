@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, frequent shifts in both X and Y with no strong horizontal-only or vertical-only pattern, resembling mixed scanning over varied page regions, which aligns best with the browsing example rather than the more structured patterns of reading, writing, watching, searching, or playing.",
+  "correct": false
+}

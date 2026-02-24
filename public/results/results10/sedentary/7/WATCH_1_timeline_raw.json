@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "X position shows long, mostly horizontal scan-lines with periodic downward shifts and brief regressions, while Y position stays within a narrow band\u2014this pattern closely matches the example READ plot and typical left-to-right line reading behavior rather than the more dispersed or erratic movements seen in browsing, search, or gameplay.",
+  "correct": false
+}

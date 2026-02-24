@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows two main fixation clusters: one on the left (likely code editor) and another mid-right (likely console/output or auxiliary panel), with scattered checks elsewhere. This pattern of alternating focus between code and results is characteristic of debugging rather than continuous reading, browsing, or watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades in both X and Y with broad coverage of the screen and irregular, rapid shifts rather than line-by-line or code-block reading patterns, matching the dynamic, target-following behavior typical of playing a game.",
+  "correct": true
+}

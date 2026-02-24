@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact region on the lower-central screen with dense, irregular fixations and short saccades plus occasional small shifts\u2014similar to code inspection around an IDE area, matching the DEBUG example pattern more than the more linear (READ/BROWSE) or widely distributed (PLAY/WATCH/SEARCH) activities.",
+  "correct": false
+}

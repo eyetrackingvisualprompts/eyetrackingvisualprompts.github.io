@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete, step-like changes to various locations across both horizontal (\u00b115\u00b0) and vertical (\u00b19\u00b0) axes, each held roughly around 1 s before jumping to a new, irregular position. This pattern matches following a randomly moving target rather than strictly horizontal movements, continuous natural viewing, reading, or a central fixation task.",
+  "correct": true
+}

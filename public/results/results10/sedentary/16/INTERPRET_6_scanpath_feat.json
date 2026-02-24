@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered in the upper-left quadrant with frequent vertical shifts between two main regions and occasional larger saccades, closely matching the SEARCH example\u2019s pattern of moving between query box, results list, and lower content, unlike the more horizontal READ or more dispersed BROWSE patterns.",
+  "correct": false
+}

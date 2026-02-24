@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like jumps in both horizontal and vertical directions to multiple non-periodic locations, each held roughly around one second, matching a bull\u2019s-eye target moving randomly across the screen rather than purely horizontal, fixed, or reading-like patterns.",
+  "correct": false
+}

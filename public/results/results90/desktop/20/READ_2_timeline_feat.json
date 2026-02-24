@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The target data shows large, frequent shifts in both X and Y with broad vertical exploration and irregular patterns, resembling the dynamic, multidirectional gaze movements in the PLAY example more than the more structured or localized patterns of reading, writing, searching, browsing, or watching video.",
+  "correct": false
+}

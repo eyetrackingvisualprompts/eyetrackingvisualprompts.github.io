@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays in a mid-screen band with short, frequent fixations and small multi-directional saccades, including repeated returns and vertical shifts around a narrow region\u2014closely matching the exploratory, locally dense scan patterns seen in the BROWSE examples and less structured than the line-like horizontal progressions of READ or the more top-heavy distributions of SEARCH.",
+  "correct": false
+}

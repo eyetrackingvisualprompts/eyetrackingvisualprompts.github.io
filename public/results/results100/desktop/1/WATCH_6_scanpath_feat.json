@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover a wide area of the screen with frequent long saccades between dispersed clusters, indicating dynamic visual exploration consistent with game playing rather than the more centralized or structured patterns seen in reading, writing, searching, browsing, or watching video.",
+  "correct": false
+}

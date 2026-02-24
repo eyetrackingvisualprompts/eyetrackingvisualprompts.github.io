@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact code-like region with many short regressions and revisits between nearby lines/blocks, plus frequent jumps between upper and lower code areas and occasional large shifts to the far right (e.g., around x\u22481365\u20131400), matching the pattern of scanning and re-checking code segments typical of debugging rather than the more linear patterns of reading or the broader exploratory movements of browsing/searching.",
+  "correct": false
+}

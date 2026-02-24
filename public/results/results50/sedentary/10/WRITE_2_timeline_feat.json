@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movements with frequent medium-sized saccades and gradual upward drift in both X and Y, resembling scanning across changing content and result lists, which matches the SEARCH example pattern more closely than the more linear READ or highly dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

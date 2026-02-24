@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a mostly monotonic horizontal progression in X with occasional regressions and relatively stable Y position, characteristic of reading lines of text, and it closely matches the READ example pattern compared to other activities.",
+  "correct": false
+}

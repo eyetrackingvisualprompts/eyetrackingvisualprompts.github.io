@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is distributed across a broad central region with no single dense cluster, showing continuous spread and mid-screen concentration similar to the PLAY example heatmap, which reflects dynamic tracking during gameplay rather than focused reading, coding, or searching patterns.",
+  "correct": false
+}

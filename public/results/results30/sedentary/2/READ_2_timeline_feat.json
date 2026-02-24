@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly smooth, left-to-right horizontal progressions with small, regular regressions and slowly increasing Y position, consistent with line-by-line reading rather than the larger, more scattered movements seen in browsing, search, or coding-related tasks.",
+  "correct": true
+}

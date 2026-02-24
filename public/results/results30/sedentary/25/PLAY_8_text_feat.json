@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Large saccades between widely separated horizontal/vertical regions, repeated revisits to mid-page and top/side areas, and many medium-length fixations on scattered locations are characteristic of scanning SERP and result pages rather than line-by-line reading, code editing, or continuous video/game viewing.",
+  "correct": false
+}

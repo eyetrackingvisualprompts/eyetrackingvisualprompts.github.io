@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a single central region with short, repeated saccades and no horizontal line-like reading pattern or broad exploration. This suggests focused inspection of a compact code snippet rather than full-page reading, browsing, or gameplay, which fits the INTERPRET (predict code output) task.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact lower-central region with short, repeated horizontal and small vertical movements, indicating focus near a single area such as the text cursor and nearby words during typing, which matches the WRITE pattern more than the broader, multi-region exploration seen in SEARCH or BROWSE.",
+  "correct": false
+}

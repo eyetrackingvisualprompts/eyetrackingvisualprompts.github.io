@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays in a narrow horizontal band with sequential left-to-right fixations and few vertical movements, matching line-by-line reading behavior rather than broader exploratory or dynamic tasks like PLAY, SEARCH, or BROWSE.",
+  "correct": false
+}

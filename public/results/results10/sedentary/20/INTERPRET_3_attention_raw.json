@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a narrow vertical strip on the left side with several clusters at different heights, closely matching the INTERPRET example heatmap pattern of scanning code vertically rather than the denser multi-column DEBUG pattern or the more dispersed SEARCH/BROWSE layouts.",
+  "correct": true
+}

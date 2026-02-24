@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the screen center with moderate vertical spread and some peripheral points, matching the browsing example more than the more dispersed SEARCH or line-structured READ/WRITE patterns.",
+  "correct": false
+}

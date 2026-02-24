@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is densely clustered over the left-central code area with frequent revisits and occasional long saccades to the right side (likely console/output) and lower regions, matching the pattern of inspecting and testing code seen in the DEBUG example more than in other tasks.",
+  "correct": false
+}

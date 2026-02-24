@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is clustered in a compact central code-like region with many short, local shifts and revisits, minimal long horizontal sweeps typical of reading or browsing, and no large dynamic excursions as in games or video watching. This dense, analytical inspection pattern is most consistent with interpreting a code snippet rather than writing, debugging, or searching.",
+  "correct": true
+}

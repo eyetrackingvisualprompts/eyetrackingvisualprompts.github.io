@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "X shows moderate horizontal scanning with small shifts, while Y has several larger vertical transitions between bands, matching the pattern of moving between search box, results, and lower content in the SEARCH example more than the other activities.",
+  "correct": false
+}

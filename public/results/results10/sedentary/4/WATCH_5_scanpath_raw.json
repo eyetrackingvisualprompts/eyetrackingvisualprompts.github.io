@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mostly horizontal reading-like movements within a limited band, but with occasional larger jumps vertically and horizontally, indicating scanning different parts of a webpage rather than the more uniform, line-by-line pattern of focused reading.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered around the screen center with moderate vertical spread and frequent local saccades, matching the browsing example pattern more than the linear horizontal movements of READ/WATCH or the peripheral distributions of WRITE/PLAY/SEARCH.",
+  "correct": false
+}

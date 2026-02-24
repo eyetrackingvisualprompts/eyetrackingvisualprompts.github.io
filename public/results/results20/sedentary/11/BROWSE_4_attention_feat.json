@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are dispersed mainly across the upper half of the screen, especially near the top and mid-upper regions, resembling scanning across search results and snippets rather than the tighter central clusters of WATCH/PLAY or the localized code/text areas of WRITE/DEBUG/INTERPRET/READ. This broad exploratory pattern best matches the SEARCH activity.",
+  "correct": false
+}

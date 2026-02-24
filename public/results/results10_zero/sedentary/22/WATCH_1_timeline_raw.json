@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows repeated horizontal movements with relatively stable Y positions forming discrete bands, consistent with line-by-line reading of text rather than continuous tracking or highly scattered exploration typical of browsing, playing, or watching video.",
+  "correct": false
+}

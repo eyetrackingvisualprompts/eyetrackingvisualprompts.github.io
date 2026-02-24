@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen X with limited vertical range and relatively small, frequent saccades, resembling the stable, central viewing pattern of general web/news browsing rather than the larger vertical spans of reading/searching or the higher Y focus in watching/playing/writing tasks.",
+  "correct": false
+}

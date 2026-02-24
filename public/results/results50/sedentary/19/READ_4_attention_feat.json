@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are spread horizontally across the upper-middle region with moderate vertical range and no tight cluster at a code editor or text block, resembling the distributed gaze pattern of watching a video rather than the more linear READ pattern or the localized WRITE/INTERPRET clusters.",
+  "correct": false
+}

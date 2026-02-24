@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows dispersed fixations across a mid-screen region with frequent vertical and horizontal shifts and no clear line-by-line pattern, matching exploratory scanning over search results or web pages rather than structured reading, localized browsing cluster, or game-like wide movements.",
+  "correct": false
+}

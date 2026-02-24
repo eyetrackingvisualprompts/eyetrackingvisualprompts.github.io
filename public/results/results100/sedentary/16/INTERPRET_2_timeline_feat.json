@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly confined to a narrow central band with relatively small, localized saccades and occasional brief excursions\u2014closely matching the example WRITE pattern where attention alternates between code and nearby UI elements, unlike the broader, more scattered movements in BROWSE/SEARCH/DEBUG or the systematic line sweeps in READ.",
+  "correct": false
+}

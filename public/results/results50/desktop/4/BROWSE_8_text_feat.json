@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, frequent shifts across both horizontal and vertical extents (including moves toward the top and bottom regions around y\u22480.2 and y\u22480.47, and into a HUD-like lower band around y\u22480.17\u20130.3), with many mid-length saccades and moderate fixations, resembling continuous spatial monitoring typical of gameplay rather than the more line-structured, columnar, or center-biased patterns seen in reading, writing, browsing, or search.",
+  "correct": false
+}

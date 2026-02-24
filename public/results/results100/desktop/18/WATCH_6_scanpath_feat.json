@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal band with dense, short saccades and limited vertical spread, matching the line-by-line scanning pattern characteristic of reading rather than the broader, multi-region exploration seen in browsing, searching, playing, watching, or writing.",
+  "correct": false
+}

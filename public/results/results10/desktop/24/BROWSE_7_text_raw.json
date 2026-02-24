@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large saccades across both vertical and horizontal directions, alternating between scattered exploration and short localized fixations, including jumps between mid, upper, and lower screen regions. This mixed, exploratory scan behavior with no strong row-wise regularity (READ) and without the extreme, rapid edge-to-edge shifts typical of PLAY aligns best with web browsing patterns seen in the BROWSE example data.",
+  "correct": true
+}

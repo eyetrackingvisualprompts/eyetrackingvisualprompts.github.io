@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are moderately spread in the central region with vertical coverage and multiple local clusters, resembling the more scattered, exploratory pattern seen in the BROWSE example rather than the tighter clusters of SEARCH or the primarily horizontal bands of READ/WRITE/WATCH/PLAY.",
+  "correct": false
+}

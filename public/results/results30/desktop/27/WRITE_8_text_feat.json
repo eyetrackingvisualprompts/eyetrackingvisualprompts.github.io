@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Long, regular fixations with predominantly horizontal progressions around mid-screen coordinates, followed by occasional downward shifts to slightly lower y-levels, closely match the structured line-by-line scanpath pattern seen in the READ example, rather than the more scattered or vertically varying patterns of SEARCH/BROWSE or the more peripheral/unstable patterns of PLAY/WATCH/WRITE.",
+  "correct": false
+}

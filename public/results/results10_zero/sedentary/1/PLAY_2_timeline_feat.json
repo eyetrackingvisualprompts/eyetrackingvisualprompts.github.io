@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal fixations with small step-like vertical movements and limited large saccades, consistent with line-by-line reading behavior rather than dynamic tracking, coding, or exploratory browsing.",
+  "correct": false
+}

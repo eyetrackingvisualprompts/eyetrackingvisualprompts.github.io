@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a narrow, horizontally distributed band with limited vertical movement and sequential progression, matching the typical left-to-right scanpath of reading text rather than the more scattered or multi-directional patterns of other activities.",
+  "correct": true
+}

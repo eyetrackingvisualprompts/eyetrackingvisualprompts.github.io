@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-amplitude shifts in both X and Y with irregular, non-linear patterns and bursts of larger saccades around code-reinspection periods, closely matching the DEBUG example and differing from the more stable INTERPRET/WRITE and more chaotic WATCH/PLAY profiles.",
+  "correct": true
+}

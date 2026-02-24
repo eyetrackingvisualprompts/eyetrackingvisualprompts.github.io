@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including extreme edges), frequent jumps between central, upper, and lower areas, and visits to near-offscreen coordinates resemble dynamic tracking of moving game elements more than the more localized, structured patterns seen in reading, coding, or web browsing tasks.",
+  "correct": false
+}

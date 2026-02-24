@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered with moderate horizontal movement and relatively small vertical variation, resembling the balanced, mid-screen exploration seen in the BROWSE example rather than the stronger line-by-line sweeps of READ/WRITE or larger directional shifts of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

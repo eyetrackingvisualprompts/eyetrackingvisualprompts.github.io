@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows relatively small horizontal movements around mid-screen with occasional brief vertical shifts and a short pronounced upward jump, matching the more stable, mid-screen scanning pattern of BROWSE rather than the regular line-by-line shifts of READ or the larger, more dynamic movements of PLAY, SEARCH, WATCH, or WRITE.",
+  "correct": true
+}

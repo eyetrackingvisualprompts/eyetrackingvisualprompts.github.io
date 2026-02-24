@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around a left-center region (likely query/results) with additional scattered fixations extending horizontally and somewhat vertically across the screen, resembling the mixed reading-and-scanning pattern of SEARCH rather than the tighter, localized clusters of WRITE/INTERPRET/DEBUG or the broader distributions of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

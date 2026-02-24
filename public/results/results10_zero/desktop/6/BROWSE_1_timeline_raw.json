@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions are relatively stable with small, regular horizontal shifts around the screen center and limited vertical variation, indicating line-by-line reading rather than large exploratory movements typical of browsing, searching, gaming, or video watching.",
+  "correct": false
+}

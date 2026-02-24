@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "The fixations are tightly clustered around the screen center with minimal horizontal/vertical spread, indicating sustained gaze on a static central target, matching the Fixations condition.",
+  "correct": false
+}

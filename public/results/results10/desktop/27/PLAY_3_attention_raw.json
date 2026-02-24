@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Multiple distinct fixation clusters spread horizontally across the mid-lower area of the screen, indicating scanning of varied content sections similar to the browsing example, rather than the more linear pattern of READ or the localized clusters of other activities.",
+  "correct": false
+}

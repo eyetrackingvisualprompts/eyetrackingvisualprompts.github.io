@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows extended periods focused in a similar horizontal region with several abrupt vertical transitions between two main Y bands, matching the pattern of moving between code and console/output areas typical of debugging, and differing from the more uniform reading/browsing scans or highly dynamic play/watch traces.",
+  "correct": false
+}

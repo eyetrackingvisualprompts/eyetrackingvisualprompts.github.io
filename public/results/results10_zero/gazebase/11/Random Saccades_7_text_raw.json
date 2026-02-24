@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to widely separated positions across both horizontal (\u224830\u00b0 range) and vertical axes, followed by ~1-second clusters of low-variance points at each location, matching a protocol where a single target steps to random 2\u201330\u00b0 positions and is then fixated. This step-and-hold pattern with multi-directional saccades is characteristic of the Random Saccades task rather than smooth horizontal-only motion, static fixation, reading-like line sweeps, or the more irregular, object-contingent behavior expected in the game or video viewing conditions.",
+  "correct": true
+}

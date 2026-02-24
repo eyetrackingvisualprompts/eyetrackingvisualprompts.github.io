@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays at nearly constant vertical position with slow, small horizontal shifts and very few vertical saccades, indicating following motion in a localized screen area rather than systematic line-by-line reading or code scanning; this pattern best matches passively watching a video clip.",
+  "correct": false
+}

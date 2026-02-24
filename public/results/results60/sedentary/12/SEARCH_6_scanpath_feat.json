@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scanning across the upper part of the screen with occasional long vertical saccades downwards resembles scanning a search results page and then moving down to inspect lower content, matching the SEARCH example pattern more than the others.",
+  "correct": true
+}

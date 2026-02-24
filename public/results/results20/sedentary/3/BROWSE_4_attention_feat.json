@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster around two vertical regions on the left and far right, similar to code editing where gaze alternates between code and another UI area (e.g., console or editor panes), matching the WRITE heatmap pattern more than the other activities.",
+  "correct": false
+}

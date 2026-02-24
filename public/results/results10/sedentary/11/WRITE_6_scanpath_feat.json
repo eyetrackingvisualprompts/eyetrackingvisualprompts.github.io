@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Two main fixation clusters: one on the left (likely code editor) and one on the right (possibly console or instructions), with repeated long horizontal saccades between them, matching the pattern of typing code and checking output typical for WRITE tasks.",
+  "correct": true
+}

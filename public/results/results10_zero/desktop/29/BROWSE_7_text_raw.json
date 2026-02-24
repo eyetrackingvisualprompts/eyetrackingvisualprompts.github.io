@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points remain within a narrow central band with slow, small vertical shifts and minimal large saccades, indicating stable fixations along nearby text lines rather than rapid, wide explorations typical of browsing, searching, or gaming, or the larger motion and dispersion seen in watching videos or writing with cursor/toolbar interactions.",
+  "correct": false
+}

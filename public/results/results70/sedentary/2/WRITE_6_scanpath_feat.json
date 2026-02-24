@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on the upper-left code area with occasional long saccades to the right side, matching the WRITE pattern where participants focus on the editor but periodically check other UI elements or outputs, unlike the denser, more scattered DEBUG or SEARCH behaviors.",
+  "correct": true
+}

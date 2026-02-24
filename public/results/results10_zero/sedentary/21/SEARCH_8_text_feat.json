@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows rightward, near-horizontal scan along lower part of screen resembling reading or skimming, followed by several very long, multi-hundred-millisecond saccades jumping to widely separated regions (including corners and near/outside screen bounds), typical of navigating different webpage areas rather than the relatively constrained line-by-line patterns of focused READ or the central, smoother patterns of WATCH/PLAY. This exploratory, multi-region behavior best matches free web browsing.",
+  "correct": false
+}

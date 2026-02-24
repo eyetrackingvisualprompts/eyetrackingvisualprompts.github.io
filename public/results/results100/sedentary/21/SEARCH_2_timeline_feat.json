@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent horizontal saccades with moderate vertical shifts across different screen regions, indicating scanning of multiple result items and occasional deeper inspections, which best matches the search-engine task rather than the more stable code reading/writing or continuous viewing patterns of WATCH/PLAY/READ.",
+  "correct": true
+}

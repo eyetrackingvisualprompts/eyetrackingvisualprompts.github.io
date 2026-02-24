@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cluster within a relatively confined central region with smooth shifts and short excursions, consistent with tracking dynamic on-screen content rather than systematic line-by-line reading, code inspection, or targeted search/browse behavior; this spatial-temporal pattern best matches passive video watching among the given classes.",
+  "correct": false
+}

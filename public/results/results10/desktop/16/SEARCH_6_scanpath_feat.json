@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight horizontal cluster with short saccades and stable fixations, resembling the structured left\u2011to\u2011right scanning pattern seen in the READ example rather than the more dispersed or vertically varying patterns of browse/search/play/watch/write.",
+  "correct": false
+}

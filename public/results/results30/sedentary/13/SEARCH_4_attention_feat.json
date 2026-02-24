@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are dispersed across multiple vertical regions and horizontally spread over both left and central areas, indicating scanning of different parts of a webpage rather than the focused bands typical of reading/code tasks or the central clustering seen in watching or playing games. This pattern best matches free web browsing.",
+  "correct": false
+}

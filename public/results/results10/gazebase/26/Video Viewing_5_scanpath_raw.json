@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze path is dominated by long, predominantly horizontal movements with relatively small vertical variation, closely matching the structured left\u2013right tracking pattern seen in the Horizontal Saccades example rather than the more scattered or multi-directional patterns of other tasks.",
+  "correct": false
+}

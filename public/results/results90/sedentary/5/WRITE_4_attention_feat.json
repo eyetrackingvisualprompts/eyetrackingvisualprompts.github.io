@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated along horizontal bands in the upper and middle areas with multiple dispersed fixations, similar to scanning search results and snippets, closely matching the SEARCH example pattern more than the other task heatmaps.",
+  "correct": false
+}

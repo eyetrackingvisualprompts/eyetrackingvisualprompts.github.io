@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations and saccades are concentrated in narrow vertical code-like regions (y\u2248250\u2013600) with frequent returns between nearby line positions and occasional jumps to a header/top area, resembling focused inspection and re\u2011inspection of code segments rather than the more horizontal, regular scanpaths of reading/browsing or the broad, dynamic movements of watching/playing. This pattern best matches the DEBUG task, where users repeatedly check and revisit specific lines while searching for and verifying fixes to errors.",
+  "correct": true
+}

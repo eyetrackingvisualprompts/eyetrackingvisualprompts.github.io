@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and edges), with relatively short, scattered fixations and non-linear scan paths, are more indicative of visually tracking dynamic game elements than of orderly line-by-line reading, code-focused tasks, or steady video watching/browsing patterns.",
+  "correct": false
+}

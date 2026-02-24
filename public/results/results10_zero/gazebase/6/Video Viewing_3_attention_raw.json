@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows gaze concentrated in a narrow horizontal band with multiple clusters spread laterally but at nearly constant vertical position, indicating repeated side-to-side movements along one line, consistent with following a horizontally moving target rather than static fixation, reading (which would cover a wider horizontal range and multiple lines), or random 2D movements.",
+  "correct": false
+}

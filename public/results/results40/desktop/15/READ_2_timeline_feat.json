@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target data shows systematic, gradual sweeps in both X and Y fixation positions with regular saccades that resemble line-by-line progression across text, closely matching the fixation/saccade structure in the READ example more than the other activity classes.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including extremes and corners), with scattered fixations at varying vertical positions and rapid shifts between HUD-like top/bottom/center areas resemble game navigation patterns more than the more localized, columnar or banded gaze seen in reading, writing, search, or browsing, and are less consistent with the smoother, stimulus-driven WATCH patterns.",
+  "correct": false
+}

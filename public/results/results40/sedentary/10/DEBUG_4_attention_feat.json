@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are densely clustered over a compact region on the left side of the screen with limited horizontal spread and a few secondary points, closely matching the INTERPRET example pattern of focused inspection of a short code snippet rather than the broader, more distributed patterns seen in browsing, reading, or debugging.",
+  "correct": false
+}

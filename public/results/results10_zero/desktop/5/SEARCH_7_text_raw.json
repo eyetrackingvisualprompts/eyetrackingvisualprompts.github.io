@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze pattern shows frequent, medium-to-large saccades across different screen regions (including extremes near top and bottom), interleaved with short, stable fixations. Movements are not constrained to horizontal reading lines or localized writing/editing areas, and there is no clear search-result/page-scanning structure. Such continuous, stimulus-driven shifts across the screen are most consistent with following dynamic visual content in a video (WATCH).",
+  "correct": false
+}

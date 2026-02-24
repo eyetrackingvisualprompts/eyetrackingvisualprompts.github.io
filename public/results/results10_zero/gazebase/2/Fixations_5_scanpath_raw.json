@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points remain within a very small area near the screen center with only minimal local movement over the full 10 s window, consistent with maintaining fixation on a static central target rather than following moving targets or reading/video-viewing patterns.",
+  "correct": true
+}

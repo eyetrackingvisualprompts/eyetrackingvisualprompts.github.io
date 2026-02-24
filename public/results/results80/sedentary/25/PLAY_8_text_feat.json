@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-distance saccades across wide screen regions, many off-center/top-edge fixations, and irregular revisits to disparate areas (top bars, mid content, lower regions) resemble scrolling and scanning web pages rather than structured code, text reading, or continuous game following.",
+  "correct": false
+}

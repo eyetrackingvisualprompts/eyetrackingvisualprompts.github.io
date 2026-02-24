@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated around central-horizontal bands with frequent medium-amplitude saccades, rapid returns, and excursions to screen edges, matching dynamic object tracking and spatial monitoring patterns seen in the PLAY examples rather than the line-by-line, columnar, or code-block scanning of reading, search, or coding tasks.",
+  "correct": false
+}

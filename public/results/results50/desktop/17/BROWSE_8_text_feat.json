@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades spanning wide vertical and horizontal extents (e.g., between upper and lower screen and into corners), with many shifts between central/task regions and peripheral locations, consistent with dynamic, target-tracking behavior in games rather than the more constrained, line- or region-based patterns seen in reading, browsing, searching, writing, or watching video.",
+  "correct": false
+}

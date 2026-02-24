@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a single central-left region with limited vertical spread and few long transitions, indicating focused inspection of a compact code snippet area, matching the INTERPRET pattern more than the more dispersed, multi-panel movements seen in DEBUG or WRITE.",
+  "correct": false
+}

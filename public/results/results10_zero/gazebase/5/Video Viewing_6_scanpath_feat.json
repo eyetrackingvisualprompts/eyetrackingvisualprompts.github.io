@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points jump between discrete positions scattered across both horizontal and vertical axes, with relatively long dwells at each location, matching the pattern of following a target that moves to random screen positions and holds for about a second rather than strictly horizontal motion, continuous reading lines, or central fixation.",
+  "correct": false
+}

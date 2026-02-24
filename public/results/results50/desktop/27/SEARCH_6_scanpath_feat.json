@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations over a relatively central area with frequent shifts and no strong horizontal text-line structure, resembling the exploratory, multi-region pattern of the SEARCH example more than the more localized or structured patterns of READ, WRITE, WATCH, BROWSE, or PLAY.",
+  "correct": true
+}

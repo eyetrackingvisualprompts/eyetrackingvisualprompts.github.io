@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact vertical band on the left side, with repeated up\u2013down transitions between an upper and a lower region, suggesting alternating attention between code and its output/trace area typical of interpreting a short code snippet rather than continuous reading, wide exploration, or dynamic tracking.",
+  "correct": false
+}

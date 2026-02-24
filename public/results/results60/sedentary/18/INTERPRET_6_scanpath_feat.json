@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in the upper-left code area with short horizontal and vertical shifts, similar to the DEBUG example and distinct from the more central, horizontally spread patterns of WRITE or READ and the broader exploration in SEARCH/BROWSE/WATCH/PLAY.",
+  "correct": false
+}

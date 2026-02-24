@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y gaze positions remain tightly clustered around the screen center with only small noise and a single brief blink-like excursion, matching the pattern of maintaining fixation on a static central target rather than larger, structured saccades or reading patterns.",
+  "correct": true
+}

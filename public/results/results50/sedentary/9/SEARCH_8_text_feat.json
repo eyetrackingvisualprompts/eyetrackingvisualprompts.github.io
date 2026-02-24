@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (including off-screen coordinates), mixed with shorter inspections of scattered areas vertically and horizontally, match exploratory, multi-section viewing typical of web browsing rather than the more localized or structured scan paths of coding, reading, or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades between widely separated screen regions (including off-content coordinates), many returns to the top and corners, mixed horizontal and vertical scanning without orderly line-by-line progression, and intermittent inspection of central blocks match the heterogeneous, exploratory patterns seen in the BROWSE examples rather than the more structured code- or text-centered behaviors of WRITE/INTERPRET/DEBUG or the continuous object/scene following of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

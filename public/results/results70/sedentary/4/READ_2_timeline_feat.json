@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target data shows highly regular, repeated horizontal scan patterns in X with stepwise downward drift in Y over time, characteristic of line-by-line reading behavior and closely matching the READ example plot.",
+  "correct": true
+}

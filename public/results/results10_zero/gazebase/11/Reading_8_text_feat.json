@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates predominantly along the horizontal axis between left and right positions (approximately \u00b18 degrees) with relatively small vertical variation, showing large horizontal saccades and short fixations consistent with tracking a target moving horizontally rather than random or text-structured scanning.",
+  "correct": false
+}

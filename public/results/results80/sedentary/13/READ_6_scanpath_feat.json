@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, orderly horizontal sweeps stacked vertically with occasional vertical regressions, forming clear line-by-line reading patterns centered in a column, closely matching the provided READ example and unlike the more dispersed or focal patterns of coding, gaming, or browsing tasks.",
+  "correct": true
+}

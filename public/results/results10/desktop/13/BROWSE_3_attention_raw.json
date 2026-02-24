@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated around the central region with multiple clustered fixations and moderate vertical movement, closely matching the browsing example heatmap pattern and differing from the more peripheral or linear patterns seen in other activities.",
+  "correct": true
+}

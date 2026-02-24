@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in the lower-left region of the screen with relatively small horizontal and vertical variation, closely resembling the WRITE example where gaze stays near the text-entry area rather than scanning widely as in READ or BROWSE.",
+  "correct": false
+}

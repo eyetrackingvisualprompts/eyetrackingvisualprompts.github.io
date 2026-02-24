@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a single horizontal band across the middle, indicating continuous line-by-line scanning of text without large jumps to menus, code editor sidebars, or dynamic objects\u2014matching the reading pattern rather than coding, browsing, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows frequent medium- to long-distance saccades between mid-page and upper/lower regions, mixed with medium-length fixations and occasional jumps to near-top coordinates\u2014indicative of scanning heterogeneous web content rather than the more line-structured horizontal movements of reading or the tighter central focus typical of writing. The dynamics and dispersion match the provided BROWSE examples most closely.",
+  "correct": false
+}

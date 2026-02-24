@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a few vertical positions along the screen center, including upper and lower areas, with no left-to-right reading pattern or code-editor layout; this pattern matches following content in a full-screen video rather than reading, coding, or game-like wide-ranging gaze movements.",
+  "correct": false
+}

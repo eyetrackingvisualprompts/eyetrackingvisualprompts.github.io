@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are tightly clustered around the upper-central area with slight horizontal spread, closely matching the SEARCH example pattern near the search bar and top results, rather than the more left-top cluster of WRITE or broader spreads of BROWSE/READ/WATCH/PLAY.",
+  "correct": false
+}

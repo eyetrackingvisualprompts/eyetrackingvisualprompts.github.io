@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal left-to-right sweeps clustered around a few vertical bands (y\u2248180\u2013380) with small regressions, consistent with line-by-line text reading. There are no large scene-wide scans, object-chasing patterns, or code-editor vertical jumps typical of debugging, writing, or interpreting; nor the mixed-scroll and content-area shifts seen in browsing/search. The pattern closely matches the structured, repetitive horizontal scanlines characteristic of the provided READ examples.",
+  "correct": true
+}

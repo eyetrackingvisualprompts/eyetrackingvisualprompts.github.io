@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small central-lower region, indicating gaze mostly stays on one compact area (e.g., central part of a video frame). There is no horizontal scanning or multiple vertical lines typical of reading, browsing, or searching, nor wider exploration seen in playing games; this stationary central focus best matches watching a video.",
+  "correct": false
+}

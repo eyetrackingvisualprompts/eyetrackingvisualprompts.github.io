@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small central region with short saccades and minimal horizontal/vertical spread, indicating focused inspection of a compact code snippet rather than wide reading or browsing; this pattern best matches the INTERPRET example.",
+  "correct": false
+}

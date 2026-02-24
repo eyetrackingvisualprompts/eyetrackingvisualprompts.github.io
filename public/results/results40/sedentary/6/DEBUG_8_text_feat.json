@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent vertical and horizontal saccades between widely separated screen regions (including off-content border areas), alternating with shorter inspections, match exploratory scrolling/viewport changes and heterogeneous webpage elements typical of web browsing rather than the more line-structured patterns of reading/search results or the code-centered, band-limited gaze of programming tasks.",
+  "correct": false
+}

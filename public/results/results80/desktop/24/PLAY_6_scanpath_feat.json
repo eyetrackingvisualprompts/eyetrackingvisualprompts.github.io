@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster around a central area with modest dispersion and no strong horizontal scanline pattern typical of reading or writing, nor the wide-ranging movements seen in play or watch; this localized but somewhat exploratory pattern best matches browsing behavior on a webpage.",
+  "correct": false
+}

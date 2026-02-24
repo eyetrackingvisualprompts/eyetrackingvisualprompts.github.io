@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between relatively long, stable fixations (~0.2\u20130.8 s) and large multi-degree jumps in varying directions (both horizontal and vertical), with positions scattered across the \u00b115\u00b0\u00d7\u00b19\u00b0 visual field rather than constrained to a line (horizontal saccades) or central area (fixation), and without the structured left-to-right, line-by-line pattern of reading; this matches following a randomly moving target.",
+  "correct": false
+}

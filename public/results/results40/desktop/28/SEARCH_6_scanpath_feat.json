@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows multiple spatially separated clusters (center, left, and far right) with frequent transitions among them, consistent with looking between search results list, input box, and other page elements typical in web search, rather than the more localized patterns of READ or WRITE or the constrained regions in WATCH/PLAY.",
+  "correct": true
+}

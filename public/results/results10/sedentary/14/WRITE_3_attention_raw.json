@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is split between a strong cluster on the left-center and another on the right-center, with scattered intermediate fixations, resembling attention to a search box/results area and then selected result regions, which matches the SEARCH pattern more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows long, orderly horizontal scanpaths with small vertical shifts across a constrained band, characteristic of line-by-line reading, and lacks the large exploratory jumps, code-region revisits, or game-like object tracking seen in browse/debug/search/play/write/watch patterns.",
+  "correct": true
+}

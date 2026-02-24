@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured horizontal sweeps with gradual downward shifts in Y and moderate saccades, matching the regular line-by-line pattern of reading rather than the more scattered or extreme movements seen in browsing, searching, gaming, or video watching.",
+  "correct": false
+}

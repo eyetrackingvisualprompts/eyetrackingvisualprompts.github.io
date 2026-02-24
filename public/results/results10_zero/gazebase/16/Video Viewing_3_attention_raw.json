@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The heatmap shows a sequence of relatively small, horizontally aligned fixation clusters across the upper-middle of the screen, consistent with line-by-line reading patterns rather than large-amplitude or random target-driven saccades, central fixation, or game-like scattered fixations.",
+  "correct": false
+}

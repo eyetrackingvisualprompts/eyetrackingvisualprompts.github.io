@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a small code-like region with many short fixations and micro-saccades, along with repeated revisits vertically and horizontally around similar coordinates, characteristic of inspecting and re-inspecting lines and symbols while debugging rather than the more linear scanpaths of reading/browsing or the broader movements of watch/play/search.",
+  "correct": false
+}

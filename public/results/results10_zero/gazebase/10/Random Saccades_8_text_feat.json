@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between spatially dispersed positions across both horizontal (\u224825\u201330\u00b0 range) and vertical (up to \u224815\u00b0) axes, with relatively long fixations (~0.2\u20130.8 s) separated by large-amplitude saccades in varying directions. This matches following a target that jumps to irregular 2D locations and holds for about a second, consistent with Random Saccades rather than the more patterned horizontal-only motion, central fixation, reading-like clustered horizontal bands, or game-/video-like more continuous, content-driven scanning.",
+  "correct": true
+}

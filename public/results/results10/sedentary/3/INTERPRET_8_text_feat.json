@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains within a compact region around the code area with long fixations (up to several seconds) and short, local saccades between nearby lines/segments, matching the focused, small-area inspection seen in the INTERPRET example rather than the broader scanning or horizontal/vertical navigation patterns of SEARCH, BROWSE, READ, or PLAY.",
+  "correct": true
+}

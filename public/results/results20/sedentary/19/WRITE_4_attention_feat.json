@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on a left-side upper code area with a secondary cluster lower-left, matching the write example pattern of alternating attention between code editor and console/tooling rather than the more central, dispersed patterns of watch/browse or the tightly focused interpret/search layouts.",
+  "correct": true
+}

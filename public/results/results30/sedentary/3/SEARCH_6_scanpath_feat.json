@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows extended horizontal reading-like movements across the mid-screen with occasional vertical transitions and some longer excursions, indicating line-by-line reading interspersed with navigation\u2014characteristic of web browsing rather than continuous reading of a fixed text or the more localized patterns of coding tasks.",
+  "correct": false
+}

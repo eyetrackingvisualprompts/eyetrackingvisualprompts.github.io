@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with many medium-length fixations and short intra-line saccades plus occasional returns, matching line-by-line text reading on a single block rather than wide exploratory movements (BROWSE/SEARCH), dynamic object following (PLAY/WATCH), or code/IDE patterns (INTERPRET/DEBUG/WRITE).",
+  "correct": false
+}

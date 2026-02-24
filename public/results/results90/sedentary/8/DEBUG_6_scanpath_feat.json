@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a code-like region on the left with frequent shifts between lines, plus recurring long saccades to a few distant locations on the right and lower screen (likely console/output or error messages), matching the characteristic pattern of debugging rather than static code interpretation or writing.",
+  "correct": true
+}

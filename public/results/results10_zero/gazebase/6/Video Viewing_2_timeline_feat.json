@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze shows largely one-dimensional movements in the horizontal (X) direction between approximately symmetric positive and negative positions with relatively small and stable Y values, matching the pattern of following a horizontally oscillating target rather than multi-directional or complex movements seen in other tasks.",
+  "correct": false
+}

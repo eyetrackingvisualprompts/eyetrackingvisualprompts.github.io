@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows moderate horizontal movements with coordinated X/Y fixations and intermittent saccade bursts near code-editing regions, resembling the WRITE example more than the other activities, which have either more uniform reading patterns (READ/INTERPRET), more dispersed scanning (SEARCH/BROWSE), or highly dynamic motion (PLAY/WATCH).",
+  "correct": false
+}

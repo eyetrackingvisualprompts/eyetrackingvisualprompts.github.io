@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is widely distributed across the screen with frequent saccades between multiple regions and no strong horizontal line structure typical of reading or writing; this dispersed exploratory pattern best matches web searching behavior.",
+  "correct": false
+}

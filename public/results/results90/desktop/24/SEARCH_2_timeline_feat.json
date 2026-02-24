@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations stay within a narrow mid-screen band with moderate, irregular saccades and no strong directional drift, matching the relatively steady yet scattered gaze pattern shown in the BROWSE example rather than the more structured (READ/WRITE) or dynamic (PLAY/WATCH/SEARCH) patterns.",
+  "correct": false
+}

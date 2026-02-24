@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered in a central region with frequent multidirectional saccades and revisits, resembling the example BROWSE pattern more than the more linear READ/WRITE scanpaths or the multi-cluster PLAY pattern.",
+  "correct": false
+}

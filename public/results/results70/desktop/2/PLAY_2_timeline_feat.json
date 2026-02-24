@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay around the central region with moderate, irregular saccades in both axes and no strong left-to-right line structure or stable upper/lower band; this mixed, exploratory pattern best matches browsing behavior compared with the more structured patterns of reading, writing, or gameplay.",
+  "correct": false
+}

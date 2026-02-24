@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large spatial dispersion with frequent long saccades across both horizontal and vertical directions, covering multiple distinct regions of the screen, which matches the wide-ranging gaze shifts characteristic of playing games rather than the more localized or structured patterns seen in browsing, reading, writing, searching, or watching video.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is concentrated in a small central-lower region with limited dispersion, matching the tight, localized focus seen in the PLAY example heatmap more than the broader, upper-screen patterns of reading, searching, browsing, or watching, or the top-left focus of writing.",
+  "correct": false
+}

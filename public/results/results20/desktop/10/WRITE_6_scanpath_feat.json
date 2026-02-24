@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is highly stationary with a single dense fixation cluster in the lower-central area of the screen, matching the focused, minimal-movement pattern seen when typing in a word processor rather than the broader scanpaths of reading, browsing, searching, watching, or playing games.",
+  "correct": true
+}

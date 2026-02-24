@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains mostly stable near screen center with occasional brief vertical and horizontal shifts, indicating continuous viewing of a central stimulus rather than systematic left-to-right or code-scanning patterns typical of reading, writing, debugging, or searching; this pattern best matches passively watching a video clip.",
+  "correct": false
+}

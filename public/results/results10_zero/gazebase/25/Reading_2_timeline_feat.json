@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "X fixation positions step back and forth symmetrically around center with large horizontal excursions (~\u00b115\u00b0) at roughly 1 s intervals, while Y remains nearly constant\u2014matching the protocol of following a horizontally moving target at 1 s steps.",
+  "correct": false
+}

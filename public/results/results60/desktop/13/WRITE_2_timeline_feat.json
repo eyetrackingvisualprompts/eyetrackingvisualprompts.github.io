@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations show a smooth, slowly varying horizontal pattern with relatively small vertical range and regular progress, closely matching the structured, line-by-line scan behavior seen in the READ examples rather than the more scattered or multidirectional patterns of other activities.",
+  "correct": false
+}

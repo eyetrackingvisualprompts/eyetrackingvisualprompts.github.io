@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades across wide screen regions (including off-center/extreme coordinates), long continuous fixations, and scanning of broad horizontal bands resemble following dynamic visual content rather than line-by-line reading or code-focused tasks; the pattern best matches the WATCH examples.",
+  "correct": false
+}

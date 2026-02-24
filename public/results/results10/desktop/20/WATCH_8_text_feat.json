@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are mostly central with small vertical shifts and moderate durations (0.2\u20131.4s), and saccades are short, without long horizontal sweeps or large exploratory jumps. This pattern matches the browsing example, which shows localized inspection and scrolling-like vertical adjustments, rather than the systematic line sweeps of reading, the more dispersed search/game patterns, or the long stable fixations of video watching.",
+  "correct": false
+}

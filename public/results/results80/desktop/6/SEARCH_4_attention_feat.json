@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is clustered around the upper-central region with several dispersed fixation groups, indicating scanning across multiple elements (e.g., search results and interface controls), which best matches the SEARCH pattern compared with the more tightly centered BROWSE and line-structured READ heatmaps.",
+  "correct": true
+}

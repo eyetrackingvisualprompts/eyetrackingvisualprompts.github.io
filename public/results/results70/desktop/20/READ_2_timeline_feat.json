@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions remain near screen center with moderate, irregular saccades and no strong left-to-right scanpaths or large vertical shifts, matching the diffuse, mixed navigation pattern typical of browsing rather than the more structured movements seen in reading, writing, searching, watching videos, or playing games.",
+  "correct": false
+}

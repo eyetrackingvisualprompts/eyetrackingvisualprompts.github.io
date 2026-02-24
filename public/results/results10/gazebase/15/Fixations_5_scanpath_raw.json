@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The gaze points remain tightly clustered near the screen center with only small jitter and minimal horizontal or vertical excursions, matching the static central fixation pattern shown in the Fixations example.",
+  "correct": true
+}

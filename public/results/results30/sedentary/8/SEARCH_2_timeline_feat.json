@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, smooth shifts in both X and Y with broad vertical range and fewer tight horizontal reading-like sweeps. This pattern of following moving content across the screen best matches the WATCH examples rather than the more line-structured or text-focused tasks.",
+  "correct": false
+}

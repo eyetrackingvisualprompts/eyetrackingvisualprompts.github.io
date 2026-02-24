@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "Both X and Y show medium-amplitude shifts with some gradual drifts and irregular timing, lacking the strict periodicity of horizontal or random saccades and the structured line-by-line pattern of reading, matching the more free-form gaze behavior seen during video viewing.",
+  "correct": false
+}

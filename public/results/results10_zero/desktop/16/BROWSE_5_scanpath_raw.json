@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze trajectory shows frequent multidirectional saccades within a compact central region, with rapid back-and-forth movements and no clear horizontal line-by-line structure typical of reading or writing, nor the systematic scanning of search/browsing pages. This dense, erratic pattern is more consistent with visually tracking dynamic game elements while playing.",
+  "correct": false
+}

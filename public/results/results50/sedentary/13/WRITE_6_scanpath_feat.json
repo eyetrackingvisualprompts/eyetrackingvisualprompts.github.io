@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left side where results/text likely appear, with repeated long saccades to a few right-side locations resembling checking result snippets or opening pages, matching the SEARCH example more than other tasks.",
+  "correct": false
+}

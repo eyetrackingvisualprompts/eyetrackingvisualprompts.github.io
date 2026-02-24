@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows multiple horizontal fixations around a central text line with additional scattered fixations at various vertical positions, indicating transitions between regions as on a webpage; the pattern is more varied than READ but less globally exploratory than WATCH, matching free web browsing behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is focused mainly on a central-left code/IDE area with repeated vertical and diagonal transitions between a few regions, plus occasional excursions downward where a console or editor bottom would be. This pattern closely matches the WRITE example and differs from the tighter INTERPRET/DEBUG and more dispersed BROWSE/SEARCH patterns.",
+  "correct": false
+}

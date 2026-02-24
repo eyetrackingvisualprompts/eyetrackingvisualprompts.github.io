@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a mid-left code area with frequent vertical scanning and occasional long saccades to the top and bottom, closely matching the DEBUG example pattern of inspecting and revisiting multiple code regions rather than the more localized INTERPRET pattern or the broader exploration of BROWSE/SEARCH.",
+  "correct": true
+}

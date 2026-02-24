@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow central band with many medium/long fixations and short, small-amplitude saccades progressing horizontally and slightly vertically\u2014closely matching the structured, line-by-line scanning patterns seen in the READ examples and unlike the larger spatial spreads and vertical extremes typical of SEARCH, BROWSE, PLAY, WATCH, or the upper-screen focus of WRITE.",
+  "correct": false
+}

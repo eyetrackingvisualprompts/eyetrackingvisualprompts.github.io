@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal scanning within a constrained region, with frequent but not highly systematic regressions and occasional larger saccades, matching the more exploratory, back-and-forth pattern of inspecting and correcting code seen in the DEBUG example rather than the more linear patterns of READ/WRITE or the heavier motion of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": true
+}

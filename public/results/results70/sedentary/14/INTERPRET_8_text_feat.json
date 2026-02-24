@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a compact code-like region (x\u2248200\u2013350, y\u2248250\u2013600) with frequent short saccades and medium\u2013long fixations, plus many revisits between similar line positions (vertical oscillations) and occasional jumps to far off-screen coordinates and back, indicating inspection, re-checking, and error hunting rather than smooth line reading (READ) or broad exploratory scanning (BROWSE/SEARCH). This spatio-temporal pattern best matches the DEBUG examples.",
+  "correct": false
+}

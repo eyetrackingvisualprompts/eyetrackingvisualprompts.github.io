@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid shifts spanning wide screen areas (from bottom-left to top-right and back), frequent vertical and horizontal excursions, and extended clusters near screen edges\u2014patterns consistent with dynamic visual tracking in games rather than the more central, band-limited, and stable gaze seen in reading, browsing, searching, watching videos, or writing.",
+  "correct": false
+}

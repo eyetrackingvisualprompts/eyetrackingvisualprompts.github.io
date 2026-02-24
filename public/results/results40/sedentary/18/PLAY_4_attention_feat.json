@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is spread horizontally across a mid-screen band with several distinct fixation clusters and occasional points elsewhere, resembling scanning through web content rather than the tighter line-by-line pattern of READ or the more localized coding-related clusters of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

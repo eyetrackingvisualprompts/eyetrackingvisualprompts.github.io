@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated vertical shifts between two main Y-bands with wide horizontal excursions and several large saccades, matching scanning between search results/snippets and occasional page transitions typical of SEARCH, rather than the more line-structured READ or the steadier code-focused tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around mid-screen with frequent medium-amplitude vertical jumps between multiple bands (roughly y\u22480.2\u20130.6) and scattered horizontal shifts, indicating scanning among several distinct regions rather than strict line-by-line reading or focused single-object tracking. The pattern of intermittent larger relocations and then local exploration best matches web/news browsing behavior compared to the more structured horizontal sweeps of READ or the more peripheral, wide-ranging motions of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid shifts across widely separated screen regions (top HUD-like band, central play area, and lower zones), plus vertical excursions and scattered off-center points typical of tracking dynamic game elements rather than line-by-line reading or code inspection. The pattern best matches interactive, visually dynamic gameplay behavior.",
+  "correct": false
+}

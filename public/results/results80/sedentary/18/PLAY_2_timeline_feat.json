@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The X fixation shows repeated large rightward sweeps with resets, while Y fixation slowly drifts downward with occasional jumps, indicating scrolling through vertically arranged content with horizontal reading-like passes but less regular than structured text; this mixed, exploratory pattern best matches free web browsing rather than focused reading or coding tasks.",
+  "correct": false
+}

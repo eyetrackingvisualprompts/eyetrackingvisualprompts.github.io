@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small central region with minor horizontal movement and no systematic line-by-line scanning or large jumps, consistent with fixating on a small central area such as main characters or subtitles in a video rather than reading, writing, searching, or game-like exploration.",
+  "correct": false
+}

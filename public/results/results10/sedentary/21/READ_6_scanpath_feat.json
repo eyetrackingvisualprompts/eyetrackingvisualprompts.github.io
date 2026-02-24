@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly clustered within two horizontal bands (upper-middle and near bottom) with large vertical transitions between them, consistent with following changing content in different regions of a video rather than line-by-line reading or focused code inspection.",
+  "correct": false
+}

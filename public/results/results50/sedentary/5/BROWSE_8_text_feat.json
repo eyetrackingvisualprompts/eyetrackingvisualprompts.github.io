@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Extremely long saccades spanning large screen regions, including jumps from central to far top and then to extreme right positions, with very short fixations, match the rapid, large-amplitude gaze shifts typical of tracking moving game elements rather than the more localized, line-structured patterns of reading, coding, or browsing.",
+  "correct": false
+}

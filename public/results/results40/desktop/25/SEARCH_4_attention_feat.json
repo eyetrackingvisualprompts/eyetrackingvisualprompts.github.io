@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are widely distributed across the screen without strong clustering or horizontal line patterns, indicating attention to dynamic content over a broad vertical range, which matches the viewing behavior when watching videos rather than reading, writing, searching, browsing, or focused gameplay.",
+  "correct": false
+}

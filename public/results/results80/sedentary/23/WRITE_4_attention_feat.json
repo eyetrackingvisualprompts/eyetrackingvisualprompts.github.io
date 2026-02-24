@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over two nearby regions in the left-center code area, similar to INTERPRET example where attention alternates between code and output-relevant lines, without the broader vertical span seen in DEBUG or the horizontal spread of WRITE/BROWSE/READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in a central band with medium-length fixations and frequent small saccades, plus occasional moderate vertical shifts, matching the mixed scanning and local reading-like behavior seen in BROWSE examples more than the more structured horizontal sweeps of READ or the larger jumps of SEARCH/PLAY/WATCH.",
+  "correct": false
+}

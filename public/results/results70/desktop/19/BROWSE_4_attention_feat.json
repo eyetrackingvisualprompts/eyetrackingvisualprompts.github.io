@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are tightly clustered around the central region with limited vertical spread, closely resembling the BROWSE example heatmap where gaze concentrates near the middle of a webpage rather than following horizontal reading lines or widely exploring as in play/search/watch.",
+  "correct": true
+}

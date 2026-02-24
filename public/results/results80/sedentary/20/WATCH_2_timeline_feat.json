@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large saccades and irregular, non-linear transitions across both axes, lacking the structured line-by-line pattern of reading or the more localized, stable patterns of coding-related tasks. This heterogeneous exploratory behavior best matches web browsing.",
+  "correct": false
+}

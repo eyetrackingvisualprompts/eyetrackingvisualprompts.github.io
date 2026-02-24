@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a single left-center region with dense fixations and short saccades, closely matching the INTERPRET example where participants focus on one code snippet area without large excursions across the screen.",
+  "correct": false
+}

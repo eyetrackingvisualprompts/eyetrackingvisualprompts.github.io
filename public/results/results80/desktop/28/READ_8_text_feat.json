@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between an upper-central band (~y=0.15\u20130.35) and a mid-upper band (~y=0.6\u20130.7) with many medium-length fixations and horizontal shifts, consistent with scanning headlines/content and then moving down/up pages, as in web browsing or search. Compared with SEARCH examples, this segment shows less prolonged dwelling on single mid-page regions and more continuous, distributed scanning, matching BROWSE best.",
+  "correct": false
+}

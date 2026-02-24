@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a left-side code area with repeated vertical transitions toward the lower part of the screen, resembling shifts between code and an editor/console. The pattern and spread closely match the WRITE example rather than the more localized INTERPRET or the more dispersed DEBUG/PLAY/WATCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades across wide screen regions (including to edges/outside typical text/code areas), mixed vertical and horizontal shifts, and relatively short, dispersed fixations indicate following dynamic visual content rather than structured text or code, matching the WATCH pattern more than reading, coding, or web tasks.",
+  "correct": false
+}

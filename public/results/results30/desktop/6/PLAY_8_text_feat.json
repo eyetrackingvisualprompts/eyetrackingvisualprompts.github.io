@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades between widely separated regions (upper center to low corners and edges) with shorter fixations and coverage of extreme y-values indicate tracking moving game elements across the screen rather than the more line-structured, band-limited patterns of reading, writing, browsing, or search, or the very stable central fixations seen in watching video.",
+  "correct": true
+}

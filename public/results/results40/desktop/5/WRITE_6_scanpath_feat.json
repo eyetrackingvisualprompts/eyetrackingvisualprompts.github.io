@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band with minimal large saccades, indicating focused viewing of a localized text area, which best matches the reading pattern among the provided classes.",
+  "correct": false
+}

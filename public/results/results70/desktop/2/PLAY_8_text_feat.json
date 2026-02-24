@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Long fixations and dense activity near the bottom center (y\u22480.1\u20130.3) with frequent, rapid saccades to widely separated regions (including top and corners) and back, plus many mid\u2011screen checks, indicate continuous monitoring of a focal game area with periodic glances to other UI elements, matching the PLAY patterns more than the more line-structured READ/WRITE or scroll-driven SEARCH/BROWSE behaviors.",
+  "correct": true
+}

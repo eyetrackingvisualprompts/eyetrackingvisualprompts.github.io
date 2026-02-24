@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze stays within a relatively narrow central region with small, systematic horizontal movements and low saccade frequency, indicating focused inspection of a compact code snippet rather than extensive navigation or reading across lines, matching the INTERPRET pattern best.",
+  "correct": false
+}

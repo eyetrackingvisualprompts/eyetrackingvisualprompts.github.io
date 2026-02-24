@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered in a narrow horizontal band with small saccades along that band, matching line-by-line reading behavior rather than the wider spatial spread seen in browsing, searching, or playing games.",
+  "correct": false
+}

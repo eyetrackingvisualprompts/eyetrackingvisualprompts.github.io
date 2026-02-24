@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern is widely distributed across both horizontal and vertical dimensions with many medium-length saccades and dispersed fixations, resembling exploratory navigation of varied web content, which matches the example BROWSE scanpath more than the more localized or structured patterns of the other activities.",
+  "correct": true
+}

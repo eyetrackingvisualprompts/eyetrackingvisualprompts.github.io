@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are tightly clustered around the central region with some surrounding spread, closely matching the PLAY example heatmap where gaze tracks a central game area or moving object, unlike the more distributed or columnar patterns of reading, browsing, or coding tasks.",
+  "correct": true
+}

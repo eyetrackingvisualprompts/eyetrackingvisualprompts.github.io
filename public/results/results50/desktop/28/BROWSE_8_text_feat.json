@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide vertical and horizontal extents (e.g., between top, center, and bottom regions, including corners), with short to moderate fixations and rapid reorienting\u2014matching the dynamic, all-direction scanning pattern characteristic of gameplay (especially Agario) more than the more horizontally-structured, line-based or mid-screen\u2013focused patterns seen in READ, WRITE, BROWSE, WATCH, or SEARCH.",
+  "correct": false
+}

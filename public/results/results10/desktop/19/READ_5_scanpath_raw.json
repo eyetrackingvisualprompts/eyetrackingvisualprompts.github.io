@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows long, smooth cross-screen sweeps with relatively few tight clusters, resembling continuous tracking of moving visual elements rather than line-by-line reading or localized interaction, which aligns best with the WATCH activity pattern.",
+  "correct": false
+}

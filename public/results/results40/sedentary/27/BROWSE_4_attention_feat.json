@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread mainly across the upper-middle region with a horizontal band and several vertical excursions, resembling scanning of search results and occasional movement to other elements, matching the SEARCH heatmap more than the more localized or differently distributed patterns of other tasks.",
+  "correct": false
+}

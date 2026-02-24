@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are concentrated around the center of the screen with a compact cluster and limited horizontal spread, closely matching the browsing example heatmap rather than the more horizontally extended patterns of reading/writing or the widely dispersed pattern of playing or watching videos.",
+  "correct": false
+}

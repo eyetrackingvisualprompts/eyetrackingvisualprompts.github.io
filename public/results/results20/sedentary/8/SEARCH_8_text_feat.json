@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including far periphery and near off-screen), frequent vertical and horizontal jumps, and relatively short fixations indicate dynamic tracking and navigation typical of interactive gameplay rather than the more structured, line-based or region-focused patterns seen in reading, coding, or web tasks.",
+  "correct": false
+}

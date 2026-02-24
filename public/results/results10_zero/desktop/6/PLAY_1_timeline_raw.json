@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions fluctuate around the screen center with moderate, irregular shifts in both X and Y, lacking the systematic horizontal sweeps of reading or writing and without strong directional patterns typical of gameplay or search/browse page scanning, consistent with following dynamic video content in a WATCH task.",
+  "correct": false
+}

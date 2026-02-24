@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixation positions fluctuate around the screen center with moderate-range saccades in all directions, indicating frequent shifts between dispersed on-screen elements, which matches the browsing pattern more than the more linear (READ/WRITE) or more extreme (PLAY/WATCH/SEARCH) trajectories.",
+  "correct": true
+}

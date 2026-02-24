@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows irregular, continuous movements with varying amplitudes in both horizontal and vertical directions, without strict periodicity or confinement to a central point or a simple horizontal trajectory. This pattern matches natural, free-viewing behavior during dynamic video content rather than structured saccade tasks, reading lines, or the game\u2019s targeted fixations.",
+  "correct": false
+}

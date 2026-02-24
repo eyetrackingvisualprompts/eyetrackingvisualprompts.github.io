@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points jump unpredictably across both horizontal and vertical directions with relatively large, discrete position changes and no clear linear pattern (as in horizontal saccades) or structured rows (as in reading), matching the random target movements of the Random Saccades task.",
+  "correct": true
+}

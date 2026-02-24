@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is spread horizontally across a wide central band with many short, varied fixations and saccades, lacking the tight columnar pattern of code tasks or the structured lines of reading. This heterogeneous, exploratory pattern best matches the BROWSE example scanpath.",
+  "correct": false
+}

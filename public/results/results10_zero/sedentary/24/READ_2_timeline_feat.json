@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is clustered in a narrow vertical band around mid\u2011screen with small, gradual horizontal shifts and minimal vertical scanning, suggesting following central content like in a video rather than line-by-line reading, code examination, or wide exploratory browsing/searching.",
+  "correct": false
+}

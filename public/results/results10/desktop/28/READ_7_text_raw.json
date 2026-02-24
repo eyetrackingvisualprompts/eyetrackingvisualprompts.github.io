@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a mid-lower vertical band with small, repeated horizontal shifts and occasional jumps to nearby regions\u2014indicating scanning of several localized elements (e.g., different content blocks or links) rather than the more line-structured horizontal sweeps of READ or the broader exploratory motions of PLAY/SEARCH. This spatial pattern and moderate movement resemble the BROWSE exemplar most closely.",
+  "correct": false
+}

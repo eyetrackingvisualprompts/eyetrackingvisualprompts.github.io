@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shows mid-level dispersion with frequent but not extreme saccades in both axes and gradual upward drift in Y, matching the mixed scanning and focused inspection typical of debugging rather than the more linear (READ/WRITE) or highly dynamic (PLAY/WATCH/BROWSE) patterns.",
+  "correct": false
+}

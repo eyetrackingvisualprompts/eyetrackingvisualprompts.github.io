@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central area with short movements and no clear horizontal reading lines or large exploratory jumps, resembling the localized inspection typical of browsing web pages rather than reading long text, writing, searching across SERPs, watching video, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows large, rapid shifts between widely separated screen regions (including off-screen/out-of-range points), interspersed with shorter inspection clusters, matching the heterogeneous, scanning behavior seen in the SEARCH examples rather than the more localized, structured patterns of coding, reading, or watching video.",
+  "correct": false
+}

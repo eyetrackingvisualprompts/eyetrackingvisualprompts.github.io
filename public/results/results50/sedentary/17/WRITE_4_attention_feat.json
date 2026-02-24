@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a few tight clusters in the central-left code area with some vertical spread, similar to the DEBUG example where attention alternates between code regions while checking errors, rather than the narrower WRITE cluster or the broader horizontal READ/SEARCH/BROWSE patterns.",
+  "correct": false
+}

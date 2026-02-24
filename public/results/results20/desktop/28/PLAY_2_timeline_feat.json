@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations progress slowly from left to right with relatively small vertical changes, showing line-by-line scanning typical of reading; the pattern closely matches the READ example and differs from the more scattered, multi-directional movements seen in BROWSE, SEARCH, or PLAY.",
+  "correct": false
+}

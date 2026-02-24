@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows stable, slow horizontal progression with small downward shifts, characteristic of line-by-line reading, and lacks the larger multidirectional saccades seen in search, browse, or code-related tasks.",
+  "correct": false
+}

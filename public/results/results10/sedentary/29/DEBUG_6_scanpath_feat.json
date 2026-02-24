@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small region near the left side of the screen with short, dense fixations and minimal horizontal spread, closely matching the INTERPRET example where participants focus on a compact code snippet rather than scanning widely as in READ, BROWSE, or SEARCH.",
+  "correct": false
+}

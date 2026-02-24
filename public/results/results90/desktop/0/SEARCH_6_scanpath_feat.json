@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered in a compact central region with moderate vertical spread and no strong left-to-right line structure, indicating attention on a localized but information-rich area such as search results, matching the SEARCH example more closely than the more linear READ or dispersed BROWSE/PLAY patterns.",
+  "correct": true
+}

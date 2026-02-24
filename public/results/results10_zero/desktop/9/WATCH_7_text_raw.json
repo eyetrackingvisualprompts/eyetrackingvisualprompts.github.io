@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are mostly confined to a central band with small, systematic vertical shifts and short horizontal movements, consistent with reading lines of text and occasional line transitions, rather than the larger, more scattered saccades typical of search, browsing, or gameplay or the wide vertical focus of video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show large, irregular jumps to various locations across the screen with roughly 1-second plateaus, matching the pattern of a target moving unpredictably in 2D space rather than purely horizontal or mostly central movements.",
+  "correct": true
+}

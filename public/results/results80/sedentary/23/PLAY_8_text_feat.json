@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen areas (including extreme coordinates near screen edges), substantial vertical and diagonal movements, and repeated returns to central/upper regions match dynamic gaze behavior of game play more than the more line- or block-structured patterns seen in code tasks, reading, browsing, or search.",
+  "correct": true
+}

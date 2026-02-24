@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are sparsely distributed over a large vertical region with no clear horizontal reading line or concentrated code/text area, matching the dispersed gaze pattern typical of passively watching dynamic visual content rather than reading, coding, or searching tasks.",
+  "correct": false
+}

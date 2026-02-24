@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are largely confined to a mid\u2011screen band with short horizontal progressions and small vertical shifts, consistent with line\u2011by\u2011line reading. There are clusters around similar y\u2011values (e.g., ~180\u2013220, ~540\u2013590) indicating fixations along text lines and occasional regressions, unlike the larger, more scattered jumps seen in PLAY, WATCH, or BROWSE, or the tighter code-pane clusters seen in DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

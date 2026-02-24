@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays in relatively narrow horizontal bands with slow vertical shifts and long fixations, matching line-by-line reading behavior more than the larger exploratory movements typical of browsing, searching, or gameplay, and lacking the strong central/static focus of watching video or the more localized cursor/toolbar focus of writing.",
+  "correct": false
+}

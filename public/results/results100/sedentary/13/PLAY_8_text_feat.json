@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, rapid, large-amplitude saccades across wide screen regions (center, corners, edges) with many mid-length (0.2\u20130.8s) fixations on clustered coordinates around the central band (~y=400\u2013600), plus recurrent returns to similar positions. This dynamic, spatially dispersed pattern with revisits and vertical excursions to top/bottom is characteristic of visually tracking game elements rather than the more line-structured, horizontal scanning of READ/BROWSE or the focused code-panel viewing of WRITE/DEBUG/INTERPRET/SEARCH. The pattern best matches the PLAY examples.",
+  "correct": true
+}

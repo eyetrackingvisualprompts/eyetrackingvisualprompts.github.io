@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates regularly between far left and far right with roughly constant vertical position near zero, forming a strong periodic horizontal square-wave pattern characteristic of instructed horizontal saccades.",
+  "correct": true
+}

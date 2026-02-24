@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to narrow horizontal bands (first near the bottom, then around y\u2248170\u2013240, then slightly lower), with sequences of small, left-to-right saccades and mid-duration fixations, and occasional return sweeps\u2014matching line-by-line text reading rather than broad exploration, code inspection, or dynamic object tracking.",
+  "correct": true
+}

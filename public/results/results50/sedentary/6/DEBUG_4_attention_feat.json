@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow vertical strip on the left-center of the screen, similar to the DEBUG example and more vertically concentrated than WRITE or INTERPRET, consistent with scanning and correcting code within an IDE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is dominated by long horizontal scanpaths and line-like sweeps around mid\u2013lower screen regions, with many small corrective saccades and revisits that match scrolling/inspection of web content. Patterns and spatial bands closely resemble the BROWSE example and differ from the more centrally focused, object-tracking patterns of PLAY or the structured line-by-line reading patterns of READ/SEARCH.",
+  "correct": true
+}

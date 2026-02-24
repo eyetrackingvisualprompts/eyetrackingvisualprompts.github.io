@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are tightly clustered around the central area with moderate vertical spread, resembling attention on a search results page (query box and top results) and matching the SEARCH example more closely than the other activities.",
+  "correct": false
+}

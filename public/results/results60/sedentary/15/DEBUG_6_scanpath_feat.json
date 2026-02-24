@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a relatively narrow left-central vertical region (typical code area) with repeated revisits and some excursions to the top-right (likely console or execution output), matching the focused yet exploratory pattern seen in the DEBUG example more than in WRITE or INTERPRET.",
+  "correct": true
+}

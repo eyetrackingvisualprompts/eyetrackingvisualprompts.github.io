@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points show large, frequent shifts across wide horizontal and vertical regions, with many revisits to central-lower screen areas and object-following style trajectories rather than orderly line-by-line or code-block scanning. The pattern closely matches the dynamic, target-tracking behavior seen in the PLAY examples (e.g., Pong/Agario), and differs from the more structured, columnar movements of READ/WRITE/DEBUG/INTERPRET or the broader, less repetitive sweeps of WATCH/BROWSE/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in the upper-left code area with small horizontal range and repeated revisits to nearby lines, indicating focused attention on editing a localized code region typical for writing/implementing code rather than scanning widely as in browsing, reading, or watching.",
+  "correct": true
+}

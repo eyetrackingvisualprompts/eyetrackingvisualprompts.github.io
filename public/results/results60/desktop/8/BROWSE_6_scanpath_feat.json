@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points cluster around a central region with moderate dispersion and multidirectional saccades, resembling the browsing example more than the more localized patterns of READ/WRITE or the broader, multi-cluster movements of PLAY/WATCH/SEARCH.",
+  "correct": true
+}

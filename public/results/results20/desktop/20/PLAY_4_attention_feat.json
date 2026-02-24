@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered around the central mid-height region, resembling focused attention on a central content block such as an article or main panel, similar to the BROWSE example rather than the more horizontally distributed READ pattern or peripheral WATCH/PLAY patterns.",
+  "correct": false
+}

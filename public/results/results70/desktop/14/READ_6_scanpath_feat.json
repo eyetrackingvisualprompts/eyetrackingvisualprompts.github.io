@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze covers almost the entire vertical extent with long, smooth horizontal sweeps and relatively fewer tight fixation clusters. This wide spatial dispersion and continuous motion pattern matches watching dynamic video content rather than the more locally clustered patterns of reading, writing, searching, browsing, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper-left region where a code editor\u2019s text typically appears, with some attention in the lower-central area consistent with occasional glances to console or auxiliary panes, matching the WRITE example pattern more than other tasks.",
+  "correct": false
+}

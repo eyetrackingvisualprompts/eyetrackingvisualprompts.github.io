@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers a wide portion of the screen with heterogeneous fixations and long saccades across different regions, including occasional visits to far-right and bottom areas, resembling multi-area navigation on web pages rather than focused reading, code, or game tracking patterns.",
+  "correct": false
+}

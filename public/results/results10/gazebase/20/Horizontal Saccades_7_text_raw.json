@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze traces show large, repetitive horizontal movements spanning roughly \u00b115 degrees with relatively stable vertical positions and small corrective drifts around extreme positions, matching the structured left-right tracking pattern of the Horizontal Saccades task rather than the more irregular or task-driven patterns of the other activities.",
+  "correct": true
+}

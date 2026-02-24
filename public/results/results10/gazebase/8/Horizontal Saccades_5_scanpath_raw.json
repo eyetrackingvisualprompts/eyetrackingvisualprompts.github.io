@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trajectory shows repeated long horizontal movements across nearly the full screen width with minimal vertical variation, closely matching the structured left-right pattern of the Horizontal Saccades example rather than the more scattered or localized patterns of other tasks.",
+  "correct": true
+}

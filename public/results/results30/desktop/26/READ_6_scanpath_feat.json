@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is confined to a compact central region with short, multi-directional saccades and no clear horizontal line-structured pattern, matching the browsing example more than the more dispersed SEARCH or line-like READ patterns.",
+  "correct": false
+}

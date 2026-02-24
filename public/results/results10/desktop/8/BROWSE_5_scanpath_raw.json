@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze path shows medium-range, somewhat clustered movements with occasional vertical shifts, resembling the browsing example more than the more dispersed SEARCH or the denser, multidirectional PLAY pattern, and lacking the systematic horizontal patterns of READ or WRITE.",
+  "correct": true
+}

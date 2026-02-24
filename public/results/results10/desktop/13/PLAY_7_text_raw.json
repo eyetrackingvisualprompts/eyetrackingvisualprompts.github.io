@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays within a mid-upper region with many short, local shifts and vertical micro-adjustments, resembling scanning of mixed web content rather than the tight, line-based fixations of READ or the broader, more dynamic movements in PLAY/WATCH/SEARCH. The pattern aligns best with the browsing example\u2019s moderate, clustered movements around a small area of the page.",
+  "correct": false
+}

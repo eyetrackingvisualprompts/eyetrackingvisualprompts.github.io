@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are clustered in a compact central area with small, irregular shifts and no systematic left-to-right or vertical scanning pattern typical of reading, browsing, or searching. The stable focus with modest movements suggests watching dynamic content (video) rather than actively interacting (play/write).",
+  "correct": false
+}

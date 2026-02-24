@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, fast, multi-directional saccades covering most of the screen with little evidence of line-by-line or block reading. The path suggests continuous tracking and navigation across the display, which aligns best with visually following or controlling game elements during the PLAY activity.",
+  "correct": false
+}

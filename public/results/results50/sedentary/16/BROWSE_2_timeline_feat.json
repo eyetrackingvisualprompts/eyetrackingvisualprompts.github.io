@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal scanning with moderate vertical shifts and intermittent deeper excursions, resembling moving between result snippets and content, which matches the SEARCH pattern more than the steadier READ or more chaotic PLAY/WRITE behaviors.",
+  "correct": false
+}

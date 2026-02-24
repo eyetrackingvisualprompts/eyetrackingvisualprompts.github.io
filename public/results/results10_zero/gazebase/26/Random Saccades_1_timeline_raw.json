@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions show discrete step-like jumps in both horizontal and vertical directions to various locations across the \u00b115\u00b0\u00d7\u00b19\u00b0 range, each followed by ~1 s plateaus, matching a target that moves randomly and is held at each position for one second as in the Random Saccades task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-screen with frequent medium-amplitude horizontal saccades and short-to-moderate fixations, including revisits between similar coordinates and occasional jumps, matching the dynamic yet locally clustered scan patterns seen in the BROWSE examples rather than the more line-structured READ patterns or the more dispersed/search-targeted SEARCH and PLAY behaviors.",
+  "correct": false
+}

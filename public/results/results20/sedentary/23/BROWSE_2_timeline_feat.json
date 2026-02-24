@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The target data shows frequent large-amplitude saccades and wide-ranging X movements with substantial Y fluctuations, indicating dynamic gaze shifts across both axes consistent with visually tracking moving objects in a game, which most closely matches the PLAY pattern among the provided examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "The data shows multiple large, rapid shifts between widely separated gaze positions with intervening clusters of fine-grained fixations at specific locations, consistent with repeatedly fixating moving targets and then relocating to new ones. This spatio-temporal pattern and amplitude of movements align best with the Balura Game examples rather than with the more constrained patterns of saccade tasks, reading, or video viewing.",
+  "correct": false
+}

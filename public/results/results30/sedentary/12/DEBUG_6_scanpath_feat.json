@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a compact code-area region with minimal excursions elsewhere, matching the focused, localized viewing seen in the INTERPRET example more than the broader spread of DEBUG or SEARCH.",
+  "correct": false
+}

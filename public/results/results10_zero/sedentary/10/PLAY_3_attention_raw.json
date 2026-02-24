@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows gaze concentrated in a small central region with minimal horizontal scanning, suggesting sustained attention to a localized visual element rather than reading lines or exploring interfaces; this pattern is most consistent with passively watching a video where key content is near the center of the screen.",
+  "correct": false
+}

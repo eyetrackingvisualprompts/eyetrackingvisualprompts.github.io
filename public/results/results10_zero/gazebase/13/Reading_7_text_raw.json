@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show large, discrete jumps in gaze position across a wide 2D area (both horizontal and vertical), followed by short clusters of relatively stable samples at each location, consistent with tracking a randomly moving target that dwells ~1s per position, rather than strictly horizontal motion, continuous scanning (reading/video), or prolonged central fixation.",
+  "correct": false
+}

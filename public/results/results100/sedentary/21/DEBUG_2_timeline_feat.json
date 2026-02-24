@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium-range horizontal scanning with frequent short fixations and saccades clustered around a stable region, plus occasional jumps\u2014closely matching the example DEBUG pattern and typical code-inspection behavior, rather than the more linear READ/BROWSE or more static WRITE/INTERPRET patterns.",
+  "correct": true
+}

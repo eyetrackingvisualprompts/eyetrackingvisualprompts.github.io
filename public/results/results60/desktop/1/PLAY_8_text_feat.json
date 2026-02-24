@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-upper screen with frequent medium-amplitude vertical and small horizontal shifts, including occasional jumps to nearby regions, matching scanning of mixed text/graphics as in BROWSE. Patterns lack the strong line-structured horizontal sweeps of READ and the wider, more exploratory movements of PLAY/SEARCH/WATCH, and they are less constrained to upper text-band and near-static than WRITE.",
+  "correct": false
+}

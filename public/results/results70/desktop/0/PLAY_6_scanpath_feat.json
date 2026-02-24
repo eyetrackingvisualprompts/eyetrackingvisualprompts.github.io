@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows clustered fixations in a central-lower area with occasional long vertical and diagonal saccades to the upper region, consistent with scanning search results and briefly checking elements like the top search bar or other page regions, matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

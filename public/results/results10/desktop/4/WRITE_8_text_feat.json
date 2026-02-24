@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze remains highly localized with very long fixations and only tiny corrective saccades around a single region, matching the stable, focused look at one area typical of writing (e.g., cursor/typed line), rather than the more scanning or horizontally progressive patterns seen in reading, browsing, searching, watching, or gameplay.",
+  "correct": true
+}

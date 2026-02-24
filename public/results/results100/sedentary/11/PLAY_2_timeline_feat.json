@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long, stable horizontal fixations with relatively smooth, slow drift in Y and occasional larger saccades, matching the continuous viewing behavior seen in the WATCH example rather than the more line-structured (READ) or scattered, multi-region patterns (SEARCH/BROWSE/DEBUG/WRITE/INTERPRET/PLAY).",
+  "correct": false
+}

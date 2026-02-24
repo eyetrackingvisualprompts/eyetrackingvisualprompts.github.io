@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixation cluster is centered slightly left-of-center and upper-middle, with a compact but somewhat vertically-extended pattern that closely matches the SEARCH example heatmap and differs from the more central BROWSE cluster and linear READ/WRITE patterns.",
+  "correct": true
+}

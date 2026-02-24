@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze follows long, continuous horizontal scanpaths across a narrow vertical band, with systematic left-to-right sweeps and small regressions at several vertical levels, matching line-by-line reading behavior rather than code editing, search, or dynamic visual tracking.",
+  "correct": true
+}

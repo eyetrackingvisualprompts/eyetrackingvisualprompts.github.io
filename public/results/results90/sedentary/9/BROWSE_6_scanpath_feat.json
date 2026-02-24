@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a confined left-center IDE area with repeated vertical shifts between mid and lower regions and occasional long saccades to the right, matching the example WRITE pattern of focusing on code and briefly checking output/console, unlike the broader, more scattered exploration in BROWSE or SEARCH.",
+  "correct": false
+}

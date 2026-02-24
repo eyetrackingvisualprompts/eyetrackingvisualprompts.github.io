@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in two tight clusters on the upper-left and mid-left code area, matching the INTERPRET example where participants focus mainly on the code snippet with minimal vertical spread or peripheral exploration, unlike the broader scanning seen in DEBUG or SEARCH.",
+  "correct": false
+}

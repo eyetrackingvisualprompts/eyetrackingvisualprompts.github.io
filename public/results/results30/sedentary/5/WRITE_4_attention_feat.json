@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated on the upper-left and middle-left areas with a horizontal spread across a limited vertical band, resembling scanning search results or snippets rather than the tighter code-focused clusters (WRITE/INTERPRET/DEBUG) or full-page reading patterns (READ/BROWSE).",
+  "correct": false
+}

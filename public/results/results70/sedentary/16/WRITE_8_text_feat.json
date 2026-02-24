@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent horizontal saccades around a narrow vertical band, repeated revisits to line-like regions, and multiple large jumps to top/bottom and off-page coordinates resemble scanning and re-checking a search results page and SERP snippets rather than structured code (INTERPRET/DEBUG/WRITE) or continuous text (READ). The mixture of long fixations in mid-page, periodic excursions to extreme y-values, and returns to mid-level text lines best matches the SEARCH examples.",
+  "correct": false
+}

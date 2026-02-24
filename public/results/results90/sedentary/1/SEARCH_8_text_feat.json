@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze shifts between widely separated screen regions (top code/text-like areas, mid-page, and extreme bottom/near off-screen coordinates), interleaved with medium-length horizontal scan segments and many revisits to similar bands, match the heterogeneous, scroll-driven exploration patterns characteristic of free web browsing rather than the more structured line-by-line patterns of reading/search results or the focused AOI clusters seen in coding or gameplay.",
+  "correct": false
+}

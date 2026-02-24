@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows clustered fixations around the screen center with moderate vertical and horizontal dispersion and occasional larger saccades, resembling the exploration pattern of reading mixed text and elements on news/blog pages, which matches the BROWSE example more than the more linear READ or constrained WRITE patterns.",
+  "correct": true
+}

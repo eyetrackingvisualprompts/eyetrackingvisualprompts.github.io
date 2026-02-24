@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and diagonal saccades between widely separated regions (top, middle, and bottom), alternating with medium-length fixations, and revisits to mid-page areas resemble scanning and revisiting multiple webpage sections rather than line-by-line reading or focused code inspection typical of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

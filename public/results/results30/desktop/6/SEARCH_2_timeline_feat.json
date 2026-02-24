@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movements with variable vertical shifts and intermittent larger saccades, indicating transitions between scattered information regions (e.g., search results and pages). This pattern aligns more with the SEARCH example than the more line-structured READ, text-bottom WRITE, or highly dynamic PLAY/WATCH behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are spread over a mid-screen region with moderate saccades in several directions and no clear horizontal line or tight cluster, matching the more exploratory multi-area viewing typical of browsing webpages rather than the linear patterns of reading or the localized focus of writing and search.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a compact code/text area on the left with a secondary tight cluster on the right, matching focused attention on an editor plus occasional glances at another panel (e.g., console or spec), which aligns best with the WRITE task pattern rather than broader or more dispersed viewing in other activities.",
+  "correct": true
+}

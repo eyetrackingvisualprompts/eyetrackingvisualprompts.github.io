@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps across wide portions of the visual field (up to ~30\u201340 deg range) followed by ~1-second clusters of low-variance points (fixations) at each location, consistent with following a randomly moving target that steps to new positions once per second, rather than the more constrained, patterned movements of reading, horizontal-only saccades, or free viewing/game tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between a horizontal band near the top (around y\u2248120\u2013220, typical of a search bar and top results) and scattered regions lower on the page, with large saccades between widely separated areas and moderate fixations\u2014matching exploratory inspection of search results rather than the tighter line-by-line patterns of READ or the more locally clustered code-focused patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

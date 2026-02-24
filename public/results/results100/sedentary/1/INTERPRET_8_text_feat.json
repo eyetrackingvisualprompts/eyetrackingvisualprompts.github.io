@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Predominantly dense, localized fixations around a central code-like area with frequent short saccades up/down and between nearby lines/regions, interspersed with occasional long saccades to the top and other UI-like positions, matches the structured, back-and-forth inspection pattern seen in WRITE examples rather than the more linear (READ), exploratory (BROWSE/SEARCH), or highly dynamic (PLAY/WATCH) patterns.",
+  "correct": false
+}

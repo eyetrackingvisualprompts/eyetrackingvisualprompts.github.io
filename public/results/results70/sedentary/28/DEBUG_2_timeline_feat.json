@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively narrow horizontal movement with a mostly stable vertical band, indicating focus on a compact code region, with occasional brief larger saccades similar to the INTERPRET example rather than the broader exploration seen in SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a single compact region on the left where a small code snippet would be, with only a few scattered checks elsewhere, matching the focused inspection pattern of INTERPRET rather than the more distributed patterns seen in DEBUG or BROWSE.",
+  "correct": true
+}

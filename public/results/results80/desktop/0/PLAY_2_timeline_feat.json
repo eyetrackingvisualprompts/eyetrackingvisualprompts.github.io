@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions show moderate, irregular exploration over mid-screen with frequent shifts and no strong horizontal reading lines or extreme vertical separation; this pattern best matches the heterogeneous scanning behavior seen in browsing webpages rather than the more structured patterns of reading, writing, searching, gaming, or watching video.",
+  "correct": false
+}

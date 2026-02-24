@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze stays essentially at the central position with only small noise throughout the 10 s window, aside from one brief artifact-like spike; there are no systematic horizontal or random step-like position changes indicative of saccades, reading, video viewing, or game interaction, matching a sustained central fixation task.",
+  "correct": true
+}

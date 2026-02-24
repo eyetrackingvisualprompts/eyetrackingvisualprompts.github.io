@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows relatively constrained horizontal movements with moderate vertical shifts and intermittent clustered saccades, resembling careful code inspection with occasional jumps\u2014most similar to the DEBUG example compared to the more regular scanning in READ or the broader, more dynamic patterns in PLAY, BROWSE, or WATCH.",
+  "correct": false
+}

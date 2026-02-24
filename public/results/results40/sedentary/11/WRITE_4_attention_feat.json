@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across the mid-screen with some scattered points, resembling the mixed reading/scanning pattern of browsing rather than the tighter, more linear READ pattern or the more global SEARCH/WATCH distributions.",
+  "correct": false
+}

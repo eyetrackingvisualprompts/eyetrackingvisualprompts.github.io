@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central region with moderate vertical spread and no strong horizontal line structure, resembling the browsing heatmap pattern more than the others (which show distinct top-band, bottom-band, or left-biased patterns).",
+  "correct": false
+}

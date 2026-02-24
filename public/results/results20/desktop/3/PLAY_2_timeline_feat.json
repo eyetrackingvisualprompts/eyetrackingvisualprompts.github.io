@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near screen center with smooth, gradual shifts for first half, then shows larger vertical movements toward upper regions, consistent with following dynamic content in a video rather than systematic line-by-line reading or dense scanning typical of search/browse/read tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows a few large saccades across wide horizontal distances followed by a cluster of shorter fixations in a localized area, consistent with tracking changing visual content in a video rather than systematic line-by-line reading or code-focused tasks.",
+  "correct": false
+}

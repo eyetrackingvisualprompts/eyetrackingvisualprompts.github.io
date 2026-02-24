@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated in a horizontal band across the mid-screen with some vertical dispersion, resembling tracking moving game elements rather than the tighter blocks of code (DEBUG/WRITE/INTERPRET) or more structured reading/search patterns; this matches the PLAY example heatmap most closely.",
+  "correct": false
+}

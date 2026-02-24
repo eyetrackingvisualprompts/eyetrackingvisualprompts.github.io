@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two dominant, symmetric fixation clusters on the left and right at roughly the same vertical position, with a horizontal band of gaze between them, consistent with repeated large-amplitude left-right tracking of a target as in the Horizontal Saccades task rather than central fixation, random 2D movements, reading lines, game targets, or natural video viewing.",
+  "correct": true
+}

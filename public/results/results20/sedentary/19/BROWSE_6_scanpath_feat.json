@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster around two main vertical regions with frequent long saccades between them, including trips toward the lower screen area, consistent with alternating attention between code editor, console, and other IDE panels during code writing rather than the more localized pattern of INTERPRET or the scattered browsing pattern.",
+  "correct": false
+}

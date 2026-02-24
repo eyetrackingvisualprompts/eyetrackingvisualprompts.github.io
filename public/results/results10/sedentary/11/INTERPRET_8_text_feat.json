@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small upper-left region, repeatedly oscillating between a code-like vertical band and a nearby area, with many medium-length fixations and short corrective saccades. This localized back\u2011and\u2011forth between two close zones matches code editing/typing behavior (WRITE) more than the broader scanning or multi-region shifts seen in DEBUG, INTERPRET, or browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps across wide horizontal and vertical ranges (e.g., from ~-13\u00b0 to +15\u00b0 horizontally and substantial vertical shifts), followed by clusters of relatively stable points at each new location, consistent with tracking a target that moves to randomly distributed positions and then remains static for about a second. This pattern matches Random Saccades rather than the more strictly horizontal motion of Horizontal Saccades or the more locally clustered movements of reading, gaming, or video viewing.",
+  "correct": true
+}

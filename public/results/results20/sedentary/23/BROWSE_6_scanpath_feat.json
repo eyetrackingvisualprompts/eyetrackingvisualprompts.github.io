@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows reading-like horizontal fixations in the mid-screen region combined with several large vertical shifts and scattered clusters, indicative of alternating between a results list and other elements (e.g., query box or different result entries), which best matches search-engine use rather than focused reading, coding, or continuous watching.",
+  "correct": false
+}

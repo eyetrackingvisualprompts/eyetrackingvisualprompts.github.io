@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is distributed over multiple vertical regions: a dense cluster in the upper-left (likely search bar/top results), extended fixations mid-screen, and several deeper vertical fixations, matching scanning through search results rather than the tighter, line-by-line reading or focused code views of other tasks.",
+  "correct": false
+}

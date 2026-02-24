@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are broadly distributed over the screen with smooth shifts between clustered regions and no clear line-by-line or code-structured scanning, matching free viewing of dynamic visual content in WATCH rather than the more columnar, text- or code-aligned patterns seen in READ/INTERPRET/DEBUG/WRITE or the tighter object-following seen in PLAY.",
+  "correct": false
+}

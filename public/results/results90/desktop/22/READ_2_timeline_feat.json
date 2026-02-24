@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows wide vertical excursions and frequent saccades with fluctuating fixation bands, indicating repeated scanning between different screen regions (e.g., query box, results list, and pages), which best matches the SEARCH pattern among the given examples.",
+  "correct": false
+}

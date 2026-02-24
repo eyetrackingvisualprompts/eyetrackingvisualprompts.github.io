@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows relatively constrained horizontal and vertical ranges with moderate, localized saccades and stable fixations around central regions, resembling the WRITE example more than the others, which either show stronger vertical reading sweeps (READ/BROWSE) or more extensive, dynamic movements (PLAY/WATCH/SEARCH).",
+  "correct": false
+}

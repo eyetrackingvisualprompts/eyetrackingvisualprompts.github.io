@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across both axes with frequent large saccades between distant regions and no clear horizontal reading or localized writing/search pattern, resembling the broad, multidirectional exploration typical of game play rather than the more clustered patterns of reading, writing, searching, or browsing.",
+  "correct": false
+}

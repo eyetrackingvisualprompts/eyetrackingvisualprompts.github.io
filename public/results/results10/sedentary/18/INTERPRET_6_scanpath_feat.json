@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a compact code-like region with frequent vertical shifts and local regressions, closely matching the DEBUG example pattern more than the other tasks.",
+  "correct": false
+}

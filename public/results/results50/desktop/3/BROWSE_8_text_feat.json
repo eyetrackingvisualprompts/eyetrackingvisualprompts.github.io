@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large-amplitude saccades spanning widely separated screen regions (top/bottom, left/right) interleaved with short fixations, indicating scanning across disparate interface elements rather than line-by-line reading or focused typing. This broad exploratory pattern with repeated jumps between central, upper, and lower areas best matches web SEARCH behavior among the provided classes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a single horizontal band high on the screen, scanning broadly from left to right with dispersed points\u2014consistent with viewing search results near the top of a web page rather than the tighter line-by-line lower positioning seen in READ or BROWSE examples.",
+  "correct": false
+}

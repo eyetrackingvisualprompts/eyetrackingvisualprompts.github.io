@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows a single, tight cluster of fixations at the screen center with virtually no dispersion elsewhere, matching the static central target fixation pattern rather than distributed or directional saccades or exploration.",
+  "correct": true
+}

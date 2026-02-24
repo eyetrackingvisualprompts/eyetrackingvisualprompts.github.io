@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is densely concentrated around the central area with surrounding spread in all directions, indicating focus on a central dynamic object while monitoring nearby space\u2014this pattern best matches the PLAY condition (e.g., following game elements) rather than the more linear or localized patterns of reading, coding, or web search.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows dispersed fixations across a wide central area with frequent shifts between mid and upper regions, resembling mixed reading and exploratory behavior typical of browsing heterogeneous web pages rather than the more structured horizontal patterns of reading/writing or the more localized clusters of search, watch, or play.",
+  "correct": false
+}

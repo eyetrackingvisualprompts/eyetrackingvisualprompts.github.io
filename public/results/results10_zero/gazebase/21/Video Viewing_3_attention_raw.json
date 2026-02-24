@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The heatmap shows a cluster of fixations arranged roughly left-to-right along a narrow horizontal band with limited vertical spread, matching the typical scanpath for reading a single line of text rather than the larger, isolated jumps of random or horizontal saccades, the central concentration of fixations, or the more dispersed patterns expected in video viewing or the Balura game.",
+  "correct": false
+}

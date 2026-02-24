@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small horizontal region near the upper-left/center of the screen, suggesting focused attention on a compact text/code snippet rather than long lines of text (READ) or dynamic full-screen content (PLAY/WATCH). This pattern best matches examining a short function to infer its output (INTERPRET).",
+  "correct": false
+}

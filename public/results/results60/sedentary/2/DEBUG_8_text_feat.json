@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between top-of-page header/URL bar region and mid/lower content, repeated returns to similar horizontal bands, and scattered exploration resemble navigating search results and web pages rather than sustained line-by-line reading or continuous watching; pattern best matches the provided SEARCH examples with jumps between SERP header, snippets, and page sections.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is concentrated in multiple vertically distributed clusters along the left side, covering header, mid, and lower regions, consistent with scanning a search results page rather than the tighter code-focused or text-line patterns of the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in the lower-y region with relatively small vertical range and moderate horizontal movement, closely matching the WRITE template where attention alternates between the text being written and localized interface areas rather than scanning large vertical extents as in READ or SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a very localized, horizontally-elongated fixation region slightly below screen center, consistent with sustained gaze toward a small central area such as the main character region or subtitle line in a video, with minimal exploratory saccades. This focused but not text-line-structured pattern aligns best with WATCH rather than the more scattered (SEARCH/BROWSE/PLAY) or multi-line (READ/WRITE) behaviors.",
+  "correct": false
+}

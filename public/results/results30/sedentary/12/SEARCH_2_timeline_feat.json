@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows large, irregular excursions in both X and Y with frequent big saccades and vertical shifts, unlike the orderly horizontal scans of READ or the more localized patterns of WRITE/DEBUG/INTERPRET. This scattered exploration across screen regions best matches SEARCH behavior on a results page.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a relatively small central area with short, multidirectional saccades and no clear horizontal line structure, matching the localized, exploratory viewing typical of browsing web pages rather than the more linear patterns of reading, writing, or game play.",
+  "correct": false
+}

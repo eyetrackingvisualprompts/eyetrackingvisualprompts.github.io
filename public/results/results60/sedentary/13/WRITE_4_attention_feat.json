@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered on a compact area in the upper-left code pane, with some attention slightly below\u2014matching the localized inspection pattern of interpreting a short code snippet rather than the broader spread seen in search, browse, or debug tasks.",
+  "correct": false
+}

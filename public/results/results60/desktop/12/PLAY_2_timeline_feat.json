@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions for both axes remain near screen center with moderate, irregular saccades and no strong directional bias or repetitive horizontal sweeps seen in READ or WRITE, nor the large multi-directional excursions typical of PLAY, SEARCH, or WATCH, matching the BROWSE pattern.",
+  "correct": false
+}

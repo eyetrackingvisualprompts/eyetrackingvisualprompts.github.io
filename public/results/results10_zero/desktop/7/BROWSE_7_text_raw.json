@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show predominantly horizontal movements with small vertical shifts and extended fixations, consistent with line-by-line reading of text rather than the larger multidirectional excursions typical of PLAY, SEARCH, BROWSE, or WATCH, and without the frequent bottom-area focus and edit-region shifts characteristic of WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze path is mostly along a horizontal band with multiple clusters and occasional large saccades to distant regions, resembling scanning across different webpage elements and shifting between sections, which matches the browsing pattern more than the more localized, structured patterns of reading or coding tasks.",
+  "correct": false
+}

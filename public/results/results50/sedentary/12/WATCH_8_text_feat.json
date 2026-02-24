@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent gaze jumps across distant screen regions (including towards screen edges/negative coords), long fixations on scattered areas, and revisits to top/center suggest scanning SERP/results and switching between query, results, and content rather than line-by-line reading or focused code/video/game regions, matching the SEARCH pattern best among the given classes.",
+  "correct": false
+}

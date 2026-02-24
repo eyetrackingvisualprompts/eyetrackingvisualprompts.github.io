@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows dispersed fixations over a mid-screen region with frequent saccades and no strong horizontal text-line structure, closely matching the exploratory, scattered scanpath typical of SEARCH rather than the more localized or structured patterns of READ, WRITE, WATCH, PLAY, or BROWSE in the examples.",
+  "correct": false
+}

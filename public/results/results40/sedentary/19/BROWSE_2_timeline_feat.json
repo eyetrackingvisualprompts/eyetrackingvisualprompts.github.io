@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster in a narrow vertical band with relatively small horizontal movement and occasional brief downward excursions, resembling focused work on a compact code editor area rather than the broader scanning seen in SEARCH/BROWSE or WATCH. This pattern best matches the WRITE example, where attention stays around one region of code with limited line-to-line transitions.",
+  "correct": false
+}

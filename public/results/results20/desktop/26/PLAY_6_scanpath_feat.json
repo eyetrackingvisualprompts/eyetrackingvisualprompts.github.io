@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a central region with moderate horizontal and vertical shifts, indicating exploration of different on-screen elements without the strong horizontal line structure of reading or the large, rapid movements typical of watching videos or playing games; this pattern best matches browsing behavior.",
+  "correct": false
+}

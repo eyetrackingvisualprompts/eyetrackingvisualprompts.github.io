@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact cluster around the screen center with some moderate surrounding spread, closely matching the browsing example heatmap and differing from the more horizontally elongated READ pattern or the multi-region PLAY pattern.",
+  "correct": false
+}

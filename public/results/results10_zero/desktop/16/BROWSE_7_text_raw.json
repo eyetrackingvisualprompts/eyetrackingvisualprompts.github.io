@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze stays mostly around central regions with relatively smooth, small movements and occasional larger shifts, consistent with following dynamic on-screen video content rather than the more systematic horizontal/vertical scanning and regressions typical of reading, writing, browsing, or searching, or the rapid multidirectional shifts common in gameplay.",
+  "correct": false
+}

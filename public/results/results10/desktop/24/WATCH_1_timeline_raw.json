@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-sized shifts in both X and Y with occasional rapid bursts and vertical repositioning resemble scanning results and navigating pages, matching the SEARCH pattern more than the steadier READ or WRITE or the more erratic PLAY/WATCH examples.",
+  "correct": false
+}

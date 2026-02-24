@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are densely clustered near the screen center with limited horizontal spread and some surrounding saccades, resembling the focused central attention pattern typical of tracking game elements in PLAY rather than the broader or more distributed patterns seen in reading, browsing, or coding tasks.",
+  "correct": false
+}

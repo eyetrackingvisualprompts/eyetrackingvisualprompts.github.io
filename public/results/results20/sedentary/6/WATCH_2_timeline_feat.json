@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows repeated vertical transitions between two main horizontal bands\u2014consistent with alternating attention between code and output/console, with moderate saccades and revisits\u2014matching the debug pattern more than the steadier reading/interpreting or the more uniformly progressive browse/search behaviors.",
+  "correct": false
+}

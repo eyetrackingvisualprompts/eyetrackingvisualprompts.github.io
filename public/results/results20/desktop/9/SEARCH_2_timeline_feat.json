@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with moderate horizontal and vertical shifts and intermittent medium-size saccades, indicating scanning of varied webpage layouts rather than the more structured line-by-line patterns of READ/WRITE or the larger directional movements seen in WATCH/PLAY/SEARCH. This best matches the browsing behavior pattern.",
+  "correct": false
+}

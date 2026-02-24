@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a small, tightly clustered region of prolonged fixation in a single area with minimal scanning across the screen, consistent with passively watching a localized area of visual content rather than actively reading, searching, coding, or gaming, which would produce broader, more distributed gaze patterns.",
+  "correct": false
+}

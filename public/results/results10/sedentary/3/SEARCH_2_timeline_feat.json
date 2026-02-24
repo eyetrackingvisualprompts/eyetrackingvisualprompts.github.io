@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow horizontal band with very small X and Y variation, showing stable fixation on a compact region (like a short code snippet) and minimal exploratory saccades, which closely matches the INTERPRET example pattern and differs from the broader scanning seen in SEARCH, BROWSE, or DEBUG.",
+  "correct": false
+}

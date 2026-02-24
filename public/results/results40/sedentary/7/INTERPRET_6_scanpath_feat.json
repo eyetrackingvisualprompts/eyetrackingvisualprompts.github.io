@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is highly concentrated on a relatively compact region of code with repeated vertical movements and occasional long saccades, matching the focused inspection of a given snippet seen in INTERPRET more than the denser local search of DEBUG or the broader spread of other tasks.",
+  "correct": true
+}

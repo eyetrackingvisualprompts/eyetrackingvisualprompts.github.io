@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades between far-apart regions (top URL/toolbars around y\u224840\u2013100 and content far down the page y\u2248500\u2013800), repeated returns to extreme top, and scattered fixations across a wide vertical range resemble scanning and jumping behavior typical of web browsing rather than focused code, game, or continuous reading patterns.",
+  "correct": false
+}

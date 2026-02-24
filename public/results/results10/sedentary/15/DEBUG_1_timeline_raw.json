@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with several vertical shifts and occasional downward excursions, resembling scanning a results page and then moving into content, which matches the SEARCH example pattern more closely than the steadier READ/INTERPRET or the more dynamic BROWSE/PLAY trajectories.",
+  "correct": false
+}

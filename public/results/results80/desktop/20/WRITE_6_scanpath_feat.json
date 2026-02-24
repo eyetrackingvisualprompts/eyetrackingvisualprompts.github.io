@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a mid-screen region with moderate vertical spread and frequent multidirectional saccades, resembling scanning of varied web page elements rather than the more linear horizontal patterns of reading/writing or the wide, rapid shifts seen in watching videos or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is largely confined to a mid\u2011upper horizontal band with frequent short fixations and small vertical shifts, resembling scanning across and slightly down a webpage. The pattern is less line-structured and uniform than the READ example, lacks the wide, dynamic shifts of PLAY or WATCH, and matches the moderate, locally exploratory movements seen in the BROWSE sample.",
+  "correct": false
+}

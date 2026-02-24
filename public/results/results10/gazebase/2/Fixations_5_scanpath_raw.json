@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The gaze points remain tightly clustered around a single small region near the screen center with only minor drift, matching the static central target fixation pattern rather than the larger or more structured movements seen in other tasks.",
+  "correct": true
+}

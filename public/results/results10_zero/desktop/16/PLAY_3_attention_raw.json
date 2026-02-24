@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a few dense, localized fixation clusters with limited vertical spread and no clear left-to-right or top-to-bottom scanning pattern, consistent with watching a video where gaze centers around character regions rather than systematic reading, writing, or search/browsing navigation patterns.",
+  "correct": false
+}

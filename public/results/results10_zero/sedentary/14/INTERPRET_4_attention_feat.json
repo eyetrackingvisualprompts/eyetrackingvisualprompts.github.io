@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region with minimal saccades, indicating prolonged attention to a single on-screen area, which is most consistent with watching a video rather than reading, coding, or interactive tasks that produce more distributed gaze patterns.",
+  "correct": false
+}

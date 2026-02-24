@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long vertical saccades between near-top and near-bottom regions, interleaved with horizontal scanning around stable y-levels, plus occasional extreme jumps (off-content coordinates) match scroll-and-skim web browsing patterns more than the more structured horizontal lines of READ or the focused code-oriented patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

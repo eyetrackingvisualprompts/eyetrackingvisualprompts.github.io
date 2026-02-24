@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is broadly distributed over the central screen with many short-range shifts and repeated returns to nearby positions, reflecting continuous following of dynamic on\u2011screen content rather than structured line-wise reading or code navigation patterns seen in READ/WRITE/DEBUG/INTERPRET. The dense, smooth coverage without long fixations on specific horizontal bands aligns best with watching a video.",
+  "correct": false
+}

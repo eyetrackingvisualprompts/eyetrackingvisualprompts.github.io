@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses smoothly in long, nearly horizontal scanpaths at two vertical bands (around y\u2248160\u2013200 and y\u2248330\u2013380), with regular left-to-right sweeps, short regressions, and line changes\u2014closely matching the structured line-by-line reading pattern seen in the READ examples rather than the more localized, code-window-centered patterns of WRITE/DEBUG/INTERPRET or the more scattered exploratory movements of SEARCH/BROWSE/WATCH/PLAY.",
+  "correct": true
+}

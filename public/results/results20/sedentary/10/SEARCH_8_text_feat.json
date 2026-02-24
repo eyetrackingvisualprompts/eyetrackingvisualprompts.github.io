@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal sweeps over central/lower regions, large vertical jumps between top and bottom of page, and extended exploration near bottom-right and bottom-left areas match scrolling and scanning behavior of a webpage rather than structured line-by-line reading or code-centered tasks.",
+  "correct": false
+}

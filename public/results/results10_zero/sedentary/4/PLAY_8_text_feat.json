@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact region with long, careful fixations (up to ~1.6 s) and short, local saccades without systematic left-to-right line sweeps typical of reading prose or broad exploration typical of browsing/search. This pattern aligns with sustained, detailed inspection of a small code snippet to reason about its behavior, which best matches the INTERPRET task.",
+  "correct": false
+}

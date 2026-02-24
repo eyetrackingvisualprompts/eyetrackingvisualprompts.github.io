@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form dense, line-like horizontal clusters with small, systematic regressions and limited large jumps, characteristic of reading text rather than the larger, more dispersed shifts typical of browsing, searching, coding, or watching video or games.",
+  "correct": false
+}

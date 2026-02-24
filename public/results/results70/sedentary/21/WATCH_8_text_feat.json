@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Very long, fast, multi-directional saccades across large screen regions (often to/from screen edges and corners, including off-screen coordinates) with relatively brief fixations and repeated returns to central action-like areas match the dynamic tracking and anticipatory gaze patterns typical of gameplay rather than the more localized, structured, or text-line-based patterns seen in reading, coding, or browsing tasks.",
+  "correct": false
+}

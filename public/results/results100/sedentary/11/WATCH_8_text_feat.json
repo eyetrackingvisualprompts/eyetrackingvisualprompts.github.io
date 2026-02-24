@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts across wide screen regions (center, corners, top/bottom, edges) with many medium-length fixations and little evidence of systematic line-wise or code-structure scanning. This broad, object/scene-following pattern with long stable looks in clustered regions matches passive video watching more than reading, coding-related, or search/browse tasks, which exhibit more structured, text- or UI-oriented scanpaths.",
+  "correct": true
+}

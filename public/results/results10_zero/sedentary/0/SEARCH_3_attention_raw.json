@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze heatmap shows two main tight fixation clusters on the left-upper and mid-screen regions with limited spread or vertical scanning, consistent with focusing on specific code segments or lines while reasoning about a snippet, as in the INTERPRET task, rather than the broader or more dynamic patterns typical of browsing, reading long text, debugging, gaming, or watching video.",
+  "correct": false
+}

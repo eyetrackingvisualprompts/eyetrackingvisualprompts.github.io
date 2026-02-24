@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is distributed over a mid-screen region with both vertical and horizontal movements, moderate dispersion, and no strong left-to-right line structure of reading or the tight upper-area focus of writing; the pattern best matches exploratory web/news browsing behavior.",
+  "correct": false
+}

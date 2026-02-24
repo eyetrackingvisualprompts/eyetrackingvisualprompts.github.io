@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in long, smooth horizontal sweeps with small regressions, stepping down slowly from y\u2248130 to \u2248530, matching line-by-line text reading patterns rather than scattered search, code, or dynamic object tracking seen in other tasks.",
+  "correct": true
+}

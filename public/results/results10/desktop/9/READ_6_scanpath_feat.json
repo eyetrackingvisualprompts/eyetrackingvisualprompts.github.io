@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, sweeping saccades spanning most of the screen, with fewer localized clusters, indicating wide-area monitoring consistent with tracking a game character rather than the denser, localized patterns seen in reading, writing, search, or browsing tasks.",
+  "correct": false
+}

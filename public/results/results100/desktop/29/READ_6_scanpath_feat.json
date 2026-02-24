@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, horizontally-elongated cluster around mid-height, indicating stable, line-by-line fixations with small regressions, closely matching the reading scanpath pattern rather than the more dispersed or dynamic patterns of browsing, searching, playing, or watching video.",
+  "correct": true
+}

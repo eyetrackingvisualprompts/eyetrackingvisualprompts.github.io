@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows relatively long, stable fixations interspersed with short, localized saccades within a constrained region, without the large, rapid shifts or strong vertical scanning expected in SEARCH/BROWSE, nor the wide, dynamic movements typical of PLAY or WATCH. The dense, systematic inspection of a compact area is most consistent with reading text on a page or screen.",
+  "correct": false
+}

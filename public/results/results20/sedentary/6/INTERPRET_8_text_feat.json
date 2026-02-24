@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact code-like area with long dwell times (often >1 s) and short, local saccades back and forth over nearly the same lines, closely matching the INTERPRET examples where participants scrutinize a small snippet to reason about its output rather than scanning broadly as in WRITE, DEBUG, or SEARCH.",
+  "correct": true
+}

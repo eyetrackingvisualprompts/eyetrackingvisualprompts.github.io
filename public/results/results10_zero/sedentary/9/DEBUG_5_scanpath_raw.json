@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small, mid-left screen area typical of a code editor, with repeated short saccades and revisits within the same region suggesting focused editing rather than linear reading, broad exploration, or dynamic object following.",
+  "correct": false
+}

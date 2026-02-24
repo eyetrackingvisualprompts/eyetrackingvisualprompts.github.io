@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between far left (~-15 to -17\u00b0) and far right (~+15 to +17\u00b0) positions with long, nearly horizontal sweeps and relatively stable plateaus near each extreme, closely matching the structured left-right target motion of the Horizontal Saccades condition rather than the more irregular paths seen in Random Saccades or task-specific patterns in the other activities.",
+  "correct": true
+}

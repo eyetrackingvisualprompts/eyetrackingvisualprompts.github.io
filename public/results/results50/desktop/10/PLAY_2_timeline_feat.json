@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions remain around mid-screen with relatively small, regular horizontal movements and limited vertical change, matching the stable, line-by-line scanning pattern characteristic of reading, and closely resembling the READ example plot.",
+  "correct": false
+}

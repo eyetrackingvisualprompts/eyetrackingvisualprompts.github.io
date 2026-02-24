@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent long fixations and repeated revisits within a compact code-like region near the left side, interspersed with occasional large reorientation saccades and back-and-forth checks of similar coordinates, match the intensive, localized inspection and re-checking behavior characteristic of debugging rather than more scan-like patterns of search/browse or the more linear patterns of read/write/interpret.",
+  "correct": false
+}

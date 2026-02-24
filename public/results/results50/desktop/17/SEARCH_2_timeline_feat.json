@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations cluster around mid-screen with slow, systematic horizontal movements and relatively small vertical range, closely matching the stable, line-by-line gaze pattern seen in the READ example rather than the more scattered or extreme shifts of other tasks.",
+  "correct": false
+}

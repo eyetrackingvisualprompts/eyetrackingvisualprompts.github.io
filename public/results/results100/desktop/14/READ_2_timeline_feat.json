@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, repetitive horizontal scan patterns with relatively stable Y positions that drift slowly over time, characteristic of line-by-line reading rather than the more scattered or multidirectional movements seen in search, browsing, or play.",
+  "correct": true
+}

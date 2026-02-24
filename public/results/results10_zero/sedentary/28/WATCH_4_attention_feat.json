@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are scattered across the entire screen without forming horizontal lines typical of reading or code-related tasks, and there are multiple spatially separated clusters consistent with scanning various elements on different webpages during free browsing rather than focused viewing (WATCH) or constrained regions (PLAY/WRITE/DEBUG/INTERPRET/SEARCH).",
+  "correct": false
+}

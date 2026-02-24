@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent gaze shifts between widely separated screen regions (top, bottom, far right), with brief local inspections and revisits, match scanning result lists and different page areas typical of web search rather than the more localized, structured patterns seen in coding, reading, or video watching.",
+  "correct": false
+}

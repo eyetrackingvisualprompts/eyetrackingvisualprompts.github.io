@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically with a strong horizontal band around mid-screen and additional clusters above and below, matching scanning of search results and snippets rather than tight code (WRITE/DEBUG/INTERPRET) or full-screen video/game (WATCH/PLAY).",
+  "correct": true
+}

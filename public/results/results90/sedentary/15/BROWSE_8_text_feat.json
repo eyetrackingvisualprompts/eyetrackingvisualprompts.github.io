@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Frequent large saccades between distant screen regions, many off-content excursions with coordinates outside normal screen bounds, and long, centrally distributed fixations resemble the dynamic, scene-based viewing patterns in the WATCH examples more than the more structured, line- or code-oriented scanpaths of READ/WRITE/DEBUG/INTERPRET or the search-result layouts of SEARCH/BROWSE.",
+  "correct": false
+}

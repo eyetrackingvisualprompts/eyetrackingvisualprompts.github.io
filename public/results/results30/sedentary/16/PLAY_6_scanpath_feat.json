@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows several horizontally aligned fixations typical of reading result snippets, combined with large vertical and diagonal saccades between widely separated regions (likely query box, results list, and lower content), matching the SEARCH pattern more than the other activities.",
+  "correct": false
+}

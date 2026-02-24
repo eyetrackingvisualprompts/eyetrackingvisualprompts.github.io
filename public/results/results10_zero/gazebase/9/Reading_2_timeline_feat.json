@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete step-like fixations at multiple positions in both horizontal and vertical directions, with approximately 1-second dwells before shifting to new locations. Movements span several degrees in both axes and are not restricted to a single horizontal line, matching the described random saccade target behavior rather than reading, horizontal-only motion, or static fixation.",
+  "correct": false
+}

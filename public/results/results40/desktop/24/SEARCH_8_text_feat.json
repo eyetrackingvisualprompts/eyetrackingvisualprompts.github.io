@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper-left vertical band (~x=0.4\u20130.6, y\u22480.7\u20130.9) with many small local shifts and prolonged fixations, matching the narrow, screen-top text and cursor area typical in the WRITE examples, and unlike the more central-horizontal reading lines or the broader exploratory patterns in browse/search/play/watch.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows relatively few, larger saccades spanning a wide horizontal region with less dense fixations, resembling the broader directional shifts and sparser fixation pattern seen in the PLAY example more than the tighter clusters of reading, writing, browsing, or searching tasks.",
+  "correct": false
+}

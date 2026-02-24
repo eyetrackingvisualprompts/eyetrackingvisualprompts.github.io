@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions are centered with moderate horizontal exploration and variable vertical shifts, showing less systematic line-by-line scanning than reading and less wide or extreme movements than search or play, matching the more relaxed, mixed-pattern viewing typical of browsing web pages.",
+  "correct": false
+}

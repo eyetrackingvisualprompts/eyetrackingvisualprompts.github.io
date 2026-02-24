@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a compact region on the left side with limited horizontal spread, similar to the WRITE example where attention is focused on the code editor area rather than scanning across wider text or multiple UI elements.",
+  "correct": true
+}

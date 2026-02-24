@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change smoothly with relatively few abrupt saccades, and both X and Y vary gradually over time, resembling continuous tracking of central visual content as in full-screen video watching rather than line-by-line reading or code-focused tasks.",
+  "correct": false
+}

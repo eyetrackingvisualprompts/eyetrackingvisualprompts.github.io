@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are centered around the middle of the screen with a vertical spread from mid to lower regions and some dispersion upward, matching the pattern of scanning search engine results rather than the more horizontally structured READ layout or the tighter central cluster of BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band with small, slow X movements and gradually varying Y positions, indicating focused attention on a localized code area rather than wide scanning or line-by-line reading; this pattern best matches the WRITE example plot among the provided activities.",
+  "correct": false
+}

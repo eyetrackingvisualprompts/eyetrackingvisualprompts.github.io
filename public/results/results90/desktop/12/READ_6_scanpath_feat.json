@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, elongated horizontal cluster with limited vertical spread, matching line-by-line reading behavior and closely resembling the READ example pattern more than the other activity classes.",
+  "correct": true
+}

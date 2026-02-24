@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated in a small region at the upper-left/central area with a few checks lower on the screen, closely matching the INTERPRET example pattern of focused attention on a code snippet with occasional glances elsewhere, unlike the more distributed or horizontal scan patterns of browsing, reading, or searching.",
+  "correct": false
+}

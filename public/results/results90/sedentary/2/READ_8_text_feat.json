@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze consists of long, sequential horizontal scanpaths at several closely spaced vertical bands (y\u2248170, 200\u2013230, 250\u2013280, 290\u2013310, 330\u2013370, 380\u2013410, 420\u2013450), with regular left-to-right/right-to-left sweeps and sustained fixations typical of reading lines of text, matching the READ exemplars much more than the more scattered, large-amplitude movements of other tasks.",
+  "correct": true
+}

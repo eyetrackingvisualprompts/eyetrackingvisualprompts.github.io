@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen with no strong central clustering or clear horizontal line; positions appear discrete and widely distributed, consistent with following a target that jumps randomly to different screen locations rather than sustained central fixation, horizontal tracking, reading lines, or game-/video-specific patterns.",
+  "correct": false
+}

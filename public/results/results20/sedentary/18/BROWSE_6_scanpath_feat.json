@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a left-central vertical code area with repeated horizontal sweeps across a few nearby lines and occasional small vertical shifts, matching patterns of editing/typing code rather than broader exploration (SEARCH/BROWSE) or dense single-block inspection (INTERPRET/DEBUG).",
+  "correct": false
+}

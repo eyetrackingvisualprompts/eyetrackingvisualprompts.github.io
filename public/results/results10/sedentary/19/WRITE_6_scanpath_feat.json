@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is highly clustered in a small left-central region with many overlapping fixations and minimal saccades, resembling intense, localized inspection of a small code area, which best matches the DEBUG scanpath example pattern.",
+  "correct": false
+}

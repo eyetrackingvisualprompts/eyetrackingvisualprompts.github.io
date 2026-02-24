@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent vertical transitions between higher and lower Y positions with substantial horizontal movement, indicating repeated shifts between separate screen regions (e.g., query box, results list, clicked pages). This mixed scanning and reading-like pattern best matches the SEARCH activity compared to the more uniform patterns of READ/INTERPRET or the more centralized patterns of WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread horizontally across a wide central band with varied fixation clusters and irregular saccades, resembling exploration of different regions of a webpage rather than the tight line-by-line pattern of READ or the localized code-oriented patterns of programming tasks; this best matches BROWSE.",
+  "correct": false
+}

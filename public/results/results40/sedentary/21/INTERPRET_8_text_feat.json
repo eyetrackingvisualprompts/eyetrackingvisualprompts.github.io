@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster repeatedly around a narrow vertical band in the mid-lower screen (code area) with frequent short saccades within that region and occasional large saccades to upper coordinates (likely function header or other code context), matching the focused but locally oscillatory gaze pattern of typing/editing code rather than the broader scanning of SEARCH/BROWSE or line-by-line progression of READ/WATCH.",
+  "correct": false
+}

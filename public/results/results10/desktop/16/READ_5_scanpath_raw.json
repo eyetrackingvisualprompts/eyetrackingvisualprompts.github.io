@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze path shows short, predominantly horizontal movements within a narrow vertical band, characteristic of line-by-line reading and closely matching the READ example pattern more than the other activities.",
+  "correct": true
+}

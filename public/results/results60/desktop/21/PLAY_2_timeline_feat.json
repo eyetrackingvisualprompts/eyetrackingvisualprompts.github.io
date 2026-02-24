@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions fluctuate around the screen center with frequent medium-sized saccades in both X and Y, without strong horizontal scanning bands or stable upper text-line fixation typical of reading or writing, and without the large directional sweeps seen in playing or watching; this pattern best matches the diverse, scattered viewing behavior during web browsing.",
+  "correct": false
+}

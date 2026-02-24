@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long, stable fixations on a small region, alternating with large saccades to widely separated screen areas (including off-screen coordinates), characteristic of following changing visual scenes in a video rather than line-by-line reading, code inspection, or focused UI interaction. The spatial spread and pattern closely resemble the WATCH examples with big jumps between disparate regions and prolonged dwelling on visual elements.",
+  "correct": false
+}

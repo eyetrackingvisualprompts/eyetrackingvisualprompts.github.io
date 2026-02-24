@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered over a compact area on the left-central region, matching the focused gaze pattern on a small code-editing area seen in the WRITE example, rather than the more dispersed or multi-region patterns of browsing, reading, or searching.",
+  "correct": true
+}

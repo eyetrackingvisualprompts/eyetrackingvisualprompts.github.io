@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows large saccades across wide screen regions (top-left, mid-right, and lower areas) with scattered fixations, matching exploratory viewing of multiple elements like search results rather than the more localized or structured patterns of reading, coding, or video watching.",
+  "correct": false
+}

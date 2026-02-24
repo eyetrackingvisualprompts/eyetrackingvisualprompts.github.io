@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around central screen regions with frequent vertical and horizontal saccades between slightly separated clusters, resembling attention shifts between search box, results list, and clicked pages\u2014most consistent with web search behavior compared to the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows frequent short horizontal and vertical shifts within a confined code area, with intermittent larger saccades\u2014closely matching the example DEBUG plot and typical code-inspection behavior rather than the more linear (READ/BROWSE) or highly dynamic (PLAY/WATCH/SEARCH) patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a mid-left code area with some spread to nearby regions, resembling the WRITE heatmap more than others; it shows focused yet slightly broader exploration typical of editing/implementing code rather than static reading or gameplay/video watching patterns.",
+  "correct": false
+}

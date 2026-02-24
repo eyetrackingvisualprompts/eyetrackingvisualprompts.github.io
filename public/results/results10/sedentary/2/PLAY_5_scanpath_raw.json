@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows extensive vertical exploration across multiple screen regions, with long saccades between distant areas typical of scanning search results and related pages, matching the SEARCH pattern more than the more localized code or reading activities.",
+  "correct": false
+}

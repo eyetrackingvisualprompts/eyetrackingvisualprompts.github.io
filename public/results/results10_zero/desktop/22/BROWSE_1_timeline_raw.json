@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay within a relatively narrow horizontal band with smooth, continuous small shifts and no clear line-by-line scanning or vertical jumps typical of reading or searching text. The pattern suggests sustained attention to a central region with modest motion, consistent with following content in a video rather than interacting with text (WRITE/READ/SEARCH/BROWSE) or rapidly shifting across the screen as in games (PLAY).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is highly concentrated in a small region at the lower-left area of the screen, consistent with focusing on a localized area such as the text-entry position in a word processor while writing, rather than the broader scanning patterns typical of browsing, reading, searching, playing, or watching videos.",
+  "correct": false
+}

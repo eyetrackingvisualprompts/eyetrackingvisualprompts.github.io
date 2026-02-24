@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively constrained horizontal movement with a slow upward drift in Y, punctuated by a few sharp vertical saccades, closely matching the INTERPRET example\u2019s pattern of focused inspection of a code snippet and occasional jumps to other lines or areas for reasoning.",
+  "correct": false
+}

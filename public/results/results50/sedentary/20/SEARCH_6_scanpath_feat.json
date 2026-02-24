@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-side code/editor region with frequent vertical shifts and some movements toward a central area, matching the scattered, revisiting pattern seen in the DEBUG example rather than the more localized INTERPRET or the broader navigation of BROWSE/SEARCH.",
+  "correct": false
+}

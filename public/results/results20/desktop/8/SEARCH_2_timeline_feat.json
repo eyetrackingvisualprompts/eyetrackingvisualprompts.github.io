@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Moderate, relatively stable horizontal gaze near screen center with small, frequent saccades and gradual vertical shifts resembles the browsing example more than the larger vertical sweeps of search or the strong top/bottom separation of write/watch/play patterns.",
+  "correct": false
+}

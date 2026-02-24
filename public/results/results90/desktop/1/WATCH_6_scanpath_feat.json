@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a relatively central region with moderate vertical spread and irregular saccades, resembling the exploratory, scrolling behavior seen in the BROWSE example more than the more linear (READ/WRITE) or more dispersed (PLAY/SEARCH/WATCH) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal movements within a constrained vertical band, with step-like shifts downward over time, consistent with line-by-line reading behavior rather than the more scattered or dynamic patterns typical of playing, browsing, or watching video.",
+  "correct": false
+}

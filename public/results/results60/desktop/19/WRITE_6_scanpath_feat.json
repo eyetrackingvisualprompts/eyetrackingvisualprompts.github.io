@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze is tightly clustered in a narrow horizontal band with small, orderly saccades and limited vertical range, matching the stable left-to-right scan pattern typical of reading text rather than the broader, more scattered movements seen in browsing, searching, playing, or watching videos.",
+  "correct": false
+}

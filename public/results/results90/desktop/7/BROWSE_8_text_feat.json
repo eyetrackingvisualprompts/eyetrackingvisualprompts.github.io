@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent long vertical saccades between upper, mid, and lower screen regions with intermittent fixations in upper center and varying lateral positions, consistent with scanning search results and jumping between query box, results list, and lower content, matching the SEARCH examples more than the more horizontally-structured READ/BROWSE or the denser central patterns of WATCH/PLAY/WRITE.",
+  "correct": false
+}

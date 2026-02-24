@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze position alternates horizontally around the central axis with relatively constant vertical position, showing discrete steps at ~1 s intervals consistent with following a horizontally moving target rather than random 2D motion, reading, game behavior, free viewing, or sustained central fixation.",
+  "correct": false
+}

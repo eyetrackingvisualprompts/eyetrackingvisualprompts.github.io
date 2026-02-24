@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain mostly around the screen center with relatively small, smooth variations and few systematic horizontal or vertical sweeps. This pattern indicates following dynamic on-screen content rather than line-by-line reading or code inspection, matching the WATCH activity of viewing a video.",
+  "correct": true
+}

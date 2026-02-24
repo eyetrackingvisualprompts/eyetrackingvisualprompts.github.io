@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain mostly within a narrow central band with slow drifts and few large saccades, without systematic horizontal line-by-line movements or rapid object-tracking sweeps. This stable, centrally focused pattern is most consistent with passively watching a video rather than active reading, coding, searching, or game play.",
+  "correct": false
+}

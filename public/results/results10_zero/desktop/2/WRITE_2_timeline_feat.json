@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a series of stable fixations with small, regular rightward steps in X and slight downward drift in Y over time, characteristic of progressing through lines of text while reading rather than the larger multi-directional shifts typical of search, browsing, gaming, or video watching.",
+  "correct": false
+}

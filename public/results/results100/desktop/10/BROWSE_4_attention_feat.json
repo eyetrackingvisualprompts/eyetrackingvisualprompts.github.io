@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a horizontally elongated band in the mid-lower region of the screen, indicating line-by-line scanning of text similar to the READ example, rather than the more central clustering of BROWSE/SEARCH or the dispersed patterns of WATCH/PLAY/WRITE.",
+  "correct": false
+}

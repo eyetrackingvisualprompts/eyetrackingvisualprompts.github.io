@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster near screen center with small, frequent multidirectional saccades and limited systematic horizontal or vertical scanning, closely matching the example BROWSE pattern rather than the more structured movements of READ/WRITE or the broader excursions of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

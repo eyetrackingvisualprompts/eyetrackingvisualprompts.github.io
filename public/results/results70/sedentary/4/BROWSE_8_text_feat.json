@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays within a few horizontal bands with many short fixations and regular left-right sweeps, consistent with scanning webpage text/menus, but also includes occasional large vertical jumps to distant regions (including near-screen edges) and back\u2014typical of web browsing and navigation rather than sustained code inspection, debugging, or watching dynamic objects in games or video.",
+  "correct": true
+}

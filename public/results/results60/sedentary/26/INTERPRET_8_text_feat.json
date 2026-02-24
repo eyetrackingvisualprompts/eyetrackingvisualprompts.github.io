@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact code region with frequent, small back-and-forth saccades among nearby lines/columns in the same area, indicative of mentally simulating and re-checking a short snippet rather than scanning large areas (SEARCH/BROWSE), tracking motion (PLAY/WATCH), or traversing longer text blocks (READ). This local, iterative inspection pattern best matches the INTERPRET task.",
+  "correct": true
+}

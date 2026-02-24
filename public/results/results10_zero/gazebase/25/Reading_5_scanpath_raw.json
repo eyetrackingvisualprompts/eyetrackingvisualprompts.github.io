@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows irregular, free-viewing movements clustered within a region rather than strict horizontal lines, static central fixation, or discrete jumps to few target positions. This pattern best matches natural exploration during video viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated in a single, moderately sized region near the center-left, matching the focused code-area viewing seen in INTERPRET examples, without the secondary regions typical of DEBUG or WRITE and with less spread than browsing or search tasks.",
+  "correct": false
+}

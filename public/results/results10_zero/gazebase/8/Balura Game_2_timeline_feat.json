@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like changes to irregular, non-repeating locations in both horizontal and vertical directions, with dwell periods of about one second at each position\u2014matching a randomly moving target held briefly at each point, characteristic of the Random Saccades task rather than strictly horizontal motion, static fixation, reading, or natural viewing.",
+  "correct": false
+}

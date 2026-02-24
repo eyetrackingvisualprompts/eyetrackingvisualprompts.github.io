@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two tight fixation clusters at similar vertical positions but on opposite horizontal sides of the screen, indicating repetitive left-right gaze shifts between two fixed points, which matches the horizontal saccade tracking task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a relatively broad, central dispersion of gaze with no clear horizontal reading lines or code-structured clusters, and no strong edge or UI-element focus typical of interactive tasks; this diffuse but center-biased viewing pattern best matches passively WATCHING a full-screen video.",
+  "correct": false
+}

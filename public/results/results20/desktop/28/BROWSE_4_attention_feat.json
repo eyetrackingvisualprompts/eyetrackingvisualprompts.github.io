@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are moderately dispersed across the central area with several distinct clusters at different vertical levels, indicating scanning of varied elements such as results, snippets, and side information, which matches the SEARCH pattern more than the more localized BROWSE or the structured horizontal patterns of READ/WRITE.",
+  "correct": false
+}

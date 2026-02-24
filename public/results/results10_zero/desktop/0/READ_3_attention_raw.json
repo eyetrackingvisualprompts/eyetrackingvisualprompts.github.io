@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band around mid-screen with sequential clusters from left to right, indicating line-by-line reading behavior rather than the broader or more scattered patterns typical of browsing, searching, gaming, watching videos, or writing (which would include more central fixation and vertical movements to UI elements).",
+  "correct": true
+}

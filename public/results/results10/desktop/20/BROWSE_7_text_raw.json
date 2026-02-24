@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points remain within a mid-screen band with small, gradual shifts and extended local fixations, including occasional vertical transitions but without the systematic left-to-right/line-wise patterns of READ or the large exploratory excursions of SEARCH/PLAY/WATCH. This stable yet intermittently shifting behavior best matches BROWSE in the provided examples.",
+  "correct": true
+}

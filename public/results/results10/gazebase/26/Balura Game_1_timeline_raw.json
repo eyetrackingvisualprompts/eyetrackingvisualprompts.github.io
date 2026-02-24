@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Balura Game",
+  "reason": "Both horizontal and vertical gaze positions show large, irregular, multi-directional saccades with varying step sizes and dwell times, lacking the structured horizontal-only pattern of Horizontal Saccades or the more orderly line-by-line behavior of Reading. This complex, erratic pattern with repeated shifts is most consistent with tracking and re-fixating on multiple moving targets in the Balura Game.",
+  "correct": true
+}

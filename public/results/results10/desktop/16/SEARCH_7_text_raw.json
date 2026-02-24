@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-screen with small vertical shifts and many local fixations, plus occasional brief excursions and returns\u2014matching the mixed scanning-and-fixation pattern of browsing examples more than the more structured line-wise READ, the highly dynamic PLAY, or the denser upper-screen WRITE/SEARCH behaviors.",
+  "correct": false
+}

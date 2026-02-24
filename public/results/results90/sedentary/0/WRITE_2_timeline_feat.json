@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal movements with intermittent vertical shifts and scattered saccades, indicating scanning across and between result snippets or page regions. This pattern most closely matches the SEARCH example, which has similar mixed exploration rather than the more structured reading, stable code-focused, or highly dynamic game/video patterns.",
+  "correct": false
+}

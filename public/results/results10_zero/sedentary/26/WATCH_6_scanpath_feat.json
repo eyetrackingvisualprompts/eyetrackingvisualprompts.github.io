@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The scanpath shows a small number of relatively long fixations clustered around a few vertically separated code-like regions, with limited horizontal movement and no wide exploratory behavior, consistent with focused inspection of a short code snippet to reason about its output rather than extended reading, writing, debugging, or web navigation.",
+  "correct": false
+}

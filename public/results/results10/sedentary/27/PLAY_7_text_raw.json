@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cluster in a relatively compact region with many short-range shifts and micro-corrections, showing local tracking of moving content rather than systematic line-by-line horizontal sweeps (READ) or broad exploratory jumps (SEARCH/BROWSE/PLAY). The dense, smooth, mid-screen pattern is most consistent with passively following dynamic video stimuli as in WATCH.",
+  "correct": false
+}

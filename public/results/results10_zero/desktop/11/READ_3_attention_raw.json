@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a narrow horizontal band of gaze concentrated around a specific vertical level, indicating systematic left-to-right scanning with limited vertical movement, which is characteristic of reading lines of text on a screen rather than the more scattered or multi-directional patterns typical of browsing, searching, gaming, writing, or watching video.",
+  "correct": true
+}

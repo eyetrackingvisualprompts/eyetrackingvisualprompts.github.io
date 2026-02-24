@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations and saccades are densely clustered over a compact code-like region with frequent short regressions and revisits between nearby lines/blocks, plus occasional large jumps to UI areas\u2014closely matching the DEBUG pattern rather than the more linear or exploratory behaviors of READ, SEARCH, or BROWSE.",
+  "correct": false
+}

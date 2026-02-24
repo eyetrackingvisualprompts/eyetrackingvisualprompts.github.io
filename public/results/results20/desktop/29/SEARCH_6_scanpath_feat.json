@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple distinct clusters and frequent transitions between them, with moderate vertical movement and revisits to central regions\u2014indicative of shifting between search results, snippets, and query box, which aligns best with the SEARCH pattern compared to the more constrained READ/WRITE and more dispersed BROWSE/PLAY/WATCH examples.",
+  "correct": true
+}

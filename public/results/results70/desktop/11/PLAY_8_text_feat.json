@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated transitions between mid-page content regions and upper/lower areas, with moderate horizontal and vertical saccades and many medium-length fixations near the central band\u2014patterns characteristic of scanning SERP results and individual pages during web search, and more exploratory than the tighter horizontal banding of pure reading or the more dispersed movements of browsing or playing.",
+  "correct": false
+}

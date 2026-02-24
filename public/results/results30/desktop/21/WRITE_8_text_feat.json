@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is dominated by long, stable fixations (often >1 s) with small local shifts within a confined region, and only occasional larger relocations. There is no systematic horizontal scanning pattern (as in READ/WRITE) nor broad exploratory jumps (as in SEARCH/BROWSE/PLAY). This sustained focus on a few nearby positions matches watching dynamic video content.",
+  "correct": false
+}

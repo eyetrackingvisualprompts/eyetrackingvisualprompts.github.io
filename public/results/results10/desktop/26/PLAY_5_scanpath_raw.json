@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is confined to a central region with short, multidirectional saccades and frequent refixations, resembling the compact, exploratory pattern of the BROWSE example more than the more linear READ/WRITE patterns or the wider movements in SEARCH/WATCH/PLAY.",
+  "correct": false
+}

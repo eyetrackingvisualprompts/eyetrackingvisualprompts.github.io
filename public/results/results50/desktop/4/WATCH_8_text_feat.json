@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper-left to mid-left area with many small vertical shifts and long fixations around y\u22480.7\u20131.0, matching looking near a text cursor and toolbar/lines while typing in a word processor, and differs from the more central, scroll-driven vertical scan patterns of BROWSE/SEARCH and the horizontal line sweeps of READ.",
+  "correct": false
+}

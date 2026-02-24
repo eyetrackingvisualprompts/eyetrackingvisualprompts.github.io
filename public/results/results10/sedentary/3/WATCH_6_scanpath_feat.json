@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide spatial coverage with large saccades between top, middle, and lower areas of the right side of the screen resembles scanning search results and linked pages, matching the SEARCH pattern more than the more localized or structured patterns of the other activities.",
+  "correct": false
+}

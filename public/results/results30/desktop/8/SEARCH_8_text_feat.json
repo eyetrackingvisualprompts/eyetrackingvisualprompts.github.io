@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated around the central region with moderate vertical range (y\u22480.35\u20130.6) and frequent short saccades between nearby positions, resembling scanning of a web/news page section rather than the tight top-bottom band of reading or the narrow upper-band pattern of writing. Movement includes some medium vertical shifts consistent with scrolling and inspecting different elements, matching the browse examples more closely than search, watch, or play, which show larger, more dispersed shifts or extreme screen areas.",
+  "correct": false
+}

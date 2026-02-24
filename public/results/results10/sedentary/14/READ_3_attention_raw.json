@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a single horizontal band in the lower-central area of the screen, matching the code-editing region pattern seen in the WRITE example rather than the higher bands (READ/BROWSE) or more scattered regions (WATCH/PLAY/SEARCH).",
+  "correct": false
+}

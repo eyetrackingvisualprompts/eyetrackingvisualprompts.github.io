@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several horizontal fixations with gradual upward drift followed by a large abrupt jump in both X and Y near 7.5s and then new fixations at a different vertical level, matching patterns of scanning results then moving to a new page typical of search behavior.",
+  "correct": false
+}

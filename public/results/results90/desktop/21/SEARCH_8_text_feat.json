@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide vertical and horizontal regions (from near-top to near-bottom and into corners) with irregular, non-linear scan paths and intermittent localized fixations resemble dynamic visual exploration in a game environment more than the structured, line-based or region-based patterns seen in reading, writing, searching, or browsing; the extent and rapidity of gaze shifts also exceed typical video-watching patterns, aligning best with PLAY.",
+  "correct": false
+}

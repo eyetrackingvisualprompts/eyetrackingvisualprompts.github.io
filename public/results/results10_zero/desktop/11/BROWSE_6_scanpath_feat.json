@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a small central area with limited horizontal/vertical spread, indicating focused attention on a local region such as the text-entry line and nearby UI elements in a word processor, rather than the broader or more dynamic scanning patterns typical of reading articles, browsing, searching, gaming, or watching video.",
+  "correct": false
+}

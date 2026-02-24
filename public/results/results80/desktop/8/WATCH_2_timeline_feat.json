@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen horizontal focus with substantial vertical excursions and irregular saccades, indicating navigation across varied web layouts and result pages rather than stable line-by-line reading or centralized video watching, which is characteristic of search tasks.",
+  "correct": false
+}

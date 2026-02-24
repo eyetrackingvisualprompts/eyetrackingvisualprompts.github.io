@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays mostly within a central band with smooth, gradual shifts in both X and Y and no strong line-by-line horizontal sweeps typical of reading or coding; movement is less erratic than search/browse and lacks rapid edge-to-edge tracking seen in play, matching the more continuous, scene-following pattern of watching a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized fixations and short saccades clustered around a narrow vertical code-like region (x\u2248900\u20131000, y\u2248350\u2013480) with frequent regressions between slightly different line heights and positions are characteristic of scrutinizing and re-checking code, matching the DEBUG examples more than the other activities.",
+  "correct": false
+}

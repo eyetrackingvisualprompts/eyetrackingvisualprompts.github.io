@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is distributed over a large central area with frequent vertical and horizontal shifts, including movements to multiple regions at different depths on the page, resembling scanning across varied web page elements rather than the more constrained bands of reading or writing, the central clustering of search, or the upper-focused patterns of watch/play.",
+  "correct": false
+}

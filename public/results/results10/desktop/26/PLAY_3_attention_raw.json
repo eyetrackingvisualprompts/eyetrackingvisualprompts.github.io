@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated around the central region with moderate vertical spread, forming a compact cluster similar to the BROWSE example, unlike the horizontal scan pattern of READ or the peripheral distributions of WATCH/WRITE/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long fixations interspersed with large, rapid saccades that span wide screen regions (including to extreme edges and off-center areas), with no stable line-by-line or code-structured pattern. This broad, dynamic scanning pattern over large visual angles is characteristic of passively following content in a video (WATCH) rather than focused reading, coding, or search tasks.",
+  "correct": true
+}

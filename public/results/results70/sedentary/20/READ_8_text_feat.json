@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze moves repeatedly along a single horizontal band near the top/mid screen, with long left-to-right sweeps and returns across a wide width, matching reading/inspection of multi-column search results or top SERP area more than dense continuous text (READ) or dynamic wide motions (WATCH/PLAY). The pattern closely resembles the SEARCH example\u2019s horizontal scanlines at similar y-levels with periodic returns to the left.",
+  "correct": false
+}

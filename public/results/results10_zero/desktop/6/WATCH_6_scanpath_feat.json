@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain clustered in a small central region with minimal horizontal or vertical progression, indicating sustained attention to a single area rather than line-by-line reading, searching, or scanning. This stable central fixation pattern is most consistent with passively watching a video on the screen.",
+  "correct": true
+}

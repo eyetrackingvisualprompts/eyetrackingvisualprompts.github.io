@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two dominant fixation clusters at symmetric horizontal extremes near mid-height, with a pathway between them, indicating repeated large-amplitude left-right eye movements between two positions\u2014characteristic of horizontal saccades following a target that steps between \u00b115\u00b0 horizontally and remains at each location briefly.",
+  "correct": true
+}

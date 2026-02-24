@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near the screen center with small incremental shifts and very few large saccades, indicating continuous attention to a mostly static, centrally presented visual stream, which best matches the WATCH condition rather than the more horizontally structured scanning and regressions typical of reading, browsing, or code-related tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows multiple episodes of vertical shifts between two main Y-bands (top content and lower region) with varied horizontal exploration, resembling scanning a search-results page and occasionally moving to other areas, which matches the SEARCH example pattern more than the more stable READ/WRITE or highly dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

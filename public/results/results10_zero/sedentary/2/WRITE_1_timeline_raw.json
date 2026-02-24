@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows a few large, smooth shifts between relatively stable horizontal bands rather than dense left\u2011to\u2011right scanning or frequent small code/reading regressions. This pattern matches following changing visual content in different screen regions, as in WATCH, more than the structured, line-based movements of READ/WRITE/DEBUG/INTERPRET or the rapid object tracking typical of PLAY.",
+  "correct": false
+}

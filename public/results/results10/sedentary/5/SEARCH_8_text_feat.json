@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with sequential left-to-right fixations and short saccades along that band, including returns and line-like shifts, closely matching the stable, text-line scanning pattern seen in the READ example and unlike the more scattered exploratory or highly dynamic patterns of other tasks.",
+  "correct": false
+}

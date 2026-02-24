@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a horizontally elongated band across the middle of the screen with repeated back-and-forth movements and occasional returns to a lower region, matching the code+console/IDE interaction pattern seen in the WRITE example more than the tighter INTERPRET/DEBUG clusters or the broader exploratory patterns of BROWSE/SEARCH/PLAY/WATCH/READ.",
+  "correct": false
+}

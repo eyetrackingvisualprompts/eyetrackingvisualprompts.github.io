@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in a narrow vertical strip on the left side of the screen, matching the DEBUG example where attention is focused on a specific code region with minimal dispersion elsewhere.",
+  "correct": false
+}

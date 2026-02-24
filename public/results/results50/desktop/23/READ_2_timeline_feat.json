@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, mostly horizontal scanning with gradual X-position shifts and relatively narrow Y-range, matching line-by-line reading patterns more than the other activities.",
+  "correct": true
+}

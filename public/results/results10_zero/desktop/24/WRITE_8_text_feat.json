@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a very small central region with long, stable fixations (up to ~2.6s) and only tiny, short saccades between nearby points. This pattern indicates sustained attention on nearly the same location, typical of reading a specific word/line segment, rather than the larger, more exploratory movements expected in browse, search, play, watch, or write activities.",
+  "correct": false
+}

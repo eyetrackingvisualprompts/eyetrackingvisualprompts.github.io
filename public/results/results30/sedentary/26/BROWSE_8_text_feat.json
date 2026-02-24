@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large saccades between central content and off-screen/edge coordinates, revisits to a horizontal band near the top (typical of results snippet line), and occasional excursions to extreme side positions resemble the SEARCH example more than the more locally constrained patterns of READ/WRITE/INTERPRET or the smoother WATCH trajectories.",
+  "correct": false
+}

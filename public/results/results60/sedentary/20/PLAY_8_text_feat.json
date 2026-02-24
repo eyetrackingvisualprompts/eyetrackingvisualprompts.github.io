@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long, stationary fixations clustered in a compact region with small corrective saccades and frequent back\u2011and\u2011forth within the same code area match the interpret/debug style. Compared to DEBUG, there are fewer large exploratory sweeps and more sustained dwelling on a tight locus, which aligns best with INTERPRET\u2019s intensive reasoning over a short snippet rather than broader code navigation or dynamic tasks like PLAY/WATCH/SEARCH/BROWSE.",
+  "correct": false
+}

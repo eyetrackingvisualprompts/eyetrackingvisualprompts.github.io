@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal scanning with occasional larger vertical saccades and shifts, indicating movement between results or page regions, matching the mixed but structured exploration typical of search engine use rather than the more linear (READ/BROWSE) or highly dynamic (PLAY/WATCH) patterns.",
+  "correct": false
+}

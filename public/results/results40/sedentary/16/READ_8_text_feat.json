@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates in a narrow horizontal band across mid\u2011screen coordinates with many short fixations and small regressions, similar to scanning search\u2011result snippets or lists. The pattern closely matches the SEARCH example\u2019s horizontal movements around a stable y\u2011region, unlike the more vertical line-wise patterns of READ or the strongly code\u2011area\u2013centered patterns of INTERPRET/DEBUG/WRITE, and lacks the wide, dynamic object-following shifts typical of PLAY or WATCH.",
+  "correct": false
+}

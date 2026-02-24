@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact region on the upper-left where code editor text typically appears, with frequent long vertical saccades toward the bottom of the screen consistent with looking between code and other UI elements while implementing code, closely matching the WRITE example pattern.",
+  "correct": true
+}

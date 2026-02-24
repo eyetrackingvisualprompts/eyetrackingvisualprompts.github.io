@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows repeated medium-length fixations clustered around a few nearby code-like coordinates with frequent regressions and vertical/horizontal shifts, consistent with carefully scanning and re-checking lines or tokens rather than smooth linear reading. The back-and-forth movements over the same regions and occasional large saccades suggest inspecting different parts of a function to locate and verify fixes, characteristic of debugging activity rather than straightforward reading or passive watching.",
+  "correct": true
+}

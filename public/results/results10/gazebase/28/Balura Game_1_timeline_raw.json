@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show large, discrete jumps to various locations across the screen (not constrained to a line or center), with each position held briefly before moving again, matching the pattern of following a target that jumps to random 2\u201315\u00b0 locations rather than horizontal-only or static/reading behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated near the bottom of the screen with slight vertical spread, matching the gaze pattern when typing in a word processor where attention stays around the current text line and input area, similar to the WRITE example heatmap but shifted downward.",
+  "correct": false
+}

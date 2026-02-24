@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen areas (including corners and off-center regions), mixed with shorter local adjustments and some very long fixations, match dynamic tracking of moving game elements more than the structured line-wise patterns of reading/browsing or the focused, code-region\u2013bounded gaze of programming tasks.",
+  "correct": false
+}

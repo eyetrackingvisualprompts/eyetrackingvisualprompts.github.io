@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a single compact region on the left side of the screen with minimal horizontal or vertical spread, matching the focused fixation pattern over a small code snippet seen in the INTERPRET examples, unlike the broader or multi-region patterns of the other tasks.",
+  "correct": true
+}

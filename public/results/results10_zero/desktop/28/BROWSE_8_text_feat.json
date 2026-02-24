@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-long saccades across both horizontal and vertical axes, with relatively short fixations and repeated transitions between central, upper, and lower screen regions suggest scanning heterogeneous elements (query box, results list, side content) consistent with web search result pages rather than the more linear patterns of READ/WRITE or the highly dynamic, directional tracking typical of WATCH/PLAY.",
+  "correct": false
+}

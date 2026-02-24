@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves in smooth, predominantly horizontal sweeps with short forward saccades and line-to-line regressions at incrementally increasing y-levels (from ~460 down to ~890), matching left-to-right line scanning over a block of text rather than object following, code inspection, or broad exploratory scanning.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over a compact code region on the left with occasional saccades to a few lines below, resembling focused examination of a single code snippet rather than broader navigation or editing, which matches the INTERPRET pattern best.",
+  "correct": true
+}

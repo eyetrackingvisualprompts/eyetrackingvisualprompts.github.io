@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in two compact regions on the left side of the screen with little vertical spread, consistent with focused inspection of a short code snippet and possibly its output area rather than extensive scrolling/reading or dynamic following; this pattern best matches the INTERPRET code-understanding task.",
+  "correct": false
+}

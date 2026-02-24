@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated cluster around the middle-upper part of the screen with sequential left-right movements and relatively stable vertical position, closely matching the pattern of reading text lines rather than the more scattered (browse/search), multi-region (play), or top-focused (watch) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are spread across a central screen region with frequent shifts between several clusters, indicating scanning results, reading snippets, and moving between search box, results list, and possibly new tabs\u2014typical of web search behavior rather than the more linear patterns of READ or the wider, more dynamic movements of PLAY and WATCH.",
+  "correct": false
+}

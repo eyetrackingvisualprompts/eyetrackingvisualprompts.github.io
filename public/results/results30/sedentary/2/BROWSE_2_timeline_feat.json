@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured horizontal sweeps with gradual downward shifts in Y over time and relatively regular saccades, matching line-by-line reading behavior rather than the more scattered or highly dynamic patterns of searching, browsing, or playing games.",
+  "correct": false
+}

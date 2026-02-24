@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points cluster in a relatively constrained central screen region with short, repeated shifts among nearby coordinates, consistent with inspecting lines of code and moving between them, rather than the larger, more continuous sweeps of reading prose, web browsing, or watching video, or the broader, more dynamic movements typical in game playing or searching/browsing multiple pages.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between horizontal scanning bands around mid-screen and frequent large jumps to screen edges, off-screen coordinates, and varying vertical locations indicative of scrolling and exploring diverse web content rather than structured line-by-line reading or code-focused tasks; this spatiotemporal pattern best matches the heterogeneous, exploratory behavior seen in BROWSE examples.",
+  "correct": true
+}

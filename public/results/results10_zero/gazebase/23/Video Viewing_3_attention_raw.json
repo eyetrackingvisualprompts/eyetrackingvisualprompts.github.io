@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "Fixations are clustered in a roughly horizontal band across mid-screen with several discrete fixation points and short shifts between them, consistent with line-by-line reading behavior rather than large-amplitude structured saccades, static central fixation, game-like scattered targets, or free video viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered in the upper\u2011middle region with frequent saccades among nearby locations and occasional shifts, resembling the mixed reading and scanning pattern of search result pages rather than the more linear pattern of reading/writing or the peripheral spread of play/watch.",
+  "correct": false
+}

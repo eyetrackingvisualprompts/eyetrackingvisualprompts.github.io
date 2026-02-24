@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in the central-lower region with many medium/long saccades across a relatively small vertical band and frequent direction changes, matching dynamic tracking of game elements rather than the more vertical scanning of text (READ/WRITE) or broader dispersed exploration seen in SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

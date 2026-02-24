@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation and saccade patterns show moderate vertical movement and irregular shifts, without the strong top-heavy focus of WATCH, the systematic horizontal scanning of READ/WRITE, or the larger directional excursions of PLAY/SEARCH. This mixed, less-structured viewing closely matches the browsing example.",
+  "correct": false
+}

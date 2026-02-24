@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows large spatial jumps across screen regions, including frequent off-screen or extreme coordinates, and visits to both upper and lower areas consistent with scanning a results page and different snippets, matching the heterogeneous, exploratory pattern typical of SEARCH rather than the more line-structured reading or localized code/game activities.",
+  "correct": false
+}

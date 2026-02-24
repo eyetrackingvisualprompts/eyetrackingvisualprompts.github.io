@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze path shows predominantly horizontal movements within a relatively narrow vertical band, consistent with line-by-line reading behavior rather than larger exploratory or highly dynamic movements typical of browsing, searching, coding, or gaming.",
+  "correct": false
+}

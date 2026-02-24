@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations cluster in a narrow left-central code area with a few upward glances, matching the INTERPRET example pattern more closely than the denser, more stationary DEBUG heatmap or the more distributed WRITE pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated around the center with spread to both sides and some lower/upper regions, resembling tracking of a moving game object and spatial navigation. This pattern matches the PLAY example more than the more static, text- or code-focused tasks.",
+  "correct": true
+}

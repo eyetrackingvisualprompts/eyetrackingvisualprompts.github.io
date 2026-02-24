@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are spread over a central vertical band with multiple clusters at different heights, resembling scanning mixed content blocks (titles, images, snippets) typical of browsing news or blogs, and differing from the more horizontally constrained READ pattern or the tighter SEARCH cluster near the top-center.",
+  "correct": false
+}

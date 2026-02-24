@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are extremely long and highly localized around a single position near the top-middle of the screen, with only tiny corrective saccades. This pattern matches someone staring at a specific UI element (e.g., an answer snippet or result area) typical of SEARCH, rather than the more progressive horizontal movements of READ or the broader movements in BROWSE/PLAY/WATCH/WRITE.",
+  "correct": false
+}

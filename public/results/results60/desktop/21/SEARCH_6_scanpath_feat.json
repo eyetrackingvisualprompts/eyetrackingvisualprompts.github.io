@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around a central region with moderate vertical span and frequent short saccades without clear horizontal text-line structure (READ/WRITE) or multiple dispersed clusters (PLAY/BROWSE/WATCH), matching the focused yet exploratory pattern seen in the SEARCH example.",
+  "correct": true
+}

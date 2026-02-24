@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent horizontal shifts and broader vertical excursions, especially later in the window, resembling dynamic object tracking and wide visual exploration typical of gameplay, and differing from the more structured, line-based or stationary patterns seen in reading, writing, debugging, or interpreting code.",
+  "correct": true
+}

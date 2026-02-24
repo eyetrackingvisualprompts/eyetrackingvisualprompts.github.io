@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mostly mid-screen horizontal scanning with intermittent larger vertical excursions and brief jumps, resembling the mixed reading\u2013scanning and result inspection found in the SEARCH example more than the steadier patterns for READ/WRITE or the more extreme shifts seen in PLAY/BROWSE.",
+  "correct": false
+}

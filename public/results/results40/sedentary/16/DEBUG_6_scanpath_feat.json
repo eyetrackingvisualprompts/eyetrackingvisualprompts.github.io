@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread across multiple horizontal regions with several revisits and transitions between left-center content and right-side area, resembling exploration of search results and snippets rather than focused code (INTERPRET/DEBUG/WRITE) or continuous reading or watching patterns.",
+  "correct": false
+}

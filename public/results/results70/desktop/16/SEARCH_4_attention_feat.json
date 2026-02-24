@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region near the screen center with limited vertical spread, similar to the BROWSE example where gaze is focused around central content on a webpage rather than scanning widely as in READ, WATCH, PLAY, or SEARCH.",
+  "correct": false
+}

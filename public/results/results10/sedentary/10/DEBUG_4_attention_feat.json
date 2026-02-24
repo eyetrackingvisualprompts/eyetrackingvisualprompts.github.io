@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in the upper-left code area with a secondary cluster slightly lower, resembling focused inspection of a small code snippet as in INTERPRET, rather than the broader horizontal spreads of READ/WRITE or the dispersed patterns of PLAY/BROWSE/WATCH.",
+  "correct": false
+}

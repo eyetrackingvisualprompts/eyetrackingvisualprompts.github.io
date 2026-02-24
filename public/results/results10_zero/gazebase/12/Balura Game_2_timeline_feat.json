@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like changes to various horizontal and vertical locations across the screen, with each position held for about one second before jumping to a new, non-regularly patterned location. This matches a target that moves to random 2\u201315\u00b0 offsets in both axes rather than purely horizontal motion, continuous reading-style scanning, or central fixation.",
+  "correct": false
+}

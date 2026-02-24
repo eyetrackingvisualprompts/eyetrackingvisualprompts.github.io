@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small central area with short, jittery movements and no clear horizontal line sweeps or large vertical transitions, consistent with focusing on a single region such as the text-entry area while writing rather than scanning across lines (reading/searching) or exploring wider screen regions (browsing/playing/watching).",
+  "correct": false
+}

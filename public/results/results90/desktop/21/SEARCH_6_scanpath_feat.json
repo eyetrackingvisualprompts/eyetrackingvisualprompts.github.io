@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers a broad central area with frequent shifts in both horizontal and vertical directions, including several larger excursions\u2014indicative of scanning across different regions of a webpage with mixed text and elements, which best matches the browsing pattern compared to the more structured horizontal paths of READ or the tighter clusters of WATCH/SEARCH/WRITE/PLAY.",
+  "correct": false
+}

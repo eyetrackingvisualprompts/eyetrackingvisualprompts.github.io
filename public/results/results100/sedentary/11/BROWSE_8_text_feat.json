@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent spatial shifts across wide screen regions, many mid-length fixations on dispersed points, and no systematic line-by-line or code-structured scanning. The pattern matches following changing visual content (WATCH) rather than the more structured, text/code-oriented or search/browse behaviors in other classes.",
+  "correct": false
+}

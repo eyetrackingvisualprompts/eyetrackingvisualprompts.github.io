@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, frequent shifts in both X and Y with no strong horizontal scan pattern (READ) or large dispersed movements (PLAY/WATCH). The variability and mixed vertical-horizontal movements closely resemble the example BROWSE pattern, indicating exploration of varied on-page elements like headlines, images, and links.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, multi-directional gaze shifts spanning almost the entire screen with dispersed fixations at various vertical levels, resembling the dynamic, exploratory patterns seen in the PLAY example more than the denser, localized clusters typical of reading, writing, searching, or browsing tasks.",
+  "correct": false
+}

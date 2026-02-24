@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen vertical positions (y\u22480.4\u20130.5) with many short, multidirectional saccades including frequent small up/down and sideways shifts, resembling scanning mixed text/graphics on web pages; the pattern matches the BROWSE example much more than the more line-structured READ or the more dispersed SEARCH/WATCH/PLAY patterns.",
+  "correct": false
+}

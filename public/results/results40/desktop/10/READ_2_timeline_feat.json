@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent, irregular shifts in both X and Y with varied vertical positions (top, middle, and nearer bottom) and intermittent horizontal scanning segments, matching the mixed reading, result-scanning, and navigation patterns typical of SEARCH rather than the more stable patterns of READ or the more localized patterns of WRITE or WATCH.",
+  "correct": false
+}

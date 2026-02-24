@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades covering almost the entire screen area with dispersed fixations and no clear horizontal reading or localized inspection pattern, matching the wide, dynamic gaze behavior typical of playing a game rather than the more constrained patterns of reading, writing, searching, watching, or browsing.",
+  "correct": false
+}

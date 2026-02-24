@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-screen vertical band with repeated back-and-forth saccades among a small set of locations, indicating focused inspection and re-inspection of code elements typical for debugging rather than linear reading or broad browsing/searching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y gaze positions remain near the center with only small noise and rare blink-like spikes, matching the stable central gaze pattern characteristic of the Fixations task rather than the larger, structured movements seen in other activities.",
+  "correct": true
+}

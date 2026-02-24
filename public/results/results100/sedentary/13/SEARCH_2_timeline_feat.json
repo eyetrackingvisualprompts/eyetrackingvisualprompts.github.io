@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mixed horizontal and vertical movements with intermittent scroll-like downward shifts in Y and varied fixation locations, resembling free web browsing more than the more structured, line-by-line patterns of READ or the focused central patterns of coding tasks (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

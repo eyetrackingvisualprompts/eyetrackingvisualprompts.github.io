@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent saccades across wide screen regions (corners, top/bottom, edges) with relatively fewer tight regressions and line-like scanpaths; gaze repeatedly jumps between distant areas and border zones, consistent with following dynamic visual content in a full-screen video rather than reading, coding, or game object tracking.",
+  "correct": true
+}

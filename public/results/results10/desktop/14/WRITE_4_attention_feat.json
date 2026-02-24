@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small region slightly left-of-center and low on the screen, similar to a focused area where text is being entered in a word processor, matching the WRITE pattern more than the more dispersed patterns of other activities.",
+  "correct": true
+}

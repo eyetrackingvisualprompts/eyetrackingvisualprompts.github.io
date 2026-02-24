@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows repeated, smooth horizontal scans across a narrow vertical band (y\u2248370\u2013570 and later y\u2248660\u2013700), with progressive left-to-right movements and occasional regressions, closely matching the line-by-line pattern of text reading and resembling the provided READ example more than the other activities.",
+  "correct": false
+}

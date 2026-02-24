@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates span a wide vertical range and show large, smooth shifts and clustering over broader screen regions rather than tight horizontal bands or structured line/column patterns. This pattern is characteristic of following dynamic visual content over time (WATCH), not the more constrained, text- or code-aligned movements seen in READ/WRITE/DEBUG/INTERPRET/SEARCH or the highly target-focused jumps common in PLAY.",
+  "correct": false
+}

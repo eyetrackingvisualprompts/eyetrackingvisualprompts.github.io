@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium horizontal spread with frequent larger vertical saccades and shifts between two main vertical bands, indicating alternating attention between search results, query box, and possibly other page elements\u2014most consistent with web search behavior compared to the more linear READ pattern or the more erratic PLAY and WATCH patterns.",
+  "correct": false
+}

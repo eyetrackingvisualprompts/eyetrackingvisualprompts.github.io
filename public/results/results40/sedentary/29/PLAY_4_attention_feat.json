@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated in the central region of the screen with some scattered points around, resembling tracking of a central game area rather than left-aligned text or code; this pattern best matches the PLAY example heatmap.",
+  "correct": true
+}

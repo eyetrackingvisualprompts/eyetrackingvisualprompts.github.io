@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades spanning wide screen areas (including corners and off-center regions), frequent vertical and diagonal movements between dispersed regions, and many revisits to dynamic locations are characteristic of visually tracking moving game elements rather than line-based reading or code-focused tasks, matching the PLAY patterns in the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered near the screen center with modest variability in both X and Y and frequent short saccades, closely matching the browsing template where gaze hovers around mid-screen while scrolling and scanning changing web content, unlike the more structured horizontal patterns of reading or writing or the larger excursions seen in play/watch/search.",
+  "correct": false
+}

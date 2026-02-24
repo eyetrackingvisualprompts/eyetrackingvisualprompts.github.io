@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly stable with very gradual drift and few saccades, indicating sustained attention to a central area of the screen consistent with passively watching a video rather than active reading, coding, searching, or gameplay that would show more frequent horizontal and vertical shifts.",
+  "correct": false
+}

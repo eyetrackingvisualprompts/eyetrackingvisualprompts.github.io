@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude, multi-directional saccades spanning wide screen regions (including jumps between extreme corners and center) interleaved with shorter fixations, indicative of tracking dynamic, spatially distributed game elements rather than the more line-structured, band-limited patterns of reading, writing, browsing, or search, or the more locally clustered watching behavior.",
+  "correct": false
+}

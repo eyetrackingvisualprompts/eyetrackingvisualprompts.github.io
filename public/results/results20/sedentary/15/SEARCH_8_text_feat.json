@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows long, sequential horizontal fixations clustered around similar vertical positions (y\u2248280\u2013290 and y\u2248360\u2013390), with smooth left-to-right progressions and occasional line shifts, closely matching text-line reading behavior seen in the READ example rather than the more scattered, multi-region exploration of BROWSE/SEARCH or the code-centric clusters of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

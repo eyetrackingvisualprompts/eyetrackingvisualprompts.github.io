@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains clustered near the screen center with very small, brief saccades and several long fixations (up to ~2.5 s), matching a central fixation task rather than large, structured movements (saccade tasks), systematic horizontal scanning (reading), or more dispersed, varied patterns (video/game).",
+  "correct": true
+}

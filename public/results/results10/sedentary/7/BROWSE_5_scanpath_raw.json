@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows a dense cluster around a central code/text area with several long saccades to far screen regions, resembling shifts between main content and other UI elements typical of search results navigation, matching the SEARCH exemplar pattern more than others.",
+  "correct": false
+}

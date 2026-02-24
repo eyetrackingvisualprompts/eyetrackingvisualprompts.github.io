@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades across wide horizontal and vertical extents, including to extreme/off-screen coordinates, with medium fixations and revisits to mid-page regions match the heterogeneous scanning seen in free web browsing rather than the more line-structured patterns of READ or the tighter code-focused patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

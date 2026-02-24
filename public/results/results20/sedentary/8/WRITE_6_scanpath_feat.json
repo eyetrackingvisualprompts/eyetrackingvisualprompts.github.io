@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly clustered on the left-middle region (likely reading a results list) with occasional long saccades to the right side (visiting result pages or other interface elements), matching the search example more than the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated along a single horizontal band in the upper half of the screen with smooth progression from left to right, consistent with tracking central content in a video rather than line-by-line reading or vertically-scrolling tasks like browsing, searching, or writing.",
+  "correct": false
+}

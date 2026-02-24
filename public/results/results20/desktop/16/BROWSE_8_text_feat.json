@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between mid/upper and lower screen regions with several long vertical saccades (e.g., from ~0.2 to ~0.7 in y) and fixations scattered across mid-height, resembling scanning result snippets and jumping between query box/top and results area. This mixed vertical navigation and local inspection pattern matches the SEARCH examples more than the more line-structured READ or the more central, content-stable WATCH/WRITE/BROWSE behaviors, and lacks the rapid, broad directional shifts typical of PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are tightly clustered around the screen center with limited spread, resembling focused viewing of a central content area like a webpage; this pattern closely matches the BROWSE example scanpath compared to the more dispersed (PLAY/SEARCH/WATCH) or more linear (READ/WRITE) patterns.",
+  "correct": false
+}

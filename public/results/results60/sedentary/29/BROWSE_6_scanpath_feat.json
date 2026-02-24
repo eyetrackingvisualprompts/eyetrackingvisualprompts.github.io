@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a small left-side area typical of a code editor, with occasional long saccades to the right (likely console or reference). Limited horizontal reading patterns and repeated vertical movements along a code column match the WRITE example more than other activities.",
+  "correct": false
+}

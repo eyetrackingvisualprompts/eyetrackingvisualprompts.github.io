@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small code area on the upper-left, with minimal excursions elsewhere, matching the focused, localized viewing seen in the INTERPRET example where participants inspect a short code snippet without scanning other regions like in WRITE or DEBUG.",
+  "correct": false
+}

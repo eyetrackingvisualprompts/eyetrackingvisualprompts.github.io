@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude shifts across wide screen regions (both horizontally and vertically) with relatively brief fixations and repeated relocations to different spatial clusters, matching the dynamic, multi-directional scanning pattern typical of game play rather than the more line-structured (READ/WRITE) or top-heavy (SEARCH/WATCH) patterns.",
+  "correct": false
+}

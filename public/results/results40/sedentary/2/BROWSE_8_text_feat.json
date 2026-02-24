@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Very large vertical and diagonal saccades between extreme top/bottom and off-screen coordinates, repeated jumps to far periphery, and scattered fixations resemble exploratory scrolling and page-switching behavior seen in BROWSE, rather than the more structured patterns of reading, coding, or watching video.",
+  "correct": true
+}

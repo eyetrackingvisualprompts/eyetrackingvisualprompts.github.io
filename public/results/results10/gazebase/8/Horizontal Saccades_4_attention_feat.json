@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two dense fixation clusters at similar vertical positions but far apart horizontally, matching the pattern of tracking a target moving back and forth along a horizontal line as in the Horizontal Saccades task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixation bands in both X and Y stay within a relatively narrow horizontal region and slowly drift, with frequent small saccades, closely matching the stable, dense reading-like pattern in the READ example and unlike the more scattered or vertically varied patterns in the other activities.",
+  "correct": true
+}

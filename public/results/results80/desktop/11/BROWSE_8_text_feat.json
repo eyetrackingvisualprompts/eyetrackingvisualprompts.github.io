@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid shifts across wide vertical and horizontal regions (including extremes near the screen edges), with many mid-duration fixations and frequent transitions between central and peripheral areas. This dynamic, dispersed pattern matches the PLAY examples more than the more line-structured (READ/WRITE), moderately vertical (SEARCH/BROWSE), or more centrally clustered (WATCH) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the upper-left and mid-top regions resembling attention to a search box and top results, with additional scattered fixations lower on the page similar to scanning search result snippets; the pattern best matches the SEARCH example heatmap.",
+  "correct": true
+}

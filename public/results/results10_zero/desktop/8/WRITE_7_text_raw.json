@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show long, stable fixations within narrow horizontal bands and occasional small vertical shifts, consistent with following lines of text. There are no large, rapid, multi-directional shifts typical of PLAY or SEARCH, nor broad central viewing patterns characteristic of WATCH or BROWSE, and there is no strong oscillation between text and an editing region that would suggest WRITE. The pattern best matches sustained reading behavior.",
+  "correct": false
+}

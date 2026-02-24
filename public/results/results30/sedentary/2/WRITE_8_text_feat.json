@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large horizontal saccades and repeated fixations along the top of the screen (likely search box / top results) plus jumps to mid/lower page regions and back resemble scanning search results rather than continuous line-by-line reading or code-focused tasks.",
+  "correct": false
+}

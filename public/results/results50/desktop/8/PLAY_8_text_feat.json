@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts span a moderate vertical range around mid-to-lower screen, with many medium-length saccades between nearby points and short-to-medium fixations, matching the mixed scanning and local reading behavior typical of web/news browsing rather than the more line-structured reading, highly top-focused watching, or peripheral-dominated play patterns in the examples.",
+  "correct": false
+}

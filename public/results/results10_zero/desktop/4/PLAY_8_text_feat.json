@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations interleaved with frequent, multi-directional saccades spanning large vertical and horizontal distances, with no clear monotonic line-by-line scanning (typical of reading) and no tight clustering around a small area (typical of writing). The pattern suggests exploring different screen regions such as headlines, images, and navigation elements, which is most consistent with web browsing behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is confined to an upper-middle band with long, stable fixations and small vertical/horizontal adjustments around (0.5\u20130.7), closely matching the SEARCH example\u2019s behavior near the results snippet area, and differing from the more vertical scanpaths of READ and the more dispersed movements of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

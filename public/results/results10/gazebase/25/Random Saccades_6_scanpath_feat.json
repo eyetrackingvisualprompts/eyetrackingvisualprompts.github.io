@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points are scattered across a wide 2D area with irregular, multi-directional jumps and no clear horizontal structure or central fixation cluster, matching the pattern of following a randomly moving target rather than reading, video viewing, or strictly horizontal saccades.",
+  "correct": true
+}

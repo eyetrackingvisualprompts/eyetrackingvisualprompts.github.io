@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The fixation patterns show relatively steady horizontal scanning with gradual vertical shifts and moderate saccades, closely resembling the structured line-by-line movement seen in the READ example rather than the more scattered patterns of BROWSE/SEARCH or the dynamic shifts of PLAY/WATCH.",
+  "correct": false
+}

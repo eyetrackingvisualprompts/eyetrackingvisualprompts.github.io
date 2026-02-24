@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is clustered over a compact central-left region with frequent small saccades and a few longer jumps, resembling intense code inspection and occasional shifts to other areas, which best matches the DEBUG example pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze moves smoothly and repeatedly along a mostly horizontal band with small regressions and progressions, and occasional line shifts downward, forming a dense left-to-right scanning pattern over a constrained vertical region\u2014characteristic of reading text rather than code editing, browsing with large scrolls, or dynamic object tracking in games or video.",
+  "correct": true
+}

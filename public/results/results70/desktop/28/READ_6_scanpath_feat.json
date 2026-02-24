@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Highly clustered horizontal scanpath with limited vertical range and regular left-to-right movements matches the typical pattern of reading text on a screen, distinct from the more scattered or multi-directional patterns of browse, search, or play.",
+  "correct": true
+}

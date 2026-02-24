@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact code-like region with short saccades and many revisits to nearly identical coordinates, indicative of repeatedly checking and updating nearby lines (e.g., editing code), which matches the WRITE patterns more than the more linear scans of READ or the broader navigation of SEARCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze coordinates show repeated large-amplitude horizontal transitions between positive and negative visual angles (approximately \u00b115 degrees) with relatively small vertical variation, consistent with tracking a target moving horizontally across the screen rather than random or text-driven movements.",
+  "correct": false
+}

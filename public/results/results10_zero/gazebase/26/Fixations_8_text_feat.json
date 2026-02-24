@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Nearly the entire 10s window is spent in a small cluster of closely spaced fixation points with minimal spatial displacement and no systematic horizontal or random large-amplitude movements; this pattern best matches sustained fixation on a static central target rather than structured saccade tasks, reading, gaming, or video viewing.",
+  "correct": true
+}

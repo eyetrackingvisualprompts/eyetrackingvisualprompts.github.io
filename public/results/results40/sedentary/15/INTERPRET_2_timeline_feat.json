@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact horizontal band with relatively small vertical range, indicating focus on a single code snippet without much scrolling; this closely matches the INTERPRET example pattern versus the broader, more scattered movements seen in tasks like BROWSE, SEARCH, or DEBUG.",
+  "correct": true
+}

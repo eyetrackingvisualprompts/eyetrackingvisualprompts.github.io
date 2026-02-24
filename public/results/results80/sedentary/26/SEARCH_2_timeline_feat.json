@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movements with frequent saccades between two main vertical bands and occasional larger jumps, indicating repeated shifts between a central results list and other areas (e.g., search box or new pages), which best matches the SEARCH pattern compared to the more linear READ or more dynamically dispersed PLAY/WATCH behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent vertical and horizontal shifts with dispersed fixations across the screen, resembling dynamic scene viewing. It lacks the structured line-by-line horizontal progression of READ or the more localized, code-area focus of programming tasks, and instead matches the WATCH example\u2019s broad exploratory pattern during video watching.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are widely scattered across both horizontal and vertical dimensions with frequent saccades among many regions, resembling exploratory viewing of varied page elements, which matches the browsing pattern more than the more localized or structured patterns of read, write, watch, search, or play.",
+  "correct": false
+}

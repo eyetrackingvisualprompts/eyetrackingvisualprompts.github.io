@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a small left-center region with some vertical spread and minor lower-screen glances, closely matching the INTERPRET example pattern of sustained focus on a single code snippet, more localized than DEBUG and WRITE while still allowing occasional checks elsewhere.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are densely clustered around the central area with frequent, rapid saccades covering a mid-screen region and some vertical excursions, closely matching the dynamic, object-following scanpath pattern seen in the PLAY example and differing from the more structured line-based patterns of reading/browsing or the left-biased code-related tasks.",
+  "correct": true
+}

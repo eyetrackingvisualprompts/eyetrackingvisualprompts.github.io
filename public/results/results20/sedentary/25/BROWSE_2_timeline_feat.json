@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-size vertical shifts with revisits, suggesting comparison between multiple vertically arranged items (e.g., search results) rather than continuous line-by-line reading or code-focused tasks. This pattern best matches the SEARCH example among the provided classes.",
+  "correct": false
+}

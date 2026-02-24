@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows frequent medium-range horizontal and vertical shifts around a few code lines rather than systematic line-by-line reading or large exploratory jumps, matching the concentrated yet scanning pattern seen in the DEBUG example more than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows wide exploratory movements across large screen regions with multiple revisits and scattered fixations, resembling the heterogeneous, multi-area scanpath typical of examining search results rather than the more localized patterns of READ/INTERPRET or the focused regions of WATCH/PLAY.",
+  "correct": true
+}

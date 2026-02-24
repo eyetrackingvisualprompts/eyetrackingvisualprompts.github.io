@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is almost static around a single screen location with very long fixations and only tiny jitter-like saccades, indicating passive viewing of a stable region rather than active scanning, reading, writing, or interactive control; this pattern best matches the WATCH condition where viewers often maintain prolonged fixations on central content in a video.",
+  "correct": false
+}

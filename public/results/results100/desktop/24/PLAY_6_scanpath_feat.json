@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows dispersed fixations around the central area with moderate saccade amplitudes in various directions, resembling the exploratory, less-structured gaze pattern of browsing rather than the linear horizontal movements of reading/writing or the wider, more dynamic spread of play/watch/search.",
+  "correct": false
+}

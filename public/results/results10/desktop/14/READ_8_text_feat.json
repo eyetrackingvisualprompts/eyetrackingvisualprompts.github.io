@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster in a small mid-upper region with short horizontal and slight vertical shifts, resembling scanning of a web/news header or menu area rather than line-by-line reading, focused lower text entry, wide exploratory search, continuous video watching, or large-amplitude gaming movements. The spatial-temporal pattern best matches the BROWSE example behavior near the upper-middle screen.",
+  "correct": false
+}

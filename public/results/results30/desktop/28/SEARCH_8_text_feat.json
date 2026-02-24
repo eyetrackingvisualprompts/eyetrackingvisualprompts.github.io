@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades covering wide screen regions (from upper-right to lower-left, then to corners and center) with short and medium fixations, including jumps between HUD-like top/bottom areas and central regions, match the dynamic, multi-directional gaze behavior seen in the PLAY examples rather than the more line-structured or column-structured patterns of READ/WRITE/BROWSE/SEARCH or the more localized WATCH patterns.",
+  "correct": false
+}

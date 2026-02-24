@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze starts near lower-left region (likely search box/keyboard area) then moves upward to a horizontal band across mid\u2011top where it remains, consistent with reading search results and snippets rather than continuous text (READ) or code (INTERPRET/DEBUG/WRITE).",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show relatively stable, horizontally centered x with small jitter and slower vertical shifts between a few bands, consistent with line-by-line reading on static text rather than the larger, multi-directional movements expected in browsing, searching, gaming, video watching, or writing.",
+  "correct": false
+}

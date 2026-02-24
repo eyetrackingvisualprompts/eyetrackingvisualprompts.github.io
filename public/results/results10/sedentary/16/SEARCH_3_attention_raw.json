@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Strong fixation on a top-left region consistent with code editor text, plus additional fixations along a lower horizontal band similar to console or other IDE areas, matching the WRITE example more than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze coordinates show predominantly horizontal movements within constrained vertical bands, with frequent short saccades and long fixations around mid-screen\u2014characteristic of line-by-line reading rather than the larger, more scattered exploratory saccades typical of browsing, searching, gaming, or watching dynamic videos.",
+  "correct": false
+}

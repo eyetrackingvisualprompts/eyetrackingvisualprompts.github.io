@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Predominantly localized fixations and short saccades around mid-code regions with frequent vertical shifts between code and upper interface areas, plus occasional jumps to top-of-screen coordinates, closely match the WRITE examples where participants alternate between editing code and briefly checking other UI elements rather than the more line-structured READ/SEARCH or object-tracking PLAY/WATCH patterns.",
+  "correct": true
+}

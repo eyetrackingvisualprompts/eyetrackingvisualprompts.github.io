@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows a compact cluster of distinct fixation locations within a limited central area, with relatively abrupt shifts between them and no systematic horizontal pattern. This matches a bull\u2019s-eye jumping to random positions near the center (random saccades), rather than the near-static center (fixation), wide horizontal sweeps (horizontal saccades or reading), dispersed exploration (video), or more scattered object-directed movements (game).",
+  "correct": false
+}

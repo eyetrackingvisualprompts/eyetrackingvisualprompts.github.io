@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shows code-like horizontal scanning with moderate vertical shifts between a few lines, plus occasional larger saccades and revisits, matching the example DEBUG pattern more than the steadier INTERPRET or WRITE patterns or the more rhythmic READ behavior.",
+  "correct": false
+}

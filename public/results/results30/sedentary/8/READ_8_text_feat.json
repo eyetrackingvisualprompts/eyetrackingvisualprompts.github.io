@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows systematic, line-by-line horizontal scanning across a narrow vertical band, with long fixations and regular return sweeps from right edge back to left at slightly lower y-coordinates\u2014characteristic of continuous text reading rather than code (INTERPRET/DEBUG/WRITE) or dynamic/game/video tasks.",
+  "correct": true
+}

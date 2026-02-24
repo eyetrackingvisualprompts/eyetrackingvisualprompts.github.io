@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Reading",
+  "reason": "The gaze remains within a narrow spatial region with short, localized saccades and frequent medium-length fixations (~0.25\u20131.4s), without large systematic horizontal sweeps or long-amplitude jumps characteristic of tracking tasks. This compact, fine-grained pattern is most consistent with reading rather than game play, random or horizontal saccades, video viewing, or static fixation.",
+  "correct": false
+}

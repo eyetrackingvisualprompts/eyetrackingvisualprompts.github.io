@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "X fixation stays around a central band with moderate horizontal variation while Y fixation shifts between two main vertical regions and includes frequent saccades\u2014matching the pattern of moving between query box, results, and other page elements typical of web search, and differing from the more stable READ/WRITE and more scattered PLAY/WATCH/BROWSE patterns.",
+  "correct": false
+}

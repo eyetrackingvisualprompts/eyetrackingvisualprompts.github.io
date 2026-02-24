@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are concentrated near the screen center with moderate dispersion in both horizontal and vertical directions, resembling the SEARCH example pattern more than the others, which fits scanning a search results page and related content.",
+  "correct": true
+}

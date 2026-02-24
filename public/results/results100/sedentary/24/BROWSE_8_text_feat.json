@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze repeatedly tracks along horizontal bands around mid-screen (y\u2248350\u2013600) with many rapid long saccades to extreme screen regions and back, plus excursions toward screen edges and corners. This pattern\u2014continuous following of moving targets and frequent large reorientations\u2014matches the dynamic, object-following behavior seen in PLAY examples (e.g., Pong/Agario), rather than the more line-structured reading/searching or code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are concentrated in a central region with medium dispersion and frequent shifts among nearby areas, resembling the mixed vertical and horizontal navigation seen while scrolling and skimming web pages, which matches the BROWSE pattern more than the more structured horizontal READ or localized WRITE behaviors or the wider PLAY/WATCH movements.",
+  "correct": false
+}

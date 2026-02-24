@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-left screen with frequent short fixations and medium-amplitude vertical and horizontal saccades, including repeated up/down movements resembling scanning across and between web content blocks. The pattern and coordinate ranges closely match the BROWSE exemplar and differ from the more top-focused (WRITE), text-line horizontal (READ), or more dispersed/search-transition (SEARCH, PLAY, WATCH) behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered around mid-screen with moderate horizontal drift and variable vertical shifts, similar to scanning mixed web page content; the pattern closely matches the provided BROWSE example more than the steadier READ or more dynamic PLAY/WATCH trajectories.",
+  "correct": true
+}

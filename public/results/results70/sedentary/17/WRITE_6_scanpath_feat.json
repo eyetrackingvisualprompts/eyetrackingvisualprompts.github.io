@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations over a compact left-side code area with recurrent long saccades to the right edge (likely console/run button or other IDE UI) match the WRITE example scanpath more closely than debug or interpret patterns.",
+  "correct": true
+}

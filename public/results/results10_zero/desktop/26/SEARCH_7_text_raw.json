@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent large-amplitude saccades across wide screen regions (including corners and edges), rapid shifts between dispersed clusters, and less structured horizontal-line or paragraph-like scanning. This broad, dynamic exploration pattern is more consistent with visually tracking and navigating game elements in PLAY than with the more localized, line-based or vertically scrolling patterns typical of READ, WRITE, SEARCH, or BROWSE, or the more constrained focal regions of WATCH.",
+  "correct": false
+}

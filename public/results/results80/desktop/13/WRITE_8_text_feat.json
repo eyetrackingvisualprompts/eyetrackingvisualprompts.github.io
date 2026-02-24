@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small upper region with very long, repeated fixations and tiny local saccades, showing minimal horizontal scanning and almost no vertical progression, matching looking at and editing a single area while typing, unlike the broader exploratory or line-by-line scan patterns of READ, SEARCH, BROWSE, PLAY, or WATCH.",
+  "correct": true
+}

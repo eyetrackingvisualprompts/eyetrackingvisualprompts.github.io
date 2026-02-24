@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze pattern shows medium-duration fixations interspersed with several long, smooth saccades across large screen areas, including major vertical and horizontal shifts without a clear reading line structure or systematic scanning typical of text or code. The broad spatial coverage and large jumps are more consistent with following visual content in a full-screen video than with the tighter, line- or element-based patterns of READ, WRITE, DEBUG, INTERPRET, SEARCH, or BROWSE, and lack the tight object-tracking focus expected in simple PLAY games like Pong or Mario.",
+  "correct": false
+}

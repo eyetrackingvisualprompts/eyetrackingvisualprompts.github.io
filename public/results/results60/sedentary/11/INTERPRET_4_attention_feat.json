@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a single compact region on the upper-left where a small code snippet would appear, with very few fixations elsewhere, closely matching the focused, localized pattern shown in the INTERPRET example heatmap rather than the more spread or multi-region patterns of other tasks.",
+  "correct": true
+}

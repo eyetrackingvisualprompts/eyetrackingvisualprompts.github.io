@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze covers almost the entire screen with long, frequent saccades in many directions and relatively few tight clusters, indicating dynamic tracking of changing visual content rather than localized reading or code-focused work. This broad, continuous movement pattern best matches the WATCH (video viewing) activity.",
+  "correct": false
+}

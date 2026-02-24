@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations span a wide horizontal region with multiple semi-structured bands, resembling scanning across varied web content rather than the more centrally clustered READ pattern or the tight code-focused clusters of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

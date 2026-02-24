@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly smooth, left-to-right, slightly upward horizontal sweeps across a wide portion of the screen with relatively regular spacing, consistent with line-by-line reading behavior and most similar to the READ example compared to the other activities.",
+  "correct": true
+}

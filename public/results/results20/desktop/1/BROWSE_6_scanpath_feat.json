@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows dispersed fixations across a mid-screen region with frequent saccades between different vertical and horizontal locations, indicating exploration of multiple interface elements and results typical of web search rather than the more linear patterns of reading or localized patterns of writing/browsing.",
+  "correct": false
+}

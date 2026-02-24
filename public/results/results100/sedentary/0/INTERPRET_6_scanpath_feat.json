@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a compact area on the upper-left side of the screen, similar to the INTERPRET example where code is shown in a small IDE pane, with limited horizontal spread and focused fixations rather than wider exploration seen in BROWSE or SEARCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a single mid-screen horizontal band with a modest horizontal span and limited vertical spread, consistent with focusing on a single text line and nearby interface elements during typing, rather than the wider left-to-right, multi-line sweeps of reading or the larger, scattered exploration seen in search, browse, watch, or play activities.",
+  "correct": false
+}

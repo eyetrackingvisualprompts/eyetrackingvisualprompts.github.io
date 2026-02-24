@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-central code area with frequent vertical and diagonal transitions (between lines, error locations, and outputs) and occasional larger saccades, matching the dense, revisiting scanpath typical of debugging rather than the more localized INTERPRET or WRITE patterns.",
+  "correct": false
+}

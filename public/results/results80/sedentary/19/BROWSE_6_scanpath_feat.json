@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows extended fixations over vertically distributed regions on the left (likely results list) with frequent horizontal saccades toward the right area (detailed content or answer panel), matching the mixed exploration and reading pattern typical of search-engine use rather than continuous text reading or coding-focused tasks.",
+  "correct": false
+}

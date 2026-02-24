@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, clustered fixations around the left\u2011center area typical of code, with frequent medium\u2011range saccades to nearby regions and occasional long jumps to the far right/bottom, closely matching the DEBUG example scanpath rather than the more centralized PLAY or dispersed SEARCH/BROWSE patterns.",
+  "correct": false
+}

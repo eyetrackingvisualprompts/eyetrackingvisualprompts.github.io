@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower half of the screen with relatively stable horizontal positions and limited vertical range, resembling focus on a writing area rather than wide vertical scanning as in reading or browsing, and lacking the large shifts typical of search, watch, or play tasks.",
+  "correct": false
+}

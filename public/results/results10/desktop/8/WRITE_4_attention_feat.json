@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a small lower-central region with limited horizontal spread, unlike the left-aligned bands of READ/WRITE or the wide scattered patterns of SEARCH/BROWSE/PLAY. This localized cluster is consistent with watching a video area (e.g., character region) rather than scanning text or interactive content.",
+  "correct": false
+}

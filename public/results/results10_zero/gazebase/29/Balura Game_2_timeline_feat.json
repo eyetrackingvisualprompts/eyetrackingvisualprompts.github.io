@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze position shows discrete jumps to varying X and Y locations across both horizontal and vertical axes, with each position held briefly before moving elsewhere in a non-regular pattern, matching the behavior of following a randomly moving target rather than purely horizontal motion, central fixation, reading, video viewing, or game-specific refixations.",
+  "correct": false
+}

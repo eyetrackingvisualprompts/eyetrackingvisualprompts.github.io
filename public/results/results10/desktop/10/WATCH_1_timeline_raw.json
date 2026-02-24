@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several abrupt vertical and horizontal shifts between distinct horizontal bands (around 1.5\u20133 s, 2.8\u20133.2 s, 4.8\u20135.2 s, and 9\u20139.5 s), with relatively stable scanning within bands in between. This pattern matches moving between search box, results list, and different pages typical of SEARCH, rather than the smoother, more uniform scans of READ or the more erratic movements of PLAY or WATCH.",
+  "correct": false
+}

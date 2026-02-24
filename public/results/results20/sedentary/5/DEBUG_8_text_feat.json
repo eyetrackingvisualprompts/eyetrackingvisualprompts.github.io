@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region with short, back\u2011and\u2011forth saccades and medium-length fixations, indicating detailed inspection of a small code snippet rather than long horizontal sweeps (reading/browsing) or wide exploratory movements (search/watch/play). The pattern closely matches the INTERPRET examples, where participants scrutinize and re-check a single function\u2019s lines to reason about its output.",
+  "correct": false
+}

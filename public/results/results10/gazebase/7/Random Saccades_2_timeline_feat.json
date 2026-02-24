@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze exhibits large, irregular jumps in both horizontal and vertical directions with varying amplitudes and positions, matching the non-periodic, multi-directional target movement of the Random Saccades task rather than the structured patterns of reading, horizontal-only saccades, or game/video behavior.",
+  "correct": true
+}

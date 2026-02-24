@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The data shows large, frequent saccades and broad coverage of both X and Y axes, especially in the latter half, indicating rapid gaze shifts across the screen typical of visually tracking moving game elements rather than the more localized, structured patterns seen in reading, coding, or browsing tasks.",
+  "correct": false
+}

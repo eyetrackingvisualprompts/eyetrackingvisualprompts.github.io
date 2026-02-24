@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts across wide screen regions (including extremes and corners), with many vertical and diagonal saccades between dispersed clusters and relatively short, variable fixations\u2014matching the dynamic, multidirectional scanning seen in the PLAY examples rather than the more constrained horizontal bands (READ/WRITE/SEARCH/BROWSE) or longer, more stable regions typical of WATCH.",
+  "correct": false
+}

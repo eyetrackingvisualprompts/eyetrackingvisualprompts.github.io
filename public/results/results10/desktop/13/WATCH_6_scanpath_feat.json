@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered around the screen center with moderate vertical and horizontal shifts, indicating scanning of mixed content (text, images, links). The pattern is more dispersed than structured reading or writing, but less wide-ranging than search or gameplay, closely matching the example BROWSE scanpath.",
+  "correct": false
+}

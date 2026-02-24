@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread across multiple horizontal regions with long saccades between left and right areas typical of moving between search results and content snippets, unlike the more localized and structured patterns of coding or reading tasks.",
+  "correct": false
+}

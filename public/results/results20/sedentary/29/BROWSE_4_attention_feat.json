@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are broadly distributed across the horizontal midline and multiple vertical levels, with no tight cluster on code or text blocks. This wide spatial coverage and continuous spread resemble the WATCH example, where gaze follows moving visual content over much of the screen, rather than the more localized or structured patterns seen in reading, coding, or browsing tasks.",
+  "correct": false
+}

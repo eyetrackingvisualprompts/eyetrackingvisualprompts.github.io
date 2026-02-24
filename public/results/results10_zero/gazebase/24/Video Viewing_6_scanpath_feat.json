@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points are tightly clustered near the screen center with only small local shifts and no large horizontal or random jumps, indicating sustained central fixation on a static target rather than tracking moving stimuli or reading lines of text.",
+  "correct": false
+}

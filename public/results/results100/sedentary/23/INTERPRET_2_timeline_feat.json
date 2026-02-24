@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows relatively focused, code-like reading around a narrow vertical band with intermittent vertical shifts and bursts of saccades\u2014more scattered than INTERPRET but more structured than BROWSE/SEARCH\u2014matching the exploratory, back-and-forth inspection typical of debugging code in an IDE.",
+  "correct": false
+}

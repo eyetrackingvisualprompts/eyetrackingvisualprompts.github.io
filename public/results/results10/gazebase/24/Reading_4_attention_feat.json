@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "Fixations are clustered in a compact central region with irregular, organic distribution rather than in clearly structured horizontal lines (reading) or widely spread/random positions (random saccades/game). The pattern best matches the example heatmap for Video Viewing, indicating natural free-viewing of dynamic content.",
+  "correct": false
+}

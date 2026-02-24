@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions, repeated returns to similar mid-screen bands, many visits between central, top, and bottom areas, and strong object-following style trajectories resemble dynamic tracking of moving game elements more than the more structured, horizontal scanpaths of READ/SEARCH or the localized, code-centered patterns of DEBUG/WRITE/INTERPRET. The pattern best matches the PLAY examples.",
+  "correct": false
+}

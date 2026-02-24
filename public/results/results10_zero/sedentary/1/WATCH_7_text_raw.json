@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves continuously across wide screen areas, including large vertical and horizontal shifts without clear line-by-line or code-structured scanning. The pattern shows fluid, scene-level exploration with clusters on different regions rather than systematic reading, searching, or focused code inspection\u2014characteristic of watching dynamic visual content like a video.",
+  "correct": true
+}

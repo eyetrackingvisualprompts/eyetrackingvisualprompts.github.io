@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is confined to a relatively small central-lower region with short saccades and scattered fixations lacking strong horizontal line structure or large exploratory jumps, matching the browsing example more than the more extensive motion in PLAY/SEARCH or the linear patterns in READ/WRITE/WATCH.",
+  "correct": false
+}

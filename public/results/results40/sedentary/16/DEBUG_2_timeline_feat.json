@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal movements with intermittent vertical shifts and scattered saccades, indicating transitions between a results list and selected items, matching the SEARCH example pattern more closely than the more stable code-reading/writing patterns or the highly dynamic WATCH/PLAY behaviors.",
+  "correct": false
+}

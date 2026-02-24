@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows long horizontal fixations around a single text line near the top (typical of reading a search results snippet or query) interleaved with rapid, large saccades between widely separated vertical regions (top text, mid-page band, and near-bottom areas), matching the scan\u2013read\u2013jump pattern seen in the SEARCH example more than the more uniform line-by-line progression of READ or the tighter code-focused clusters of INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a code/editor area on the left and center with occasional long saccades toward the far right/top (likely to UI elements such as run/console), matching the focused but periodically shifting pattern seen in the WRITE example rather than the more scattered or text-line-based patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions, frequent returns to central bands, and many movements between midline and edges/upper and lower areas resemble tracking game elements and UI in an action game more than the more line-structured, columnar, or code-block-focused patterns in READ/WRITE/DEBUG/INTERPRET/SEARCH; the dynamics and spatial spread closely match the PLAY examples.",
+  "correct": false
+}

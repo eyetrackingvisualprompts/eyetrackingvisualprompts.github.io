@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, irregular horizontal and vertical movements with frequent medium-size saccades and varying fixation levels, resembling mixed reading and scanning behavior seen on heterogeneous webpages, which matches the BROWSE pattern more than the more structured READ/WRITE or the stronger motion in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

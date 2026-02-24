@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular movements spanning a sizeable central region of the screen in both horizontal and vertical directions, with positions held briefly before jumping elsewhere, matching the pattern of following a randomly moving target rather than structured reading, smooth horizontal tracking, central fixation, gameplay on multiple items, or natural video viewing.",
+  "correct": false
+}

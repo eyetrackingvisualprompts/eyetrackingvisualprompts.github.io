@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The fixation traces are relatively steady and centered with small, regular horizontal shifts and limited large saccades, closely matching the structured, line-by-line pattern seen in the READ example rather than the more dispersed or dynamic patterns of browsing, search, play, or watch tasks.",
+  "correct": false
+}

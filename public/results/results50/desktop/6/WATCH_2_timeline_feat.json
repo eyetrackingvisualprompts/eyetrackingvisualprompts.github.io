@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper half of the screen (high Y) with relatively low X values and moderate vertical shifts, resembling looking at a text area while occasionally glancing down, which matches the writing pattern rather than the broader scans seen in browsing, searching, reading, or watching, or the more dispersed movements in playing games.",
+  "correct": false
+}

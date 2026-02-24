@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixation cluster is concentrated in the upper-central region with some spread downward and slightly rightward, closely resembling the SEARCH example heatmap\u2019s pattern over a search box and result snippets, rather than the more central (BROWSE) or horizontal text-line distributions (READ/WRITE).",
+  "correct": true
+}

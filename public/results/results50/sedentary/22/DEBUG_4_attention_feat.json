@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely concentrated in the upper-left coding area with a vertical extension consistent with viewing several lines of code while typing, closely matching the WRITE example pattern and less dispersed than DEBUG or WATCH.",
+  "correct": false
+}

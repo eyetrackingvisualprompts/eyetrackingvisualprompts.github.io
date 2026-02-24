@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with repeated regressions between nearby coordinates (around x\u2248120\u2013180, y\u2248250\u2013420), long fixations, and many short saccades within this tight area, matching the highly localized, back-and-forth inspection pattern seen in INTERPRET examples rather than the broader scanning of WRITE/DEBUG or the horizontal sweeps of READ/BROWSE/SEARCH.",
+  "correct": true
+}

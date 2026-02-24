@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a relatively narrow vertical band on the left side of the screen with little spread horizontally, consistent with focusing on a code editor pane while typing, rather than scanning across lines (READ/INTERPRET/DEBUG) or tracking moving objects or rich visuals (PLAY/WATCH/BROWSE/SEARCH).",
+  "correct": false
+}

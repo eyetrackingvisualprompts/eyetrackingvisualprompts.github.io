@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow lower-central band (y\u22480.23\u20130.48) with long, stable fixations and small local adjustments, consistent with monitoring a single text line and nearby cursor while typing, unlike the broader vertical spans and line-by-line horizontal sweeps seen in READ or the more scattered exploratory patterns of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

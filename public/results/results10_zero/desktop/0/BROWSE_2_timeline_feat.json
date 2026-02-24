@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows mostly horizontal fixations around mid-screen with small progressive shifts in both X and Y, consistent with line-by-line reading rather than large exploratory movements or rapid multi-directional shifts typical of browsing, searching, watching videos, playing games, or writing.",
+  "correct": false
+}

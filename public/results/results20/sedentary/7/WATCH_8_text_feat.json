@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen areas (center to far edges, large vertical jumps), with many revisits to mid-lower regions, match dynamic object tracking and navigation typical of game play rather than the more line-structured, locally clustered patterns of reading/searching or code-related tasks.",
+  "correct": false
+}

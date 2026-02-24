@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide, frequent shifts between distant screen regions (including extremes and off-center areas), mixed with medium-duration fixations over varied vertical positions, resemble exploratory, non-linear webpage navigation more than focused reading, coding, or continuous object tracking patterns seen in other classes.",
+  "correct": false
+}

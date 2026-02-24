@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "X and Y positions show step-like changes to various horizontal and vertical locations with plateaus of about 1 s, matching a target that jumps to random positions across the screen and is held briefly, consistent with Random Saccades rather than purely horizontal motion, static fixation, reading, video viewing, or the game pattern.",
+  "correct": false
+}

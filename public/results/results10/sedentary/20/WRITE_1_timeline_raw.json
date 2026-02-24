@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y positions stay within a narrow horizontal band with occasional brief spikes in Y and small X shifts, closely matching the stable, code-focused gaze with occasional reference switches seen in the WRITE example plot, rather than the larger excursions or scanning patterns of other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions jump between spatially separated points across the screen in both horizontal and vertical directions, with relatively few clustered fixations and no clear linear (reading) pattern or continuous tracking as in video; this best matches following a randomly moving target.",
+  "correct": true
+}

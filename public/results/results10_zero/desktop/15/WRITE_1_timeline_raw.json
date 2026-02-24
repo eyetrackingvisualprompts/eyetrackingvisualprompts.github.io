@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show repeated, fairly regular horizontal sweeps with smaller vertical shifts, consistent with reading lines of text and returning to the next line, rather than the larger multidirectional movements typical of search, browse, or play activities.",
+  "correct": false
+}

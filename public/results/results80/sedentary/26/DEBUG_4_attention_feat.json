@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a narrow vertical strip on the upper-left code area with minimal spread elsewhere, matching the INTERPRET example more closely than DEBUG (which is slightly lower and broader) or WRITE (which is more horizontally elongated).",
+  "correct": false
+}

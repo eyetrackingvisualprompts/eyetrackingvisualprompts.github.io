@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze remains mostly within a central code-like region with repeated short saccades among nearby coordinates, interspersed with occasional larger jumps to other screen areas (e.g., from mid-code to top/upper-left and back), consistent with inspecting and re-checking parts of source code during debugging rather than the more linear patterns of reading or the highly dynamic, edge-to-edge movements typical of games or browsing.",
+  "correct": false
+}

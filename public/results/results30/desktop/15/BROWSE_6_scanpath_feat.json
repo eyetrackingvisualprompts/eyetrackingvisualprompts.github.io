@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows clustered fixations around the screen center with moderate vertical and horizontal movement and frequent shifts between nearby regions, closely resembling the BROWSE example pattern and differing from the more linear READ/WRITE patterns or the more peripheral WATCH/PLAY patterns.",
+  "correct": true
+}

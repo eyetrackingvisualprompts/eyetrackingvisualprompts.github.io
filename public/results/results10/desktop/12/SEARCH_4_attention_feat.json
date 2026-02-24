@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around a central region with moderate horizontal spread and limited vertical motion, similar to the browsing example and less extended horizontally than typical reading patterns, indicating focus on a central content block like in web browsing.",
+  "correct": false
+}

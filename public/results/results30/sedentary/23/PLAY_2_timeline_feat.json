@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal, line-like progressions with relatively stable Y fixations and moderate saccades, closely matching the example READ pattern rather than the more scattered or erratic movements seen in tasks like PLAY, WATCH, or BROWSE.",
+  "correct": false
+}

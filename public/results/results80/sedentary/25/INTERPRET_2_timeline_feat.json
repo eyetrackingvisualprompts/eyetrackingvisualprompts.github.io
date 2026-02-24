@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow central band with moderate, sporadic vertical saccades\u2014similar to the WRITE example where attention stays mainly on a code editor area with occasional checks elsewhere, and unlike the broader, more exploratory or strongly patterned movements seen in READ, SEARCH, PLAY, or BROWSE.",
+  "correct": false
+}

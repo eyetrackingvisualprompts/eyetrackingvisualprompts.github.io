@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal scanpaths around a mid-screen y-level with repeated left-right sweeps, intermittent large jumps to other regions (including off-screen coordinates), and no tight line-by-line pattern typical of structured reading or code; this mixed exploratory navigation with occasional top-of-page checks best matches web browsing behavior.",
+  "correct": false
+}

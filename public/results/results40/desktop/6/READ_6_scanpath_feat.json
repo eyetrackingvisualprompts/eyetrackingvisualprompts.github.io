@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated cluster with small vertical range and systematic left-right movements, characteristic of line-by-line text reading rather than the wider, more scattered patterns of browsing, searching, gaming, watching video, or writing (which tends to be higher on the screen).",
+  "correct": true
+}

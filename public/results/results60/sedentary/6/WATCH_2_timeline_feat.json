@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows two distinct horizontal bands (results list and a lower area) with frequent medium-to-large vertical saccades and shifts, resembling scanning search results and then moving to content, matching the SEARCH example pattern more than the others.",
+  "correct": false
+}

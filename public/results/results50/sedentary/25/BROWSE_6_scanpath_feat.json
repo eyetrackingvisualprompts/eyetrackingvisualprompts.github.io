@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are distributed broadly across the central horizontal region with frequent medium-length saccades and no clear line-by-line pattern or columnar clustering typical of code or text reading/debugging. The dynamic, spread-out scanpath resembles tracking moving game elements more than focused tasks like READ, WRITE, or INTERPRET.",
+  "correct": false
+}

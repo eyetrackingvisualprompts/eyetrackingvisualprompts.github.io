@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long horizontal scan paths near several vertically spaced horizontal bands (around y\u2248500\u2013650 and y\u2248130\u2013200) with repeated left-right sweeps and occasional large jumps to the top region strongly resemble scrolling and scanning of a web page or list, matching the BROWSE pattern more than the more focused, line-locked READ behavior or the code-centric tasks.",
+  "correct": true
+}

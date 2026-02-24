@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central area with limited horizontal spread, matching the localized attention pattern seen in the BROWSE example rather than the wider horizontal scan of READ or dispersed patterns of PLAY/SEARCH/WATCH/WRITE.",
+  "correct": false
+}

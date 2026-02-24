@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points form a compact cluster in the central area with moderate vertical range and limited horizontal spread, similar to the BROWSE example pattern and distinct from the more linear READ/WRITE patterns or upper-screen WATCH pattern.",
+  "correct": false
+}

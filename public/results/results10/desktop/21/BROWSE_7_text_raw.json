@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-amplitude shifts between several nearby horizontal bands with intermittent jumps to different vertical regions, then stabilizing again\u2014indicative of scanning changing layouts/sections on a webpage. It lacks the tight, line-by-line horizontal progression of READ or WRITE and the highly dynamic, wide-range movements of PLAY or WATCH, aligning best with BROWSE patterns in the examples.",
+  "correct": true
+}

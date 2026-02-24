@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and short saccades clustered in a compact code/IDE area with frequent revisits and long pauses, plus occasional large jumps to peripheral regions and long idle intervals, best match the sustained, localized visual attention and intermittent UI checks characteristic of writing/implementing code rather than reading, debugging, or browsing more broadly distributed content.",
+  "correct": false
+}

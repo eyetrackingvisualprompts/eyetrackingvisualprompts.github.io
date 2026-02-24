@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanpaths across multiple nearby vertical bands (y\u2248500\u2013960) with smooth, regular left-to-right sweeps and periodic jumps downward, resembling scrolling through long web content; later similar horizontal sweeps near the top region (y\u224880\u2013190) suggest moving to another section or page, matching browsing behavior more than reading a fixed passage or any coding/game tasks.",
+  "correct": false
+}

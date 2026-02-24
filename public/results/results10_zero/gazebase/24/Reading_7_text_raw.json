@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between stable clusters at distinct horizontal positions with relatively small vertical variation, consistent with following a target moving back and forth along a horizontal axis rather than the more 2D, irregular movements expected in random saccades, reading, video viewing, or gaming.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several distinct episodes of vertical shifts between two main Y-bands with moderate horizontal progression, plus frequent medium-to-large saccades, matching the pattern of moving between search results, snippets, and opened pages rather than the steadier line-by-line motion of READ or the more localized code-focused tasks like WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

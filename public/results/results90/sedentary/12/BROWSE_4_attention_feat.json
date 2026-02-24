@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixation pattern is spread horizontally near the top of the screen with multiple dispersed clusters and some vertical movements, closely matching the SEARCH example heatmap where users scan result titles and snippets across the page rather than focusing on a central object or dense text block.",
+  "correct": false
+}

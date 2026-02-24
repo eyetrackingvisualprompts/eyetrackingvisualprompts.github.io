@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in central and upper\u2011middle screen regions with many short fixations and medium\u2011amplitude vertical and horizontal saccades, including frequent jumps between mid\u2011page and higher/lower areas. This resembles scanning and navigating heterogeneous web content (menus, article titles, snippets) more than the more line-structured, banded horizontal patterns of READ or the more localized behavior of WRITE; it also lacks the extreme, rapid multi-directional shifts typical of PLAY or the more stable, scene-focused clusters of WATCH and SEARCH examples.",
+  "correct": true
+}

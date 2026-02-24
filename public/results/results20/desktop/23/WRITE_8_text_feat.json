@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze exhibits frequent long saccades between widely separated regions (including toward screen edges) with relatively brief, scattered fixations and multi-directional movements, which aligns more with dynamic visual exploration during gameplay than with the more line-structured, centrally clustered patterns seen in READ, WRITE, BROWSE, or SEARCH, and differs from the upper-screen, banded pattern typical of WATCH.",
+  "correct": false
+}

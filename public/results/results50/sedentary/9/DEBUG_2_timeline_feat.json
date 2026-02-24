@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze positions show relatively constrained, stable horizontal and vertical ranges with small saccades and limited large shifts, closely matching the focused, localized viewing pattern of reading and mentally simulating a short code snippet as in the INTERPRET example, rather than the broader, more dynamic movements seen in debugging, gaming, browsing, or searching.",
+  "correct": false
+}

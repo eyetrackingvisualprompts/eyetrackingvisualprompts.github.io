@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze positions form a predominantly horizontal band with small vertical variation and frequent, short forward and backward saccades along that band, characteristic of line-by-line text reading rather than large-range tracking (saccade tasks or game) or broad 2D exploration (video).",
+  "correct": true
+}

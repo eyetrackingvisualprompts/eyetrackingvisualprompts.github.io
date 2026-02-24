@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show rapid, large-amplitude shifts across wide screen areas (center, far right, corners, and varying vertical levels), with few sustained horizontal scan lines characteristic of reading or code inspection. This spatially wide, dynamic pattern is more consistent with visually tracking and reacting to moving game elements than with the more localized, structured scanning seen in BROWSE/READ/INTERPRET/DEBUG/WRITE/SEARCH or the smoother, more centrally clustered viewing typical of WATCH.",
+  "correct": false
+}

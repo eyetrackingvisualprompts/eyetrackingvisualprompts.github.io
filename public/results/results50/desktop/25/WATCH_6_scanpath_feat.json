@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a mid-screen region with varied vertical and horizontal movements, including several dispersed clusters and revisits, resembling exploratory scanning of heterogeneous web content seen in the BROWSE example more than the more linear READ pattern or the tighter WRITE cluster.",
+  "correct": false
+}

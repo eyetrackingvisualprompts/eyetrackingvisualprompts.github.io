@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively stable, horizontally constrained X fixations around mid-screen with moderate vertical shifts and saccades, matching the structured, line-by-line scanning pattern typical of reading rather than the more dispersed or erratic movements seen in search, browsing, watching video, writing, or gameplay.",
+  "correct": false
+}

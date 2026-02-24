@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a compact region with short saccades and minimal spatial spread, closely matching the INTERPRET example where gaze stays concentrated on a small code snippet rather than scanning widely as in BROWSE/SEARCH or spreading over the screen as in PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact region on the upper-left portion of the screen with little spread elsewhere, closely matching the INTERPRET example heatmap where gaze is concentrated on a small code snippet being mentally traced, unlike the broader or more distributed patterns of browsing, searching, or watching.",
+  "correct": false
+}

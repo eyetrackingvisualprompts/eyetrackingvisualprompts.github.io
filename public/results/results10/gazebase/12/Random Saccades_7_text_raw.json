@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The data show large, rapid transitions across wide regions of the display (both horizontally and vertically) interspersed with periods of relatively fine, local adjustments\u2014consistent with task-driven gaze shifts to moving game objects rather than the more structured scanpaths of reading or the constrained ranges of horizontal/random saccade calibration tasks. This pattern best matches the Balura Game examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains clustered near screen center with moderate fixations (200\u20131100 ms) and small, multi-directional saccades without clear horizontal line-by-line scanning or systematic vertical navigation, which aligns better with passively following dynamic video content than with structured text reading, writing, or active search/browsing patterns.",
+  "correct": false
+}

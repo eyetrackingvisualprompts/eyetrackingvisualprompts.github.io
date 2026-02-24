@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay near screen center with moderate, irregular saccades and no strong left-to-right reading sweeps or structured vertical progression, matching the more scattered, small-range pattern of browsing rather than the systematic patterns seen in reading, writing, search, or dynamic large shifts of play/watch.",
+  "correct": false
+}

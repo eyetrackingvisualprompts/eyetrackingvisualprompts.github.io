@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze positions vary smoothly without systematic left-to-right or line-by-line scanning, instead showing relatively continuous, small movements around a central region\u2014typical of following dynamic visual content in a video rather than reading, coding, or targeted search/browse tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points cluster around a central area but jump between several discrete positions both horizontally and vertically, with roughly one fixation per second over the 10 s window, matching a target that relocates to new positions at 1 s intervals as in the Random Saccades task rather than continuous tracking, reading, or sustained fixation.",
+  "correct": false
+}

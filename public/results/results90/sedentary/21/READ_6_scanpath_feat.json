@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows clear horizontal sequences stacked vertically within a narrow column, characteristic of line-by-line reading behavior rather than scattered exploration or code-focused tasks.",
+  "correct": true
+}

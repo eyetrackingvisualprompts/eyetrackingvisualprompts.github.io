@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left-center where search results and snippets typically appear, with frequent saccades vertically and occasional long jumps to the right side of the screen, matching the pattern of examining search results and sometimes opening pages, similar to the SEARCH example and less localized than code tasks like WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

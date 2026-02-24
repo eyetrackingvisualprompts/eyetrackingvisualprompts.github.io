@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed horizontal scanning with several vertical shifts and irregular saccades, including transitions between upper and lower screen regions, resembling moving between query box, results list, and opened pages. This pattern aligns more with SEARCH than the more structured reading/browsing or the steadier WATCH and code-related tasks.",
+  "correct": true
+}

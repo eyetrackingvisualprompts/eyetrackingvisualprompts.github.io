@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are highly stable with only small smooth drifts and no systematic horizontal scanning or large saccades; this pattern matches continuous viewing of a central region such as watching a video rather than the structured line-by-line or exploratory movements seen in reading, writing, browsing, searching, or gameplay.",
+  "correct": false
+}

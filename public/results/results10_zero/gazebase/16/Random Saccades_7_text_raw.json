@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show repeated large-amplitude jumps (both horizontal and vertical) between relatively stable fixation clusters scattered across the screen, with no clear periodic left\u2013right pattern (ruling out Horizontal Saccades) and no long, tight central fixation (ruling out Fixations). The irregular spatial distribution and 1 s\u2013scale dwelling at many distinct positions are characteristic of following a randomly moving target, matching Random Saccades better than reading-, video-, or game-like free viewing.",
+  "correct": true
+}

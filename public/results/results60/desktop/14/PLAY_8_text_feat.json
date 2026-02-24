@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow band in the upper screen region with small horizontal and vertical shifts and many medium-length fixations (0.3\u20131.3s), resembling line-by-line inspection of static text rather than the larger vertical jumps and scattered patterns seen in SEARCH/BROWSE or the more central, dynamic focus typical of WATCH/PLAY/WRITE.",
+  "correct": false
+}

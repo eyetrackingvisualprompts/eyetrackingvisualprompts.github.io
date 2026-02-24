@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the screen center with frequent multidirectional saccades and moderate vertical spread, matching the exploratory, non-linear viewing pattern seen in the SEARCH example rather than the more linear READ/WRITE or upper-screen WATCH patterns.",
+  "correct": true
+}

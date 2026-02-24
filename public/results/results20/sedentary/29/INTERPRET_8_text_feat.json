@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent vertical and diagonal saccades spanning from near the top edge to far bottom regions and back, with gaze repeatedly jumping between distant areas (including off-center extremes), resemble free navigation and scrolling behavior in web browsing rather than the more line-structured patterns of READ/WRITE/INTERPRET/DEBUG or the more central, stimulus-bound patterns of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

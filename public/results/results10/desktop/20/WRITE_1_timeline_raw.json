@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay near screen center with moderate, irregular horizontal and vertical shifts and no strong line-by-line or large exploratory movements, matching the browsing example more than the other activities.",
+  "correct": false
+}

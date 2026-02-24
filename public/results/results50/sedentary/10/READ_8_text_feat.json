@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, repeated horizontal sweeps with small vertical shifts across a band of y-positions (about 600\u2013980 and then around 190\u2013320), with long fixations and smooth left\u2011to\u2011right/right\u2011to\u2011left progressions, matching line-by-line reading behavior and closely resembling the provided READ examples at the top page region rather than the more scattered, object-following or interface-scanning patterns of PLAY, SEARCH, or BROWSE.",
+  "correct": true
+}

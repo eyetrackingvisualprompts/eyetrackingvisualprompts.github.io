@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-amplitude shifts across multiple vertical and horizontal regions, with repeated re-centering and varied fixation clusters rather than the stable line-like scanpaths of READ or the extreme, edge-focused movements of PLAY. This heterogeneous, exploratory pattern best matches web browsing behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows a single continuous trajectory following a moving point with sizeable, irregular shifts in both horizontal and vertical directions over time, without the structured left-to-right, line-by-line pattern of reading or clustered fixations typical of video or game viewing, matching a randomly moving target task.",
+  "correct": false
+}

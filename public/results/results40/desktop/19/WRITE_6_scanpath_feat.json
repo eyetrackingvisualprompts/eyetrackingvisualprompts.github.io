@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows dispersed fixations across a wide vertical and horizontal range with repeated returns to central regions, resembling non-linear exploration of different areas on the screen typical of browsing web pages, rather than the more line-structured pattern of reading or the localized clusters seen in play, search, watch, or write examples.",
+  "correct": false
+}

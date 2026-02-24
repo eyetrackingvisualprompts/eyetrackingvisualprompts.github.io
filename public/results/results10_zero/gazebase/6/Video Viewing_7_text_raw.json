@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates span a wide 2D range with large, discrete jumps to different locations followed by short periods of local clustering, consistent with following a target that randomly relocates across the screen rather than strictly horizontal motion, prolonged central fixation, text-line scanning, rich-scene exploration, or game-contingent refixations.",
+  "correct": false
+}

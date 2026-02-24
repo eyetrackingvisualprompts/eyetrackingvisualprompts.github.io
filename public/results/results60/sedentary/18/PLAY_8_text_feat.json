@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated around a central band with frequent medium-amplitude horizontal shifts, rapid returns to nearby positions, and repeated tracking of a limited spatial region, consistent with following moving game elements. There is no clear line-by-line reading, structured code scanning, or broad exploratory scrolling typical of SEARCH/BROWSE, and the dynamics closely resemble the provided PLAY examples (central horizontal band, quick saccades between nearby points, occasional larger jumps).",
+  "correct": true
+}

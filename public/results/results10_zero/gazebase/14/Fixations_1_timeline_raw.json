@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain close to the center with only small fluctuations and a single brief deviation, indicating mostly stable central fixation rather than systematic horizontal, random, or task-driven scanning patterns.",
+  "correct": true
+}

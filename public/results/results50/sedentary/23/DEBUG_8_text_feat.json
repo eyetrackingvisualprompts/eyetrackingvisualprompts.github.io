@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent gaze jumps between far-separated screen regions (including to screen edges/negative-like areas), revisits to top/URL/toolbar-like zones, and scattered shorter inspections resemble the heterogeneous, multi-area scanning typical of web searching rather than the more line-structured (READ/BROWSE) or code-focused (WRITE/DEBUG/INTERPRET) patterns or object/scene following (PLAY/WATCH).",
+  "correct": false
+}

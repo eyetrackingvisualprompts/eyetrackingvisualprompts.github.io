@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows two tightly clustered fixation regions along a single horizontal band near mid\u2011screen, suggesting sustained reading-like behavior on one text line or two adjacent columns, with minimal vertical movement and limited spread characteristic of focused reading rather than exploratory search, browsing, or gameplay.",
+  "correct": false
+}

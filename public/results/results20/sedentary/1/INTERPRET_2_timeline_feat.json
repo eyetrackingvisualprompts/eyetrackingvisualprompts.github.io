@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is highly localized with small, steady horizontal movements and minimal large saccades, indicating focused inspection of a compact code snippet rather than broader page navigation or dynamic content; this pattern best matches the INTERPRET task among the options.",
+  "correct": true
+}

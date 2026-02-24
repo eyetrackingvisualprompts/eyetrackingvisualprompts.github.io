@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The target plot shows a predominantly left-to-right horizontal scan pattern with slowly increasing Y fixation positions and regular regressions, closely matching the structured reading behavior in the READ example and differing from the more scattered or task-switch-heavy patterns in coding, search, browse, or play activities.",
+  "correct": true
+}

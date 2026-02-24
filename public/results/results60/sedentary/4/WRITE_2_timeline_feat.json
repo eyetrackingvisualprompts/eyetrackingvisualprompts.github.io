@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium-range, irregular horizontal movements with modest vertical shifts, periodically revisiting similar Y-bands\u2014matching focused but exploratory code inspection rather than linear reading, free browsing, or highly dynamic game watching/playing. This pattern best aligns with the DEBUG example timeline.",
+  "correct": false
+}

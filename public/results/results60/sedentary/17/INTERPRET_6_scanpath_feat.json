@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a narrow left-side region with vertical movements between upper and middle areas and occasional transitions downward, resembling scanning a search results page (title/snippet region plus occasional scroll), matching the SEARCH example more than other tasks.",
+  "correct": false
+}

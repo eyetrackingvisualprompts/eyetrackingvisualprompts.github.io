@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation positions for both X and Y drift slowly with small, irregular saccades and no strong horizontal sweep pattern, resembling the moderate, scattered navigation seen in the BROWSE example more than the structured reading, intensive gaming, or focused writing/searching patterns.",
+  "correct": false
+}

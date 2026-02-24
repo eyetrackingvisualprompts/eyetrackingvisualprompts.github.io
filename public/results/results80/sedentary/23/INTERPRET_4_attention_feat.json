@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is tightly clustered over a compact vertical region on the left where code in an IDE typically appears, with a few fixations slightly above and below, closely matching the DEBUG example heatmap and reflecting focused inspection of a specific buggy code section rather than broader scanning or reading patterns.",
+  "correct": false
+}

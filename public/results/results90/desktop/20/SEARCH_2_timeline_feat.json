@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-range, irregular horizontal and vertical movements with frequent scattered saccades and no strong left-to-right line structure or stationary regions, matching the variable, exploratory pattern typical of web/news browsing rather than the more structured patterns of reading, writing, searching result lists, watching video, or game play.",
+  "correct": false
+}

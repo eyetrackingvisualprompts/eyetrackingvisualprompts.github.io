@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations stay mostly around mid-screen in both X and Y with frequent small saccades and modest vertical shifts, resembling the varied yet locally clustered gaze behavior seen when browsing heterogeneous webpages rather than the more systematic scanning of READ/WRITE or the wider movements of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze remains tightly clustered in a small lower-center region with long, repeated fixations and very short, local saccades, matching the stable cursor/typing area in the WRITE template rather than the broader horizontal scanning of READ or the wider exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

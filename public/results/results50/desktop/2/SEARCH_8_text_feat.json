@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shifts cover large vertical and horizontal extents (e.g., 0.49,0.05 \u2194 0.56,0.37; 0.47,0.62 \u2194 0.46,0.31) with many medium/long saccades between disparate regions, interleaved with short, local fixations. This pattern of continuous spatial re-orientation without the systematic line-based structure of READ/WRITE, and with broader spread than typical BROWSE/SEARCH, is most consistent with visually tracking moving elements in a game (PLAY).",
+  "correct": false
+}

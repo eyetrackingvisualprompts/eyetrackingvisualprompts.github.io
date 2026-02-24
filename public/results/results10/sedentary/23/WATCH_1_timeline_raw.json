@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several discrete horizontal reading segments with abrupt vertical shifts and occasional large downward then upward transitions, consistent with scanning search results, opening a result, then returning and refining the search rather than the smoother continuous patterns of READ or the localized code-focused patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

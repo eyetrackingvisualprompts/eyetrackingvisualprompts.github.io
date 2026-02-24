@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are broadly distributed across the full screen area, including central and lower regions, without concentrated clusters on text-like horizontal bands or code regions. This wide spatial spread best matches the WATCH (video viewing) pattern compared to the more localized patterns of reading, coding, or browsing/searching.",
+  "correct": true
+}

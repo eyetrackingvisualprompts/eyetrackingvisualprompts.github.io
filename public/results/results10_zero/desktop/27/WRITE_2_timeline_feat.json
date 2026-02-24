@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is highly stable around a narrow horizontal band with very small, infrequent saccades and almost no large horizontal or vertical shifts, indicating sustained fixation on a localized text region rather than dynamic scanning or wide movements typical of search, browsing, watching video, gaming, or writing.",
+  "correct": false
+}

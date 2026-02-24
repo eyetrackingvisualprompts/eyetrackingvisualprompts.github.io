@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly confined to a compact code-like area with many short saccades among nearby coordinates, frequent revisits between a low text band (~y=250\u2013400) and a slightly lower band (~y=450\u2013550), plus intermittent shifts to the very top-left (toolbar/console region). This pattern closely matches the WRITE examples, where participants alternate between reading/editing code and glancing at UI elements or outputs, rather than the more linear sweeps of READ/SEARCH or the wide spatial coverage of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

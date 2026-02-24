@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered around the left-side code region with frequent vertical movements between a few nearby lines and repeated returns to similar coordinates, matching the pattern of inspecting and re\u2011inspecting code lines seen in the DEBUG example, rather than the broader sweeps or horizontal reading patterns of other tasks.",
+  "correct": true
+}

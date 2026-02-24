@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact code/text-like region on the left, with many short regressions and re-fixations around nearly constant y-levels, resembling line-by-line inspection and back-and-forth checking typical of typing/editing in an IDE rather than broader scanning (SEARCH/BROWSE) or dynamic object tracking (PLAY/WATCH).",
+  "correct": false
+}

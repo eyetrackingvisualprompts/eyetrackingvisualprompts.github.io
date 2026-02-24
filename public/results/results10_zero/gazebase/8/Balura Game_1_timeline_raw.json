@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between multiple discrete positions in both X and Y with near-step-like changes and ~1 s plateaus, matching a target that jumps to random screen locations and is held briefly, consistent with the Random Saccades task rather than strictly horizontal motion, static fixation, or more complex naturalistic patterns seen in reading, gaming, or video viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is confined to a small, mid-left area of the screen with short, dense fixations and limited vertical span, characteristic of inspecting a compact code snippet rather than scanning long text (READ) or wide pages (BROWSE/SEARCH) or tracking moving objects (PLAY/WATCH). This focused, localized pattern best fits interpreting a short function implementation.",
+  "correct": false
+}

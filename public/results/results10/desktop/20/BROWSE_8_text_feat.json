@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the screen center with small-to-moderate multidirectional saccades (both vertical and horizontal) and no clear left-to-right line structure or large exploratory jumps, matching the relatively local, scanning pattern shown in the BROWSE example more than the more horizontal READ pattern, the wide-range SEARCH jumps, or the more peripheral/play-like movements.",
+  "correct": true
+}

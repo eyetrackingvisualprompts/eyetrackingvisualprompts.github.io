@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between mid-page and multiple vertical positions with frequent medium-to-long saccades (including to high/low y-values) and mixed dwell times, indicative of scanning SERP results and page content rather than line-by-line reading, tight central browsing, or the more constrained regions seen in writing; this pattern aligns best with the provided SEARCH examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are concentrated around the mid-screen area with small vertical excursions and occasional larger jumps, matching the browsing example\u2019s mixed local scanning and intermittent larger moves rather than the more line-structured horizontal patterns of READ or the larger, more frequent global shifts seen in PLAY, SEARCH, or WATCH.",
+  "correct": false
+}

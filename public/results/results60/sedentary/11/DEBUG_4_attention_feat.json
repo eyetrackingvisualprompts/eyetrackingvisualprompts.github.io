@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in two vertically separated clusters on the left (likely different code regions) with occasional glances to the right, closely matching the DEBUG example heatmap where attention alternates between error locations and other interface elements.",
+  "correct": true
+}

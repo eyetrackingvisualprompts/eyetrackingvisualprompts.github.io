@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow central band of X with relatively high and stable Y around the upper region, closely matching the WRITE template where the gaze stays near the text-entry line and toolbar rather than scanning large areas as in READ, SEARCH, or BROWSE.",
+  "correct": false
+}

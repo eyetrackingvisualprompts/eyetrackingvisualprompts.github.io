@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent very large saccades across wide screen regions (including off-screen coordinates), repeated jumps between central/content areas and extreme corners, and long excursions to bottom/side regions resemble scrolling and navigating web pages more than focused code reading/writing or game following, matching the heterogeneous, exploratory patterns seen in the BROWSE examples.",
+  "correct": false
+}

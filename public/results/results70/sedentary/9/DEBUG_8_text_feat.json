@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around code-like regions with frequent short saccades between a few vertical bands (line positions) and intermittent shifts between mid and upper screen, consistent with inspecting and mentally simulating a short function rather than scanning long text (READ) or widely exploring (SEARCH/BROWSE) or tracking motion (PLAY/WATCH). This pattern best matches focused code comprehension as in INTERPRET.",
+  "correct": false
+}

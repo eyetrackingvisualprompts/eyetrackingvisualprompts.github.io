@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, rapid transitions across the entire screen, including frequent long saccades to extreme edges and corners, with relatively few tight clusters or systematic line-by-line or code-structured scanning. This broad, continuous, visually exploratory pattern best matches passive viewing of dynamic full-screen content as in the WATCH condition rather than the more structured, text/code- or UI-focused patterns seen in tasks like READ, WRITE, DEBUG, BROWSE, or SEARCH.",
+  "correct": false
+}

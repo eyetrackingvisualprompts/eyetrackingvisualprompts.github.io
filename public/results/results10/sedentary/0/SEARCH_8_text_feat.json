@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts mid-page then shifts to a horizontal band around y\u2248500 with medium fixations, followed by a long saccade to the upper-left area (y\u2248300) and systematic scanning across that region. This pattern closely matches the SEARCH example: initial result-area inspection, then moving to and reading through the search results snippet block, rather than the more uniform horizontal line reading of READ or the code-focused clusters of INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

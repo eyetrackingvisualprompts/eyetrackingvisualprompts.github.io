@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze stays in the lower half of the screen with relatively stable horizontal fixations that slowly drift upward, consistent with looking at a text area near the bottom while occasionally referencing higher UI elements\u2014this pattern best matches the WRITE example rather than the others.",
+  "correct": true
+}

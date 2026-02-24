@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are dispersed horizontally across a wide mid-screen band with several clusters and occasional points higher and lower, indicating scanning multiple regions of a webpage rather than focused code (WRITE/DEBUG/INTERPRET) or continuous line-by-line reading (READ) or central dynamic focus (WATCH/PLAY). This pattern best matches the BROWSE example.",
+  "correct": false
+}

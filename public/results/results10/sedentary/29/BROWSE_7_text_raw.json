@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates among multiple horizontal bands (around y\u2248390\u2013430, 470\u2013520, 540\u2013610) with many medium-length fixations and short saccades across a wide x-range, consistent with scanning and scrolling through web content rather than the tighter, line-by-line patterns of READ or the focused central clustering of WATCH. The spatial dispersion and recurrent revisits to similar regions most closely resemble the BROWSE examples.",
+  "correct": true
+}

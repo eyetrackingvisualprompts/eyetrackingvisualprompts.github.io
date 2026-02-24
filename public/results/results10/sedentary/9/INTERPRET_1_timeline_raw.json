@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly stable around a central horizontal band with occasional brief vertical spikes and minor shifts, closely matching the INTERPRET example pattern of concentrated reading on a single code snippet without extensive scanning or large viewport changes seen in tasks like DEBUG or SEARCH.",
+  "correct": true
+}

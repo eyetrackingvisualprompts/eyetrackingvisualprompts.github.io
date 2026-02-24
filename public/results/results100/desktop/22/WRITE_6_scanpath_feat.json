@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Dense cluster of fixations around the screen center with moderate dispersion and multidirectional saccades matches the SEARCH example more closely than the more horizontally-structured READ/WRITE or the multi-cluster PLAY patterns.",
+  "correct": false
+}

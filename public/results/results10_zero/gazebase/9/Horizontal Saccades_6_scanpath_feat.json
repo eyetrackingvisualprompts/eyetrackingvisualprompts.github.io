@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows gaze alternating between two horizontally separated points at roughly constant vertical position, consistent with following a target moving left\u2013right across the screen rather than reading text, random 2D motion, gaming, video viewing, or central fixation.",
+  "correct": true
+}

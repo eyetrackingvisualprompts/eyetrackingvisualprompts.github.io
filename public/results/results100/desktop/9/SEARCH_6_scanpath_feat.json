@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows highly dispersed fixations across almost the entire screen with frequent large-amplitude saccades in all directions, indicating continuous visual exploration and rapid shifts typical of interactive gameplay rather than the more localized or structured patterns seen in reading, writing, searching, or browsing.",
+  "correct": false
+}

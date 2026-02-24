@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large vertical shifts between widely separated regions and irregular horizontal movements, matching the scattered scan patterns seen in the SEARCH example rather than the more line-structured READ/BROWSE or the steadier WATCH/DEBUG/INTERPRET patterns.",
+  "correct": true
+}

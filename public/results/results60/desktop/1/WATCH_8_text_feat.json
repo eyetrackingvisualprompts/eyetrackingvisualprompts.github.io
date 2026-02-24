@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long stable fixations with occasional large saccades across wide vertical and horizontal extents (including beyond normalized screen bounds >1.0), consistent with following dynamic video content and scene elements rather than line-by-line text (READ/WRITE) or concentrated central scanning (SEARCH/BROWSE); pattern best matches the WATCH examples with extended fixations and broad, episodic shifts.",
+  "correct": true
+}

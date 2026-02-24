@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze jumps between widely separated positions across both horizontal and vertical axes with roughly second-long dwell periods, matching the discrete, scattered target positions of the Random Saccades task rather than the more patterned or localized movements of the other activities.",
+  "correct": true
+}

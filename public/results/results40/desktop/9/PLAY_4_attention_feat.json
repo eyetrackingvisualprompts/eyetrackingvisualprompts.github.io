@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a central mid-screen region with some vertical spread, resembling attention on a variable content block (like an article or post) without the extended horizontal scan lines of reading or the upper-screen bias of writing or watching video; this pattern best matches the browsing example heatmap.",
+  "correct": false
+}

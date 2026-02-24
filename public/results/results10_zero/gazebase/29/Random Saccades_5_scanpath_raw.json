@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trace shows large, discrete jumps to various positions across both horizontal and vertical dimensions, with roughly one-second dwells at each location and no repetitive horizontal pattern or tight central clustering, matching the pattern of following a randomly moving target rather than reading, video viewing, or simple fixation.",
+  "correct": true
+}

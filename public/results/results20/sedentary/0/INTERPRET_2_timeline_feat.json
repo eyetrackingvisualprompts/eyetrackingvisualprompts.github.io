@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively narrow vertical range with mainly horizontal, line-like fixations and few large saccades, indicating focused inspection of a compact code snippet rather than extensive navigation (SEARCH/BROWSE) or dynamic tracking (PLAY/WATCH); this most closely matches the INTERPRET pattern shown in the examples.",
+  "correct": true
+}

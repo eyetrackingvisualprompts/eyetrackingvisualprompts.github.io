@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are concentrated on the left-central code area with additional scattered looks along nearby lines and UI regions, closely matching the DEBUG example heatmap more than the other activities, which show either more central/game-like or multi-region reading/browsing patterns.",
+  "correct": true
+}

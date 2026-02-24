@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid saccades across wide screen regions (center to corners, bottom to top, horizontal jumps) with relatively short fixations, resembling object-following and spatial monitoring typical of gameplay rather than the more line- or block-structured patterns seen in reading, coding, or web browsing.",
+  "correct": false
+}

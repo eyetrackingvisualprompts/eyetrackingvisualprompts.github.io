@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple vertical regions with distinct horizontal bands, similar to scanning search results and query area rather than focused reading or code inspection patterns; this matches the SEARCH example heatmap most closely.",
+  "correct": false
+}

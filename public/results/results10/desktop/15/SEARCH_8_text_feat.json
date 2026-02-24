@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze stays in a central region with frequent short fixations and small to medium saccades that move both vertically and horizontally around mid\u2011screen, resembling scanning mixed text/graphics areas in the BROWSE example more than the more linear horizontal progression of READ or the larger shifts of SEARCH/WATCH/PLAY/WRITE.",
+  "correct": false
+}

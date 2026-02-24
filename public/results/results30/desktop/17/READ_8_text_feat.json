@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades between upper, middle, and lower screen regions with many short fixations across a wide vertical span, consistent with scanning search results and then jumping to other interface elements, closely matching the SEARCH pattern more than the more locally clustered BROWSE or line-structured READ behavior.",
+  "correct": false
+}

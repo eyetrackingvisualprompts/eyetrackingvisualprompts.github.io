@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions stay within a narrow central band with small, irregular shifts rather than systematic horizontal sweeps or large exploratory movements; this pattern matches following central video content more than reading, searching, browsing, writing, or playing games, which typically show stronger directional saccades or wider spatial coverage.",
+  "correct": false
+}

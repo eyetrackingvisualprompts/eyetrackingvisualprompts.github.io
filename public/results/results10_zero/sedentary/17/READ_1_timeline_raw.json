@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays around a single horizontal band with slow drift and very few, brief vertical excursions, indicating following content in a largely static region (like a central area of a video) rather than systematic line-by-line reading or code navigation typical for text/code tasks or the rapid multi-directional movements seen in games or web search/browsing.",
+  "correct": false
+}

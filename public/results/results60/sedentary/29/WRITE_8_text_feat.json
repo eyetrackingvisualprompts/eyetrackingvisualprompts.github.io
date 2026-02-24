@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated around a horizontal band (y\u2248470\u2013540) with many small left-right saccades and short fixations, occasionally interspersed with large jumps to screen edges/top indicative of tab/address-bar or other UI elements. This mix of systematic horizontal scanning and frequent long relocations across disparate regions matches the browsing exemplar patterns more than the more stable, line-locked READ pattern or the dynamic wide-range movements of PLAY/WATCH.",
+  "correct": false
+}

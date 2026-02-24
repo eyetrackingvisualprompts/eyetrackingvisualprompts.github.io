@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple distinct fixation clusters spread across the upper and lower parts of the screen, including near the vertical extremes, with no continuous horizontal line or central concentration. This scattered but discrete pattern matches a gaze following a randomly moving target rather than static fixation, structured horizontal tracking, reading lines, or complex game/video viewing behavior.",
+  "correct": false
+}

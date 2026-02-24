@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in a mid-screen region with frequent shifts among nearby locations, resembling scanning of search results or mixed web content rather than the more linear horizontal patterns of reading/writing or the upper-screen focus of watching/playing. This pattern best matches the SEARCH example.",
+  "correct": false
+}

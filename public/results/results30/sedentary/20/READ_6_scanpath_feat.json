@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Two main dense clusters: one near the upper center (reading reference/code) and one near the lower center (IDE editor/input area), with frequent vertical saccades between them and occasional long shifts to the right side (e.g., toolbar/console). This pattern matches alternating between reading and typing typical of the WRITE task.",
+  "correct": false
+}

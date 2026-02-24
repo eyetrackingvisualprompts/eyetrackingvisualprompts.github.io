@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations cluster mainly in a horizontal band across the lower-middle of the screen with one cluster near the upper-left, suggesting tracking salient regions in a dynamic full-screen scene rather than line-by-line reading or focused code inspection, which aligns best with watching a video.",
+  "correct": false
+}

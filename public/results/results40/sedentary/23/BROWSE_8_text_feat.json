@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades across horizontally arranged regions near the top (likely search box and result titles), repeated revisits to mid-page result areas, and occasional jumps to far off-screen coordinates match the scan-and-compare behavior of web search results more than the more linear patterns of READ or the confined code-centered patterns of WRITE/DEBUG/INTERPRET or the object-following dynamics of PLAY/WATCH.",
+  "correct": false
+}

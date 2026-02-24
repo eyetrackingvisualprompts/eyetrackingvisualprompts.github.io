@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly concentrated in a small region in the upper-left coding-area zone, with minimal spread elsewhere, closely matching the WRITE example heatmap where attention is focused on the text editor while typing, rather than scanning widely as in SEARCH/DEBUG/INTERPRET.",
+  "correct": false
+}

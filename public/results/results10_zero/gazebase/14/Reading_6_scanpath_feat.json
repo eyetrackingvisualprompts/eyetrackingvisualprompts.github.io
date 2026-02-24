@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze positions vary mainly along the horizontal axis around a fairly constant vertical level, with discrete steps and short fixations between them, which matches tracking a target moving horizontally across the screen rather than central fixation, random 2D movement, reading lines, game interactions, or free video viewing.",
+  "correct": false
+}

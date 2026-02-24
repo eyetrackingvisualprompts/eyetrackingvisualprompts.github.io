@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a narrow horizontal band with small vertical variance and progressive horizontal movements, matching the characteristic line-by-line reading pattern rather than the more dispersed or dynamic patterns of other activities.",
+  "correct": false
+}

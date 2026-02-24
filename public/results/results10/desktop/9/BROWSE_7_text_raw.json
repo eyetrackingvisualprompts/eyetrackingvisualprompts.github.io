@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent large-amplitude, rapid shifts across wide screen areas (including off-center and out-of-bounds values), with brief, unstable fixations. This high-mobility, multidirectional scan pattern aligns with interactive, dynamic visual demands typical of the PLAY condition rather than the more stable, structured patterns seen in reading, writing, searching, or browsing text, or passively watching video.",
+  "correct": false
+}

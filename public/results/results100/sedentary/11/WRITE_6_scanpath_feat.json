@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered on the left code/console area with repeated fixations and short local saccades, plus occasional long saccades to a right-side region (likely run/output controls), closely matching the WRITE example pattern and typical coding/implementation behavior.",
+  "correct": true
+}

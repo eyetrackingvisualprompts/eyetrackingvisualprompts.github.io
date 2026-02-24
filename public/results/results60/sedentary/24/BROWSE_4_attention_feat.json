@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are widely dispersed across the screen, both horizontally and vertically, similar to the WATCH example heatmap and unlike the more localized patterns of reading, coding, or searching tasks, indicating following dynamic visual content in a video.",
+  "correct": false
+}

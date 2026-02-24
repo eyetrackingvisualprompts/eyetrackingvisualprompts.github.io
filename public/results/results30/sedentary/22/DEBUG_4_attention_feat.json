@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are dispersed vertically with a strong cluster on the left side and additional scattered points downwards and slightly to the right, indicating scrolling and looking at different webpage regions, which matches the browsing pattern better than the more localized code or reading tasks.",
+  "correct": false
+}

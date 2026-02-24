@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively stable horizontal position with small, step-like vertical shifts and few saccades, consistent with reading lines of text rather than dynamic or exploratory tasks like games, browsing, or debugging code.",
+  "correct": false
+}

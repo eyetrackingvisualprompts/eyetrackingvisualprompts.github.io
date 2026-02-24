@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow vertical band on the left, alternating between an upper code area and a lower region (likely console or editor), with repeated vertical transitions similar to the WRITE example where participants switch between code and output while implementing functions.",
+  "correct": false
+}

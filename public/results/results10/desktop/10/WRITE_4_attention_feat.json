@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a horizontally elongated cluster at a relatively constant vertical position, characteristic of line-by-line text reading, similar to the READ example and unlike the more dispersed or multi-cluster patterns of BROWSE, SEARCH, or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal sweeps and clusters at multiple vertical levels (top navigation, mid content, lower region) with frequent jumps between widely separated areas suggest scanning a web page rather than line-by-line reading or focused code inspection/debugging. The broad coverage and revisits to header/content regions align best with browsing behavior.",
+  "correct": true
+}

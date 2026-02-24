@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread over a mid-screen region with varied vertical and horizontal movements, showing exploratory scanning without the structured horizontal lines of reading or the tight focus of writing; this heterogeneous pattern best matches browsing behavior among the given examples.",
+  "correct": false
+}

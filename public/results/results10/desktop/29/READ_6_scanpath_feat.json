@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points remain clustered in a small central region with limited horizontal/vertical movement and no clear line- or grid-like scanning pattern, matching the relatively stable fixation behavior observed when passively watching video rather than the more extensive sweeps seen in reading, browsing, searching, or gameplay.",
+  "correct": false
+}

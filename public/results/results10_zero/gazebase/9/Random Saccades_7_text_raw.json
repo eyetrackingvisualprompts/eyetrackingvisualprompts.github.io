@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze coordinates show large, mostly horizontal shifts between clusters of dense fixations around distinct x-positions near \u00b115\u00b0 with relatively smaller vertical variation, matching pursuit of a target moving horizontally across \u00b115\u00b0 rather than random 2D motion, static fixation, reading-like left-to-right line sweeps, complex game patterns, or free video viewing.",
+  "correct": false
+}

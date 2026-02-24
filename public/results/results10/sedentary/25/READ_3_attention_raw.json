@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is spread horizontally across the mid-screen with multiple moderate fixations and smooth transitions, matching the browsing example pattern more than the more compact, code-focused or text-block-focused patterns of other tasks.",
+  "correct": false
+}

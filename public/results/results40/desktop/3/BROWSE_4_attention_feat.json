@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered around the central region of the screen with moderate vertical spread and limited horizontal movement, matching the browsing example pattern more than the other activities (which show stronger top-band, side, or row-like structures).",
+  "correct": true
+}

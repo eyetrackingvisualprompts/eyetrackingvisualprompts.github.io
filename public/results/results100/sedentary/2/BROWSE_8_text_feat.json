@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is predominantly clustered around a mid-screen code-like region with frequent short saccades between nearby coordinates, repeated revisits to similar lines (y\u2248540\u2013600), and occasional long saccades to screen edges/top (likely to console or other UI panels). This tightly localized, iterative scan pattern with intermittent large jumps matches the WRITE examples, where participants focus on editing and checking code, rather than the more continuous horizontal sweeps of READ or the broader exploratory movements of BROWSE/SEARCH or dynamic tracking in PLAY/WATCH.",
+  "correct": false
+}

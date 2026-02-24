@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scanpaths across a wide portion of the screen at a few vertical bands (around y\u2248260\u2013340 and y\u2248420), interleaved with vertical jumps to top-of-page regions (y\u224890\u2013180) and occasional large transitions to/from off-center areas, closely match the mixed reading-and-navigation pattern seen in SEARCH examples rather than the more uniform line-by-line reading of READ or the code-focused clusters of programming tasks.",
+  "correct": true
+}

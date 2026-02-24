@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple isolated fixation clusters scattered across both horizontal and vertical dimensions without a clear horizontal line (reading or horizontal saccades) or central concentration (fixation). The spread and randomness of positions best match the Random Saccades pattern.",
+  "correct": true
+}

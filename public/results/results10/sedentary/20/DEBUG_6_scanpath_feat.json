@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region near the upper-left, with repeated fixations and short saccades over the same area, matching focused attention on the code editor seen in the WRITE example rather than the more vertically extensive patterns of INTERPRET/DEBUG or horizontal sweeps of reading/browsing.",
+  "correct": false
+}

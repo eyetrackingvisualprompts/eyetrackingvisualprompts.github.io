@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed across multiple screen regions with a central hotspot and scattered points to the left, right, and lower areas, resembling varied scanning of a webpage rather than the more localized patterns of coding, reading, or watching video; this best matches the BROWSE example heatmap.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen horizontal fixations with frequent saccades and variability in both axes, resembling the mixed scanning pattern of the SEARCH example more than the steadier READ pattern or the more centralized/structured patterns of WATCH, WRITE, BROWSE, or PLAY.",
+  "correct": false
+}

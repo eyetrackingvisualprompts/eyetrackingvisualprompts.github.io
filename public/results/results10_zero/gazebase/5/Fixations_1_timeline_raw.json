@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y gaze positions stay nearly constant around the center with only minor noise and no systematic large saccades or scanning patterns, which matches sustained fixation on a static central target.",
+  "correct": true
+}

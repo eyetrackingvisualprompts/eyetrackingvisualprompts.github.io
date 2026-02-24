@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular movements across both horizontal and vertical axes, with gaze visiting various scattered positions rather than a fixed center, horizontal line, or structured reading pattern. This variable 2D movement with pauses at distinct points best matches the random saccades task where the target jumps to random screen locations and is held briefly at each one.",
+  "correct": true
+}

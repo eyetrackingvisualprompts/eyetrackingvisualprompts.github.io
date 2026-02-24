@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows many medium-length saccades across widely separated screen regions (including off-screen coordinates), frequent revisits to top/toolbar-like areas, and irregular, non-line-by-line scanning\u2014patterns characteristic of free web browsing with scrolling and navigation rather than structured reading, code-centric tasks, or smooth tracking from video or gameplay.",
+  "correct": false
+}

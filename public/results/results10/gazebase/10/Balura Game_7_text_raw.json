@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data shows large, irregular jumps in gaze position across wide horizontal and vertical ranges with brief local clusters, matching the behavior of following a target that moves unpredictably around the screen rather than constrained horizontal motion, stable fixation, or structured reading/video patterns.",
+  "correct": false
+}

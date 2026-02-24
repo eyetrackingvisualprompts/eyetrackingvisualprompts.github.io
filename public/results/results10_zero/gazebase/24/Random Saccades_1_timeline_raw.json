@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like movements to multiple irregular horizontal and vertical positions, with each position held roughly ~1 s before jumping elsewhere. The amplitudes vary and include both horizontal and vertical components, matching the description of a randomly moving target rather than strictly horizontal or purely central fixation tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude vertical transitions between a mid-screen region (~0.6,0.6) and a lower region (~0.5\u20130.6,0.2\u20130.3), with relatively short fixations interleaved with rapid movements. This pattern of wide spatial coverage and dynamic shifts is more consistent with visually tracking game elements in PLAY than with the more horizontally constrained, line-based scanning of READ/WRITE or the more centrally clustered exploration of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

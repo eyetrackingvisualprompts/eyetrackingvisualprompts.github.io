@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is tightly clustered in the upper\u2011center region with a small vertical spread and limited horizontal movement, closely matching the SEARCH example heatmap pattern around the search box and top results area.",
+  "correct": false
+}

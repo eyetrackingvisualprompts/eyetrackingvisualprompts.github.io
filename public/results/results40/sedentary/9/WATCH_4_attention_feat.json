@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely scattered across the screen, with no dominant horizontal band (reading) or tight code-area cluster (programming). The pattern matches the diverse, multi-region exploration typical of free web browsing rather than focused tasks like search results scanning or gameplay tracking.",
+  "correct": false
+}

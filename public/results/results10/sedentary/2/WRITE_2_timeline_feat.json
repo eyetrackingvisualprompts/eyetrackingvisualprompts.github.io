@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated vertical jumps between higher and lower Y positions with moderate horizontal shifts, resembling scanning between search results and lower page content, which matches the SEARCH pattern more than the steadier code or reading behaviors or the more dispersed browsing/game patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small region in the upper-central area with short, clustered saccades and limited vertical range, consistent with repeatedly monitoring a local area like the current text line and cursor position during typing, rather than the broader vertical scanning seen in reading/browsing/searching or the larger, more dynamic movements typical of playing or watching video.",
+  "correct": false
+}

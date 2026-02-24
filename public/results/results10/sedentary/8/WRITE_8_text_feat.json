@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in narrow code-like regions with many short, local saccades and repeated refixations around similar coordinates (\u2248700\u2013770\u00d7240\u2013310), interspersed with occasional long jumps to other interface areas, closely matching the structured, back-and-forth inspection pattern seen in the DEBUG example rather than the more linear READ/INTERPRET or highly dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

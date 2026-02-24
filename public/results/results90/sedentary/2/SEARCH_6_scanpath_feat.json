@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers a wide horizontal span with frequent transitions between upper and middle regions, similar to scanning search results and switching between result snippets or tabs, matching the SEARCH pattern more than the other task examples.",
+  "correct": true
+}

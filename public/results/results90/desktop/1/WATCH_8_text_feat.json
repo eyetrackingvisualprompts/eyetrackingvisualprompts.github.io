@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are mostly around mid\u2011left screen at multiple vertical levels, with frequent medium\u2011amplitude jumps between roughly y\u22480.2\u20130.4 and occasional excursions to \u22480.6, resembling scanning mixed webpage regions (title, tabs, mid\u2011page, partial scroll) rather than the tight horizontal bands of READ or the more central, stable focus of WATCH/WRITE. The irregular, exploratory pattern and vertical relocations are characteristic of web browsing behavior.",
+  "correct": false
+}

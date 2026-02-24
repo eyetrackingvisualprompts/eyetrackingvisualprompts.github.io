@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense gaze cluster on a narrow left-side region resembling focused inspection of code, with occasional long saccades to bottom/right similar to looking at console/output or other code sections, matching the INTERPRET example more than other tasks.",
+  "correct": false
+}

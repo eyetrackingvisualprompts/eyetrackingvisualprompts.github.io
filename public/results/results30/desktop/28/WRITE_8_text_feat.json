@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze moves within upper-to-mid screen regions with frequent medium-amplitude vertical and horizontal shifts, interleaving short fixations with navigation-like saccades between bands around y\u22480.2\u20130.3 and y\u22480.45\u20130.6, resembling scanning headers/sections and then content. The pattern is less line-structured than READ and more dispersed than WRITE, without the strong lateral motion of PLAY or the center-bottom focus typical of WATCH, aligning best with BROWSE behavior.",
+  "correct": false
+}

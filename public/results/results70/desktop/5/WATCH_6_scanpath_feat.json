@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze scatters over a broad central region with frequent shifts between multiple clusters and no strong horizontal text-line pattern, resembling exploratory web search behavior more than the more localized browse/read patterns or wide-range play/watch movements.",
+  "correct": false
+}

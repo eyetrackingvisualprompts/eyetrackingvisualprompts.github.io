@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows dense, relatively small horizontal saccades with fixation bands centered mid-screen and limited vertical spread, closely matching the structured, line-by-line scanning pattern evident in the READ example compared to the other activities.",
+  "correct": false
+}

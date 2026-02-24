@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, repeated fixations in the upper-left area where the code editor/text typically appears, with additional but sparser fixations in the lower region likely corresponding to the console or other IDE panels, closely matching the WRITE example pattern.",
+  "correct": false
+}

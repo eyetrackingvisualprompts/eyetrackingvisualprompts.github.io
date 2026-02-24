@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "X fixations show repeated rightward sweeps with returns, while Y fixations gradually increase across the screen, matching the progressive downward scrolling and varied horizontal movements typical of free web browsing rather than the more structured or localized patterns of the other tasks.",
+  "correct": false
+}

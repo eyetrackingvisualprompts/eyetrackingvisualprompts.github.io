@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows slow, mostly monotonic drifts in X with smaller variations in Y, forming step-like segments that resemble line-by-line reading across text rather than rapid object tracking (PLAY) or scattered exploration (SEARCH/BROWSE); this pattern best matches sustained reading behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower half of the screen with relatively stable high Y values and modest horizontal movement, matching the fixed text-line and toolbar area focus typical of the WRITE example rather than the broader vertical ranges seen in READ, SEARCH, or BROWSE.",
+  "correct": false
+}

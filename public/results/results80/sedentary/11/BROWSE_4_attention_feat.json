@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations concentrate near the top across the width (reading search results/snippet rows) with additional clusters on the right side, matching scanning of a search results page rather than the more central focus of PLAY/WATCH or narrow columns of READ/WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

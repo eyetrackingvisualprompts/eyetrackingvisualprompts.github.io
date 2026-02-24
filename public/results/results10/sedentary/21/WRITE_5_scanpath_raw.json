@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small area in the upper-left region where code typically appears, with repeated short saccades and occasional long downward movements toward the lower screen (likely keyboard or console), closely matching the WRITE example pattern.",
+  "correct": true
+}

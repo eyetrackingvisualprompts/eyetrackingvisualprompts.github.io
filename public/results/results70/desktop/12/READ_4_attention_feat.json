@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are widely dispersed across the entire screen without a strong central cluster, indicating rapid, spatially distributed gaze shifts typical of tracking dynamic game elements rather than focused reading, writing, or localized web content viewing.",
+  "correct": false
+}

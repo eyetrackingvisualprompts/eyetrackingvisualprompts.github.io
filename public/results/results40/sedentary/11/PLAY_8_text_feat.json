@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large spatial jumps across screen regions, many mid-length fixations, and tracking of moving-like points without clear line-by-line or code-structured patterns, matching passive viewing of dynamic content more than reading, coding, searching, or game-like object pursuit.",
+  "correct": false
+}

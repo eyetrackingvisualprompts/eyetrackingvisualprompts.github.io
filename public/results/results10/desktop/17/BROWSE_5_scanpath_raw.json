@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations with moderate vertical and horizontal shifts around the center, resembling mixed reading and interface inspection typical for search pages, and it most closely matches the SEARCH example pattern among the options.",
+  "correct": false
+}

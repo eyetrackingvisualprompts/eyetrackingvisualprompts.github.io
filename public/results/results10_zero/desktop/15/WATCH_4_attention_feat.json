@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered along a narrow horizontal band near the screen center, indicating concentrated left-to-right eye movements consistent with reading text in a single line region rather than broader exploratory or vertical movements typical of search, browse, watch, play, or write tasks.",
+  "correct": false
+}

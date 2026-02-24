@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a small code-relevant area on the left side, with frequent short saccades and revisits, plus a few long jumps likely to console/output regions\u2014typical of focused code debugging rather than continuous reading or wide exploration.",
+  "correct": false
+}

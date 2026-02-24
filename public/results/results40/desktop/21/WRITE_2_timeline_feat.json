@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows stable, horizontally oriented fixations with small, regular saccades and nearly constant low Y-position, indicating line-by-line reading behavior rather than the larger, more scattered movements seen in search, browsing, watching videos, writing, or playing games.",
+  "correct": false
+}

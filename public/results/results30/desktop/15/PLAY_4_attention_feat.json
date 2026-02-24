@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread over a central vertical band with moderate dispersion across mid and lower screen, resembling scanning of mixed content on a webpage and most similar to the BROWSE example heatmap compared with the more localized SEARCH or horizontally banded READ/WRITE patterns.",
+  "correct": false
+}

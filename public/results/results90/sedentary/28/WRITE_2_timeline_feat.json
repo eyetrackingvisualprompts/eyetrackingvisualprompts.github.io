@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow horizontal band with very small vertical changes, indicating focus on a single code block rather than scanning multiple lines or areas. The pattern closely matches the INTERPRET example, with stable fixations and few large saccades, unlike the more exploratory SEARCH/BROWSE or dynamic WATCH/PLAY behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small left-central region with frequent short saccades and returns along similar lines, consistent with focused attention on a code editor while typing, rather than broader exploration (BROWSE/SEARCH), object tracking (PLAY/WATCH), or extended linear reading (READ).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent medium-sized saccades and revisits within a compact central code-like area (y\u2248350\u2013500), with occasional large gaze shifts to peripheral regions (e.g., near bottom of screen) and back, match the pattern of moving between editor text and other UI elements while editing code, characteristic of the WRITE task rather than the more line-structured READ or the more globally scattered BROWSE/SEARCH patterns.",
+  "correct": true
+}

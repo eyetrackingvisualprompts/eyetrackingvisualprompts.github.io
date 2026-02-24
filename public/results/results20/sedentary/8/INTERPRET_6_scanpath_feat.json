@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is split between a dense cluster on the upper-left (likely search results or text) and a few long saccades to a separate region on the right/bottom, consistent with switching between results and clicked pages typical of search behavior, matching the SEARCH example most closely.",
+  "correct": false
+}

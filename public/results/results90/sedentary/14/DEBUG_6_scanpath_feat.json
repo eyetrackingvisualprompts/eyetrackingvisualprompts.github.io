@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered on a narrow vertical code area at the left, with occasional long saccades to a single region on the right (likely console/output or documentation), closely matching the WRITE example scanpath pattern.",
+  "correct": false
+}

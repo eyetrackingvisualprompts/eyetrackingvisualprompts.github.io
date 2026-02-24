@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are concentrated in a compact region around the center of the screen with slight vertical spread, closely resembling the BROWSE example heatmap pattern more than the other activities, which show broader horizontal (READ/WRITE) or more dispersed (PLAY/WATCH/SEARCH) gaze distributions.",
+  "correct": false
+}

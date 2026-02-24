@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on a left-center code area with additional recurrent fixations above and below, plus occasional shifts to the right\u2014matching the multi-region, back-and-forth inspection typical of debugging rather than the more localized INTERPRET or WRITE patterns.",
+  "correct": false
+}

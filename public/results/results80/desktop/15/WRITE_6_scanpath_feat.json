@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are spread over a mid-screen vertical range with substantial horizontal movement and several revisits, resembling scanning of a web page or news/blog content, and differing from the tighter clusters of SEARCH or the more linear patterns of READ or WRITE.",
+  "correct": false
+}

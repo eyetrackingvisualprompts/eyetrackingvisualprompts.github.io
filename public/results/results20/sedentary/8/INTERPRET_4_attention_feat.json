@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple vertical regions, with clusters on the upper-left (likely search box and top results), mid-left, and mid-right, resembling the dispersed scanning pattern of search results rather than the more centralized or line-based patterns of reading, browsing, or coding tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered on the left-central region (typical code area) with occasional long saccades to a secondary area on the right, matching the pattern of switching between code and execution/output panels seen in the DEBUG example rather than the more localized INTERPRET or WRITE tasks.",
+  "correct": false
+}

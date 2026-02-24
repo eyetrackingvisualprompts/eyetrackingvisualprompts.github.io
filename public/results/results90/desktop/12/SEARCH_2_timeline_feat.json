@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixation traces stay in a mid-screen band with small, regular shifts and limited vertical range, matching the stable, line-by-line scanning pattern of reading rather than the larger excursions or top/bottom biases seen in browse, search, play, watch, or write examples.",
+  "correct": false
+}

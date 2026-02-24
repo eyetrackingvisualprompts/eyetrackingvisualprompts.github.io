@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a confined central region with long, stable fixations (up to ~1.7s) and short, small-amplitude saccades, indicating focused inspection of static text rather than wide exploratory scanning or dynamic tracking typical of browsing, search, video watching, or gameplay.",
+  "correct": false
+}

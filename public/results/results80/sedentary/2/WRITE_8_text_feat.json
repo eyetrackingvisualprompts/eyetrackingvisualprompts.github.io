@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades between top navigation-like regions and central content, substantial vertical and horizontal exploration, and revisits to multiple dispersed areas match the heterogeneous scanning patterns typical of web browsing rather than the more localized, line-structured or code-focused patterns of tasks like READ, WRITE, DEBUG, or INTERPRET.",
+  "correct": false
+}

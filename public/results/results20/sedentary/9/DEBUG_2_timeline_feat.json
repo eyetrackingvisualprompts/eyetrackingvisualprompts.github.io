@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows frequent medium-range horizontal shifts and revisits between a few vertical bands, consistent with alternating attention between code and output/other IDE areas, which best matches the WRITE coding patterns rather than the more linear scans of READ/BROWSE or the larger, more erratic movements in PLAY/SEARCH/WATCH.",
+  "correct": false
+}

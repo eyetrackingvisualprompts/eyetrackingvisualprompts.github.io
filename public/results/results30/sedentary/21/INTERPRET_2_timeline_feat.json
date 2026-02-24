@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze pattern shows moderate horizontal progression with relatively constrained vertical movement and occasional regressions, matching the structured code-reading and localized checking behavior seen in the INTERPRET example more than the more linear READ pattern or the more dispersed SEARCH/BROWSE patterns.",
+  "correct": true
+}

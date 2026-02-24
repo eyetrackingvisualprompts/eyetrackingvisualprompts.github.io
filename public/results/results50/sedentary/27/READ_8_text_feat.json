@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, smooth left-to-right fixations along horizontal bands with regular regressions and line shifts from upper to lower y-coordinates, matching the structured line-by-line reading pattern seen in the READ examples rather than the more scattered or vertically exploratory patterns of browsing, coding, or debugging tasks.",
+  "correct": true
+}

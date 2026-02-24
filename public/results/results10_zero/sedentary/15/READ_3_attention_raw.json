@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band across the center of the screen, forming a left-to-right sweep pattern consistent with reading a single text line or short paragraph, rather than the broader or more scattered gaze expected during coding, browsing, searching, playing, or watching video.",
+  "correct": true
+}

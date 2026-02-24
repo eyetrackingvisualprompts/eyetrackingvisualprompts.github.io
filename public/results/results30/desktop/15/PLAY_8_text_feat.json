@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows medium-length fixations and frequent saccades across varied vertical positions (from near top to mid and upper screen) with irregular, non-linear jumps, resembling reading mixed with navigation and exploration. This heterogeneous pattern with revisits and larger relocations matches the browsing examples more than the more systematic horizontal reading, focused writing near a line, or relatively steadier video watching gaze.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered with moderate horizontal and vertical shifts, frequent short saccades, and no strong downward bias or structured line-by-line scanning, matching the more exploratory yet central pattern typical of web browsing rather than reading, playing, or watching video.",
+  "correct": false
+}

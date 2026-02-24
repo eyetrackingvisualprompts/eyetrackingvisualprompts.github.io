@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are confined to a narrow horizontal band around y\u22480.57\u20130.59 with slow, small horizontal shifts and long stable fixations, closely matching the structured line-by-line reading patterns seen in the READ examples rather than the larger, more scattered shifts of BROWSE/SEARCH, the rapid wide movements of PLAY, the extreme upper-screen focus of WATCH, or the more left\u2011upper clustering of WRITE.",
+  "correct": true
+}

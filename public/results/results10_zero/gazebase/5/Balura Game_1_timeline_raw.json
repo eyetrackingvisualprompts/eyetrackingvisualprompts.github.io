@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like jumps to discrete positions both horizontally (up to \u00b120\u00b0) and vertically (up to about \u00b115\u00b0) with roughly 1-second plateaus at each location, matching a target that moves to random 2\u00b0\u201315\u00b0 offsets in 2D space and holds, which corresponds to the Random Saccades task rather than purely horizontal, central fixation, reading, video viewing, or game-driven behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates span wide screen areas with frequent medium-to-large saccades in many directions, and there is no stable horizontal line-by-line pattern characteristic of reading or code-focused tasks. The continuous, dispersed motion and coverage of central and peripheral regions are most consistent with following dynamic visual content in a video rather than interacting with text, code, or game elements.",
+  "correct": true
+}

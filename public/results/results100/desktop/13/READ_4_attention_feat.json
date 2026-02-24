@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a long, narrow horizontal band in the lower-middle area, consistent with scanning text lines, similar to the READ example but shifted vertically; other classes show more centralized, vertical, or dispersed patterns rather than sustained horizontal reading-like movements.",
+  "correct": true
+}

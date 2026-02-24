@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a compact cluster of fixations in a relatively small central region with little horizontal or vertical scanning, consistent with passively attending to a focal area in a video rather than reading lines of text, scanning search results, navigating code, or tracking fast-moving game elements.",
+  "correct": false
+}

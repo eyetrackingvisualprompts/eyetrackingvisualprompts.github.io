@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large-amplitude vertical and horizontal jumps between widely separated regions (including off-screen coordinates), alternating with brief fixations\u2014matching scan-and-jump behavior over search results and new pages more than the more line-structured patterns of READ/BROWSE or the localized, code-centered patterns of INTERPRET/DEBUG/WRITE. PLAY/WATCH patterns tend to follow moving objects or scene areas more smoothly, which is less evident here.",
+  "correct": false
+}

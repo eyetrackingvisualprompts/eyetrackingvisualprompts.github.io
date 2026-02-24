@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains within a compact central region with repeated fixations around a stable area, showing smooth local transitions rather than line-by-line scanning or large jumps between interface elements. This pattern is most consistent with passively watching dynamic video content rather than reading, writing, or actively navigating webpages or games.",
+  "correct": false
+}

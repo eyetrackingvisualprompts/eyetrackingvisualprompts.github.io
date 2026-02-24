@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent long saccades between the upper-left/top code area and mid-page regions, with revisits to almost identical top coordinates, matches the coding/implementation pattern seen in WRITE rather than the more line-structured scans of READ or the broader exploratory jumps in BROWSE/SEARCH.",
+  "correct": false
+}

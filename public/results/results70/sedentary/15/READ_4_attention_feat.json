@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are concentrated in a vertically elongated central region with limited horizontal spread, resembling line-by-line reading within a single text column, matching the READ example heatmap more than browsing, search, or coding tasks.",
+  "correct": true
+}

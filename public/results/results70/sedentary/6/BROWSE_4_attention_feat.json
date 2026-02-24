@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a central vertical band with horizontal spread resembling line-by-line scanning of a text block, closely matching the READ example pattern rather than the more dispersed layouts of WATCH, BROWSE, or SEARCH or the left-biased code-related tasks.",
+  "correct": false
+}

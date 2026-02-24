@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-lower screen (y\u22480.40\u20130.50) with small, local horizontal/vertical shifts and occasional slightly larger moves, matching reading/scanning of mixed web content. Compared to READ, the pattern is less strictly horizontal-line based and includes more small position variability and mid-screen focus, consistent with BROWSE examples rather than the more top-centered WATCH or more dispersed SEARCH/PLAY patterns.",
+  "correct": false
+}

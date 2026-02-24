@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are mainly on the upper-left code/text area with some attention to a region on the right, matching the distributed, editor-and-console style gaze pattern seen in the WRITE example rather than the more compact patterns of INTERPRET or READ.",
+  "correct": true
+}

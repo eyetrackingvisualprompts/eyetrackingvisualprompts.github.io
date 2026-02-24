@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps to many scattered positions across the screen in both horizontal and vertical directions, with dwell periods at each location and no consistent line-like structure (as in reading) or purely horizontal motion. This pattern best matches a gaze following a target that moves to random positions and holds briefly, consistent with the Random Saccades task.",
+  "correct": false
+}

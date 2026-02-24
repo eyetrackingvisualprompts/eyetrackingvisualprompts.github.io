@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent revisits between a central code region (around y\u2248350\u2013450) and lower areas (y\u2248600\u2013700) consistent with alternating between reading/editing code and checking console/output, plus occasional large saccades to screen edges; this pattern closely matches the WRITE examples and is less consistent with the more static reading or the more object-tracking/game-like PLAY patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered around a compact code-like region on the left-center of the screen, with repeated local fixations and occasional larger saccades to a few other spots, closely matching the INTERPRET example scanpath and typical focused inspection of a short code snippet rather than the broader spread seen in BROWSE/SEARCH or the very narrow cluster of WRITE.",
+  "correct": true
+}

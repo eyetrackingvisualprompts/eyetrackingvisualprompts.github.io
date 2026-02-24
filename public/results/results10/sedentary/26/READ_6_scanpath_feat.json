@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays in a single horizontal band across a wide range of x-positions with small vertical variation, closely matching the example SEARCH pattern of scanning across a row of search results or the results header area.",
+  "correct": false
+}

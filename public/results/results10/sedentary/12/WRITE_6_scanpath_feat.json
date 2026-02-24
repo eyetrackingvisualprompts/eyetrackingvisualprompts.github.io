@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are tightly clustered in a small upper-left region with short, repeated fixations and minimal horizontal or vertical spread, matching the localized code-editing behavior seen in the WRITE example rather than the broader movements of reading, browsing, or debugging.",
+  "correct": true
+}

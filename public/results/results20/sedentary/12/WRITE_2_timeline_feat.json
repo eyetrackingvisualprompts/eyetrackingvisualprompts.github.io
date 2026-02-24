@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively narrow central area with slow horizontal drift and modest vertical changes, indicating code inspection. Occasional larger saccades appear but overall movement is more exploratory than the very stable INTERPRET pattern and less horizontally systematic than READ, matching the DEBUG example most closely.",
+  "correct": false
+}

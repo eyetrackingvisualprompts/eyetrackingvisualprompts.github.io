@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixations and saccades show predominantly horizontal scanning with gradual downward shifts in Y, characteristic of line-by-line reading, and closely match the READ example pattern more than the other activities.",
+  "correct": true
+}

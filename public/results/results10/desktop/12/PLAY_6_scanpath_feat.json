@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements with orderly progress along a band in the lower-middle of the screen, similar to line-by-line reading behavior and closest in pattern to the READ example among the provided classes.",
+  "correct": false
+}

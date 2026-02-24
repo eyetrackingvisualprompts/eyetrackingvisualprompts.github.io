@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a compact region in the upper-left where the code editor likely is, with some additional attention on the right side, resembling the DEBUG example pattern more than the other tasks.",
+  "correct": false
+}

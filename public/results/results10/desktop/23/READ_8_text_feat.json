@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains within a narrow horizontal band with sequential, small rightward saccades and medium-length fixations, consistent with line-by-line reading behavior and closely matching the spatial and temporal patterns in the READ examples rather than the more scattered (BROWSE/SEARCH), central and reactive (PLAY/WATCH), or upper-area, tool/typing-focused (WRITE) patterns.",
+  "correct": true
+}

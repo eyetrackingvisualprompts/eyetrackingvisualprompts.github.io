@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains clustered around a single small region near screen center with only minor jitter and no systematic horizontal/vertical sweeps or large random jumps, consistent with maintaining fixation on a static central target for the whole 10 s window.",
+  "correct": true
+}

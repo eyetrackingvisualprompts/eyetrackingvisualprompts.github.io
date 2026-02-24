@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, slow vertical transitions with long saccade durations and scattered fixations suggest scrolling and inspecting different parts of a webpage or results list, which is most characteristic of the SEARCH task among the provided examples.",
+  "correct": false
+}

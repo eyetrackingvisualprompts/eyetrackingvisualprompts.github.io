@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between multiple discrete positions in both horizontal and vertical directions, with each position held roughly for about one second before jumping to a new location. This pattern of step-like fixations with intervening large saccades across 2D space matches the description of following a randomly moving target rather than purely horizontal motion, continuous viewing, or a single central fixation.",
+  "correct": false
+}

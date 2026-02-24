@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a central code area with repeated revisits and large saccades to the top and bottom regions, indicating frequent switching between code, errors, and execution output typical of debugging rather than more localized interpreting or writing patterns.",
+  "correct": false
+}

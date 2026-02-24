@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small central-lower region with short, jittery movements and no systematic horizontal sweeps typical of reading; this localized, fluctuating pattern aligns more with looking near the text insertion point and UI elements during typing in a word processor than with the broader explorations of play, search, browse, or watch.",
+  "correct": false
+}

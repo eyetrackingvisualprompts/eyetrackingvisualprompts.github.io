@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The heatmap shows several discrete, spatially separated fixation clusters spread across the screen, with some clusters indicating prolonged or repeated fixations (likely on targets) and others shorter visits, matching the behavior of tracking and fixating on moving game objects rather than the more structured patterns of reading, regular saccade tasks, or static fixation.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the central area with frequent saccades in multiple directions and medium dispersion, closely matching the SEARCH example pattern more than the denser READ or more horizontally-structured BROWSE/WATCH patterns.",
+  "correct": false
+}

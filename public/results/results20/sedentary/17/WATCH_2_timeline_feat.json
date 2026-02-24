@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades and wide-ranging X and Y movements across the screen, resembling dynamic tracking of moving objects rather than line-by-line reading or localized code/IDE inspection, which matches the PLAY activity patterns.",
+  "correct": false
+}

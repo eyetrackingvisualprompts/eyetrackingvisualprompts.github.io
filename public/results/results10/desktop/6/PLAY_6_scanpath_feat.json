@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points cluster around the screen center with medium-range vertical and horizontal shifts consistent with scanning search results and query areas, matching the SEARCH example more than the more localized READ/BROWSE or wide-ranging PLAY/WATCH/WRITE patterns.",
+  "correct": false
+}

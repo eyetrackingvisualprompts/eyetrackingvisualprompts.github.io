@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows two main clusters: a dominant one over the left-central code area and another over a region likely containing error messages or auxiliary information on the right, with scattered fixations between them. This bidirectional switching between code and secondary panels is most consistent with debugging behavior compared to the more localized WRITE/INTERPRET patterns or broader WATCH/BROWSE/PLAY/SEARCH distributions.",
+  "correct": false
+}

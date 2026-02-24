@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated near the screen center with symmetric spread in all directions, resembling tracking of a moving game object, and closely match the PLAY example heatmap compared to more text- or code-focused tasks.",
+  "correct": true
+}

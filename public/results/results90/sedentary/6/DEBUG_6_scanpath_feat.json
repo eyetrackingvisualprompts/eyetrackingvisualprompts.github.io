@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mainly clustered on the left side (reading search results) with frequent long saccades to a salient area on the right (likely result content or answer panel), matching the SEARCH example more than other activities.",
+  "correct": false
+}

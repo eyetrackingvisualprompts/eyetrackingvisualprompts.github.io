@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations show relatively smooth, slowly drifting horizontal movement around the screen center with moderate vertical variation, matching the reading pattern example more closely than the higher-variability scan patterns in BROWSE/SEARCH or the edge-focused layouts in WRITE/PLAY/WATCH.",
+  "correct": false
+}

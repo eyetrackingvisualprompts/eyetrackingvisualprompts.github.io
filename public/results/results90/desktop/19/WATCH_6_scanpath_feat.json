@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around a central region with moderate dispersion and multidirectional saccades, similar to the BROWSE example where attention shifts among various elements on a webpage, unlike the more linear READ/WRITE or the wider, more extreme movements in PLAY/WATCH.",
+  "correct": false
+}

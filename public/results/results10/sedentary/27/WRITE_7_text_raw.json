@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact region at the left side of the screen with many small, local shifts and revisits, interspersed with occasional vertical jumps to other nearby clusters\u2014matching code/IDE interaction. The pattern is more localized and less line-structured than READ, less global and scattered than SEARCH/BROWSE, and lacks the large, smooth shifts seen in WATCH/PLAY. Among coding-related tasks, this spatially tight, iterative inspection and return to similar coordinates aligns best with WRITE rather than the more dispersed, error-hunting patterns in DEBUG or the more static focus of INTERPRET.",
+  "correct": true
+}

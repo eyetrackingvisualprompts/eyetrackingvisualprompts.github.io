@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows steady rightward drift in X with gradual downward Y trend consistent with scrolling through a webpage, plus periodic saccades that resemble moving down article segments, matching the browsing pattern more than the other tasks.",
+  "correct": false
+}

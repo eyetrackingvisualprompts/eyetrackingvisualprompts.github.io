@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a very tight, stable fixation cluster in a single small region with minimal horizontal or vertical scanning, indicating the eyes are anchored to one spot (likely a central face/character area) rather than moving line-by-line as in reading or across UI elements as in search, browse, write, or play; this sustained localized fixation pattern best matches passively WATCHing a video scene.",
+  "correct": false
+}

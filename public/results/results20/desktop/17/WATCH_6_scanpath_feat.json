@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations across a mid-screen region with frequent saccades between multiple areas, resembling exploratory navigation among search results and pages, and matching the SEARCH example more than the more linear READ pattern or localized WRITE/PLAY/WATCH behaviors.",
+  "correct": false
+}

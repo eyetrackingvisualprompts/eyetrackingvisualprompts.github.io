@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts repeatedly between nearby regions around mid-screen with medium-distance vertical and horizontal saccades, mixed dwell times, and no clear left-to-right line structure typical of reading or the tight vertical band of writing. The pattern shows exploratory scanning of multiple AOIs, closely resembling the heterogeneous, semi-structured movements seen in the BROWSE examples rather than the more task-focused patterns in SEARCH or the larger, more dynamic excursions in PLAY/WATCH.",
+  "correct": false
+}

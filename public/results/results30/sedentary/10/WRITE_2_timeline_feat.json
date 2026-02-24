@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The target plot shows moderate horizontal movements with occasional larger vertical saccades and revisits across multiple vertical regions, resembling the mixed scanning of search results and opened pages, matching the SEARCH example more than the steadier code-focused or continuous reading/writing patterns.",
+  "correct": false
+}

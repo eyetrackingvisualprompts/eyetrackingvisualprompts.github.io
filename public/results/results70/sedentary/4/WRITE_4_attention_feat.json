@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are strongly clustered in a small region on the left where a short code snippet would appear, with a few scattered checks to the right, matching the focused, localized viewing pattern seen in the INTERPRET example rather than the broader distributions of other tasks.",
+  "correct": false
+}

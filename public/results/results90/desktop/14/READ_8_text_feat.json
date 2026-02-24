@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including from corners and edges to central areas), interspersed with short, variable fixations, indicate dynamic, visually exploratory behavior consistent with tracking moving game elements rather than line-by-line reading, focused writing, or relatively more static browsing/search layouts.",
+  "correct": false
+}

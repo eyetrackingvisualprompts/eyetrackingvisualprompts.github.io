@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively stable horizontal fixations with small, infrequent saccades and limited vertical movement, closely matching the INTERPRET example pattern of focused code inspection without the broader exploration seen in SEARCH/BROWSE or the stronger vertical progression of READ/WRITE.",
+  "correct": false
+}

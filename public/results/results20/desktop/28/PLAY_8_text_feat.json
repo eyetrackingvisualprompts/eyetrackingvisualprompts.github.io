@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays in a mid-upper region with moderate vertical shifts and several larger saccades between dispersed points (e.g., from mid-page to upper/lower areas), resembling scanning headings, snippets, and results blocks. The pattern shows more exploratory jumps and vertical navigation than the stable line-like sweeps of READ, and less constrained central clustering than WATCH, matching the SEARCH examples\u2019 mixed fixations and broader exploratory saccades.",
+  "correct": false
+}

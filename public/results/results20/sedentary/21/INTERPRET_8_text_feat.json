@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact central region with many medium\u2011long fixations (0.3\u20130.9s) and short, local saccades, repeatedly revisiting similar coordinates. This indicates detailed, piecewise inspection and back\u2011and\u2011forth checking over a small code snippet, matching the INTERPRET examples more than the broader, more exploratory patterns of SEARCH/BROWSE or the more dispersed, multi\u2011region patterns in DEBUG/WRITE/PLAY/WATCH/READ.",
+  "correct": true
+}

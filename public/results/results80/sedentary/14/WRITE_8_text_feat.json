@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long vertical saccades between top navigation/URL bar region and mid-page content, repeated revisits to high Y coordinates near screen edges, and scanning horizontally across a narrow mid-band resemble the search examples more than the focused central code views of WRITE/DEBUG/INTERPRET or the smoother line-by-line patterns of READ/BROWSE. The pattern matches SEARCH\u2019s mixture of header/result checking and result-page scrolling.",
+  "correct": false
+}

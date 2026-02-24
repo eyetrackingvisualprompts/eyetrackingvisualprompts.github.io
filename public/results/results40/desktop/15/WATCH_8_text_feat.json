@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent medium-to-large vertical shifts between mid and lower screen regions, with many revisits between similar coordinates and short fixations interleaved with occasional longer ones, match the dynamic, multidirectional gaze behavior seen in the PLAY examples more than the steadier, line-based or region-based patterns in READ/WRITE/BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a small, code-sized region on the left side of the screen with short shifts between two nearby vertical bands, indicating focused inspection of a small code snippet rather than extensive reading, editing, or web/search browsing, which fits best with interpreting code output.",
+  "correct": false
+}

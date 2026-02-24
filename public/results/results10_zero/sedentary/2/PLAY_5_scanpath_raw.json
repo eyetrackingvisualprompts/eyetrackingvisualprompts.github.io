@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows rapid, large-amplitude saccades across wide horizontal regions and frequent direction changes concentrated in the upper half of the screen, typical of visually tracking moving game elements rather than the more structured line-by-line or block-based patterns seen in reading, coding, or web search/browsing tasks.",
+  "correct": true
+}

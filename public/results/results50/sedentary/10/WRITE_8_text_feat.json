@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent long within-code saccades and revisits between top code region and mid/lower areas, including transitions towards likely output/console regions (bottom) and occasional larger jumps, match the structured but less line-regular, back-and-forth pattern seen in WRITE examples more than the tighter, line-based patterns of READ/INTERPRET or the broader navigation of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": true
+}

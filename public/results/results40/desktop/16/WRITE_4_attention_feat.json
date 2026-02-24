@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in the central region with moderate horizontal spread and some vertical movement, resembling scanning mixed text and images on a webpage, which matches the BROWSE exemplar more than the tighter text-line pattern of READ or the more dispersed PLAY/WATCH patterns.",
+  "correct": false
+}

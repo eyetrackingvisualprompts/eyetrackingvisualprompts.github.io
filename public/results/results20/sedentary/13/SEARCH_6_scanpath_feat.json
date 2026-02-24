@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze transitions between a left-side area and a mid-right horizontal band, suggesting scrolling and scanning across multiple content regions rather than focused code (WRITE/DEBUG/INTERPRET) or continuous central motion (WATCH/PLAY). The pattern best matches free web browsing behavior.",
+  "correct": false
+}

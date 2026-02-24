@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are distributed across many positions over both horizontal and vertical axes without forming a clear line (reading) or just two points (horizontal saccades), and they are more scattered and task-like than the localized clusters seen in video viewing or the game, matching the random target jumps of Random Saccades.",
+  "correct": false
+}

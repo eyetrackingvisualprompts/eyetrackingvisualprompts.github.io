@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The data shows multiple medium-to-long fixations interspersed with several large-amplitude saccades that traverse substantial portions of the screen in varying directions, including diagonals and vertical shifts. This pattern is characteristic of scanning heterogeneous web pages and search results (titles, snippets, side elements) rather than the more structured, line-by-line horizontal motions of reading or the highly dynamic, continuous gaze shifts typical of gameplay or video watching.",
+  "correct": false
+}

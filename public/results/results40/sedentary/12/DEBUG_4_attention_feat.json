@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a compact vertical strip on the upper-left side, matching the pattern for focusing on a short code snippet as in the INTERPRET example, rather than the broader spread seen in DEBUG or WRITE.",
+  "correct": false
+}

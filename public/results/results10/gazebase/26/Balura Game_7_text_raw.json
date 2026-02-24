@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows complex, irregular movements with many moderate excursions in both horizontal and vertical directions, frequent small local adjustments, and no strict horizontal-only or discrete step-like target positions. This spatiotemporal pattern matches naturalistic free-viewing behavior in Video Viewing rather than the more structured trajectories of saccade tasks or the spatially constrained patterns of reading or the game.",
+  "correct": false
+}

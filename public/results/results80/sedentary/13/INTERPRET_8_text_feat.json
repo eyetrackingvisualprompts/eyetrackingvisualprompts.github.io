@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact code-like region with repeated revisits between a mid-upper area (~y\u2248200\u2013300) and a mid-lower band (~y\u2248480\u2013550), matching editor text and console/IDE panels. The pattern shows many short saccades and local regressions over the same horizontal span rather than long horizontal reading lines or broad exploratory scanning, closely resembling the WRITE example more than READ, DEBUG, or BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, gradual horizontal movements with relatively constrained vertical shifts, matching the pattern of line-by-line text reading more than the other activities, whose examples display either more scattered (SEARCH/BROWSE), video-like stable regions (WATCH), or game-like abrupt multi-directional movements (PLAY).",
+  "correct": false
+}

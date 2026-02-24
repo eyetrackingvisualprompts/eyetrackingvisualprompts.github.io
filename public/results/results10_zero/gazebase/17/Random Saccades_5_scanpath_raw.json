@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps in both horizontal and vertical directions with positions held briefly before moving elsewhere, covering a scattered region of the screen rather than a single axis (horizontal saccades) or dense center (fixation) or line-like pattern (reading). This pattern best matches a target moving to random screen locations that are fixated sequentially, consistent with the Random Saccades task.",
+  "correct": true
+}

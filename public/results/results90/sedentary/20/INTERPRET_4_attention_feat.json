@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a small region on the upper-left code area with minimal spread, matching the focused, localized fixation pattern seen in the INTERPRET example rather than the broader or more distributed patterns of other tasks.",
+  "correct": true
+}

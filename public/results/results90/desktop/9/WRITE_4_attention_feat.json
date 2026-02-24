@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a predominantly horizontal band across the middle of the screen, characteristic of line-by-line reading behavior and matching the READ example heatmap more closely than the others.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively constrained, line-based reading over code with moderate horizontal motion and small regressions, similar to the INTERPRET example and less exploratory than DEBUG or WRITE, indicating focused understanding of an existing snippet rather than editing or searching.",
+  "correct": false
+}

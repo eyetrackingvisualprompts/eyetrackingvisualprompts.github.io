@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central area of the screen with a compact spread, closely matching the browsing example pattern where attention focuses on a central content block rather than following long horizontal lines (READ) or dispersed regions (WATCH/PLAY).",
+  "correct": false
+}

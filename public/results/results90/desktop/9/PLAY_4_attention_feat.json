@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze fixations are concentrated around the center with moderate spread, closely matching the browsing example heatmap where attention is focused on a central content region with some exploration, unlike the more linear patterns of READ/WRITE or the dispersed WATCH pattern.",
+  "correct": false
+}

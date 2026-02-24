@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the lower-left region (low Y, low-mid X) with relatively small vertical range and gradual horizontal drift, matching a user focused on a local area such as a text-entry field in a word processor rather than the broader scanning seen in browsing, searching, or reading full pages.",
+  "correct": true
+}

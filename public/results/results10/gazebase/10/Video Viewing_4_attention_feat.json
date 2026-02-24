@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered broadly across the upper-central region without forming horizontal text lines or being confined to a few discrete targets, matching the dispersed but bounded pattern of Random Saccades rather than reading, game play, video viewing, or pure fixations.",
+  "correct": false
+}

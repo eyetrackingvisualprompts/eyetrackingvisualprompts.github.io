@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show frequent medium- to large-amplitude shifts, recurrent returns to similar regions, and substantial vertical and horizontal dispersion rather than tight line-by-line or paragraph-based scanpaths. The pattern is consistent with tracking moving elements and reacting across a game area rather than structured reading, code work, or passive video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around the screen center with frequent multi-directional saccades and dispersed fixations, resembling the exploratory, non-regular pattern of the SEARCH example more than the more linear READ or the more localized BROWSE/WRITE patterns.",
+  "correct": false
+}

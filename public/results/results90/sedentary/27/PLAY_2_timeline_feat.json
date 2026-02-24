@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "X fixations show repeated left-to-right sweeps with small regressions, while Y fixations slowly increase over time, consistent with progressing down lines of text as in the READ example and less variable than SEARCH or BROWSE patterns.",
+  "correct": false
+}

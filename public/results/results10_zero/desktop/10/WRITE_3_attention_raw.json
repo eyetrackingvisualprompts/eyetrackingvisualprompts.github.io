@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small region with minimal saccades and no systematic horizontal or vertical scan pattern, indicating sustained attention to a localized moving or salient area typical of watching video content rather than reading, writing, browsing, searching, or game play which usually show broader exploratory movements.",
+  "correct": false
+}

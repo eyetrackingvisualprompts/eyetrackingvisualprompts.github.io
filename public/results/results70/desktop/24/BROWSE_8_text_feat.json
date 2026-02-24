@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades spanning wide vertical and horizontal extents (including jumps from near top to bottom of the screen and into corners), interspersed with relatively short fixations. This broad, dynamic scanning pattern matches the game-playing (PLAY) examples much more than the more line-structured, center-focused patterns of READ/WRITE or the comparatively more constrained vertical movements of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

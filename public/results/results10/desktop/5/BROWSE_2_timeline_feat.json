@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-level horizontal and vertical movements with frequent small saccades and shifting fixation positions across both axes, resembling the scattered scanning pattern seen in the BROWSE example rather than the more structured, line-based patterns of READ/WRITE or the smoother trends of PLAY/WATCH/SEARCH.",
+  "correct": true
+}

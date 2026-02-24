@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left-central area (likely code or text) with frequent long saccades to the far right, resembling shifts to a search results pane or browser tab. This combination of focused inspection and repeated excursions to another region aligns best with the SEARCH pattern among the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a compact code-like region with many short, local saccades and repeated revisits between nearby lines/blocks (around y\u2248400\u2013600), including occasional jumps to a smaller header region (y\u2248200). This tightly bounded, back-and-forth inspection of a small code area with moderate fixation durations matches the INTERPRET examples more closely than the more exploratory patterns in DEBUG/SEARCH or the orderly line scans in READ/WRITE.",
+  "correct": false
+}

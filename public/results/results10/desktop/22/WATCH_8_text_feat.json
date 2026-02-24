@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are clustered around mid-screen with moderate horizontal shifts and occasional larger lateral moves, resembling scanning of mixed text/graphics regions typical of browsing behavior. The pattern lacks the systematic line-by-line progression of reading and the strong vertical movements or edge-focused gaze common in writing or searching interfaces.",
+  "correct": false
+}

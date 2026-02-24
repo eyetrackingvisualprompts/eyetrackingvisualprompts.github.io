@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are moderately dispersed across the central horizontal band and some vertical extent, without the tight left-side clusters of code tasks (DEBUG/WRITE/INTERPRET) or the strong horizontal scanlines of SEARCH/READ. The spread resembles passive viewing of dynamic content, matching the WATCH pattern.",
+  "correct": false
+}

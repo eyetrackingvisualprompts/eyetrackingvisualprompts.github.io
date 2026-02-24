@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains tightly clustered around the screen center with very small variability in both X and Y over time, except for a brief vertical blink-like drop, matching the sustained central fixation pattern shown in the Fixations example.",
+  "correct": true
+}

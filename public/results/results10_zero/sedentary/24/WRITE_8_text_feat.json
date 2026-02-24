@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal, line-like fixations in a mid-screen band with short saccades back and forth and occasional regressions, consistent with reading text line segments rather than scanning the whole screen, tracking moving objects, or interacting with code or dynamic interfaces.",
+  "correct": false
+}

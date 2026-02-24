@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze starts with local scanning over a compact region like reading text, but repeatedly includes very large saccades to off-screen or extreme coordinates (negative y, far-right x\u22481600) and then back to mid-page, plus jumps to high vertical positions (~920). This mixture of reading-like clusters with frequent long navigational jumps and viewport changes closely matches the heterogeneous, scroll-and-navigate behavior seen in the BROWSE examples rather than the more structured and area-limited patterns of READ, code tasks, or gameplay.",
+  "correct": false
+}

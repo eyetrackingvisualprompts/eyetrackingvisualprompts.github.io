@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is constrained to a compact region slightly left of screen center with small horizontal and vertical movements, consistent with focusing on a text input area and nearby UI elements in a word processor rather than broader exploration patterns typical of search, browse, play, watch, or read tasks.",
+  "correct": false
+}

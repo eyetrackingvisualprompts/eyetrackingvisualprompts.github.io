@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are tightly clustered around the central region with small spatial extent and limited directional sweeps, matching the compact, center-focused scanpath pattern shown for BROWSE, rather than the wider horizontal spread of READ or the more dispersed movements of SEARCH and PLAY.",
+  "correct": false
+}

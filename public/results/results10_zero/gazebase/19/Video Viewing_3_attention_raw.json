@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple discrete, similarly weighted fixation clusters scattered across much of the central display area, without a strong central bias or row-like reading pattern, consistent with following a target that jumps to random positions and stays briefly at each location.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The heatmap shows a compact cluster of fixations in a central region with limited horizontal spread, indicating focused attention on a small area such as a specific section of a web page, which best matches the browsing pattern rather than the more extended horizontal scans of reading or the dispersed movements of search, play, watch, or write.",
+  "correct": false
+}

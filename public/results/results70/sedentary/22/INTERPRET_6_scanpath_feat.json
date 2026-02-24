@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper-left code area with occasional vertical moves, closely matching the WRITE example\u2019s localized pattern near the editor and unlike the broader exploration seen in BROWSE or SEARCH.",
+  "correct": false
+}

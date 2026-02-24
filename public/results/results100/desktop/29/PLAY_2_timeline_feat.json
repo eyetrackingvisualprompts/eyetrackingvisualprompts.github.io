@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with moderate, irregular saccades and no strong horizontal sweep or line structure, matching the more scattered, center-biased pattern seen in browsing rather than the systematic scans of reading/search or the larger shifts of play/watch/write.",
+  "correct": false
+}

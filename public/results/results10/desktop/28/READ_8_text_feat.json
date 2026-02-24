@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact region with small-amplitude saccades and relatively long, stable fixations around a consistent horizontal band, closely matching the fine-grained, localized pattern seen in the WRITE example (monitoring the text cursor/typing area) rather than the broader scanning of READ/BROWSE or the larger, more dynamic shifts of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on a narrow left-side code area with occasional clusters at the lower left (e.g., console/output) and rare long saccades to the right, closely matching the INTERPRET example scanpath of focused code inspection rather than the denser back-and-forth of DEBUG or the dispersed patterns of browsing, search, or media tasks.",
+  "correct": false
+}

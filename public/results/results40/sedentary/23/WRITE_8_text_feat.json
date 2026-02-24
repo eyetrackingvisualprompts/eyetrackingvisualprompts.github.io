@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between horizontally arranged top-of-screen areas and mid-page content, with revisits to header-like regions and scattered lower-page checks, match the exploratory, back-and-forth pattern seen in the SEARCH examples rather than the more line-ordered READ pattern or the localized code-centered patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

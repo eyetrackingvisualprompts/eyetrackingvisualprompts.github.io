@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y gaze positions stay within relatively narrow horizontal and vertical bands with small, continuous jitters and no large shifts or systematic scanning patterns, matching the stable, localized viewing typical of typing in a word processor rather than the wider sweeps seen in search, browse, read, or play activities.",
+  "correct": false
+}

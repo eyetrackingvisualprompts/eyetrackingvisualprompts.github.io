@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "After some large exploratory saccades across the screen (top bar, lower areas), the gaze repeatedly returns to a compact code/text region around x\u2248250\u2013380, y\u2248250\u2013300 with long fixations and short intra-region saccades, consistent with sustained inspection and mental simulation of a localized code snippet rather than broad navigation (SEARCH/BROWSE), continuous scene following (WATCH/PLAY), or line-by-line progression (READ). This stable, localized, cognitively intense pattern best matches the INTERPRET task.",
+  "correct": true
+}

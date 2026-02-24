@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows continuous, irregular eye movements concentrated in a central region without systematic horizontal line-by-line patterns typical of reading or writing. The gaze frequently shifts in multiple directions within a compact area, consistent with following dynamic visual content in a video rather than exploring distinct webpage areas (browse/search) or tracking game elements across larger screen regions (play).",
+  "correct": false
+}

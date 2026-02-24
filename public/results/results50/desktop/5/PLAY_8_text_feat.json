@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around central-mid screen with frequent short saccades among nearby points, occasional medium jumps, and moderate fixation durations, forming a scattered yet locally clustered pattern typical of scanning mixed text, images, and interface elements on web pages rather than the more line-structured, long-fixation patterns of READ or the large, rapid directional shifts of PLAY/WATCH.",
+  "correct": false
+}

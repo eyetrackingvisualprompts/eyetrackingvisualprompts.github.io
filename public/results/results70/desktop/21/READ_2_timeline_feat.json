@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The target data shows predominantly lower-screen Y fixation positions with gradual rightward (X) progression and relatively small saccades, closely matching the WRITE example where gaze is focused in the lower region (near a text input area) with steady horizontal movement while typing, rather than the denser scanning or broader vertical ranges seen in SEARCH, BROWSE, or READ.",
+  "correct": false
+}

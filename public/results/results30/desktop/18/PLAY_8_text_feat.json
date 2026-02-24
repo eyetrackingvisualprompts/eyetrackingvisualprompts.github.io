@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between mid-page and multiple distinct upper regions (including near the top bar) with frequent medium-to-large vertical saccades and short fixations, indicating scanning different areas of a web page and results list rather than line-by-line reading or focused writing; this pattern best matches the SEARCH examples, which show similar vertical navigation and dispersed exploration on the page.",
+  "correct": false
+}

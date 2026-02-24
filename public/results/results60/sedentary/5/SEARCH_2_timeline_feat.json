@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal sweeps with stepwise upward shifts in Y, consistent with scanning result lists and then moving down the page, matching the SEARCH pattern more than the steadier reading or more localized coding/debugging behaviors.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cluster in a compact central region with multidirectional saccades and no strong left-to-right line structure, resembling the mixed scanning of varied elements on a webpage; this pattern matches the BROWSE example more than the more linear READ or the more dispersed SEARCH/PLAY paths.",
+  "correct": false
+}

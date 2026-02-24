@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in two vertically extended regions on the left and middle of the screen with short transitions, consistent with moving between code and nearby editor areas while implementing code, rather than continuous reading, searching, or tracking dynamic objects.",
+  "correct": false
+}

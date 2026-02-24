@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with frequent medium-amplitude vertical shifts and irregular revisits, plus several larger vertical saccades between mid and upper/lower regions. This pattern aligns with scanning heterogeneous web pages (headlines, image blocks, sections) seen in the BROWSE examples, and differs from the more line-structured READ/WRITE trajectories and the more central or edge-focused WATCH/PLAY patterns.",
+  "correct": false
+}

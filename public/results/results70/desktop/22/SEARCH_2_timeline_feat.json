@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster near screen center with moderate, irregular saccades in both axes and no strong directional drift, matching the mixed, exploratory gaze pattern seen in browsing rather than the more structured horizontal or vertical sweeps of reading, writing, or playing.",
+  "correct": false
+}

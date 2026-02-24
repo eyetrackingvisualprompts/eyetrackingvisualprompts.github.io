@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze positions show long, stable horizontal bands with occasional smooth shifts, indicating sustained fixation in central regions of the screen with infrequent saccades, consistent with passively watching a full-screen video rather than the more frequent, structured line-by-line or code-based scanning seen in reading, coding, or web tasks.",
+  "correct": true
+}

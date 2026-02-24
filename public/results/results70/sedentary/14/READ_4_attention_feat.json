@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely concentrated in a tall, narrow central region forming vertical scanning patterns consistent with reading text in a paragraph-like block, closely matching the READ example heatmap and differing from more dispersed or localized code- or search-related patterns.",
+  "correct": true
+}

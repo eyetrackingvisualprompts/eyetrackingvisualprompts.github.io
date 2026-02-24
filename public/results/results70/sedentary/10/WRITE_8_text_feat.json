@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact code/text region with many short back-and-forth saccades around the same horizontal band and long stable fixations, matching the sustained line-by-line inspection and local re-checking seen in WRITE examples, rather than the heavier vertical scanning of SEARCH/BROWSE or the more global shifts of DEBUG/INTERPRET.",
+  "correct": true
+}

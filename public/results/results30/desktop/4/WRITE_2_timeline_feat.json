@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with several shifts between mid and upper screen regions and noticeable saccades around the middle and later parts of the window, matching the mixed reading-and-navigating pattern typical of web searching rather than the more uniform lines of READ or the more scattered explorations of BROWSE or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium horizontal spread with frequent vertical shifts between mid and upper screen regions and irregular saccades, resembling scanning between search results and other page elements, which matches the SEARCH pattern more than the more regular READ or more extreme PLAY/WATCH/WRITE behaviors.",
+  "correct": false
+}

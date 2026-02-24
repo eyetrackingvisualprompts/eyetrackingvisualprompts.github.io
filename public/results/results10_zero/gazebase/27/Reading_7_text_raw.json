@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze shows complex, irregular scanpaths with multidirectional saccades of varying amplitude, extended sequences within local regions, and no strictly periodic target steps or consistent horizontal sweeps. This pattern aligns with naturalistic free viewing of dynamic scenes rather than structured tasks like horizontal or random saccades, reading, fixations, or the discrete target-centered behavior typical of the Balura game.",
+  "correct": false
+}

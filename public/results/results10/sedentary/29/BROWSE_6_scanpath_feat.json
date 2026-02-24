@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze follows a mostly horizontal path with small vertical shifts, consistent with line-by-line reading of text, matching the READ example more than the other task patterns.",
+  "correct": false
+}

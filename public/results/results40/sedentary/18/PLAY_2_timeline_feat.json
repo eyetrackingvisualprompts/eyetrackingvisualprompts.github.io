@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows extended horizontal fixations with moderately varying vertical positions and occasional larger saccades to different screen regions, resembling scanning result lists and shifting attention between result snippets, consistent with the SEARCH example pattern rather than the more regular line-by-line READ behavior or the more dispersed WATCH/PLAY patterns.",
+  "correct": false
+}

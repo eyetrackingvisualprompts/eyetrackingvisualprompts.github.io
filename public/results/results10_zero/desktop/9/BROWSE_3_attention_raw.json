@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a concentrated cluster of gaze points around the central\u2013slightly lower region, with relatively limited horizontal spread and no clear line-like scanpath typical of reading, writing, or searching/browsing text. This focused central attention pattern is more consistent with watching a video where key content (faces/action) is near the center of the screen.",
+  "correct": false
+}

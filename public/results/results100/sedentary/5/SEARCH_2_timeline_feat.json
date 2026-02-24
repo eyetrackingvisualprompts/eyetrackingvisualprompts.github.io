@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The target data shows frequent large saccades and varied fixation positions in both X and Y, with irregular, multi-directional scanning rather than stable reading lines or tight code-focused clusters. This heterogeneous, exploratory pattern best matches the free-form, mixed-layout behavior of web browsing.",
+  "correct": false
+}

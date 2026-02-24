@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows wide, frequent movements across much of the screen with dispersed fixations and no clear reading or code-inspection cluster, matching the dynamic, screen-spanning patterns seen in the PLAY example where users track moving objects or navigate in a game.",
+  "correct": false
+}

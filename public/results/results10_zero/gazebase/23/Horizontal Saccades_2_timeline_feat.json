@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates regularly between approximately +15 and -15 degrees on the horizontal axis with near-zero vertical variation and about 1-second plateaus at each extreme, matching the controlled \u00b115\u00b0 horizontal tracking task description.",
+  "correct": true
+}

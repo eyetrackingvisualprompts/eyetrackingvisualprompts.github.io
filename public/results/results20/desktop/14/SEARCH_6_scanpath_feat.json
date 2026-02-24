@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a moderately compact cluster around the upper-middle screen with short saccades and small local excursions, resembling the browsing example more than the more linear READ pattern, the more dispersed SEARCH pattern, or the focused clusters of WRITE and PLAY.",
+  "correct": false
+}

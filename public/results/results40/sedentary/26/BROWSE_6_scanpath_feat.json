@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze covers large central and lower-right screen regions with long cross-screen saccades and relatively few tight clusters, matching the broad, dynamic viewing pattern typical of watching fullscreen video rather than the more localized or structured patterns seen in coding, reading, search, or gameplay.",
+  "correct": false
+}

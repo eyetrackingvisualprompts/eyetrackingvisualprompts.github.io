@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze moves smoothly and continuously along a diagonal trajectory with no repetitive horizontal scanning or dispersed exploratory pattern, suggesting visually tracking a moving object (typical in gameplay) rather than reading, searching, browsing, writing, or passively watching static video content.",
+  "correct": false
+}

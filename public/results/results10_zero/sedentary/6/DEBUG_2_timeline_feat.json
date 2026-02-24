@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, gradual drifts in both X and Y without systematic left\u2011to\u2011right/line\u2011by\u2011line patterns or frequent regressions typical of reading or coding. Movements are moderate and continuous, consistent with following dynamic, centrally located video content in a WATCH task rather than the structured scanning seen in READ/WRITE/DEBUG/INTERPRET/SEARCH/BROWSE or the rapid large shifts common in PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between dispersed positions across the screen with large, multi-directional saccades (both horizontal and vertical, often >10\u00b0) and ~200\u2013300 ms fixations, matching pursuit of a target that jumps to random locations rather than constrained horizontal motion, central fixation, or structured reading/game patterns.",
+  "correct": false
+}

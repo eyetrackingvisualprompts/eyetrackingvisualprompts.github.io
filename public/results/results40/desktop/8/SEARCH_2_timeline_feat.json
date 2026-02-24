@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower half of the screen (low Y fixation) with relatively small, steady horizontal movements and limited vertical range, matching the pattern of looking at and typing near a text-entry area rather than scanning large areas (SEARCH/BROWSE) or full-screen content (READ/WATCH/PLAY).",
+  "correct": false
+}

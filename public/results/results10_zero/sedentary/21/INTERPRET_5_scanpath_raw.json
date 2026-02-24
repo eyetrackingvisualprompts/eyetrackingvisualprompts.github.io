@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze path is confined to a compact vertical strip on the left side of the screen with frequent short saccades and revisits, characteristic of focused work within a code editor area (reading and editing a few nearby lines), which aligns best with the WRITE programming task rather than broader scanning or full-screen viewing patterns of other activities.",
+  "correct": false
+}

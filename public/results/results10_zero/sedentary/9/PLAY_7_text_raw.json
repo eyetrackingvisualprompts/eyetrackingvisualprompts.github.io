@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze coordinates show large, smooth movements across wide vertical and horizontal ranges with many short fixations scattered over the screen rather than aligned in rows or code/text structures. This pattern matches following dynamic visual content (video) more than the structured, line-based or task-focused scanning typical of reading, coding (INTERPRET/DEBUG/WRITE), searching, or browsing, and lacks the tight object-tracking focus characteristic of simple games like Pong or Mario, making WATCH the most likely activity.",
+  "correct": false
+}

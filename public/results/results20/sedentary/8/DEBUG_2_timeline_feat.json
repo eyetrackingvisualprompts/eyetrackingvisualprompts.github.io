@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Long, stable central fixations with very few saccades and minimal horizontal/vertical scanning indicate the participant is mostly focused on a single region (e.g., code editor text cursor area), matching the WRITE pattern more than the other activities that show broader or more dynamic gaze movements.",
+  "correct": false
+}

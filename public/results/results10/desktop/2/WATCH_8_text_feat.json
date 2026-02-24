@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates repeatedly between a band in the upper part of the screen (around y\u22480.22\u20130.28) and a central band (y\u22480.42\u20130.51), with vertical saccades of moderate amplitude and fixations of a few hundred milliseconds. This pattern matches scanning between search box/top results and mid-page content, characteristic of SEARCH, rather than the more line-structured READ or the more dispersed WATCH/PLAY/BROWSE behaviors in the examples.",
+  "correct": false
+}

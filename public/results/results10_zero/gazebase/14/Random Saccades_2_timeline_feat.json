@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show stepwise changes in both horizontal and vertical directions with roughly 1-second plateaus at each location and movements of several degrees in varied directions, matching a randomly moving target rather than purely horizontal or static fixation, reading, gaming, or natural video viewing patterns.",
+  "correct": true
+}

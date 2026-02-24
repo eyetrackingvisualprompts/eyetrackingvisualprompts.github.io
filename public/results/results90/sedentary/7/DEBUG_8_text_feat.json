@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated scanning of horizontally arranged text-like regions around mid-screen, interleaved with large vertical jumps to top/bottom areas and occasional excursions to screen corners, consistent with reading results, jumping to query/address bar or other page regions, and reformulating/inspecting content as in web search, rather than the more locally constrained patterns of READ/INTERPRET/DEBUG or the smoother object-following of WATCH/PLAY.",
+  "correct": false
+}

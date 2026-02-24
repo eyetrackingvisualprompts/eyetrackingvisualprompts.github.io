@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a central screen region with multidirectional movements and scattered fixations, closely matching the example BROWSE pattern rather than the more linear READ/WRITE paths or the wider SEARCH/WATCH distributions.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely dispersed across the entire screen with many large saccades in all directions and frequent shifts between multiple regions, closely matching the exploratory and dynamic scanpath typical of gameplay rather than the more localized or structured patterns of reading, coding, or browsing.",
+  "correct": false
+}

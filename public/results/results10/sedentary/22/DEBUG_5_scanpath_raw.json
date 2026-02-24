@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a central code area with frequent short saccades and occasional long shifts to top/bottom, closely resembling the DEBUG example pattern where users alternate between code, errors, and execution output rather than the more linear patterns of READ/WRITE or the broader exploration of BROWSE/SEARCH.",
+  "correct": true
+}

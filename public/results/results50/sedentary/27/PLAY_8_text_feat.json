@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large saccades between widely separated regions (center, upper, and lower parts of the screen), repeated transitions between mid-page content and far-down/up areas, and scattered fixations without the orderly horizontal scanlines of READ or the tight code-centered clusters of WRITE/DEBUG/INTERPRET. This heterogeneous, exploratory scan pattern best matches the free-form navigation and varied layout typical of BROWSE examples.",
+  "correct": false
+}

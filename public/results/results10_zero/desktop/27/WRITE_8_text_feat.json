@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains clustered in a small central region with short, mostly local saccades and moderate-to-long fixations, suggesting following centrally located dynamic content (e.g., video) rather than systematic line-by-line scanning (READ), dispersed exploration (SEARCH/BROWSE), or larger task-driven shifts (WRITE/PLAY).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze patterns show frequent shifts between multiple vertical regions and irregular horizontal movements, resembling scanning of search results and occasional focus on different areas, which matches the SEARCH example more closely than the more structured reading/browsing or focused coding-related tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanning around mid-screen and top navigation-like regions with frequent long saccades across wide x-coordinates, intermittent jumps to lower/side areas, and no clear line-by-line reading or code-structure revisits. The pattern closely resembles the heterogeneous, exploratory gaze behavior seen in the BROWSE examples rather than the more structured patterns of READ, WRITE, DEBUG, or INTERPRET, and lacks the tight object-following typical of PLAY or the scene-centric clustering of WATCH.",
+  "correct": false
+}

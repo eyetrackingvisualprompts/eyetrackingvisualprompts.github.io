@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate horizontal movement with relatively stable vertical position, plus occasional vertical shifts and a large transition around the middle\u2014matching scanning results and moving between query box, results list, and lower content typical of SEARCH behavior more than the steadier READ or more erratic PLAY/BROWSE patterns.",
+  "correct": false
+}

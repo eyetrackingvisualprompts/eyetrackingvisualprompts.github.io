@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain nearly constant around the center with only small drifts and occasional brief artifacts, matching the static central fixation pattern and differing from the larger, more frequent saccades in the other tasks.",
+  "correct": true
+}

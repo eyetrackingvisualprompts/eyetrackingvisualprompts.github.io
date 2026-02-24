@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay around screen center with moderate, irregular saccades in both axes and no strong monotonic horizontal or vertical scanning pattern, matching the mixed, exploratory viewing typical of web/news browsing rather than structured reading, writing, or video watching.",
+  "correct": false
+}

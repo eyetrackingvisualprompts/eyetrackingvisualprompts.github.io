@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered around a single left-side code area with some vertical spread, closely matching the DEBUG example\u2019s focused yet locally distributed gaze pattern rather than the more centralized INTERPRET or broader WRITE layouts.",
+  "correct": false
+}

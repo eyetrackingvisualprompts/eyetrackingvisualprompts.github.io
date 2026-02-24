@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions remain in a narrow horizontal band with small, irregular shifts and occasional brief vertical excursions, matching the mostly central, mildly jittery pattern seen in the WRITE example rather than the larger saccades of reading, searching, browsing, watching, or playing.",
+  "correct": false
+}

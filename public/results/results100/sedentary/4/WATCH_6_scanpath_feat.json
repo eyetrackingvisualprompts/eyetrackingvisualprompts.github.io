@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely dispersed across the screen with many medium-to-large fixations and irregular saccades, lacking the structured horizontal patterns of reading or browsing. This broad, dynamic spread best matches the viewing behavior seen in the WATCH examples for video watching.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent vertical transitions between two main Y-bands (likely query box and results) with intermittent larger saccades and moderate horizontal movement, closely matching the SEARCH example pattern and differing from the more continuous reading or focused code-related tasks.",
+  "correct": true
+}

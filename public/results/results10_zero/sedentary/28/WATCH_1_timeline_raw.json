@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, abrupt jumps in both X and Y with extended periods at distinct positions, resembling following and re-centering on moving game elements rather than the tighter, line-based scanning typical of reading or code tasks, or the smoother, broader motions of watching video or browsing/searching.",
+  "correct": false
+}

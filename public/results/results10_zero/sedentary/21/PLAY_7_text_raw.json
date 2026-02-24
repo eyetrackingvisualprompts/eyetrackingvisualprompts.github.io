@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show dense, localized horizontal movements with small vertical shifts, consistent with left-to-right line scanning and line transitions typical of reading text, rather than the larger, more erratic jumps or object-following seen in search, browsing, coding, or gameplay activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts in smooth, mostly horizontal bands at multiple vertical levels, with repeated leftward jumps from rightmost positions back to mid/left and then scanning right again. This pattern closely matches the structured, line-like, scroll-following movements seen in the BROWSE examples (e.g., long sweeps across width at y\u2248400, 500, 600, 700) rather than the more localized code-centric patterns of WRITE/INTERPRET/DEBUG or the dispersed, scene-based patterns of WATCH/PLAY/SEARCH.",
+  "correct": true
+}

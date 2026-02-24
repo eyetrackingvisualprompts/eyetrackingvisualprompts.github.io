@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows horizontal sweeps across upper part of screen with some vertical moves and scattered fixations over a wide area, resembling reading and navigation over multiple webpage elements rather than focused central viewing (WATCH) or tight code/text regions (WRITE/DEBUG/READ).",
+  "correct": true
+}

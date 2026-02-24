@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze trajectory shows predominantly left-to-right sweeps with small vertical shifts and clusters of relatively stable gaze positions along horizontal bands, matching line-by-line reading patterns rather than large, discrete target jumps (saccades tasks), long central fixation, or the more irregular, scene-driven movements of video viewing or game play.",
+  "correct": true
+}

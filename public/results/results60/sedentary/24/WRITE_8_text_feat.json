@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent long-range saccades between far right (high x) and left code region, with dense fixations around mid-left coordinates (\u2248300\u2013650x, 300\u2013420y) and occasional trips to top/edge locations, closely matches the WRITE pattern where participants alternate between code editing and other IDE UI elements, rather than the tighter, more localized scanning of INTERPRET/DEBUG or the smoother horizontal stripes of READ/SEARCH.",
+  "correct": true
+}

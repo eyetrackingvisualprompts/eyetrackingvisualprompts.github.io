@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixation lines show systematic, repeated horizontal scans with small, regular saccades and a gradual downward drift in Y over time, closely matching the structured line-by-line reading pattern seen in the READ example and unlike the more scattered or highly dynamic patterns in SEARCH, BROWSE, PLAY, WATCH, or WRITE.",
+  "correct": true
+}

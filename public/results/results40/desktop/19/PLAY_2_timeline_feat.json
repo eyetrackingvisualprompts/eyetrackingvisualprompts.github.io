@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mid-screen, relatively stable X positions with modest vertical variation and frequent small saccades, resembling mixed scanning without the systematic horizontal sweeps of reading or the large directional shifts typical of play/search; this pattern best matches the browsing example.",
+  "correct": false
+}

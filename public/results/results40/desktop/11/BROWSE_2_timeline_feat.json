@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation trajectories stay near the screen center with moderate horizontal and vertical shifts and frequent medium saccades, closely matching the browsing example pattern and differing from the larger excursions of PLAY or the more structured scanning of READ/SEARCH.",
+  "correct": true
+}

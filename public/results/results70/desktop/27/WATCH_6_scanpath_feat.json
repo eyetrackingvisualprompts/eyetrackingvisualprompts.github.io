@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster around the screen center with moderate vertical position, similar to the example BROWSE scanpath and indicative of focused viewing on a central web-content area rather than the top text lines (READ/WRITE) or more dispersed patterns (SEARCH/PLAY/WATCH).",
+  "correct": false
+}

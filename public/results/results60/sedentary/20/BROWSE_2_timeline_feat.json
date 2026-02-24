@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid saccades and wide-ranging movements in both X and Y directions across the whole screen, with frequent shifts rather than line-by-line or localized scanning. This dynamic, dispersed pattern best matches game playing behavior compared with the more constrained or structured patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

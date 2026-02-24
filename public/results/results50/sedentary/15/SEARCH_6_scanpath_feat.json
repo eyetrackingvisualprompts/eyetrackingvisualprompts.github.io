@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a dense vertical region on the left (search results list) and a central block (opened result), with frequent long saccades across the screen, matching the multi-area, back-and-forth pattern characteristic of search tasks rather than focused reading or coding.",
+  "correct": true
+}

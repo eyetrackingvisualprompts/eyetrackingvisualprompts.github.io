@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays in a relatively narrow horizontal band with slowly rising Y-position and small, regular saccades\u2014matching steady line-by-line progression with limited vertical range typical of typing in a word processor, and differing from the larger vertical sweeps of READ or the more scattered patterns of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

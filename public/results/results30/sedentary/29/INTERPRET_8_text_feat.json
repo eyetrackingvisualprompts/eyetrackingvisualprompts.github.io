@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades spanning large horizontal and vertical extents (including off-center/top UI regions), repeated returns to side/top areas, and scanning across a wide portion of the display resemble navigating around diverse web page regions more than the more structured, line-based patterns of READ or the code-focused, central clustering of WRITE/DEBUG/INTERPRET. The large jumps to extreme right coordinates (1500\u20131650 px) are typical of web navigation elements or side content in browsing sessions.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions cluster near screen center with moderate, irregular fixations and saccades in both axes, lacking the strong vertical scanning of READ, structured typing pattern of WRITE, or large multi-directional shifts of PLAY/SEARCH/WATCH; this pattern best matches the browsing example.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is widely distributed with frequent transitions between central, upper, and lower areas, reflecting shifts between search box, result list, and content areas, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

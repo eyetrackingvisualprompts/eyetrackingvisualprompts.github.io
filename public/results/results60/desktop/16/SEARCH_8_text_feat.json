@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades across wide screen regions (including to screen corners and edges), mixed with short fixations and clusters in the upper area, match the dynamic, multi-directional gaze patterns seen in the PLAY examples and are less consistent with more centrally confined, line- or column-structured movements of READ/WRITE/BROWSE/SEARCH or the more locally clustered WATCH patterns.",
+  "correct": false
+}

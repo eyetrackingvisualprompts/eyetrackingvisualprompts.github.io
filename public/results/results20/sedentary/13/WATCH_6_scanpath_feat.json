@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points span a wide area of the screen with long, rapid saccades in many directions and fewer tight clusters, resembling continuous tracking of moving objects and navigation typical in game play rather than the more localized or linear patterns seen in reading, coding, or browsing tasks.",
+  "correct": false
+}

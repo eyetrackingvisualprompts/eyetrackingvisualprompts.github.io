@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically across multiple regions on the left side, indicating scanning of several elements (e.g., search box, results list, snippets) rather than focused reading or code inspection, matching the SEARCH pattern best.",
+  "correct": false
+}

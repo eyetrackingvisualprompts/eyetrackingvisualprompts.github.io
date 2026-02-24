@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered with slow, small-amplitude shifts primarily within a mid-horizontal band and modest vertical variation, indicative of sequential line scanning and short regressions typical of reading text rather than the larger, multidirectional saccades seen in playing games, browsing/searching, or watching video.",
+  "correct": false
+}

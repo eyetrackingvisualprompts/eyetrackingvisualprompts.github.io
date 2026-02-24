@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows mostly horizontal code-line scanning with small, frequent shifts and occasional brief vertical jumps resembling movements between nearby lines or interface elements, closely matching the DEBUG example pattern and differing from the more regular READ or more scattered BROWSE/SEARCH behaviors.",
+  "correct": false
+}

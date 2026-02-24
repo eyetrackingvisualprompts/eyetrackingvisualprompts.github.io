@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated around a horizontal band typical of reading search results, with frequent saccades between left and right regions and occasional larger jumps to the top area, resembling the SEARCH example more than other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across the full screen (including off-center/top/bottom extremes), many revisits to dispersed regions, and irregular, non-line-based scanning with mixed long and short fixations match free-form web navigation patterns seen in the BROWSE examples, rather than the more structured or code/text-focused patterns of READ/WRITE/INTERPRET/DEBUG or the smoother object-following/playback behaviors of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows dispersed fixations over a broad central area with frequent saccades between multiple regions, resembling the exploratory, multi-region scanning seen in the SEARCH example more than the more localized or structured patterns of READ, WRITE, WATCH, BROWSE, or PLAY.",
+  "correct": false
+}

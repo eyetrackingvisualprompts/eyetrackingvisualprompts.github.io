@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves across a wide vertical span with larger saccades between a few salient regions rather than dense clustered fixations; this pattern matches following dynamic video content more than reading, writing, searching, browsing, or game play, which show more localized or horizontally biased scanpaths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, slowly drifting trajectories with occasional vertical shifts and brief saccades, indicating following continuous on-screen motion rather than systematic line-by-line reading or dense interactive scanning typical of writing, browsing, searching, or gameplay. This pattern best matches passively watching a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small region near the upper-left code area with little horizontal spread, matching the focused, localized viewing pattern seen in the INTERPRET example rather than the broader scanning of SEARCH/BROWSE or the more extensive code coverage of DEBUG/WRITE.",
+  "correct": false
+}

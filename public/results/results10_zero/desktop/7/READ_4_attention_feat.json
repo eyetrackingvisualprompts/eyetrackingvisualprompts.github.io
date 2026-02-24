@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band at a consistent vertical position, indicating left-to-right scanning along a single text line, which is characteristic of reading behavior rather than more dispersed or multi-directional patterns seen in play, search, watch, write, or browse activities.",
+  "correct": true
+}

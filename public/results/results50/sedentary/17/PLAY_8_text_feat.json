@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-distance saccades across horizontal regions with many medium-to-long fixations around the central band of the page, occasional large jumps to top/side areas, and revisits to similar horizontal coordinates match the scan-and-revisit pattern of examining search results, rather than the more linear READ pattern or the code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

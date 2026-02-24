@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze transitions between an upper horizontal band (likely search results or query area) and a lower band, with several lateral sweeps across the screen but fewer vertical reading lines, matching the search-example scanpath more than browsing or reading patterns.",
+  "correct": false
+}

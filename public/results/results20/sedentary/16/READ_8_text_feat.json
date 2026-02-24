@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze stays within a relatively narrow vertical band typical of a code editor, with many medium-to-long fixations and repeated saccades between nearby horizontal positions, suggesting scanning and re-checking code rather than linear reading or dynamic object tracking as in games or videos.",
+  "correct": false
+}

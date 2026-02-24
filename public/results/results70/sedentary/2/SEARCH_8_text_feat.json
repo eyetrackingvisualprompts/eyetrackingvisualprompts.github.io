@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and horizontal gaze shifts across wide screen areas, including to extreme bottom/right coordinates and off-center regions, with many mid-length fixations and returns to similar horizontal bands, is characteristic of scrolling and exploring web pages rather than structured line-by-line reading or code-focused tasks. The pattern closely resembles the provided BROWSE examples in both spatial spread and saccade behavior.",
+  "correct": false
+}

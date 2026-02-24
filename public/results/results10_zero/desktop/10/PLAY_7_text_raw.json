@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show predominantly horizontal movements within constrained vertical bands and repeated fixations along similar y-levels, consistent with line-by-line reading of text, rather than the larger, multidirectional, and more exploratory scanpaths typical of browsing, searching, gameplay, or video watching with multiple dynamic foci.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is largely confined to a relatively small central-left code/text region with repeated short saccades between nearby lines and columns, plus frequent returns to the same coordinates and occasional excursions to the top of the screen\u2014matching the pattern of editing and monitoring code in WRITE more than the longer-range, multi-region navigation seen in DEBUG or SEARCH, or the line-sweep patterns of READ/BROWSE.",
+  "correct": false
+}

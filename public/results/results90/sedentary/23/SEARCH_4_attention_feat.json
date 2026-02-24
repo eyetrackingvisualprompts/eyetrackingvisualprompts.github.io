@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The heatmap shows extended horizontal scanning near the top and mid-screen with several dispersed clusters, similar to reading and navigating multiple web page regions, matching the BROWSE pattern more than the more localized code or game-related activities.",
+  "correct": false
+}

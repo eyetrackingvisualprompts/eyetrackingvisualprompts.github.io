@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze frequently traverses large vertical and horizontal extents (near top, bottom, and corners), with many long saccades between widely separated regions (e.g., from upper text-like bands to bottom/top UI areas). This broad, dynamic scanning pattern matches the PLAY examples more than the more band-limited, columnar patterns seen in READ/WRITE or the relatively mid-screen focused patterns in BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

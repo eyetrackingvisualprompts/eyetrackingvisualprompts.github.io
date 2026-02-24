@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered widely over the entire screen in both horizontal and vertical directions without forming the narrow horizontal band typical of reading or the strong central clustering of fixation. The distribution matches a target that jumps to many discrete positions across the display, consistent with Random Saccades rather than structured stimuli like video or the Balura game.",
+  "correct": false
+}

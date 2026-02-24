@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a narrow horizontal band around the screen center with minimal vertical spread, indicating sustained viewing of a central dynamic scene rather than vertical scanning of text or dispersed exploration typical of reading, browsing, searching, or gameplay; this pattern aligns best with watching a video clip.",
+  "correct": false
+}

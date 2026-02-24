@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a single compact region with short saccades and no large excursions across the screen, closely matching the INTERPRET example where attention is focused on a small code snippet rather than spread over wider areas as in READ, SEARCH, or DEBUG.",
+  "correct": false
+}

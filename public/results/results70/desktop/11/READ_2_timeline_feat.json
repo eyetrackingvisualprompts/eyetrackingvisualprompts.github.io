@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively regular, small-amplitude horizontal movements with a slow vertical drift over time, matching typical line-by-line reading behavior and closely resembling the READ example pattern more than the other task profiles.",
+  "correct": true
+}

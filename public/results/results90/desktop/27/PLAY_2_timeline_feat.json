@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations fluctuate around the screen center with frequent, irregular saccades and no strong directional trend, matching the scattered, multidirectional gaze pattern seen in the BROWSE example rather than the more structured horizontal (READ/WRITE) or task-focused patterns (SEARCH/WATCH/PLAY).",
+  "correct": false
+}

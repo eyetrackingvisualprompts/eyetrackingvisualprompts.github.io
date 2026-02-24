@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several abrupt vertical shifts in both X and Y, with periods of scanning at mid-screen followed by quick jumps, resembling transitions between search results and clicked pages, which matches the SEARCH pattern more than the steadier BROWSE or structured READ trajectories.",
+  "correct": false
+}

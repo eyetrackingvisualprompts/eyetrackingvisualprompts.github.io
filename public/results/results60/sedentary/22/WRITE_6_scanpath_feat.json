@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is split between a dense cluster on the left (reading/analysis area) and a second cluster on the right (results/answer area), with frequent long horizontal saccades between them, matching the pattern of checking search results and referenced pages rather than the more localized code-focused (WRITE/DEBUG/INTERPRET) or continuous reading/browsing patterns.",
+  "correct": false
+}

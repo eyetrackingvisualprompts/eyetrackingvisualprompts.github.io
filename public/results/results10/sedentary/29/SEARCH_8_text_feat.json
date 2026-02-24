@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal fixations around a mid-screen line, with sequential movements along that line and occasional long saccades up/down consistent with scrolling or shifting between sections, closely matching the browsing example pattern rather than the more structured, code-centered or line-by-line reading patterns of WRITE/INTERPRET/DEBUG/READ or the more global, stimulus-driven shifts of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show relatively structured horizontal movements with gradual shifts and moderate vertical variation, resembling line-by-line reading patterns and matching the dynamics of the READ example more closely than the other activities.",
+  "correct": false
+}

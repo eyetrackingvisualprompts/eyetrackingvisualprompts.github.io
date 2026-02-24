@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a compact region with dense, repeated fixations between a few vertical bands (around y\u2248150\u2013250, 300\u2013380, 500\u2013620), frequent returns from middle code area to higher and lower bands, and many medium\u2011length fixations indicative of scrutinizing existing text rather than reading long lines or scanning widely. The pattern closely matches the INTERPRET/DEBUG code-view behaviors, but the extensive revisits to similar vertical locations and back-and-forth between mid and lower areas (likely code and console/output) are more characteristic of debugging than one\u2011shot interpretation or linear reading/searching.",
+  "correct": true
+}

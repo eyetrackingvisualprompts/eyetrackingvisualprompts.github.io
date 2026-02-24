@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is widely distributed across the screen with many long saccades in multiple directions and no clear line-by-line reading or code-centered clustering, matching the dispersed viewing pattern seen in the WATCH example video-watching task.",
+  "correct": false
+}

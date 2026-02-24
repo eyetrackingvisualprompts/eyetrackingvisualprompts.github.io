@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Dense, local gaze around a dynamic region with frequent short saccades between nearby positions and occasional larger jumps (e.g., from mid to upper screen and back) matches the object-following/anticipatory patterns seen in the PLAY examples more than the more linear scanpaths of READ/BROWSE or the code-focused clusters of WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

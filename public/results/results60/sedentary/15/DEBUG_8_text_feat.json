@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around code-like regions (mid-left of screen) with many short saccades and medium-long fixations, frequent revisits between a few clusters (suggesting checking different code lines/regions), and repeated shifts between a central working area and top/side areas typical of code headers or error locations. The pattern matches the DEBUG examples more than the more linear READ/INTERPRET or the more dispersed BROWSE/SEARCH/WATCH/PLAY behaviors.",
+  "correct": true
+}

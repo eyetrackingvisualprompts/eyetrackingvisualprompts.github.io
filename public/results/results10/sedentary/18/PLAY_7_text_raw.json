@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points progress smoothly along a narrow horizontal band with small regressions and clusters, then shift slightly downward\u2014matching line-by-line reading behavior rather than large spatial jumps typical of search, browsing, or games.",
+  "correct": false
+}

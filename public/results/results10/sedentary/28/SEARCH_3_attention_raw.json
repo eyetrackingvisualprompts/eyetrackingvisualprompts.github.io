@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated on a narrow left-side code/text region with vertical spread across several lines and moderate revisits, closely matching the INTERPRET example heatmap and differing from the denser central cluster of DEBUG or WRITE and the broader spread seen in BROWSE or WATCH.",
+  "correct": false
+}

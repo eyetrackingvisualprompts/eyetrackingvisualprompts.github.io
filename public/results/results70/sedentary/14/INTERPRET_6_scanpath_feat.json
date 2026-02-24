@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered over a compact region of the code area with limited horizontal spread and minimal excursions elsewhere, closely matching the INTERPRET example where participants focus on a single snippet to reason about its output, rather than the broader dispersion seen in DEBUG or navigation patterns in other tasks.",
+  "correct": true
+}

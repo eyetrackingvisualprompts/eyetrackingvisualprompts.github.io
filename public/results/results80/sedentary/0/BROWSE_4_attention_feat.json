@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread vertically over a long central column with additional fixations on the upper and lower regions, resembling scanning a search results page rather than the tighter bands seen in READ/BROWSE or the localized clusters in code-related tasks.",
+  "correct": false
+}

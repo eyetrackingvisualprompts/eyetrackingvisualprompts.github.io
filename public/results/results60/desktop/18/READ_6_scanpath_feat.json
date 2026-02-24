@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves smoothly across a wide horizontal region with moderate vertical shifts and a few denser clusters, resembling following moving elements on a video rather than the tight lines of reading/writing or the more scattered, multi-cluster patterns of browsing, search, or gameplay.",
+  "correct": false
+}

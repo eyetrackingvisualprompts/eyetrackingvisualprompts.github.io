@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points cover large portions of the screen with many smooth, continuous shifts across wide horizontal and vertical ranges, including corners and central regions, consistent with following dynamic visual content in a full-screen video rather than focused, line-by-line or area-specific inspection typical of reading, coding, searching, or gameplay control.",
+  "correct": false
+}

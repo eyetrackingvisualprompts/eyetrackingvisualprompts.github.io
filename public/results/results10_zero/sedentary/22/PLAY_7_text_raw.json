@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, rapid movements across wide screen areas with frequent direction changes and revisits, consistent with tracking dynamic game elements and monitoring multiple regions, rather than the more line-structured, localized patterns typical of reading, coding, browsing, or search tasks, or the smoother, more clustered gaze of passive video watching.",
+  "correct": true
+}

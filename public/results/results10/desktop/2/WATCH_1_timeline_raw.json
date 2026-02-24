@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated horizontal sweeps at mid-screen Y levels, interleaved with rapid vertical shifts between two main bands\u2014consistent with scanning and jumping between items on web pages, matching the browsing pattern more than the steadier read/search or the more variable watch/play/write examples.",
+  "correct": false
+}

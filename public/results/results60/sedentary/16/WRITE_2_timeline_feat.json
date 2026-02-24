@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed horizontal scanning with frequent vertical shifts and scattered saccades, especially in the later segment, resembling transitions between results snippets and different page regions, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

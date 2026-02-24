@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position shows large, regular, nearly symmetric horizontal jumps between about \u22125 and +11 dva with plateaus of roughly 1 s between changes, while Y position stays near the midline with only slight drift. This pattern matches controlled horizontal target tracking rather than random or natural viewing behaviors.",
+  "correct": false
+}

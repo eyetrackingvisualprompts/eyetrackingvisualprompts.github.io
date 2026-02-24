@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is centered mid-screen with many small horizontal shifts and local fixations, plus occasional short jumps\u2014closely matching the mixed scanning-and-scroll pattern in the BROWSE example and differing from the more static, line-based READ pattern or the stronger vertical excursions in SEARCH and WATCH.",
+  "correct": false
+}

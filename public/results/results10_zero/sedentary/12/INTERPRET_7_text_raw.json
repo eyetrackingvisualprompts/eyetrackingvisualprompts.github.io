@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, locally clustered horizontal progressions with relatively small vertical shifts, consistent with line-by-line text reading rather than the larger scene-wide shifts seen in browsing, searching, coding, or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a horizontal band near the top of the screen with additional scattered points lower down, matching the pattern of scanning search results and occasionally looking at content below, similar to the SEARCH example heatmap.",
+  "correct": false
+}

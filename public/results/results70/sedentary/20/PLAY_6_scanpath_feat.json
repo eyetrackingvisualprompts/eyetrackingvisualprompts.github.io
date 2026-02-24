@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated in a single central code-like region with a few initial and final jumps to other points, closely resembling the INTERPRET example where attention is mainly on one snippet rather than dispersed as in SEARCH/BROWSE or dynamic as in WATCH/PLAY.",
+  "correct": false
+}

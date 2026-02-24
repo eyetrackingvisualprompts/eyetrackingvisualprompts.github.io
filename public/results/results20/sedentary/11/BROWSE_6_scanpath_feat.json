@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a mid-left vertical band with repeated transitions between a code area and a lower region (likely console or editor controls), showing structured yet revisiting scanpaths similar to the WRITE example rather than the tighter, more localized INTERPRET/DEBUG patterns or the broader exploratory SEARCH/BROWSE patterns.",
+  "correct": false
+}

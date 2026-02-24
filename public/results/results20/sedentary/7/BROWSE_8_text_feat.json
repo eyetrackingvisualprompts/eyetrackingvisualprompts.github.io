@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent shifts between distant screen regions (including near top edge, bottom edge, and far corners) followed by shorter scanning within horizontal bands match scanning search results and query bar, resembling the SEARCH example more than the more local, structured patterns in coding, reading, or watching tasks.",
+  "correct": false
+}

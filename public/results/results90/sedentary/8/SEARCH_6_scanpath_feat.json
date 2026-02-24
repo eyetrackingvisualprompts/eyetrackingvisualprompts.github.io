@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal left-to-right sweeps in a compact band with occasional return saccades, matching line-by-line reading behavior rather than the more scattered or multi-region patterns of browsing, searching, or coding tasks.",
+  "correct": false
+}

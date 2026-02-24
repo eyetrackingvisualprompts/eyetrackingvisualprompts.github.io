@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper half of the screen with several distinct clusters rather than tight lines of text or central video focus, consistent with scanning search results or a SERP layout rather than continuous reading, coding, or gameplay.",
+  "correct": false
+}

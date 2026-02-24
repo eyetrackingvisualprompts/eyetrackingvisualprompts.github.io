@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains near the central horizontal band with small, systematic horizontal saccades and long, stable fixations, closely matching the structured, line-by-line scan and limited vertical movement seen in the READ examples rather than the larger, more erratic shifts characteristic of BROWSE/SEARCH or the wide-range movements of PLAY/WATCH.",
+  "correct": false
+}

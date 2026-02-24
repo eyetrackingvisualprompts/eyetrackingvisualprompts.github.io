@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows widespread, multi-directional exploration over much of the screen with many short fixations and frequent shifts between regions, matching the active, scattered viewing typical of using a search engine (search results, query box, related links) rather than the more line-structured patterns of READ or the more localized clusters seen in WRITE or PLAY.",
+  "correct": true
+}

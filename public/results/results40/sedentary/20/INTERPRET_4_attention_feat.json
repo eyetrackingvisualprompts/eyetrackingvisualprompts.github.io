@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small vertical strip on the upper-left side of the screen with little spread elsewhere, matching the localized code/IDE area pattern seen in WRITE more than the other activities.",
+  "correct": false
+}

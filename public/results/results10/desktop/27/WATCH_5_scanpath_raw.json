@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze path covers a moderate central area with irregular multi-directional saccades and revisits, lacking the strong horizontal line structure of reading or the tight localized cluster of writing, and it is less vertically constrained than typical search snippets, matching the mixed exploratory pattern seen in browsing examples.",
+  "correct": false
+}

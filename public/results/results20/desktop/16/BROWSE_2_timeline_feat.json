@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal movements with frequent changes in both X and Y positions and varied saccades, indicating scanning different screen regions (results list, query box, possible pages), which aligns best with the SEARCH pattern compared to the more localized patterns of READ/WRITE or the distinct trends of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

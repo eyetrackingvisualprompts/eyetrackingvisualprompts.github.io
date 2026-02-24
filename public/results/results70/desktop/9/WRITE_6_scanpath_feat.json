@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a small upper-left region with minimal horizontal or vertical spread, indicating focus on a localized area such as the text entry location in a word processor, matching the WRITE pattern more than the broader, line-like distributions of READ/BROWSE or the wider scatters of SEARCH/PLAY/WATCH.",
+  "correct": true
+}

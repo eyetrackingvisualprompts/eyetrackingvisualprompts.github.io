@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Long early pauses and very long saccades between lower screen (likely code/output) and upper screen (likely editor or other UI) resemble WRITE patterns; later, gaze stabilizes into horizontal scan lines around a consistent vertical region, consistent with reading and editing code rather than dynamic game play or passive video watching.",
+  "correct": false
+}

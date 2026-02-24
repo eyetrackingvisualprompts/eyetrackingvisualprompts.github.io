@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact code/line region with frequent short saccades and long, repeated fixations around y\u2248430\u2013470, including many up\u2013down revisits between nearby lines, matching the detailed, localized inspection pattern seen in the WRITE examples rather than the more distributed scanning of SEARCH/BROWSE or the horizontal sweep of READ/WATCH.",
+  "correct": false
+}

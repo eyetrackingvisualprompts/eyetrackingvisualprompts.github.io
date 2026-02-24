@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations are concentrated in three discrete horizontally-aligned clusters near the same vertical level, indicating repeated horizontal movements between stable positions, matching the horizontal saccade task pattern.",
+  "correct": true
+}

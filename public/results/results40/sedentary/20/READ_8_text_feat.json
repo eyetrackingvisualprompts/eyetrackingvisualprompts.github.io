@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a relatively narrow vertical band with many long, smooth, lateral saccades and modest fixations, indicating continuous tracking of moving content rather than line-by-line reading or code inspection. The broad horizontal sweeps and absence of structured row/column scanning match the WATCH exemplars more than search, browse, or code-related tasks.",
+  "correct": false
+}

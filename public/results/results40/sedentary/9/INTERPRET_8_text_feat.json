@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between top toolbar/URL-bar region and lower content areas, repeated jumps to extreme top/bottom page regions, and scanning within a mid-page band resemble search engine result navigation and page jumps more than the more linear patterns of READ or the code-focused clusters of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

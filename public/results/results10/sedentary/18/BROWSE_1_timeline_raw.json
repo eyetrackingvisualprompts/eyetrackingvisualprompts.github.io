@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The X position shows smooth, mostly left-to-right sweeps with periodic regressions and line-change-like jumps, while Y remains relatively stable with small drift\u2014matching reading patterns and closely resembling the READ example plot more than other task types.",
+  "correct": false
+}

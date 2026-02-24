@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered around the central vertical region with substantial spread in both vertical and horizontal directions, resembling the exploratory but center-focused pattern of the SEARCH example rather than the more horizontally banded READ/WRITE or widely dispersed WATCH/PLAY patterns.",
+  "correct": false
+}

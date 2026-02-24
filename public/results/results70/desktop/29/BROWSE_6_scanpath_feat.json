@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in a central region with frequent shifts among multiple nearby areas, indicating interaction with varied elements on a search results page; this pattern closely matches the SEARCH example more than the more constrained READ/WRITE or the more dispersed PLAY/WATCH patterns.",
+  "correct": false
+}

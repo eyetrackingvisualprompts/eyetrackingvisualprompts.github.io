@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are concentrated near the screen center with multidirectional saccades and moderate spread, resembling the exploratory yet focused pattern of looking over search results, which matches the SEARCH example more than the other activities.",
+  "correct": true
+}

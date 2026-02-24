@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly confined to the lower half of the screen with many short, local saccades around a narrow band and frequent returns to nearby positions, interspersed with occasional vertical jumps\u2014matching the fine-grained, line-local movements and sporadic shifts typical for typing and checking written text, and dissimilar to the more regular horizontal scanpaths of reading or the broader exploratory patterns of browsing/searching or watching/playing.",
+  "correct": false
+}

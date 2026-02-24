@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a moderate vertical range with several distinct clusters and irregular saccades, resembling scanning mixed text and images on web pages, which matches the browsing pattern more than the more linear READ/WRITE or the more dynamic WATCH/PLAY examples.",
+  "correct": false
+}

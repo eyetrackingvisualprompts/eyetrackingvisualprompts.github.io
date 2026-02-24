@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The data shows continuous, small-amplitude, irregular gaze drifts with occasional moderate saccades in varying directions, lacking the strict horizontal alternation of Horizontal Saccades, the highly central stability of Fixations, the large random jumps of Random Saccades, or the structured line-by-line horizontal patterns of Reading. The pattern matches the naturalistic, varied eye movements characteristic of Video Viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows mostly horizontal movements across mid-screen with clusters over two main regions, resembling scanning result snippets and then focusing on specific entries, which aligns best with the SEARCH pattern among the examples.",
+  "correct": false
+}

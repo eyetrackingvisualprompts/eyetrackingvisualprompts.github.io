@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the screen center with limited dispersion, resembling the BROWSE example pattern where users attend mainly to a central content area rather than scanning widely as in READ, WRITE, or PLAY.",
+  "correct": false
+}

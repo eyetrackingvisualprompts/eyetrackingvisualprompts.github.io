@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderately wide horizontal exploration with frequent saccades and variability in vertical position, resembling the mixed scanning of results pages and clicked content; this pattern most closely matches the SEARCH example compared to the more uniform READ/WRITE and more erratic PLAY/BROWSE patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers a broad central band with repeated shifts between upper and middle areas, suggesting alternation between query box, result titles, and snippets\u2014more dispersed than READ/INTERPRET/DEBUG but less erratic and full-screen than PLAY/WATCH, matching the SEARCH example pattern.",
+  "correct": false
+}

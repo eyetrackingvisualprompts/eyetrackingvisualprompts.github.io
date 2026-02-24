@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze covers a relatively central region with moderate vertical range and scattered fixations resembling exploration of mixed text and images, which best matches the browsing pattern rather than the more linear (READ/WRITE) or highly focused (SEARCH/PLAY/WATCH) examples.",
+  "correct": false
+}

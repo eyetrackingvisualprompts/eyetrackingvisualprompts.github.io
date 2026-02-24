@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a mid-screen region with irregular multi-directional saccades and scattered fixations rather than a primarily horizontal line (READ) or tight area (WRITE/PLAY). This heterogeneous exploration pattern best matches browsing behavior on varied webpage content.",
+  "correct": false
+}

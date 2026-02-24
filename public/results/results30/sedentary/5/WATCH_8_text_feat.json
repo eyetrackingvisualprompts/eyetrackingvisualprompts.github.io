@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades across wide screen regions (including off-center/extreme coordinates), frequent revisits between distant points, and irregular, non-linear scanpaths resemble target/object following and spatial navigation patterns typical of interactive gameplay rather than structured reading, code-focused tasks, or passive video watching.",
+  "correct": false
+}

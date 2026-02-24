@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is spread broadly from mid-left to upper-right with distinct clusters at different screen regions, indicating frequent, larger shifts typical of tracking a moving game character and UI elements rather than the more centralized or line-structured patterns of reading, writing, or browsing/searching pages.",
+  "correct": false
+}

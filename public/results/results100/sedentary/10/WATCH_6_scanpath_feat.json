@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows rapid, widespread horizontal movements across the screen with frequent shifts in both X and Y, characteristic of tracking moving objects and anticipating motion in a game, closely matching the PLAY example pattern more than reading, coding, or browsing behaviors.",
+  "correct": false
+}

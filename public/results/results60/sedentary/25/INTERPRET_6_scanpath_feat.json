@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a left-side code area with frequent revisits and some long saccades to a distant location, matching the pattern of inspecting code and occasionally checking execution results or other UI elements typical of debugging.",
+  "correct": false
+}

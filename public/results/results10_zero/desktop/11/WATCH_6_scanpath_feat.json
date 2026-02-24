@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are confined to a relatively small central region with short horizontal and vertical shifts, suggesting line-by-line inspection of static text rather than large exploratory movements, rapid scrolling, or wide-screen dynamics typical of browsing, searching, gaming, or watching video. This focused, moderately paced scanpath best matches a reading task.",
+  "correct": false
+}

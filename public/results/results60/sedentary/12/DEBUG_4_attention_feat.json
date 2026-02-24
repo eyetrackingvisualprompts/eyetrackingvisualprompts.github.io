@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in two dense regions on the left-center of the screen with some scattered points elsewhere, closely matching the DEBUG example pattern where attention alternates between different code areas and occasional other UI elements, rather than the tighter single-block focus of WRITE/INTERPRET.",
+  "correct": true
+}

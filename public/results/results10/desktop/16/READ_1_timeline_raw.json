@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Smooth, monotonic horizontal scans with occasional larger saccades and relatively stable vertical position closely match the reading pattern example, indicating line-by-line text reading rather than dynamic or highly interactive tasks.",
+  "correct": true
+}

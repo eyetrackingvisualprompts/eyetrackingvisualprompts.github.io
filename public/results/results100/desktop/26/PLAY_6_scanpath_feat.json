@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact horizontal band with small, regular saccades and limited vertical range, consistent with line-by-line reading rather than the broader exploratory movements seen in search, browse, watch, or play activities.",
+  "correct": false
+}

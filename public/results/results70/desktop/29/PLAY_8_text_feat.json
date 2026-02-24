@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts cover a broad vertical range from lower to mid screen with frequent medium-amplitude saccades among dispersed clusters and moderate fixations, without the systematic horizontal line sweeps of READ or the very dynamic full-screen exploration of PLAY/WATCH; this mixed, scan-and-jump behavior best matches web browsing patterns.",
+  "correct": false
+}

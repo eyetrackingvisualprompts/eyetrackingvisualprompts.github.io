@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across distant screen regions (including corners and center) with relatively short to medium fixations, indicative of tracking moving stimuli or rapidly changing spatial targets rather than line-by-line or code-structure reading. This erratic, wide-range scanning is more consistent with gameplay (e.g., Mario/Pong/Agario) than with focused code or text activities like READ, WRITE, DEBUG, or INTERPRET, or the more passive patterns typical of WATCH or BROWSE/SEARCH pages.",
+  "correct": true
+}

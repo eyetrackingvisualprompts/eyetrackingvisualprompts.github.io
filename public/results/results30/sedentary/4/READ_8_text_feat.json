@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between widely separated horizontal regions (center-left text block ~x\u2248700\u2013900 and right results pane ~x\u22481050\u20131200) along similar y-levels, plus excursions to upper text-like area around y\u2248160, match the scan-and-jump pattern of examining search results rather than the more line-ordered sweeps of READ or the code-focused clustering of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

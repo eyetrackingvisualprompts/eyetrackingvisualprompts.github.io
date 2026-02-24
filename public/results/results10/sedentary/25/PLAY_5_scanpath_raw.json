@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze path shows repeated transitions between a left code/editing region and more central/right areas, with broad horizontal movements and irregular fixations typical of switching between writing code and checking results or other parts of the IDE, closely resembling the WRITE example pattern.",
+  "correct": false
+}

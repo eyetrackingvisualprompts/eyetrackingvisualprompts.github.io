@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly constrained to a few horizontal text-like bands with occasional larger vertical shifts between them, showing more exploration and revisits than the structured left-to-right progression of READ but less global, dynamic motion than WATCH or PLAY, matching free web browsing behavior.",
+  "correct": false
+}

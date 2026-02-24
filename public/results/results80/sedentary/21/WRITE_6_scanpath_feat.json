@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a central-left region consistent with code editing, with occasional long saccades to a right-side area (likely console or reference), matching the WRITE example more closely than other activities.",
+  "correct": true
+}

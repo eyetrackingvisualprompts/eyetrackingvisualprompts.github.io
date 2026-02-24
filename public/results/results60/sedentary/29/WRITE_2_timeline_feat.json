@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large horizontal shifts and varying vertical positions, indicating scanning across different result regions rather than line-by-line reading or focused code inspection, closely matching the SEARCH example pattern.",
+  "correct": false
+}

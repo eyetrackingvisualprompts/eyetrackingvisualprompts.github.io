@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The heatmap shows a very concentrated cluster of fixations in a small region on the left-middle area of the screen, with minimal dispersion elsewhere. This pattern matches the WRITE examples, where attention is focused on a narrow code-editing area, unlike the more vertically extended patterns of READ/INTERPRET or the more distributed patterns of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

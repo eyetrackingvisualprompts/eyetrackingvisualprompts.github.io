@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long sequences of horizontal saccades and fixations near the very top of the screen (y\u22480\u2013150) over a wide x-range, with frequent large jumps to other regions and back, match scrolling/scan behavior on web pages in the BROWSE examples rather than focused code (WRITE/DEBUG/INTERPRET) or paragraph reading (READ).",
+  "correct": true
+}

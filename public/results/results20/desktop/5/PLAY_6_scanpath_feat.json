@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements along a narrow vertical band with dense, orderly fixations, matching the structured left-to-right reading pattern seen in the READ example more than the more scattered or clustered patterns of browse, search, play, write, or watch.",
+  "correct": false
+}

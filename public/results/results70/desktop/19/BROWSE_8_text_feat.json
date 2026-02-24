@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays largely in mid-screen with moderate vertical shifts and many local regressions, resembling scanning and re-visiting regions typical of browsing layouts, and closely matching the spatial-temporal fixation/saccade patterns seen in the BROWSE example rather than the more horizontal READ patterns or the larger, more dispersed movements in PLAY/SEARCH/WATCH.",
+  "correct": true
+}

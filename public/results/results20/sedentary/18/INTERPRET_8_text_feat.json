@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze stays within a compact region around code-like coordinates with many medium-to-long fixations and short local saccades, repeatedly revisiting a few nearby lines/areas rather than scanning broadly or following dynamic objects. This focused, back-and-forth inspection of a small code region matches the INTERPRET pattern more than the wider sweeps seen in SEARCH/BROWSE or the more extensive line-by-line movement in WRITE/DEBUG.",
+  "correct": true
+}

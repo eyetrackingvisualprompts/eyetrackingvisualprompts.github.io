@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show predominantly small, horizontally clustered movements with gradual vertical shifts, consistent with line-by-line reading behavior rather than the larger, multidirectional saccades typical of games, browsing/searching, or watching video. The pattern also lacks the keyboard-area shifts and more frequent screen-to-periphery transitions often seen in writing tasks.",
+  "correct": false
+}

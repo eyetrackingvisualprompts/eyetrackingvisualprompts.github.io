@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-scale jumps across the page (including off-screen coordinates), revisits to top and middle regions, and extended horizontal sweeps over mid-height bands resemble scrolling and scanning behavior seen in BROWSE, rather than the more line-locked, structured horizontal patterns of READ or the code-centered, denser clusters of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

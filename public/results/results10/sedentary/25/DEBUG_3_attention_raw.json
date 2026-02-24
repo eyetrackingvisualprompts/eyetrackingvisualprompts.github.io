@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The heatmap shows concentrated fixations over a compact left-center code area with minor shifts upward, closely matching the DEBUG example pattern more than other tasks, which either spread more (SEARCH/WATCH/WRITE) or align with reading lines (READ/BROWSE).",
+  "correct": true
+}

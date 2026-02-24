@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Long, smooth saccades spanning large screen areas with few, relatively short fixations and no clear horizontal line-by-line or code-structured scanning pattern are more consistent with tracking moving visual content in a video than with reading, coding, debugging, writing, or structured web/search browsing.",
+  "correct": false
+}

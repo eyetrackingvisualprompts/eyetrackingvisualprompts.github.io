@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the upper-left region with frequent vertical transitions and scattered fixations across top and mid screen, resembling scanning of search results and occasional visits to a result page, consistent with the SEARCH pattern rather than the more linear READ or code-focused tasks.",
+  "correct": false
+}

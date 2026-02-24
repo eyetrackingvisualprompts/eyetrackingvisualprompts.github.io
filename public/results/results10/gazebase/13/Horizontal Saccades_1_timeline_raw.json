@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The x-position shows large, regular, nearly binary horizontal jumps between left and right extremes with ~1 s plateaus, while the y-position stays near zero with only small fluctuations\u2014matching the horizontal saccade pattern and differing from random or game-like movements.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between widely separated regions (top UI bar, mid-page code/text area, and far bottom/side areas), interleaved with shorter local inspections, match exploratory, non-linear scanning seen in BROWSE examples rather than the more localized, structured patterns of READ/WRITE/DEBUG/INTERPRET or the smoother object-tracking of PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate exploration across both axes with frequent, irregular saccades and shifts in vertical position, indicating transitions between reading results, scanning snippets, and moving to different regions, which best matches the SEARCH pattern compared to the more structured READ or the more central BROWSE examples.",
+  "correct": false
+}

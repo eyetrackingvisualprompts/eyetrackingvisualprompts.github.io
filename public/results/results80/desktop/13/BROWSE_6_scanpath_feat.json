@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered in a central vertical region with moderate dispersion and frequent saccades in multiple directions, resembling scanning of search-result snippets and page elements rather than the more linear horizontal pattern of reading or the broader spread typical of play/watch/browse activities.",
+  "correct": false
+}

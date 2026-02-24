@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows rapid, wide-ranging gaze movements across much of the screen, with frequent long saccades in multiple directions and fewer localized clusters typical of reading or writing. This broad, dynamic exploration pattern is most consistent with visually tracking and navigating elements in a game rather than the more structured, linear movements seen in READ/WRITE or the comparatively less frantic patterns of BROWSE/SEARCH/WATCH.",
+  "correct": true
+}

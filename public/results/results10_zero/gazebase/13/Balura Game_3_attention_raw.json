@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows dispersed fixation clusters across both horizontal and vertical extents of the screen without a clear linear (horizontal) pattern or tight central cluster, consistent with following a target that jumps to random positions rather than reading lines, watching continuous video content, or performing purely horizontal saccades.",
+  "correct": false
+}

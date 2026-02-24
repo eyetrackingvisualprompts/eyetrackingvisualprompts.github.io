@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Most fixations cluster on the left-center area (code editor) with repeated long saccades to the far right (console/run or other UI elements), matching the WRITE example scanpath where participants implement code while occasionally checking output or tools.",
+  "correct": true
+}

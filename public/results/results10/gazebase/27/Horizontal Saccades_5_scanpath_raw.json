@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated long horizontal movements between two vertical bands at left and right with relatively stable vertical position, matching the structured back-and-forth pattern of the Horizontal Saccades task rather than the more dispersed or localized patterns of the other activities.",
+  "correct": true
+}

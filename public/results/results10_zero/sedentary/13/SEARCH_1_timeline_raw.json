@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long, relatively stable horizontal positions with slow drift and infrequent large saccades, consistent with following content in a full-screen video rather than the systematic line-by-line scanning or rapid object tracking typical of reading, coding, browsing, or playing games.",
+  "correct": false
+}

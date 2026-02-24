@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a single left-side code region with additional scattered looks to nearby lines and UI elements, closely matching the DEBUG example pattern rather than the more compact WRITE/INTERPRET or more distributed READ/BROWSE layouts.",
+  "correct": false
+}

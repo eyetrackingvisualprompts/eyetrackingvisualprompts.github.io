@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large vertical and horizontal jumps between widely separated regions (e.g., from mid-screen to near corners), followed by extended scanning along a near-horizontal band (around y\u2248220\u2013260) with relatively long fixations, matches search-engine result-page behavior more than the more localized, columnar code views of WRITE/DEBUG/INTERPRET or the denser line-by-line patterns of READ; it also lacks the free, full-screen exploratory jumps of BROWSE or dynamic object-following of PLAY/WATCH.",
+  "correct": true
+}

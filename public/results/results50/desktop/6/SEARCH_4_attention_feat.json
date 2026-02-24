@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a narrow horizontal band in the lower-middle region of the screen, unlike the upper-band patterns for reading or writing and the more dispersed regions for browse/search/play. This distribution best matches looking at a central area such as subtitles or focal content in a video, indicating a WATCH activity.",
+  "correct": false
+}

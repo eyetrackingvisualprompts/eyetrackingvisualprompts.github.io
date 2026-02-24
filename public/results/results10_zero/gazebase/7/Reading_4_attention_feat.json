@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations cluster in two main horizontal bands near the top and bottom at roughly the same central x-position, consistent with following a horizontally moving target that steps and is fixated at discrete positions; the structured, banded horizontal distribution matches Horizontal Saccades more than free viewing, reading, or random multi-directional movements.",
+  "correct": false
+}

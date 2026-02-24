@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points form a compact cluster near screen center with short, multidirectional saccades and no strong horizontal line structure, matching the browsing example more than the other activities.",
+  "correct": false
+}

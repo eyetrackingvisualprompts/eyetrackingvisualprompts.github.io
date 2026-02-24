@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, tight cluster of fixations in one screen area with minimal saccades or exploration, consistent with passively watching a video where gaze remains relatively stable rather than scanning text, code, or interactive elements.",
+  "correct": false
+}

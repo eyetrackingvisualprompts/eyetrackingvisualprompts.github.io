@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed over a mid-screen region with frequent saccades between multiple clusters, indicating scanning of SERP results and different page areas rather than the more linear pattern of READ or the upper-band focus of WRITE/WATCH.",
+  "correct": false
+}

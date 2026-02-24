@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows a slow rightward drift with relatively small vertical variation and a couple of brief vertical spikes, closely matching the DEBUG example pattern of steady code scanning with occasional quick checks elsewhere, rather than the more static WRITE or more dynamic SEARCH/BROWSE patterns.",
+  "correct": false
+}

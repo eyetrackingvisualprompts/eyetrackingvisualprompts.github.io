@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "After initial large navigation saccades across the screen (likely between code and other UI elements), gaze stabilizes into dense, repeated fixations within a compact region around mid-screen coordinates (~300\u2013400 x ~430\u2013490). This resembles focused, local inspection and re-inspection of a small code area typical of writing/editing, and matches the WRITE exemplars\u2019 tight clusters and revisits more than the broader scan paths seen in SEARCH/BROWSE or the more distributed patterns in DEBUG/INTERPRET.",
+  "correct": false
+}

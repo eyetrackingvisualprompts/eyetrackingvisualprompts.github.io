@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across the screen in both horizontal and vertical directions, with no clear linear horizontal band (horizontal saccades) or central clustering (fixation). The pattern reflects discrete positions that the gaze jumps between, consistent with following a randomly moving target rather than continuous reading, game interaction, or natural video viewing.",
+  "correct": true
+}

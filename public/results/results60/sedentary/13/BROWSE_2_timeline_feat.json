@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-like behavior: mainly horizontal fixations with intermittent vertical shifts, plus several large, abrupt saccades to screen extremes suggesting checking outputs or other interface elements\u2014patterns most consistent with debugging compared to the steadier WRITE or more uniform READ/INTERPRET trajectories.",
+  "correct": false
+}

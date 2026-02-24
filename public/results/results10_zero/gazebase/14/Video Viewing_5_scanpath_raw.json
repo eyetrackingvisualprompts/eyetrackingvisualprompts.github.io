@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular eye movements in both horizontal and vertical directions with gaze landing on scattered positions across the screen rather than along a line (reading) or strictly horizontal (horizontal saccades). The pattern reflects following a target that jumps to varied locations and is held briefly, consistent with the Random Saccades task.",
+  "correct": false
+}

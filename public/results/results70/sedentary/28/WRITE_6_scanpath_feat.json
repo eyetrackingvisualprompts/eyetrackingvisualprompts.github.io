@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a compact upper-left region with limited horizontal spread and minimal long-range saccades, resembling focused inspection of a small code snippet area, which matches the INTERPRET example more than the broader patterns seen in READ, SEARCH, or other tasks.",
+  "correct": false
+}

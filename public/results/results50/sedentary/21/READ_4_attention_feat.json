@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated around the central area with some spread in a roughly circular region, resembling tracking a game character or moving object near the center, which matches the PLAY heatmap pattern more than the more dispersed or text-structured patterns of other tasks.",
+  "correct": false
+}

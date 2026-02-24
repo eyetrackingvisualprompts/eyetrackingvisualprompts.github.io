@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around central X with moderate variance in both axes and frequent, small-to-medium saccades scattered across time, matching the heterogeneous, exploratory gaze pattern seen in the BROWSE example rather than the more structured patterns of READ/WRITE or the larger shifts of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

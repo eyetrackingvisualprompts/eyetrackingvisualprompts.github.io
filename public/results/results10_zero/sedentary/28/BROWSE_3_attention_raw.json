@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a compact central region without systematic horizontal or vertical scanlines typical of reading or code-related tasks. The gaze remains around the middle of the screen as if tracking dynamic content in a video rather than exploring text or interactive elements, which aligns best with the WATCH activity.",
+  "correct": false
+}

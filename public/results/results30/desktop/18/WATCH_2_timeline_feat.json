@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Both X and Y fixations show moderate horizontal movements and vertical shifts between mid and lower screen regions, with frequent saccades, matching the mixed scanning and result-inspection pattern seen in the SEARCH example more than the steadier READ/WRITE or the more extreme PLAY/WATCH trajectories.",
+  "correct": false
+}

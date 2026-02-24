@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around the screen center with moderate dispersion and frequent short saccades in multiple directions, resembling the browsing example more than the horizontally constrained READ/WRITE patterns or the wider, more directional movements in PLAY, SEARCH, and WATCH.",
+  "correct": true
+}

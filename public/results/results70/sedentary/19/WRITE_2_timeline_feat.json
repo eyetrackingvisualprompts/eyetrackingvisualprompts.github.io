@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium, somewhat irregular horizontal movements with modest vertical shifts and intermittent saccades across the screen, resembling the distributed attention between code, console, and UI found in the DEBUG example more than the more linear patterns of READ/WRITE or the broader exploratory patterns of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

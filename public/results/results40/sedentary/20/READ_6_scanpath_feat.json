@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows sequential horizontal scanlines across two nearby text bands with occasional vertical shifts, similar to reading multiple short lines or sections. It lacks the dense, localized cluster of coding tasks (WRITE/INTERPRET/DEBUG) and the wide, irregular coverage of WATCH/PLAY/SEARCH, closely matching the browsing example where users read shorter web text blocks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are tightly clustered in a central region with modest vertical extent and limited horizontal spread, similar to the example SEARCH pattern where the user focuses around a results area, unlike the more linear patterns of READ/WRITE or wider coverage of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent shifts between code-like upper screen regions and lower/side areas, including jumps to screen edges and back, plus many medium-length fixations around a confined code area, match the scattered, multi-region inspection typical of debugging rather than the more linear patterns of reading, writing, or browsing or the wide high-speed movements of games and video watching.",
+  "correct": false
+}

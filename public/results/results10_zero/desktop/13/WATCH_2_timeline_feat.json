@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay within a narrow central band with small horizontal shifts and limited vertical range, suggesting following central screen content without systematic left-to-right scanning typical of reading or writing, and without large exploratory movements common in search, browsing, or gameplay; this pattern best matches watching a video centered on the screen.",
+  "correct": true
+}

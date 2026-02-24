@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact central code-like area with many short horizontal/near-horizontal saccades and long revisits to similar coordinates, matching the fine-grained line-by-line inspection typical of code comprehension/interpretation rather than the wider vertical or exploratory sweeps seen in browsing, search, or watching, and without the strong left-to-right text-line progression pattern of extended reading.",
+  "correct": false
+}

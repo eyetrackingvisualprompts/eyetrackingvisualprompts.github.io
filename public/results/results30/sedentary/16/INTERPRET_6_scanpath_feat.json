@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-left code-region with frequent multi-directional saccades and revisits across several vertically separated lines, resembling the complex, wide-ranging scanpath of the DEBUG example more than the tighter clusters of INTERPRET/WRITE or the more horizontal patterns of READ/BROWSE/SEARCH.",
+  "correct": false
+}

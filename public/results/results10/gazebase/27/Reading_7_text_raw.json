@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze shows continuous but irregular shifts over a wide range without the strictly structured horizontal sweeps of reading or horizontal saccades, includes many short local fixations with moderate drifts, and exhibits complex trajectory segments similar in scale and variability to the provided Video Viewing example rather than the more patterned game or saccade tasks or the highly stable Fixations.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in the upper half of the screen with relatively smooth, moderate-amplitude horizontal changes and fewer rapid multidirectional shifts. This pattern matches following content in a fixed region (like characters/subtitles in a video) more than the denser scanning of SEARCH/BROWSE or line-by-line movements of READ/WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively stable horizontal fixations around mid-screen with small, rhythmic saccades and a slow downward drift in Y over time, matching the consistent line-by-line scanning pattern typical of reading rather than the larger, more erratic movements seen in search, browsing, playing, or watching video.",
+  "correct": false
+}

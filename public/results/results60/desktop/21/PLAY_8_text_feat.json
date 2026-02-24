@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-screen with frequent medium-amplitude saccades in various directions, alternating between mid and slightly upper/lower regions, and many short-to-moderate fixations. This multidirectional, moderately exploratory yet page-centered pattern aligns best with news/blog browsing compared to the more structured line sweeps of READ, the narrow-band horizontal focus of WRITE, and the edge- or action-centric dynamics of PLAY or WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-to-upper screen with many medium fixations and frequent short saccades, plus repeated vertical and horizontal shifts between dispersed regions (including top, mid, and near-bottom), matching scanning of web pages and navigation elements more than the more line-structured READ pattern or the focused central regions of WATCH/PLAY; WRITE tends to cluster lower and SEARCH shows more systematic SERP/result switching than seen here.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered around a code/IDE area on the left with repeated revisits, plus occasional long saccades to a smaller region on the right, matching the pattern of writing code (editing on the left, brief checks of console or references on the right) rather than the more distributed exploration seen in browse/search or the central focus of play/watch.",
+  "correct": false
+}

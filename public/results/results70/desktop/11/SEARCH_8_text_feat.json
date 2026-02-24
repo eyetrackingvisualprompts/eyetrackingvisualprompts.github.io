@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a narrow horizontal band around y\u22480.6\u20130.8 with short horizontal saccades and medium-to-long fixations, matching line-by-line text reading behavior and closely resembling the provided READ examples, unlike the larger spatial shifts seen in BROWSE/SEARCH or the more scattered, dynamic patterns in PLAY/WATCH/WRITE.",
+  "correct": false
+}

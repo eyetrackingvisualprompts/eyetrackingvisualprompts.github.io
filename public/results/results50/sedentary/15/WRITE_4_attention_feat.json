@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is highly concentrated on a single code-like region in the upper-left with a secondary small cluster elsewhere, matching the focused inspection pattern of interpreting a given code snippet rather than the broader spread seen in writing or debugging.",
+  "correct": false
+}

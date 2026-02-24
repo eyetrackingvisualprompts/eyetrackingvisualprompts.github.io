@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a tight cluster of fixations in the upper-left region consistent with focusing on a compact code snippet, plus a secondary cluster mid-right where an output console or run button is likely located\u2014typical for briefly interpreting a small piece of code rather than extended debugging, writing, or reading prose.",
+  "correct": false
+}

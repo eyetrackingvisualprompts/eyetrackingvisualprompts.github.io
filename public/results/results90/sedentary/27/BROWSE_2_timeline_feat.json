@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate vertical scanning with frequent saccades and shifts between upper and mid screen regions, resembling the mixed reading-and-navigation pattern of search result pages rather than the more linear READ/BROWSE patterns or the more localized code-focused tasks.",
+  "correct": false
+}

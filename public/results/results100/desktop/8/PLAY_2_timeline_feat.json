@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, irregular movements in both X and Y with frequent small saccades and no strong horizontal or vertical scanning pattern, matching the more scattered exploration seen in the BROWSE example rather than the structured patterns of reading, writing, watching video, or game play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on the left-central area typical of code editors, with frequent vertical shifts over a compact region and occasional longer saccades, matching the more scattered and multi-line inspection seen in the DEBUG example rather than the tighter cluster of INTERPRET or the more linear patterns of READ/BROWSE.",
+  "correct": false
+}

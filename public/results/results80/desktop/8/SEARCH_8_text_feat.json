@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide-ranging saccades across both axes (including frequent jumps between far left/right and different vertical levels), mixed with medium fixations and revisits, resemble scanning of varied web content more than the more structured horizontal patterns of READ/WRITE or the more central, character-focused gaze seen in WATCH/PLAY. The dynamics and dispersion align best with BROWSE examples.",
+  "correct": false
+}

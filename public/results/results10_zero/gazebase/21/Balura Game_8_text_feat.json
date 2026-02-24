@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large, irregular saccades occur in both horizontal and vertical directions with varying amplitudes and non-uniform dwell times, inconsistent with line-by-line reading, central fixation, or strictly horizontal motion, and more indicative of following a randomly moving target than of structured game or video viewing behavior.",
+  "correct": false
+}

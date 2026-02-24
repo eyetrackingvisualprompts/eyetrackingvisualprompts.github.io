@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large gaze transitions between widely separated regions (e.g., from upper-right to lower/central, then frequent movements within lower area) and mixed short-to-medium fixations resemble dynamic, multi-directional visual exploration typical of game play rather than the more horizontal, banded patterns of reading/browsing/search or the tight clustering of writing.",
+  "correct": true
+}

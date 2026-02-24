@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze starts around mid-left where text/results likely appear, with clustered fixations and vertical scanning, then makes a long saccade to the far right\u2014consistent with moving from results list to a specific answer panel or new page, matching the search pattern more than other activities.",
+  "correct": false
+}

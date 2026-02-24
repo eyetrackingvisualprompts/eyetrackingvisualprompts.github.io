@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a steady, monotonic progression in the horizontal (X) fixation with relatively small, consistent vertical (Y) shifts, forming a staircase-like pattern typical of line-by-line reading rather than the larger, multidirectional movements seen in browsing, searching, or interactive tasks.",
+  "correct": true
+}

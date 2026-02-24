@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the screen center with frequent multi-directional saccades and revisits, showing scattered exploration similar to the SEARCH example rather than the more structured horizontal patterns of READ/WRITE or the peripheral focus of WATCH/PLAY.",
+  "correct": false
+}

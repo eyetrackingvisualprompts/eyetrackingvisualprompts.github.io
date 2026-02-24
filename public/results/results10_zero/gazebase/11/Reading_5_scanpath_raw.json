@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows irregular multi-directional movements with both horizontal and vertical shifts within a confined region, lacking the strict left-right pattern of horizontal saccades or the line-structured pattern of reading. This pattern best matches a target that jumps to random positions and is fixated for short periods, consistent with Random Saccades.",
+  "correct": false
+}

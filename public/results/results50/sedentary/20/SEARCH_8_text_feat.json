@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across extreme screen regions (including off-screen coordinates), revisits to HUD-like top border (y\u22480), and rapid transitions between central and peripheral areas resemble dynamic tracking of game elements more than the more structured, text- or code-centered patterns of READ/WRITE/DEBUG/INTERPRET or the relatively smoother WATCH/BROWSE/SEARCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on upper-left and mid-left regions with several long vertical transitions, matching patterns seen when scanning search results and moving between query box, top results, and lower content, similar to the SEARCH example.",
+  "correct": true
+}

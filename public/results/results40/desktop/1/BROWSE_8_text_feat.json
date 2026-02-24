@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around central-mid screen with short fixations and frequent medium-range vertical jumps between mid (~0.55\u20130.60) and upper (~0.7\u20130.8) regions, plus occasional returns to slightly lower positions\u2014closely matching the mixed-scroll, multi-region inspection pattern seen in the BROWSE example, and less structured than the highly line-locked, horizontal scanpaths in READ.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region with minimal horizontal scanning, indicating attention on a relatively static area (likely a central element in a video) rather than line-by-line reading or wide navigation typical of text or interactive tasks; this matches the WATCH condition best.",
+  "correct": false
+}

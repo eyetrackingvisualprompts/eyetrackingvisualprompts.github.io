@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are highly stable with minimal saccadic activity, indicating prolonged fixations on a central screen region, which is most consistent with passively watching a video rather than interactive or text-intensive tasks that show more frequent and structured eye movements.",
+  "correct": false
+}

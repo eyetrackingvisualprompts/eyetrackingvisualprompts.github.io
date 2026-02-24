@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a relatively compact cluster around the center of the screen with multidirectional saccades and no strong horizontal banding, resembling the SEARCH example more than the structured horizontal patterns of READ/WRITE or the top-focused WATCH pattern or split clusters in PLAY.",
+  "correct": false
+}

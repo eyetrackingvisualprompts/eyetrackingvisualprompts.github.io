@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small central area with minimal horizontal or vertical spread, indicating attention on a compact region that stays nearly static over 10 seconds, consistent with watching a video\u2019s central action rather than the broader, more distributed scanpaths typical of reading, searching, browsing, writing, or gaming.",
+  "correct": false
+}

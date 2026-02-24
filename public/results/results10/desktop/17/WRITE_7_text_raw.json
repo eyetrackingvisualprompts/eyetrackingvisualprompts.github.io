@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band around y\u22480.66\u20130.70 with slow, small vertical drift and many sustained fixations in the central x\u22480.48\u20130.52 region, matching line-by-line reading patterns more than the larger vertical shifts and mixed regions seen in SEARCH or BROWSE, and lacking the broader spatial excursions typical of PLAY or WATCH.",
+  "correct": false
+}

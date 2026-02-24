@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows repeated horizontal bands with abrupt vertical shifts and brief spikes, matching the structured, code-line scanning behavior seen in the WRITE example rather than the smoother or more varied patterns of browsing, reading, or watching video.",
+  "correct": false
+}

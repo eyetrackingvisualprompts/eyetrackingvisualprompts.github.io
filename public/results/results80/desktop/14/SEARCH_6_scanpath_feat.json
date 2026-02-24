@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are concentrated in the central region with multidirectional saccades and medium vertical spread, closely matching the browsing example pattern rather than the more structured (READ/WRITE) or extreme (WATCH/PLAY) layouts.",
+  "correct": false
+}

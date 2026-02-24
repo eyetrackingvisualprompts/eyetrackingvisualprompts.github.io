@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and center) with relatively short fixations and irregular paths resemble scanning between disparate webpage elements more than the more line-structured patterns in READ/WRITE or the localized clusters in code tasks; the exploratory, non-repetitive movement matches the BROWSE examples best.",
+  "correct": false
+}

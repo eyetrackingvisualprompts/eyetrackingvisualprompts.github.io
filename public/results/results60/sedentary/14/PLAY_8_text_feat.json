@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent horizontal scanning across a central band, repeated revisits to similar y-coordinates, and periodic large saccades to distant top/side regions followed by local inspection match the mixed result-page + snippet reading seen in SEARCH more than the more line-structured READ or strongly code-centered INTERPRET/DEBUG patterns.",
+  "correct": false
+}

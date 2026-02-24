@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large saccades between widely separated regions (including far off-screen coordinates), interleaved with local inspections, match exploratory navigation across SERP/results pages rather than line-by-line reading or focused code work; this spatio-temporal pattern best corresponds to the SEARCH task among the provided classes.",
+  "correct": false
+}

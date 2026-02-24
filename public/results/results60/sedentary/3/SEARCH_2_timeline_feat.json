@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated vertical shifts between higher and lower Y positions with corresponding X changes, indicating alternating attention between top results and other parts of a page, matching the exploratory, multi-region scanning seen in the SEARCH example more than the steadier patterns of READ/WRITE or the more continuous motion of WATCH/PLAY.",
+  "correct": true
+}

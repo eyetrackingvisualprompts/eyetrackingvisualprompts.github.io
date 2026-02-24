@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades cluster around the center with moderate vertical span, frequent small shifts and occasional larger jumps, resembling scanning mixed text/graphics regions. The pattern (spatial dispersion, irregular revisits, and absence of systematic horizontal line sweeps) matches the provided BROWSE examples better than the more structured READ, the more vertical WRITE, or the more dispersed PLAY/WATCH/SEARCH behaviors.",
+  "correct": false
+}

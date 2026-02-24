@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like changes in both horizontal and vertical directions to multiple irregular locations within approximately \u00b115\u00b0 horizontally and \u00b19\u00b0 vertically, with each position held about 1 s before jumping, matching the random 2D target jumps described for Random Saccades rather than the strictly horizontal, static, or free-viewing patterns of the other tasks.",
+  "correct": false
+}

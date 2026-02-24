@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows stable, horizontally progressive fixations with small saccades and limited vertical movement, resembling line-by-line scanning of static text, which matches the READ pattern more than the other activities.",
+  "correct": false
+}

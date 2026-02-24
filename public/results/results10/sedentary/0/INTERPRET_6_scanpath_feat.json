@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered on the left side with multiple horizontal and vertical shifts between two close text regions, resembling scanning search results and a snippet, which matches the SEARCH example more than the other tasks.",
+  "correct": false
+}

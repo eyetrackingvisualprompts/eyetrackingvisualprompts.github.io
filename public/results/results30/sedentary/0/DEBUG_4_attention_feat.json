@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered on a small left-side region with almost no gaze to the right, matching the focused code/IDE area seen in the WRITE example rather than the more distributed patterns of reading, browsing, or searching.",
+  "correct": false
+}

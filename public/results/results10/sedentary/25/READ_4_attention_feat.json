@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a horizontal band across the mid-screen with moderate spread and no strong central cluster, closely matching the browsing example heatmap pattern rather than the tighter code, reading, or game-specific distributions.",
+  "correct": false
+}

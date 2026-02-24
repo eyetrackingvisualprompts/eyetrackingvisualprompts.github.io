@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal scan-like movements with gradual downward shifts, consistent with line-by-line reading behavior and closely matching the READ example pattern compared to the other activities.",
+  "correct": false
+}

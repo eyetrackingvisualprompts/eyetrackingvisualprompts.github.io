@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a relatively small central region with moderate saccade amplitudes and scattered pattern, resembling the example BROWSE scanpath more than the more linear READ/WRITE patterns or the wider, more dynamic PLAY/WATCH/SEARCH patterns.",
+  "correct": false
+}

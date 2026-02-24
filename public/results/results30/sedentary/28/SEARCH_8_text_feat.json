@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Initial large saccades between top, middle, and bottom regions (code editor, console, toolbar) followed by many medium-length horizontal scan patterns around consistent y-levels and revisits to similar code lines resemble focused code editing behavior more than the highly dispersed SEARCH/BROWSE patterns; the structured back-and-forth over a confined vertical band and occasional jumps to console/output are characteristic of WRITE in the provided examples.",
+  "correct": false
+}

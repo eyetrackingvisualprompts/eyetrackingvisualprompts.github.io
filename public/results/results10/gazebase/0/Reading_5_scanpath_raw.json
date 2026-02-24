@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trajectory shows predominantly horizontal back-and-forth movements within a narrow vertical band, matching the pattern of following a horizontally oscillating target rather than the more dispersed or vertical movements seen in other tasks.",
+  "correct": false
+}

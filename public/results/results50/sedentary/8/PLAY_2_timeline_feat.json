@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows moderate, irregular movements over a wide vertical and horizontal range with frequent saccades but without the structured line-by-line or code-block scanning seen in reading, interpreting, or debugging tasks, and less chaotic than gameplay or search; this diffuse yet continuous viewing pattern best matches watching a video.",
+  "correct": false
+}

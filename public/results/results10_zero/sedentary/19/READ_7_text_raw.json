@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points show large vertical and horizontal shifts across wide screen regions, including upper, middle, and lower areas, with many short, smooth transitions and fewer tight, line-like clusters. This pattern is more consistent with following dynamic visual content in a video than with structured line-by-line reading or code-related tasks, and it lacks the localized, object-focused or edge-concentrated clusters typical of playing simple games.",
+  "correct": false
+}

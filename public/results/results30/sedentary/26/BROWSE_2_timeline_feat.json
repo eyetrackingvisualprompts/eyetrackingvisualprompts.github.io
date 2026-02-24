@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows horizontally progressive reading-like patterns interrupted by larger vertical saccades and position shifts, indicating scanning of multiple regions such as search results, similar to the SEARCH example more than to the more regular READ or the code-focused tasks.",
+  "correct": false
+}

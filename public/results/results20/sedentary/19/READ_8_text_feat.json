@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal sweeps around a mid-screen text line with moderate regressions and occasional large vertical jumps resemble scanning web pages more than the tighter, line-by-line structure of READ; the pattern and coordinates best align with BROWSE behavior among the given examples.",
+  "correct": false
+}

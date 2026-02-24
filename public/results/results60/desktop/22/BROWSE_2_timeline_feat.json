@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are mostly mid-screen horizontally with moderate vertical movement and frequent medium-sized saccades, resembling scanning of search results and query refinement; the pattern matches the SEARCH example more than the steadier READ/WRITE or more chaotic PLAY/BROWSE trajectories.",
+  "correct": false
+}

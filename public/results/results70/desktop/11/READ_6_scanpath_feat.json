@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a tight horizontal band with limited vertical movement and dense fixations in a confined central area, matching the stable line-by-line scanning pattern characteristic of reading rather than the broader, more dispersed movements seen in browsing, searching, playing, watching, or writing.",
+  "correct": true
+}

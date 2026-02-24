@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the screen center with moderate, irregular saccades in both axes and no strong directional sweep, matching the heterogeneous, scattered gaze pattern of web browsing rather than the more linear (READ/WRITE/SEARCH) or large-amplitude directional movements (PLAY/WATCH).",
+  "correct": false
+}

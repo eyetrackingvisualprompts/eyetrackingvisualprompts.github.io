@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small lower-left region with long, repeated fixations and tiny local saccades, showing stable reference to a single area (e.g., text caret/nearby words) rather than broad horizontal or vertical scanning, which matches the sustained, localized attention pattern seen in the WRITE examples using a word processor UI rather than the larger sweeps of READ or the dispersed exploration of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

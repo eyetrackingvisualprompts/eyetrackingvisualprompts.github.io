@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated in a compact region on the left where the code snippet would appear, with only a few isolated fixations elsewhere, matching the focused pattern seen in the INTERPRET example rather than the broader distributions of READ, WRITE, or DEBUG.",
+  "correct": false
+}

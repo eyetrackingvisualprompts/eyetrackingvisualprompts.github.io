@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band near the top of the screen, with long, sequential left\u2013right fixations and short regressions resembling line-by-line reading of text, unlike the broader vertical and dispersed exploration seen in SEARCH or BROWSE and the more central dynamic focus of WATCH/PLAY.",
+  "correct": false
+}

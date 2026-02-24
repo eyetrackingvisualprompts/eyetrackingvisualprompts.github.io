@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show long, stable fixations with slow, small-amplitude shifts concentrated in a band slightly below screen center, consistent with line-by-line text reading rather than large exploratory or dynamic movements seen in search, browsing, video watching, or gameplay.",
+  "correct": false
+}

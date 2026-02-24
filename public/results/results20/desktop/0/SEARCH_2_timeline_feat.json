@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay around screen center with moderate, irregular saccades and no strong left-to-right reading sweeps or top-aligned fixation bands; this pattern best matches the mixed, exploratory scanning seen in browsing rather than structured reading, focused writing, game play, directed search, or passive video watching.",
+  "correct": false
+}

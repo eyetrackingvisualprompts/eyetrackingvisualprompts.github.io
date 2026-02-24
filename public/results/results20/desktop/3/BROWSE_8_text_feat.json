@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in mid-to-lower screen with many medium-length (0.2\u20130.9s) fixations and frequent vertical/horizontal shifts among nearby positions, indicating scanning multiple local elements (e.g., headlines, snippets) rather than systematic line-by-line reading or stationary watching. The spatial-temporal pattern closely matches the BROWSE example, which shows similar mid-screen exploration and mixed-direction saccades over short-to-medium ranges.",
+  "correct": true
+}

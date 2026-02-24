@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The heatmap shows widely distributed fixations across both horizontal and vertical directions with several scattered hotspots, indicating rapid gaze shifts over much of the screen, which is most consistent with visually exploring and controlling a game rather than the more localized or structured patterns seen in reading, searching, browsing, watching, or writing.",
+  "correct": false
+}

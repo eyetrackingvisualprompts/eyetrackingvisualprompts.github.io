@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations start densely on the upper-left (search box and first results) and then spread horizontally across the top area and a few result lines, matching the exploratory scan pattern of a search results page more than the tighter code-focused (INTERPRET/WRITE/DEBUG) or full-screen content (WATCH/PLAY) patterns.",
+  "correct": false
+}

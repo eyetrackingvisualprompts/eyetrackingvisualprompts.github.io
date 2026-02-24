@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is largely clustered around mid-screen with relatively long, stable fixations and modest local saccades, plus occasional larger vertical/horizontal shifts\u2014matching tracking of dynamic video content rather than line-by-line reading, text composition, or highly exploratory web/game behavior.",
+  "correct": false
+}

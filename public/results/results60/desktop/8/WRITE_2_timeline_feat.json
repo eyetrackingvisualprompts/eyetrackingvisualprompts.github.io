@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band with low vertical positions and minimal vertical shifts, resembling looking at a single text line and nearby toolbar rather than scanning a page or dynamic scene, which matches the writing pattern example most closely.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze path shows very large, rapid jumps across almost the entire screen with no stable reading lines or localized coding area, matching the wide exploratory movements typical of web browsing rather than the more confined or structured patterns of reading, coding, or watching video.",
+  "correct": false
+}

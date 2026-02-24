@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a few localized regions (center-top and central-lower screen) rather than forming horizontal reading lines or columnar code inspection patterns. This clustered, task-focused distribution is more consistent with tracking game elements (e.g., character or ball) than with reading, coding, searching, or general browsing behaviors, which typically show broader, more systematic coverage of the page.",
+  "correct": false
+}

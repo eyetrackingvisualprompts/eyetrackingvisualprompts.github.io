@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades between top UI-like coordinates and large mid/lower screen regions, mixed with horizontal scanlines and revisits, match exploratory, multi-region web browsing patterns rather than the more columnar reading, tight code-centric (DEBUG/WRITE/INTERPRET), or object-focused (PLAY/WATCH) gaze seen in the examples.",
+  "correct": false
+}

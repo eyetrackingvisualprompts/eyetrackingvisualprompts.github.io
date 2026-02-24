@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated on left-to-center code-like area with some spread vertically, resembling the WRITE heatmap more than the tightly focused INTERPRET or the more vertically extended DEBUG; pattern indicates active code editing rather than simple reading or broad visual exploration.",
+  "correct": false
+}

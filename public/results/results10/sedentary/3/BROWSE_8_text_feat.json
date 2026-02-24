@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent vertical transitions between top-of-screen areas and lower regions (including near the bottom) plus scattered horizontal fixations are characteristic of scanning search results and pages, matching the SEARCH pattern more than the more linear READ pattern or the more localized code-oriented tasks (WRITE/INTERPRET/DEBUG).",
+  "correct": false
+}

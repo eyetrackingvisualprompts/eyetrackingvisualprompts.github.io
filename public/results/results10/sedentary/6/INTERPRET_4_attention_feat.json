@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in the upper-left code area, similar to the DEBUG example where attention stays on a compact region of the editor rather than scanning horizontally as in reading or browsing.",
+  "correct": false
+}

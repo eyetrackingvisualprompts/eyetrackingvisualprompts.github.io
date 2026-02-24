@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent jumps across the entire screen (including extreme corners and off-screen coordinates), with dispersed fixations at varying vertical levels and no consistent line- or code-like scanning pattern, best match the broad, scene-driven gaze shifts characteristic of watching dynamic video content rather than the more structured, line-based or region-focused patterns seen in reading, coding (INTERPRET/DEBUG/WRITE), searching, or gameplay.",
+  "correct": false
+}

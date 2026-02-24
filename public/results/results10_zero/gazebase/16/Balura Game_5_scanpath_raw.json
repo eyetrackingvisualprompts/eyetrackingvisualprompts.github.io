@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular jumps across both horizontal and vertical axes with positions held briefly before moving elsewhere, covering much of the screen in a non-linear pattern. This matches a target that appears at random locations and is fixated for about a second, consistent with the Random Saccades task rather than structured reading, smooth horizontal motion, static fixation, or game/video viewing patterns.",
+  "correct": false
+}

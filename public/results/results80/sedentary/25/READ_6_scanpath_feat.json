@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a mid-screen horizontal band with vertical movements between two regions, resembling attention alternating between search results/snippets and another element (e.g., query box or a clicked result), which aligns best with the SEARCH scanpath pattern among the options.",
+  "correct": false
+}

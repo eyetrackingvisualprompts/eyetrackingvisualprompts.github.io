@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a central region with frequent multidirectional saccades and medium vertical spread, resembling the exploratory, locally confined scanning seen in the BROWSE example more than the more linear READ pattern or the more widely distributed PLAY / SEARCH patterns.",
+  "correct": true
+}

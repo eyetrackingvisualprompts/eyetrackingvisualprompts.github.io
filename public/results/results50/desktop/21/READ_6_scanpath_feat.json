@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows elongated, diagonal clusters of fixations with repeated sweeps over similar lines and some vertical shifts, resembling line-by-line movement over text in a word processor rather than the more horizontal pattern of READ or the localized patterns of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

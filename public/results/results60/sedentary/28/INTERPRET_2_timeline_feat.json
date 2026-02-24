@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-like behavior: medium-range horizontal movements with relatively stable bands, intermittent vertical shifts, and repeated revisits to similar Y-levels, resembling careful inspection and correction rather than linear reading or free browsing, which matches the DEBUG pattern best among the examples.",
+  "correct": false
+}

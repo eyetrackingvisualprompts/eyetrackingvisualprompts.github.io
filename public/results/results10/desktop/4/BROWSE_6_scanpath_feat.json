@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are distributed over a mid-screen region with multiple scattered clusters and frequent medium-length saccades in various directions, resembling exploration of heterogeneous webpage elements rather than the more linear horizontal pattern of reading or the tighter clustered search behavior.",
+  "correct": true
+}

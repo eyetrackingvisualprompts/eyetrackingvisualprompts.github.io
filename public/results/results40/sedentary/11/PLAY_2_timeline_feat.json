@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium, irregular horizontal movements with moderate vertical shifts and intermittent larger saccades, indicating scanning across varied page regions rather than systematic line-by-line reading or focused code inspection, matching the heterogeneous patterns typical of free web browsing.",
+  "correct": false
+}

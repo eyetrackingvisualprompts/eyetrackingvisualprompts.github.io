@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near the screen center with small jitter and only occasional brief vertical excursions, indicating sustained attention to a central, continuously changing stimulus rather than systematic line-by-line scanning or targeted information search, which is characteristic of watching a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show discrete step-like shifts to multiple non-symmetric positions within \u00b115\u00b0 horizontally and \u00b19\u00b0 vertically, with each position held roughly about one second before jumping to another, matching the randomly moving bull\u2019s-eye target pattern rather than purely horizontal, central fixation, or natural viewing behavior.",
+  "correct": true
+}

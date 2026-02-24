@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in smooth, mainly horizontal sweeps with systematic left-to-right movements and occasional vertical shifts to slightly lower y-coordinates, forming bands around y\u2248350, 430, 520\u2013620, 670\u2013720, and 810\u2013840, consistent with line-by-line reading behavior rather than the larger exploratory jumps seen in browse, search, or play tasks.",
+  "correct": true
+}

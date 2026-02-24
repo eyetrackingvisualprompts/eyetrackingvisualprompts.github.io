@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-like horizontal scanning with moderate vertical shifts between lines or areas (editor, console, etc.), plus occasional larger saccades, closely matching the DEBUG example pattern rather than the more linear READ/BROWSE or highly dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

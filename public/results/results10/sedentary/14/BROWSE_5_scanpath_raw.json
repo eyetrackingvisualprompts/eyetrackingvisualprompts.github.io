@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze covers a large portion of the screen with long cross-screen saccades and relatively few tight clusters, resembling the broad exploratory pattern seen when watching dynamic full-screen video, and differing from the more localized, structured patterns of reading, coding, or web browsing tasks.",
+  "correct": false
+}

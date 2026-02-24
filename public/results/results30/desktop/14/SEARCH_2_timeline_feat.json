@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay near screen center with moderate, irregular fixations and saccades in both axes, resembling the mixed, less-structured scanning pattern seen in the BROWSE example more than the more directional or edge-focused patterns of other activities.",
+  "correct": false
+}

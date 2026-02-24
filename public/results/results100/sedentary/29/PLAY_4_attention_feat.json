@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are densely concentrated around the central area with scattered points in all directions, closely matching the PLAY example where gaze tracks dynamic game elements near screen center rather than static code (WRITE/DEBUG/INTERPRET) or horizontally distributed text (READ/BROWSE/SEARCH).",
+  "correct": true
+}

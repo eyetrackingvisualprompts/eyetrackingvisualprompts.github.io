@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered vertically on the left side with limited horizontal spread, matching the pattern of concentrated code inspection typical for debugging and similar to the DEBUG example heatmap.",
+  "correct": false
+}

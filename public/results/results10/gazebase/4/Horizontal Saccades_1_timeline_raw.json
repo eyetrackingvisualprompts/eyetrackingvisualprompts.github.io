@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates regularly between two horizontal extremes with ~1 s dwell times, while Y stays near zero with occasional small deviations, matching the structured \u00b115\u00b0 horizontal tracking pattern of the Horizontal Saccades task.",
+  "correct": true
+}

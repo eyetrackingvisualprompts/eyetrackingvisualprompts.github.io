@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a narrow, predominantly horizontal band with small vertical range, consistent with line-by-line reading on a static text page rather than broader exploratory or dynamic viewing patterns of other tasks.",
+  "correct": false
+}

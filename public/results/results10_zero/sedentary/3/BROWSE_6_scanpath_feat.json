@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated mainly near the top of the screen with relatively large, longer fixations and fewer structured, line-by-line movements. There is no systematic horizontal scanning typical of reading or coding tasks; instead the pattern matches following content in a video with occasional larger shifts, consistent with the WATCH activity.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide horizontal scanning over mid-page bands, repeated sweeps along a row of elements, frequent jumps between mid and lower screen (including to very high/low y) and occasional extreme off-screen coordinates match browsing patterns over a long, scrollable web page more than the more structured, line-by-line behavior of READ or the code-centered, narrower ranges of coding tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze starts with moderate horizontal scanning and mid-screen fixations, then around 35\u201345s shows upward shifts and dense saccades consistent with examining search results and snippets, closely matching the SEARCH example pattern more than reading, browsing, or coding tasks.",
+  "correct": false
+}

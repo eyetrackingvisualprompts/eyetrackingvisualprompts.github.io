@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows medium-sized saccades between central and slightly upper regions, with many short fixations interspersed with occasional longer dwells and vertical shifts\u2014resembling scanning result lists and content snippets more than the more strictly horizontal, line-by-line progressions of READ or the peripheral/top-heavy distributions of WATCH and WRITE. This mixed exploratory yet text-oriented behavior aligns best with the SEARCH examples.",
+  "correct": false
+}

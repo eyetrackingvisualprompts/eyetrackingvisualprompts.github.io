@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated mid-left with horizontal spread and several scattered points across the screen, resembling scanning of search results and page elements rather than the tight cluster of code (DEBUG/INTERPRET/WRITE) or structured lines of text (READ).",
+  "correct": false
+}

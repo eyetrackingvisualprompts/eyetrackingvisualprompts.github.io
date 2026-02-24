@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated along a narrow horizontal band with several neighboring fixations, resembling line-by-line reading of text in a single region rather than object tracking, code editing, or wide exploratory browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster repeatedly around mid-screen code-like areas (~200\u2013500 px) with frequent short saccades within a narrow band, interspersed with occasional large jumps to off-code regions and back\u2014matching the intensive local re-reading, back-and-forth checking, and sporadic context switches characteristic of debugging rather than the more linear scans of READ/WRITE or the more free, global exploration of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": true
+}

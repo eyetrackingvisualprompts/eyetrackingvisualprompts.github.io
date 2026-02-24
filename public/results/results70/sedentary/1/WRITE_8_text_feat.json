@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long horizontal sweeps between far-left and far-right/top UI regions, repeated returns to a central band around y\u2248400\u2013500, and many medium-length fixations indicate scanning a webpage or multi-column content rather than continuous reading or static code; the pattern closely resembles the provided BROWSE example with large-amplitude jumps to screen edges and toolbar areas.",
+  "correct": false
+}

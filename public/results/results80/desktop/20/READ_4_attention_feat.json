@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze heatmap is widely dispersed across the entire screen with multiple distinct clusters and coverage in many directions, matching the exploratory, multi-directional viewing patterns typical of playing games rather than the more centralized or banded patterns of reading, writing, searching, browsing, or watching video.",
+  "correct": false
+}

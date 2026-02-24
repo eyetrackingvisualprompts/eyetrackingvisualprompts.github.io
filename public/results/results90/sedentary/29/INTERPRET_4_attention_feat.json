@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a compact left-side region with little horizontal spread, indicating focused attention on a small block of code, closely matching the INTERPRET example heatmap more than the broader patterns seen in WRITE or DEBUG.",
+  "correct": true
+}

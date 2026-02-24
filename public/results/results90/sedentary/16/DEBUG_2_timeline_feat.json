@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow vertical band with relatively small horizontal movements and stable fixations, resembling focused inspection of a single code snippet as in the INTERPRET task, rather than the broader scans or dynamic shifts seen in browsing, searching, or playing.",
+  "correct": false
+}

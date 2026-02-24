@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Predominantly mid-screen cluster around a dynamic region with many short saccades and medium fixations, interspersed with rapid long-range jumps (including to screen edges/out of bounds) and vertical excursions, matching continuous tracking of moving game elements more than structured line-by-line reading, code-focused tasks, or broad exploratory web/search scanning.",
+  "correct": true
+}

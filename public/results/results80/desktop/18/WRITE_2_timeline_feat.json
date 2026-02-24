@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows stable, mid-screen fixation positions with small, regular shifts in both X and Y, closely matching the continuous, line-by-line scanning pattern seen in the READ example and lacking the larger excursions or variability typical of BROWSE, SEARCH, PLAY, WATCH, or WRITE.",
+  "correct": false
+}

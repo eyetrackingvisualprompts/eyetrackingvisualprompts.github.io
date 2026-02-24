@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze stays mostly in the upper-left to mid-left area with medium-length fixations and repeated returns between nearby vertical regions, consistent with scanning a search results page or SERP sidebar rather than the more linear horizontal patterns of READ or the central code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

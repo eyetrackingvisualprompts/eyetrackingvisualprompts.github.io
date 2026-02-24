@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow horizontal band low on the screen (y\u22480.20\u20130.29) with long, stable fixations and short, small-amplitude saccades within that band, consistent with monitoring typed text near the bottom and cursor/toolbar area during writing rather than the wider vertical or multi-region exploration typical of browsing, search, or video watching.",
+  "correct": false
+}

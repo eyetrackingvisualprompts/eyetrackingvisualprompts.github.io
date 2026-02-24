@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a narrow horizontal band near the top, forming left-to-right reading-like sweeps with minimal vertical movement, resembling the READ example more than the broader, multi-region patterns seen in browsing or searching.",
+  "correct": false
+}

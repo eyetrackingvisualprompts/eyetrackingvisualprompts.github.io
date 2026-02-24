@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze moves predominantly along a single horizontal line between two lateral positions with large, repetitive left-right sweeps and minimal vertical variation, consistent with following a target moving horizontally across the screen rather than random or task-driven exploration.",
+  "correct": true
+}

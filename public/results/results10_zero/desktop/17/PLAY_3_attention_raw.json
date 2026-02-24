@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are dispersed across the central and upper regions with several distinct clusters rather than tight horizontal bands, suggesting scanning mixed text and interface elements (results list, top bar, side areas). This broad exploratory pattern aligns more with web search result pages than with the more linear patterns of READ or the focused central region of WATCH/PLAY or the localized WRITE task near the text cursor and ribbon.",
+  "correct": false
+}

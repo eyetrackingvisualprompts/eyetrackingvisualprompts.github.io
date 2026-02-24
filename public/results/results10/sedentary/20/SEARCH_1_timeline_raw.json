@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent vertical shifts in both X and Y with extended fixations at different screen regions resemble tracking dynamic visual content across the full screen, matching the WATCH pattern more than the more line- or code-structured tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated around mid-screen with frequent short saccades among nearby positions, including vertical shifts between ~0.34\u20130.50 and horizontal shifts ~0.40\u20130.53, forming a compact cluster typical of looking around within a webpage content/controls area. The pattern lacks the highly linear, long horizontal sweep of extended text reading and shows more exploratory, multi-directional movement similar to the BROWSE example rather than the more top-heavy SEARCH snippets or the more static WATCH/PLAY behaviors.",
+  "correct": false
+}

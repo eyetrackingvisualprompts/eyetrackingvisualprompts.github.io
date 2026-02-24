@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a compact code-like region with many short fixations and local saccadic loops, interspersed with frequent vertical/diagonal shifts between nearby lines and occasional large jumps to distant coordinates (e.g., top of screen or consoles), resembling iterative code inspection and verification more than reading prose, passive watching, or web navigation. This spatio-temporal pattern best matches the DEBUG examples.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude saccades across the screen (including extreme corners and off-center regions), irregular multi-directional scanning, and mixed mid-length fixations resemble exploratory web navigation rather than structured line-by-line reading, sustained central watching, or code-focused tasks.",
+  "correct": false
+}

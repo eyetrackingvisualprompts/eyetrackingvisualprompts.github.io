@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small code-like region with many short, local saccades and repeated revisits between nearby coordinates, matching the focused, line/statement-level inspection patterns seen in the WRITE examples rather than the broader scanning or horizontal reading of READ/BROWSE/SEARCH or the larger excursions of WATCH/PLAY/DEBUG/INTERPRET.",
+  "correct": false
+}

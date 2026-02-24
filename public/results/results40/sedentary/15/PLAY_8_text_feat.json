@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Long saccades across large screen regions, many off-center jumps, and relatively brief, scattered fixations without clear line-by-line or code-block structure are most consistent with visually following dynamic, global changes on a video rather than reading, coding, searching, or game-focused tracking patterns.",
+  "correct": false
+}

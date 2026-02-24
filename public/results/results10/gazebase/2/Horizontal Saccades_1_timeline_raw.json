@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position shows large, regular, purely horizontal back-and-forth steps between about +15 and -15 deg with ~1 s plateaus, while Y position stays near 0 with small variations\u2014matching the Horizontal Saccades pattern.",
+  "correct": true
+}

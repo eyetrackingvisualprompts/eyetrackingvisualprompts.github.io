@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, irregular jumps in both horizontal (\u2248 -9\u00b0 to +9\u00b0) and vertical (\u2248 -8\u00b0 to -22\u00b0) directions, followed by short, stable clusters indicating 1-second fixations at each location. This pattern matches a target that appears at pseudo-random positions across the screen with substantial 2D movements, consistent with the Random Saccades task rather than strictly horizontal saccades, continuous reading lines, game-like re-fixations, or static fixation.",
+  "correct": false
+}

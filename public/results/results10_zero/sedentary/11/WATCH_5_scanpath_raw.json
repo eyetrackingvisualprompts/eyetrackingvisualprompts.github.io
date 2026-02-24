@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, continuous gaze shifts across wide screen regions, with trajectories that span horizontally and vertically rather than clustered line-by-line or around text/code blocks. This pattern is consistent with visually tracking game elements and navigating the game space, matching the PLAY activity more than reading, coding, or web search/browsing behaviors.",
+  "correct": false
+}

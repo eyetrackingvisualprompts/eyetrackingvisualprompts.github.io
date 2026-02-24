@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze exhibits rapid, large-amplitude saccades across wide screen regions with many revisits to dynamic central-upper and central-lower areas, plus frequent jumps to extreme screen edges and corners. This pattern matches visually tracking moving game elements and UI in PLAY, rather than the more line-structured, horizontally oriented patterns of READ/BROWSE/SEARCH or the code-centered, denser clusters of WRITE/INTERPRET/DEBUG.",
+  "correct": true
+}

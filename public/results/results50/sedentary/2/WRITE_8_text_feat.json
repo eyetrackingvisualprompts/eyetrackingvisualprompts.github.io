@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like region with many medium/long fixations and short, local saccades, plus occasional vertical jumps between a few specific lines/regions (e.g., around y\u2248360\u2013430 and y\u2248200), matching the interpret task examples more than the more horizontal sweeps of READ/SEARCH or the broader spatial exploration of DEBUG/WRITE/BROWSE.",
+  "correct": false
+}

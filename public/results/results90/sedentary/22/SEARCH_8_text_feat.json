@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on a relatively small central code-like area with repeated short saccades and long fixations around specific lines/coordinates, frequent back-and-forth between nearby positions, and occasional jumps to related regions\u2014matching close, detailed inspection of a static snippet typical for code interpretation rather than broader navigation (SEARCH/BROWSE) or continuous horizontal text scanning (READ).",
+  "correct": false
+}
