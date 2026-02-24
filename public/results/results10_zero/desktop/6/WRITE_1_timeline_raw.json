@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay within a narrow band with small, smooth fluctuations and no systematic horizontal or vertical scanning typical of text or search pages; this stable central focus with minor corrections is most consistent with passively watching a video.",
+  "correct": false
+}

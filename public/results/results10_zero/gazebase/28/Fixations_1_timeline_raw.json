@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y gaze positions remain near the screen center with only small drift over time and no large, regular or multi-directional saccades, matching sustained fixation on a static central target; the brief dip around 7.5 s likely reflects a blink or transient artifact rather than task-driven movement.",
+  "correct": true
+}

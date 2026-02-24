@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal movements with several step-like shifts and small vertical changes, resembling scanning and occasional scrolling behavior seen in the BROWSE example, rather than the more structured line-by-line READ pattern or the larger, more frequent shifts in SEARCH or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, systematic horizontal movements with gradual downward shifts in Y, matching line-by-line reading patterns most similar to the READ example plot rather than the more scattered or dynamic patterns of other tasks.",
+  "correct": false
+}

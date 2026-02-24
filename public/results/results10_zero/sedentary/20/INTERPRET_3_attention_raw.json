@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small region on the left side without horizontal scanning or line-by-line progression; this pattern suggests sustained attention to a relatively static area typical of watching video content rather than reading, writing, or browsing, which show broader, systematic scan paths.",
+  "correct": false
+}

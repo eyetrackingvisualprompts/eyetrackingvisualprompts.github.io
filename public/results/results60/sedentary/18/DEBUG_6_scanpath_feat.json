@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact left-central region with repeated fixations and short saccades, similar to DEBUG/INTERPRET code-focused patterns but without the broader spread or navigation indicative of debugging; this matches the INTERPRET example most closely.",
+  "correct": false
+}

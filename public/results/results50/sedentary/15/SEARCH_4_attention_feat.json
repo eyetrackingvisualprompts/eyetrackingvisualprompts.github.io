@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a compact region in the upper-left code area with few scattered looks elsewhere, matching the focused inspection pattern seen in INTERPRET rather than the broader spread of DEBUG or BROWSE.",
+  "correct": false
+}

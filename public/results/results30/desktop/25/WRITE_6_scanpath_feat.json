@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions are tightly clustered along a narrow horizontal band at mid\u2013lower screen, showing systematic left-to-right movements with small vertical variation, matching line-by-line reading behavior more than the broader, multi-directional patterns of search or browsing.",
+  "correct": false
+}

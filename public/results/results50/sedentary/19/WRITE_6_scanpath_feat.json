@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The scanpath shows frequent shifts between a dense coding area on the left-middle/bottom of the screen and occasional long saccades to the right side, consistent with switching between code, errors, and execution output, which matches the DEBUG pattern more than the other activities.",
+  "correct": false
+}

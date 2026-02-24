@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular eye movements distributed across both horizontal and vertical directions with no strict pattern (unlike horizontal saccades or reading), matching the dispersed trajectory seen in the Random Saccades example.",
+  "correct": false
+}

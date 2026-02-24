@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly local, code-region\u2013sized gaze around mid-screen with many revisits, medium-long fixations, and frequent transitions between code-like area (~y\u2248300\u2013600) and occasional top-of-screen/header regions, plus some large jumps suggesting switching between code sections or views\u2014this pattern best matches the sustained, iterative inspection and re-inspection behavior of debugging rather than linear reading, free browsing, or watching video.",
+  "correct": true
+}

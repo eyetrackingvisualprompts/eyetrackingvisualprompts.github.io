@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in two vertically separated clusters on the left side of the screen, with repeated short saccades within each area and occasional transitions between them, consistent with looking between code and a small nearby region such as an editor/console while typing, typical for code writing rather than broad reading, browsing, or continuous tracking activities.",
+  "correct": false
+}

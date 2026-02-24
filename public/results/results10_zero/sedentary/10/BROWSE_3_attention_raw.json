@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow vertical band slightly left of center, spanning multiple horizontal lines with repeated fixations in the same region\u2014typical of focused attention on a code editor while typing, without the broader top/bottom or multi-panel exploration more common in DEBUG or SEARCH.",
+  "correct": false
+}

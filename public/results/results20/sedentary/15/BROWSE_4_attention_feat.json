@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a single horizontal band over the code area, with moderate spread and some vertical shifts, closely matching the INTERPRET example where users inspect a specific code snippet to predict its output, rather than the tighter WRITE focus or the more dispersed DEBUG pattern.",
+  "correct": false
+}

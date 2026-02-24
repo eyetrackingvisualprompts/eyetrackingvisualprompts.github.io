@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows varied horizontal and vertical movements with irregular saccades and no strong line-by-line reading pattern, closely matching the heterogeneous, exploratory pattern seen in the BROWSE example rather than the more structured behaviors of READ, WRITE, or coding-related tasks.",
+  "correct": false
+}

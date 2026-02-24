@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a single lower-central horizontal band with limited vertical spread, resembling focused attention on a code editor line region typical for writing code, rather than the more dispersed patterns seen in search, browse, or watch tasks.",
+  "correct": false
+}

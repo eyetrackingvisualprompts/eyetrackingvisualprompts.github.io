@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow horizontal band with small sequential shifts and few large saccades, matching concentrated reading/inspection of a short code snippet as in INTERPRET, rather than the broader, more erratic movements seen in debugging, browsing, or gaming.",
+  "correct": false
+}

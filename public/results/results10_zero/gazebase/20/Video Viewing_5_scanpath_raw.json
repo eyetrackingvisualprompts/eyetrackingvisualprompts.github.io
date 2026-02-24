@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows a compact cluster of gaze shifts around a central region with abrupt, discrete jumps in multiple directions and no systematic left-to-right or repetitive horizontal pattern, consistent with tracking a target that randomly relocates and holds position for about a second rather than static fixation, linear reading lines, or large regular horizontal sweeps.",
+  "correct": false
+}

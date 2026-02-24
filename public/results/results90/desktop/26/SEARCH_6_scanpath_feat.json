@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are clustered around the mid-right area with moderate vertical spread and several excursions, resembling the heterogeneous, exploratory pattern of browsing news/blog pages rather than the more linear READ/WRITE patterns or the more dispersed WATCH/PLAY behaviors.",
+  "correct": false
+}

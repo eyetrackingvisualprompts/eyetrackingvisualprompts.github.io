@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze path is constrained to a narrow horizontal band at mid-screen with small left-right saccades and minimal vertical movement, consistent with following a single text line during reading rather than the larger, multi-directional movements typical of browsing, searching, gaming, watching video, or writing (which includes more vertical shifts to the keyboard or toolbars).",
+  "correct": true
+}

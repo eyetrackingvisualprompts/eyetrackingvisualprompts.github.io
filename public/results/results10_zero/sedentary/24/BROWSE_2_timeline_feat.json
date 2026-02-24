@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains in a relatively narrow vertical band with slow, smooth positional changes and few discrete fixations, consistent with following visual content in a video rather than line-by-line reading, code inspection, or rapid target shifts seen in search, browse, or play tasks.",
+  "correct": false
+}

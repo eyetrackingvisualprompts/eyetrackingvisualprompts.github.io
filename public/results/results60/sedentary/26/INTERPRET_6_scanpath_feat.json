@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small code area at the upper-left, with minimal horizontal scanning or vertical scrolling, indicating intensive focus on a short snippet typical of interpreting code output rather than editing, searching, or reading longer text.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points jump between multiple, widely separated locations both horizontally and vertically with roughly one fixation cluster at each position, matching the discrete, spatially scattered pattern of the Random Saccades example rather than the more structured patterns of reading, horizontal-only motion, or central fixation.",
+  "correct": true
+}

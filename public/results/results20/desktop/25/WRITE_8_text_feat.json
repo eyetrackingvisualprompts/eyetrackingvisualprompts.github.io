@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between several horizontal bands (y\u22480.08, 0.15, 0.23\u20130.27, 0.32\u20130.45) with long oblique saccades linking them and short horizontal scans within each band. There is no consistent left-to-right line progression typical of reading, nor a tight cluster near the text-entry area as in writing. The pattern resembles exploratory movements over multiple content regions, matching the browsing examples, which also show frequent vertical transitions across different screen areas with moderate fixations.",
+  "correct": false
+}

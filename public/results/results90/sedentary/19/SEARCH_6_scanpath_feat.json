@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze clusters densely over a left-side code area with frequent vertical and diagonal shifts, plus occasional long saccades to the right (likely console/editor panels). This pattern matches the focused yet exploratory behavior seen in the DEBUG example more than the other task types.",
+  "correct": false
+}

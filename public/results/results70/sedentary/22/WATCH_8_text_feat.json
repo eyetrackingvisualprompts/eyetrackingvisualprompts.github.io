@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large saccades between distant screen regions (including off-center/out-of-bounds coordinates), revisits to similar horizontal bands, and alternation between central content and top/URL-like areas match the exploratory, results-scanning behavior seen in the SEARCH examples more than the more localized, structured patterns of READ/WRITE/DEBUG/INTERPRET or the smoother WATCH/PLAY trajectories.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Long fixations and clusters of saccades in the lower screen followed by large, rapid jumps to the upper area (likely search bar / top results) and then short horizontal movements are characteristic of scanning results pages and revisiting the query area, matching the SEARCH pattern more than continuous reading, code-focused tasks, or game-like tracking.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations occur at a single central location, and horizontal saccades are restricted to a single vertical band, both unlike this plot. The scanpath shows discrete, widely spaced fixation clusters scattered in both horizontal and vertical directions with roughly one-second steps (few, large dots over 10 s), matching a target that jumps to different random positions across the screen, as in the Random Saccades task.",
+  "correct": true
+}

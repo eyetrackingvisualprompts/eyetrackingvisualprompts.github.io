@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts span large regions of the screen in multiple directions with medium-length fixations and no consistent horizontal line-by-line pattern typical of reading or code-related tasks; the irregular, exploratory movements and varied fixation locations are more indicative of free-form web browsing than focused PLAY, WATCH, or programming activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread over a mid-screen region with moderate vertical range and scattered pattern, similar to the example BROWSE scanpath and less structured than READ/WRITE while less dynamic than WATCH/PLAY, matching exploratory web browsing behavior.",
+  "correct": true
+}

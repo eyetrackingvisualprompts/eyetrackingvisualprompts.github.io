@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large, frequent jumps across wide screen regions (including extremes and corners), with many mid-duration fixations and revisits to dispersed points, consistent with tracking dynamic visual content in a video rather than structured text/code scanning or focused game-object following.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide, frequent saccades across large vertical and horizontal extents (header/upper area around y\u2248250\u2013350, mid content around y\u2248550\u2013650, and lower page y\u2248850\u2013900), plus repeated returns to similar banded regions, match the scanning and revisiting behavior seen in the SEARCH examples rather than the more localized patterns of coding tasks or the smoother, more central focus of WATCH/READ.",
+  "correct": false
+}

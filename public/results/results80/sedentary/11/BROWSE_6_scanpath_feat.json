@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in two main vertical bands on the left and right\u2014consistent with query/results areas\u2014connected by frequent horizontal saccades across the top and mid-screen, matching the structured but exploratory scanpath typical of search engine use rather than the more uniform left-block coding or full-screen browsing/watch patterns.",
+  "correct": false
+}

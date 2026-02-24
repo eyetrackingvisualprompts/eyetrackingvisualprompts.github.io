@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Moderate horizontal movements around screen center with occasional vertical shifts and several distinct positional plateaus closely resemble the SEARCH pattern, indicating scanning results and query box rather than the more structured line-by-line READ or dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

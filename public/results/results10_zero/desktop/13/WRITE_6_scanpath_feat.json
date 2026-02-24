@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal cluster with small shifts, consistent with fixations around a central text line and short saccades typical of reading, rather than the larger, more dispersed movements expected in play, search, browse, watch, or write activities.",
+  "correct": false
+}

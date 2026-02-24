@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scanpaths across wide screen regions at multiple vertical levels, with frequent long range saccades (including to near-offscreen coordinates) and revisits to top and mid-page bands, match the pattern of reading/skimming search results and navigating a SERP more than focused code inspection, continuous reading, or game/video viewing.",
+  "correct": false
+}

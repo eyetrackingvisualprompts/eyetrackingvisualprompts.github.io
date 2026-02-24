@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large shifts in both X and Y with variable fixation bands, indicating transitions between focal reading regions and other interface elements (results list, query box, tabs). This mixed vertical and horizontal exploration pattern matches the SEARCH example more than the steadier READ or more localized coding tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows concentrated fixations around a relatively narrow horizontal band with repeated medium saccades up and down, resembling scanning between code lines and nearby interface elements. This pattern best matches the DEBUG example, which has similar localized but more dynamic movements than WRITE or INTERPRET and less dispersed exploration than BROWSE or SEARCH.",
+  "correct": false
+}

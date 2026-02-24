@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze remains in a narrow horizontal band with slowly rising Y-position over time, indicating small vertical progression but frequent local fixations around a similar region\u2014consistent with composing or editing in a text editor where attention stays near the current writing line rather than scanning full lines as in reading or browsing.",
+  "correct": false
+}

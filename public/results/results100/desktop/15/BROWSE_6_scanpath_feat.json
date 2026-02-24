@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are concentrated around the screen center with moderate dispersion and frequent short saccades, closely matching the browsing example pattern rather than the more linear (READ/WRITE) or broader (WATCH/PLAY/SEARCH) scanpaths.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on the left code area with intermittent long saccades to the right side (likely console or documentation within IDE), matching the WRITE example more than the denser, more error-focused DEBUG pattern.",
+  "correct": true
+}

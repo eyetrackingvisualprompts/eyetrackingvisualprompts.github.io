@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is distributed horizontally across much of the page with multiple fixation clusters at different x-positions and moderate vertical spread, matching the varied scanning and mixed content pattern seen in the BROWSE example rather than the more localized or structured patterns of other tasks.",
+  "correct": true
+}

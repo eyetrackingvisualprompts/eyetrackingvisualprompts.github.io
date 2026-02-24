@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow vertical band near the screen center with short, local saccades and repeated passes over the same area, consistent with focused code editing/typing rather than extensive vertical reading, free browsing, or wide visual exploration typical of search, watch, or play tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered around the central-lower region with little vertical spread, consistent with focusing on a small area such as the main action/subtitle region in a video rather than the broader vertical scan patterns typical of reading, browsing, searching, or writing, or the wider directional movements in gameplay.",
+  "correct": false
+}

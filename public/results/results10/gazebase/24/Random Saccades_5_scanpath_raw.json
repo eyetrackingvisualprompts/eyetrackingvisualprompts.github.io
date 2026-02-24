@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, irregular jumps across both horizontal and vertical directions, covering multiple scattered positions similar to the Random Saccades example rather than the more constrained or patterned movements of the other tasks.",
+  "correct": true
+}

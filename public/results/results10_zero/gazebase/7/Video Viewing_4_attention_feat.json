@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations cluster around multiple discrete positions spread across both horizontal and vertical axes, with roughly one-second dwell-like hotspots and no clear linear reading pattern or single central fixation, matching the behavior of following a randomly moving target across the screen.",
+  "correct": false
+}

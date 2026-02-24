@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Long, smooth horizontal gaze positions with relatively small vertical changes and several extended plateaus suggest following on-screen motion or scenes rather than line-by-line reading or code inspection, matching a continuous video-watching pattern.",
+  "correct": false
+}

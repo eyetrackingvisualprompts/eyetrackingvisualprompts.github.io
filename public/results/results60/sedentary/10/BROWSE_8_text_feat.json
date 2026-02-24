@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades between extreme screen regions (including off-screen coordinates), mixed with short local scanning in multiple vertical zones and returns to header-like/top areas match the exploratory, multi-region navigation typical of web browsing rather than the more structured, line-based or code-block-focused patterns of reading, coding, or interpreting.",
+  "correct": true
+}

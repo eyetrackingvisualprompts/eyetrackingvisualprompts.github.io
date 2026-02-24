@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large saccades across wide screen regions, including to extreme coordinates and back, with relatively long fixations on central visual areas and no clear structured line-by-line or code-column scanning pattern, match the free-ranging, scene-following behavior typical of watching a video rather than reading, coding, or web search/browsing tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent very long saccades spanning from extreme left to far right/top (and back) and to screen corners, interleaved with shorter reading-like horizontal movements, match the exploratory, page-scrolling, and navigation pattern seen in the BROWSE examples rather than the more localized, code-centered or line-by-line patterns of coding, interpreting, reading, or watching tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades between spatially separated regions (center \u2192 top, left \u2194 right, dispersed around the upper half), with relatively short fixations, resembling scanning and re-locating items across a cluttered results/page layout. This spatiotemporal pattern aligns more with SEARCH behavior than the more localized patterns of READ, WRITE, WATCH, PLAY, or the more mid-screen\u2013centered BROWSE example.",
+  "correct": false
+}

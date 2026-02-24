@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows dense exploration of the upper-left region like reading search results plus frequent long saccades to the right and downward, consistent with scanning result snippets and navigating to opened pages, matching the SEARCH pattern more than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, gradual shifts in both X and Y with intermittent larger saccades across the screen, resembling continuous tracking of dynamic visual content rather than structured line-by-line reading or focused code inspection. This pattern best matches the WATCH example timeline.",
+  "correct": true
+}

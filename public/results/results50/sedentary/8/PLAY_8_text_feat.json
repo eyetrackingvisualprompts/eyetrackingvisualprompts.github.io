@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, large-amplitude saccades across wide screen regions (including toward corners and edges) with short-to-moderate fixations, repeatedly jumping between dispersed locations rather than following lines or code blocks. This dynamic, spatially scattered pattern aligns best with visually tracking moving game elements in the PLAY condition, rather than the more localized, structured scanpaths of reading, coding, or web search.",
+  "correct": true
+}

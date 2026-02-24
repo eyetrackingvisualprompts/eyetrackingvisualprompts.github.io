@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper screen region (y\u22480.75\u20131.0) with long fixations and small local adjustments, matching looking near the text/cursor area while typing. The large occasional vertical saccades resemble shifts between text and UI elements, consistent with the WRITE pattern rather than the more dispersed scanning of BROWSE/SEARCH or the central focus of WATCH/PLAY.",
+  "correct": false
+}

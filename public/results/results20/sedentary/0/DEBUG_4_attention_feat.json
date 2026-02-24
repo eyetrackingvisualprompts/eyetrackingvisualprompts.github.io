@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a narrow vertical strip on the left side of the screen with little spread elsewhere, matching the focused gaze pattern over a small code snippet seen in the INTERPRET examples rather than the broader distributions of other tasks.",
+  "correct": false
+}

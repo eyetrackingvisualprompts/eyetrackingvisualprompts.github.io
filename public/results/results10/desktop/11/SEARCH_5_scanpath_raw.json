@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows two main vertical regions (center and slightly left) with frequent transitions and broader vertical span than typical reading, consistent with scanning between search box, results, and lower content during web searching rather than the more horizontally structured patterns of read or write.",
+  "correct": true
+}

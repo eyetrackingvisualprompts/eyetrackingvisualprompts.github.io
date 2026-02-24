@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large-amplitude saccades spanning a wide horizontal range with scattered vertical positions and clusters that shift over time, resembling dynamic tracking of moving objects in a game more than the denser localized patterns of browse/search or the structured lines of read/write.",
+  "correct": false
+}

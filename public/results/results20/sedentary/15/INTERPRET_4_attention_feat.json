@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in multiple vertically distributed clusters along the left side of the screen, with some deeper scroll-level fixations and little activity on the right, matching the example SEARCH pattern on a search-results page rather than the more central, full-screen distributions of BROWSE or WATCH.",
+  "correct": false
+}

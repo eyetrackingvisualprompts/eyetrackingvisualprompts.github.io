@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze points are clustered in a central region with irregular, short saccades and no clear horizontal lines, vertical row structure, or large random jumps. This pattern matches natural, free-viewing behavior seen in the video viewing example rather than structured tasks like saccade following, reading, or the game.",
+  "correct": true
+}

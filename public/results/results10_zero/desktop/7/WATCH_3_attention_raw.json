@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, tight fixation cluster around the central-right area with minimal horizontal scanning, suggesting sustained attention to a localized dynamic region (e.g., characters or subtitles) rather than systematic text scanning (READ/WRITE) or wide exploratory movements (PLAY/SEARCH/BROWSE), which is most consistent with watching video content.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze forms a predominantly horizontal scanline with small vertical variation in a narrow band, characteristic of line-by-line reading rather than the broader, more dispersed patterns seen in browsing, search, or gameplay.",
+  "correct": false
+}

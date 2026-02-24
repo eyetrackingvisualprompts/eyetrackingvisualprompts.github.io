@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered in a compact region on the upper-left side of the screen with limited horizontal spread, suggesting focused attention on a narrow code/editing area typical of implementing code, rather than the broader horizontal or full-screen patterns seen in reading, browsing, or watching video.",
+  "correct": false
+}

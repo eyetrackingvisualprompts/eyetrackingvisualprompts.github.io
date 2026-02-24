@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, rapid shifts across wide screen areas (including extremes and outside typical reading/code regions), with irregular, non-linear trajectories and no sustained horizontal scanning patterns characteristic of reading, browsing, or coding. This broad, dynamic exploration with frequent vertical and diagonal movements is most consistent with tracking moving game elements during PLAY.",
+  "correct": false
+}

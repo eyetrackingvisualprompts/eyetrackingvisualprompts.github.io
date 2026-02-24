@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a tight horizontal band with limited vertical movement, characteristic of line-by-line reading behavior rather than the wider exploratory or dynamic patterns seen in browsing, searching, playing, or watching video.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze remains confined to a relatively narrow horizontal band with many short saccades and medium\u2013long fixations, repeatedly sweeping left\u2013right over similar y-levels and then shifting slightly vertically\u2014typical of reading and re-reading code lines while locating and verifying issues. There are occasional larger jumps (e.g., between mid and lower regions) consistent with moving between code and related interface elements, matching the DEBUG exemplars more closely than browsing, reading prose, or gaming patterns.",
+  "correct": false
+}

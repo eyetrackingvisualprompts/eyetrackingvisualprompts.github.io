@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a mid-screen code area with dense, local fixations and short saccades among similar y-levels, punctuated by occasional jumps to top/outer regions\u2014closely matching the WRITE example\u2019s pattern of scanning and re-checking code, rather than the more linear (READ) or more dispersed/search-like (SEARCH/BROWSE) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are highly concentrated in a single left-side code area with minimal spread elsewhere, closely matching the WRITE example heatmap and indicating focused coding rather than multi-region inspection or broader scanning.",
+  "correct": false
+}

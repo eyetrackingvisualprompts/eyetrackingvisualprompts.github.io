@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long horizontal scan-like sequences at several nearby y-levels interleaved with large, rapid jumps to distant regions (top, bottom, and corners) resemble scrolling and scanning heterogeneous web pages more than the more line-structured READ pattern or the focused code regions of WRITE/DEBUG/INTERPRET, aligning best with BROWSE examples.",
+  "correct": true
+}

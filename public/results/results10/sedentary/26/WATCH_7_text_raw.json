@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows repeated rapid shifts between dispersed regions (center, upper screen, and various side areas) with many mid-screen fixations tracking changing positions, characteristic of following moving game elements and frequently checking different HUD or playfield areas, aligning best with the PLAY examples rather than the more line-structured patterns of READ/SEARCH or the more localized code-focused tasks like DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

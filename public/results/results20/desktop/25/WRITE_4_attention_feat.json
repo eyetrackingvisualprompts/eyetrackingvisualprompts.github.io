@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a band across the lower half of the screen with some spread horizontally, matching the pattern seen when composing text in a document window (similar to the WRITE example) rather than the more central/top-focused patterns of browsing, search, or watching.",
+  "correct": true
+}

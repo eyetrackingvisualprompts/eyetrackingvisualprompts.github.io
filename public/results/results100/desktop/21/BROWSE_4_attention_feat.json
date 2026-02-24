@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixation cluster is concentrated around the upper-central area with moderate vertical spread and relatively limited horizontal movement, closely matching the SEARCH example heatmap pattern and differing from the more horizontally distributed READ/BROWSE or peripheral WRITE/PLAY patterns.",
+  "correct": false
+}

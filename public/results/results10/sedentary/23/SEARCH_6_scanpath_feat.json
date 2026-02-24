@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze starts near the top-left, moves vertically and slightly diagonally in a narrow region (likely scanning search results list), then shifts rightward to a separate cluster (likely inspecting a selected result page). This pattern matches the SEARCH example more than the other activities.",
+  "correct": true
+}

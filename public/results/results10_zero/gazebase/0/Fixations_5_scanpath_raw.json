@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows gaze moving among multiple, irregularly spaced locations with both horizontal and vertical components, without the predominantly horizontal back-and-forth of Horizontal Saccades or the orderly left-to-right lines of Reading. Movements are clustered around several points rather than a single fixation, consistent with following a target that jumps to random positions for brief periods, as in Random Saccades.",
+  "correct": false
+}

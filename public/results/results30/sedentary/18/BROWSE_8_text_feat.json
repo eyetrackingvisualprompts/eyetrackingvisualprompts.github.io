@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent vertical and horizontal shifts across wide screen regions, including off-screen coordinates, with relatively few structured line-like scanpaths or tight code/text clusters, are characteristic of following dynamic visual content as in the WATCH condition rather than reading, coding, or web search/browsing layouts.",
+  "correct": false
+}

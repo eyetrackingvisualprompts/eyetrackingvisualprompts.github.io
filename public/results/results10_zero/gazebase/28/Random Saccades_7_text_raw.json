@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show large, discrete jumps in gaze position followed by relatively stable clusters with small within-cluster noise, at varying horizontal and vertical locations. This pattern is consistent with tracking a target that appears at random positions and is held briefly (Random Saccades), rather than the strictly horizontal motion of Horizontal Saccades, the near-static location in Fixations, or the more complex, content-driven scanpaths of Reading, Video Viewing, or the Balura Game.",
+  "correct": true
+}

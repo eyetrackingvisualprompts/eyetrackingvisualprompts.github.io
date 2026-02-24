@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze progresses in smooth, largely horizontal bands at several vertical levels with moderate saccade amplitudes and medium-length fixations, matching scrolling through web content. The pattern closely resembles the BROWSE example statistics and structure, and lacks the dense code-focused clustering of WRITE/DEBUG/INTERPRET or the rapid, object-following shifts typical of PLAY/WATCH/search-result scanning.",
+  "correct": false
+}

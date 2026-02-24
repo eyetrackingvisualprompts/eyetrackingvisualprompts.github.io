@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is centered around mid-screen with frequent medium-amplitude vertical shifts between ~0.25\u20130.55 and horizontal shifts near screen center, plus many short fixations interleaved with occasional longer ones. This mix of scanning mid/upper regions and revisiting similar bands matches the SEARCH example more than the more line-structured READ, content-stationary WATCH, or highly lateral PLAY patterns.",
+  "correct": false
+}

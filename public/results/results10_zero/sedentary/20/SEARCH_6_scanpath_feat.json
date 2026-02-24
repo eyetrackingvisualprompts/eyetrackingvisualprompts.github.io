@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid gaze shifts covering wide horizontal and vertical extents, with few clustered fixations and no orderly line-by-line pattern. This suggests continuous tracking of moving elements across the screen, which is most consistent with gameplay rather than reading, coding, or web browsing tasks that show more localized or structured fixations.",
+  "correct": false
+}

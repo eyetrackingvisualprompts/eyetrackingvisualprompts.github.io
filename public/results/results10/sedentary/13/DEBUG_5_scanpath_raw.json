@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The scanpath is concentrated on the left side with repeated vertical transitions between code and output regions and a few long returns, closely resembling the INTERPRET example pattern where participants repeatedly compare parts of a short code snippet to reason about its behavior.",
+  "correct": false
+}

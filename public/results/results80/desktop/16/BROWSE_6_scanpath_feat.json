@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are densely scattered around the central region with many short, multidirectional saccades and no clear horizontal reading lines or left-right clusters, matching the exploratory, locally concentrated pattern typical of web browsing rather than structured reading, writing, or gameplay.",
+  "correct": true
+}

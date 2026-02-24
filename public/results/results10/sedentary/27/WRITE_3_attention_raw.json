@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated on a relatively small, left-side vertical region with some movements downward and slightly upward, closely matching the INTERPRET example pattern of focused code inspection rather than the tighter, more static cluster of WRITE/DEBUG or the broader spread of BROWSE/PLAY/SEARCH.",
+  "correct": false
+}

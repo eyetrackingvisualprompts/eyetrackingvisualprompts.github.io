@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cover a vertically extended central region with frequent shifts among multiple nearby clusters, indicating scanning of varied items (e.g., results, snippets, and interface elements) rather than orderly line-by-line reading or focused watching, which matches the SEARCH pattern best among the examples.",
+  "correct": true
+}

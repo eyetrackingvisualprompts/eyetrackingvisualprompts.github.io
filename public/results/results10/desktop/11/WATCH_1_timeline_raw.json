@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-sized vertical jumps between distinct horizontal bands with corresponding horizontal shifts, matching the pattern of switching between regions like navigation bar, article list, and content typical in browsing. The dynamics are more jumpy than READ but less erratic than PLAY or WATCH, aligning best with BROWSE.",
+  "correct": false
+}

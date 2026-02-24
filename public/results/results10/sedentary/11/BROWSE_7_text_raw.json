@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze cluster is tightly concentrated in a mid-screen region with short horizontal/vertical shifts and repeated revisits to similar coordinates, indicating intensive inspection of a compact code snippet rather than long horizontal lines (READ) or broad exploratory movements (SEARCH/BROWSE/PLAY). This focused, back\u2011and\u2011forth pattern over a limited area best matches INTERPRET, where participants repeatedly inspect a small function to reason about its behavior.",
+  "correct": false
+}

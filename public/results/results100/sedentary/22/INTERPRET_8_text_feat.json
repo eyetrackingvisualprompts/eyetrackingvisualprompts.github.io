@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow code-like region (x\u2248220\u2013340, y\u2248170\u2013320) with many short regressions and revisits, plus frequent vertical moves between slightly different y-bands, matching line-by-line inspection and editing behavior typical of coding. There are occasional long saccades to far right/other areas (e.g., x\u22481400\u20131700) resembling brief IDE/UI checks, a pattern closely aligned with the WRITE examples and less so with the denser, more global scanning seen in WATCH/PLAY/BROWSE or the more error-hunting jumps in DEBUG/SEARCH.",
+  "correct": false
+}

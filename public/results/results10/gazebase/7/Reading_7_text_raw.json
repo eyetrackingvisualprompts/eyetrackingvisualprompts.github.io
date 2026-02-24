@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The target data show large-amplitude gaze jumps to widely separated positions in both horizontal and vertical directions, followed by ~1-second periods of small fluctuations around each location. This pattern of discrete relocations with dwell periods matches the Random Saccades paradigm rather than smooth scanning (video/reading), near-static gaze (fixations), pure horizontal motions, or the more irregular, task-contingent movements seen in the Balura game.",
+  "correct": false
+}

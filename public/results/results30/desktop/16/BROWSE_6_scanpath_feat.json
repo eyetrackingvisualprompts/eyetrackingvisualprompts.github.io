@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points cluster around the central area with frequent shifts among several nearby regions, resembling exploratory scanning of search results and interface elements, which matches the SEARCH example more than the more linear READ pattern or localized BROWSE behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows focused fixations in a relatively narrow central region with intermittent larger exploratory saccades and brief shifts, resembling the pattern of code debugging where attention alternates between local code inspection and occasional jumps, most similar to the DEBUG example plot.",
+  "correct": false
+}

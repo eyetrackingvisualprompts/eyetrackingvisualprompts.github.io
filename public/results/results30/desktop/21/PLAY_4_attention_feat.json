@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread vertically from near the top to close to the bottom and horizontally across the central-right region, indicating scanning through multiple content areas such as headlines, images, and mixed layout, which matches the browsing pattern more than the more linear READ pattern or the localized clusters of other tasks.",
+  "correct": false
+}

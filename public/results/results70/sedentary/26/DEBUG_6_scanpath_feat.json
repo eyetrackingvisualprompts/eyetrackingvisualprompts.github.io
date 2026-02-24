@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and regressions over a confined left-center region suggest focused code editing, with occasional long saccades to the lower-right area consistent with looking at console/output or other IDE panels, matching the WRITE pattern more than other activities.",
+  "correct": false
+}

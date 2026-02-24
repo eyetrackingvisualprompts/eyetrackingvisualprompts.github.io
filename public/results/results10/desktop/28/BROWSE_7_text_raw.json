@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude shifts across wide screen regions (including towards screen edges and corners), interspersed with brief local fixations around mid-screen. This high-mobility, multi-directional scan pattern with repeated jumps between distant coordinates best matches the dynamic visual exploration seen in the PLAY examples rather than the more localized, line- or block-structured movements of READ/WRITE/BROWSE/SEARCH or the steadier WATCH behavior.",
+  "correct": false
+}

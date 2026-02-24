@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows repeated, predominantly horizontal saccades within a narrow vertical band (y \u2248 0.38\u20130.41) with intermediate-length fixations, consistent with line-by-line reading of text rather than multi-directional exploration (SEARCH/BROWSE/PLAY) or centrally focused viewing (WATCH) or mixed gaze-keyboard behavior (WRITE).",
+  "correct": false
+}

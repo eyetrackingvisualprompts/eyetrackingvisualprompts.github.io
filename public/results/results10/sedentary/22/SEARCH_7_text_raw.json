@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze clusters heavily around code-like coordinate bands (x\u2248250\u2013550,y\u2248140\u2013420) with repeated short saccades within a constrained region, plus occasional jumps to other interface areas, matching focused inspection and re\u2011inspection of lines/blocks typical of debugging rather than the more linear patterns of READ/WRITE or the more scattered patterns of BROWSE/SEARCH/PLAY.",
+  "correct": false
+}

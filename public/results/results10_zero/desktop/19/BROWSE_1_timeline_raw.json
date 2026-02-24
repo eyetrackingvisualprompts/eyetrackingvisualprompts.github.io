@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows continuous, fluid shifts in both X and Y without clear horizontal line-sweeps or repetitive vertical scroll jumps. Movements are moderately large but not as abrupt or omnidirectional as typical gameplay, and lack the structured left-to-right/right-to-left patterns of reading or writing. This pattern aligns best with watching dynamic video content where attention tracks changing scene elements and characters across the screen.",
+  "correct": false
+}

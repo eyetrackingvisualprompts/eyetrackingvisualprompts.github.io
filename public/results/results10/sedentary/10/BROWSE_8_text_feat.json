@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid-lower and mid-upper screen bands with long horizontal sweeps and occasional large vertical transitions (down to ~900 px then up to ~400 px), consistent with scrolling and scanning varied webpage content rather than the more line-structured patterns of READ or the tight code-area focus of programming tasks.",
+  "correct": true
+}

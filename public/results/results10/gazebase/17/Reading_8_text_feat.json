@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze repeatedly jumps between widely separated positions with both substantial horizontal and vertical components, each followed by ~200\u2013300 ms fixations, matching the discrete, large, and directionally varied target steps of the Random Saccades task rather than the more constrained patterns of the other activities.",
+  "correct": false
+}

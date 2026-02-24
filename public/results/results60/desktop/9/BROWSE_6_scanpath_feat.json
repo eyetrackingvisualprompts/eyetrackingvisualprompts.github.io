@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster in a compact central region with medium dispersion and multidirectional saccades, resembling the SEARCH example more than the more linear READ pattern or the peripheral WATCH/PLAY/WRITE clusters.",
+  "correct": false
+}

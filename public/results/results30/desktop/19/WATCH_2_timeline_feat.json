@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower half of the screen with relatively stable horizontal fixations around mid\u2013screen X and low Y values, slowly drifting rightward over time, consistent with looking at and composing text in a word processor rather than scanning full-page text (READ) or exploring varied regions (SEARCH/BROWSE/PLAY/WATCH).",
+  "correct": false
+}

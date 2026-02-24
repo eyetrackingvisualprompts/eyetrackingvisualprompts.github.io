@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to distinct positions spanning both horizontal and vertical directions, with extended clusters of near-stationary samples between jumps, consistent with following a target that appears at random 2\u201315\u00b0 locations rather than smooth scanning or tight central fixation.",
+  "correct": false
+}

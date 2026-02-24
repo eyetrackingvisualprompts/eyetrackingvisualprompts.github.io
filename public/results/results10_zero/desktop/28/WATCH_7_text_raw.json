@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates show relatively small, systematic movements concentrated in central-horizontal bands, with long stable fixations and slow horizontal shifts, consistent with line-by-line reading of text rather than the larger, more erratic scanning and multidirectional saccades typical of browsing, searching, or game play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including off-center and edge areas), many revisits between dispersed coordinates, and substantial gaze activity in upper, lower, and side regions match dynamic object-following and navigation patterns seen in PLAY, rather than the more line- or block-structured scanpaths of reading, coding, or web browsing tasks.",
+  "correct": true
+}

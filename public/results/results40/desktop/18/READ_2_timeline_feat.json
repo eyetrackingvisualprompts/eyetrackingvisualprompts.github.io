@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows slow, smooth, repetitive horizontal sweeps with relatively small vertical changes, consistent with following moving content across the screen as in video watching, rather than the discrete line-by-line or scanning patterns seen in reading, browsing, search, or writing tasks.",
+  "correct": false
+}

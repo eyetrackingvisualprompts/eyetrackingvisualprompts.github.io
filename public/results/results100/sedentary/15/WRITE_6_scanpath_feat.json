@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered on the left-central code area with occasional vertical checks and minimal exploration elsewhere, matching the focused, localized viewing seen in the INTERPRET example more than the broader spread of WRITE or DEBUG.",
+  "correct": false
+}

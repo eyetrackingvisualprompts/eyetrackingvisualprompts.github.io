@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around upper-central area with frequent vertical transitions between mid and higher y-values and occasional downward saccades, indicating repeated shifts between search box, results list, and lower content\u2014patterns most similar to the SEARCH example scanpath.",
+  "correct": true
+}

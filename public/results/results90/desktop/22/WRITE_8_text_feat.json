@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a very small vertical band with long, repeated fixations around (0.5, 0.7\u20130.75), showing minimal horizontal scanning and slow, local adjustments\u2014matching the stationary text/cursor monitoring pattern seen in the WRITE examples, rather than the broader horizontal sweeps of READ or the more dispersed patterns of BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": true
+}

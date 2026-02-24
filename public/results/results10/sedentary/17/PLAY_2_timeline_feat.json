@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large vertical and horizontal saccades between distinct fixation bands suggest scanning result lists and content snippets, matching the SEARCH pattern more than the steadier reading/debugging traces or the more erratic gaming/browsing ones.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in the central region with moderate vertical spread and varied, non-linear saccades, resembling the exploratory yet screen-centered pattern of the BROWSE example more than the more structured READ/WRITE or the wider, multi-cluster PLAY/WATCH patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows continuous tracking of a horizontally moving target with small, frequent saccades and tightly clustered fixations that gradually shift downward, matching smooth pursuit of a game character rather than line-by-line reading or page scanning found in READ/SEARCH/BROWSE. The absence of keyboard-area clusters rules out WRITE, and the structured, locally dynamic tracking is more consistent with interactive PLAY than passive WATCH.",
+  "correct": false
+}

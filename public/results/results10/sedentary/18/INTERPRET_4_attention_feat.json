@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is tightly focused in two dense clusters in the left-central area, similar to the DEBUG example where attention is concentrated on a specific code region rather than spread across lines (READ/WRITE) or over larger areas (PLAY/SEARCH/BROWSE/WATCH). This pattern best matches focused inspection and correction of code during debugging.",
+  "correct": false
+}

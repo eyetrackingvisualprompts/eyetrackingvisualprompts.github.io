@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band with modest x-movement and occasional larger saccades, matching focused code editing behavior seen in the WRITE example more than the other tasks.",
+  "correct": false
+}

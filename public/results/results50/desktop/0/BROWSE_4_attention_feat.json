@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the screen center with moderate vertical spread and some scattered points, closely resembling the SEARCH example heatmap more than the tighter BROWSE cluster or the linear READ pattern.",
+  "correct": false
+}

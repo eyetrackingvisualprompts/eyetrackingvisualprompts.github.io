@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively structured, mostly horizontal movements with gradual progression and limited large saccades, closely matching the example READ pattern and typical line-by-line text reading behavior rather than the more scattered or dynamic patterns of browsing, search, or play.",
+  "correct": false
+}

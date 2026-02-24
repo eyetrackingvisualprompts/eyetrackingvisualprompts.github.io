@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal shifts with variable vertical positions and intermittent saccades, indicating scanning and evaluating changing content regions, which most closely matches the SEARCH example rather than the more regular lines of READ or the stable patterns of WATCH/WRITE.",
+  "correct": false
+}

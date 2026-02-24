@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Reading",
+  "reason": "Gaze positions are clustered in a narrow vertical band with mostly leftward and small diagonal saccades and frequent, relatively short fixations (200\u2013800 ms), consistent with line-by-line reading patterns rather than large horizontal sweeps, central fixation, or broad random movements seen in the other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large saccades and shifts between two main vertical regions (result list and individual pages), with irregular horizontal movements, matching the exploratory and back-and-forth pattern typical of search tasks rather than the more structured reading, coding, or continuous video/game viewing patterns.",
+  "correct": false
+}

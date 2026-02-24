@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates in a regular, large-amplitude, two-position pattern with ~1 s plateaus, while Y remains near zero with minimal variation, matching the stereotyped horizontal tracking of the Horizontal Saccades condition.",
+  "correct": true
+}

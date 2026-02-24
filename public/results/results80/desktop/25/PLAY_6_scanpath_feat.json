@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a relatively central region with moderate vertical spread and frequent saccades within that area, resembling the exploratory yet locally clustered pattern seen in the BROWSE example more than the tighter WRITE/READ clusters or the wider PLAY/WATCH distributions.",
+  "correct": false
+}

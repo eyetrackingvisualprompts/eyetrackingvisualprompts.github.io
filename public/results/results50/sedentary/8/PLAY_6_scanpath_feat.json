@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed across multiple horizontal bands and regions with several longer saccades outward, resembling shifts between search results, snippets, and possibly a side panel, matching the SEARCH example pattern more than the others.",
+  "correct": false
+}

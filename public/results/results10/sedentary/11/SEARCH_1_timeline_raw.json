@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows long horizontal scans with step-like downward Y shifts and a notable excursion toward the bottom of the screen around 7\u20138s, matching the pattern of scrolling and briefly inspecting lower search results typical of the SEARCH condition rather than the steadier reading or more centrally focused coding/debugging tasks.",
+  "correct": true
+}

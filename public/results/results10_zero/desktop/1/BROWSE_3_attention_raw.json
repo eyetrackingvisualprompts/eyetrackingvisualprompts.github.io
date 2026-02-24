@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered around a single horizontal band near the screen center with small lateral movements and limited vertical spread, consistent with line-by-line reading rather than broader exploratory or multi-directional viewing seen in play, search, browse, watch, or write tasks.",
+  "correct": false
+}

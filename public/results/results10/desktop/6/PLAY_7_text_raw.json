@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly around the screen center with moderate vertical shifts between mid and upper/lower regions and frequent short fixations interleaved with medium saccades, matching search engine result page inspection more than the more stable lines of READ, the peripheral upper focus of WRITE, or the larger, faster excursions typical of PLAY/WATCH. The pattern is also less static and more dispersed than BROWSE examples, consistent with query\u2013result scanning behavior in SEARCH.",
+  "correct": false
+}

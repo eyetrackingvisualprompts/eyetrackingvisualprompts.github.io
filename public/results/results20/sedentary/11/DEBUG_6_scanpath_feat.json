@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts across multiple vertical regions and horizontally along several bands, covering a larger portion of the page than reading but with structured lines and frequent transitions between sections, matching exploratory web browsing behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a narrow horizontal band across the central screen with relatively few vertical shifts, consistent with following visual content in a video rather than scanning lines of text, code, or interactive UI elements.",
+  "correct": false
+}

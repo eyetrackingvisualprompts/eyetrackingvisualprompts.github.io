@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Scanpath shows dense, systematic horizontal sweeps with a clear lower block (typing area) and upper block (text line area), matching the structured, banded gaze pattern seen in the WRITE example rather than the more localized READ or scattered BROWSE/SEARCH patterns.",
+  "correct": false
+}

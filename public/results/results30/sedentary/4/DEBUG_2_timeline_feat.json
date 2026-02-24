@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact central region with relatively small horizontal span and moderate vertical shifts, resembling focused inspection of a code block rather than wide scanning (SEARCH/BROWSE) or continuous horizontal reading (READ). The pattern closely matches the INTERPRET example, where attention stays around the same area with intermittent small saccades as the participant reasons about given code.",
+  "correct": false
+}

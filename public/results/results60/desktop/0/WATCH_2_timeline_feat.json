@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, irregular exploration with both axes hovering around screen center and occasional shifts, resembling the varied yet not strongly structured scanning seen in the BROWSE example more than the more systematic patterns of READ/WRITE or the larger excursions of PLAY/WATCH.",
+  "correct": false
+}

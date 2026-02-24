@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is focused on a compact, code-sized region on the left with dense fixations and repeated vertical traversals between lines, closely matching the DEBUG example pattern and differing from the more confined INTERPRET pattern and broader WRITE movements.",
+  "correct": false
+}

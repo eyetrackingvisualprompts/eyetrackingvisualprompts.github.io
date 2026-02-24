@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows moderate, localized movements around central-mid screen with occasional shifts to nearby regions, resembling scanning of heterogeneous web page elements. The pattern is less uniform and line-structured than READ, less static than WATCH, and lacks the large, rapid excursions characteristic of PLAY; it closely matches the spatial dispersion and saccade/fixation structure in the BROWSE example.",
+  "correct": false
+}

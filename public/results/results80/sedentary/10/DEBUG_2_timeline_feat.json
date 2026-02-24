@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows moderate dispersion with repeated short fixations around several nearby code-relevant regions and occasional larger saccades, closely matching the WRITE example pattern rather than the more scattered SEARCH/BROWSE or the highly regular READ trajectory.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a small left-center region consistent with focusing on a short code snippet, with occasional long saccades downward and right similar to the INTERPRET example rather than the broader, more dispersed patterns of other tasks.",
+  "correct": false
+}

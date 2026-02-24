@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the central region with spread both vertically and horizontally, resembling scanning of search results rather than the more linear READ pattern or top-focused WATCH/WRITE patterns.",
+  "correct": false
+}

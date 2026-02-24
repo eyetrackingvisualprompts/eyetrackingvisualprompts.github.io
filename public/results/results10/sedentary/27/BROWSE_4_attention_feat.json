@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are scattered across a large vertical extent and multiple horizontal positions without a tight central cluster, indicating exploration of different regions of a webpage rather than focused reading or code-related tasks, which matches the browsing pattern.",
+  "correct": true
+}

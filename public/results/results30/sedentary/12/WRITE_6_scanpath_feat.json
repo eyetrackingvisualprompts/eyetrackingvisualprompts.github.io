@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered over a compact area on the left (code editor) with occasional long saccades to the lower right (console/output), matching the WRITE example pattern of focused coding with brief checks elsewhere.",
+  "correct": true
+}

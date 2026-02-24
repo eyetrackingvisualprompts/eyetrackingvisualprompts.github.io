@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze makes large, multi-directional jumps across wide horizontal and vertical ranges with ~200\u2013500 ms fixations at each location, matching the randomized target movement pattern of the Random Saccades task rather than the more constrained or structured patterns of reading, horizontal-only saccades, central fixation, or game-/video-like behavior.",
+  "correct": false
+}

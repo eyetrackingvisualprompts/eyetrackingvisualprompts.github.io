@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is highly dynamic with frequent large saccades across wide screen regions (center to extremes, top to bottom) and many revisits to a central band, resembling object-following / navigation behavior seen in the PLAY examples rather than the more line-structured or code-block-focused patterns of READ/INTERPRET/DEBUG/WRITE or the smoother scene-driven WATCH patterns.",
+  "correct": true
+}

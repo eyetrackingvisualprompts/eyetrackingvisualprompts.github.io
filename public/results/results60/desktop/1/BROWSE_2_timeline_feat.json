@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, irregular exploration in both X and Y without strong horizontal scanning (reading) or constrained bands (writing). The pattern closely matches the BROWSE example, with frequent medium-amplitude saccades and shifting fixation regions, consistent with navigating varied web content.",
+  "correct": true
+}

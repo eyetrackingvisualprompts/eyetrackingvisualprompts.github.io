@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a compact region around the central vertical band, similar to the BROWSE example heatmap and characteristic of reading/scanning a central content column on a webpage rather than the horizontal patterns of READ/WRITE or upper-area focus of WATCH/SEARCH.",
+  "correct": false
+}

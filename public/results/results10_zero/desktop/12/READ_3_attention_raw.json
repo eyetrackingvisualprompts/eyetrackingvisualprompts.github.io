@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a very localized, stable fixation region with minimal horizontal or vertical scanning, indicating the participant is mostly looking at a single area over time, which is more consistent with passively watching video content than with reading, browsing, searching, playing games, or writing, all of which typically produce broader, more systematic scan paths.",
+  "correct": false
+}

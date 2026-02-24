@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are distributed over multiple discrete locations across both horizontal and vertical axes, without forming a tight central cluster (Fixations) or a horizontal line (Reading/Horizontal Saccades). The scattered pattern with several separated hotspots best matches the Random Saccades example.",
+  "correct": false
+}

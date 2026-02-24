@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The X fixation shows repeated rightward sweeps with quick resets and the Y fixation slowly drifts downward, matching line-by-line reading behavior seen in the READ example rather than the more scattered or vertical motions of browsing, search, or coding tasks.",
+  "correct": false
+}

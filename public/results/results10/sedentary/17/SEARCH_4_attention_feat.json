@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is distributed horizontally around the center with several scattered fixations, indicating continuous tracking of moving elements across the screen rather than focused reading or coding on a static region; this pattern best matches gameplay behavior.",
+  "correct": false
+}

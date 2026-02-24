@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades with shifts in both X and Y, intermittent horizontal scanning segments, and several vertical relocations\u2014indicative of navigating results and scanning different regions of a search page, matching the SEARCH pattern more than the steadier WATCH/READ or more localized coding tasks.",
+  "correct": false
+}

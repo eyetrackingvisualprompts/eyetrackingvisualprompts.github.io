@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large-amplitude saccades across wide screen regions (center-to-corners, mid-to-top, mid-to-bottom) with intermediate fixations and no clear line-by-line or code-structure scanning pattern. This broad, stimulus-driven exploration over a continuous central area is most consistent with passively viewing dynamic video content in the WATCH condition, rather than the more structured, localized patterns seen in reading, coding, or web search/browsing tasks.",
+  "correct": false
+}

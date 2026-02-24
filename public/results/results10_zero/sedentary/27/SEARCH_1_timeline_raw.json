@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, continuous horizontal drift with gradual shifts and a few large vertical excursions, consistent with following dynamic visual content on a screen rather than line-by-line reading or code-focused tasks; this pattern best matches watching a video.",
+  "correct": false
+}

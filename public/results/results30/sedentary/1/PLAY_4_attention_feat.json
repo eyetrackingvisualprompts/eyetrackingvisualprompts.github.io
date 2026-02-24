@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are densely clustered around the screen center with some spread in all directions, matching the PLAY example where gaze follows game elements near the central area, unlike the more static or distributed patterns of reading, coding, or browsing.",
+  "correct": true
+}

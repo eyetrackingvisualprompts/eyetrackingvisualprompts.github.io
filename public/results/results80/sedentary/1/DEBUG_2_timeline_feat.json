@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows steady rightward drift in X with periodic line-like regressions and moderate Y shifts, indicating reading-like scanning interleaved with larger vertical and horizontal jumps typical of navigating different webpage regions, matching the BROWSE pattern more than the more regular READ or the more chaotic SEARCH/WATCH/PLAY examples.",
+  "correct": false
+}

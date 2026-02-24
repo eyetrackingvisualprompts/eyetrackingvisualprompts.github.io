@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows large, sweeping saccades across wide screen regions (center to top, far left/right, and bottom), repeated returns to clustered regions without orderly line-wise scanning, and many long fixations at central/high-salience areas. This pattern matches passive visual tracking of dynamic content (WATCH) more than structured, line-based or code-panel-focused patterns seen in READ/INTERPRET/DEBUG/WRITE, or the highly target-driven search/browse/play behaviors.",
+  "correct": true
+}

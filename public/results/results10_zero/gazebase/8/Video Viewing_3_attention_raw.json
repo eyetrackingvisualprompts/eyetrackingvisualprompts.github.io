@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are not confined to a single central point but scattered across multiple discrete locations over the screen area, with roughly uniform coverage within a central band and no clear horizontal line structure (reading) or complex clustered regions (video or game). This pattern matches following a single target that jumps to random positions and is fixated for about one second at each location, consistent with the Random Saccades task.",
+  "correct": false
+}

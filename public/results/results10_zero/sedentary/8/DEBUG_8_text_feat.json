@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations cluster within a relatively narrow horizontal band with frequent but localized vertical transitions between a few nearby lines/regions, consistent with inspecting and re\u2011inspecting short code snippets rather than long continuous text (READ) or wide-area exploration (BROWSE/SEARCH) or strong central/object tracking patterns (WATCH/PLAY). This focused, iterative pattern best matches interpreting a short function to predict its output.",
+  "correct": false
+}

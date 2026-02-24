@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze pattern is concentrated in a relatively narrow horizontal band with modest vertical movement and intermittent saccades, closely matching the structured, line-focused behavior seen in the WRITE example rather than the broader scanning of BROWSE/SEARCH or the systematic line-by-line shifts of READ.",
+  "correct": false
+}

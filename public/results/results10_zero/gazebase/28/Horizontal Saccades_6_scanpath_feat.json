@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows gaze moving back and forth horizontally between two positions at nearly constant vertical position, consistent with following a horizontally oscillating target rather than reading, fixating, or random/free viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze repeatedly jumps between widely separated positions in both horizontal (\u2248 -14\u00b0 to +15\u00b0) and vertical (\u2248 -9\u00b0 to +9\u00b0) directions, followed by clusters of relatively stable samples at each location, matching a subject tracking a randomly positioned target that steps and then holds for ~1s, rather than the strictly horizontal pattern of Horizontal Saccades or the structured left-to-right pattern of Reading.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is highly concentrated in a compact region on the left side of the screen (typical code editor area) with occasional long saccades horizontally toward the right (likely to a console or reference panel), matching the focused, localized pattern seen in the WRITE example rather than the more dispersed or line-structured patterns of other tasks.",
+  "correct": false
+}

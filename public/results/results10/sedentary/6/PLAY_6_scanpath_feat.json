@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows a horizontal sequence of relatively small fixations clustered in a mid-screen band with limited vertical movement, closely resembling the browsing example pattern of reading across a web page rather than the denser, more compact lines of focused reading text or the localized code-focused patterns of programming tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate horizontal exploration with frequent vertical shifts and sporadic large saccades, indicating scanning of multiple distinct regions such as search results and linked pages, matching the SEARCH pattern more than the steadier code or text reading/writing tasks or the more dynamic game/video patterns.",
+  "correct": false
+}

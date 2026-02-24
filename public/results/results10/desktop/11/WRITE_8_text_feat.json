@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a compact region in the lower-middle part of the screen with long, stable fixations (many between 0.4\u20131.7s) and only small, short saccades between nearby points. This pattern matches sustained attention to a block of text, as in the READ examples, rather than the larger, more exploratory movements seen in BROWSE/SEARCH or the more dynamic shifts in PLAY/WATCH or the upper-screen focus typical for WRITE.",
+  "correct": false
+}

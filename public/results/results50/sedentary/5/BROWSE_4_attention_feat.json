@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in a mid-left band with modest vertical spread, matching the focused but slightly broader scan of code seen in DEBUG, rather than the denser central cluster of WRITE or the wider patterns of SEARCH/BROWSE/READ/WATCH/PLAY.",
+  "correct": false
+}

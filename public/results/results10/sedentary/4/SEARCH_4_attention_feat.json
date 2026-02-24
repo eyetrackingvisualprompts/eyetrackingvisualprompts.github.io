@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are sparse and located in a few distinct regions: two near the upper code/toolbar area and two near the lower part of the screen, matching the distributed attention between code editor, console, and possibly reference areas typical during code writing rather than the more central, continuous patterns of reading, browsing, or watching.",
+  "correct": false
+}

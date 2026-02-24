@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze X-position shows regular, large-amplitude, back-and-forth horizontal steps with roughly 1-second plateaus, while Y-position stays near the center with minor drift\u2014matching the structured, periodic horizontal target movements of the Horizontal Saccades task rather than the more variable patterns of other activities.",
+  "correct": false
+}

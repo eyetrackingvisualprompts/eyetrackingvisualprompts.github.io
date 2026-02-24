@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is concentrated in a small, central-lower region without the horizontal strip-like pattern typical of reading or writing. It suggests sustained attention to a localized area such as a character region or subtitle area in a video, which aligns best with the WATCH activity.",
+  "correct": false
+}

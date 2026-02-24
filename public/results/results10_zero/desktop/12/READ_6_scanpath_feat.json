@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains tightly clustered around a single horizontal band near screen center with small horizontal movements and minimal vertical change over the full 10 s, consistent with passively watching a stable central scene (e.g., central characters in a video) rather than the systematic line-by-line scanning of reading, the dispersed exploration of browsing/searching, or large multi-directional shifts typical of playing games or writing.",
+  "correct": false
+}

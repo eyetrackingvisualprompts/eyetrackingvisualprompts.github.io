@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is focused in a mid-screen region with moderate vertical spread and frequent shifts between nearby points, resembling the pattern seen in SEARCH (alternating between query box, results, and snippets) more than the tighter, line-based READ or the more dispersed BROWSE/PLAY/WATCH patterns.",
+  "correct": false
+}

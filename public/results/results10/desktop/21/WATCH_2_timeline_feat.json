@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal movement with frequent small shifts and varied vertical positions, resembling scanning different regions of a webpage. This variability and mixed fixation pattern aligns more with browsing behavior than the more structured, line-based movements of reading or the steadier patterns of watching or writing.",
+  "correct": false
+}

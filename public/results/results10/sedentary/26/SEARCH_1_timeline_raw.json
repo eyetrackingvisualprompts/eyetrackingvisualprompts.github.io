@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Relatively smooth, gradual shifts in both X and Y with few large jumps and no strong horizontal line-scan patterns resemble the WATCH example more than the reading-, coding-, or browsing-like traces, indicating continuous viewing of dynamic visual content.",
+  "correct": false
+}

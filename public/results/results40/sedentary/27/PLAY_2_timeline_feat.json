@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium, irregular saccades in both X and Y with frequent shifts and no strong left-to-right line structure of reading or stable central focus of watching/playing. This mixed exploratory pattern best matches the heterogeneous, free-scanning behavior during BROWSE tasks.",
+  "correct": false
+}

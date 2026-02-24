@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a compact vertical region on the left-center of the screen with limited horizontal spread, matching the focused code-editing pattern seen in the WRITE example rather than the more distributed patterns of READ, BROWSE, or SEARCH.",
+  "correct": true
+}

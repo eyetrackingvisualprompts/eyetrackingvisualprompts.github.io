@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions are tightly clustered in a narrow vertical band slightly left of center, spanning much of the vertical extent. This pattern matches fixations along a single text column or paragraph during reading, with limited horizontal spread and progressive vertical movement, rather than the broader, more scattered gaze typical of browsing, searching, playing, or watching video.",
+  "correct": false
+}

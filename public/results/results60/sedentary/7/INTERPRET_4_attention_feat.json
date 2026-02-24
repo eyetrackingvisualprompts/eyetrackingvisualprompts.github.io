@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a narrow vertical strip on the left code area with some spread vertically, matching the concentrated, line-by-line inspection pattern seen in the DEBUG example rather than the more horizontally scanning pattern of WRITE or INTERPRET.",
+  "correct": false
+}

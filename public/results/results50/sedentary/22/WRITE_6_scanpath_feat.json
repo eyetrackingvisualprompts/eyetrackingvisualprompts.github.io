@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left side with vertical movements suggesting reading result snippets or a side panel, combined with occasional long saccades to the mid-right area, consistent with glancing at individual search results or answer panels typical for SEARCH behavior rather than the more central or code-focused patterns of other tasks.",
+  "correct": false
+}

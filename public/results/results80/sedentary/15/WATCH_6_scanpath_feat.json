@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is widely dispersed across the screen with rapid, frequent saccades in all directions and no strong clustering on code or text regions, closely matching the exploratory, object-tracking pattern seen in the PLAY example rather than the more localized or structured patterns of coding, reading, or web search tasks.",
+  "correct": false
+}

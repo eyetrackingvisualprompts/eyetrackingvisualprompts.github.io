@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions stay within a narrow band with small, smooth fluctuations and no systematic left-to-right or top-to-bottom scanning patterns, indicating sustained fixation in one area consistent with watching a video rather than reading, searching, browsing, writing, or playing a game, which would show more pronounced saccadic movements and directional sweeps.",
+  "correct": false
+}

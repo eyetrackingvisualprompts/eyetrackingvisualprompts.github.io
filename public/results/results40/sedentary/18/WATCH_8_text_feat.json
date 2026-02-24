@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and edges) with relatively short fixations early in the window, followed by periods of more localized tracking, match dynamic, target-following behavior typical of game play rather than the more line-structured patterns of reading/searching or the code-centered behaviors of programming tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points cover a broad area with irregular, multi-directional saccades and no clear horizontal line structure or central fixation, matching the random target jumps seen in the Random Saccades pattern rather than the more constrained or structured patterns of the other tasks.",
+  "correct": false
+}

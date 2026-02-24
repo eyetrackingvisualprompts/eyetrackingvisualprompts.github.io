@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered around the central region without extended horizontal scanning or line-like patterns, matching the localized focus on a search results area typical of the SEARCH task rather than the broader or more linear patterns seen in READ, WRITE, BROWSE, or WATCH.",
+  "correct": true
+}

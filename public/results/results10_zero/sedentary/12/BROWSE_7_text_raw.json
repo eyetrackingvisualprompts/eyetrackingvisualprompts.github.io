@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show many large, rapid shifts across widely separated screen regions (including off-screen coordinates) and frequent back-and-forth tracking in central areas\u2014patterns consistent with following dynamic game elements and scanning the playfield, rather than the more line-structured, localized movements typical of reading, coding, or web browsing.",
+  "correct": false
+}

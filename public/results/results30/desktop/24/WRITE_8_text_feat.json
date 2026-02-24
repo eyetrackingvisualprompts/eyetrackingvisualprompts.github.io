@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small upper-region area with very small amplitude saccades and long, repeated fixations at nearly identical positions, matching the stable, localized eye position near the text-entry line seen in the WRITE examples rather than the broader horizontal scans of READ or the more dispersed movements of BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": true
+}

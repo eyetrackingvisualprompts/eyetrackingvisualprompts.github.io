@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows wide horizontal sweeps and large cross-screen saccades with relatively fewer dense local fixation clusters, matching the dynamic tracking and spatial exploration typical of playing simple games rather than the more localized or structured patterns of reading, coding, or browsing tasks.",
+  "correct": true
+}

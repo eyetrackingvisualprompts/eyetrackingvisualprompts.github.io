@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The target data shows large, irregular multi-directional jumps across wide regions of the display (including extreme negative and positive coordinates) with short local clusters, matching the heterogeneous, screen-spanning movement pattern of the Random Saccades example rather than the more constrained or patterned movements in the other tasks.",
+  "correct": false
+}

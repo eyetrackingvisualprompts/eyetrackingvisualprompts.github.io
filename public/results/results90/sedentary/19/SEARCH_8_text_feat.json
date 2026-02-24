@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between large vertical jumps (top/bottom of page) and extended horizontal sweeps around mid and lower screen, with many mid-speed pans across wide x-ranges, resembling scanning long, scrollable webpages. Patterns and spatial zones (upper text-like band around y\u2248100\u2013200, mid content 300\u2013600, and lower 700\u2013900) match the BROWSE exemplar more closely than the more structured line-by-line READ pattern or the code-focused WRITE/DEBUG/INTERPRET tasks.",
+  "correct": false
+}

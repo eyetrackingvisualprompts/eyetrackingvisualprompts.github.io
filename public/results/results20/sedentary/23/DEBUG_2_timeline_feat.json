@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows relatively stable horizontal band with occasional medium saccades and gradual rightward shifts, indicating scanning a results page and brief transitions between result snippets, matching the SEARCH pattern more than the more dynamic BROWSE or code-focused tasks.",
+  "correct": false
+}

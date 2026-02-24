@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains in a very narrow region with long, stable fixations (often >0.8\u20131.4s) and only tiny corrective saccades, with no systematic horizontal scanning pattern typical of READ/WRITE or broader exploratory movements of BROWSE/SEARCH/PLAY. This stable, center-ish viewing pattern best matches passively WATCHing video content.",
+  "correct": true
+}

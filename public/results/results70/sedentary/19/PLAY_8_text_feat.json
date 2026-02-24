@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent saccades across wide screen regions (including extremes and off-center positions), with relatively short, scattered fixations and no consistent line- or block-based reading or code-inspection structure. The pattern resembles tracking dynamic visual content over the whole display rather than structured text/code or focused UI elements, matching the WATCH activity.",
+  "correct": false
+}

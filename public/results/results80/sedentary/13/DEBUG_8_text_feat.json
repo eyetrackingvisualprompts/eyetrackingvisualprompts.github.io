@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered around a compact central coding area with frequent short saccades and revisits, plus repeated transitions between mid-code (y\u2248300\u2013400) and lower region (y\u2248540\u2013620) consistent with glancing between code and console/output. There are occasional large off-screen jumps typical of interacting with an IDE, matching the WRITE examples more than other tasks.",
+  "correct": false
+}

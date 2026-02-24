@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay around mid-screen with modest horizontal movement and relatively small vertical changes, closely resembling the browsing example pattern, which shows stable central fixations and mild, frequent saccades rather than the stronger vertical sweeps of reading or the larger movements seen in play or search tasks.",
+  "correct": false
+}

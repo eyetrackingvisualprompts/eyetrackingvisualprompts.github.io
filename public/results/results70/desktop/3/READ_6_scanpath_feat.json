@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form several horizontal, line-like bands that progress over time, characteristic of line-by-line scanning of text during reading rather than the more clustered or scattered patterns seen in other activities.",
+  "correct": true
+}

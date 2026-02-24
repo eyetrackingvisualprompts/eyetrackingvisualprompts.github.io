@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate horizontal movement with small vertical shifts and variable fixation positions, resembling the mixed navigation and scanning pattern seen in the BROWSE example more than the more structured reading, writing, or the larger-range movements of play/watch/search.",
+  "correct": false
+}

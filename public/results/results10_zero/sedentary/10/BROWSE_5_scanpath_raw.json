@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is restricted to two vertically separated but horizontally narrow regions, consistent with looking back and forth between a code snippet and its predicted output/related area, showing focused, repetitive inspection rather than broad reading, browsing, or dynamic tracking seen in games or videos.",
+  "correct": false
+}

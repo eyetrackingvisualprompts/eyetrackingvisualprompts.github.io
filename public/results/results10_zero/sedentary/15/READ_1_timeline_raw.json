@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated around a narrow vertical band with small horizontal drifts and almost constant vertical position, indicating stable fixation near screen center with minimal reading-like saccades. This sustained central focus over time is most consistent with passively watching a video rather than scanning text, code, or interactive content.",
+  "correct": false
+}

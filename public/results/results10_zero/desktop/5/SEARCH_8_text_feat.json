@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively short, localized fixations with moderate saccades around the central area and limited large exploratory movements, consistent with following lines/regions of text rather than wide visual exploration (browsing/search) or dynamic, multi-directional tracking (play/watch). The pattern best matches sustained reading behavior on static digital content.",
+  "correct": false
+}

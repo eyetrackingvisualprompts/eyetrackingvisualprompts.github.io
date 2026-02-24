@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, progressive horizontal movement with slowly increasing X and relatively stable Y, consistent with line-by-line reading and unlike the more scattered or vertical patterns seen in search, browsing, or coding tasks.",
+  "correct": false
+}

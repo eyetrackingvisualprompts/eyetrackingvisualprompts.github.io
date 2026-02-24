@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed horizontally across the upper part of the screen with several scattered clusters, resembling attention over a search results page (query box plus multiple result snippets) rather than the tighter, centrally focused patterns of READ or PLAY or the left-concentrated code views of WRITE/INTERPRET/DEBUG.",
+  "correct": true
+}

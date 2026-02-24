@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the upper-left area (likely query/results) with repeated long saccades to a right-side region (possibly selected result/content), matching the bidirectional pattern typical of search engine use rather than the tighter, single-region focus of coding or reading tasks.",
+  "correct": false
+}

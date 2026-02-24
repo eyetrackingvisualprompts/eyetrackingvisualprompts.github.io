@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is tightly clustered on a left-side code area with a few checks elsewhere, closely matching the DEBUG example heatmap and differing from the more distributed or central patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a compact mid-left region, mainly forming a single horizontal line with small vertical movements and a few returns to the top\u2014closely matching the WRITE example\u2019s localized scanpath over code in an IDE, unlike the broader, multi-area exploration seen in browsing or search tasks.",
+  "correct": false
+}

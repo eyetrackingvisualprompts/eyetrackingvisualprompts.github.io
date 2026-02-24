@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze exhibits fast, repeated shifts along a relatively narrow vertical band and across mid-screen, with frequent tracking of moving points and bursts of clustered coordinates\u2014patterns typical of following dynamic game elements rather than line-by-line reading or code inspection. The spatial distribution and movement resemble the PLAY examples more than the other task types.",
+  "correct": false
+}

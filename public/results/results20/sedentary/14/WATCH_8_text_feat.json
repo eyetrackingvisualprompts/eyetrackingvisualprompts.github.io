@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen areas (including toward screen edges/corners and high/low Y coordinates) with relatively brief fixations and revisits to central regions match dynamic game tracking behavior more than the more line-structured, band-limited patterns of reading, coding, or web search/browse tasks.",
+  "correct": false
+}

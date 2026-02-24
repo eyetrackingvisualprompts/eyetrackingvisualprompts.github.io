@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated near screen center with relatively small, local movements in both X and Y, and sparse saccades\u2014closely matching the INTERPRET example pattern and differing from the wider scanning of SEARCH/BROWSE and the dynamic shifts of WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central area with moderate vertical spread and several peripheral points, resembling the browsing example more than the tight central cluster of SEARCH or the horizontal band of READ; this pattern matches typical web browsing with scattered attention across a page.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shifts rapidly and repeatedly between a lower-central HUD/character region (~y=0.2\u20130.3) and mid-screen areas (~y=0.4\u20130.6), with many medium/long saccades and relatively short fixations, indicating continuous monitoring of dynamic elements rather than line-by-line or paragraph-based scanning. This vertical roaming between bottom and middle bands, plus frequent revisits to a central locus around (0.5,0.4\u20130.5), matches the PLAY patterns more than the more stable, text-aligned patterns in READ/WRITE or the predominantly upper-screen focus in WATCH.",
+  "correct": false
+}

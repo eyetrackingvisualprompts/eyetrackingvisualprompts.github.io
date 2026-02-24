@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several distinct horizontal regions with occasional large vertical transitions, reflecting shifts between different UI elements or pages, which is most consistent with search-engine use rather than continuous reading, coding, or watching video.",
+  "correct": false
+}

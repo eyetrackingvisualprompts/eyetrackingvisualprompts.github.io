@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "X position alternates regularly between large positive and negative values with ~1 s plateaus, while Y position remains near zero with only small fluctuations, matching the pattern of guided horizontal saccades between two fixed points.",
+  "correct": true
+}

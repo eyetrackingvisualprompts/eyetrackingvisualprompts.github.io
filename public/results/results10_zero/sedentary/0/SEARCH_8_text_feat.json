@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The pattern shows relatively long fixations on a few clustered locations with occasional large saccades to distinct regions, consistent with inspecting specific code elements and then shifting to related parts of the snippet, typical of reasoning about a small function\u2019s behavior rather than continuous reading, free browsing, or dynamic tracking as in games or video.",
+  "correct": false
+}

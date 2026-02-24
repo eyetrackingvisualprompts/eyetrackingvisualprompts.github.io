@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows systematic, tightly packed horizontal scanlines with regular vertical shifts, indicating line-by-line reading within a confined central text area, matching the READ example more than the other task patterns.",
+  "correct": true
+}

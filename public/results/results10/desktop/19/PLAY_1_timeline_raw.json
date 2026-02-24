@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows step-like horizontal and vertical shifts between stable plateaus, indicating frequent transitions between distinct on-screen regions (e.g., different sections of web pages), which best matches the browsing pattern rather than the more structured lines of READ or the steadier focus of WATCH/WRITE.",
+  "correct": false
+}

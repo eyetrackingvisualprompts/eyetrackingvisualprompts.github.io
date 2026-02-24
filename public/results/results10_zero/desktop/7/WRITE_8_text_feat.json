@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-long saccades across both horizontal and vertical directions with relatively short, variable fixations, indicating dynamic exploration of different on-screen regions typical of web searching (scanning results, page areas, and query fields) rather than the more structured horizontal scanning of READ or localized focus patterns of WRITE or PLAY.",
+  "correct": false
+}

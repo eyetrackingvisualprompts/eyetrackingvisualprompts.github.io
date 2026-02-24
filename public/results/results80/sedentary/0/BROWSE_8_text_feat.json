@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts across wide screen regions (including far off-screen coordinates) with relatively smooth horizontal sweeps and long continuous tracking segments, consistent with following dynamic visual content in a video rather than scanning text/code or interacting with UI elements as in search, browsing, or coding tasks.",
+  "correct": false
+}

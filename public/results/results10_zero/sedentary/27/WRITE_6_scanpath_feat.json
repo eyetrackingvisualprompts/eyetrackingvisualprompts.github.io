@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are clustered in a narrow vertical band on the left side of the screen with small horizontal range and moderate vertical movement, consistent with sustained reading of text in a column rather than wide exploratory movements seen in browsing, playing, or searching.",
+  "correct": false
+}

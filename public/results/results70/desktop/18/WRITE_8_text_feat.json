@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered around a single upper-central location with very long, stable fixations (often several seconds) and only tiny corrective saccades. This pattern matches watching continuous visual content (video) rather than the more mobile, line- or web-structured scanning seen in READ, BROWSE, SEARCH, or the lower-screen focus with keyboard-related shifts in WRITE and PLAY.",
+  "correct": false
+}

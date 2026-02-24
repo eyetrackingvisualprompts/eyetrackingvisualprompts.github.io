@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a relatively small central area with short saccades and repeated revisits to nearby points, consistent with focused inspection of a compact code snippet rather than continuous horizontal reading (READ/BROWSE) or wide-ranging exploration (PLAY/SEARCH/WATCH). This localized, analytical gaze behavior best matches interpreting a piece of code.",
+  "correct": false
+}

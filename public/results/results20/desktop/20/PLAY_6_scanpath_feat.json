@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered in a small central region with short, multidirectional saccades and no strong left-right line structure, matching the browsing example pattern more than the more linear READ or more dispersed SEARCH/PLAY behaviors.",
+  "correct": false
+}

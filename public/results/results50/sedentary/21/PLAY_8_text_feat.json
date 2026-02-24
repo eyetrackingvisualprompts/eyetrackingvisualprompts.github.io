@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including off-center/extreme coordinates), with many returns to mid-lower area and irregular, non-linear viewing paths match the dynamic, target-following patterns observed in the PLAY examples rather than the more line- or code-structured patterns of reading, writing, debugging, or browsing/searching text.",
+  "correct": true
+}

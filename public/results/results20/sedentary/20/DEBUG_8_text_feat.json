@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a relatively small code-like region with repeated revisits between a few vertical bands (likely line numbers / code columns) and back-and-forth between mid and lower parts of the area, with many medium-length fixations (0.3\u20131.0s). There is no systematic horizontal scanning as in READ, nor broad page jumps typical of SEARCH/BROWSE, nor large full-screen shifts as in WATCH/PLAY. The pattern closely matches code-comprehension behavior seen in the INTERPRET examples rather than the more dispersed and error-locating patterns in DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains within a small central region with long, stable fixations (often >1 s) and only short, local saccades, indicating passive, continuous attention to largely unchanging screen content\u2014this spatiotemporal pattern closely matches the WATCH examples and is less consistent with the broader scanning of SEARCH/BROWSE, the structured horizontal sweeps of READ/WRITE, or the larger multi-directional shifts of PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly constrained to a narrow horizontal band with medium-length fixations and frequent left-right sweeps and regressions, consistent with scanning search results or a web page header rather than continuous line-by-line reading or code-focused tasks like WRITE/DEBUG/INTERPRET. The pattern lacks the large exploratory jumps of PLAY/WATCH/BROWSE and matches the SEARCH examples\u2019 horizontal scanning near the top-center region.",
+  "correct": false
+}

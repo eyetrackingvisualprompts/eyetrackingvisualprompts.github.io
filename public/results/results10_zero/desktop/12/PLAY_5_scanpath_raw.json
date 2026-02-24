@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows continuous, multidirectional gaze shifts within a compact central area, lacking the systematic horizontal line-by-line pattern typical of reading or writing and the broader exploratory movements common in browsing/searching. This dense, dynamic yet spatially constrained pattern matches tracking and control demands of gameplay, particularly games requiring frequent short saccades around a central region.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is concentrated around the central horizontal band with a strong central hotspot and smooth spread to the sides, indicating continuous tracking of a moving game object rather than line-by-line reading or code-focused clusters seen in programming tasks.",
+  "correct": false
+}

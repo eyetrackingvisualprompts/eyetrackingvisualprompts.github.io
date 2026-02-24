@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is largely confined to a narrow horizontal band with small, incremental rightward shifts in X and relatively stable Y, characteristic of line-by-line reading rather than wide exploratory movements (browse/search), code navigation (interpret/debug/write), continuous tracking (play), or broader scene viewing (watch).",
+  "correct": false
+}

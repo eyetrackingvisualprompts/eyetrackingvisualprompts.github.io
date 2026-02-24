@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left code area with a vertically extended cluster spanning multiple lines, plus some attention to an upper region\u2014closely matching the DEBUG example heatmap pattern rather than the more compact INTERPRET or WRITE distributions.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show predominantly horizontal fixations around mid-screen with small, regular saccades and very limited vertical movement, consistent with stable line-by-line reading rather than the larger multidirectional shifts typical of search, browse, play, watch, or write tasks.",
+  "correct": true
+}

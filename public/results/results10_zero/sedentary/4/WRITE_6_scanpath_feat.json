@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a compact region on the left side of the screen with small horizontal saccades and limited vertical movement, consistent with reading a block of text rather than scanning the whole page (search/browse), tracking moving objects (watch/play), or code-oriented tasks spread more vertically (write/interpret/debug).",
+  "correct": false
+}

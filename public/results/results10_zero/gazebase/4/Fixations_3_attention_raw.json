@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows a single, tight, and nearly static cluster of gaze points in one small region with no evident spread or systematic movement, indicating sustained fixation on a stationary target rather than reading, tracking, or game/video-related scanning.",
+  "correct": true
+}

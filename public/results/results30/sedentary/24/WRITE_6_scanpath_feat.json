@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in the left-center where code typically appears, with additional frequent shifts to several vertically separated regions (e.g., editor, console, error locations), producing a more dispersed and multi-vertical pattern than INTERPRET but less screen-wide than WRITE or SEARCH, matching the DEBUG example most closely.",
+  "correct": false
+}

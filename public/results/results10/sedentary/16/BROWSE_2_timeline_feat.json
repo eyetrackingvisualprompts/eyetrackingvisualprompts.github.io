@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows smooth, gradual horizontal movements with moderate vertical shifts and fewer abrupt returns, resembling continuous scene viewing rather than line-by-line reading or code navigation, which aligns best with the WATCH activity pattern.",
+  "correct": false
+}

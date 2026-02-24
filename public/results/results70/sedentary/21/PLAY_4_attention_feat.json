@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper-middle band with several localized hotspots and some scattered points, resembling scanning of search results rather than the tighter central clusters (WATCH/PLAY) or focused code/text regions (WRITE/INTERPRET/DEBUG/READ).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows gaze concentrated tightly around a single central region with very little spread elsewhere, consistent with sustained fixation on a static central target rather than broader scanning or systematic horizontal/complex movements.",
+  "correct": false
+}

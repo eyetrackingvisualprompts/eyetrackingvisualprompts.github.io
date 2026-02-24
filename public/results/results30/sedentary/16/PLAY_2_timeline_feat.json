@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Long, relatively stable horizontal fixation with slowly drifting Y, interrupted by a brief cluster of larger vertical saccades around the middle, closely matches the WATCH pattern where gaze is mostly steady with occasional bigger shifts, unlike the more systematic line-by-line (READ) or scattered search/debug patterns.",
+  "correct": false
+}

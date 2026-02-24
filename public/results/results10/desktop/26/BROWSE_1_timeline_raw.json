@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large vertical transitions combined with horizontal scanning segments resemble moving between search results, result pages, and reading snippets, matching the SEARCH pattern more closely than the more structured READ or WRITE behaviors or the more erratic PLAY/WATCH traces.",
+  "correct": false
+}

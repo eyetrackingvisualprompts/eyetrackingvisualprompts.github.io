@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide, frequent jumps across large screen areas (including to screen edges and extreme coordinates), mixed with medium fixations and revisits to varied regions, match the exploratory, non-structured scanning seen in BROWSE examples rather than the more line-structured (READ/WRITE) or centrally constrained (PLAY/WATCH) patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts cover a broad area with frequent medium-length saccades between dispersed locations (mid and lower screen), interspersed with short fixations and occasional longer ones (~1\u20131.7s), without the strong line-structured horizontal scanning of READ, the top-heavy, narrow-band patterns of WRITE, or the highly repetitive localized movements of PLAY/WATCH. This heterogeneous exploratory pattern best matches web browsing behavior.",
+  "correct": true
+}

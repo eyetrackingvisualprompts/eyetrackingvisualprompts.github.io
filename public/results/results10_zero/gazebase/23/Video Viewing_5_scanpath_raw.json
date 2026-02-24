@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, irregular jumps in both horizontal and vertical directions with positions scattered across the screen rather than constrained to a line (horizontal task) or central area (fixation). The movements lack the systematic left-to-right pattern of reading and do not resemble clustered fixations on discrete game objects or natural viewing. This broad, non-structured coverage is most consistent with following a randomly moving target.",
+  "correct": false
+}

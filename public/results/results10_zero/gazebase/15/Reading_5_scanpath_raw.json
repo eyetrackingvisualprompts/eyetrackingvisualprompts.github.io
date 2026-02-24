@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated, nearly straight horizontal gaze shifts confined to a narrow vertical band, consistent with following a horizontally moving target rather than vertical dispersion (random saccades), tight central clustering (fixation), text-like staggered lines (reading), or more irregular exploratory movements (video or game).",
+  "correct": false
+}

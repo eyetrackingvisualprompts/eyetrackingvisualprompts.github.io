@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is largely constrained to one horizontal band with systematic left-right sweeps and short regressions, resembling line-by-line reading. There is no evidence of large spatial exploration (SEARCH/BROWSE), object-following or erratic wide movements (PLAY/WATCH), nor focused code-region shuttling typical for programming tasks (INTERPRET/DEBUG/WRITE). The pattern best matches the READ examples, which show sustained fixations and smooth horizontal progressions across a text line.",
+  "correct": false
+}

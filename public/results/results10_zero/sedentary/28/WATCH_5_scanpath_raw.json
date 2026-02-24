@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades spanning most of the screen in multiple directions with few stable horizontal line patterns, indicating dynamic tracking of moving targets or navigation typical of gameplay rather than structured reading, coding, or web browsing tasks.",
+  "correct": false
+}

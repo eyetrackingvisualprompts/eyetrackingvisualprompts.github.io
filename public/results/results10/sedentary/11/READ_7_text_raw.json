@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a relatively constrained vertical band with smooth shifts and clustered fixations across horizontally distributed regions, resembling tracking visual elements in a video rather than the more structured line-by-line scanning of READ or the larger, more discrete jumps of SEARCH/BROWSE or the code-centric clusters of WRITE/DEBUG/INTERPRET. The pattern best matches the WATCH example\u2019s mid-screen, continuous viewing behavior.",
+  "correct": false
+}

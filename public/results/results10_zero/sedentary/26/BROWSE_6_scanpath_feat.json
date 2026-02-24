@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze stays within a compact central region with small, smooth shifts and no systematic left-to-right or line-by-line pattern typical of reading or coding. There is also no large, rapid object-tracking or multi-directional exploration as in games or browsing/search. Such stable, localized viewing is most consistent with passively watching video content.",
+  "correct": false
+}

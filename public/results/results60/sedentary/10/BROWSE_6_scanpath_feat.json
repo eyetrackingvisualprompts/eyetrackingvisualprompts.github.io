@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered around a central code area with repeated vertical movements and occasional long saccades to other regions, matching the focused yet exploratory pattern seen in the DEBUG example rather than the broader coverage of SEARCH/BROWSE or the structured lines of READ/WRITE/INTERPRET.",
+  "correct": false
+}

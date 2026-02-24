@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements with short-to-moderate fixations clustered in a relatively narrow vertical band, consistent with line-by-line inspection of text. There are occasional larger saccades to other regions (likely scanning headings or different sections), but no sustained central focus (WATCH), object-following behavior (PLAY), or systematic vertical code navigation typical of programming tasks (WRITE/DEBUG/INTERPRET). This pattern best matches reading behavior.",
+  "correct": false
+}

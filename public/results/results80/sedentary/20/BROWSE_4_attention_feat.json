@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated on the left-central area with some spread both upward and downward, plus strong attention at the very top-left, resembling the pattern of scanning a search results page (results list in the left/middle with occasional looks to the top bar), which matches the SEARCH example heatmap most closely.",
+  "correct": false
+}

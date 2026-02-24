@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several horizontal scanning phases across different vertical levels with frequent larger saccades and shifts, resembling the pattern of moving between search results and content areas, most similar to the SEARCH example timeline compared to the more stable code-focused (WRITE/DEBUG/INTERPRET) and smoother narrative (WATCH/READ) patterns.",
+  "correct": true
+}

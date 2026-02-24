@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster in a central region with frequent multi-directional saccades and revisits across nearby areas, resembling the exploratory yet text-focused pattern seen in the SEARCH example more than the tighter, line-like READ pattern or the more dispersed WATCH/PLAY trajectories.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small region around code-like coordinates with many short regressions and local re-reading patterns, characteristic of closely inspecting and mentally simulating code rather than scanning long lines (READ/BROWSE) or exploring broadly (PLAY/WATCH/SEARCH). The fine-grained back-and-forth around specific lines and blocks matches the INTERPRET examples more than the more dispersed, error-hunting patterns seen in DEBUG.",
+  "correct": false
+}

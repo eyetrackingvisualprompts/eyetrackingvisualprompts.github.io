@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze pattern shows relatively stable horizontal fixations with moderate vertical range and occasional focused saccade bursts around the code area, closely matching the INTERPRET example more than the others, which exhibit either stronger reading sweeps, wider exploratory movements, or game-like dynamics.",
+  "correct": false
+}

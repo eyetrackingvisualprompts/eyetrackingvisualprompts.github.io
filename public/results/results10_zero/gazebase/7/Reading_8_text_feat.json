@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze pattern shows predominantly horizontal saccades clustered within narrow vertical bands (around y \u2248 -14 to -19, then y \u2248 9\u201313), with back-and-forth movements and short fixations (~200\u2013300 ms). This is characteristic of line-by-line scanning across text rather than strict bidirectional tracking of a single target (Horizontal/Random Saccades) or central fixation, and fits typical reading behavior.",
+  "correct": true
+}

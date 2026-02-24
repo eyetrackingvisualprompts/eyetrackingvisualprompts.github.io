@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated on a compact region in the upper-left where the code snippet would be, with a few scattered checks elsewhere. This pattern closely matches the INTERPRET example: focused reading of a small code block with occasional glances away, unlike the broader spread seen in SEARCH or BROWSE.",
+  "correct": false
+}

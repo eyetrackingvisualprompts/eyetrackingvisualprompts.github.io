@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a main code/text area on the left with frequent long saccades to a secondary region on the right (likely console or output), matching the pattern of editing code and checking results typical of the WRITE condition rather than the denser, more dispersed movements of DEBUG.",
+  "correct": true
+}

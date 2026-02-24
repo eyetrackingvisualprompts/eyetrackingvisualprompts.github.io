@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated near the upper screen region with long, stable fixations and occasional large shifts between distant areas, matching following dynamic visual content (like video scenes or characters) rather than systematic line-by-line scanning (READ) or keyboard/line focus (WRITE).",
+  "correct": false
+}

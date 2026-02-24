@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including corners and edges), with clusters of shorter fixations around varied locations and repeated transitions between upper and lower visual field, match the dynamic, multi-directional scanning typical of gameplay rather than the more structured, banded patterns seen in reading, writing, or web-like browsing/searching.",
+  "correct": false
+}

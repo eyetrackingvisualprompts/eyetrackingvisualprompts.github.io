@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze progresses in smooth, mostly horizontal sweeps with short inter-word saccades and regular regressions, moving line-by-line from left to right and then returning toward the left at slightly lower vertical positions. This structured, repetitive pattern over text-like rows closely matches the provided READ exemplars and differs from the more scattered, multi-region patterns of browsing, searching, or coding tasks.",
+  "correct": true
+}

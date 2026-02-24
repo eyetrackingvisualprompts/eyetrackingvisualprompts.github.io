@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between localized reading-like clusters and large jumps to disparate screen regions (including occasional off-screen points), suggesting scanning varied web content rather than the more structured, line-by-line pattern of READ or the focused code-area patterns of WRITE/DEBUG/INTERPRET. This variable, exploratory behavior best matches free web browsing.",
+  "correct": false
+}

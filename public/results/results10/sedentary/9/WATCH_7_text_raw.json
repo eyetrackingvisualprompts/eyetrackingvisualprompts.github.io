@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly clustered fixations around a vertical band with small within-cluster jitter and occasional larger jumps to upper/lower screen regions, resembling scanning of search results and sidebar content rather than continuous line-by-line reading or highly dynamic object tracking seen in PLAY or WATCH.",
+  "correct": false
+}

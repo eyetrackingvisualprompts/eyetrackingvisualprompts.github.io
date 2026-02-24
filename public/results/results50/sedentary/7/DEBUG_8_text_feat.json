@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows frequent long-range saccades between central code/GUI-like regions and far peripheral/bottom areas (high y coordinates), with repeated returns and rapid shifts suggestive of tracking moving game elements and HUD regions, rather than the more line-structured, local scanning patterns seen in coding, reading, or web search tasks.",
+  "correct": false
+}

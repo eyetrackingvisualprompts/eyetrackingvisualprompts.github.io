@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows alternating horizontal scanning and vertical jumps, with periods near the top and mid-screen similar to reading snippets plus occasional larger shifts, closely matching the mixed result-page and navigation behavior typical of SEARCH rather than the more uniform patterns of READ or WATCH.",
+  "correct": true
+}

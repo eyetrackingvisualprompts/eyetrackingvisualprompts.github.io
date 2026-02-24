@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent jumps between central content and off-screen areas with revisits to top and mid-page regions, plus irregular scanning rather than line-by-line reading or focused code inspection, match the exploratory, page-hopping pattern seen in the SEARCH examples more than the other tasks.",
+  "correct": false
+}

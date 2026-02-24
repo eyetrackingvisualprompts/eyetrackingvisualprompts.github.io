@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many medium-amplitude saccades that jump between upper central/right regions and multiple lower/side areas resemble scanning of dispersed webpage elements (headlines, sidebars, images) more than the more line-structured patterns in READ or the tighter bands seen in WRITE/SEARCH. The broad vertical and horizontal coverage without clear repetitive line sweeps is most consistent with BROWSE.",
+  "correct": false
+}

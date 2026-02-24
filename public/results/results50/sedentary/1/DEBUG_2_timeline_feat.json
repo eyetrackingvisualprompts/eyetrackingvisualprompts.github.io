@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal X range in the lower part of the screen, with relatively small, regular saccades and stable Y fixation\u2014matching a code-editing area as in WRITE, and differing from the larger vertical excursions seen in SEARCH/BROWSE or the broader movements in PLAY/WATCH.",
+  "correct": false
+}

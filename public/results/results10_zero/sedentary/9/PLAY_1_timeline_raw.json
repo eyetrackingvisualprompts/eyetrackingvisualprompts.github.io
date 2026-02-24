@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show slow, smooth drifts in both X and Y with few abrupt saccades or regressions, indicating continuous following of on-screen motion rather than line-by-line reading or code inspection; this pattern best matches passively watching a video.",
+  "correct": false
+}

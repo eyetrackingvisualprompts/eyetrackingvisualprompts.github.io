@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a compact code-region\u2013like area with many medium/long fixations (0.3\u20131.5s) and short corrective saccades among nearby points, indicating careful re-reading and checking rather than linear reading or broad navigation; this fine-grained, localized inspection with occasional jumps matches the DEBUG pattern best among the provided classes.",
+  "correct": false
+}

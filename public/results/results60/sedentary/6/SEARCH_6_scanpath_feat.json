@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a narrow vertical band on the left (code area) with occasional saccades to a smaller region on the right, matching focused inspection of a single code snippet more than the broader, denser exploration seen in DEBUG or WRITE.",
+  "correct": false
+}

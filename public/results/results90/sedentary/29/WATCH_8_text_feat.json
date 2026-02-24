@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent long-range saccades across widely separated screen regions (including to screen edges and corners), alternating with short fixations, and repeated returns to central and upper areas\u2014matching the scattered, multi-region scanning of search results pages rather than the line-structured patterns of READ/WRITE/INTERPRET or the more localized patterns of WATCH/PLAY/DEBUG/BROWSE.",
+  "correct": false
+}

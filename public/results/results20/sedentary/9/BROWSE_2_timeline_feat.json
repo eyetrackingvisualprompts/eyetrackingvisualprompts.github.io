@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations show slow, smooth shifts in both X and Y with relatively few discrete regressions, resembling continuous following of dynamic visual content rather than line-by-line or code navigation; this matches the WATCH template more closely than the other activities.",
+  "correct": false
+}

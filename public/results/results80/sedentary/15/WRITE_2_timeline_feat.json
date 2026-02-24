@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a narrow horizontal band with moderate, frequent local saccades and occasional vertical shifts\u2014matching focused inspection of code with revisits to specific lines, which resembles the DEBUG example more than the more linear READ/INTERPRET patterns or the broader scanning in BROWSE/SEARCH/WATCH/PLAY.",
+  "correct": false
+}

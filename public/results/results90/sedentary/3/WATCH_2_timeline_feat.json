@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-to-high dispersion in both X and Y with irregular jumps and mixed vertical scrolling-like movements, more varied and less structured than SEARCH but more exploratory than WATCH or code-related tasks, matching free web browsing behavior.",
+  "correct": false
+}

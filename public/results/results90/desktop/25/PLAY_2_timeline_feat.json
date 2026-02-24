@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations cluster around mid-screen with frequent small saccades and irregular shifts, resembling the mixed, exploratory scan patterns of web browsing rather than the more structured horizontal patterns of reading/writing or the larger directional shifts seen in play/watch/search.",
+  "correct": false
+}

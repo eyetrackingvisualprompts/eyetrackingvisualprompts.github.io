@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position shows large, regular, nearly square-wave horizontal shifts between left and right at fixed intervals with the Y position remaining near zero, matching the pattern of controlled \u00b115\u00b0 horizontal target tracking rather than random or more complex movements.",
+  "correct": true
+}

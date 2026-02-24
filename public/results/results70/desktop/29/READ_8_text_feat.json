@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between upper and mid screen regions with many medium-duration fixations and frequent medium-length saccades, including repeated horizontal and moderate vertical shifts, resembling scanning across multiple interface elements and sections of a web page rather than the more line-structured, band-limited patterns of READ or the more central, motion-following patterns of WATCH/PLAY. This spatial dispersion and scanning style best matches the BROWSE examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically over multiple horizontal bands and across central screen columns, indicating scanning through a list of results and snippets rather than focused reading or code inspection, which matches the SEARCH pattern best among the examples.",
+  "correct": false
+}

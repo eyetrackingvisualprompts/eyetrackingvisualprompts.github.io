@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows wide horizontal and vertical movements across much of the screen, with dispersed fixations similar to the SEARCH example where participants inspect results, scroll, and move between different page regions, rather than the more localized patterns of coding, reading, or watching videos.",
+  "correct": false
+}

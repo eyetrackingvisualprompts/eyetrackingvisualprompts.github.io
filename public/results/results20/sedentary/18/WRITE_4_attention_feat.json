@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are strongly clustered in two main regions in the upper-left code area with a few scattered checks elsewhere, closely matching the DEBUG example pattern of focused inspection of specific code sections rather than the broader spread seen in SEARCH, BROWSE, or WATCH.",
+  "correct": false
+}

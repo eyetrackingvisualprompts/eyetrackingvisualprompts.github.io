@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly constrained to a narrow horizontal band in the upper-middle of the screen with small, slow, predominantly horizontal saccades and short-to-moderate fixations, matching line-by-line reading behavior rather than the larger, more dispersed movements seen in browsing, searching, watching, or playing, and unlike the far-upper text/toolbar region pattern in writing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the lower-left region with small, slow horizontal movements and very stable Y position, indicating focus on a single text area and infrequent vertical scanning, which matches the writing pattern rather than the broader, more exploratory movements seen in reading, searching, browsing, playing, or watching videos.",
+  "correct": true
+}

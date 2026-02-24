@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps to various positions across the screen in both horizontal and vertical directions, with no clear horizontal-only pattern or tight central clustering. This spatiotemporal pattern matches the target randomly appearing at different screen locations for one-second intervals in the Random Saccades task.",
+  "correct": true
+}

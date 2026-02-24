@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows frequent medium-to-large saccades interleaved with shorter, localized fixation clusters, and both X and Y positions gradually expand to cover more of the screen\u2014closely matching the exploratory, back-and-forth inspection typical of debugging, and visually resembling the DEBUG example more than the other task examples.",
+  "correct": false
+}

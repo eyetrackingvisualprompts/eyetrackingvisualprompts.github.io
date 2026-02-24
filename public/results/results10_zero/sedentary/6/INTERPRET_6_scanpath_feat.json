@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points remain clustered in a small region with minimal horizontal/vertical movement over the 10s window, indicating sustained fixation on one localized area rather than line-by-line reading, code inspection, or wide exploration typical of browsing, searching, reading, or playing; this stable, central focus aligns best with passively watching a video scene where a key visual element is relatively stationary.",
+  "correct": false
+}

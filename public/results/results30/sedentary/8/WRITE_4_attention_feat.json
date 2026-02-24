@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The main fixation cluster is on a compact region in the upper-left area, with a few additional fixations above and below but little spread horizontally, matching the code-focused gaze pattern of INTERPRET rather than the broader scanning seen in other tasks.",
+  "correct": false
+}

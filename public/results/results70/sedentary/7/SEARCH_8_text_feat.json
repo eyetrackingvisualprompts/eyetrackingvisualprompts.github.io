@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Frequent very large saccades across the entire screen (and even off-screen coordinates), including rapid jumps between extreme corners and edges, along with comparatively shorter, less-structured scanning of mid-screen regions, match the wide visual exploration pattern while watching dynamic full-screen video content rather than the more line-structured or code/GUI-focused patterns seen in reading, coding, browsing, or search tasks.",
+  "correct": false
+}

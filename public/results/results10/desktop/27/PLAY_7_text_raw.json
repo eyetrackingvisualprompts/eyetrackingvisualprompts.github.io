@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze remains in a mid-screen band with slow horizontal drifts and short, local saccades, matching the relatively compact, semi-stationary scanning patterns seen in the BROWSE example rather than the more vertical, line-by-line progression of READ or the large, abrupt shifts typical of PLAY or WATCH.",
+  "correct": false
+}

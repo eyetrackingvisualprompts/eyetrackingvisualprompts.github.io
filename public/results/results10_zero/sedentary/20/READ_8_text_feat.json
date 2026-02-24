@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a relatively compact region with short, irregular saccades and brief fixations, lacking the systematic left-to-right/line-by-line patterns of reading or code tasks and without the extensive scanning typical of search/browse; this localized, dynamic pattern is most consistent with following changing visual content in a video.",
+  "correct": false
+}

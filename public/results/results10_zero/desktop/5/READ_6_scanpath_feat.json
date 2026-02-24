@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows a smooth, largely left-to-right horizontal progression with relatively steady movement and no frequent regressions, consistent with tracking motion (e.g., a moving object or character) rather than the back-and-forth fixations and revisits typical of reading, searching, or browsing text. This stable, continuous trajectory best matches watching video content where attention follows on-screen motion.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern is spread across a relatively wide central-upper area with multiple clusters and transitions, resembling scanning of search results and page elements, which matches the SEARCH example more than the more linear READ pattern or the more localized BROWSE/WRITE patterns.",
+  "correct": false
+}

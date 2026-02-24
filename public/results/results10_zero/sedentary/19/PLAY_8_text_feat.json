@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a sequence of relatively long, stable fixations (often >1s and up to ~2.6s) with short saccades that progress primarily in one general direction, consistent with reading text line segments, including occasional re-fixations and small regressions. The lack of large, frequent, or highly erratic gaze shifts makes tasks like PLAY or WATCH less likely, and the absence of code-like intensive back-and-forth or structured vertical navigation makes coding-related (WRITE/DEBUG/INTERPRET) and SEARCH/BROWSE patterns less consistent than READ.",
+  "correct": false
+}

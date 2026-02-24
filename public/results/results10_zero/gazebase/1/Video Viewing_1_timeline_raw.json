@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like jumps to various positions across both horizontal and vertical axes, with each position held roughly around one second before another discrete move, matching a target that moves randomly in 2D rather than strictly horizontal motion or static fixation/reading patterns.",
+  "correct": false
+}

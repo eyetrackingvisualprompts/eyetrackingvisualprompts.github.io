@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large gaze shifts between widely separated screen regions, mixed with long fixations around varied vertical positions and no clear line-by-line structure, align with exploratory web browsing rather than structured reading, coding, or following dynamic objects in games or video.",
+  "correct": false
+}

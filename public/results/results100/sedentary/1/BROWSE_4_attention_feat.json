@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations span a wide horizontal band across the middle of the screen with multiple clusters and some scattered points, resembling scanning of varied web content rather than the more centralized focus of PLAY or the compact code-focused regions of programming tasks; this pattern best matches the BROWSE example heatmap.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts in both X and Y with broad coverage of the screen and irregular fixation patterns, closely matching the dynamic, multidirectional eye movements seen in the PLAY example rather than the more structured or constrained patterns of reading, writing, or browsing.",
+  "correct": false
+}

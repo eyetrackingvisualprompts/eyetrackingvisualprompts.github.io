@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a narrow vertical strip on the left side with frequent shifts between two main horizontal bands, resembling movements between code and related elements (e.g., function header and body) typical for interpreting a short code snippet rather than the broader, more dispersed patterns of browsing, searching, or playing.",
+  "correct": false
+}

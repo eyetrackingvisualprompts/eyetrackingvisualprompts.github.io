@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points cover large areas of the screen, including repeated shifts between central, upper, lower, and lateral regions, without the stable horizontal line-by-line patterns typical of reading/searching or the concentrated code-panel focus of programming tasks. The wide, smooth spatial distribution and frequent global shifts are most consistent with visually following dynamic content in a video-watching scenario.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across both horizontal and vertical extents of the screen without forming a narrow band (reading) or central cluster (fixation/video). There is no strict left-right pair structure (horizontal saccades) and the distribution resembles the example random-saccade pattern of following a target jumping to diverse positions.",
+  "correct": true
+}

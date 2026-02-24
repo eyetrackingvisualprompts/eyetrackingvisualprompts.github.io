@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts spanning wide screen regions (including corners and off-center areas), repeated returns to dynamic central zones, and rapid transitions between distant points are characteristic of tracking moving game elements rather than the more line-structured, horizontally constrained patterns seen in READ/WRITE/DEBUG/INTERPRET or the slower, more stable scanning of WATCH/BROWSE/SEARCH.",
+  "correct": false
+}

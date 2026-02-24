@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple dispersed fixation clusters spread across the central region, both horizontally and vertically, without a clear linear reading pattern, central-only fixation, or two-position horizontal alternation, matching the random saccades example most closely.",
+  "correct": false
+}

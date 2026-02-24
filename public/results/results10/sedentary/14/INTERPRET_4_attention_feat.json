@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in the upper-left code area, with minimal spread elsewhere, matching the focused, localized viewing pattern typical of debugging in the examples.",
+  "correct": false
+}

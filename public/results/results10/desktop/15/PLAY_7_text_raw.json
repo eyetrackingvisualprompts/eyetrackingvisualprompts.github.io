@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show frequent large-amplitude shifts across widely separated regions (center, mid, and extreme corners), irregular trajectories, and substantial vertical and horizontal excursions, matching the dynamic, multi-directional scanning behavior seen in the PLAY examples rather than the more localized, line- or band-like patterns of reading, browsing, searching, or watching video.",
+  "correct": true
+}

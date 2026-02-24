@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades sweeping across wide areas of the screen in multiple directions, with fewer stable horizontal line-like fixations typical of reading or writing. This broad, exploratory gaze pattern matches the visual search and navigation demands of playing a game (especially one like Agario requiring looking around the screen), rather than the more localized or structured patterns seen in search, browse, watch, read, or write tasks.",
+  "correct": false
+}

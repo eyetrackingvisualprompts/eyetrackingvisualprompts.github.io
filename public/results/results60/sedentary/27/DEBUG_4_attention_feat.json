@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a tight cluster of intensive fixations in a small left-side area, similar to the INTERPRET example where attention is focused on a short code snippet rather than spread across multiple regions as in DEBUG or WRITE.",
+  "correct": false
+}

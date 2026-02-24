@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated band with limited vertical spread and orderly left-to-right, line-like progressions, characteristic of reading text rather than the more scattered or multi-region patterns seen in search, browse, watch, write, or play tasks.",
+  "correct": false
+}

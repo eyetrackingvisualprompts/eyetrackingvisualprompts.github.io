@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions are centered with moderate horizontal spread and frequent small saccades, resembling the mixed, non-linear scanning seen in the BROWSE example more than the more structured patterns of READ/WRITE or the larger excursions of PLAY/WATCH/SEARCH.",
+  "correct": true
+}

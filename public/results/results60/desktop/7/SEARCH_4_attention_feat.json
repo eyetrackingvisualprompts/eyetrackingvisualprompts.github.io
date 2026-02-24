@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a relatively compact central area with moderate vertical spread, similar to the BROWSE example heatmap and unlike the more top-focused WRITE or line-structured READ patterns.",
+  "correct": false
+}

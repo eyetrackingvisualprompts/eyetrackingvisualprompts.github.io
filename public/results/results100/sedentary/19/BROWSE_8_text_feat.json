@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent jumps between distant regions (top bar, center content, far right, and sometimes off-screen) combined with shorter local inspections and many horizontal sweeps at similar vertical levels match scanning result lists and pages in a search engine session more than the more linear patterns of READ/WRITE/INTERPRET or the object-following/scene-centered behavior of PLAY/WATCH/BROWSE. The strong alternation between central content and far periphery/top coordinates is characteristic of SEARCH examples provided.",
+  "correct": false
+}

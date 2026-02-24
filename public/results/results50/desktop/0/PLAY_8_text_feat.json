@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts across wide screen regions (bottom, middle, and top) with many long saccades and shorter, variable fixations, indicating dynamic visual scanning consistent with tracking moving game elements rather than the more horizontally-structured, center-focused patterns of reading, searching, browsing, or writing, or the relatively more stable regions seen when watching video.",
+  "correct": true
+}

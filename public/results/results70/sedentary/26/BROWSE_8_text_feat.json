@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades to screen extremes, including off-screen coordinates and top URL/tool areas, interleaved with shorter horizontal scanning at several vertical levels, match the heterogeneous navigation-and-scrolling pattern seen in BROWSE rather than the more structured, line-based patterns of READ/SEARCH or the more localized code-centric patterns of DEBUG/WRITE/INTERPRET.",
+  "correct": true
+}

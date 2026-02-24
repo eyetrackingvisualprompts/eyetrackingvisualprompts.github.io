@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a narrow horizontal band around the upper-middle of the screen with some scattered points below, resembling following dynamic content in a video rather than structured scanning of text, code, or interactive elements; this pattern best matches the WATCH example heatmap.",
+  "correct": false
+}

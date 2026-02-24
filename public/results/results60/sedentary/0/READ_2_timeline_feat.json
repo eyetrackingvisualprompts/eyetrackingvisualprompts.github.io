@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows continuous, smooth tracking with moderate horizontal variability and steadily drifting vertical position, resembling following dynamic visual content across the screen, which matches the WATCH pattern more than the discrete line-based movements of reading, coding, or searching.",
+  "correct": false
+}

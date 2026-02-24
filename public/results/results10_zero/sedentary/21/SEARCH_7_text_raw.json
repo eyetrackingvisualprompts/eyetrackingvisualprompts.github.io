@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze data show large, rapid shifts across wide screen areas, including frequent movements between central, upper, and lower regions, along with out-of-bound coordinates indicative of blinks or tracking loss\u2014all characteristic of visually tracking dynamic game elements rather than the more linear, clustered patterns expected in reading, coding, or watching static video content.",
+  "correct": false
+}

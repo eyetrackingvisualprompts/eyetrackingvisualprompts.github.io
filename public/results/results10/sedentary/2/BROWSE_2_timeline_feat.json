@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows multiple vertical transitions between high and low Y positions with moderate horizontal movements, indicating shifts between different screen regions such as query box, results, and possibly clicked pages, which matches the SEARCH pattern better than the more static (READ/WATCH/WRITE/INTERPRET) or highly dynamic (PLAY/BROWSE) examples.",
+  "correct": false
+}

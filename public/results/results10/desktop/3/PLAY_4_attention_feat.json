@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze heatmap shows multiple dispersed fixation clusters across the central area with some vertical movement, resembling scanning of varied web content. This spatial distribution is most similar to the BROWSE example, rather than the more linear READ/WRITE patterns or the more localized SEARCH/WATCH/PLAY patterns.",
+  "correct": false
+}

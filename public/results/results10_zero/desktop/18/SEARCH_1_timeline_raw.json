@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show predominantly horizontal, band-like fixations with small regressions and relatively stable Y-levels, consistent with line-by-line reading rather than the larger multidirectional shifts typical of browsing, searching, gameplay, or video watching.",
+  "correct": false
+}

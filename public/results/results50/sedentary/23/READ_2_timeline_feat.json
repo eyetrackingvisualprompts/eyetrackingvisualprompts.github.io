@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The X fixation shows repeated sawtooth-like horizontal sweeps with regular resets, while Y fixation drifts slowly in one direction\u2014this pattern closely matches continuous line-by-line reading behavior seen in the READ example, rather than the more erratic or multidirectional movements of browsing, search, or gameplay.",
+  "correct": true
+}

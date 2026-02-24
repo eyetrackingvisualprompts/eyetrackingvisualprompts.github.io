@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points show large jumps in both horizontal and vertical directions across the screen, with no alignment to text lines, no strict horizontal-only motion, and no sustained central fixation, matching a target that moves to various discrete positions as in the Random Saccades task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including edges/corners), many transitions between central and peripheral areas, and erratic vertical jumps resemble dynamic object tracking and navigation patterns seen in the PLAY examples, rather than the more localized, row/column or code-line based scanning of reading, coding, or browsing tasks.",
+  "correct": false
+}

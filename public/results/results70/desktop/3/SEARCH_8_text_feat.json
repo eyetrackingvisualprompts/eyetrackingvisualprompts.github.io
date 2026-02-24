@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-horizontal, mid-lower screen with frequent medium-amplitude shifts and many short fixations, showing scanning of multiple nearby elements without the systematic horizontal line patterns of READ/WRITE or the wide, multi-directional excursions typical of PLAY or SEARCH; this best matches the heterogeneous, mid-screen navigation behavior seen in the BROWSE examples.",
+  "correct": false
+}

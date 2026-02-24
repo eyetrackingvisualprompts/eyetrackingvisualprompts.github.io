@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "X and Y fixation positions change slowly in small, discrete steps with mostly horizontal progression and limited vertical movement, consistent with line-by-line reading rather than rapid object tracking, coding, or free browsing patterns.",
+  "correct": false
+}

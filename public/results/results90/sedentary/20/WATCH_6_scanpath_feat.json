@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed with frequent long saccades across both horizontal and vertical directions, and no clear line-by-line or localized reading/writing pattern. This broad, dynamic coverage of the screen best matches the exploratory, object-following behavior seen in the PLAY condition.",
+  "correct": false
+}

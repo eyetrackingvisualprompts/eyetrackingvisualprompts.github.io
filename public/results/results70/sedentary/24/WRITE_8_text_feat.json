@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a stable code-like region with frequent short saccades between nearby lines and columns, repeated revisits to similar coordinates, and intermittent excursions toward peripheral interface areas\u2014patterns characteristic of active code editing/implementation rather than passive reading, debugging with broader error search, or general browsing/searching.",
+  "correct": true
+}

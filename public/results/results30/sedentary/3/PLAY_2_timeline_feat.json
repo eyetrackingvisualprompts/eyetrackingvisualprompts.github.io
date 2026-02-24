@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows continuous moderate horizontal motion with gradual drifts and scattered vertical changes, lacking the tight repetitive patterns of reading or coding tasks and without the focused object-tracking or extensive exploration seen in play/search/browse; this pattern best matches passive viewing of dynamic video content (WATCH).",
+  "correct": false
+}

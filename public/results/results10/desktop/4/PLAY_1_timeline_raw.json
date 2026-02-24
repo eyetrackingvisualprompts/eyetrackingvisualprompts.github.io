@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-scale shifts in both X and Y with several distinct vertical relocations and pauses resemble transitioning between search box, result list, and different regions of a search-results page, closely matching the SEARCH example pattern.",
+  "correct": false
+}

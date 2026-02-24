@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows mostly horizontal scanning with moderate back-and-forth movements over a compact region, resembling focused reading of a short code snippet rather than longer continuous text (READ) or more dispersed exploration (SEARCH/BROWSE). The pattern closely matches the INTERPRET example with stable fixations and small saccades across lines of code.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows dispersed, multi-directional saccades within a confined central area without clear horizontal sweeping, line-by-line progression, or long static fixation, consistent with following a randomly moving target rather than reading, game interaction, or pure fixation.",
+  "correct": false
+}

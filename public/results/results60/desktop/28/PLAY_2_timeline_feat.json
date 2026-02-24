@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-level dispersion with periods of horizontal scanning and several larger vertical shifts, especially early and around the middle of the segment, resembling transitions between reading results and examining different page areas; this pattern best matches the SEARCH example compared to the more uniform READ or highly dynamic PLAY/BROWSE traces.",
+  "correct": false
+}

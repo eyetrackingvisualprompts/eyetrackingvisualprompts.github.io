@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Fixations cluster into two horizontally aligned locations at similar vertical position and symmetric distance from center, consistent with following a target moving left-right between two positions, as in horizontal saccades, rather than varied or central-only fixation patterns of other tasks.",
+  "correct": true
+}

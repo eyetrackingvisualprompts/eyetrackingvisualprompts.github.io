@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations stay mostly in a narrow central band with intermittent vertical saccades to a higher region (likely code editor plus occasional glances to another UI element), resembling the WRITE template more than the other activities, which show either stronger horizontal reading scans (READ/INTERPRET) or broader exploratory patterns (BROWSE/SEARCH/PLAY/WATCH/DEBUG).",
+  "correct": true
+}

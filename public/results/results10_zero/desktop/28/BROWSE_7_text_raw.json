@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent large saccades across wide screen areas (including extremes near corners), interleaved with short local fixations. This broad, dynamic spatial coverage and rapid shifts are more consistent with tracking and navigating moving game elements than with the more constrained, line- or area-based patterns of reading, writing, browsing, or search, or the more centrally focused patterns typical of passive video watching.",
+  "correct": false
+}

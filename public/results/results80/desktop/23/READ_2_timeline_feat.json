@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y fixations cover a wide range of the screen with frequent large-amplitude saccades and no stable horizontal line-by-line pattern; this broad, dynamic scanning pattern best matches watching video content rather than the more structured movements seen in reading, writing, browsing, or searching.",
+  "correct": false
+}

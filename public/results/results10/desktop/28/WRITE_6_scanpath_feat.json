@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Large horizontal span with distinct clusters and long saccades between widely separated regions, indicating following moving game elements rather than line-by-line reading or localized browsing/searching.",
+  "correct": false
+}

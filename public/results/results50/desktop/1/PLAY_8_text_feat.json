@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between mid/upper text-like band (y\u22480.6\u20130.7) and multiple distinct regions including near-top and near-bottom, with frequent medium-length saccades and moderate fixations, resembling scanning heterogeneous webpages more than the more line-structured, horizontally progressive patterns of READ or the more central, face-/subtitle-focused WATCH patterns. The extensive vertical and horizontal navigation across diverse spatial areas matches the BROWSE exemplar dynamics.",
+  "correct": false
+}

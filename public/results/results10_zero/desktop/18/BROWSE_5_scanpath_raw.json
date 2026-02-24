@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays within a compact central region with short, multidirectional movements and no clear horizontal line-by-line pattern or large exploratory jumps, consistent with following dynamic content (video) rather than structured text (read/write/search) or wide-area browsing/playing.",
+  "correct": false
+}

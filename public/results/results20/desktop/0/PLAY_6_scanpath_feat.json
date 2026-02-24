@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations across multiple vertical levels with frequent saccades between separated regions, indicating exploration of various screen elements typical of using a search engine rather than the more linear horizontal patterns of reading or the more localized clusters of writing or playing.",
+  "correct": false
+}

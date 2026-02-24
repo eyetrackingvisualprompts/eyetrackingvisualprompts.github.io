@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Long clustered fixations and short local saccades around a compact code region, repeatedly revisiting nearby coordinates with occasional large shifts to distant positions, closely resemble the focused, iterative inspection and re-inspection patterns seen in the DEBUG examples rather than the more linear READ patterns or broader exploratory SEARCH/BROWSE behaviors.",
+  "correct": false
+}

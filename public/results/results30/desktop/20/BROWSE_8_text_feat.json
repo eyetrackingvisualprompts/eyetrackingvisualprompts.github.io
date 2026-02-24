@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts span large vertical and horizontal extents (top/bottom of screen and mid-page), with many medium fixations clustering around mid-level y\u22480.4\u20130.6 and repeated transitions between header/near-top and content area, matching scrolling and scanning behavior on web pages more than the tighter line-based patterns of READ or the more central, stable focus typical of WATCH or PLAY.",
+  "correct": true
+}

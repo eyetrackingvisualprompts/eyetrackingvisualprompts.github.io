@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are distributed broadly along a horizontal band with multiple scattered clusters and wider coverage than the more compact patterns of READ or BROWSE, indicating frequent, rapid shifts typical of tracking dynamic game elements during PLAY.",
+  "correct": true
+}

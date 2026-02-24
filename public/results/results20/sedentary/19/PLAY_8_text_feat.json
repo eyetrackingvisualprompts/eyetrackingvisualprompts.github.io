@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent medium-length fixations with many horizontal scans around mid-screen y\u2248500\u2013600, interleaved with occasional large vertical jumps between central content and top/bottom regions, closely matches the mixed reading-and-navigation pattern seen in the BROWSE examples rather than the more structured line-by-line READ or code-focused WRITE/DEBUG/INTERPRET behaviors.",
+  "correct": false
+}

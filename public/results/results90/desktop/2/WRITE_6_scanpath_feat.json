@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small region with minimal horizontal scanning, indicating sustained focus on a compact, central area\u2014consistent with watching a video rather than reading, searching, browsing, writing, or playing, all of which show broader exploratory or horizontal eye movements in the examples.",
+  "correct": false
+}

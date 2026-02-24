@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows long horizontal fixations with step-like shifts in X (moving between vertically separated items) while Y stays in a narrow band, plus brief vertical spikes typical of glances to a different UI area. This pattern best matches scanning search results in the SEARCH condition.",
+  "correct": false
+}

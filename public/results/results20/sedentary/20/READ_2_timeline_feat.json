@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are relatively stable and concentrated in a narrow band with slow, small shifts in both X and Y, closely matching the INTERPRET example where participants carefully inspect a small code snippet rather than scanning widely (SEARCH/BROWSE) or tracking dynamic content (WATCH/PLAY).",
+  "correct": false
+}

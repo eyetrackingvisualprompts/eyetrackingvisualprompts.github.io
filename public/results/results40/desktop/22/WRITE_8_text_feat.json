@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with many long, stable fixations and small intra-line vertical adjustments, matching the line-by-line scanning pattern seen in the READ examples rather than the larger vertical shifts and dispersed patterns typical of BROWSE or SEARCH.",
+  "correct": false
+}

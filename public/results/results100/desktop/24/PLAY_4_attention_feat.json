@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the central region with limited horizontal spread, resembling the concentrated mid-screen focus of the BROWSE example more than the broader horizontal patterns of READ or the dispersed distributions of PLAY, SEARCH, WATCH, or the upper-left bias of WRITE.",
+  "correct": false
+}

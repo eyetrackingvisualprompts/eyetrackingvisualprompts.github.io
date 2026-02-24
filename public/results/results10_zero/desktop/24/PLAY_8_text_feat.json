@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows medium-length fixations (mostly 0.17\u20130.6s) with frequent but locally constrained saccades moving within a central band of the screen, and occasional vertical shifts\u2014consistent with reading lines of text and moving between them, rather than the larger, more dispersed movements typical of search, browse, or gameplay, or the focused lower-area pattern of writing or watching video with subtitles.",
+  "correct": false
+}

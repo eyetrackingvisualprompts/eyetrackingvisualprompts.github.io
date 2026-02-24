@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is focused on the upper-left area with several nearby fixations and limited spread across the page, closely matching the SEARCH example pattern where attention concentrates on search results in the top-left region of the screen.",
+  "correct": false
+}

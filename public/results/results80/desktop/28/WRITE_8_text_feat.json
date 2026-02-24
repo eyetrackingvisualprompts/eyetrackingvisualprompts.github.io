@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Predominantly horizontal, line-like scanpaths around mid-screen with long, stable fixations and small regressions match the structured, rhythmic gaze behavior seen in the READ examples more than the more scattered, target-switching patterns in WATCH, BROWSE, PLAY, or SEARCH, and the localized near-text-cursor patterns in WRITE.",
+  "correct": false
+}

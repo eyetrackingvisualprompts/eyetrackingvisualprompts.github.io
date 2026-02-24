@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a compact code-like area (x\u2248260\u2013360, y\u2248300\u2013450) with frequent short saccades between nearby lines and columns, and many long dwells (1\u20135s) repeatedly revisiting similar coordinates, matching the intensive localized scanning and back-and-forth verification typical of INTERPRET rather than the broader spatial exploration seen in SEARCH/BROWSE or the more distributed patterns in WRITE/DEBUG.",
+  "correct": true
+}

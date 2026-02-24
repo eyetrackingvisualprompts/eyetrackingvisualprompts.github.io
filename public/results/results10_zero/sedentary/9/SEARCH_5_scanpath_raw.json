@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows concentrated fixations over a relatively small central region with occasional vertical excursions, consistent with focusing on a specific code area while occasionally checking other parts of the editor, which matches typical gaze behavior during code writing rather than continuous reading or dynamic tracking tasks like PLAY or WATCH.",
+  "correct": false
+}

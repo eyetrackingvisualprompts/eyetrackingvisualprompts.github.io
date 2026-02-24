@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a mostly horizontal line with small vertical variation and sequential progression, characteristic of reading text in a single paragraph or line, similar to the READ example pattern and unlike the more scattered or wide-ranging patterns of other tasks.",
+  "correct": false
+}

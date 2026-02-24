@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze traces show mostly stable horizontal fixation bands with moderate vertical variation and a brief intense saccadic burst around the middle, closely matching the INTERPRET example pattern and differing from the more extensive scanning of BROWSE/SEARCH or the stronger movement dynamics of PLAY/WATCH.",
+  "correct": true
+}

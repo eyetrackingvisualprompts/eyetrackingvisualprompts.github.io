@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze remains in a compact central-lower region with frequent short fixations and many medium-length saccades, including substantial vertical shifts (e.g., from y\u22480.38 to y\u22480.21 and back up toward 0.42). This dynamic yet spatially focused pattern resembles tracking game elements more than the more line-structured horizontal sweeps of READ/SEARCH or the peripheral, often upper-screen focus of WATCH/WRITE/BROWSE. The temporal structure (numerous 0.167\u20130.5s fixations interleaved with 0.2\u20130.6s saccades) best matches the PLAY example segment.",
+  "correct": false
+}

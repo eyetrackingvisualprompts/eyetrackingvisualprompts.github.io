@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "The data shows mostly stable horizontal reading-like gaze with occasional strong vertical saccades and a brief large downward spike early on, matching the pattern of alternating between code and output/mental reference seen in the INTERPRET example, rather than the more chaotic movements of WRITE/DEBUG or the smoother patterns of READ/BROWSE.",
+  "correct": false
+}

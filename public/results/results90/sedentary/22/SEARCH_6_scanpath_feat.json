@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in two compact horizontal bands on the left and central screen regions, matching code editor gaze patterns seen in the WRITE example; there is limited vertical spread and occasional long saccades to the right, consistent with glances at run/output controls while implementing code.",
+  "correct": false
+}

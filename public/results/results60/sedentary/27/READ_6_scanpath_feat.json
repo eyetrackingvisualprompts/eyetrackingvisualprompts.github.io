@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows orderly, repeated horizontal saccades with small vertical shifts forming text-like lines in two separated blocks on the screen, closely matching the structured line-by-line gaze pattern typical of reading behavior rather than the more scattered or clustered patterns of other tasks.",
+  "correct": true
+}

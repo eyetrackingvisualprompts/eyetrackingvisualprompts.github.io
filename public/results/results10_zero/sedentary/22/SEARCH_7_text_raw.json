@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze coordinates form dense, clustered horizontal patterns with small regressions and limited large saccades, consistent with line-by-line reading behavior rather than the more scattered or highly dynamic patterns typical of browsing, search, coding, or gameplay.",
+  "correct": false
+}

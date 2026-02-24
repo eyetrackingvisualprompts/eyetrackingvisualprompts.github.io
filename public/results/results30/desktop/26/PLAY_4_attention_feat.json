@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around the screen center with moderate vertical position, indicating focused viewing of a central content area typical of browsing a webpage, and differing from the more dispersed or line-structured patterns seen in other activities.",
+  "correct": false
+}

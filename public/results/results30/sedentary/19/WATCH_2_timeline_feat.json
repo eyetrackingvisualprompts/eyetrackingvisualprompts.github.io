@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows medium horizontal movement with intermittent larger vertical saccades between distinct regions, suggesting switching between items/sections on web pages rather than the more linear patterns of READ or the focused code-related patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

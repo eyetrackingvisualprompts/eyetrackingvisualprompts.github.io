@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows repeated returns to a compact region in the upper-left (code area) interleaved with long saccades downwards and back, closely matching the INTERPRET example pattern and differing from the more dispersed, broader movements in DEBUG or WRITE.",
+  "correct": false
+}

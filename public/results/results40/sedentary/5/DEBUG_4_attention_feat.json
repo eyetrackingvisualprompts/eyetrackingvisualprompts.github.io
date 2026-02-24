@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered in the upper-left region where code and error messages typically appear, with limited horizontal spread and some vertical movement, closely matching the DEBUG example heatmap compared to other tasks.",
+  "correct": true
+}

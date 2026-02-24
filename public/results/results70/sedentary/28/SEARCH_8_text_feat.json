@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between widely separated screen regions (top, middle, bottom, extremes), intermittent visits to off-content coordinates, and mixed horizontal/vertical scanning resemble exploratory navigation over long web pages more than structured code reading/writing or focused game/object tracking.",
+  "correct": false
+}

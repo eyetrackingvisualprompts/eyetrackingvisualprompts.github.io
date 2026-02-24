@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between a mid-screen band and multiple distinct vertical positions (top, mid, lower), with frequent medium-length saccades and short to moderate fixations, including several jumps to near-header and lower-content regions. This pattern of scanning different parts of a page, with occasional long transitions and revisits, aligns best with web browsing behavior compared to the more line-structured reading or more centrally clustered writing/playing patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows horizontally elongated, tightly clustered fixations around the mid-height of the screen with limited vertical spread, closely matching the structured left-to-right, line-based pattern of reading text rather than the more dispersed or multi-regional patterns seen in search, browse, watch, write, or play activities.",
+  "correct": false
+}

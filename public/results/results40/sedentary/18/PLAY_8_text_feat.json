@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Frequent large saccades across wide screen regions interleaved with medium-long fixations and revisits to salient areas, without consistent horizontal line-by-line reading or tight code/IDE clustering, matches the exploratory, stimulus-driven gaze patterns seen in the WATCH examples rather than the more structured spatial patterns of reading, coding, or searching tasks.",
+  "correct": false
+}

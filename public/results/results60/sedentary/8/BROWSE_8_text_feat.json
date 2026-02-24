@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Large, frequent gaze shifts across wide screen regions (including off-screen coordinates), repeated returns to code-like central areas, and irregular scan paths resemble the exploratory, back-and-forth verification behavior seen in the DEBUG example more than the more structured reading/writing or the smoother patterns of browsing, watching, or playing.",
+  "correct": false
+}

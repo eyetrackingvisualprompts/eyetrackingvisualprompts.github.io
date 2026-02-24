@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to the lower-left region with slowly increasing X fixation and relatively stable low Y fixation, indicating attention on a single horizontal area such as a text entry field, matching the WRITE pattern more than the broader vertical ranges seen in reading or browsing.",
+  "correct": false
+}

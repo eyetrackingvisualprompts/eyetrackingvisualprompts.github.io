@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a relatively narrow central region with short to medium fixations (\u22480.17\u20130.53s) and predominantly small horizontal shifts with occasional small vertical adjustments, consistent with line-by-line reading on static text rather than the larger, more dispersed movements typical of browsing, searching, watching video, gaming, or writing (which would show more vertical excursions to UI elements or stronger directional target-driven saccades).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, mostly horizontal movements with short to moderate fixations around mid-screen y-levels (~0.6), and a discrete transition from a lower region (~0.33\u20130.39) to a higher text-like band (~0.60\u20130.65), consistent with line-by-line reading behavior rather than the more dispersed or peripheral patterns seen in browsing, search, or watching video.",
+  "correct": false
+}

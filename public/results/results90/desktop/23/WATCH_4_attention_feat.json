@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered around the center with moderate vertical spread but limited horizontal movement, matching the pattern of focusing on a search result area rather than the broader central reading region of BROWSE or the more distributed patterns of other activities.",
+  "correct": false
+}

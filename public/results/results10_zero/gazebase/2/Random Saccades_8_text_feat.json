@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large-amplitude saccades (often >10\u00b0) occur between widely separated fixation points scattered across the full \u00b115\u00b0 horizontal and \u00b19\u00b0 vertical range, with fixations lasting a few hundred milliseconds and no clear horizontal-only pattern, structured line-wise reading pattern, or clustered object-focused behavior typical of games or video viewing. This best matches following a single target jumping to random positions once per second, i.e., Random Saccades.",
+  "correct": true
+}

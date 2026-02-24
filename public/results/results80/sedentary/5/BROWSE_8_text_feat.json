@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-amplitude saccades to screen edges/outside, revisits between disparate regions (top, middle, bottom), and scanning of horizontal bands resemble exploratory navigation over webpages rather than the more constrained, line- or block-based patterns of READ/WRITE/DEBUG/INTERPRET or the smoother WATCH/play-focused PLAY trajectories.",
+  "correct": true
+}

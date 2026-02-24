@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the upper-middle region with horizontal spread typical of scanning search results, closely matching the SEARCH example heatmap more than the other activities.",
+  "correct": false
+}

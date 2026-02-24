@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered in a narrow, vertically-elongated region around the upper-center of the screen, matching the pattern of focusing on a search box and results list seen in the SEARCH example more than the other activities.",
+  "correct": false
+}

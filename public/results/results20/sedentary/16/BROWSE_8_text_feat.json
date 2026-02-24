@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between central content and extreme top/edge regions (e.g., near URL/search bar and result list), with horizontal sweeps over mid/upper areas and repeated returns to mid-page, best matches scan patterns for using a search engine results page rather than the more line-structured reading or code-focused interpret/debug/write tasks or the object-centered play/watch behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze covers a large portion of the left side of the screen with multiple vertical and diagonal transitions between distinct areas, resembling scrolling and switching between elements on web pages, which is characteristic of free web browsing rather than the more localized patterns seen in coding or static reading tasks.",
+  "correct": false
+}

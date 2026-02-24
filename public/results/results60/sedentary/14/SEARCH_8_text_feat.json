@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps across distant screen regions (including corners and off-center areas), revisits between top, middle, and bottom, and mixed horizontal/vertical scanning with intermittent long fixations match exploratory webpage browsing rather than structured reading or focused code-related tasks.",
+  "correct": false
+}

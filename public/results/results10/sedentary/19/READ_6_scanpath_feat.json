@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a central horizontal band with smooth shifts and clustered fixations, similar to following dynamic on-screen content, and differs from the more scattered exploration of SEARCH/BROWSE or structured line-by-line patterns of READ/WRITE/DEBUG/INTERPRET. This best matches the WATCH scanpath example.",
+  "correct": false
+}

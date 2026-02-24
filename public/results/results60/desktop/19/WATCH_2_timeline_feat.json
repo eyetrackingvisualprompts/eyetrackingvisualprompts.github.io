@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "X fixations stay around screen center with moderate horizontal movement, while Y fixations remain in the upper half and fluctuate as the user checks result snippets and scrolls, matching the SEARCH example more than the steadier READ pattern or the more dispersed BROWSE and WATCH patterns.",
+  "correct": false
+}

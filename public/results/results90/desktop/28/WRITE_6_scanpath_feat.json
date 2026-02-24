@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered around the central-upper region with moderate dispersion and several transitions between nearby clusters, resembling the mixed reading-and-navigation pattern in the SEARCH example more than the denser, more localized BROWSE cluster or the linear READ pattern.",
+  "correct": false
+}

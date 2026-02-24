@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows predominantly horizontal movements with relatively small vertical shifts and regular left-to-right progressions, matching the structured, line-by-line pattern typical of reading rather than the more scattered or wide-ranging movements seen in browsing, searching, or playing games.",
+  "correct": false
+}

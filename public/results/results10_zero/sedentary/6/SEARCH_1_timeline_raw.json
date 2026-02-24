@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change smoothly with gradual drifts and occasional brief spikes, without the repetitive line-by-line horizontal saccades typical of text reading or code, nor the erratic multi-directional movements common in search, browsing, or gameplay. This stable, continuous viewing pattern best matches watching a full-screen video.",
+  "correct": false
+}

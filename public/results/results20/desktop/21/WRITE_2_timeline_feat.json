@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "X fixation stays in lower range and slowly drifts rightward, while Y fixation is stably low with minor upward trend\u2014matching the example WRITE pattern of focused gaze near one text line and gradual movement, unlike the more variable or higher-position patterns in other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a small region slightly below screen center, similar to looking at a single line/input area rather than scanning vertically like READ or spatially like PLAY/WATCH, matching the focused gaze pattern seen in the WRITE example.",
+  "correct": false
+}

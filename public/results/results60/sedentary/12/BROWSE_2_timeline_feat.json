@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent vertical shifts between two main bands of Y positions with irregular horizontal movements across time, indicating repeated scanning up and down a results page rather than the more line-by-line horizontal pattern of reading or the tighter, more static patterns of coding tasks; this best matches the SEARCH example plot.",
+  "correct": false
+}

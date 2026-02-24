@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long horizontal scanning and revisits around upper-page text regions, interleaved with large vertical and off-screen jumps suggest navigating SERP results and clicked pages rather than continuous prose (READ) or focused code inspection (INTERPRET/DEBUG/WRITE). The pattern closely matches the provided SEARCH example with repeated shifts between a results list area and disparate content regions.",
+  "correct": true
+}

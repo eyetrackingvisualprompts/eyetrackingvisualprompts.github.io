@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated mid-screen fixations interleaved with vertical shifts and occasional larger jumps, then sustained inspection around upper-middle regions followed by scrolling-like downward movements\u2014patterns most consistent with scanning search results and linked pages rather than the more line-structured horizontal patterns of READ or the interface-stable patterns of BROWSE/WRITE, and without the large dynamic excursions typical of WATCH or PLAY.",
+  "correct": true
+}

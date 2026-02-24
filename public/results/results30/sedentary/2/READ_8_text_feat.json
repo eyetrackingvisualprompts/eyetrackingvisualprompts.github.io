@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Long, smooth scanpaths across large vertical and horizontal extents, many fixations in non-text-like clusters, and frequent large jumps between widely separated regions are characteristic of passively tracking dynamic visual content rather than line-by-line reading or code-related tasks, aligning best with the WATCH activity.",
+  "correct": false
+}

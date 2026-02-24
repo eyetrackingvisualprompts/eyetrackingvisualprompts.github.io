@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a mid-left code area with frequent vertical shifts between lines and occasional longer saccades to nearby regions, matching the distributed but code-focused pattern typical of debugging rather than the tighter cluster of INTERPRET or the horizontal lines of READ.",
+  "correct": true
+}

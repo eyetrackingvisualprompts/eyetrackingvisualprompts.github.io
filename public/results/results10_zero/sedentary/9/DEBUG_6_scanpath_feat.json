@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a small, lower-left screen region with minimal horizontal spread, consistent with focused reading of a short text block rather than code editing, web search, or dynamic gameplay, which would show broader or more scattered gaze patterns.",
+  "correct": false
+}

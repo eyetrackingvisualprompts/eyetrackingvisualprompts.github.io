@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points cluster tightly in a compact code-like region with short, local saccades and repeated revisits, typical of scrutinizing a small snippet to understand behavior, matching the INTERPRET examples more than the broader scanning or line-by-line reading patterns of other tasks.",
+  "correct": false
+}

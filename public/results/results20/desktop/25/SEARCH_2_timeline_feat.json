@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate, distributed exploration with relatively balanced horizontal and vertical movements and frequent short saccades, resembling the mixed, less-structured scanning behavior seen in the BROWSE example rather than the more patterned movements of reading, writing, or focused gameplay/video watching.",
+  "correct": false
+}

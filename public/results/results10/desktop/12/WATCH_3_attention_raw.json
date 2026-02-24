@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a compact area near the screen center with minimal horizontal spread, similar to the BROWSE example and unlike the extended horizontal scanpath seen in READ or the wider exploration patterns in SEARCH and PLAY.",
+  "correct": false
+}

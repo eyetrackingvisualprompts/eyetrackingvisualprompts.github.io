@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions hover near screen center with moderate, irregular saccades in both axes and no strong left-to-right line sweeps or structured patterns, matching the more scattered, exploratory pattern observed in the BROWSE example rather than the more systematic READ/WRITE or the more dynamic PLAY/WATCH traces.",
+  "correct": false
+}

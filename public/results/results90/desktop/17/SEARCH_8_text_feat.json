@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between mid-upper vertical regions and lower/top extremes with frequent medium-amplitude vertical saccades and short fixations, indicating scanning SERP results, jumping to query box or browser UI, and back\u2014pattern is closer to SEARCH than the more line-structured READ or more central, stable WATCH; WRITE/PLAY/BROWSE examples show different horizontal/central dynamics.",
+  "correct": true
+}

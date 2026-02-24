@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows predominantly horizontal movements with small vertical shifts between adjacent lines, consistent with line-by-line reading rather than large, symmetric horizontal sweeps (Horizontal Saccades) or widespread random movements (Random Saccades/Video/Balura).",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete, step-like fixations at scattered locations across both horizontal and vertical axes, with roughly one-second plateaus between jumps and no consistent horizontal-only pattern or reading-like scanpath. This best matches tracking a target that moves unpredictably over the screen, i.e., Random Saccades.",
+  "correct": false
+}

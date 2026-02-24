@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades covering most of the screen area in multiple directions with dispersed fixations, indicating dynamic visual exploration typical of tracking game elements, which matches the PLAY pattern better than the more clustered or line-structured patterns of the other activities.",
+  "correct": false
+}

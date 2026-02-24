@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen areas (including extremes and corners), with gaze often near upper regions and rapid shifts between dispersed points, match dynamic game-tracking behavior better than the more structured, line-based or columnar patterns of reading, writing, browsing, or searching, and are less stationary than typical video watching fixations.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-amplitude shifts in both X and Y without strong directional bias or long stable lines, matching the varied, exploratory scanning pattern typical of web browsing rather than the more linear patterns of reading/writing or the larger directional shifts seen in play/watch tasks.",
+  "correct": true
+}

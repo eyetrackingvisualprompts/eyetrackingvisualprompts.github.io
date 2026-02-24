@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two dominant fixation clusters located symmetrically left and right of center along roughly the same vertical level, with little vertical spread, indicating repeated large-amplitude horizontal transitions between two positions consistent with a horizontally moving target rather than random or task-driven exploration.",
+  "correct": true
+}

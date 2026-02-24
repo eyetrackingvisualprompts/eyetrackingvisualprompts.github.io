@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains in a relatively narrow vertical band with slow, smooth drift in X and very small variation in Y, indicative of following central content rather than line-by-line reading or code scanning; lacks the systematic horizontal saccades of READ/WRITE/DEBUG and the rapid multi-directional shifts typical of PLAY or SEARCH, matching passive video watching behavior.",
+  "correct": false
+}

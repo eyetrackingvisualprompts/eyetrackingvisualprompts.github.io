@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze positions remain concentrated in a narrow region with small, localized saccades and minimal large jumps, resembling sustained inspection of a compact code snippet as in the INTERPRET example rather than the broader, more dispersed movements seen in browsing, searching, or writing/debugging tasks.",
+  "correct": false
+}

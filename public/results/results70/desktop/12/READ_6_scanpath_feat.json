@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves smoothly along several horizontal bands with relatively few clustered fixations, indicating following dynamic content across screen regions rather than dense text reading or focused interface exploration, which is characteristic of watching video.",
+  "correct": false
+}

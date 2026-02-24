@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a narrow horizontal band across the screen center, indicating line-by-line scanning typical of reading text rather than dispersed exploration or focused code inspection.",
+  "correct": true
+}

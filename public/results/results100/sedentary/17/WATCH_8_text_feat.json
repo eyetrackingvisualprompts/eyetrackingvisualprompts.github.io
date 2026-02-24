@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions including edges and off-screen coordinates, many revisits to similar spatial zones, and strong vertical excursions suggest continuous tracking of moving objects or character navigation rather than line-by-line reading or code/IDE inspection; this spatiotemporal pattern best matches the PLAY examples of dynamic game viewing rather than the more structured, horizontal scanpaths of READ/SEARCH/BROWSE or the code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

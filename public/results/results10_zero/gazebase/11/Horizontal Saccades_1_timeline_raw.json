@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between two static horizontal positions at approximately \u00b115\u00b0 with near-zero vertical movement, forming regular square-wave horizontal shifts every ~1 s, which matches the controlled \u00b115\u00b0 target motion of the Horizontal Saccades task.",
+  "correct": true
+}

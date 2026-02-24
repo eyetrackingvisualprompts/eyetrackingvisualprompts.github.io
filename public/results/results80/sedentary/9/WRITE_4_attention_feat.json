@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on the left code area with several additional clusters above and below, indicating repeated scanning of multiple code lines rather than a single tight region (INTERPRET) or broader distribution (WRITE). This dispersed but code-centered pattern best matches the DEBUG example.",
+  "correct": false
+}

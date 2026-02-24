@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered in a small area in the upper-left region of the code editor, similar to the WRITE example where attention is focused on a small part of the screen while typing, unlike the more vertically extended pattern of INTERPRET or the more dispersed patterns of other tasks.",
+  "correct": false
+}

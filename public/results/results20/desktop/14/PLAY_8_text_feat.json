@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large vertical and diagonal saccades between upper and lower screen regions, with short to moderate fixations and revisits around the mid\u2013upper area\u2014matching the pattern of scanning SERPs and webpages in SEARCH rather than the more line-structured READ, localized WRITE, or relatively central, smoother WATCH/PLAY/BROWSE patterns in the examples.",
+  "correct": false
+}

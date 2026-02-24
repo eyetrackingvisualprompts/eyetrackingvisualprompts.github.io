@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central area with some small dispersion, closely matching the browse example heatmap and differing from the more horizontally-structured read/write patterns or the widely spread play/watch patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades with changes in both horizontal and vertical position, indicating shifts between different screen regions (e.g., query box, results, snippets). This mixed reading-and-navigation pattern aligns best with search engine use rather than the more localized patterns of coding, reading, or video watching.",
+  "correct": false
+}

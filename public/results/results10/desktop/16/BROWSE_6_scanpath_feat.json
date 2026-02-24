@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form horizontally elongated clusters around mid-screen with relatively orderly, short saccades and limited vertical range, matching the structured line-by-line scanning pattern seen in the READ example more than the more scattered or central patterns of other activities.",
+  "correct": false
+}

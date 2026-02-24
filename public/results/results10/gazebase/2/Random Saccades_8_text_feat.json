@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The gaze shows large, irregular saccades across wide 2D regions (center \u2194 upper, lower left/right) with varied fixation durations, matching the goal-directed but spatially scattered pattern of tracking and refixating multiple moving game targets rather than the more structured horizontal (reading/horizontal saccades) or more clustered (video) patterns.",
+  "correct": false
+}

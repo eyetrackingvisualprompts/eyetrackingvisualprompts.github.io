@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, steady fixations with small horizontal shifts along a narrow vertical band near the upper-middle of the screen, forming a near-linear pattern consistent with following a single text line, which matches the sustained, line-based scanning seen in the READ examples more than the more scattered or task-switching patterns in WATCH, WRITE, BROWSE, PLAY, or SEARCH.",
+  "correct": false
+}

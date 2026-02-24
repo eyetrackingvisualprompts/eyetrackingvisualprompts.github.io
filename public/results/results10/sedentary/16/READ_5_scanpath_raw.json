@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in the lower-left/mid area with frequent short saccades and revisits within a relatively constrained vertical band, matching the scanpath of reading and interacting with search results rather than the wider dispersion of browsing or the focused horizontal band of plain reading.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze positions are centered with moderate horizontal and vertical exploration and frequent mid-range saccades, resembling mixed reading and scanning behavior typical of navigating search results and web pages, matching the SEARCH example pattern more closely than the others.",
+  "correct": false
+}

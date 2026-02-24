@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow vertical band with slow, smooth changes and few large saccades, indicating passive following of on-screen motion rather than line-by-line reading or code scanning, which matches the WATCH pattern best among the examples.",
+  "correct": false
+}

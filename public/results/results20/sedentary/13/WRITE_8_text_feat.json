@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid saccades spanning extreme and even off-screen coordinates (including negative values and very distant jumps) with relatively brief, scattered fixations indicate continuous tracking and re-orienting consistent with interactive gameplay rather than the more spatially constrained, structured patterns seen in reading, coding, or passive watching.",
+  "correct": false
+}

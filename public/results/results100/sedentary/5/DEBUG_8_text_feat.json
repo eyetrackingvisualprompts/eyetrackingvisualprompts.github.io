@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades across the screen (including extreme off-screen coordinates), rapid shifts between central/code-like regions and far corners, and highly dynamic, non-linear gaze trajectories resemble the exploratory, object-tracking behavior seen in the PLAY examples rather than the more localized, line- or block-focused patterns of coding, reading, or debugging tasks.",
+  "correct": false
+}

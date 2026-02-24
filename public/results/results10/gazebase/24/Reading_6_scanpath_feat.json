@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows multiple horizontally aligned clusters of fixations with short left-to-right saccades across several neighboring lines, matching the structured line-by-line pattern typical of reading rather than the more scattered or simple patterns of the other tasks.",
+  "correct": true
+}

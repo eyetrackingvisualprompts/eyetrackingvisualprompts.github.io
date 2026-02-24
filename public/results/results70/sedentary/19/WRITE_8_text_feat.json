@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-scale regressions over a localized code-like area, many re-fixations on similar coordinates, occasional large jumps to top/side regions (likely console/editor/UI) and back, and long dwell times on specific clusters match the intensive, iterative inspection and verification characteristic of debugging rather than smoother scanning (SEARCH/BROWSE) or structured linewise reading (READ/INTERPRET).",
+  "correct": false
+}

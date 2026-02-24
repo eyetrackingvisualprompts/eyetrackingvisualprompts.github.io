@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a small number of concentrated fixations in a narrow horizontal region around the screen center, with minimal vertical spread, consistent with passively watching a video rather than scanning or reading text/code or actively interacting with dynamic game elements.",
+  "correct": false
+}

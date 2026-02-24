@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a medium-sized central region with mixed saccade directions and no strong horizontal reading lines or top-aligned band typical of READ or WATCH, and with less wide-ranging movement than PLAY or SEARCH, matching the browsing pattern.",
+  "correct": false
+}

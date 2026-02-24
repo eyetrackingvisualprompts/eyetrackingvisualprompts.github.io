@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered near screen center with moderate, irregular saccades and small drifts in both axes, indicating frequent shifts between elements typical of web browsing rather than the more linear scanpaths of reading/searching or the larger excursions of playing/watching.",
+  "correct": false
+}

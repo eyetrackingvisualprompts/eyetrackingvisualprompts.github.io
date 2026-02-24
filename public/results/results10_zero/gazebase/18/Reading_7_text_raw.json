@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze coordinates show repeated, predominantly horizontal sweeps with relatively small vertical step changes, consistent with line-by-line progression and return sweeps seen during text reading, rather than the larger, more stereotyped horizontal oscillations of horizontal saccades or the more 2D/random patterns of random saccades, video viewing, or gaming.",
+  "correct": true
+}

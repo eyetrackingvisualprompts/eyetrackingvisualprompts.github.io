@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between top, middle, and bottom regions, repeated horizontal sweeps across wide text-like bands, and jumps to high/low coordinates resemble scanning search results and linked pages more than the more linear READ patterns or localized code-focused tasks like DEBUG/WRITE/INTERPRET. The behavior closely matches the heterogeneous, exploratory spatial pattern seen in the SEARCH example.",
+  "correct": true
+}

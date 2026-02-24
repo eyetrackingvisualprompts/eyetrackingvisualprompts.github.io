@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is mostly centered with relatively small horizontal variation and occasional brief excursions to other regions, resembling focused attention on a code editor with intermittent checks elsewhere, which matches the WRITE example pattern more closely than the others.",
+  "correct": false
+}

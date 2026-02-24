@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is clustered around the screen center with irregular, multidirectional saccades and no strong horizontal line structure; this pattern of localized but exploratory viewing best matches the browsing example rather than the more linear READ or highly dispersed SEARCH/PLAY patterns.",
+  "correct": true
+}

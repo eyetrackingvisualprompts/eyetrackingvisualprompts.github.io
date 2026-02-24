@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows wide, irregular exploration across almost the entire screen with many long saccades between dispersed regions, matching the heterogeneous, multi-region viewing pattern typical of free web browsing rather than the more localized or structured patterns of the other tasks.",
+  "correct": false
+}

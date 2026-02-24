@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central region with moderate dispersion and no strong horizontal reading lines, resembling the mixed, locally focused exploration typical of browsing web pages rather than structured reading or dynamic watching/playing tasks.",
+  "correct": false
+}

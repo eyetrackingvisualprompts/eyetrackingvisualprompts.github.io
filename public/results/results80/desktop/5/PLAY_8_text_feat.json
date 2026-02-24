@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around mid-upper screen with many short-to-medium fixations and moderate saccades, including occasional vertical moves, matching web page and UI element exploration patterns seen in BROWSE examples rather than the more line-structured READ or highly dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, stable horizontal scanpaths with short regressions across tightly clustered y-coordinates, consistent with line-by-line reading; the earlier lower-screen cluster likely reflects scrolling or UI, then sustained horizontal movements at multiple vertical bands match the READ exemplars more than other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, localized fixations and short saccades around a narrow vertical band (code lines), with frequent revisits to nearby coordinates and occasional larger jumps to other regions, closely resemble the intra-editor scanning and back-and-forth checking seen in the DEBUG example, rather than the more linear READ pattern or the broader exploratory movements in SEARCH/BROWSE.",
+  "correct": false
+}

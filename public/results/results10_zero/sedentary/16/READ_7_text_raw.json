@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cover wide vertical and horizontal regions with smooth shifts and clusters around changing locations rather than stable line-like reading patterns or confined code/text regions, consistent with following dynamic visual content in a video rather than reading, coding, or web searching.",
+  "correct": false
+}

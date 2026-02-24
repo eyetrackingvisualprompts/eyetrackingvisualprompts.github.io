@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates between far left and far right horizontal positions (around -15\u00b0 to +16\u00b0) with relatively small vertical variation, forming large, regular horizontal shifts consistent with following a horizontally moving target rather than random or text/video scanning.",
+  "correct": true
+}

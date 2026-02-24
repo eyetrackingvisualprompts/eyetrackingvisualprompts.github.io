@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows mostly horizontal, step-like progressions with relatively small vertical shifts over time, consistent with line-by-line reading behavior rather than large exploratory movements or focused code-area inspection.",
+  "correct": false
+}

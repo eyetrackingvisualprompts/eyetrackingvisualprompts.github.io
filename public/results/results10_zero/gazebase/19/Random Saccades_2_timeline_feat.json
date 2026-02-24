@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between multiple discrete positions across both horizontal and vertical axes, with each fixation held roughly around one second before a saccadic jump of at least a few degrees, matching the random multi-directional target steps described for Random Saccades rather than purely horizontal motion or stable central fixation.",
+  "correct": true
+}

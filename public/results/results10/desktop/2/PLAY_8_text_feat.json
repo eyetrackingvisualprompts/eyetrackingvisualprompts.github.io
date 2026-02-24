@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations stay within a mid-screen band with moderate vertical movement and irregular saccades, lacking the systematic horizontal line sweeps of reading or the more extreme/global shifts typical for search, watch, or play. The pattern best matches browsing behavior over mixed web content.",
+  "correct": false
+}

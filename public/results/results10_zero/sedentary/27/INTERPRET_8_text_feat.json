@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a relatively narrow vertical band with frequent short saccades and occasional larger vertical shifts, consistent with scanning lines or paragraphs of text rather than tracking moving objects (PLAY/WATCH) or dispersed code panes (WRITE/DEBUG/INTERPRET). The pattern suggests systematic local reading-like movements over a text region rather than exploratory browsing or search-result hopping.",
+  "correct": false
+}

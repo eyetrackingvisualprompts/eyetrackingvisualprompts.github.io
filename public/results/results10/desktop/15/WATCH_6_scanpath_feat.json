@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a tight horizontal cluster of fixations with small left-right movements around a single text line, closely matching the reading example and differing from the more dispersed or multi-region patterns of search, browse, watch, write, or play.",
+  "correct": false
+}

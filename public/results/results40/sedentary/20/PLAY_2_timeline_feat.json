@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "X fixations show repeated long rightward sweeps with returns, while Y slowly drifts downward then upward, resembling scrolling through vertically arranged content and scanning different horizontal regions, which matches the browsing pattern more than the more static coding tasks or dynamic WATCH/PLAY examples.",
+  "correct": false
+}

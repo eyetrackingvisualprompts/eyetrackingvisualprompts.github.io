@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows structured, mostly horizontal progressions with medium-length fixations, characteristic of scanning lines of text. There are occasional large saccades between two horizontal bands (upper center and lower-left region), consistent with moving between different text areas or columns rather than the more scattered, multi-directional exploration seen in SEARCH, BROWSE, or PLAY, or the more localized, vertical movements of WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with several vertical shifts between two main bands, indicating transitions between query box, results, and snippets rather than the more linear, stable pattern of reading or the highly dynamic movements of play or watch, matching the SEARCH example most closely.",
+  "correct": true
+}

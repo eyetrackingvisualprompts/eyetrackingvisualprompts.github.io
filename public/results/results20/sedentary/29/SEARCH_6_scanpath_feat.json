@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid transitions across the entire screen, including long diagonals from corner to corner and fewer structured reading or code-inspection patterns, resembling tracking and navigating moving game elements as in the PLAY examples.",
+  "correct": false
+}

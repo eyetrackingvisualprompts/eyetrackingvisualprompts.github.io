@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are spread broadly across the central and right regions with frequent long saccades in varying directions and limited clustering on text-like lines, matching the dynamic, spatially distributed viewing pattern typical of playing simple video games rather than reading, coding, or web search tasks.",
+  "correct": true
+}

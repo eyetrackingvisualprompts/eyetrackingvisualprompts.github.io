@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated around a central region with frequent short saccades and revisits between nearby coordinates, consistent with tracking dynamic in-game elements rather than line-by-line reading or broad web scanning. The pattern closely matches the PLAY examples\u2019 tight spatial clustering around a playfield and repeated fixations near similar (x,y) locations with occasional larger jumps.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze heatmap shows a moderately dispersed cluster centered around the middle of the screen, with spread both vertically and horizontally, resembling the browsing example more than the tighter central cluster of SEARCH or the horizontal bands of READ/WRITE and the upper-band focus of WATCH/PLAY.",
+  "correct": true
+}

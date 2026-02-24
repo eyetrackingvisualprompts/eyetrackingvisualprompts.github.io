@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows one dominant, long fixation near the screen center with several shorter, scattered fixations around it, typical of following dynamic visual content in a video rather than the orderly horizontal scanpaths of reading/searching or the code-focused patterns of programming tasks.",
+  "correct": true
+}

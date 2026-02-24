@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the screen center with moderate horizontal spread and limited vertical range, matching the browsing example pattern more closely than the more linear READ layout or the more dispersed SEARCH and PLAY patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a narrow horizontal band with very small, infrequent saccades and nearly constant X and Y fixation positions, indicating focused inspection of a small static region such as a short code snippet, which best matches the INTERPRET task among the options.",
+  "correct": false
+}

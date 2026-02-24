@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The gaze is concentrated in a very small cluster near the screen center with minimal dispersion, matching the static central fixation pattern; the few long excursions appear as brief artifacts rather than systematic tracking of moving targets or reading-like patterns.",
+  "correct": true
+}

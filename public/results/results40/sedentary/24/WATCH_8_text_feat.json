@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Wide, frequent long-range saccades across the full screen (including corners and off-center regions), mixed vertical and horizontal jumps, and short, varied fixations indicate exploratory scanning of a complex, multi-element layout (e.g., web pages or navigation between tabs), matching the BROWSE pattern more than the focused, region-bound behaviors of code tasks, reading, or video watching.",
+  "correct": false
+}

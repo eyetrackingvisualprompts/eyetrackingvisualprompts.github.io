@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-range horizontal shifts with intermittent vertical changes and many saccades, resembling scanning result lists and brief reading, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

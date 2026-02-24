@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays around the screen center with long stable fixations and small smooth shifts, lacking the systematic horizontal scanpaths of reading or the large, frequent exploratory saccades typical of play/search/browse; this pattern is most consistent with passively watching a video clip.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows gaze concentrated along a narrow horizontal band near the top of the screen with little vertical spread, indicating repeated left\u2013right movements at roughly constant elevation, which matches the systematic horizontal saccades task rather than reading, random saccades, or other more dispersed patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated around the screen center with medium-length fixations, frequent short saccades, and occasional vertical excursions, without the tight horizontal line sweeps of READ or the extreme spread and dynamics of PLAY/WATCH. The spatial-temporal pattern closely matches the BROWSE example, which shows similar mid-screen scanning and moderate navigation movements.",
+  "correct": false
+}

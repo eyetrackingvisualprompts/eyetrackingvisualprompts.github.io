@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a narrow horizontal band of fixations across a single line region, consistent with left-to-right reading of a line of text rather than dispersed exploration, scrolling, or dynamic object tracking seen in other tasks.",
+  "correct": false
+}

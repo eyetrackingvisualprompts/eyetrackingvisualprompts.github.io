@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form dense, ordered clusters along horizontal bands with gradual vertical shifts and limited large jumps, matching line-by-line text reading rather than the larger dispersed movements typical of coding, games, video, or free browsing.",
+  "correct": false
+}

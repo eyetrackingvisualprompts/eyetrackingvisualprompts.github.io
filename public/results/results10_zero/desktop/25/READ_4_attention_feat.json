@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a very small, tightly clustered fixation region near the screen center, indicating sustained attention to a single area with minimal scanning. This pattern is most consistent with passively watching video content rather than reading, searching, browsing, writing, or actively playing a game, all of which typically produce broader horizontal or multi-area gaze distributions.",
+  "correct": false
+}

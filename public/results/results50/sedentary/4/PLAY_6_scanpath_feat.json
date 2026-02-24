@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely distributed across the screen with frequent, long saccades in multiple directions and no dominant reading-like lines or code block focus, closely matching the dynamic, dispersed scanpath pattern seen in the PLAY example rather than the more localized or structured patterns of text, code, or web search tasks.",
+  "correct": true
+}

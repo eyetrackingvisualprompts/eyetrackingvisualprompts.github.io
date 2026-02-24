@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is spread widely across a central horizontal band with many medium-length saccades and no clear reading lines or code-block clustering, resembling dynamic viewing of changing stimuli rather than structured text or IDE interaction, matching the WATCH pattern.",
+  "correct": false
+}

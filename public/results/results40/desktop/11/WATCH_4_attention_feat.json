@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around the central upper-middle region with vertical spread and some scattered points, closely matching the SEARCH example heatmap pattern more than the other activities.",
+  "correct": false
+}

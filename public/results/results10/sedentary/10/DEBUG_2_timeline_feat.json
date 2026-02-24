@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows repeated horizontal shifts between two main vertical regions with occasional large upward saccades, consistent with alternating attention between code and other interface elements (e.g., editor and console) typical of writing/implementing code, and it best matches the WRITE example pattern.",
+  "correct": false
+}

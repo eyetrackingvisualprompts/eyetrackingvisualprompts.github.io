@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is clustered around a central-lower region with small, smooth shifts and sustained fixations, showing no systematic horizontal scanning or line-by-line progression typical of reading or writing, and lacking the large, frequent, multidirectional jumps seen in playing or active web search/browsing. This stable, centrally focused pattern best matches passive video watching among the provided classes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows relatively narrow horizontal dispersion with frequent short fixations and modest saccades around a central region, resembling focused inspection of a compact code snippet. It lacks the strong left-to-right line sweeps of READ and the broader exploratory or dynamic patterns seen in BROWSE, SEARCH, PLAY, or WATCH, and is closest to the INTERPRET example pattern.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form dense, horizontally clustered bands around several vertical levels, indicating line-by-line scanning with short left\u2013right saccades and small regressions, consistent with reading text rather than wide exploratory movements or large object-tracking sweeps.",
+  "correct": true
+}

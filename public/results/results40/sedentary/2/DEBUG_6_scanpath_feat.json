@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in a narrow left-of-center code area with occasional long saccades to the far right region, matching the reference WRITE pattern where participants focus on the editor but periodically move gaze to run/inspect code or use UI elements while implementing functions.",
+  "correct": false
+}

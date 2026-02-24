@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays within a mid-screen region with medium-length fixations (0.2\u20131.0 s) and frequent short saccades, including repeated revisits around nearby positions. There is no strong left-to-right line structure typical of READ, nor the very local cursor-area clustering of WRITE, nor large exploratory sweeps of PLAY/WATCH. This spatial-temporal pattern most closely matches the BROWSE example dynamics over mixed page elements.",
+  "correct": true
+}

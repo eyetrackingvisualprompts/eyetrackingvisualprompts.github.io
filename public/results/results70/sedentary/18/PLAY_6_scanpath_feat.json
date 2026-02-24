@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated in a central band resembling reading but with frequent long saccades to screen corners and edges, including a late jump to the far right, indicating navigation across different webpage regions rather than continuous text reading. This pattern best matches browsing behavior compared to the other activities.",
+  "correct": false
+}

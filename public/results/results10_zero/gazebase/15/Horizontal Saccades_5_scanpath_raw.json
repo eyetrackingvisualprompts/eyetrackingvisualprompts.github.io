@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated long, nearly horizontal sweeps across the screen between two lateral regions with minimal vertical dispersion, consistent with tracking a target moving horizontally back and forth, as in the Horizontal Saccades task, rather than the more varied or localized patterns expected in reading, random saccades, video viewing, game play, or central fixation.",
+  "correct": true
+}

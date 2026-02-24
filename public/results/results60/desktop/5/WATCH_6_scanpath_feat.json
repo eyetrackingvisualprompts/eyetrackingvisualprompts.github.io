@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered near the center with moderate dispersion and frequent shifts among nearby locations, resembling the exploratory, multi-element viewing pattern of browsing web pages rather than the more linear patterns of reading/ writing or the broader motion of watching/playing.",
+  "correct": false
+}

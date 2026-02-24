@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent gaze shifts across wide screen regions (including corners), many mid-length fixations, and no clear left-to-right line structure or code/text revisits align with following dynamic visual content in a video rather than reading, coding, or web/search navigation.",
+  "correct": true
+}

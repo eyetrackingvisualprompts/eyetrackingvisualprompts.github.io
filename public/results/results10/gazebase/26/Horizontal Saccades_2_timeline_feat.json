@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X-position alternates regularly between large positive and negative values while Y remains near constant around zero, matching the pattern of horizontal back-and-forth saccades with 1-second fixations at each extreme.",
+  "correct": true
+}

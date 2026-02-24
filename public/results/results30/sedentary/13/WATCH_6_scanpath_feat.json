@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid saccades covering almost the entire screen with frequent directional changes and dispersed fixations, closely matching the high-mobility, screen-wide gaze behavior seen in the PLAY example, unlike the more localized or structured patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

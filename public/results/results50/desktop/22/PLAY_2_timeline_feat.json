@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are relatively stable near the screen center with slow, small horizontal shifts and limited vertical range, resembling the consistent line-by-line scanning pattern seen in the READ example more than the higher variability of browsing, search, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze alternates repeatedly between two main screen regions (left-central code area and far-right/output or reference area) with several long fixations and frequent returns to nearly identical coordinates. This bidirectional checking pattern, including occasional long looks to the far right and back to the code block, is characteristic of mentally simulating and verifying a code snippet\u2019s behavior rather than continuous reading (READ) or broader page scanning (BROWSE/SEARCH).",
+  "correct": false
+}

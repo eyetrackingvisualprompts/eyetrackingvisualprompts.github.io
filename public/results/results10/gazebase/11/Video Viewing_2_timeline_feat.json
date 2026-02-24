@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show irregular, multi-directional jumps across both horizontal and vertical axes with varying amplitudes and dwell periods around 1 second, matching the unpredictable target movements characteristic of the Random Saccades task rather than the more structured or constrained patterns of the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points stay within a narrow horizontal range near the screen center with slow, small vertical shifts and long stable fixations, indicating line-by-line viewing of static content rather than rapid multidirectional movements (PLAY), large scene scans (WATCH/BROWSE/SEARCH), or repeated gaze shifts between text and an external source (WRITE). This pattern best matches sustained reading behavior.",
+  "correct": false
+}

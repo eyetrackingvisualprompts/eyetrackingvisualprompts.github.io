@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region with short, repeated fixations and a few horizontal saccades, consistent with inspecting a small code snippet in an IDE rather than scanning long text, wide web pages, or dynamic game/video content.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated smooth rightward scans in X with occasional sharp resets and relatively stable Y, matching the browsing example pattern of reading shorter, scattered text segments and moving between page regions, rather than the more linear, uniform pattern of continuous reading or the more variable movements of coding/debugging or playing games.",
+  "correct": false
+}

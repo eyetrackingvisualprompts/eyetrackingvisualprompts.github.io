@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-long saccades between distant vertical regions (upper code/content-like area to lower/side regions) and brief fixations resemble scanning a search results page or switching between results and snippet areas, rather than the more linear patterns of READ/WATCH or the tight code-region loops of DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

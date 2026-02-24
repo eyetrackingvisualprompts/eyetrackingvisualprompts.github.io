@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is clustered around central upper-middle region with frequent shifts and scattered fixations, resembling mixed reading and interface inspection; this pattern aligns more with search-engine result page exploration than with the more linear READ or top-heavy WRITE patterns.",
+  "correct": true
+}

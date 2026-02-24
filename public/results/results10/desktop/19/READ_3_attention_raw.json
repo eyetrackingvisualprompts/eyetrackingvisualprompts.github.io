@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows a horizontally progressing sequence of fixations from left to right with relatively consistent vertical bands, closely matching the structured line-by-line scan pattern seen in the READ example rather than the more clustered or scattered patterns of other activities.",
+  "correct": true
+}

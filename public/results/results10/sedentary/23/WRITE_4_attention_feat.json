@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered over a small code area on the left, similar to the INTERPRET example where participants focus on a concise snippet to reason about its output, rather than scanning widely as in SEARCH/DEBUG or moving centers as in PLAY/WATCH.",
+  "correct": false
+}

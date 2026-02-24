@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, orderly horizontal fixations with limited vertical range, closely matching the structured line-by-line pattern in the READ example rather than the more scattered or wide-ranging patterns of other activities.",
+  "correct": false
+}

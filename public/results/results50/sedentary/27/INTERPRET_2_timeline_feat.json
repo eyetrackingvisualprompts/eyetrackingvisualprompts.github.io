@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are mostly centered with low spatial dispersion and few saccades, similar to code-focused tasks. Compared to WRITE and DEBUG examples, there are fewer vertical excursions and less variability, matching the more static, inspection-heavy INTERPRET pattern.",
+  "correct": true
+}

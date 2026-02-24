@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is tightly clustered around the central area of the screen with minimal horizontal spread, matching the compact, central fixation pattern observed in the BROWSE example rather than the elongated reading lines, dispersed search/game patterns, or upper-screen writing/video layouts.",
+  "correct": false
+}

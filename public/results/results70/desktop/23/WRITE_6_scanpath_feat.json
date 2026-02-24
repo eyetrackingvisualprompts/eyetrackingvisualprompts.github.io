@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered near the screen center with moderate dispersion and frequent shifts among several nearby regions, indicating scanning result lists and pages rather than the more linear, constrained patterns of READ or WRITE or the larger, more dynamic movements seen in PLAY and WATCH.",
+  "correct": false
+}

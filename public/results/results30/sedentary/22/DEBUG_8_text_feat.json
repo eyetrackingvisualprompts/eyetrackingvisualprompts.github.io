@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent vertical and diagonal saccades between upper and lower screen and off-center areas, including occasional off-screen jumps, suggest scrolling and moving between different webpage regions rather than line-by-line reading or focused code inspection.",
+  "correct": false
+}

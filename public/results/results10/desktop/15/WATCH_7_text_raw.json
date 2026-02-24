@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered mid-screen with small horizontal shifts and occasional brief excursions, matching the mixed scanning and localized fixation pattern seen in the BROWSE example more than the more static WATCH/READ patterns or the large, rapid shifts in SEARCH/PLAY/WRITE.",
+  "correct": false
+}

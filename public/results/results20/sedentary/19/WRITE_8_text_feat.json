@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Large, frequent gaze shifts between top (near code area) and bottom (likely console or editor region), with many revisits to similar code coordinates and no clear reading-line structure, best match the programming/write task rather than passive viewing, reading, or web search/browsing patterns.",
+  "correct": true
+}

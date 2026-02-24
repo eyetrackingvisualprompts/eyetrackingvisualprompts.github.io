@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "Fixations are scattered across the entire screen with multiple distinct clusters and no clear horizontal line or central concentration, matching the distributed, target-driven gaze pattern of the Balura Game rather than the more structured patterns of reading, video viewing, or saccade tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around mid screen with moderate vertical spread and frequent saccades, resembling the SEARCH example more than the denser, more horizontally constrained READ pattern or the more dispersed BROWSE/PLAY/WATCH patterns.",
+  "correct": false
+}

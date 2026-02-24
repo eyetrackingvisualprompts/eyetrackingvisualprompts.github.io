@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a highly localized cluster of fixations around a single central area, with minimal horizontal or vertical scanning. This pattern matches sustained attention to one region of a full-screen video (WATCH) rather than the broader, distributed scanning typical of reading, browsing, searching, coding, or playing games.",
+  "correct": false
+}

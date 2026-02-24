@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a relatively narrow horizontal band with many short left\u2013right saccades and medium-long fixations (0.3\u20131.7s) forming locally linear horizontal runs with occasional downward shifts\u2014closely matching the structured, line-by-line scan path seen in the READ examples and unlike the more dispersed, multidirectional exploration of SEARCH/BROWSE or the central, more static patterns of WATCH/WRITE/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small central-upper region with minimal horizontal progression or line changes, indicating sustained fixation on a single localized area (such as the main action region of a video) rather than the systematic left-to-right, top-to-bottom movements typical of reading, browsing, searching, or writing, or the larger, multidirectional shifts common in gameplay.",
+  "correct": false
+}

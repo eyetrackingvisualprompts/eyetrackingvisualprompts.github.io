@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between spatially separated points across wide horizontal and vertical ranges (up to ~\u00b115\u00b0 horizontally and ~\u00b19\u00b0 vertically) with relatively long, stable fixations (~0.2\u20130.7 s) at each location, matching a task where a single target jumps to discrete positions and is held for about one second. The movements are not strictly horizontal (ruling out Horizontal Saccades), not centrally clustered (ruling out Fixations), lack the systematic left-to-right line structure of Reading, and show more discrete, large, target-like jumps than expected from continuous Video Viewing or game-driven Balura behavior.",
+  "correct": true
+}

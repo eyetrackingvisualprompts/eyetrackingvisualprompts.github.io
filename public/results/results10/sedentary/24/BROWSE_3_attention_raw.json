@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a horizontal band in the lower half of the screen with some scattered points above, resembling attention on search results/snippets plus occasional glances to other page areas, matching the SEARCH example heatmap more than other tasks.",
+  "correct": false
+}

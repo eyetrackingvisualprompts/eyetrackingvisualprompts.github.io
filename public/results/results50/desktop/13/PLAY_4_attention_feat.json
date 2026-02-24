@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central area of the screen with a compact, slightly horizontal spread, closely matching the browsing example heatmap and differing from the wider, more dispersed SEARCH pattern and the more top- or side-biased layouts of other tasks.",
+  "correct": false
+}

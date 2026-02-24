@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region slightly left-of-center with minimal vertical or horizontal excursions, matching focused attention on a local area such as a code editor while typing, similar to the WRITE example and unlike the more dispersed patterns of other tasks.",
+  "correct": false
+}

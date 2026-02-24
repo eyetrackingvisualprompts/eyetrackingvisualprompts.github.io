@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Long, stable fixations clustered in a narrow region near the upper-left text area with small local saccades and occasional short regressions match the pattern of monitoring a typed line while writing, and differ from the more extensive vertical and multi-region exploration seen in SEARCH or BROWSE and from line-by-line horizontal sweeps in READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y show large, abrupt changes to various horizontal and vertical positions, with plateaus of ~1 s between moves, matching the step-like, multi-directional pattern of the Random Saccades example rather than the more structured, monotonic, or static patterns of other tasks.",
+  "correct": true
+}

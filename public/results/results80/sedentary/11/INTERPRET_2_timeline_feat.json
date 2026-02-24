@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-like behavior: relatively constrained horizontal X fixations with moderate vertical Y variation, plus several localized saccadic bursts around specific intervals, resembling focused inspection and re-checking of limited code regions, most similar to the DEBUG example pattern.",
+  "correct": false
+}

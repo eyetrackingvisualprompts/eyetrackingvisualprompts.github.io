@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered near the screen center with relatively small horizontal and moderate vertical shifts, and saccades show frequent but limited-range movements\u2014this pattern closely matches the provided BROWSE example and differs from the larger directional sweeps seen in READ or PLAY.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows discrete, relatively large jumps to new positions followed by ~1-second clusters of small fluctuations (fixations) at each location, with both horizontal and vertical variability and irregular amplitudes, matching a randomly moving target rather than strictly periodic horizontal tracking, static fixation, structured line-by-line reading, or the more complex, object-driven patterns of video viewing or gaming.",
+  "correct": false
+}

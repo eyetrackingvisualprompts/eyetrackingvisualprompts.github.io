@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze trajectory shows frequent large-amplitude shifts across wide screen regions (including extreme positions and occasional off-screen/invalid values), interleaved with short local stabilizations. This pattern of rapid, multidirectional scanning with irregular jumps is most consistent with visually tracking dynamic game elements rather than the more structured, line-based patterns of reading/writing or the more clustered movements seen in browsing/searching/watching.",
+  "correct": false
+}

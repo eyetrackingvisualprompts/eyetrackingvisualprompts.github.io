@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in a narrow horizontal band around mid\u2011screen (y\u22480.36\u20130.6) with mostly short, small-amplitude saccades and occasional medium horizontal shifts, resembling line-by-line scan behavior seen in the READ example more than the larger vertical and dispersed movements typical of SEARCH, BROWSE, or PLAY, or the high/low screen regions of WRITE and WATCH.",
+  "correct": false
+}

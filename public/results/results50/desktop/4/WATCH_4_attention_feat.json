@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered around the upper-central region with scattered points nearby, resembling the SEARCH example pattern where users focus on the search box and top results while occasionally scanning surrounding content, rather than the more linear READ/WRITE patterns or the more horizontally centered WATCH layout.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long, smooth horizontal drifts with relatively small vertical changes and few rapid back-and-forth saccades, consistent with following dynamic on-screen content like a video rather than line-by-line reading, code inspection, or interactive tasks.",
+  "correct": false
+}

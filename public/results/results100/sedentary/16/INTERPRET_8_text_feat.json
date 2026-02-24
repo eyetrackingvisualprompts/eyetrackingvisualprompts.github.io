@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered around code-like regions with many short saccades and long revisits between a few nearby coordinates, interleaved with frequent vertical moves to UI/menu areas and occasional large excursions to screen edges\u2014matching the sustained, iterative, back\u2011and\u2011forth inspection pattern seen in the WRITE examples rather than the more linear INTERPRET or broader, multi\u2011region exploration in DEBUG or SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are tightly clustered in a small region slightly below screen center, suggesting continuous attention to a localized dynamic target (e.g., game character) rather than distributed reading or browsing patterns seen in other classes; this best matches the PLAY activity, particularly a game focusing gaze near the center.",
+  "correct": false
+}

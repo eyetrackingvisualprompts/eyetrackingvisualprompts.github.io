@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze stays in a low, narrow vertical band (X around mid-screen, Y confined to the lower third) with relatively small, regular saccades, closely matching the pattern of the WRITE example and differing from the broader vertical ranges seen in reading, browsing, or watching tasks.",
+  "correct": false
+}

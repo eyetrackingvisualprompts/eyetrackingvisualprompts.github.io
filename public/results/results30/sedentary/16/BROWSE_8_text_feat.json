@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze follows long horizontal bands around mid-to-lower screen with repeated leftward regressions and large vertical jumps between a results area and top-of-page regions, matching scrolling and scanning of search results rather than the tighter, line-structured patterns of READ or the more localized code/IDE focus of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

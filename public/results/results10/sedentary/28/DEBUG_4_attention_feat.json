@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across multiple vertical regions including a top area and a mid-lower band on the left, indicating scanning different interface elements rather than focused code or continuous text, which best matches the varied gaze pattern of web browsing.",
+  "correct": false
+}

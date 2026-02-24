@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the center but spread over a relatively larger vertical range without strong left-to-right line structures, indicating scanning of centrally located, varied elements such as search results rather than orderly line-by-line reading; this pattern matches the SEARCH example most closely.",
+  "correct": false
+}

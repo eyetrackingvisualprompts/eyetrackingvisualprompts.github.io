@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a compact vertical region on the left side of the screen, indicating sustained attention to a narrow code/text column without horizontal scanning typical of reading prose or browsing. This focused, stationary viewing pattern best matches concentrating on a short code snippet to interpret its behavior.",
+  "correct": false
+}

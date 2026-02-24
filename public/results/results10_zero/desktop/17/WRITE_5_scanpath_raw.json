@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains localized in a small central area with minor jitter and no clear horizontal or vertical sweep patterns typical of reading, browsing, searching, or playing. This stable clustering without systematic line-by-line movement is most consistent with passively watching a video where a focal region of interest stays near the same location.",
+  "correct": false
+}

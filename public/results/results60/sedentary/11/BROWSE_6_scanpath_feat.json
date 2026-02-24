@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze covers multiple vertically separated regions with frequent long saccades between them and scattered fixations, resembling navigation across different parts of web pages rather than the more localized patterns of coding (WRITE/DEBUG/INTERPRET) or the structured lines of READ.",
+  "correct": true
+}

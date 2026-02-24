@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze positions are relatively centralized with limited horizontal span and moderate, localized saccades, matching the focused inspection pattern seen in the INTERPRET example rather than the wider scanning of SEARCH/DEBUG or strong line-wise motion of READ/BROWSE.",
+  "correct": true
+}

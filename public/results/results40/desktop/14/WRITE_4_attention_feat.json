@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are distributed in a horizontally elongated band in the lower half of the screen, forming sequential line-like clusters similar to reading patterns and closely matching the READ example heatmap more than the other tasks.",
+  "correct": false
+}

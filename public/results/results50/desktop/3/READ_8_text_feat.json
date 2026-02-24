@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to the left-lower region with small, local saccades and many medium/long fixations, resembling monitoring and editing text near the cursor in a word processor rather than broad horizontal sweeps (READ) or more global exploratory movements (SEARCH/BROWSE/PLAY/WATCH).",
+  "correct": false
+}

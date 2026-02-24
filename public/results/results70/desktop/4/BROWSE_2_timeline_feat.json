@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are mostly mid-screen with moderate horizontal movement and intermittent vertical shifts, resembling the mixed scanning of results lists and occasional page transitions seen in the SEARCH example more than the steadier patterns of READ/WRITE or the broader motions of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

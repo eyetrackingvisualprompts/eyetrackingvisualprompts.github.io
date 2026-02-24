@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows horizontally elongated fixation patterns in two separated horizontal bands (upper and lower areas), consistent with scanning lines of text in reading. It lacks the central clustering of BROWSE/WRITE/DEBUG or the dispersed motion of WATCH/PLAY, matching the READ example most closely.",
+  "correct": true
+}

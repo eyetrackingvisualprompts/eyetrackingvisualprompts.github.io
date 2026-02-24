@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is concentrated around central screen regions with frequent medium-amplitude shifts between nearby positions and occasional larger vertical moves, matching the mixed local exploration and intermittent jumps typical of browsing complex web pages, and differing from the more line-structured horizontal scanning of READ and the more peripheral/extreme movements of PLAY and WATCH.",
+  "correct": false
+}

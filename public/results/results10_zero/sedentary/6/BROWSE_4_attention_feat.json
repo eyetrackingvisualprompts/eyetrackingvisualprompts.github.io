@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a mostly horizontal band near the top of the screen with localized clusters and limited vertical movement, consistent with reading a single line or short block of text rather than dispersed exploration (browse/search), code editing (write/debug/interpret), continuous motion tracking (play), or more evenly spread attention (watch).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate, irregular exploration with both X and Y moving across mid-screen, more variable than READ/WRITE but less constrained than PLAY; this matches scan-and-scroll behavior typical of web searching rather than focused reading or passive watching.",
+  "correct": false
+}

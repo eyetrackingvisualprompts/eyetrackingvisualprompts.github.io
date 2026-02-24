@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, irregular jumps in both horizontal and vertical directions within a constrained central area, without the orderly left-to-right pattern of reading, the strict horizontal motion of horizontal saccades, or the tight clustering of fixations. This matches following a target that moves unpredictably around the screen, as in the Random Saccades task.",
+  "correct": false
+}

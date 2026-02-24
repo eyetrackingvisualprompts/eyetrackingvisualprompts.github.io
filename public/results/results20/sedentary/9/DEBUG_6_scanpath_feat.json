@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a compact left-central region with frequent short saccades between nearby locations and some vertical movements, matching the scanpath pattern of code editing/authoring in WRITE rather than the more localized INTERPRET or wider-spread DEBUG/SEARCH patterns.",
+  "correct": false
+}

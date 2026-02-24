@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades between distant on-screen regions (top/bottom, left/right), many visits to extreme coordinates, and varied fixation locations resemble exploratory web browsing rather than the more structured line-by-line (READ), code-centered (WRITE/DEBUG/INTERPRET), or focal object tracking (PLAY/WATCH) patterns.",
+  "correct": false
+}

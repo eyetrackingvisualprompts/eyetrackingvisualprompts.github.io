@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "X position shows repeated left-to-right staircase patterns with quick regressions and line resets, while Y position is largely stable with occasional downward shifts and return, matching the typical horizontal scanpath and line changes observed during reading.",
+  "correct": true
+}

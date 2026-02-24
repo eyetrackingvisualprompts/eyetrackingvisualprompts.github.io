@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered around the screen center with moderate multidirectional saccades, resembling the exploratory yet localized pattern seen in the BROWSE example more than the more linear READ/WRITE or broader WATCH/PLAY paths.",
+  "correct": false
+}

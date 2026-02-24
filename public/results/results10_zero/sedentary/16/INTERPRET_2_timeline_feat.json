@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively large, smooth shifts in both X and Y with long, stable fixations and no clear left-to-right or line-by-line reading pattern. This pattern aligns with following changing visual content over time, typical for watching a video rather than reading, coding, or interacting with text or game elements.",
+  "correct": false
+}

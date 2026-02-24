@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations cluster around a few compact regions without forming horizontal text-like lines or code blocks, and there are jumps between separated areas consistent with following visual elements in a video rather than systematic scanning for reading, writing, or debugging tasks.",
+  "correct": true
+}

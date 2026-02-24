@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-to-large saccades across broad screen regions, repeated tracking within localized clusters, and non-linear movements consistent with following moving objects and shifting attention in a game, rather than the more line-structured, horizontal patterns typical of reading/searching/browsing or the focused, code-line fixations seen in programming tasks.",
+  "correct": false
+}

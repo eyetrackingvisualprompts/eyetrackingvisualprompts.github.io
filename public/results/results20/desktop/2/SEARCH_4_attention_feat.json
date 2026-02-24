@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central region with moderate vertical spread and no strong horizontal scanlines, matching the browsing example pattern more than the tighter READ/WRITE lines or the more scattered SEARCH/WATCH/PLAY distributions.",
+  "correct": false
+}

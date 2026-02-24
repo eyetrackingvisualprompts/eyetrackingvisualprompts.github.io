@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small central-upper area with minimal saccades and little spatial exploration, resembling steady viewing of a single region on the screen, which matches the WATCH pattern more than the other, more exploratory or horizontally distributed activities.",
+  "correct": false
+}

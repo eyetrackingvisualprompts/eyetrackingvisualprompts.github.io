@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central area with a compact cluster and limited horizontal spread, closely resembling the BROWSE example heatmap where attention centers on a main content region of a webpage rather than long horizontal lines (READ/WRITE) or multiple dispersed regions (WATCH/PLAY/SEARCH).",
+  "correct": false
+}

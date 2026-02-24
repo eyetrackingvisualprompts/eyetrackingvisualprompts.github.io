@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a tight cluster of fixations in a small central region, indicating gaze mostly held around one area with minimal horizontal scanning. This pattern is consistent with watching a video where main action is localized, rather than the broader horizontal/vertical scan patterns typical of reading, browsing, searching, or playing games.",
+  "correct": false
+}

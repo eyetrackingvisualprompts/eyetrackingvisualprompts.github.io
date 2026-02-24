@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations and saccades are clustered in a compact IDE-like region on the left, repeatedly moving between a narrow vertical band around y\u2248130\u2013190 (code area) and y\u2248350\u2013480 (lower code/console), without long horizontal sweeps typical of reading/browsing. The pattern of revisiting the same code lines and jumping between top and mid sections matches the WRITE examples more than DEBUG/INTERPRET, which show broader vertical exploration and more scattered search-like movements.",
+  "correct": false
+}

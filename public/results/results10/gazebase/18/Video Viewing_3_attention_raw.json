@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze is clustered near the central region with a dominant blob and a few nearby fixations, indicating localized but shifting attention similar to natural viewing, unlike the very tight single-point fixation, the bi-modal horizontal pattern of horizontal saccades, or the more dispersed/random patterns of reading, random saccades, or the Balura game.",
+  "correct": true
+}

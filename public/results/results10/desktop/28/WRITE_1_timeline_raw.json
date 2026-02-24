@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, rapid vertical excursions and frequent abrupt shifts in both X and Y positions indicate dynamic, multidirectional gaze typical of tracking moving game elements, matching the PLAY pattern more than the steadier patterns of reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

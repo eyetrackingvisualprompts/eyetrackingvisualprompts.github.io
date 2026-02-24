@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are dispersed across a broad central area with multiple clusters and vertical spread, indicating scanning of several regions (results list, side elements, query box) rather than the tight horizontal bands of reading or the top-focused pattern of watching; this best matches the exploratory gaze behavior in web search tasks.",
+  "correct": false
+}

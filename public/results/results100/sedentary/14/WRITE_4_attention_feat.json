@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over a single code-like area in the upper-left with a few scattered checks elsewhere, matching the focused, localized viewing pattern of INTERPRET rather than the more distributed patterns of WRITE or DEBUG.",
+  "correct": false
+}

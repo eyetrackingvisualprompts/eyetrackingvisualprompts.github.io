@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze clusters in a few nearby regions with medium-length saccades and no systematic horizontal line-by-line pattern typical of reading or writing. Movements are not widely exploratory as in browsing/searching or game-like PLAY; instead they suggest tracking limited dynamic content in a local area, consistent with watching a video clip.",
+  "correct": false
+}

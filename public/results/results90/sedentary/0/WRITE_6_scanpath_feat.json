@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered over a compact left-side code area with repeated refixations and limited excursions elsewhere, matching the focused, localized viewing pattern seen in the INTERPRET example rather than the more distributed patterns of DEBUG or other tasks.",
+  "correct": false
+}

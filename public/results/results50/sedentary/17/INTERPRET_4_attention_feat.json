@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered over a small mid-left area of the code editor with minimal vertical spread, resembling focused inspection of a short code snippet as in INTERPRET, and is more compact than the broader vertical patterns seen in DEBUG or WRITE examples.",
+  "correct": true
+}

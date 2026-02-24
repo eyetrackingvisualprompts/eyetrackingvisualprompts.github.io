@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central region with moderate vertical position and limited horizontal spread, resembling focused attention on a small content block (like a specific article section or widget) rather than the broader horizontal sweeps of reading text or the upper-screen focus of watching or writing; this pattern best matches the browsing examples.",
+  "correct": false
+}

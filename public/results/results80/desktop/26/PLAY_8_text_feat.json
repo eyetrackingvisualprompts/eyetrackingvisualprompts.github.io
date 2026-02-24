@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts cover a broad central-to-lower screen area with frequent medium-length fixations and multidirectional saccades, including jumps between text-like midlines and more dispersed positions, matching the heterogeneous, scrolling and link-checking patterns typical of web/news browsing rather than the more line-structured READ/WRITE or peripheral-heavy PLAY/WATCH behaviors.",
+  "correct": false
+}

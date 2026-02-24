@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a narrow horizontal band around mid-screen height with many medium-length fixations and short, small-amplitude horizontal/vertical saccades, forming a stable line-like pattern consistent with following lines of text while reading, and unlike the larger, more scattered shifts seen in browse/search or the more dynamic movements in watch/play.",
+  "correct": false
+}

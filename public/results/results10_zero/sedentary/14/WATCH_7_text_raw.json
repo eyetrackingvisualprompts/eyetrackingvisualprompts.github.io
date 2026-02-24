@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points show frequent large saccades across wide screen areas (center \u2194 corners, mid \u2194 bottom), clusters around varying regions, and rapid revisits\u2014consistent with tracking dynamic game elements and UI rather than the more structured, line-based or region-limited patterns typical of reading, coding, or web search/browsing.",
+  "correct": false
+}

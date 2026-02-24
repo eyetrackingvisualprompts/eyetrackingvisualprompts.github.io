@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The pattern shows moderate horizontal spread with frequent medium-amplitude saccades and irregular shifts, more active than INTERPRET but less systematic than READ/BROWSE, closely matching the example DEBUG gaze dynamics during code inspection and error searching.",
+  "correct": false
+}

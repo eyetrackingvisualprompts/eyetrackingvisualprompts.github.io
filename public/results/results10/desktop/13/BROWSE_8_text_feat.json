@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows medium-length saccades and fixations clustered around mid-screen with several vertical and diagonal shifts between ~0.3\u20130.7 in y, resembling scanning across mixed-content regions. It lacks the tight horizontal line structure of READ, the more repetitive upper-area focus of WRITE, and the more extreme or wide-ranging movements seen in PLAY and WATCH. This spatial-temporal profile best matches the exploratory, moderate-range scanning seen in the BROWSE examples.",
+  "correct": true
+}

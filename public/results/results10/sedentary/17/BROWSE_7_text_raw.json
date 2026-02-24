@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, horizontally aligned clusters with gradual downward shifts, characteristic of line-by-line reading across a text block rather than the larger, more dispersed movements seen in browsing, searching, or coding tasks, or the wider screen sweeps typical of video watching or game playing.",
+  "correct": false
+}

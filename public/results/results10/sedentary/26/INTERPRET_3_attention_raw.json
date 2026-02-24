@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in a single left-center region with minor nearby shifts, matching focused inspection of a small code area as seen in the DEBUG example, rather than the broader scan paths of reading, browsing, or writing.",
+  "correct": false
+}

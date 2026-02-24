@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze pattern shows multiple distinct clusters (left, central, and far right) with long cross-screen saccades between them, indicating navigation across different page regions or webpages rather than focused reading, coding, or continuous video watching\u2014most consistent with free web browsing behavior.",
+  "correct": false
+}

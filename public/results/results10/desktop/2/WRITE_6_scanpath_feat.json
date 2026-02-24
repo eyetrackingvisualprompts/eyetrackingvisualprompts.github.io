@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact, nearly horizontal band in the mid-lower screen with short, consistent saccades and localized fixations, matching a line-by-line reading pattern rather than the broader exploration seen in search, browse, watch, write, or play activities.",
+  "correct": false
+}

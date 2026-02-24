@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Initial horizontal scanning around mid-upper screen then a large saccade to a different region with multiple shorter fixations and revisits resembles scanning search results/snippet areas rather than the more linear patterns of READ or the tight code-focused clusters of WRITE/DEBUG/INTERPRET or the dispersed motion of WATCH/PLAY/BROWSE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across the top and upper-middle parts of the screen with several distinct clusters rather than a single tight code/text block, closely matching the example SEARCH heatmap pattern of scanning results and snippets.",
+  "correct": false
+}

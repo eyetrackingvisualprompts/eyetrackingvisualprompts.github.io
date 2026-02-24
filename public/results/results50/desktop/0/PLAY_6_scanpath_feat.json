@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze distribution spans a wide vertical range with frequent shifts between lower and upper regions and relatively few tightly clustered horizontal lines, suggesting attention to dynamic visual content across the screen rather than line-by-line reading or focused text entry, which aligns best with watching a video.",
+  "correct": false
+}

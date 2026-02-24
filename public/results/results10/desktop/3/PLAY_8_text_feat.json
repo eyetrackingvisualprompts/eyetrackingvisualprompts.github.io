@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between mid-center and multiple dispersed regions (including substantial vertical jumps between mid and lower screen), with medium-length fixations and frequent saccades across a broad area. This pattern resembles scanning heterogeneous web-page regions (headlines, images, different sections) seen in the BROWSE example more than the more horizontally constrained READ pattern or the localized WRITE/PLAY patterns.",
+  "correct": false
+}

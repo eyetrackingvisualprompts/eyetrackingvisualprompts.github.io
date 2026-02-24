@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades between widely separated vertical positions (near top coordinates ~50\u2013150 and lower mid-screen ~450\u2013500), including many off-center and edge excursions, with irregular, non-line-by-line scanpaths and revisits to mid-page regions resemble scrolling and scanning heterogeneous web content typical of BROWSE rather than the more structured, columnar patterns of READ or the focused central clusters of code-related tasks.",
+  "correct": false
+}

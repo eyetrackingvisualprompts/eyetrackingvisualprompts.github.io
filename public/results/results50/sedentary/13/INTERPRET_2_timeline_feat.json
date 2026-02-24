@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal and vertical movements centered in the code area with frequent but not extreme saccades, resembling the DEBUG example more than the more static INTERPRET/WRITE patterns or the broader, faster sweeps seen in PLAY, SEARCH, or BROWSE.",
+  "correct": false
+}

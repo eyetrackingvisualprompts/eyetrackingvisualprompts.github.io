@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are concentrated in the central-lower region with rapid, short-range shifts and frequent revisits to overlapping zones, consistent with tracking moving game elements and UI in a dynamic task rather than the more structured line/column patterns of reading, code-related tasks, or the broader exploratory scanning seen in browsing/searching/watching.",
+  "correct": false
+}

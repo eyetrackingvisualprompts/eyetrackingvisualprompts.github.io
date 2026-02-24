@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated horizontal sweeps along text-like lines with frequent long saccades to the top URL/title region and sporadic large jumps to screen corners and outside coordinates, matching scanning SERP and web pages in the SEARCH examples more than the stable line-by-line patterns of READ or the code-oriented focus of programming tasks.",
+  "correct": true
+}

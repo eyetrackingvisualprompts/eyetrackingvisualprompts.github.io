@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed mainly in the upper half of the screen with multiple sparse clusters and vertical spread, resembling scanning of search results rather than the denser, more central clustering of WATCH or the more uniformly spread BROWSE pattern.",
+  "correct": false
+}

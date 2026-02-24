@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Long, smooth saccades over several seconds with short, scattered fixations across different screen regions indicate following moving visual content rather than line-by-line reading or localized text editing; this pattern best matches watching dynamic video scenes with characters moving on screen.",
+  "correct": false
+}

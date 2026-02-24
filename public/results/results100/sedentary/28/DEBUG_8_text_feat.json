@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent back-and-forth fixations between a compact code/console region and multiple UI areas (top, bottom, off-screen jumps), with many revisits to the same mid-screen coordinates and intermittent large saccades, matches the complex, iterative inspection and re-inspection pattern typical of debugging rather than the more linear (READ/INTERPRET), strongly central (WATCH/PLAY), or horizontal text-like (SEARCH/BROWSE/WRITE) behaviors.",
+  "correct": true
+}

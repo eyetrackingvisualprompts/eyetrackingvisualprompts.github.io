@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the central-upper region with moderate dispersion and frequent medium-length saccades, resembling the mixed reading-and-scanning pattern of search engine result pages, and matching the SEARCH example more closely than the other activities.",
+  "correct": false
+}

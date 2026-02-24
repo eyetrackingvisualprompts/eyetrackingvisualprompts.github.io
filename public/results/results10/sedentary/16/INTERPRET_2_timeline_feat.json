@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Early segment shows large, rapid vertical saccades with more variable horizontal movement near the code area, then later stabilizes with smaller shifts around a narrower region\u2014matching the mix of scanning and focused gaze typical when writing/implementing code, most similar to the WRITE example pattern.",
+  "correct": false
+}

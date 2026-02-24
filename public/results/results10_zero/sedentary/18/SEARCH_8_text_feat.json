@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster in multiple horizontal bands with several large vertical saccades across distant regions of the screen, consistent with scanning disparate webpage areas (e.g., moving between top content, side sections, and lower page) rather than the more line-structured, locally constrained patterns typical for focused READ, or the center-biased, dynamic-object tracking of PLAY/WATCH. The irregular navigation and varied fixation durations align best with free web browsing behavior.",
+  "correct": false
+}

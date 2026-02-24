@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid eye movements spanning wide screen areas with fewer localized reading-style fixations, matching dynamic object tracking and spatial navigation typical of playing simple games rather than code, text reading, or passive watching tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central region with small movements and no strong horizontal reading sweeps or wide exploratory scans, matching the localized inspection pattern seen in the BROWSE example more than the other activities.",
+  "correct": false
+}

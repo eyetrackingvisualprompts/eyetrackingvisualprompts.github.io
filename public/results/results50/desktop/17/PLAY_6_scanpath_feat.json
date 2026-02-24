@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are spread over a moderately sized central-upper region with frequent multidirectional saccades and no strict horizontal line structure, resembling the exploratory, scattered pattern seen in the BROWSE example rather than the more linear READ pattern or the wider, more dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

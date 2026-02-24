@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Long, stable fixations with relatively small horizontal saccades clustered around mid\u2013upper screen y-values and modest vertical transitions closely resemble the line-by-line scanning and occasional line changes seen in the READ examples, rather than the larger exploratory jumps of BROWSE/SEARCH, high-motion shifts of PLAY/WATCH, or the far-upper-left bias typical of WRITE.",
+  "correct": false
+}

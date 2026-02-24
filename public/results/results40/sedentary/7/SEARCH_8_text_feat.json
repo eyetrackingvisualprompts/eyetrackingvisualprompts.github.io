@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Predominantly horizontal, line-like scanpaths with short progressive and regressive saccades clustered around a few vertical bands (y\u2248250\u2013350) and sustained fixations, closely matching the structured left-to-right text reading patterns seen in the READ examples rather than the more scattered, multi-directional exploration of browsing/searching or the focused code/IDE regions of programming tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows wide vertical and horizontal exploration across much of the screen with irregular saccades and scattered fixations, resembling the example SEARCH pattern more than the more localized patterns of READ, WRITE, BROWSE, or PLAY.",
+  "correct": false
+}

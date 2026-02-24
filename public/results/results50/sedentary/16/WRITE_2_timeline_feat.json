@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows frequent vertical transitions between two main horizontal bands with intermittent large saccades, matching the pattern of alternating attention between code editor and auxiliary UI elements characteristic of the WRITE task, and differing from the more linear scanpaths of READ/INTERPRET and the broader exploratory movements of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": true
+}

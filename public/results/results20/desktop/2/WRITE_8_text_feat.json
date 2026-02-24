@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region near the top-center with very long, stable fixations (often >1\u20132 s) and only tiny corrective saccades, matching the stationary typing/monitoring area seen in the WRITE examples rather than the more scanning, distributed patterns of READ, SEARCH, or BROWSE, or the wider movements in WATCH/PLAY.",
+  "correct": true
+}

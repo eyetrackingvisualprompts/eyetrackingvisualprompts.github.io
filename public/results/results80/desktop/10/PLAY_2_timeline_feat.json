@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Both X and Y fixations are confined to relatively narrow horizontal bands in the upper and lower parts of the screen, with small, regular saccades and minimal large vertical shifts\u2014matching the stable, line-by-line gaze pattern typical of typing in a word processor rather than the broader, more exploratory movements seen in browsing, searching, or playing.",
+  "correct": false
+}

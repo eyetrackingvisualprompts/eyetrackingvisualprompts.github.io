@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y gaze positions are very smooth with slow drifts and few saccades, indicating mostly continuous viewing of a central area rather than scanning text or interfaces, which matches the WATCH pattern.",
+  "correct": false
+}

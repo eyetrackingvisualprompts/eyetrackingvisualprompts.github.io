@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered near the screen center with multidirectional saccades and moderate vertical spread, similar to the SEARCH template where users scan results, snippets, and query fields rather than following strict text lines or focusing on a single static region.",
+  "correct": false
+}

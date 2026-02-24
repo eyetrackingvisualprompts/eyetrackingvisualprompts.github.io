@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates almost exclusively between two horizontal positions around \u00b115 DVA with long plateaus and rapid transitions, while vertical position stays near zero except for brief artifacts. This matches following a target moving horizontally back and forth, i.e., Horizontal Saccades.",
+  "correct": true
+}

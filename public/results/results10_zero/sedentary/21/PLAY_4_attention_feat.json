@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a relatively narrow central band across the screen, with little vertical spread and no clear left-to-right reading pattern or multiple column structure. This pattern is consistent with watching a fullscreen video where gaze follows central content rather than scanning text or UI elements.",
+  "correct": false
+}

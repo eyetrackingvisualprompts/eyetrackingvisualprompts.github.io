@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper half of the screen for X with relatively low, slowly drifting Y positions near the bottom half, resembling gaze anchored near a text area with occasional upward shifts, matching the WRITE template more than the other activities.",
+  "correct": false
+}

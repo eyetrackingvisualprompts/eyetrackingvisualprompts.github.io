@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long, repeated fixations clustered around a narrow code-like region with frequent short regressions and revisits to the same lines, and minimal large exploratory saccades, match the concentrated reasoning pattern seen in the INTERPRET examples rather than the more scanning-heavy WRITE/DEBUG or broader movements in BROWSE/SEARCH/WATCH/PLAY/READ.",
+  "correct": true
+}

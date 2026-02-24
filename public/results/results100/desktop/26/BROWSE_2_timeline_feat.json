@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions are centered with moderate, irregular saccades in both axes and no strong directional pattern (unlike horizontal scanning for READ/WRITE or large scene shifts in WATCH/PLAY), matching the variable yet balanced exploration typical of web/news browsing.",
+  "correct": true
+}

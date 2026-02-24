@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cover a moderately wide central area with frequent shifts between dispersed fixations, indicating active information foraging across different screen regions, which matches the SEARCH pattern more than the tighter READ pattern or the more localized BROWSE behavior.",
+  "correct": false
+}

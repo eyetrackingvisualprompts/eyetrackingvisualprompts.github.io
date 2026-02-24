@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The data shows very long saccades (several seconds) with relatively brief fixations and large vertical and horizontal transitions, consistent with scanning and navigating a search results page or multi-section webpage rather than the tighter, line-structured patterns of reading or the localized code-focused patterns of programming tasks.",
+  "correct": false
+}

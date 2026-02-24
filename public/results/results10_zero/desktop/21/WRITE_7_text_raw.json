@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points stay within a very small region near the screen center with minimal horizontal or vertical scanning and no clear line-by-line reading or large exploratory saccades. This stable, central fixation pattern over time is most consistent with passively watching a video rather than reading, searching, browsing, writing, or playing a game, all of which typically show broader, more structured eye movements.",
+  "correct": false
+}

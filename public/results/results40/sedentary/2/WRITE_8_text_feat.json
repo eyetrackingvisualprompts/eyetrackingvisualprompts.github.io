@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze remains constrained to a compact band in the upper/middle code area with many short regressions and re-inspections of nearby lines and columns, interleaved with occasional jumps to the very top of the screen and back\u2014closely matching the fine-grained, local comparison pattern seen in INTERPRET examples rather than the broader navigation and more dispersed scanning in DEBUG, SEARCH, or BROWSE.",
+  "correct": false
+}

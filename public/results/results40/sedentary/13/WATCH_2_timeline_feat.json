@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent, irregular saccades with substantial vertical span and non-systematic horizontal motion, indicating dynamic tracking of moving objects rather than structured reading or code inspection, which best matches the PLAY condition involving games like Pong or Agario.",
+  "correct": false
+}

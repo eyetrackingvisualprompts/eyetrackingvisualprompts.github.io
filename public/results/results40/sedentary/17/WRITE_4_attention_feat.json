@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the left-central region with some vertical spread and a few glances elsewhere, resembling the WRITE heatmap more than the tighter INTERPRET cluster or the more dispersed DEBUG/BROWSE patterns, suggesting focused coding with occasional shifts to other UI elements.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a small region near the top-left (likely a video content area) and one central area, with almost no structured horizontal or vertical scanpaths typical of reading, coding, or browsing. This sparse, stable pattern over 10 seconds is most consistent with passively watching a video rather than actively searching, reading, or interacting with code or games.",
+  "correct": false
+}

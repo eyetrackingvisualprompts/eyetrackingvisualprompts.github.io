@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered in the central mid-vertical region with slight horizontal spread, closely matching the browsing example heatmap and differing from the broader horizontal band of reading or upper-screen focus of writing and watching.",
+  "correct": false
+}

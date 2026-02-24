@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around mid-screen with moderate vertical shifts between ~0.3\u20130.6, combining medium-length fixations and frequent short saccades without clear line-by-line horizontal scanning (typical of READ) or the peripheral/extreme movements and large jumps seen in PLAY or WATCH. The pattern closely matches the mixed content and intermittent scrolling/element checking behavior characteristic of BROWSE in the examples.",
+  "correct": false
+}

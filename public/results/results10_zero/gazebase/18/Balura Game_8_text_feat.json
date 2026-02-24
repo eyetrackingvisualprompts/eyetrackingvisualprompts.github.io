@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, irregular jumps across both horizontal (\u2248\u00b122\u00b0) and vertical (\u2248\u00b117\u00b0) directions with fixations of a few hundred milliseconds at each location, matching a single target that relocates unpredictably around the screen rather than constrained horizontal motion, central fixation, line-structured reading, or clustered task-relevant regions as in video/game viewing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form mostly horizontal scanlines with small vertical shifts, characteristic of reading text line by line, and closely match the provided READ example pattern.",
+  "correct": false
+}

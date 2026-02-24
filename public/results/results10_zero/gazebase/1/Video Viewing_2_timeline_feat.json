@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions jump to discrete locations in both X and Y with roughly 1-second holds between movements and variable amplitudes in 2D space, matching a randomly moving target rather than purely horizontal, static, or reading-like patterns.",
+  "correct": false
+}

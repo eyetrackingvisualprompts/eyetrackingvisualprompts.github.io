@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions fluctuate around mid-screen in both axes with moderate, irregular saccades and no strong left-to-right line sweeps (reading) or top/bottom focus (watching, writing, playing). This mixed, scattered pattern best matches browsing heterogeneous web pages.",
+  "correct": false
+}

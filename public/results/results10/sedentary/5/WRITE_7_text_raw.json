@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dense clustered fixations and regressions around code-like coordinate regions, interspersed with occasional large vertical shifts (to console/other UI panels) and off-screen artifacts, closely resemble the WRITE example\u2019s pattern of frequent local code navigation and edits rather than the smoother, more linear patterns of READ/BROWSE or the broader sweeps of WATCH/PLAY/SEARCH.",
+  "correct": true
+}

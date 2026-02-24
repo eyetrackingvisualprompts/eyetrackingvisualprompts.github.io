@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are distributed in a compact horizontal band with small progressive shifts, matching the structured left-to-right scanning pattern typical of reading text, and differing from the more dispersed or multi-region patterns seen in browse, search, play, watch, or write activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points jump among scattered locations across both horizontal and vertical dimensions with no consistent row-like structure or strong central clustering, matching the irregular, widely distributed pattern characteristic of following a randomly moving target.",
+  "correct": false
+}

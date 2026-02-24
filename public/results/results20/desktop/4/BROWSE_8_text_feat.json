@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large vertical and diagonal saccades across wide screen regions (e.g., from lower center to upper or far corners and back), with relatively short, scattered fixations, indicative of tracking dynamic, spatially distributed game elements rather than the more structured, band-limited horizontal patterns seen in reading/browsing/search or the concentrated central clusters typical of watching video or writing at a text line.",
+  "correct": false
+}

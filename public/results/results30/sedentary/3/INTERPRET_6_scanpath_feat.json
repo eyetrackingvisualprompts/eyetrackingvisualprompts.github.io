@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a relatively small left-side code area with frequent vertical and horizontal shifts and occasional larger jumps, resembling the complex, dispersed scanpath of DEBUG rather than the tighter clusters of WRITE/INTERPRET or the broader distributions of PLAY/SEARCH/BROWSE/WATCH.",
+  "correct": false
+}

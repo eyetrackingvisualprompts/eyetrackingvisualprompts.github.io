@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense, sustained fixations in a compact region on the left (code editor) with repeated long saccades to the bottom/right and back (console, other UI panels), closely matching the WRITE example pattern of coding with occasional checks elsewhere rather than the more scattered or horizontal patterns of other tasks.",
+  "correct": false
+}

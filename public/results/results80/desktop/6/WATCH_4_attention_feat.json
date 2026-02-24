@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixations cluster around the central upper-middle region with moderate spatial spread, resembling the SEARCH example where gaze alternates between results and interface elements, rather than the tighter, more linear READ pattern or the more localized WRITE/PLAY clusters.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large vertical transitions between upper, middle, and lower screen regions (e.g., jumps from ~0.5\u20130.6 to ~0.1\u20130.2 and then up to ~0.8 y) with short to moderate fixations resemble scanning SERP results and moving between query box, result snippets, and lower content, matching the SEARCH pattern more than the more line-structured READ/WRITE or the more central, stable WATCH/BROWSE patterns.",
+  "correct": true
+}

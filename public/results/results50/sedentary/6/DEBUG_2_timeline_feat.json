@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze shows relatively stable, code-like reading with moderate horizontal progression and occasional regressions, similar to the INTERPRET example and less stationary than WRITE or more erratic than DEBUG/BROWSE/SEARCH/PLAY/WATCH/READ.",
+  "correct": false
+}

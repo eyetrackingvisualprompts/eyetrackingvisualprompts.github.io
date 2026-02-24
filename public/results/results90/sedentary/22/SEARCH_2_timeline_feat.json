@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The X fixation shows repeated left-to-right sweeps with line resets, while Y fixation gradually increases across the session, matching the characteristic horizontal reading lines and downward progression seen in the READ example.",
+  "correct": false
+}

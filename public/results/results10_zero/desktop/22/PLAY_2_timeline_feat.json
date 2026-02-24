@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains near screen center with small, smooth horizontal drifts and limited vertical change, consistent with passively watching a centrally focused video rather than the larger, systematic vertical scans of reading/writing or the broader exploratory movements of browsing/searching/playing.",
+  "correct": false
+}

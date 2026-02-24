@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a small central-upper region with short horizontal movements and stable fixations, matching the localized, line-by-line pattern of reading text rather than the broader, multidirectional exploration seen in search, browse, watch, or play tasks.",
+  "correct": false
+}

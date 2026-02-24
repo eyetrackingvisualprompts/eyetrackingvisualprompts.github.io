@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is highly concentrated on a compact region in the upper-left where the code snippet would be, with a few scattered fixations elsewhere, closely matching the focused, localized pattern seen in the INTERPRET example rather than the broader spread typical of DEBUG or READ.",
+  "correct": true
+}

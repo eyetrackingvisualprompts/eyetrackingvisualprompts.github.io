@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster in mid-lower screen with medium durations and frequent short saccades plus occasional medium jumps, resembling scanning mixed text/graphics regions as in browsing. Patterns lack the strict horizontal line sweeps of READ, the very wide exploratory jumps of PLAY/SEARCH, and the upper-screen bias typical for WATCH/WRITE in the examples.",
+  "correct": false
+}

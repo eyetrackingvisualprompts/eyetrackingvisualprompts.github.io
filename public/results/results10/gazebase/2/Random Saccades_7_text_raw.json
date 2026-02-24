@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large-amplitude jumps between widely separated screen regions with subsequent local stabilizations lasting on the order of ~1 s, matching the stepwise tracking of a randomly moving target rather than the more constrained horizontal motion, text-line structure, or complex exploration patterns of the other tasks.",
+  "correct": true
+}

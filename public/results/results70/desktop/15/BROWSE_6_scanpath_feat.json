@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely spread across both horizontal and vertical axes with frequent long saccades and no clear row-like or column-like reading/writing structure, resembling the dispersed, dynamic patterns seen when watching videos with multiple moving elements rather than the more clustered or linear patterns of search, browse, read, write, or play in the examples.",
+  "correct": false
+}

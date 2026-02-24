@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide screen regions (including edges and corners), rapid shifts between central and peripheral locations, and irregular, non-row-structured fixations. This spatiotemporal pattern aligns best with dynamic game interaction (PLAY) rather than the more structured, line-based or code/paragraph-centered patterns seen in READ/WRITE/INTERPRET/DEBUG or the smoother, more passive WATCH/BROWSE behaviors.",
+  "correct": true
+}

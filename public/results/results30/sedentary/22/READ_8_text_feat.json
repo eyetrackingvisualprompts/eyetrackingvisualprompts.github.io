@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Long sequences of horizontal fixations near the top suggest reading a search-results snippet, interleaved with large vertical saccades between the very top and very bottom regions where query/results and lower content or another page are likely, a pattern matching the SEARCH example more than other tasks.",
+  "correct": false
+}

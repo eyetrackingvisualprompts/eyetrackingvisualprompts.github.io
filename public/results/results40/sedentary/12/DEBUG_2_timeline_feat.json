@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively narrow central band with small horizontal shifts and modest vertical changes, indicating focused inspection of a compact code snippet rather than wide exploratory movements (SEARCH/BROWSE) or large dynamic motion (WATCH/PLAY); the pattern best matches the INTERPRET example, where code is read and mentally simulated with limited scanning.",
+  "correct": false
+}

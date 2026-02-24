@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal scanning over a code-like region with gradual upward drift, interspersed with short bursts of wider saccades and revisits, closely matching the DEBUG example pattern more than the steadier INTERPRET or more erratic SEARCH/BROWSE traces.",
+  "correct": false
+}

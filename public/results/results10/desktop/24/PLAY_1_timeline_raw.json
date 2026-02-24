@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal scanning with several abrupt shifts in both x and y, including segments with more erratic, exploratory movements rather than the regular line-by-line pattern of reading or the more stable patterns of watching/typing. This mixed scanning and jumping behavior best matches the SEARCH example dynamics.",
+  "correct": false
+}

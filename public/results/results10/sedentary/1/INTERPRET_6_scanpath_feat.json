@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a left-side code area with frequent transitions between a compact lower cluster and an upper line cluster, resembling shifting between code being edited and related lines, which matches the WRITE example more than the other tasks.",
+  "correct": false
+}

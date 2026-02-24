@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows irregular, multi-directional movements with varying vertical positions and frequent larger saccades, unlike the structured line-by-line patterns of reading or the narrower, more stationary patterns of coding-related tasks. This variability best matches the browsing example, where users scroll and inspect diverse webpage regions.",
+  "correct": false
+}

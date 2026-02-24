@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a compact code-like region with dense, repetitive fixations and short saccades, resembling the DEBUG example more than the other tasks, which show either wider exploration (SEARCH, BROWSE, WATCH, PLAY) or more linear reading patterns (READ, INTERPRET, WRITE).",
+  "correct": true
+}

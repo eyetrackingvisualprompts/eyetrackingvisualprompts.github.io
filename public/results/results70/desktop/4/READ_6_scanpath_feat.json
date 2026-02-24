@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide coverage of the screen with frequent long saccades in multiple directions and dispersed fixations, matching the highly dynamic, all-direction gaze movements seen in the PLAY example rather than the more clustered or horizontally banded patterns of reading, writing, browsing, searching, or watching.",
+  "correct": false
+}

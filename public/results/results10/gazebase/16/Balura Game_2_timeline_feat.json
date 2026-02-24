@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows irregular, multi-directional jumps in both X and Y with variable amplitudes and dwell times, lacking the strict horizontal pattern of horizontal saccades or the line-by-line structure of reading; this best matches the random target movements in the Random Saccades condition.",
+  "correct": false
+}

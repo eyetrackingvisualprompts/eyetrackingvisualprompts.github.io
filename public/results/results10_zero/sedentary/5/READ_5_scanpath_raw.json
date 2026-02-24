@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a mid-screen region with short, repeated left\u2013right and small vertical movements, characteristic of repeatedly scanning a code region while editing/typing, rather than the broader sweeping/reading or dynamic object-tracking patterns of other tasks.",
+  "correct": false
+}

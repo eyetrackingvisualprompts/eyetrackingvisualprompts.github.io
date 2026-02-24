@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow central band with relatively small horizontal and vertical movements and few large saccades, matching the stable, code-focused pattern seen in the INTERPRET example rather than the more exploratory or vertically scrolling patterns of tasks like BROWSE, READ, or SEARCH.",
+  "correct": false
+}

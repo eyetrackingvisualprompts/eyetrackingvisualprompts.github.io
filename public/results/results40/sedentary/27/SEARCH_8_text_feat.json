@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long horizontal sweeps and revisits between widely separated vertical regions (upper navigation area and mid-page content) with mixed scan patterns resemble web browsing behavior more than the other tasks, and closely match the example BROWSE dynamics around similar y-levels and repeated top-of-page transitions.",
+  "correct": false
+}

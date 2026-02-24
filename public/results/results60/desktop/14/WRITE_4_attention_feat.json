@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around a single central region, similar to focusing on one main area like a news article or headline, matching the concentrated yet static pattern seen in the BROWSE example more than the broader or more distributed patterns of other activities.",
+  "correct": false
+}

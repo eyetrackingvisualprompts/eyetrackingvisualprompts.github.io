@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow horizontal band with many short left-right saccades and medium/long fixations, matching line-by-line reading near the upper text region rather than the broader vertical exploration seen in search/browse or the more dispersed motions in play/watch/write.",
+  "correct": false
+}

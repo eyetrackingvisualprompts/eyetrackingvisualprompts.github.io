@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region slightly above screen center, indicating prolonged attention to a single compact area (typical of watching a video\u2019s focal region) rather than the horizontally/vertically distributed scan paths expected for reading, searching, browsing, writing, or gaming.",
+  "correct": false
+}

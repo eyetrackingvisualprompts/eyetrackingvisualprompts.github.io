@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is tightly clustered in a small central region with minimal horizontal or vertical scanning, indicating sustained attention to a central visual element (typical of watching a video) rather than the larger, systematic sweeps expected in reading, browsing, searching, or code-related tasks, or the wider movements typical in gameplay.",
+  "correct": false
+}

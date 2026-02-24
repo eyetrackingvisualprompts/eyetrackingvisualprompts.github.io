@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in a mid\u2011screen band with many short fixations and local saccades around central coordinates (\u22480.4\u20130.6 horizontally, 0.35\u20130.55 vertically), plus occasional jumps to slightly higher/lower regions. This pattern closely matches the BROWSE example (scanning mixed-layout content and UI controls) and differs from the more linear horizontal sweeps of READ, the left\u2011side concentration of WRITE, and the larger, more global shifts typical of SEARCH or PLAY.",
+  "correct": true
+}

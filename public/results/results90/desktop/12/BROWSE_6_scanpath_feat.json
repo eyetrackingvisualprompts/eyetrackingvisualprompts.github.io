@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze covers a wide vertical and horizontal range with frequent large saccades and dispersed fixations, unlike the more clustered/search-like BROWSE/SEARCH or line-structured READ/WRITE patterns. This broad, dynamic viewing behavior best matches watching a video.",
+  "correct": false
+}

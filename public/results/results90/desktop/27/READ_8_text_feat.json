@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long, stable fixations with small horizontal shifts around mid-screen lines and occasional downward steps, matching the sustained, line-by-line pattern seen in the READ examples more than the more dispersed or dynamic patterns of SEARCH, BROWSE, WATCH, PLAY, or the more top-area focused WRITE task.",
+  "correct": true
+}

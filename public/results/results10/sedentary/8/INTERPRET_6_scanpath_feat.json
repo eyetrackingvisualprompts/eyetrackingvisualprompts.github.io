@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered in the upper-left coding area with repeated short saccades among a small set of locations, resembling intensive code inspection seen in the DEBUG example rather than the more linear INTERPRET or WRITE patterns.",
+  "correct": false
+}

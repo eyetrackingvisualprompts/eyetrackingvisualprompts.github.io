@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Moderate, irregular horizontal movements with occasional vertical shifts and scattered saccades resemble scanning through search results and intermittently moving between snippets and different result sections, matching the SEARCH example more than the more systematic patterns of READ/BROWSE or the denser movements of DEBUG/PLAY/WATCH.",
+  "correct": false
+}

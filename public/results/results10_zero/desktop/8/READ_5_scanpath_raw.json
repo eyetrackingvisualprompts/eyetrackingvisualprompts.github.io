@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small horizontal band around mid\u2011screen with short, repetitive left\u2013right movements and minimal vertical shifts, consistent with focusing near a text entry line and nearby UI elements during writing rather than the broader vertical sweeps typical of reading or browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze remains confined to a narrow code/text region with many medium-long fixations, frequent regressions between closely spaced lines, and repeated revisits to the same coordinates\u2014matching the intensive, local reasoning pattern seen in INTERPRET examples rather than the broader scanning of SEARCH/BROWSE or the wider code navigation of DEBUG/WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered in a compact central region with moderate random movements and no strong horizontal reading pattern, resembling the browsing example more than the other activities.",
+  "correct": false
+}

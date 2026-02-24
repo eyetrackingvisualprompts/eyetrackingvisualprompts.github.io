@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows a horizontally extended cluster at mid-lower vertical positions with sequential fixations, resembling line-by-line scanning of text similar to the READ example, rather than the more localized clusters of WRITE, SEARCH, BROWSE, PLAY, or the dispersed WATCH pattern.",
+  "correct": false
+}

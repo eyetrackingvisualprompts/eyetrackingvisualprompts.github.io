@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band in the lower part of the screen with small, localized saccades and minimal vertical range, matching the example pattern for WRITE where attention stays near the text-entry area and upper interface bar, unlike the broader vertical movements seen in READ, SEARCH, BROWSE, WATCH, or PLAY.",
+  "correct": true
+}

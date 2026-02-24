@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points span a relatively broad vertical and horizontal region with multiple clusters and transitions, reflecting shifts between different on-screen elements (query box, results list, possibly different pages), which best matches the exploratory, multi-area viewing behavior typical of SEARCH compared with the more localized patterns of WRITE, BROWSE, READ, or PLAY.",
+  "correct": false
+}

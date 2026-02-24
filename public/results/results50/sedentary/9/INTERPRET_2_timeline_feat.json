@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows frequent medium-range horizontal shifts between low Y values (code area) and occasional higher Y excursions (toolbars/console), with many short fixations and saccades resembling the WRITE example more than the other tasks, indicating active code editing rather than passive reading or free browsing.",
+  "correct": false
+}

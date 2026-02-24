@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between far-separated regions (including off-screen coordinates), revisits to top UI-like areas, and scattered scanpaths resemble search engine/result page exploration patterns more than the more structured, code- or text-line\u2013oriented patterns of WRITE/READ/DEBUG/INTERPRET or the more scene-centric patterns of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

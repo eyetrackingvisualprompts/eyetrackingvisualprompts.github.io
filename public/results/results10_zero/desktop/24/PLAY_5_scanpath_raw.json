@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows frequent multidirectional saccades within a compact central region, lacking the systematic horizontal/vertical line patterns typical of reading, writing, or text-heavy browsing/searching. The dense, irregular gaze shifts with no clear structure are more consistent with tracking dynamic game elements than with watching a video (which usually has smoother, larger movements), so PLAY is the most likely class.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal movements with frequent shifts between mid and upper screen regions, indicating alternation between results and other elements (e.g., query box/links), which aligns best with the SEARCH pattern compared to the more stable READ/BROWSE or more extreme PLAY/WATCH trajectories.",
+  "correct": false
+}

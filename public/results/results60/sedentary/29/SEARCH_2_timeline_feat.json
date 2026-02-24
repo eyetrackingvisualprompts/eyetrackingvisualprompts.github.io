@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated horizontal sweeps with steadily increasing X positions and moderate Y drift, indicating line-by-line reading interspersed with larger exploratory saccades across different screen regions, which matches the mixed reading and exploratory pattern typical of free web browsing rather than focused code reading/debugging or passive video watching.",
+  "correct": false
+}

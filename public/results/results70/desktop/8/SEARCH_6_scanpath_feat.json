@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is distributed over a broad central region with frequent medium-range saccades and revisits, lacking the tight horizontal band of reading/writing and the peripheral spread of watching/playing. This mixed, cluster-heavy pattern best matches web/news browsing behavior.",
+  "correct": false
+}

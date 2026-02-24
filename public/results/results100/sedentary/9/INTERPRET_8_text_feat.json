@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations and short saccades clustered around a constrained central-left code area, with repeated revisits between similar line-level y-coordinates (\u2248200\u2013350 px and \u2248450\u2013550 px) and occasional long jumps, matches the structured, line-by-line inspection and re-checking typical of debugging rather than the more linear scan of READ or the broader spatial exploration of BROWSE/SEARCH/PLAY.",
+  "correct": false
+}

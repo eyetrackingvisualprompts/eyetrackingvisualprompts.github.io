@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like region with short, local saccades and revisits within a narrow band, plus occasional jumps to top-of-screen coordinates (e.g., toolbar/line numbers) and back\u2014very similar to the INTERPRET example patterns and less dispersed than WRITE/DEBUG, which show more extensive vertical and peripheral exploration.",
+  "correct": false
+}

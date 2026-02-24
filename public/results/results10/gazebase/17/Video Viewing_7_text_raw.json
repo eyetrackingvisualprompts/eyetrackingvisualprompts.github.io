@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The trajectory shows long, predominantly horizontal movements with gradual regressions and clusters of small adjustments along roughly constant vertical bands, interleaved with occasional larger shifts\u2014matching the left\u2011to\u2011right, line\u2011by\u2011line scan pattern and return sweeps characteristic of reading, and closely resembling the provided Reading example structure in scale and dynamics.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a relatively compact cluster with moderate movements in both horizontal and vertical directions, lacking the systematic line-by-line horizontal sweeps of reading or the broad, dispersed exploration of playing or searching. This pattern best matches browsing behavior on news/blog pages, where attention alternates between nearby content regions without large jumps across the entire screen.",
+  "correct": false
+}

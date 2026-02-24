@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide-ranging gaze movements across much of the screen, with frequent directional changes and dispersion in both X and Y, resembling continuous, exploratory tracking typical of game play rather than the more localized or structured patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

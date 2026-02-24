@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, repeated long-range saccades between central/upper text-like area and far right region, with extended vertical movements near the bottom of the screen, match scanning SERP/results and jumping across page sections typical of the SEARCH task, rather than the more locally constrained patterns of READ/WRITE/INTERPRET or the object-following/game-like PLAY trajectories.",
+  "correct": false
+}

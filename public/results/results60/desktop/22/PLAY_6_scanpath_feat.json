@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a mid-horizontal band with small horizontal progressions and limited vertical spread, matching the structured line-by-line pattern typical of reading text rather than the broader, more scattered movements in browsing, search, or gameplay.",
+  "correct": false
+}

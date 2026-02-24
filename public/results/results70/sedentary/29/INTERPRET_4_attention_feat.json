@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated in a narrow left-central code area with a secondary nearby cluster, matching the focused but slightly more distributed pattern typical of DEBUG rather than the tighter single-block focus seen in WRITE or INTERPRET.",
+  "correct": false
+}

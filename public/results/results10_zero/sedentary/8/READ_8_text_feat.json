@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows long sweeping saccades across large screen regions with relatively few and short fixations, including a very long upward/diagonal saccade suggestive of tracking or anticipating a moving object rather than line-by-line reading or code inspection. This dynamic, spatially wide pattern best matches interactive gameplay (e.g., Mario or Agario) instead of the more local, clustered, and fixation-heavy patterns typical of READ, INTERPRET, DEBUG, WRITE, or SEARCH/BROWSE tasks, and unlike the more centrally focused, smoother WATCH behavior.",
+  "correct": false
+}

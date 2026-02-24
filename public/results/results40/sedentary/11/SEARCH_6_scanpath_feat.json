@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows multiple horizontal reading-like sweeps at several vertical levels plus occasional long vertical and diagonal transitions across widely separated regions, matching web browsing through different parts of pages rather than sustained reading on a single text block.",
+  "correct": false
+}

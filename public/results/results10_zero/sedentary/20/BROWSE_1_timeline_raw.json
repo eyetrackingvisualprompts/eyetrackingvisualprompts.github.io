@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long periods of relatively stable X/Y positions with occasional large, rapid shifts to new regions, consistent with following changing visual content on a video rather than systematic line-by-line scanning or code-focused tasks.",
+  "correct": false
+}

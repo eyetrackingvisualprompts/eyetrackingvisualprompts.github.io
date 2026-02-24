@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large vertical jumps and horizontal shifts between distinct regions, consistent with scanning search results and moving between results, snippets, and possibly new pages, matching the SEARCH pattern more than the steadier or more localized movements of the other tasks.",
+  "correct": false
+}

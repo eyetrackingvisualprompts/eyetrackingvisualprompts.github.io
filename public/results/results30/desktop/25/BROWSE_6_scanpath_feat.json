@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows clustered fixations in the central-upper area with moderate exploratory saccades in multiple directions, resembling the SEARCH example more than the more linear READ/WRITE patterns or the denser BROWSE/play/watch distributions.",
+  "correct": false
+}

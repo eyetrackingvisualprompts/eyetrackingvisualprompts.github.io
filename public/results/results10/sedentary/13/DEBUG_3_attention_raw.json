@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered on the left side of the screen across multiple vertical positions, matching the localized code-panel viewing seen in the INTERPRET example rather than the more horizontally spread read/search/browse patterns or central focus of watch/play.",
+  "correct": false
+}

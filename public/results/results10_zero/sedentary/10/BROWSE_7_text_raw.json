@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze moves smoothly and continuously across wide horizontal ranges with substantial vertical shifts, without the structured horizontal-line patterns of reading or the dense clustered fixations around code/text typical of programming tasks. The trajectory suggests following dynamic on-screen content over much of the display area, which best matches a video-watching scenario.",
+  "correct": false
+}

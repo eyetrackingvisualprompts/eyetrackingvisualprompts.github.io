@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a results-like horizontal line at y\u2248220\u2013240 and lower content regions, with many medium-length saccades between widely separated x-positions, including occasional large jumps (e.g., to ~1000 px then back). The pattern shows scanning across headings/snippets and revisiting top-of-page areas, which aligns more with web search result exploration than the more systematic line-by-line READ, code-focused WRITE/DEBUG/INTERPRET, or free-form BROWSE and dynamic PLAY/WATCH behaviors.",
+  "correct": true
+}

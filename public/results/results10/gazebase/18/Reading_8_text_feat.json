@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze positions stay within a narrow vertical band that gradually steps downward (from around y\u2248-2 to y\u2248-8), with predominantly horizontal saccades and short interleaved fixations\u2014this line\u2011by\u2011line left\u2011to\u2011right, return\u2011sweep horizontal pattern matches the Reading example and differs from the more 2D, irregular movements in Video Viewing, Random Saccades, and Balura Game.",
+  "correct": true
+}

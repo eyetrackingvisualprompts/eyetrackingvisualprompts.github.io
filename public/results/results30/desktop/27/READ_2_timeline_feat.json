@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixation positions fluctuate around the screen center with frequent medium\u2011amplitude saccades in varying directions, indicating scattered exploration rather than orderly horizontal reading or stable watching/playing. This mixed, exploratory pattern matches the browsing behavior shown in the BROWSE example.",
+  "correct": false
+}

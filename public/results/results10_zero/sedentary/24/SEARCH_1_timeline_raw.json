@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows smooth, gradual drift in X with relatively stable Y and few discrete line-like regressions, characteristic of following motion or global scene changes in a video rather than line-by-line reading or code inspection patterns.",
+  "correct": false
+}

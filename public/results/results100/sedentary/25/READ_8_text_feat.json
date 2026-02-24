@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows orderly, mostly horizontal scanpaths with dense fixations advancing in regular steps across several vertically separated bands (around y\u2248170, 260\u2013360, 400\u2013520, 550\u2013620, 630\u2013700, 720\u2013760), consistent with line-by-line text reading and paragraph transitions rather than code (INTERPRET/DEBUG/WRITE), dynamic targets (PLAY/WATCH), or scattered exploration (SEARCH/BROWSE).",
+  "correct": true
+}

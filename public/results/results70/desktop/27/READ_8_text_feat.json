@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly constrained to a narrow horizontal band with long, stable fixations and short horizontal saccades, forming repeated left\u2011to\u2011right passes consistent with reading text lines, but occurring in a lower vertical region than the example READ block; still, the structured, line-like scanning differentiates it from the more scattered patterns in SEARCH/BROWSE/PLAY and the upper-screen focus in WATCH/WRITE.",
+  "correct": true
+}

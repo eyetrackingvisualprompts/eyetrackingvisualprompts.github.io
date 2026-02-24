@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze positions show discrete steps held about 1 s at varying, irregular x and y locations across both horizontal and vertical ranges, matching a target that jumps to random positions rather than strictly horizontal oscillation, central fixation, reading, game interaction, or free video viewing.",
+  "correct": true
+}

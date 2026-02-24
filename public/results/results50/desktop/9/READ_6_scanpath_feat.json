@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated cluster with smooth, left-to-right progression and a relatively narrow vertical range, characteristic of line-by-line reading rather than the more scattered or multi-directional patterns seen in search, browsing, watching, playing, or writing tasks.",
+  "correct": true
+}

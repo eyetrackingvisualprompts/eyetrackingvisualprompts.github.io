@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-distance saccades between a central code-like area and peripheral/top regions, with many revisits to similar coordinates and extended local inspection, closely matches the exploratory, back-and-forth pattern seen in the DEBUG examples rather than the more linear (READ) or scan-based (SEARCH/BROWSE) behaviors.",
+  "correct": true
+}

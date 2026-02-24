@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a compact, horizontally-elongated band around mid-x with very narrow vertical spread, characteristic of following lines of text as in the provided READ example, unlike the more scattered or multi-region patterns of other activities.",
+  "correct": false
+}

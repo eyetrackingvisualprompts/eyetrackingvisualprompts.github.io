@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are spread over a mid-screen vertical strip with frequent saccades in multiple directions and no clear horizontal reading lines or stable upper-band focus, resembling exploratory navigation of varied page elements typical of browsing behavior rather than structured reading, writing, video watching, or game play.",
+  "correct": false
+}

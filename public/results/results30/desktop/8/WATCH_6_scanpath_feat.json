@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows dispersed fixations across both central and right regions with frequent medium-length saccades and revisits, indicating exploration of multiple screen areas typical of web/news browsing rather than the more linear patterns of reading or the more localized patterns of writing or watching video.",
+  "correct": false
+}

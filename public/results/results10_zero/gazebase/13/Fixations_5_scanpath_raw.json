@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps to widely separated positions (including near top-left and lower-central regions) with relatively stable periods at each location rather than continuous tracking or line-by-line reading. This pattern matches following a randomly moving target that holds each position for about one second, characteristic of the Random Saccades task.",
+  "correct": false
+}

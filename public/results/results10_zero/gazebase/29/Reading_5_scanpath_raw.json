@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete gaze jumps to separated locations (top, center, bottom) with relatively stable periods at each position, involving both vertical and some horizontal movements across a wide screen area\u2014consistent with following a randomly moving target rather than purely horizontal saccades, sustained central fixation, or the denser, more localized patterns of reading, video viewing, or the Balura game.",
+  "correct": false
+}

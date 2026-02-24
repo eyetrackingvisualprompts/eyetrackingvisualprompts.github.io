@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in the upper-left to mid-left region with relatively low Y values and limited vertical range, resembling the gaze anchored near a text-entry area and toolbar rather than scanning the whole page. The pattern matches the WRITE example more than the broader, more exploratory movements seen in SEARCH, BROWSE, or PLAY.",
+  "correct": true
+}

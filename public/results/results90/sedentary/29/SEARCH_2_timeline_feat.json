@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, continuous movements across both axes with variable saccades and no consistent horizontal line-scan pattern of reading or browsing. The dynamics resemble tracking changing on-screen content, matching the WATCH (video viewing) example most closely.",
+  "correct": false
+}

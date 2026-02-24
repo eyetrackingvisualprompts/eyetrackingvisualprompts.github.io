@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around a confined code-like region with many short fixations and small saccades, interspersed with occasional large jumps to other areas and back, indicating repeated checking, revisiting, and verification consistent with debugging behavior rather than linear reading, free browsing, or video watching.",
+  "correct": false
+}

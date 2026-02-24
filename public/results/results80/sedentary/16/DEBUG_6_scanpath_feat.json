@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is confined to the left side where search results and snippets typically appear, with vertical movements between result titles and snippets but little exploration of the right side or horizontal reading, matching the SEARCH pattern more than code-focused or full-page reading tasks.",
+  "correct": false
+}

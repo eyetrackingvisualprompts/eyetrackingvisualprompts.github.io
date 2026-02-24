@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points show frequent large-amplitude shifts and scattered coverage across wide vertical and horizontal regions, consistent with visually tracking dynamic elements and monitoring multiple screen areas in a game, rather than the more line-structured, locally clustered patterns typical of reading, coding, or web search/browsing.",
+  "correct": false
+}

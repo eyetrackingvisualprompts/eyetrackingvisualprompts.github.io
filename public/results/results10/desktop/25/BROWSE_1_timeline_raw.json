@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows step-like horizontal shifts around a mid-screen Y position with occasional vertical jumps, matching the browsing example where users scroll and switch between regions, rather than the more regular scanpaths of reading or the larger motions of play/watch/search.",
+  "correct": true
+}

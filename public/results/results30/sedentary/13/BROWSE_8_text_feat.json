@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent long-range vertical moves between top, mid, and bottom regions, revisits to multiple scattered areas, and no stable line-by-line pattern. This mixed scanning of different screen zones with intermittent localized inspection matches free web browsing more than the more structured, localized patterns of reading or code-related tasks, and lacks the smooth central focus typical of video watching or the strong object-tracking jumps of gameplay.",
+  "correct": true
+}

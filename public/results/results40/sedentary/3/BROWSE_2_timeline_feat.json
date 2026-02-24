@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium horizontal span with repeated localized scanning and revisits, plus several vertical shifts between code and output/controls, matching the complex, iterative visual pattern typical of debugging rather than the more linear or uniform patterns of reading, writing, or watching.",
+  "correct": false
+}

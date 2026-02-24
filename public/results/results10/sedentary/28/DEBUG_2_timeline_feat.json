@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y fixation positions show continuous, smooth changes over time with large vertical and horizontal shifts and no clear line-by-line pattern, matching the dynamic gaze behavior seen when watching videos rather than the more structured or localized movements in reading, coding, or browsing tasks.",
+  "correct": false
+}

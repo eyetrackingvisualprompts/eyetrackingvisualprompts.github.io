@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y gaze positions show discrete step-like changes to various locations across the screen with ~1 s plateaus between movements and variable amplitudes in both dimensions, matching a target that jumps to random positions rather than purely horizontal or static fixation.",
+  "correct": false
+}

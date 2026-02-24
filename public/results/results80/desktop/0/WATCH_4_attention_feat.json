@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the central region with vertical spread and scattered clusters, matching the search example where gaze alternates between results list, snippets, and other page elements, unlike the more linear (READ/WRITE) or peripheral (PLAY/WATCH) patterns.",
+  "correct": false
+}

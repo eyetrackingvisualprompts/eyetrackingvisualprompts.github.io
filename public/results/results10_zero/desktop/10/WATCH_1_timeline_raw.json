@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions change in a few broad steps with long stable plateaus and occasional brief saccadic bursts, indicating mainly passive viewing of a moving scene rather than systematic line-by-line scanning (READ), vertical scrolling and navigation (BROWSE/SEARCH), or fine local movements around a cursor or typing area (WRITE/PLAY). This pattern best matches watching a video clip on the screen.",
+  "correct": true
+}

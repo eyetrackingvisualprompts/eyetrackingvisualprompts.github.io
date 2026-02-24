@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long-range saccades between widely separated vertical regions (top, bottom, off-screen negative coordinates) and horizontal sweeps across a mid-screen band resemble scanning SERP and page content; pattern and amplitudes align with SEARCH example more than the more structured line-wise patterns of READ/BROWSE or localized code-focused viewing of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

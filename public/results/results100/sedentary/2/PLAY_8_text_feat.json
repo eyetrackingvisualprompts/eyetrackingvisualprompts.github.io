@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large saccades across wide screen regions, frequent revisits to central play area, and mixed short and long fixations around mid-screen coordinates resemble dynamic object tracking and anticipation patterns seen in the PLAY examples, rather than the more linear or text-structured patterns of READ/SEARCH/BROWSE or the localized, code-panel-focused patterns of DEBUG/WRITE/INTERPRET.",
+  "correct": true
+}

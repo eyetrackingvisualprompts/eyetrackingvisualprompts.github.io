@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points cover a moderately wide central area with frequent transitions between several nearby regions, resembling exploratory scanning of search results and related pages; this pattern matches the SEARCH example more than the more localized READ/WRITE or more chaotic PLAY distributions.",
+  "correct": false
+}

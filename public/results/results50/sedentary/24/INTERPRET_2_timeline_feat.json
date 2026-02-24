@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze positions are concentrated in a narrow horizontal band with small, steady fixations and minimal large saccades, closely matching the stable, code-focused pattern seen in the WRITE example rather than the more exploratory or vertically varying patterns of other tasks.",
+  "correct": false
+}

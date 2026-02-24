@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on a relatively narrow left-central code area with repeated vertical and diagonal transitions between closely spaced regions, matching the focused, back-and-forth inspection of code typical for interpreting output rather than the more localized cluster of debugging or the broader spread of browsing/searching.",
+  "correct": false
+}

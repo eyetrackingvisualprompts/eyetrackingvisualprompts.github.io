@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a narrow horizontal band with very small vertical changes and smooth horizontal drifts, indicating following content in roughly the same screen region without line-by-line reading or code scanning, which best matches passively watching a video.",
+  "correct": false
+}

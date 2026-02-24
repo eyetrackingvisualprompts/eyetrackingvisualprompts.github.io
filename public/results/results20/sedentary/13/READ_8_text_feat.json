@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form long, smooth horizontal scanpaths around a consistent vertical band with short fixations and small regressions, characteristic of line-by-line text reading rather than the larger exploratory jumps seen in browsing, search, or gameplay.",
+  "correct": true
+}

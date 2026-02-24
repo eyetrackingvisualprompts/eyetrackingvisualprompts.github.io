@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent returns between code region (~y\u2248150\u2013250) and output/console region (~y\u2248550\u2013700), with many local inspections around mid-screen and occasional large off-screen saccades, matches the code-editing and run-check cycles seen in WRITE examples more than the other tasks.",
+  "correct": false
+}

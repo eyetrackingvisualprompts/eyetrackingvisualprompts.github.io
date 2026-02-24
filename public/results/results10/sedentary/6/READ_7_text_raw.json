@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Target data shows large, frequent gaze shifts across wide screen areas (including extremes and corners), strong vertical and horizontal dispersion, and many rapid transitions between clustered regions\u2014patterns consistent with tracking moving game elements rather than line-by-line reading, code inspection, or static web layouts, and most similar to the PLAY example distribution.",
+  "correct": false
+}

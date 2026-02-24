@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically on the left side, including a distinct lower cluster suggestive of result list or related content below, matching the more distributed, multi-region pattern of SEARCH rather than the more compact code or text areas of WRITE/INTERPRET/READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions in both X and Y vary moderately around the screen center with frequent small saccades and no strong directional trend, closely matching the scattered, mid-screen exploration seen in the BROWSE example rather than the more structured or edge-focused patterns of reading, writing, watching, searching, or playing games.",
+  "correct": true
+}

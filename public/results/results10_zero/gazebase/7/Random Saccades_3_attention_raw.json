@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple distinct fixation clusters scattered across the screen, covering both horizontal and vertical extents without forming a strong central cluster, line-like reading pattern, or purely horizontal trajectory. This dispersed pattern best matches following a randomly moving bull\u2019s-eye target (Random Saccades).",
+  "correct": true
+}

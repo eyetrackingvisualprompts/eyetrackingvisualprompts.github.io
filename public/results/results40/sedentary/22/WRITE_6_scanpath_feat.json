@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on the left code area with frequent shifts between slightly separated regions and occasional long saccades to a distant point, matching the dispersed, back-and-forth pattern of the DEBUG example more than the tighter clusters of WRITE or INTERPRET.",
+  "correct": false
+}

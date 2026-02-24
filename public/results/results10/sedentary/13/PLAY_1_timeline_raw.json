@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-sized horizontal shifts and vertical transitions between regions, indicating scanning and navigating across different webpage areas rather than stable reading lines or code-focused behavior; this pattern most closely matches the BROWSE example.",
+  "correct": false
+}

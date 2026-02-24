@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic, step-like horizontal movements with relatively small vertical shifts, consistent with line-by-line text reading rather than large exploratory saccades or focused tracking typical of video watching, games, or coding tasks.",
+  "correct": false
+}

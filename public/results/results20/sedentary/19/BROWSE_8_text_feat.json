@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent shifts between upper/left code-like region and lower areas, with large vertical saccades to near-bottom/near-offscreen locations and back to mid/upper screen, resemble navigating and editing code in an IDE as seen in WRITE examples, rather than the more line-structured patterns of READ/SEARCH or the more stimulus-driven patterns of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

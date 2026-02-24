@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze jumps across wide screen areas including edges and off-screen coordinates, with many rapid revisits to central playfield-like regions and vertical excursions, resemble dynamic tracking and spatial exploration patterns seen in the PLAY examples rather than the more localized, line- or code-structured patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

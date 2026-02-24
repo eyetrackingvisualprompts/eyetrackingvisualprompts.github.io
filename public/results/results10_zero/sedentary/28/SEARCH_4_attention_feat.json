@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in two vertically separated zones on the left side of the screen, consistent with focused reading of text in a narrow column rather than dispersed scanning, dynamic tracking, or code editing/debugging across a wider area.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are highly concentrated around a single central region with a few horizontal shifts, resembling attention to a main focal area in a video rather than the broader spread of SEARCH/BROWSE or structured line patterns of READ/WRITE/DEBUG/INTERPRET. This matches the WATCH exemplar most closely.",
+  "correct": false
+}

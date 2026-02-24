@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains clustered very close to a single location with only tiny positional changes and very long fixation durations (often >1\u20132 s), indicating sustained fixation on a static central target rather than large, systematic or reading-like saccadic movements.",
+  "correct": true
+}

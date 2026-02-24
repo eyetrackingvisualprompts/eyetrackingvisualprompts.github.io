@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Long, stable fixations with occasional large saccades to distant regions (including outside normalized bounds like y>1.0), plus shifts between upper and central/lower areas, match passive viewing of dynamic scenes in WATCH more than the tighter, line- or text-oriented patterns seen in READ/WRITE or the denser, interface-focused scanpaths in BROWSE/SEARCH/PLAY.",
+  "correct": false
+}

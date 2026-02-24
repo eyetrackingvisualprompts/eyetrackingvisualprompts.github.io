@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a mid-screen region with moderate dispersion and multidirectional saccades, resembling the browsing example more than the more linear READ/WRITE patterns or the multi-cluster PLAY pattern.",
+  "correct": false
+}

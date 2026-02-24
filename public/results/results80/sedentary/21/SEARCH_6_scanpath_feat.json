@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Scanpath shows extended horizontal sweeps across mid-screen with some vertical transitions, consistent with reading and scrolling through web pages during free browsing, rather than the tighter central clusters of coding tasks or the more uniformly spread patterns of watching or playing.",
+  "correct": false
+}

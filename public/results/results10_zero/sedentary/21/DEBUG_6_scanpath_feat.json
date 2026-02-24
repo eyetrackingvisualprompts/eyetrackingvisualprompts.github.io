@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small central-left region with minimal horizontal or vertical scanning and few long saccades, indicating sustained attention to a single, relatively static area\u2014characteristic of watching a video rather than reading, coding, searching, or playing a game, which would show broader, more systematic scan patterns.",
+  "correct": false
+}

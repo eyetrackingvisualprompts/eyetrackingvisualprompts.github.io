@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like area with many short bidirectional saccades and medium\u2013long fixations around a few vertical/horizontal bands, including repeated revisits between closely spaced y-levels and occasional jumps to a small set of reference locations\u2014matching the localized, revisiting, output-reasoning pattern seen in INTERPRET rather than the broader navigation of SEARCH/BROWSE or the line-wise scanning of READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated in a few vertically separated clusters on the left side of the screen, similar to the DEBUG example where attention alternates between code lines and related areas, rather than the single compact cluster of INTERPRET or the more dispersed patterns of other tasks.",
+  "correct": false
+}

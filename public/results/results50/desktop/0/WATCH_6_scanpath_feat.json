@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows dispersed fixations across multiple horizontal regions with several clusters and frequent transitions, indicating non-linear exploration of different on-screen areas typical for browsing heterogeneous web pages rather than the more structured patterns of reading, writing, or focused gameplay/search tasks.",
+  "correct": false
+}

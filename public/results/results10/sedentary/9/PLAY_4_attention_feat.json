@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are scattered across a wide vertical and horizontal area, including central, upper, and lower screen regions, resembling scanning of results and page areas; this pattern matches the SEARCH example more than the more localized or structured patterns of other tasks.",
+  "correct": false
+}

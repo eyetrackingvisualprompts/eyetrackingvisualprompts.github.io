@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in smooth, mostly horizontal sweeps within narrow vertical bands, with frequent short left-right saccades and clustered fixations that systematically step downward over time\u2014characteristic of line-by-line reading rather than code-centric (WRITE/DEBUG/INTERPRET) or highly scattered exploratory patterns (SEARCH/BROWSE/PLAY/WATCH).",
+  "correct": true
+}

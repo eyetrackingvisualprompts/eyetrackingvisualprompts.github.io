@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze stays mostly within the code region with repeated short saccades and long fixations around a few nearby lines, including back-and-forth between mid and lower code areas, characteristic of mentally simulating and reasoning about an existing snippet rather than broadly scanning (SEARCH/BROWSE) or continuously writing (WRITE/DEBUG). This tightly clustered, line-revisiting pattern best matches the INTERPRET examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays within a narrow vertical band while Y position shows discrete step-like shifts downward over time, consistent with line-by-line reading and occasional regressions rather than large exploratory or dynamic movements typical of SEARCH, BROWSE, PLAY, or WATCH.",
+  "correct": false
+}

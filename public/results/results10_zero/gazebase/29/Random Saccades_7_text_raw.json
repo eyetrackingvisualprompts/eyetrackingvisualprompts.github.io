@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, multi-directional jumps across widely separated positions (both horizontally and vertically), followed by relatively stable clusters indicative of brief fixations at each location. This pattern matches a target that moves unpredictably across the screen with ~1 s holds, as in the Random Saccades task, rather than the strictly horizontal, central, or structured patterns expected for the other activities.",
+  "correct": true
+}

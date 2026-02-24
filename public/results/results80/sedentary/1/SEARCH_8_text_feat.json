@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long horizontal scanpaths across mid-screen, repeated returns to similar horizontal bands, and many large saccades to extreme off-page coordinates and back resemble scrolling and sporadic attention shifts typical of general web browsing rather than structured reading, coding, or continuous object tracking seen in games or video watching.",
+  "correct": false
+}

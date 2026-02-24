@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a moderately wide central area with varied vertical and horizontal movements, similar to the exploratory, multi-region scanpath seen in the BROWSE example, rather than the more linear patterns of READ/WRITE or the constrained regions of WATCH/PLAY.",
+  "correct": true
+}

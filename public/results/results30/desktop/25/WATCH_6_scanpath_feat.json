@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows predominantly horizontal movements with relatively stable vertical position and clustered fixations along a narrow band, characteristic of line-by-line text reading rather than the more dispersed or multi-directional patterns of search, browse, play, watch, or write tasks.",
+  "correct": false
+}

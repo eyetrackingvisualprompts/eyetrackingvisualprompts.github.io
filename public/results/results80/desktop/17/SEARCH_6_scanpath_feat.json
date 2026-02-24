@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations across both central and side regions with frequent medium-length saccades in multiple directions, indicating exploration of various elements (results list, query box, related links). This broader, less centrally clustered pattern aligns more with web searching behavior than the tighter central clusters of browsing or the structured horizontal lines of reading.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed across mid-screen with both vertical and horizontal movements, showing transitions between two height bands similar to navigating through mixed content, which aligns best with browsing behavior rather than the more constrained patterns of reading or the upper-screen focus of watching or writing.",
+  "correct": false
+}

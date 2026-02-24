@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow vertical strip on the left side with mostly small horizontal shifts and moderate vertical movements, consistent with reading text in a column rather than wide exploration, code editing, or dynamic object tracking.",
+  "correct": false
+}

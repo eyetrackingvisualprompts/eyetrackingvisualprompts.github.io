@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The gaze shows many medium-length transitions between dispersed locations (large coordinate changes) interleaved with extended local fixations on specific positions, matching the pattern of repeatedly fixating moving game targets rather than strictly horizontal oscillations, continuous reading lines, or static central fixation.",
+  "correct": false
+}

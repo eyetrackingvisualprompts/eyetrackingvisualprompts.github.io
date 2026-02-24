@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze jumps between widely separated positions in both horizontal (up to ~25\u201327\u00b0) and vertical (~12\u201313\u00b0) directions, with each new location held roughly a few hundred milliseconds to around a second, matching a stimulus that steps to randomized positions across the screen rather than purely horizontal motion, continuous reading lines, central fixation, or complex game/video-driven scanning.",
+  "correct": true
+}

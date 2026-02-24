@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows large, rapid shifts in both X and Y with wide vertical range and irregular patterns, including segments of intense movement around the middle of the window, which aligns best with the dynamic, multidirectional eye movements typical of gameplay rather than the more structured, line-based or top-heavy patterns seen in reading, writing, browsing, searching, or watching video.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent, large and rapid changes in both X and Y positions with irregular peaks and dips indicate dynamic gaze shifts in multiple directions, matching the pattern typical of playing action games rather than the more structured or smoother movements seen in reading, writing, browsing, searching, or watching video.",
+  "correct": false
+}

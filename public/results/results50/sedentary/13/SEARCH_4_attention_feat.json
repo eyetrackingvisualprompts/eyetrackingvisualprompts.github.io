@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are distributed across a wide horizontal band with one strong cluster near the upper center, resembling following dynamic content in a video rather than the more columnar, text-like or code-focused patterns seen in READ/WRITE/DEBUG/INTERPRET, or the more scattered exploratory patterns in SEARCH/BROWSE/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long horizontal scan paths across wide x-coordinates, repeated sweeps over mid-page text-like regions, and many rapid jumps between content and browser chrome/top areas match the SEARCH exemplars more closely than the more localized code views (DEBUG/WRITE/INTERPRET) or continuous media (PLAY/WATCH). The pattern resembles scanning SERP and result pages with frequent refocusing rather than structured code or prose reading.",
+  "correct": false
+}

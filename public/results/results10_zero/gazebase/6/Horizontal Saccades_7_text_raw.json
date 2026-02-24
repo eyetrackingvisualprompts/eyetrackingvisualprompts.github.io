@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates in large, predominantly horizontal excursions between approximately +15 to +18 and -14 to -16 degrees with relatively small vertical variation, and between these transitions the gaze stabilizes around each extreme, consistent with tracking a horizontally moving target that pauses at each side rather than random or text-like scanning.",
+  "correct": true
+}

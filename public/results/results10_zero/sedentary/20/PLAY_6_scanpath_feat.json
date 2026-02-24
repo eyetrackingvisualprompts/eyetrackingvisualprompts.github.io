@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a small, fixed region in the upper-left/mid-left area with sequential, clustered fixations and minimal vertical movement, consistent with focusing on a single code snippet rather than scrolling text (READ/BROWSE) or dynamic content (WATCH/PLAY). This focused inspection pattern best matches interpreting code output.",
+  "correct": false
+}

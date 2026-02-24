@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Long fixations and repeated horizontal sweeps across the top region followed by large vertical jumps to mid-page content and back resemble scanning a search results page and moving between query, snippets, and lower content, matching the SEARCH pattern more than the other tasks.",
+  "correct": true
+}

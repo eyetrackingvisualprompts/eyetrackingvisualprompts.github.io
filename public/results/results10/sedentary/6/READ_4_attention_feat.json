@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in the lower-central area, similar to where code and output panels often appear, with limited horizontal reading-like movement. This pattern best matches the INTERPRET task example, where attention focuses on a localized code snippet rather than the broader, more distributed or horizontally scanning patterns seen in READ, BROWSE, or WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered on a narrow left-side region typical of reading search results, with occasional long saccades to the right side (likely result previews or links), matching the SEARCH scanpath more than the other activities.",
+  "correct": false
+}

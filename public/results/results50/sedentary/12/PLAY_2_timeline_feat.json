@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The data shows frequent, irregular large-amplitude saccades in both X and Y with rapidly shifting fixation positions, especially in the first half of the window, resembling the dynamic, multidirectional gaze behavior seen when tracking moving objects or navigating in a game, matching the PLAY pattern more than the more structured or stationary tasks.",
+  "correct": true
+}

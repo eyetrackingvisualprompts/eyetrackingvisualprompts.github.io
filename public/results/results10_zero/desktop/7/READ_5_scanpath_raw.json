@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows small, tightly clustered horizontal movements in a narrow vertical band, consistent with fixations and short saccades along a single text line, which is characteristic of reading rather than the larger multi-directional movements seen in play, search, browse, watch, or write activities.",
+  "correct": true
+}

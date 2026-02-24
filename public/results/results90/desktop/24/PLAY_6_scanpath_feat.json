@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cover a moderately broad central area with frequent shifts and scattered fixations, more extensive than the tight horizontal band of reading or writing, but less global and dynamic than playing or watching. This pattern best matches exploratory inspection of search-engine result pages, consistent with the SEARCH example scanpath.",
+  "correct": false
+}

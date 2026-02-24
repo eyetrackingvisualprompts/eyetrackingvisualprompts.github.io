@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations progress mostly horizontally within a narrow vertical band, with short saccades and occasional regressions\u2014characteristic of line-by-line reading rather than large spatial shifts (SEARCH/BROWSE), dynamic object tracking (PLAY/WATCH), or concentrated code/IDE inspection (INTERPRET/DEBUG/WRITE).",
+  "correct": false
+}

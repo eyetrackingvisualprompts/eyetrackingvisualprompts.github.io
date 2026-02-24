@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is tightly clustered around a small central region with short, multidirectional saccades and no clear horizontal line-by-line pattern (READ/WRITE) or large global shifts (WATCH/PLAY). This localized but exploratory pattern best matches scanning a compact search-results area on a webpage, consistent with the SEARCH examples.",
+  "correct": false
+}

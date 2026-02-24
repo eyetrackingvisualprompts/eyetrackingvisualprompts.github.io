@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is strongly concentrated on a compact region in the upper-left (where code typically appears) with several additional but sparser fixations scattered elsewhere on the screen, closely matching the debugging heatmap pattern rather than the tighter INTERPRET cluster or the more horizontal scanning of reading/browsing/searching.",
+  "correct": false
+}

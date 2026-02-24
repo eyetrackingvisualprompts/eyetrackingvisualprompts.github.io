@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen horizontal fixations with substantial vertical shifts and scattered saccades across a broad Y-range, matching the mixed scanning of results pages seen in the SEARCH example more than the more constrained patterns of READ or WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-amplitude saccades with both X and Y fixation positions fluctuating around central regions, resembling the mixed, exploratory scanning seen in the BROWSE example more than the more structured horizontal patterns of READ/WRITE or the larger directional shifts in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are widely dispersed across the central region, with multiple clusters and no strong horizontal line pattern, matching the exploratory scanning seen in the SEARCH example rather than the more focused or structured patterns of other activities.",
+  "correct": false
+}

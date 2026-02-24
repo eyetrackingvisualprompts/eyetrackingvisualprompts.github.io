@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent jumps across wide screen regions (including off-text top/bottom extremes) with relatively few orderly horizontal scan paths and many revisits to dispersed spatial clusters, matching free viewing of dynamic visual content (WATCH) rather than the structured, line-by-line or code-panel patterns seen in READ/WRITE/DEBUG/INTERPRET/SEARCH/BROWSE; PLAY samples show more tightly object-following trajectories than this segment.",
+  "correct": false
+}

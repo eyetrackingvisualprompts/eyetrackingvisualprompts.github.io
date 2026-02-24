@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered in a single medium-sized region left-of-center with some vertical spread, typical of focusing on a narrow code editor area while writing, rather than the broader horizontal scanning seen in reading/browsing or the wider distribution of watching/playing.",
+  "correct": false
+}

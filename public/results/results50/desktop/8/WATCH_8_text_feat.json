@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze moves across a broad vertical span (y\u22480.25\u20130.46) with many medium/long fixations and frequent horizontal shifts between central and right/left regions\u2014similar to scanning mixed text/graphics and navigation elements on a web page. The pattern lacks the tight line-by-line structure of READ, the very top-heavy bands of SEARCH/WRITE, and the large-amplitude, more chaotic movements typical of PLAY or WATCH, matching the BROWSE examples best.",
+  "correct": false
+}

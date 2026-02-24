@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, frequent jumps across the full screen (including to extreme corners and off-screen), visits to many distinct vertical regions with irregular revisits, and mixed short and long fixations\u2014matching exploratory, heterogeneous web browsing rather than the more structured, line-based scanning of READ/SEARCH or the more localized patterns of code tasks (DEBUG/WRITE/INTERPRET) or continuous object tracking in PLAY/WATCH.",
+  "correct": false
+}

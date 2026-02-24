@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows a sequence of relatively large, irregular oblique movements within a constrained central area, without a clear horizontal-only pattern, line-by-line reading structure, or wide exploration characteristic of video viewing or gaming. It is also not static enough for pure fixation, making random saccades the most consistent class.",
+  "correct": false
+}

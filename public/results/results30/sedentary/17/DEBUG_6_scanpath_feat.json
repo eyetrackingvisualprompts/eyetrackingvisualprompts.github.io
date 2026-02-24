@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact region in the left-center, with dense, repeated fixations and minimal large saccades, matching the localized code-focused pattern seen in the INTERPRET example rather than the broader spread of other tasks.",
+  "correct": false
+}

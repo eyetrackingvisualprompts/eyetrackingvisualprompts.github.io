@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a results-like top area and multiple scattered mid/low-page regions with many short fixations and revisits, including frequent jumps to screen edges and off-screen coordinates; this pattern of scanning, evaluating, and scrolling through dispersed information aligns best with search-engine use rather than the more localized, structured patterns of reading, coding (write/debug/interpret), or continuous media (watch/play).",
+  "correct": false
+}

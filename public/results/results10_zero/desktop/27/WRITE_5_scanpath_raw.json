@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is clustered in a relatively small central region with short, multidirectional saccades and no systematic horizontal line-by-line or large exploratory movements, consistent with passively watching dynamic content (video) rather than reading, writing, searching, browsing, or gaming which typically show wider or more structured scanpaths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are widely distributed over the screen, spanning both lower and upper regions with no dominant horizontal line or single cluster, indicating exploration of multiple interface elements such as query box, results list, and page content\u2014pattern most consistent with web search behavior rather than focused reading, watching, or playing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows long horizontal sweeps with short regressions and systematic progression along a narrow vertical band (y\u2248220\u2013360), matching line\u2011by\u2011line text reading patterns more than the other tasks, which have either more vertical scanning (code / search) or wide, dynamic movements (games, video, browsing).",
+  "correct": false
+}

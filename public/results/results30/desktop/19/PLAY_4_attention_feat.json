@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a mainly horizontal band at mid\u2011screen with dense clusters and short regressions, closely matching the structured, line-by-line pattern seen in the READ example heatmap rather than the more scattered or multi-region patterns of other activities.",
+  "correct": false
+}

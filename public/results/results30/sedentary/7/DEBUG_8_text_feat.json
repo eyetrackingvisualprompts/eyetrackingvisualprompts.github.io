@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Frequent large saccades spanning wide screen regions (center to extreme top, bottom, and corners), with relatively long fixations and no clear line-by-line or code-like pattern, match dynamic, full-screen visual content typical of the WATCH condition rather than text- or code-centric tasks.",
+  "correct": false
+}

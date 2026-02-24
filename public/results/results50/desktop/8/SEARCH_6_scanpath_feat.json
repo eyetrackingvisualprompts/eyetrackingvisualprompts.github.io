@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are scattered over a broad central region with frequent shifts among multiple vertical levels and lateral areas, resembling exploration of varied webpage elements. The pattern is more dispersed than READ or WRITE and less clustered than WATCH or PLAY, aligning best with BROWSE behavior.",
+  "correct": false
+}

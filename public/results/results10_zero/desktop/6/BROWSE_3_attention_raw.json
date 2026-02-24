@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is strongly concentrated in a small central region with minimal horizontal scanning or vertical progression, indicating sustained attention to a single central area typical of watching a video, rather than the systematic line-by-line or exploratory patterns seen in reading, browsing, searching, playing, or writing.",
+  "correct": false
+}

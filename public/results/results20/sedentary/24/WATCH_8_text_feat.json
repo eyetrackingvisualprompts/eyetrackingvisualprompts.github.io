@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated long horizontal fixations around a common y-level with systematic scans across the width, interleaved with large vertical jumps between top and lower regions\u2014matching reading and scanning of search results and SERP elements rather than the tighter code-centered patterns of INTERPRET/DEBUG/WRITE or the more central, smoother patterns of WATCH/PLAY.",
+  "correct": false
+}

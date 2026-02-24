@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated near the upper-central region with vertical spread, matching the SEARCH example where attention alternates between the search bar/top results and items below, unlike wider horizontal scanning in READ/BROWSE or localized focus in WRITE/WATCH/PLAY.",
+  "correct": false
+}

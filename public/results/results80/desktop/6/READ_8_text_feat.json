@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow band in the lower-central region with many short, local saccades and medium-length fixations, resembling monitoring and updating a small area (e.g., current text line and caret) rather than long horizontal sweeps (READ) or wide exploratory moves (BROWSE/SEARCH/PLAY/WATCH). This pattern best matches the WRITE task examples.",
+  "correct": false
+}

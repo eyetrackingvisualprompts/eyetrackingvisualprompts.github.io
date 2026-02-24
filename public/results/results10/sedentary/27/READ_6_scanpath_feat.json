@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze follows a mostly horizontal band with limited vertical movement like reading, but includes a few larger saccades and shifts along the line region, resembling inspection of a search results row rather than continuous dense text reading.",
+  "correct": false
+}

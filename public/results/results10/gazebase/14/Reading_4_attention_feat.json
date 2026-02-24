@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "Fixations are spread across a moderately wide horizontal band around mid-screen with varying vertical positions, resembling exploratory viewing of dynamic content rather than tight upper-band reading or sparse game/random-saccade patterns; this matches the example heatmap for Video Viewing most closely.",
+  "correct": false
+}

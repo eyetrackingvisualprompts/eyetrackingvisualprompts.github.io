@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, orderly horizontal fixations stacked vertically within a narrow central column, characteristic of line-by-line reading on a static text block, closely matching the READ example pattern rather than the more dispersed or dynamic patterns of other tasks.",
+  "correct": true
+}

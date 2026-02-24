@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a relatively narrow vertical strip with repeated transitions between a small set of locations, including movements toward the top where code is likely written, resembling the structured, localized scanpath seen in the WRITE example more than the more static INTERPRET or the wider, more exploratory DEBUG patterns.",
+  "correct": false
+}

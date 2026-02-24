@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in orderly horizontal sweeps across narrow vertical bands (y \u2248 40\u2013200, then 220\u2013320, 330\u2013400, 450\u2013550, 580\u2013620, 650\u2013750), with regular leftward return saccades from right to left and sustained fixations\u2014closely matching line-by-line reading patterns in the READ examples rather than the more scattered, exploratory, or code-focused patterns of other tasks.",
+  "correct": true
+}

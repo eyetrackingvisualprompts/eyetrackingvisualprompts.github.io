@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows three main fixation clusters aligned horizontally at similar vertical positions, with little vertical dispersion, consistent with following a target that moves only left and right across the screen as in the Horizontal Saccades task.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster near screen center with moderate, irregular saccades in both axes and no strong left-to-right line sweeps or systematic vertical scanning, matching the more scattered exploration pattern seen in BROWSE rather than structured READ/WRITE or the larger excursions of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

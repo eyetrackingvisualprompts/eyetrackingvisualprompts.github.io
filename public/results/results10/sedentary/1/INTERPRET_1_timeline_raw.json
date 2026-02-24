@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows mostly localized fixation around a central region with frequent short spikes and brief excursions to screen edges, resembling repeated code editing and occasional IDE interactions, which matches the WRITE pattern more than the others.",
+  "correct": false
+}

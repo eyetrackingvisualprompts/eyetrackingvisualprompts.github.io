@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze centers in mid-upper region with medium fixations and frequent medium-to-large vertical and horizontal saccades between content and higher areas, resembling scanning of SERP/results rather than tight line-by-line horizontal reading or the localized, top-left focus seen in writing; pattern best matches the provided SEARCH example.",
+  "correct": true
+}

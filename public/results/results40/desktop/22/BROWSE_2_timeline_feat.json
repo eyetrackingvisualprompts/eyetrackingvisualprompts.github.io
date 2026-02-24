@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "X fixation remains near screen center with moderate horizontal movement, while Y fixation stays in the upper-middle area with occasional shifts upward and downward, matching the mixed reading-and-scanning behavior typical of search result pages rather than the more regular lines of READ or the denser, more scattered patterns of BROWSE.",
+  "correct": false
+}

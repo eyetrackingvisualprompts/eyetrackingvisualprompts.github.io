@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze frequently jumps between widely separated vertical regions (top, middle, bottom of the page, even off-screen), with short to moderate fixations and repeated returns to upper areas, matching scanning of SERP results/snippets rather than line-by-line reading or focused code/video/game viewing.",
+  "correct": false
+}

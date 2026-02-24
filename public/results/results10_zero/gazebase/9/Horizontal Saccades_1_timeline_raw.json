@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates in a regular, near-rectangular pattern between approximately +15 and -15 degrees horizontally with minimal vertical movement and about 1-second plateaus at each extreme, matching the horizontal saccade task description.",
+  "correct": true
+}

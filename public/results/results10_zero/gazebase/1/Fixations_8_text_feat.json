@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains tightly clustered around the screen center with very small positional changes and long fixation durations (mostly 0.5\u20132 s) and only brief, tiny corrective saccades, matching sustained central fixation on a static target rather than large-amplitude tracking or reading-like scanpaths.",
+  "correct": true
+}

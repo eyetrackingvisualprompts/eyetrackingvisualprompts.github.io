@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay within a narrow horizontal band with small jitter and no systematic line-by-line scanning or large exploratory saccades, indicating prolonged fixation on a relatively static central region of the screen consistent with watching a video rather than reading, coding, browsing, or game play.",
+  "correct": false
+}

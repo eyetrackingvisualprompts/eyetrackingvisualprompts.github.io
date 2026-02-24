@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent vertical shifts covering much of the screen height with irregular horizontal movements, indicating attention to multiple dynamic regions (e.g., characters and subtitles) rather than systematic line-by-line reading or structured browsing, which matches the WATCH pattern best.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a mid-screen horizontal band with many small left\u2013right shifts and revisits, interleaved with larger jumps between two main vertical regions, matching inspection of code and console/output typical for debugging rather than linear reading, free browsing, or dynamic object following.",
+  "correct": false
+}

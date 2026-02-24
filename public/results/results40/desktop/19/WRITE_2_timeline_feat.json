@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows long intervals of relatively stable horizontal position with slow drifts and occasional larger shifts in both X and Y, consistent with following motion in a video rather than systematic line-by-line scanning (READ/WRITE) or frequent multi-directional jumps typical of SEARCH/BROWSE/PLAY.",
+  "correct": false
+}

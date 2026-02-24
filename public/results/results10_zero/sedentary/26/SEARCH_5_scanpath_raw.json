@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band in the upper-left to mid screen with frequent short saccades and revisits, typical of focusing on a code editor area while typing/modifying code rather than scanning long text blocks (READ/BROWSE) or following moving objects (PLAY/WATCH). This localized, iterative inspection pattern fits code writing behavior best.",
+  "correct": false
+}

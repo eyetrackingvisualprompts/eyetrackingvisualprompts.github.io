@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations stay around the central region with relatively small horizontal and vertical range and frequent short saccades, resembling the compact, mid-screen scanning pattern of the BROWSE example more than the broader sweeps of READ or the larger shifts seen in WATCH, PLAY, SEARCH, or WRITE.",
+  "correct": false
+}

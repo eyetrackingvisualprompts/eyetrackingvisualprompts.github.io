@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show predominantly small, smooth vertical movements with local clustering around mid-screen, consistent with line-by-line progression and short regressions typical of reading text, rather than the larger, rapid multidirectional shifts common in browsing, searching, playing, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is very stable with minimal saccades and small gradual drifts in both X and Y, indicating passive viewing of centrally located content rather than active scanning or line-by-line reading, which matches the WATCH pattern best among the options.",
+  "correct": true
+}

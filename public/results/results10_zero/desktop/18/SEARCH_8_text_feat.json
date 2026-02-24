@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze consists of medium-length fixations (mostly 0.2\u20130.5s, some longer) with relatively small, localized saccades around a central region, indicating careful inspection of a static area rather than rapid, wide exploration or following dynamic objects. There is no strong directional sweep pattern typical of active searching across pages, nor large, frequent jumps characteristic of gaming or video watching. The dense, concentrated fixation cluster in a limited central band fits best with reading text in a relatively stable layout.",
+  "correct": false
+}

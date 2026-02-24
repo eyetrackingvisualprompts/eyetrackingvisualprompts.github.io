@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent irregular shifts in both X and Y with varied fixation locations and intermittent vertical movements, resembling the heterogeneous, non-structured exploration pattern seen in the BROWSE example rather than the more systematic patterns of reading, coding, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-length saccades between dispersed locations, mostly in the upper/left and mid screen, with short fixations and no clear horizontal line-by-line reading pattern or prolonged central fixation typical of watching videos. The pattern of exploring different regions in a semi-structured way best matches browsing webpage content, similar to the BROWSE example\u2019s distributed fixations and scanning of various interface elements.",
+  "correct": false
+}

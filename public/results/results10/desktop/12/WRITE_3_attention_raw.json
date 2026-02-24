@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed over a vertical region around mid-screen with multiple separated fixation clusters, indicating scanning different elements rather than linear reading or focused watching, which matches the exploratory pattern typical of web search result pages.",
+  "correct": false
+}

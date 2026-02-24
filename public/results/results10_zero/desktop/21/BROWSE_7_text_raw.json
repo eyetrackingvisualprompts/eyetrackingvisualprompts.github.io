@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show predominantly horizontal movements within a narrow vertical band, with long stable fixations and occasional short saccades up/down\u2014typical of line-by-line reading on a static page, and less consistent with the larger, more scattered shifts expected in search, browsing, or gameplay, or the strong center-bias and motion-driven shifts of video watching.",
+  "correct": false
+}

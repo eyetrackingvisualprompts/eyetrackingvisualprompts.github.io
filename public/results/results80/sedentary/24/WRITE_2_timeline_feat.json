@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The target gaze pattern closely matches the WRITE example: overall stable horizontal and vertical fixation bands around the code area with relatively small dispersion, plus a cluster of early large vertical saccades likely from initial code scanning before continuous focused work. This contrasts with the more scattered or reading-like patterns of other activities.",
+  "correct": true
+}

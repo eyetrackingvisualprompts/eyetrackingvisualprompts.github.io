@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in smooth horizontal sweeps within a narrow vertical band, with short fixations and small regressions typical of line-by-line reading, plus occasional larger downward/vertical shifts suggesting movement between text lines rather than the broader, more scattered patterns seen in search, browse, or coding tasks.",
+  "correct": false
+}

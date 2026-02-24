@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in several vertically separated clusters on the left side of the screen with limited horizontal spread, resembling focused inspection of multiple short code segments rather than continuous reading or broad exploration, which aligns best with the INTERPRET code-understanding task.",
+  "correct": false
+}

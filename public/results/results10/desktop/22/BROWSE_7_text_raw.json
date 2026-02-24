@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-sized saccades between clustered fixation regions, including repeated shifts between mid-screen and lower/upper areas, resembling the scanning and re-orienting seen in the SEARCH example more than the more stable, line-based patterns of READ or the highly central, smoother patterns of WATCH/WRITE. The intermittent larger jumps and revisits to similar coordinates are characteristic of evaluating search results and moving between query box, results list, and content snippets.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points cluster around mid-screen code-like regions with frequent short saccades and local regressions, very similar in spatial range and pattern to the WRITE example. There is no strong horizontal line-scanning as in READ/BROWSE, nor large dynamic shifts typical of WATCH/PLAY; patterns match focused code editing/typing behavior seen in WRITE.",
+  "correct": false
+}

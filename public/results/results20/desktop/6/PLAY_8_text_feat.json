@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with frequent, irregular saccades over a relatively broad vertical range, including occasional long jumps between distant screen locations. This mixed exploratory pattern is more consistent with scanning heterogeneous web content while browsing than with the more line-structured READ pattern, the very stable WRITE focus near one corner, the high-amplitude continuous movements of PLAY, or the long, central fixations typical of WATCH and SEARCH examples.",
+  "correct": false
+}

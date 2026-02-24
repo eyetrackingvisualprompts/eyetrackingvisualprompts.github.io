@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal fixations with small vertical shifts over time, consistent with line-by-line reading rather than dynamic object tracking (PLAY), scanning varied pages (BROWSE/SEARCH), or focused code manipulation (INTERPRET/DEBUG/WRITE).",
+  "correct": false
+}

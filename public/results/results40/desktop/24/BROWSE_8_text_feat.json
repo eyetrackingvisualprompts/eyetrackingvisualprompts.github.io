@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades covering a wide vertical and horizontal range (from near top to bottom and across the screen) with relatively short, scattered fixations, resembling the dynamic, multi-directional scanning pattern seen in the PLAY example rather than the more line-structured, banded, or top-focused patterns of READ, WRITE, SEARCH, BROWSE, or WATCH.",
+  "correct": false
+}

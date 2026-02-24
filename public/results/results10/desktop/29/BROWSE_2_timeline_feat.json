@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively stable horizontal fixation around mid-screen with slow, step-like vertical movements and occasional downward saccades, closely matching the reading example pattern of line-by-line text scanning rather than the more scattered or dynamic patterns seen in browsing, searching, playing, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a left-side code area with additional scattered looks to lower and far-right regions, matching the pattern of checking code and outputs typical of debugging rather than the tighter, more localized clusters seen in WRITE or INTERPRET.",
+  "correct": false
+}

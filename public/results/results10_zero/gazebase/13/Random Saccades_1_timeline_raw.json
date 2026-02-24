@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y gaze positions show discrete, approximately 1-second plateaus at various horizontal and vertical locations within \u00b115\u00b0 and \u00b19\u00b0 range, with abrupt transitions between them. This pattern matches following a randomly moving target that steps to new positions and holds, characteristic of the Random Saccades task rather than purely horizontal motion or continuous free viewing.",
+  "correct": true
+}

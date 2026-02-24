@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is highly localized with small, stable horizontal and vertical ranges and sparse saccades, matching focused inspection of a compact code snippet as in the INTERPRET task, and differing from the broader scanning or reading patterns of browse/search/read.",
+  "correct": true
+}

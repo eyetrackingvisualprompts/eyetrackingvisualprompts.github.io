@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The heatmap shows a single dense fixation cluster on the left-middle area where a code editor text region typically resides, with very few scattered fixations elsewhere, closely matching the WRITE example pattern and differing from the more dispersed DEBUG or browsing-like patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region on the left side where code would appear, with vertical movements between lines and little exploration elsewhere, matching the focused but localized viewing typical for interpreting a code snippet rather than the broader dispersion seen in debugging or other tasks.",
+  "correct": false
+}

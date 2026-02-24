@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band with small vertical range and mostly local saccades, matching sustained reading of a text line rather than the broader, multi-region exploration seen in browsing, searching, watching, or playing games.",
+  "correct": false
+}

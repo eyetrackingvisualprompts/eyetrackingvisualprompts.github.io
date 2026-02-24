@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show moderate variability with frequent, irregular saccades and no strong horizontal reading pattern or stable central focus typical of video watching or writing. This mixed exploratory pattern best matches browsing behavior among the provided examples.",
+  "correct": false
+}

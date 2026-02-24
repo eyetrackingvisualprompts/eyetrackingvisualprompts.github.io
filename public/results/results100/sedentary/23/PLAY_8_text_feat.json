@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Large, rapid saccades spanning wide screen regions, many off-content excursions to borders/corners, and long fixations on central clusters match dynamic, global visual scanning typical of watching videos rather than line-based reading/searching or code-focused tasks.",
+  "correct": false
+}

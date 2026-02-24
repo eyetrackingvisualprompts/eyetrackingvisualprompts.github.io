@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a central region with moderate vertical spread and frequent saccades among nearby locations, resembling the exploratory yet somewhat focused pattern seen in the BROWSE example more than the tighter horizontal patterns of READ/WRITE or the upper-screen focus of WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered near screen center with frequent small saccades in both axes and no strong left-to-right line sweeps or stable horizontal bands, matching the variable, moderately dynamic gaze patterns seen in the BROWSE example more than the other activities.",
+  "correct": true
+}

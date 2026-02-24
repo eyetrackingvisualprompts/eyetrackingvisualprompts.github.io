@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze is spread horizontally across the central band of the screen with continuous coverage and few dense clusters, matching the tracking of moving game elements seen in the PLAY example rather than the more localized or vertically distributed patterns of coding, reading, or browsing tasks.",
+  "correct": false
+}

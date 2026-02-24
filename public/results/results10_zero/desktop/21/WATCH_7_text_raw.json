@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains within a relatively narrow horizontal band with smooth, continuous vertical drifts and long stable segments, indicative of tracking dynamic on-screen content rather than systematic left-to-right, top-to-bottom scanning seen in reading or the more dispersed exploratory patterns typical of search/browse/play/write tasks; this pattern best matches watching a video.",
+  "correct": true
+}

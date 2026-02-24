@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band near the upper screen with long, stable fixations and small corrective saccades, showing slow drift and occasional short vertical shifts\u2014this matches sustained reading behavior rather than the broader, more exploratory scanning seen in SEARCH/BROWSE or the larger, multi-directional shifts typical of PLAY/WATCH/WRITE.",
+  "correct": false
+}

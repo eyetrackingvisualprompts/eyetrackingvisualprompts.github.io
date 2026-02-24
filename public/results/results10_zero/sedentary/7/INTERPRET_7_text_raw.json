@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form dense clusters with small, mostly horizontal movements and periodic vertical shifts within a constrained central region, consistent with sustained line-by-line reading rather than the larger, more scattered exploration typical of browsing, search, games, or video watching.",
+  "correct": false
+}

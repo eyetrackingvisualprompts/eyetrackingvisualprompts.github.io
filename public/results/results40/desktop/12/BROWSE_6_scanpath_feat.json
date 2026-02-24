@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in a central region with frequent medium-length saccades among several nearby areas, indicating scanning of heterogeneous web elements (results, snippets, interface controls). This pattern matches the SEARCH example more closely than the more linear READ pattern or the broader, more dispersed BROWSE/WATCH/PLAY trajectories.",
+  "correct": false
+}

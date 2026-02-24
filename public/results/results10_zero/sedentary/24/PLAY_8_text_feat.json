@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, rapid saccades crisscrossing the screen (center\u2192top\u2192bottom\u2192sides) with short fixations clustered around a few regions, suggesting continuous tracking of moving game elements rather than systematic line-by-line reading or focused code inspection typical of programming-related tasks.",
+  "correct": true
+}

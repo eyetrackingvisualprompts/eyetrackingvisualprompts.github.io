@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are clustered in a mid\u2013lower screen band with rapid, continuous small shifts and smooth local tracking, consistent with following moving game elements rather than line-by-line text or static code blocks, matching the PLAY examples\u2019 dynamic mid-screen movement patterns.",
+  "correct": false
+}

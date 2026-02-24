@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze heatmap is centered around the mid-screen with dispersed fixations both horizontally and vertically, indicating scanning of varied on-screen elements rather than the more linear horizontal patterns of reading or the upper-screen focus typical of search result pages; this distribution best matches the browsing example.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered over a compact left-center region consistent with code viewing, with repeated returns to similar coordinates and some vertical transitions, closely matching the DEBUG example scanpath compared to other tasks.",
+  "correct": false
+}

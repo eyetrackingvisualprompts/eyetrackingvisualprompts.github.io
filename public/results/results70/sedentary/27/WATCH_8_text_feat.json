@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent spatial jumps across the whole screen (including corners and edges), mixed with medium fixations and no clear line-by-line or code-structured scanning. The pattern matches free viewing of dynamic visual content rather than systematic reading, coding, or targeted web search/browsing, which is most consistent with the WATCH class.",
+  "correct": true
+}

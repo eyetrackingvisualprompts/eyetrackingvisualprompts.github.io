@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The data shows a sequence of relatively short saccades with many medium-to-long fixations (often 0.4\u20131.6s) clustered within a narrow vertical band and slowly shifting horizontally, consistent with line-by-line text reading rather than the larger, more scattered movements typical of search, browsing, coding, or gameplay.",
+  "correct": false
+}

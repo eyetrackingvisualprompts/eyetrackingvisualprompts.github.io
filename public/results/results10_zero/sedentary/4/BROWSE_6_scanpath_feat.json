@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow vertical strip on the left side of the screen with repeated small up\u2011down movements and revisits, consistent with focusing on a block of code in an IDE rather than scanning horizontally like reading articles or browsing. This localized, iterative inspection pattern matches typical behavior while writing code.",
+  "correct": false
+}

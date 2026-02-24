@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions (including corners and off-center areas), repeated returns to central/upper areas, and mixed vertical-horizontal trajectories resemble continuous object-tracking and spatial monitoring seen in the PLAY examples rather than the more line-structured or text-focused patterns of READ/WRITE/INTERPRET/DEBUG or the scroll/search behavior of BROWSE/SEARCH/WATCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered in a compact area on the left side of the screen with minimal horizontal scanning, closely matching the INTERPRET example pattern where attention is focused on a small code snippet rather than spread like in READ, SEARCH, or BROWSE.",
+  "correct": true
+}

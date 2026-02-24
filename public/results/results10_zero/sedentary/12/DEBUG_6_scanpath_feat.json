@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is tightly clustered in a small region with minimal horizontal progression or line-by-line scanning, indicating prolonged attention to a localized area rather than reading or searching text, which is consistent with watching a video where key content is confined to part of the screen.",
+  "correct": false
+}

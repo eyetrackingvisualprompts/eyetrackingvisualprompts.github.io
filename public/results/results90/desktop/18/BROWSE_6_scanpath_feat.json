@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered but spread over a relatively large central area with frequent, multidirectional saccades, resembling the exploratory and scanning behavior seen in the SEARCH example more than the more localized BROWSE or structured horizontal READ patterns.",
+  "correct": false
+}

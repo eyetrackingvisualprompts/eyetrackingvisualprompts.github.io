@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The target data shows large, irregular multi-directional gaze shifts across wide screen regions with intermittent fixation-like clusters, matching the spatiotemporal pattern of following a randomly moving target rather than structured horizontal sweeps, stable fixation, or reading/video/game-specific trajectories.",
+  "correct": false
+}

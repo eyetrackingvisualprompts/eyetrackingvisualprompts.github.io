@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "Fixations are clustered in a small central region with one additional salient cluster slightly to the right-upper area, indicating attention to a limited number of salient objects or regions rather than systematic line-by-line scanning (reading) or wide, structured target movements (saccades/game). This localized yet non-regular pattern best matches natural viewing of dynamic video content.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows a sequence of relatively short fixations with mostly horizontal saccades that progress across a band of y-coordinates, consistent with line-by-line reading behavior rather than more scattered exploratory or object-following movements typical of browsing, search, watching video, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows systematic horizontal sweeps across several distinct vertical bands, resembling line-by-line reading in multiple text regions, which best matches the READ pattern among the given activity classes.",
+  "correct": true
+}

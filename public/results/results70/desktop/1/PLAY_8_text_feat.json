@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between upper and middle screen regions with varied vertical and horizontal saccades, including frequent transitions around y\u22480.6\u20130.7 and occasional jumps to low y (\u22480.1\u20130.3), matching the heterogeneous, multi-region scanning seen in BROWSE data more than the more line-structured READ or the center-focused WATCH/SEARCH patterns.",
+  "correct": false
+}

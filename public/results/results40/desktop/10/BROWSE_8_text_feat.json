@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-amplitude saccades between mid/upper page and lower regions, repeated revisits to similar coordinates, and several long saccades/pauses indicative of scanning SERP, result snippets, and switching between results\u2014pattern most consistent with SEARCH compared to steadier line-wise READ or more constrained WRITE gaze near the text-entry area.",
+  "correct": false
+}

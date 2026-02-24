@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small region near the upper-middle area with very long, stable fixations and only tiny corrective saccades, matching sustained focus on a single location such as the current text line or cursor in a word processor, characteristic of the WRITE task rather than the more exploratory patterns of browse/search or the broader scanning of watch/play/read.",
+  "correct": true
+}

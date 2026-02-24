@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across two main bands near the top and mid-screen with several distinct clusters, resembling scanning multiple search results/snippets rather than focused code, reading, or central video/game attention, matching the SEARCH example pattern.",
+  "correct": false
+}

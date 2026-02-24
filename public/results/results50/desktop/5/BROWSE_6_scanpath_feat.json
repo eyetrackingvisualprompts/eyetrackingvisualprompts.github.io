@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points cluster around the central area with moderate dispersion and frequent transitions between nearby regions, resembling mixed reading and interface checking as in search result pages, and matching the SEARCH example more closely than the other classes.",
+  "correct": false
+}

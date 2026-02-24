@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in two horizontal clusters around mid-screen with some attention slightly higher, resembling reading and scanning of search results rather than the more localized code-focused clusters of WRITE/DEBUG/INTERPRET or the dispersed patterns of WATCH/PLAY/BROWSE/READ.",
+  "correct": false
+}

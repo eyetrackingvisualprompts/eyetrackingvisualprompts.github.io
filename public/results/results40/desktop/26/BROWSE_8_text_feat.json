@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the upper-left/upper-middle vertical band with many small vertical shifts and long, stable fixations, matching sustained attention around a text-entry line and nearby UI elements as seen in the WRITE examples, rather than the more horizontal scanning of READ or broader exploratory movements of SEARCH/BROWSE/PLAY/WATCH.",
+  "correct": false
+}

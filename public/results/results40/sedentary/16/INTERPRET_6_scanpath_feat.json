@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a left-side vertical region typical of code editors, with repeated fixations around two bands (code and console/IDE controls) and some vertical transitions, closely matching the WRITE example and differing from the denser, more scattered DEBUG pattern or the narrow INTERPRET focus.",
+  "correct": false
+}

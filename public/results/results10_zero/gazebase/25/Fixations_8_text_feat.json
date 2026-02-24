@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze is clustered tightly around screen center with very small-amplitude saccades (<1\u00b0) after an initial large re-centering movement, and fixations are long and stable at nearly the same central location\u2014consistent with maintaining fixation on a static central target rather than following moving stimuli or reading line-by-line text.",
+  "correct": true
+}

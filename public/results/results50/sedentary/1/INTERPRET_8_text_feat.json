@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Long saccades with very long durations, repeated returns between a few code-relevant regions (around y\u2248270\u2013430 and y\u2248540\u2013590), and many medium-length fixations suggest detailed inspection and re-inspection of a single code file rather than linear reading or broad web/game exploration, matching the DEBUG pattern seen in the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large-amplitude saccades in both horizontal and vertical directions with long straight transitions between discrete positions, matching a randomly moving single target rather than structured reading lines, horizontal-only motion, game-like clustered fixations, video viewing, or central fixation.",
+  "correct": true
+}

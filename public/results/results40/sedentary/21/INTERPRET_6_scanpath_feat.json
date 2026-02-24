@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered around a small left-central region with minimal horizontal spread, indicating focused inspection of a single code snippet rather than broad navigation or reading across lines. This compact, revisiting pattern best matches the INTERPRET examples, where participants study one function to predict its output.",
+  "correct": true
+}

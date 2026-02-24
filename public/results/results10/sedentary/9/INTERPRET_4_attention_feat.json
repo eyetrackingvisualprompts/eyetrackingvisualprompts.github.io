@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on a compact code area with a few additional fixations lower on the screen, closely matching the DEBUG example pattern rather than the more uniformly clustered INTERPRET pattern.",
+  "correct": false
+}

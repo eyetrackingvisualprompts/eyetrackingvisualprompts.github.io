@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows extended periods with nearly constant horizontal (X) fixation while the vertical (Y) position moves more broadly and slowly, including large vertical shifts and fewer rapid scanning patterns. This matches the WATCH example, where viewers track moving content in a video rather than performing dense horizontal reading or dispersed web browsing/searching.",
+  "correct": true
+}

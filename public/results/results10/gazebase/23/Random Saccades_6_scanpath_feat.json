@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points cover a wide region of the screen with large, irregular jumps in both horizontal and vertical directions and approximately 1-second dwells, matching the pattern of a target moving unpredictably across the display as in the Random Saccades task, rather than the more structured or localized patterns of the other activities.",
+  "correct": true
+}

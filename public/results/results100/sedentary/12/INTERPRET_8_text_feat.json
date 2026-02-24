@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code/text area with many long fixations (often >1 s) and short, local saccades between a few nearby coordinates, including repeated toggling between line-like y-levels and occasional jumps to slightly higher regions\u2014matching the sustained, line-focused scrutiny typical of reasoning about a small code snippet (INTERPRET), unlike the broader navigation and larger spatial excursions seen in SEARCH, BROWSE, or DEBUG.",
+  "correct": true
+}

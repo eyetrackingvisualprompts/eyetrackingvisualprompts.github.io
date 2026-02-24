@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent long-range saccades between top code region and lower/side areas consistent with editor-output/console shifts, plus repeated revisits to similar code-area coordinates match the WRITE pattern more than the other tasks.",
+  "correct": false
+}

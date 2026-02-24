@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around the screen center with medium-length fixations and frequent, multidirectional saccades including vertical moves between mid and upper regions, resembling scanning mixed text/graphics and navigation elements; pattern is more dispersed and less line-structured than READ, and less bottom-focused and repetitive than WRITE or SEARCH, matching the BROWSE examples best.",
+  "correct": true
+}

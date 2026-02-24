@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely concentrated in a single horizontal band across the middle of the screen with limited vertical spread, forming a left-to-right sequence typical of line-by-line reading, closely matching the READ example heatmap pattern.",
+  "correct": false
+}

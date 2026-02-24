@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts along a mostly horizontal band with multiple local clusters, indicating scanning across a row of content (e.g., webpage headlines/links) rather than dense line-by-line reading or focused code inspection; this pattern best matches the browsing example.",
+  "correct": false
+}

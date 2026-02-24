@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in the left-central region typical for code, with frequent vertical movements along lines and occasional longer saccades to the right, resembling the DEBUG example more than the more localized INTERPRET or the more dispersed SEARCH/BROWSE patterns.",
+  "correct": false
+}

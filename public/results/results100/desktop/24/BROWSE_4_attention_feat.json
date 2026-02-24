@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a central vertical band with spread both upward and downward, resembling attention to a search-results page (query box near top, results list through the middle), matching the SEARCH exemplar more than the narrower horizontal patterns of READ or BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y positions show large, abrupt multi-directional jumps to varying amplitudes across the screen with roughly second-long plateaus, matching the pattern of following a randomly moving target rather than the more structured patterns of reading, horizontal-only saccades, or central fixation.",
+  "correct": false
+}

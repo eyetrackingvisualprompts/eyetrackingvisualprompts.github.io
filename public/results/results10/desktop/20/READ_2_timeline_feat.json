@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "X fixation stays in the upper-middle region with slow drift, while Y fixation starts at the very bottom and gradually rises over time\u2014matching the upward gaze shift typical of watching a video (e.g., following subtitles at the bottom and then attending to content higher on the screen), and differing from the more line-structured scanning of reading or the dispersed movements of search/browse/play/write.",
+  "correct": false
+}

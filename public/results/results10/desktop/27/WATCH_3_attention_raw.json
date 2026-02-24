@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze locations are spread horizontally across the mid-screen with several distinct clusters and moderate vertical movement, resembling the dispersed yet structured scan patterns of web browsing, and differing from the more linear READ pattern or the more localized SEARCH/WRITE patterns.",
+  "correct": false
+}

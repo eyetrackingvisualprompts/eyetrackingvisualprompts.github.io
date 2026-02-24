@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a narrow horizontal band with slow, smooth drifts in X and very stable Y, punctuated by a couple of small horizontal shifts\u2014consistent with passively following content in a fixed central region (e.g., video) rather than systematic line-by-line reading or large exploratory saccades typical of search, browse, play, or write.",
+  "correct": false
+}

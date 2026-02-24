@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The target data shows moderate, frequent saccades with gaze dispersed around the screen center without strong horizontal line patterns (reading/writing) or large vertical shifts (searching/playing). This spatio-temporal pattern best matches the example BROWSE plot, indicating exploratory scanning of varied web content.",
+  "correct": true
+}

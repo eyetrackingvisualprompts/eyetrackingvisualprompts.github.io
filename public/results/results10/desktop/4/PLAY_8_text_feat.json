@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze pattern shows large, frequent saccades across widely separated screen regions (center to corners, top to bottom) with relatively short, variable fixations, indicating rapid visual shifts consistent with tracking and navigating dynamic game elements rather than the more structured, line-based or localized scanning seen in reading, writing, browsing, or searching tasks.",
+  "correct": true
+}

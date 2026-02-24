@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The heatmap shows a single, tight, centrally located gaze cluster with no significant dispersion or directional shifts, indicating sustained fixation on a static central target rather than scanning or following moving stimuli.",
+  "correct": true
+}

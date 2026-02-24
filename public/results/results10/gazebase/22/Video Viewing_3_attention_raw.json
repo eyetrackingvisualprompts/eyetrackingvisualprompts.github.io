@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points are scattered across the screen with a dominant cluster near the center but several additional distinct fixation clusters at varying horizontal and vertical positions, matching the pattern of following a target that jumps to random locations rather than staying central (Fixations) or moving strictly horizontally (Horizontal Saccades).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze alternates between discrete positions in both horizontal and vertical directions, with each position held roughly one second before jumping at least ~2\u00b0 in varying directions. This step-like, multi-directional pattern matches the randomly moving bull\u2019s-eye target rather than purely horizontal motion, static fixation, or more irregular/free patterns of viewing, reading, or gaming.",
+  "correct": true
+}

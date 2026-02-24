@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, horizontally ordered lines in a narrow vertical band, characteristic of line-by-line reading without large saccades to other screen regions, matching the READ example pattern.",
+  "correct": true
+}

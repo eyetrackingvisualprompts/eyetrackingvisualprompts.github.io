@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent large saccades and shifts across both axes, alternating between upper and lower screen regions, resembling scanning between search results and different areas of a results page, which matches the SEARCH pattern more than the more linear or localized patterns of READ, WRITE, or DEBUG.",
+  "correct": false
+}

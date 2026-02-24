@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around central screen regions with frequent short fixations and medium-scale saccades, including several vertical transitions between mid and lower areas, consistent with scanning mixed text/UI elements while navigating web pages rather than the more line-structured horizontal sweeps of READ or the larger, more erratic movements of PLAY/WATCH.",
+  "correct": true
+}

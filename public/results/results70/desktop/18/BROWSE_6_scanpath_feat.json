@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations across a central region with frequent shifts between multiple areas, more exploratory than READ/WRITE and less constrained than WATCH, closely matching the mixed focused-and-exploratory pattern seen in SEARCH behavior.",
+  "correct": false
+}

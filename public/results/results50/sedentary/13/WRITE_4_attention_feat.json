@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are heavily concentrated on a compact code-like area in the upper-left, with a few glances to the right side (likely output/console), closely matching the INTERPRET example pattern rather than the more distributed or scan-like patterns of other tasks.",
+  "correct": false
+}

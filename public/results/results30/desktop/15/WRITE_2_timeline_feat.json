@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with occasional shifts in both X and Y, resembling scanning across varied web search results rather than the more regular line-by-line patterns of READ/WRITE or the more clustered behavior of WATCH/PLAY. This best matches the SEARCH example pattern.",
+  "correct": false
+}

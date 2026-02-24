@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a narrow horizontal band in the upper-left/central area, consistent with focusing on a short code snippet in one region rather than scanning long text (READ/BROWSE) or multiple interfaces (DEBUG/WRITE/SEARCH). The dense fixations and small saccades over a compact area best match inspecting a short function to predict its output (INTERPRET).",
+  "correct": false
+}

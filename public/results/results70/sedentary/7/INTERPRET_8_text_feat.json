@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense, localized fixations with frequent short saccades around code-like coordinate regions, repeated revisits to similar lines/areas, and lack of long horizontal reading or large exploratory jumps match the focused, analytic inspection of a code snippet to predict its output, as seen in the INTERPRET examples rather than broader navigation (SEARCH/BROWSE) or more distributed code editing/debug patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large saccades with variable horizontal and vertical positions, indicating scanning across different regions of the screen rather than stable line-by-line reading or focused code inspection. This heterogeneous, exploratory pattern best matches the browsing example rather than the more structured patterns of READ, WRITE, INTERPRET, or DEBUG.",
+  "correct": true
+}

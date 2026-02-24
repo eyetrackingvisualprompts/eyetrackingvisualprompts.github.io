@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze remains in relatively small regions for extended periods with occasional larger relocations, consistent with watching dynamic content (video) where the viewer fixates on central or character regions and shifts when scenes or focal elements change, rather than systematic line-by-line scanning (READ/WRITE) or highly exploratory patterns (SEARCH/BROWSE/PLAY).",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a narrow horizontal band with slowly shifting X fixations and relatively high Y position for X (top area) and stable lower Y fixations, resembling looking between text and keyboard/toolbar. This pattern aligns best with the WRITE example, which shows constrained movements and gradual horizontal shifts rather than wide scanning or vertical reading patterns.",
+  "correct": true
+}

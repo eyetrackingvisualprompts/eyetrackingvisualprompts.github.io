@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze alternates between mid and upper/lower screen regions with many short-to-medium fixations and varied saccade amplitudes, including several larger vertical and diagonal jumps, suggesting scanning heterogeneous page areas (e.g., headlines, images, sections) rather than the more line-structured horizontal patterns of READ or the focused left-side clustering of WRITE. This mixed but relatively central exploratory pattern best matches BROWSE.",
+  "correct": false
+}

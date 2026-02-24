@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations remain within a relatively narrow vertical band with gradual horizontal shifts and occasional short regressions, matching the sustained, line-by-line code inspection seen in the DEBUG example more closely than the more linear READ pattern or the larger exploratory movements in BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

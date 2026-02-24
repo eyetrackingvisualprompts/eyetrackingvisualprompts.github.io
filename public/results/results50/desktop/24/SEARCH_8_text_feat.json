@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixations are mostly mid-length (0.2\u20130.7s) with systematic, small horizontal movements around the central/lower-central region, and occasional line-like shifts between nearby horizontal bands (y\u22480.33\u20130.60), matching reading scanpaths more than the larger, more dispersed shifts seen in search/browse or the peripheral, top-heavy patterns in write/watch/play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered along a narrow horizontal band with gradual downward drift, matching the left-to-right, line-by-line scan pattern typical of reading text on a screen rather than the broader, more scattered exploration seen in browsing, search, or gameplay.",
+  "correct": true
+}

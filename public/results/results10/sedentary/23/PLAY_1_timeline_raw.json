@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mostly horizontal scanning with occasional larger vertical shifts and brief excursions to screen edges, consistent with reading search results and intermittently moving to other parts of the page\u2014matching the SEARCH example more than the more static READ or the more dynamic WATCH/PLAY patterns.",
+  "correct": false
+}

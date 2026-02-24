@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Long, stable fixations with small horizontal shifts around mid-upper screen and minimal large-amplitude saccades match the sustained line-by-line scanning pattern seen in the READ examples more than the more exploratory or peripheral-heavy behaviors in BROWSE, SEARCH, WATCH, PLAY, or the upper-screen focus of WRITE.",
+  "correct": false
+}

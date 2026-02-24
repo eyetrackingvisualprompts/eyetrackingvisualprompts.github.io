@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent medium-to-large saccades across wide vertical and horizontal ranges, with many revisits to clustered regions rather than orderly line-by-line or paragraph scanning. This pattern is more consistent with visually tracking and revisiting dynamic game elements on different screen areas than with the more structured, row-based movements of reading/searching/browsing or the localized, code-focused patterns of write/debug/interpret tasks, or the smoother central focus typical of video watching.",
+  "correct": true
+}

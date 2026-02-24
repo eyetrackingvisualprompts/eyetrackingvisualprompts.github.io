@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The x-position shows a repeated pattern of left-to-right staircase-like movements followed by quick regressions, while the y-position drifts slowly with small changes\u2014this matches the line-by-line horizontal scan with occasional vertical shifts characteristic of reading, and closely resembles the Reading example plot.",
+  "correct": true
+}

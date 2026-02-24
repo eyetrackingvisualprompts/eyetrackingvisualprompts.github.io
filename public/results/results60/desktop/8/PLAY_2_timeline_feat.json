@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades cluster around mid-screen with moderate, irregular horizontal and vertical shifts and no strong directional trend, closely matching the exploratory, mixed-movement pattern seen in the BROWSE example rather than the more structured patterns of reading, writing, watching video, searching, or playing games.",
+  "correct": false
+}

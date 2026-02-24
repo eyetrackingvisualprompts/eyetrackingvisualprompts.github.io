@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a lower-central region with dense fixations and short saccades, typical of focusing on a code editor while occasionally glancing upward to other UI elements, matching the WRITE examples more than the other activities.",
+  "correct": false
+}

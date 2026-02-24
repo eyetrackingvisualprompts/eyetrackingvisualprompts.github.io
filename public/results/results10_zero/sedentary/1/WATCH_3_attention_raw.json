@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze heatmap shows concentrated fixations in a few compact regions with limited vertical spread and no systematic horizontal scanning pattern typical of reading or code tasks. The gaze clusters suggest tracking or monitoring dynamic elements in central screen areas, consistent with playing a simple game rather than reading, writing, debugging, or searching/browsing static text-heavy content.",
+  "correct": false
+}

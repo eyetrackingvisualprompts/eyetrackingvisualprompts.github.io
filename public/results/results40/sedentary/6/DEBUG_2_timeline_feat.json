@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze patterns show frequent medium-to-large saccades with varied vertical positions, alternating between regions like a user scanning different areas of web pages, similar to the BROWSE example and less structured than READ or code-related tasks.",
+  "correct": false
+}

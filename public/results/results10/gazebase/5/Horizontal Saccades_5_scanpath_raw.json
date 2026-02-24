@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze path shows repeated long horizontal movements at nearly constant vertical position across much of the screen, characteristic of tracking a target moving horizontally, with minimal vertical variation aside from one excursion, matching the Horizontal Saccades pattern.",
+  "correct": true
+}

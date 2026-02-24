@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze heatmap shows a wide spatial distribution with dense fixations around the central area and scattered points across much of the screen, resembling the PLAY example where users track dynamic game elements rather than the more linear or localized patterns of reading, coding, or browsing tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-amplitude saccades with X around center and Y oscillating between upper and lower regions, indicating repeated transitions between a search box, result list, and other page elements. This mixed, exploratory pattern best matches the SEARCH task compared with the more structured READ/WRITE or the distinct patterns of BROWSE, PLAY, and WATCH.",
+  "correct": true
+}

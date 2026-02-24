@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are distributed over a broad central region with frequent saccades across mid-screen areas and mixed vertical/horizontal movements, closely resembling the exploratory, multi-region pattern seen in the BROWSE example rather than the more localized or structured patterns of reading, writing, watching, searching, or playing.",
+  "correct": false
+}

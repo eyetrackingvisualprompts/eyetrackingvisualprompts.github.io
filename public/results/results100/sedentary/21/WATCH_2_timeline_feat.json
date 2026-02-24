@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shows frequent medium-range horizontal and vertical shifts between a few bands, with many saccades and revisits, resembling code navigation and checking behavior seen in the DEBUG example rather than the more linear patterns of READ/WRITE or the broader sweeps of BROWSE/WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between a central reading-like region and large, rapid jumps to extreme screen coordinates (including off-screen and corners), with varied vertical positions and occasional long fixations\u2014matching the heterogeneous, exploratory patterns seen in BROWSE, and differing from the more structured, line-based READ or code-focused tasks.",
+  "correct": false
+}

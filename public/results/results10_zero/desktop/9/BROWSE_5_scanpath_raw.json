@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades covering almost the entire screen in multiple directions with little repetitive horizontal or vertical structure, consistent with visually exploring and tracking dynamic game elements rather than structured reading, writing, browsing, searching, or passively watching a video.",
+  "correct": false
+}

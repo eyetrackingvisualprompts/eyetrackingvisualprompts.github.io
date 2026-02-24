@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is almost static with very small drift and only two brief vertical spikes, indicating sustained fixation near the screen center with minimal scanning or systematic horizontal saccades; this pattern best matches passively watching a video rather than reading, coding-related tasks, searching, or interactive game play which would show more structured or frequent eye movements.",
+  "correct": false
+}

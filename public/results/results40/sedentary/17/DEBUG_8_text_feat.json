@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and diagonal gaze shifts between widely separated regions (top, middle, and bottom of screen), revisits to similar vertical bands, and irregular, non-line-by-line scan patterns resemble scrolling and skimming behavior seen in BROWSE examples rather than the more horizontal, structured patterns in READ or the focused code-region patterns in programming tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses in smooth, mostly horizontal sweeps within a constrained vertical band, with systematic left/right passes and short-to-moderate fixations, matching line-by-line text reading rather than the larger jumps or vertical scanning seen in search/browse or the localized code/IDE patterns in programming tasks.",
+  "correct": true
+}

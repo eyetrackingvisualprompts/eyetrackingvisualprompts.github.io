@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long vertical saccades between mid-page content and far top regions, combined with repeated horizontal scans across a mid-height band and occasional jumps to far right/upper coordinates, match the scanning and result-list navigation pattern seen in the SEARCH examples more than the more localized or structured patterns of READ, WRITE, or PLAY.",
+  "correct": false
+}

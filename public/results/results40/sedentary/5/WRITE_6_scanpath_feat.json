@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on a main region on the left with repeated fixations and horizontal saccades toward a secondary cluster on the right, matching behavior of looking at a search results list and occasionally shifting to a specific result page, characteristic of SEARCH rather than the more localized code-focused or full-screen activities.",
+  "correct": false
+}

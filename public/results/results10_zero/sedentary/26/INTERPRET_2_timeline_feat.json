@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays confined to a narrow region with very small, slow drifts and minimal rapid horizontal jumps or line changes, indicating passively following a mostly static area (typical of watching video content) rather than the structured left-to-right, multi-line patterns of reading or the larger exploratory movements of search, browse, coding, or games.",
+  "correct": false
+}

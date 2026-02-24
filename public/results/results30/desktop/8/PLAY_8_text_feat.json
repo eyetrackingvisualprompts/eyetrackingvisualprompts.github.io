@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly mid-screen fixations with moderate-duration fixations and frequent medium-amplitude vertical and diagonal saccades, including occasional larger jumps across central regions, matches the heterogeneous, scanning pattern seen in the BROWSE examples more than the more horizontal READ pattern, highly top/bottom-focused WRITE and PLAY, or the large-scene shifts of WATCH and SEARCH.",
+  "correct": false
+}

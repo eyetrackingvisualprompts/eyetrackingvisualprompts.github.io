@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-range horizontal movements with moderate vertical variability and many short fixations, closely matching the exploratory, scattered pattern seen in the BROWSE example rather than the more structured patterns of READ or WRITE or the smoother trajectories of WATCH/PLAY.",
+  "correct": false
+}

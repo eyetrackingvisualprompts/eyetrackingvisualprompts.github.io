@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in the lower-left to mid-left region (typical text area) with the Y fixation remaining high and relatively stable while X fixation slowly drifts and periodically resets, matching the pattern of writing and editing text in a word processor rather than scanning full pages or dynamic scenes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades to widely separated screen regions (including edges/corners and off-center areas), revisits to mid-page horizontal bands, and scanning-like movements over a broad vertical range resemble the heterogeneous, multi-panel navigation pattern seen in the BROWSE examples more than the more structured, row-wise (READ/SEARCH) or code-focused (INTERPRET/DEBUG/WRITE) patterns or object-tracking (PLAY) or more scene-centered (WATCH) behavior.",
+  "correct": false
+}

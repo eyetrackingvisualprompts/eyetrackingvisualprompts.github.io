@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-amplitude saccades with shifting vertical levels and no stable horizontal scanlines suggest moving between query box, results list, and different pages, matching the SEARCH pattern more than the steadier READ or the more erratic PLAY/WATCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a horizontal band with dense, sequential left-to-right fixations and short intra-line saccades around y\u2248460\u2013600, with occasional brief regressions and line-like shifts\u2014closely matching the structured line-by-line pattern seen in the READ examples and unlike the more scattered, multi-region exploration of SEARCH/BROWSE or the code-centric vertical patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

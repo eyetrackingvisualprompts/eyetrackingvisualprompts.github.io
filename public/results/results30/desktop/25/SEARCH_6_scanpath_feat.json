@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows clustered fixations with moderate saccades in multiple directions around a central region, reflecting exploration and intermittent re-fixation typical of web search result scanning, and it aligns most closely with the example SEARCH scanpath compared to the more linear READ/WRITE or more dispersed BROWSE/PLAY/WATCH patterns.",
+  "correct": true
+}

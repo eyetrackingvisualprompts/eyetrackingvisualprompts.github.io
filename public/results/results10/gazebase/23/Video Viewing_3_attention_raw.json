@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The heatmap shows multiple distinct fixation clusters scattered across both horizontal and vertical dimensions over the screen, without the strong central bias of video viewing or the strictly horizontal band of reading or horizontal saccades. This dispersed pattern best matches the random, widely distributed target positions in the Random Saccades task.",
+  "correct": false
+}

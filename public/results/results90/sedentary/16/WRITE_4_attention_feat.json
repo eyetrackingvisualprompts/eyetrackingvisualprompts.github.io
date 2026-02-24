@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered in a single left-side area with minimal spread, closely matching the INTERPRET example where participants focus on a compact code snippet rather than scanning broadly as in browsing, debugging, or searching.",
+  "correct": false
+}

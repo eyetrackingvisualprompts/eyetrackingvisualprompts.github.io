@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a relatively small central region with long fixations (often >1 s) and short, local saccades, lacking the systematic horizontal/vertical scanpaths of reading, browsing, or code-related tasks. There are occasional larger jumps but overall the pattern resembles following visual content in a video rather than structured text or interactive search/game behavior.",
+  "correct": false
+}

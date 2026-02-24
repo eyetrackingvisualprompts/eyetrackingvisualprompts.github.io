@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze clusters repeatedly around central code-like regions with frequent short saccades between nearby coordinates, occasional jumps to off-screen/IDE UI areas, and brief excursions to edges, closely matching the WRITE example patterns and differing from the smoother, more continuous scanlines of READ or WATCH and the more erratic, global movements of SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

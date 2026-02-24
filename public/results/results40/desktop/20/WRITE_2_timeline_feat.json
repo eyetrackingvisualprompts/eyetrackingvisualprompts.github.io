@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows a long period of relatively smooth horizontal progression with modest vertical change followed by a sharp jump to the bottom of the screen and then a rapid upward sweep, indicating large, fast gaze shifts across much of the display\u2014patterns most consistent with visually tracking game elements rather than the more locally constrained movements seen in reading, writing, searching, or browsing.",
+  "correct": false
+}

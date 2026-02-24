@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in the central horizontal band with relatively low vertical position and moderate, localized saccades\u2014matching the WRITE template more closely than the others, which show higher or more variable vertical fixations (READ/SEARCH/BROWSE) or larger excursions (PLAY/WATCH).",
+  "correct": false
+}

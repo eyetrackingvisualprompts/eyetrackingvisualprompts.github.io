@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, irregular shifts in both X and Y with several distinct horizontal plateaus and vertical jumps, indicating scanning different areas of a mainly static page. Movements are less systematic than reading, less vertically constrained than writing, and lack the rapid oscillations typical of playing, matching browsing behavior on web pages.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays in a mid-upper screen band with frequent short horizontal shifts and brief vertical transitions between nearby regions, resembling scanning web/news content rather than the highly central, line-based stability of READ or the larger, more dynamic shifts seen in PLAY, WATCH, SEARCH, or the more lower-screen focused WRITE patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated in a central horizontal band with some spread, similar to tracking a moving game object, matching the PLAY heatmap more closely than the more localized code/text tasks or dispersed browsing/search patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal scanning with frequent vertical shifts and irregular saccades, suggesting movement between results, snippets, and different screen regions typical of using a search engine, rather than the more linear pattern of READ or the denser code-focused patterns of DEBUG/WRITE.",
+  "correct": false
+}

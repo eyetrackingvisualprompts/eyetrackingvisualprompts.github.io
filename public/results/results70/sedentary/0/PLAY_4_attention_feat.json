@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is distributed horizontally across a wide central band with multiple clusters and some scattered peripheral fixations, indicating scanning varied web content rather than focusing narrowly on a single code block, text paragraph, or game/video center, which matches the browsing pattern.",
+  "correct": false
+}

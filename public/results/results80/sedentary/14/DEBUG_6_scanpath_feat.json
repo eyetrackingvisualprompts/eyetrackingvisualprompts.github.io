@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over the left-central area where code would appear, with frequent vertical and local movements plus occasional long saccades to the right (likely console or run button), closely matching the DEBUG example pattern more than WRITE or other tasks.",
+  "correct": true
+}

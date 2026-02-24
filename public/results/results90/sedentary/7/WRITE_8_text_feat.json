@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between widely separated screen regions (including top, address/search bar area, and central content), revisits to similar horizontal bands, and mixed scanning plus focused local inspection resemble the SEARCH examples more than the more linear READ pattern or code-centric WRITE/DEBUG/INTERPRET behaviors.",
+  "correct": false
+}

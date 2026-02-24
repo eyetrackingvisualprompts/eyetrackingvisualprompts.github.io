@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated near the bottom of the screen with a narrow horizontal spread, matching the gaze position over a text line and cursor area typical of typing in a word processor, similar to the WRITE example pattern.",
+  "correct": false
+}

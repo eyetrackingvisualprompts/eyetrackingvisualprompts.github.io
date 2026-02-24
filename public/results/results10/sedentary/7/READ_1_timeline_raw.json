@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "X position shows repeated leftward jumps followed by gradual rightward movement with nearly constant Y position, matching line-by-line horizontal reading behavior seen in the READ example plot.",
+  "correct": true
+}

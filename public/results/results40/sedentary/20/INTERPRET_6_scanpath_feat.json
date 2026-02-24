@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact region in the upper-left/center of the screen with dense, repeated fixations and short saccades within that area, similar to code-focused tasks. Compared to DEBUG (more dispersed and exploratory), this pattern matches the concentrated inspection seen in INTERPRET examples where participants analyze a short code snippet without wider navigation.",
+  "correct": true
+}

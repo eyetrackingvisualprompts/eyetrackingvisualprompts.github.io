@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are spread widely across the screen, including near the horizontal and vertical extremes, with no clear linear (purely horizontal) pattern or structured clusters like reading or game/video viewing; this broad, scattered distribution matches a randomly moving target across the display.",
+  "correct": false
+}

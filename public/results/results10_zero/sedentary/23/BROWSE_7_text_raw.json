@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form mostly horizontal clusters with small vertical shifts consistent with line-by-line reading, without the large erratic jumps or screen-edge following typical of games, browsing, or video watching, and without the concentrated code-area scanning patterns seen in WRITE/DEBUG/INTERPRET/SEARCH tasks.",
+  "correct": false
+}

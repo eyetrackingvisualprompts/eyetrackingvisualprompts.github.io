@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze patterns show long, smooth left-to-right sweeps along a narrow vertical band (y\u2248180\u2013260 then \u2248310\u2013380, then \u2248440\u2013550), with repeated passes across similar horizontal ranges and brief regressions\u2014characteristic of line-by-line reading rather than the more scattered, target-driven patterns of search/browse or the code-focused clusters of programming tasks.",
+  "correct": false
+}

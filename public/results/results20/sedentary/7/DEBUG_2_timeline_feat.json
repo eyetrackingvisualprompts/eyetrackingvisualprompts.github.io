@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows large, frequent vertical transitions between high and low Y positions and varied horizontal movement, resembling scanning result lists and switching between results, which best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered near screen center with moderate, multidirectional saccades and no clear horizontal reading line, resembling exploratory on-page navigation patterns seen in the BROWSE example.",
+  "correct": false
+}

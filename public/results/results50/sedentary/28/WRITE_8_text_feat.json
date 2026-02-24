@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long fixations with many large, multi-directional saccades across widely separated screen regions (including far corners and large vertical jumps) match exploratory webpage navigation rather than the more line-structured patterns of READ/WRITE/INTERPRET or the highly dynamic central shifts of WATCH/PLAY.",
+  "correct": false
+}

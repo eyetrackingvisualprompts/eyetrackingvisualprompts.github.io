@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze remains confined to a small central area with short, jittery saccades and no clear horizontal or vertical sweep typical of reading or browsing; this localized cluster suggests monitoring a narrow region like the text insertion point and nearby UI while typing, consistent with the WRITE activity.",
+  "correct": false
+}

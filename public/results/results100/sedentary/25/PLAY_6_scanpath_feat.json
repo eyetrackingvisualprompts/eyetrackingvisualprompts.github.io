@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread over a wide vertical range with many transitions between central text-like area and other regions, including top and lower parts of the screen, resembling scanning result lists and occasional deeper page visits typical of search behavior rather than the more localized patterns of READ, WRITE, or DEBUG.",
+  "correct": false
+}

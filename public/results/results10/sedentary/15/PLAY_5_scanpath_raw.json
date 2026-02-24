@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide spatial coverage with frequent transitions between mid and lower screen regions, plus a late long saccade toward the top-right, matches the heterogeneous, result-scanning behavior seen in the SEARCH example more than the more localized code-reading or reading patterns of INTERPRET/DEBUG/READ.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-sized horizontal shifts with several abrupt vertical jumps and plateaus, suggesting scrolling and switching attention among different areas of web pages, which aligns best with browsing behavior rather than the more structured or focused patterns of reading, writing, searching, playing, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are steadily near the lower part of the screen with a slow rightward drift in X and relatively low Y, closely matching the WRITE example where gaze stays around the text-entry area rather than scanning full pages or dynamic content.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Long stretches of horizontally constrained fixations with slowly drifting Y, then a sudden shift to a lower region with similarly narrow horizontal range, closely match the stable, line-focused gaze pattern seen in the WRITE example and typical code-writing on a single code pane, rather than the more scattered or vertical-scan patterns of browsing, search, or reading text blocks.",
+  "correct": false
+}

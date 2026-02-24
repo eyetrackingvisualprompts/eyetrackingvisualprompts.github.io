@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a mid-screen region with frequent, multidirectional saccades and no clear horizontal line structure, resembling the exploratory, scattered pattern of the BROWSE example more than the more linear READ/WRITE or constrained WATCH/PLAY patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains within a relatively compact central region with frequent short saccades and sub-second to ~1.2s fixations, consistent with scanning lines or small text blocks rather than following dynamic video scenes, game elements, or dispersed web content. This stable, locally shifting pattern best matches sustained reading behavior.",
+  "correct": false
+}

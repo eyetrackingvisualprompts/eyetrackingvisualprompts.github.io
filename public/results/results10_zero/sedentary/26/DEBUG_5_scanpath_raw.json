@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered in a compact region on the left side with repeated revisits and small local saccades, consistent with focusing on a code editor while typing, rather than scanning broadly across multiple areas as in search, browse, or watch tasks.",
+  "correct": false
+}

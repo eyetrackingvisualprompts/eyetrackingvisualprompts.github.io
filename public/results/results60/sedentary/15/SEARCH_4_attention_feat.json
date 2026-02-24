@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations start heavily concentrated near the top-left (typical search box/result header area) and then progress horizontally across upper regions of the screen, matching the pattern of scanning search results rather than focused reading or coding.",
+  "correct": true
+}

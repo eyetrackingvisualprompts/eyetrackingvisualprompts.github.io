@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across a relatively central region with frequent revisits and varied saccade directions, indicating scanning of both results and content areas, which most closely matches the SEARCH pattern compared to the more localized READ/WRITE and the more polarised PLAY/WATCH examples.",
+  "correct": false
+}

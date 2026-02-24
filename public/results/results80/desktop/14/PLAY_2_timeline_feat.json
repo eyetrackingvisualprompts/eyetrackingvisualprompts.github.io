@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y fixations fluctuate around the screen center with frequent, irregular saccades and no clear horizontal sweep or stable bands, matching the varied, scattered viewing behavior typical of web/news browsing rather than structured patterns of reading, writing, searching, watching, or game play.",
+  "correct": false
+}

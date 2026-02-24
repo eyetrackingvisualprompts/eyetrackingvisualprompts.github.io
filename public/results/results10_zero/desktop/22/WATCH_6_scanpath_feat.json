@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a compact central region with relatively small horizontal movements and limited vertical shifts, forming a tight cluster typical of watching a localized area in a video rather than scanning lines of text (READ/WRITE) or widely exploring content (BROWSE/SEARCH/PLAY).",
+  "correct": true
+}

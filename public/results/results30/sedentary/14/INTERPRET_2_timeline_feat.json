@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow vertical band near the top of the screen with relatively small, repetitive horizontal movements and few large saccades, closely matching the WRITE example pattern and differing from the wider, more scattered exploration seen in BROWSE, SEARCH, or PLAY.",
+  "correct": false
+}

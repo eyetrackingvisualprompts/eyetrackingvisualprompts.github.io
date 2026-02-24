@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a narrow horizontal band with small saccades and stable fixations, matching the localized, line-based viewing pattern typical of reading text on a screen, similar to the READ example and unlike the broader exploration seen in browsing or searching.",
+  "correct": false
+}

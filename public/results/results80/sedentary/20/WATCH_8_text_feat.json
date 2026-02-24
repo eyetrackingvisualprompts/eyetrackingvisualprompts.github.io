@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent large saccades across the entire screen (including extreme corners and off-text regions), recurrent jumps between top, middle, and bottom, and irregular, non-line-based fixations, closely matching the exploratory, scattered scanpaths seen in the BROWSE examples rather than the more structured patterns of reading, coding, or game-centric tracking.",
+  "correct": false
+}

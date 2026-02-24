@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are highly concentrated in a compact region on the left-center of the screen with minimal dispersion elsewhere, matching the focused, localized gaze pattern seen in the DEBUG example where participants concentrate on a specific code area while debugging.",
+  "correct": false
+}

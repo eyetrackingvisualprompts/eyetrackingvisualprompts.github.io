@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a horizontal band near the top-middle of the screen with occasional long saccades to the far right and bottom areas, matching the pattern of focusing on source code while periodically glancing at other IDE regions such as console or file explorer, which aligns best with the WRITE examples.",
+  "correct": false
+}

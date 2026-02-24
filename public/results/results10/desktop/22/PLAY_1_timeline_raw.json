@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze traces show moderate horizontal movement with gradual shifts and occasional vertical transitions, resembling the mixed scanning of results and query area in the SEARCH example more closely than the more static READ pattern or the larger, abrupt movements in BROWSE/PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, frequent, multidirectional saccades spanning almost the entire screen, with repeated returns to various dispersed locations and no clear horizontal-only or line-by-line structure. This broad, irregular coverage with many refixations matches the gaze-driven Balura Game behavior rather than reading, video viewing, fixations, or structured saccade tasks.",
+  "correct": true
+}

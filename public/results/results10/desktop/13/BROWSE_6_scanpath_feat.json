@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points and saccades are distributed over a moderately sized central region with frequent shifts among nearby locations, resembling the exploratory yet locally clustered pattern seen in the BROWSE example more than the more linear READ/WRITE patterns or the more dispersed PLAY/WATCH patterns.",
+  "correct": true
+}

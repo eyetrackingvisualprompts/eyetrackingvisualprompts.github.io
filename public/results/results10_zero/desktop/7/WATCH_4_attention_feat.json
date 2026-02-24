@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a very narrow cluster of fixations at nearly constant vertical level with minimal horizontal spread, suggesting sustained attention to a small region such as the center of a video frame rather than the systematic left-right, top-down scan patterns typical of reading, writing, searching, or browsing, and with less extensive multi-directional movement than expected in gameplay.",
+  "correct": true
+}

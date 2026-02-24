@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is split between a concentrated cluster near the lower area (code/editor region) and another cluster toward the upper-left (likely menus or reference area), with large transitions between them, closely matching the WRITE example pattern rather than the more localized patterns of reading/interpreting or the broader exploratory patterns of browse/search/play/watch.",
+  "correct": false
+}

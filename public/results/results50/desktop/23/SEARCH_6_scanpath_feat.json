@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze points are clustered in a mid-screen region with moderate dispersion and frequent short saccades, resembling focused examination of dense but localized information, which matches the example SEARCH scanpath more closely than the others.",
+  "correct": true
+}

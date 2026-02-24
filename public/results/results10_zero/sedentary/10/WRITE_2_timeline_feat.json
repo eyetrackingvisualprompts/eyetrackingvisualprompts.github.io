@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show small horizontal progressions with occasional regressions and stepwise downward shifts in Y, characteristic of line-by-line reading rather than large exploratory or dynamic movements seen in browsing, games, or video watching.",
+  "correct": false
+}

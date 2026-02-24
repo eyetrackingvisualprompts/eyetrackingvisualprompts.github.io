@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze remains within a narrow horizontal band with small, steady shifts and occasional moderate saccades, indicating focused inspection of a compact code snippet rather than extended reading, browsing, or scanning; this pattern best matches the INTERPRET examples, where participants analyze and mentally simulate short functions.",
+  "correct": false
+}

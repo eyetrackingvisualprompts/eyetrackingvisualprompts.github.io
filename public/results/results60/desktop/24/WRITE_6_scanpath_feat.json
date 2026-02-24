@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows horizontally aligned fixations with limited vertical movement, characteristic of line-by-line reading behavior rather than the more dispersed or multi-directional patterns seen in browse, search, play, watch, or write tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts consist of large-amplitude saccades to multiple dispersed positions (up to ~0.9 units from center) with long, ~1 s or longer fixations at each location, matching a task where a single target jumps to and then stays at random screen positions. This pattern is inconsistent with central fixation, reading-like linear progression, or strictly horizontal motion, and better fits the Random Saccades paradigm than the more complex, multi-target behavior of the Balura Game or free video viewing.",
+  "correct": false
+}

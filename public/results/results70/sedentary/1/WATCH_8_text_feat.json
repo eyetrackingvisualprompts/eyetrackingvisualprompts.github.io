@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps between widely separated screen regions (including corners and off-center areas), mixed with medium fixations over both central and peripheral zones, and extensive vertical span are characteristic of scanning heterogeneous web pages rather than structured code, continuous text, or a single video scene. The pattern closely matches the example BROWSE data\u2019s broad exploratory navigation and revisits across the page.",
+  "correct": false
+}

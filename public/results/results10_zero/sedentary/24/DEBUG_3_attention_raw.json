@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a compact horizontal band of fixations in the upper-left region, consistent with reading a single line or short span of text, with limited vertical movement and no wide exploratory or dynamic tracking typical of browsing, searching, playing, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow central region with predominantly short horizontal saccades and medium-length fixations, closely matching the stable, line-by-line scan pattern seen in the READ examples and lacking the larger multidirectional shifts typical of SEARCH, BROWSE, PLAY, or WATCH, or the upper-screen bias of WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is distributed horizontally across mid-screen with several clusters and some lower-area fixations, indicating scanning through web content with occasional attention to other elements, which best matches the browsing pattern.",
+  "correct": false
+}

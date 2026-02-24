@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a narrow horizontal band with small saccades and minimal vertical spread, matching the stable line-by-line gaze pattern typical of reading, and closely resembling the READ example scanpath.",
+  "correct": false
+}

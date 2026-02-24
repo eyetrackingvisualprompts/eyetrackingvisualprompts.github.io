@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is mostly clustered over a narrow code-like region with repeated vertical movements and occasional long shifts to another area (likely console/output), closely matching the INTERPRET example scanpath and typical behavior when predicting a code snippet\u2019s output.",
+  "correct": false
+}

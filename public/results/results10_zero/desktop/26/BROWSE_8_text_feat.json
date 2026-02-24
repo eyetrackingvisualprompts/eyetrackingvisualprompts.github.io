@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between dispersed regions (including top, middle, and near-bottom of the screen) with irregular saccades and medium-length fixations, suggesting scanning heterogeneous content like headlines, images, and text blocks rather than the more systematic horizontal/line-based pattern of READ or the centrally focused, smoother behavior of WATCH or PLAY.",
+  "correct": true
+}

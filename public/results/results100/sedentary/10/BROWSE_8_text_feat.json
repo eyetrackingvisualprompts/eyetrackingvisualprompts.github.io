@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between widely separated screen regions including off-screen/top areas, alternating with medium-length reading-like scans and checks of upper URL/search bar region, strongly resemble web search behavior rather than focused code, continuous text reading, or game object following.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated on a compact code region in the upper-left area, with minimal horizontal scanning or multiple line traversal. This pattern closely matches the INTERPRET example, where participants study a short code snippet to reason about its output, rather than the broader spread seen in DEBUG or WRITE.",
+  "correct": false
+}

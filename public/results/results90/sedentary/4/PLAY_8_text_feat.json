@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows rapid, large-amplitude saccades across wide screen regions (including to extreme periphery) with many medium-length (0.2\u20130.8 s) fixations around central-mid and upper areas, repeatedly revisiting a moving locus near ~(900\u20131000, 500\u2013600). The pattern emphasizes object-following and spatial tracking rather than orderly line scanning (READ/BROWSE) or code-centric clusters (WRITE/DEBUG/INTERPRET), and matches the dynamic, target-chasing behavior characteristic of PLAY examples, especially games like Pong/Agario.",
+  "correct": true
+}

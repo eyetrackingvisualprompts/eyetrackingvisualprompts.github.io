@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around the center with moderate vertical shifts and occasional larger saccades, resembling the dispersed yet constrained pattern of navigating mixed web content, which matches the BROWSE example more than the tighter horizontal patterns of READ/WRITE or the more peripheral distributions of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

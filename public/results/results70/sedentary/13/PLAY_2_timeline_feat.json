@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows medium-range horizontal scanning with gradual rightward drift and moderate vertical variation, along with frequent but not extreme saccades\u2014more exploratory and code-focused than INTERPRET/WRITE, but less chaotic and wide-ranging than SEARCH/BROWSE/PLAY, matching the DEBUG template pattern most closely.",
+  "correct": false
+}

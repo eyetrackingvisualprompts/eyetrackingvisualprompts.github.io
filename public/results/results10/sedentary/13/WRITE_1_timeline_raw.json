@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively smooth, slow horizontal progression with small vertical shifts and occasional brief spikes, matching the stable left-to-right scanning and minor line changes typical of reading rather than the larger, more erratic movements seen in tasks like SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

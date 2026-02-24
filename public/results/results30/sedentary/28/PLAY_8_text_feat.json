@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning the entire screen (including off-screen coordinates), rapid transitions between widely separated regions, and revisits to central task-related zones match the dynamic, spatially dispersed gaze behavior seen in the PLAY examples rather than the more localized or structured patterns of reading, coding, or browsing.",
+  "correct": true
+}

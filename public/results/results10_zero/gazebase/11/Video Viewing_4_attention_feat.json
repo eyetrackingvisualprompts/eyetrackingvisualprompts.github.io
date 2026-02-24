@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "Fixations form a mostly horizontal line in the upper portion of the screen with small, discrete steps and one rightward jump, characteristic of reading-like left-to-right saccades across a single text line rather than large regular horizontal sweeps, static central gaze, game-like scattered points, or random 2D saccades.",
+  "correct": false
+}

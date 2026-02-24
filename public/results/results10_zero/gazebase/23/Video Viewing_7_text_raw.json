@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, rapid jumps to widely separated positions in both horizontal and vertical directions (multi-degree shifts), followed by short, relatively stable clusters\u2014consistent with following a target that appears at random 2D locations and holds ~1s. The pattern is not confined to a central point (Fixations), not dominantly horizontal (Horizontal Saccades), lacks line-structured left-to-right progressions (Reading), and shows more structured step-like transitions than expected for free Video Viewing or the game scenario.",
+  "correct": false
+}

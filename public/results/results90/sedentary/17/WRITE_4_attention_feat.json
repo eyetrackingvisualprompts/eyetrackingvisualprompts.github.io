@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly concentrated on a single code-like region on the left side with minimal spread elsewhere, closely matching the INTERPRET example pattern and differing from the more scattered DEBUG or WRITE heatmaps.",
+  "correct": false
+}

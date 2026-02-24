@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze stays within a compact code-like region with many short, back-and-forth saccades and repeated revisits to nearby lines/columns (around y\u2248330\u2013480), resembling careful line-by-line inspection and local comparisons typical for mentally simulating code output, more than the broader vertical scanning of READ or the more dispersed exploratory patterns of SEARCH/BROWSE/DEBUG.",
+  "correct": false
+}

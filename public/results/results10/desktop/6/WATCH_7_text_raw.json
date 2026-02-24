@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small lower-left region with short, local shifts and long micro-fixations, matching the dense, localized pattern seen in the WRITE example and unlike the broader vertical/horizontal scanning found in READ, SEARCH, or BROWSE, or the larger excursions of PLAY/WATCH.",
+  "correct": false
+}

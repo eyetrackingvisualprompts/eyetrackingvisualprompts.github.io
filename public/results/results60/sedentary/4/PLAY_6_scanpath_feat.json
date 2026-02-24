@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points are widely scattered across the screen with frequent long saccades and no stable reading or code-inspection region, matching the dynamic, full-screen, multi-directional tracking pattern seen in the PLAY example scanpath.",
+  "correct": true
+}

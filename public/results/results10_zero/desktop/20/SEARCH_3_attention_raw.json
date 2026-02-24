@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a tight cluster around a central region with minimal horizontal or vertical scanning, indicating prolonged fixation on a small area\u2014consistent with watching a video where attention is focused on a main character or region, rather than the systematic line-by-line movements of reading, the dispersed exploration of search/browse/play, or the text\u2013cursor shifts of writing.",
+  "correct": false
+}

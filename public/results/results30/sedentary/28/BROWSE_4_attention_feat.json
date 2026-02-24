@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread over the upper-left and central areas, with a dense horizontal cluster around the middle (reading a result snippet) plus scattered points above and below (scanning other results), matching the SEARCH example pattern more than the others.",
+  "correct": false
+}

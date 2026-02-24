@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated long rightward X movements with gradual Y shifts and large vertical saccades to new regions, resembling scrolling and scanning behavior typical in the BROWSE example rather than the more structured patterns of reading or coding tasks.",
+  "correct": false
+}

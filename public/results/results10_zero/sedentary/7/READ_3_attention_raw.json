@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a small, dense cluster of fixations in a narrow horizontal band around mid-screen, consistent with focused inspection of a short code snippet rather than extended reading/browsing or dynamic tracking in games/videos. This localized, intensive gaze pattern best matches the INTERPRET task where participants scrutinize a small function to predict its output.",
+  "correct": false
+}

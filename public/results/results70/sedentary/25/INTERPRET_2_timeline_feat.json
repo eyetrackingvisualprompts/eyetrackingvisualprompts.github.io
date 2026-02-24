@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow central area with small, frequent fixations and few large saccades, resembling the focused, localized viewing of a code editor while typing, which matches the WRITE example pattern best.",
+  "correct": false
+}

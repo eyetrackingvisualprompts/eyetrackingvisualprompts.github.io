@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows sustained horizontal tracking with dense fixations following a band across mid-screen, indicative of visually following moving game elements (similar to Pong/Mario) rather than reading columns, coding, or web browsing layouts.",
+  "correct": true
+}

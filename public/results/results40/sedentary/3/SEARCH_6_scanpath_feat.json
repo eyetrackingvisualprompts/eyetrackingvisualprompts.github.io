@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a horizontal band in the mid-screen (likely results) and a lower region (possibly additional content), with occasional large saccades to the top-left, matching the multi-region exploration typical of web search rather than the more localized or uniform patterns of reading, coding, or watching.",
+  "correct": true
+}

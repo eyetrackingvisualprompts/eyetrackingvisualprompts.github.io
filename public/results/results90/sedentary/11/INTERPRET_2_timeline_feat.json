@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "X and Y fixations drift gradually with moderate range and irregular regressions, showing frequent back-and-forth inspections over a constrained central area, closely matching the DEBUG example pattern and differing from the more stable INTERPRET or highly structured READ/BROWSE behaviors.",
+  "correct": false
+}

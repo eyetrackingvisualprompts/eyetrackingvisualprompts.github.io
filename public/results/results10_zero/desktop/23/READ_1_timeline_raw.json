@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions stay within a relatively narrow horizontal band with slow, small shifts and occasional brief transitions, indicating line-by-line scanning of mostly static text rather than large directional movements (PLAY), frequent page changes or link scanning (BROWSE/SEARCH), or large dynamic shifts typical of WATCH or WRITE activities.",
+  "correct": true
+}

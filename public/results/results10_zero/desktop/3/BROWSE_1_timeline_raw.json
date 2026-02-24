@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay mostly within a central band with relatively small, smooth fluctuations and no clear left-to-right line sweeps typical of reading or writing. There are a few brief vertical shifts but overall the pattern suggests sustained central fixation consistent with watching video content rather than scanning text, web pages, or game areas.",
+  "correct": false
+}

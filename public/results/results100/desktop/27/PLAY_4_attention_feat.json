@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations cluster around the upper-central area with some spread, matching the search example\u2019s pattern near the search box and results list, and differing from the more central BROWSE cluster and linear READ/WRITE patterns.",
+  "correct": false
+}

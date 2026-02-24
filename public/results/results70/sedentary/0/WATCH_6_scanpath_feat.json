@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are widely dispersed across the central and right regions with frequent long saccades in multiple directions and no structured line-by-line pattern, closely matching the dynamic, screen-spanning scanpath typical of game playing rather than reading, coding, or browsing tasks.",
+  "correct": false
+}

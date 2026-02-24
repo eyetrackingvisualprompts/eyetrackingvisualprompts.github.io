@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows frequent large-amplitude saccades between lower and mid screen regions (e.g., y\u22480.14\u20130.20 up to \u22480.4\u20130.45 and back), with many long, oblique movements and shorter fixations than in READ/WRITE. The pattern is more dynamic and spatially dispersed than BROWSE/SEARCH (which stay mid\u2013upper) and lacks the prolonged central clustering typical of WATCH, aligning best with game-like visual tracking in PLAY.",
+  "correct": false
+}

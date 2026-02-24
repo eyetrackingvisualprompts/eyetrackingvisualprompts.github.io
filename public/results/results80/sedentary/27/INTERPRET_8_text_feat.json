@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical and horizontal jumps across the screen and even off-screen coordinates, alternating between top bars and lower regions, with irregular, non-linear scanning patterns match the exploratory, unconstrained gaze behavior seen in BROWSE examples rather than the more structured patterns of reading, coding, or game/video tracking.",
+  "correct": false
+}

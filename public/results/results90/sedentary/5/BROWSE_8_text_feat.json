@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades across wide screen areas (including off-content regions with negative coordinates), repeated revisits to header-like horizontal bands, and occasional long jumps to page extremities resemble scanning and navigating web pages rather than the more uniform line-by-line patterns of READ or the localized code-focused patterns of WRITE/DEBUG/INTERPRET. The pattern matches the heterogeneous, exploratory behavior typical of BROWSE examples.",
+  "correct": true
+}

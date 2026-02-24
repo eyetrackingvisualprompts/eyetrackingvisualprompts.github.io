@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the upper-central region with several scattered points toward the right, resembling attention around a search results list and occasional glances to other interface elements, which matches the SEARCH heatmap more than the other activities.",
+  "correct": false
+}

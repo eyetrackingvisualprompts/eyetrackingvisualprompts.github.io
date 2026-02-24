@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-range shifts in both X and Y with varied fixation locations, more scattered than structured reading/ writing patterns but less stable than watching, matching exploratory scanning behavior typical of web search pages (results lists, clicking, scrolling).",
+  "correct": false
+}

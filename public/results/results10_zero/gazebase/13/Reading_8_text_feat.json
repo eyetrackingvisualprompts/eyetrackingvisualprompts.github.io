@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze alternates mainly along the horizontal axis with relatively stable vertical positions around a few discrete levels, showing large left-right jumps of several degrees with ~200\u2013400 ms fixations between them, consistent with tracking a horizontally moving target rather than the more irregular patterns of reading, random saccades, video viewing, or game behavior.",
+  "correct": false
+}

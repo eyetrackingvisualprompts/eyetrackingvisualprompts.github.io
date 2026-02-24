@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze path is predominantly a long, narrow horizontal band with minimal vertical dispersion for most of the trial, matching the structured back\u2011and\u2011forth motion of horizontal saccades; the brief vertical excursions at the right edge appear as isolated deviations, not the dominant pattern seen in random or game-like movements.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered mainly in the central vertical band with frequent shifts between mid and upper/lower regions, indicating repeated transitions between a search box, result list, and possibly content snippets\u2014characteristic of web search behavior rather than the more linear READ pattern or the more dispersed PLAY/BROWSE/WATCH patterns.",
+  "correct": false
+}

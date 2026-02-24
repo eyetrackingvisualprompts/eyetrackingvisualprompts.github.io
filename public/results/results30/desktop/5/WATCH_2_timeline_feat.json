@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mid-screen horizontal positions with frequent medium-amplitude saccades and moderate vertical changes, indicating scanning result lists and switching between snippets or pages\u2014patterns most consistent with web searching rather than the more linear READ pattern or the more dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixation trajectories show mid-screen horizontal focus with moderate vertical movement and frequent, varied saccades, resembling the mixed, less-structured scanning behavior in the BROWSE example rather than the more systematic patterns seen in READ, WRITE, or the more extreme motions in PLAY and WATCH.",
+  "correct": false
+}

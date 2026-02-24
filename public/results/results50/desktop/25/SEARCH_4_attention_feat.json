@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated around the central-upper region with moderate vertical spread, closely resembling the SEARCH example pattern where attention alternates between the query box, results list, and central content, rather than the more linear READ pattern or corner-focused WRITE/PLAY layouts.",
+  "correct": true
+}

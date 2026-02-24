@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large saccades spanning different vertical regions (top, middle, and lower screen) with relatively short fixations and irregular, non-line-based scanning, consistent with exploring search results and switching between query box, results list, and other page elements rather than the more line-structured READ, stationary bottom-focused WRITE, or center-focused WATCH patterns.",
+  "correct": true
+}

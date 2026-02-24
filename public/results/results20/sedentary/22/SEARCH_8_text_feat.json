@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, rapid saccades between a results-like band near the top (y\u224890\u2013120), content regions mid-screen, and distant areas (including far right and lower extremes), with repeated revisits to the top band, matches the pattern of scanning search results and jumping into/out of result pages typical of the SEARCH task rather than the more line-structured READ or code-focused tasks.",
+  "correct": true
+}

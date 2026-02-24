@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts cover a wide 2D range (both horizontal and vertical within \u00b115\u00b0/\u00b19\u00b0), with relatively long saccades between spatially separated fixation points and no clear horizontal-only pattern, line-like progression, or stimulus-driven clustering. This best matches following a randomly moving target rather than horizontal tracking, reading, gaming, video viewing, or static fixation.",
+  "correct": false
+}

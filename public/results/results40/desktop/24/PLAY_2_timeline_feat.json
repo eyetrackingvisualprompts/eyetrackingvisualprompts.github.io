@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations cluster around the screen center with relatively small, regular horizontal movements and modest vertical shifts, closely matching the stable, line-by-line pattern seen in the READ example rather than the wider, more erratic excursions of browsing, searching, playing, watching, or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-scale vertical and horizontal shifts around overlapping regions, revisits to similar coordinate bands, and scattered excursions (including off-screen/negative values) resemble code inspection and error checking patterns seen in the DEBUG example more than the more linear (READ/WRITE/BROWSE) or screen-wide scanning (SEARCH/PLAY/WATCH) behaviors.",
+  "correct": true
+}

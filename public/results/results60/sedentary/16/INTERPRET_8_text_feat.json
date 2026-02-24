@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like region (~300\u2013400 px width, 260\u2013380 px height) with many short fixations and frequent regressions between nearby lines and tokens, matching the detailed, local inspection pattern seen in INTERPRET examples rather than the broader navigation of SEARCH/BROWSE or the dispersed movement of PLAY/WATCH/WRITE/DEBUG.",
+  "correct": true
+}

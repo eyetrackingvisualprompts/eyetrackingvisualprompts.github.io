@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered in a compact central region around mid-screen, similar to the BROWSE example where attention is focused on a central content area, unlike the more horizontal spread of READ/WRITE or peripheral clusters of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

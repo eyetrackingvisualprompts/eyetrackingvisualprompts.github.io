@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on a left-central vertical region with some downward excursions, resembling attention between search results and lower page elements; pattern closely matches the SEARCH example more than the denser, more localized INTERPRET/DEBUG or the broader BROWSE/PLAY/WATCH behaviors.",
+  "correct": false
+}

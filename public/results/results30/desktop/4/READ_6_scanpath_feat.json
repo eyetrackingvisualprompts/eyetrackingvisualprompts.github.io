@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a tight, horizontally elongated cluster with small vertical variation, similar to line-by-line reading behavior and closest in pattern to the READ example scanpath.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely dispersed across the screen with multiple small clusters and vertical spread, indicating scanning diverse webpage regions rather than concentrated reading lines, video watching, or focused coding areas; this pattern best matches the exploratory nature of BROWSE.",
+  "correct": false
+}

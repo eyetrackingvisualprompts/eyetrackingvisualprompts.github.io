@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact horizontal band on the left, consistent with focusing on a small code snippet, with a few long saccades away (likely to the console or elsewhere in the IDE), which matches the code-understanding INTERPRET task more than the other activities.",
+  "correct": false
+}

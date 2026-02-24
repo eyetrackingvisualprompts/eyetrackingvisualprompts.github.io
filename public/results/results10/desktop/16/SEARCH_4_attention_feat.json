@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central mid-screen area with a compact cluster, matching the typical gaze pattern on news/blog pages, and differing from the more horizontal scanlines of READ/WRITE and the upper-screen focus of WATCH/SEARCH/PLAY.",
+  "correct": false
+}

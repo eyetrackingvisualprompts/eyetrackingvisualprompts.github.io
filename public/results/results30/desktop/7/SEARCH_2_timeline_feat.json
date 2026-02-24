@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively narrow horizontal band slightly above mid-screen with modest vertical shifts and occasional saccades, resembling stable line-by-line monitoring of typed text rather than the broader, more exploratory movements seen in search or browsing; this pattern best matches the provided WRITE example.",
+  "correct": false
+}

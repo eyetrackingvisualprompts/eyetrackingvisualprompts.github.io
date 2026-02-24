@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are tightly clustered in a compact area on the left side, similar to the INTERPRET example where attention is focused on a small code snippet rather than spread horizontally as in reading or browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Large, frequent transitions between code area and other screen regions, with many long (1\u20133s) fixations and revisits to similar coordinates, match the intensive, back-and-forth inspection pattern seen in DEBUG more than the more linear or exploratory patterns of READ, SEARCH, or BROWSE.",
+  "correct": false
+}

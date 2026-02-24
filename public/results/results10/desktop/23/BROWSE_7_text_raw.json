@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze stays around a central-upper vertical band with frequent small vertical shifts and occasional short horizontal moves, matching the scan-and-refocus pattern on search results pages; the coordinates and dynamics are highly similar to the provided SEARCH example, especially in the 0.7\u20130.8 y-range behavior and intermittent jumps around 0.6\u20130.7 indicating moving between query box, results snippets, and navigation elements.",
+  "correct": false
+}

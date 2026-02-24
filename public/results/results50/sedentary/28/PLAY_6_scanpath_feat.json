@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are widely dispersed across the entire screen with long, rapid saccades in multiple directions and no stable reading or code-focused region, matching the dynamic, whole-screen tracking typical of playing games rather than more localized tasks like reading, writing, or debugging.",
+  "correct": true
+}

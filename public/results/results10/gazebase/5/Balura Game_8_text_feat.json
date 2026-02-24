@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Large, irregular saccades spanning wide horizontal and vertical ranges, without confinement to a line (reading) or purely horizontal motion, and lacking the central, low-variance pattern of fixations; the movements resemble following a target that jumps unpredictably across the screen, consistent with the Random Saccades task rather than game-like clustered refixations or naturalistic video viewing.",
+  "correct": false
+}

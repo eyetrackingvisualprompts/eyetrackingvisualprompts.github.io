@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a tight horizontal band in the lower-middle of the screen, similar to line-by-line text scanning and most consistent with the READ example heatmap rather than the more central (BROWSE/SEARCH) or upper/side-focused (WRITE/PLAY/WATCH) patterns.",
+  "correct": true
+}

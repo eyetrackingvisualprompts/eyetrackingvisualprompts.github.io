@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows rapid horizontal sweeps across a single narrow band near the top/upper-middle of the screen with repeated left\u2013right passes and short fixations, characteristic of scanning result snippets or a horizontal menu bar in a search-results page, rather than line-by-line reading (READ) or code-focused, more vertically distributed patterns (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

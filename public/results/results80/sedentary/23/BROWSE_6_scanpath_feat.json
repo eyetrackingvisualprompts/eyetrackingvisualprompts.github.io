@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated on a mid-screen code region with some movements to a nearby area, showing focused inspection without the broader vertical spread of debugging or the structured horizontal sweeps of reading/browsing; this pattern best matches interpreting a code snippet.",
+  "correct": false
+}

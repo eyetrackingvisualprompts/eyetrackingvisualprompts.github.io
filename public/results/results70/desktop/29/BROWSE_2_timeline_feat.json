@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The fixation patterns show relatively stable horizontal scanning within a mid-screen band with moderate vertical shifts and frequent small saccades, closely matching the example READ trace and typical line-by-line text reading behavior, rather than the larger vertical shifts of SEARCH or the more dispersed movements of BROWSE or PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are dispersed across nearly the entire screen with frequent long saccades in multiple directions and varying fixation sizes, closely matching the dynamic, wide-area scanpath seen in the PLAY example rather than the more localized or structured patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

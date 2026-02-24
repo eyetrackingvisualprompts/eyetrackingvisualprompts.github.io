@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Multiple dispersed fixation clusters connected by longer saccades between upper and lower regions of the screen resemble switching between search results, query box, and content, matching the SEARCH scanpath more than the more localized patterns of the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, continuous, diagonal sweeps across the screen with substantial spatial coverage and few structured, line-by-line fixations. This pattern is characteristic of visually tracking moving objects or navigating in a game environment rather than reading, coding, or browsing static text or pages, making PLAY the most likely activity.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze remains within a narrow horizontal band with long, stable fixations (up to ~3 s) and short, small saccades, suggesting focused inspection of a localized text region rather than large exploratory movements typical of PLAY, WATCH, BROWSE, or SEARCH; the stable, line-like pattern best matches reading behavior.",
+  "correct": false
+}

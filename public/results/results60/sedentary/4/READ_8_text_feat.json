@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Initial large vertical movement from mid-screen to top, followed by extensive horizontal scanning around a narrow vertical band (y\u224890\u2013300) consistent with reading/scanning search results or a SERP header, then repeated horizontal sweeps and revisits across central rows (y\u2248480\u2013630) indicative of scanning multiple result snippets rather than linear text (READ) or dynamic object following (WATCH/PLAY). The pattern and amplitudes best match the SEARCH exemplars\u2019 broad, multi-row exploration behavior.",
+  "correct": false
+}

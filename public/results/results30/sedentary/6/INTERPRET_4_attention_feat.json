@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small region on the left side where the code editor text would be, with minimal vertical spread and few other areas visited, matching the focused, localized gaze pattern seen in the WRITE example more than the broader patterns of other tasks.",
+  "correct": false
+}

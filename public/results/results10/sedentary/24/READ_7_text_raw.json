@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows repeated horizontal scanning across central-upper regions with many revisits, moderate vertical jumps, and sporadic large off-screen excursions, matching search-engine result page exploration more than the tighter line-by-line patterns of READ or the code-focused clusters of INTERPRET/DEBUG/WRITE or the object-tracking in PLAY/WATCH.",
+  "correct": false
+}

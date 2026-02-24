@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze trace shows large, irregular jumps in both horizontal and vertical directions across much of the screen, without the structured line pattern of reading, the repetitive single-axis motion of horizontal saccades, or the tight clustering of fixations. This broad, multi-directional movement best matches the random saccades task.",
+  "correct": false
+}

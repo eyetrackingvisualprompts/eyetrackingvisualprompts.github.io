@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact central-left code area with many short, revisiting fixations and vertical movements, typical of inspecting and rechecking lines while debugging, rather than the more linear reading of READ or the broader exploration of BROWSE/SEARCH.",
+  "correct": false
+}

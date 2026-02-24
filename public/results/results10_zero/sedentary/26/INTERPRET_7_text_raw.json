@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows many smooth, continuous shifts across wide screen areas (including far right and varying vertical ranges), with less structured left-to-right or line-based reading and no clear code-window constraints; this broad, dynamic viewing pattern best matches watching a fullscreen video rather than focused code or text tasks.",
+  "correct": false
+}

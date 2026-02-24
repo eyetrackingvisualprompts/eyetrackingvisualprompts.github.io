@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a compact, code-sized region on the left, with short saccades and minimal horizontal spread, resembling focused inspection of a single code snippet as in INTERPRET, rather than the broader movements seen in SEARCH, DEBUG, or BROWSE.",
+  "correct": false
+}

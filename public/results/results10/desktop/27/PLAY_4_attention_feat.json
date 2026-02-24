@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered and spread horizontally across the mid-lower region of the screen, resembling scanning of mixed content areas typical of web browsing, and matching the spatial pattern of the BROWSE example more than the other classes.",
+  "correct": false
+}

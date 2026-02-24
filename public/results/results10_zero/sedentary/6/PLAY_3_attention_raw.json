@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a small central-horizontal region with a few dense clusters and minimal vertical scanning, consistent with passively watching a video rather than reading or code-related tasks that show structured line-by-line patterns.",
+  "correct": false
+}

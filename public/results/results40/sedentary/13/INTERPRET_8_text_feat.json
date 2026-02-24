@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small central area with repeated up\u2013down passes between a few vertical positions (around y\u2248110\u2013200, 250\u2013280, 350\u2013450, 550\u2013600), characteristic of inspecting a short block of code and its output. Patterns closely resemble the INTERPRET examples: localized code-region fixations, frequent revisits between lines, and occasional large jumps, rather than the broader scanning of SEARCH/BROWSE, long horizontal lines of READ, or wide peripheral tracking of WATCH/PLAY.",
+  "correct": true
+}

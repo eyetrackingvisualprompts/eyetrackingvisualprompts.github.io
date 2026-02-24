@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows mostly horizontal movements within a constrained vertical band, with successive fixations progressing from left to right and then shifting to a nearby line\u2014characteristic of line-by-line reading rather than broad exploratory browsing, game-like rapid shifts, or focused typing regions.",
+  "correct": true
+}

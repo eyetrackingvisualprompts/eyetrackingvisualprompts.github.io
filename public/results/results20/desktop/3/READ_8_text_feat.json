@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a narrow horizontal band around y\u22480.42\u20130.45 with long, stable fixations and small horizontal saccades, matching line-by-line reading behavior more than the broader, more scattered exploration seen in SEARCH or BROWSE, or the more varied vertical movements typical of WATCH or PLAY.",
+  "correct": true
+}

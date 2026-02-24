@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large-amplitude vertical saccades between top (near URL/search bar area) and mid/lower screen, mixed with horizontal scanning bands and substantial off-screen excursions, match exploratory, scroll-driven web browsing patterns more than the more line-locked READ pattern or the tighter, code-centered patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

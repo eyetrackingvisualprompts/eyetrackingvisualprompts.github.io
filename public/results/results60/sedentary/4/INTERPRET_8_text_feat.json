@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact left/central code area with frequent short saccades between nearby lines/rows and repeated returns to similar coordinates, interspersed with occasional long jumps to top toolbar/menu regions\u2014this pattern closely matches the WRITE examples showing focused editing/typing on code rather than the broader scanning of SEARCH/BROWSE or the more dispersed movement of WATCH/PLAY.",
+  "correct": false
+}

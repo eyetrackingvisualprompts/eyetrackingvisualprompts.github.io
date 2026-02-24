@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete step-like shifts across both axes with roughly one-second plateaus at each location, matching a target that jumps to random static positions rather than smooth pursuit or continuous scanning patterns seen in reading, video viewing, or the game.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated over a main central-left text/code area with frequent long saccades to the upper-right region, resembling repeated transitions between search results/snippets and a side or top area (e.g., other results, answer panels) typical of search behavior rather than the more localized patterns of WRITE/INTERPRET/DEBUG or the uniform scanning of WATCH/PLAY/READ.",
+  "correct": false
+}

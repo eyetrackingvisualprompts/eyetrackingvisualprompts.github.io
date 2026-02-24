@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a compact central region with short saccades and clustered fixations, similar to the SEARCH example and less horizontal/line-structured than READ or WRITE, and less dispersed than BROWSE or PLAY or the upper-area focus of WATCH.",
+  "correct": false
+}

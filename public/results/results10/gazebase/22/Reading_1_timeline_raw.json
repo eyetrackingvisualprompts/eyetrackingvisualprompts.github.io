@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The x-position shows step-like, mostly monotonic sweeps with quick resets, and the y-position drifts slowly with occasional downward returns\u2014matching line-by-line reading patterns rather than large discrete target jumps or random 2D movements seen in the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is constrained to a narrow horizontal band with small, continuous shifts and frequent short fixation changes in both X and Y, closely matching the focused, line-by-line inspection pattern seen in the DEBUG example more than the more linear READ/BROWSE patterns or the larger movements in other tasks.",
+  "correct": false
+}

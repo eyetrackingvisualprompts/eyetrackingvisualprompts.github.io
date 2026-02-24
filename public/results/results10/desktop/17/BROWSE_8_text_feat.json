@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around central-mid screen with frequent medium-amplitude saccades in multiple directions (upward from ~0.35 to ~0.55 in y, and lateral shifts), resembling scanning among heterogeneous webpage elements. The pattern lacks the strong left-to-right line sweeps of READ, the bottom-focused band of SEARCH, the wide-range movements of PLAY/WATCH, and the lower-screen clustering of WRITE, and closely matches the example BROWSE dynamics.",
+  "correct": true
+}

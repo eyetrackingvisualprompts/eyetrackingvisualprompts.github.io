@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal progression with noticeable vertical shifts and revisits, resembling scanning between search results and snippets rather than orderly line-by-line reading or focused code inspection; its pattern best matches the SEARCH example plot.",
+  "correct": false
+}

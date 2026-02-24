@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a horizontally elongated band in the mid-lower screen, similar to line-by-line text scanning seen in the READ example, with less central clustering than BROWSE or SEARCH and no split clusters as in PLAY.",
+  "correct": false
+}

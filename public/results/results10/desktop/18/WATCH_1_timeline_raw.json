@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gradual monotonic drift of gaze with a few pronounced vertical shifts and relatively smooth trajectories matches the exploratory yet structured scanning seen in the SEARCH example more closely than the more repetitive (READ), static (WATCH), or highly variable (PLAY/WRITE/BROWSE) patterns.",
+  "correct": false
+}

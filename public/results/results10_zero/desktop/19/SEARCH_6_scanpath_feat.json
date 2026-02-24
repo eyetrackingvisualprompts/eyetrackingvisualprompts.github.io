@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Scanpath shows several large vertical and oblique saccades between a few spatially separated regions with limited left-right line scanning, indicating shifting attention between distinct page areas (e.g., results list, query box, browser elements), which is more characteristic of web search behavior than continuous reading, writing, or video watching.",
+  "correct": true
+}

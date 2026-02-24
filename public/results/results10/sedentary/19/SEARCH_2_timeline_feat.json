@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows smooth, gradual horizontal movement with relatively small vertical changes and few large saccades, matching the stable tracking of central screen content typical for watching a video rather than the more scattered or line-based patterns of reading, coding, searching, or browsing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated around a relatively small central region with many medium-duration fixations and short saccades, consistent with inspecting and editing lines of code in an IDE. There are frequent back-and-forth movements along similar y-levels rather than long vertical sweeps (typical of READ) or wide exploratory jumps (SEARCH/BROWSE), and no strong object-following or large dynamic shifts characteristic of WATCH or PLAY. This spatio-temporal pattern best matches the WRITE examples, which show similar clustered, code-line-focused scanning around the central area.",
+  "correct": false
+}

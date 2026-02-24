@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated near the screen center with substantial vertical and radial spread, resembling continuous tracking of a moving game object rather than the more horizontally constrained patterns of reading/searching or the distributed pattern of watching video; this best matches the PLAY heatmap example.",
+  "correct": true
+}

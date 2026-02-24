@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows relatively constrained, slowly shifting horizontal fixations with modest vertical movement and regular small saccades, closely matching the example READ plot and typical line-by-line reading behavior, unlike the more scattered (BROWSE/SEARCH) or larger-range (PLAY/WATCH) movements.",
+  "correct": false
+}

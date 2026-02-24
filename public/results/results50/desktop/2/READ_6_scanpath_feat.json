@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points follow a mostly horizontal band with gradual left-to-right progression and limited vertical movement, matching line-by-line reading behavior more than the scattered or wide-range patterns seen in search, browse, watch, write, or play tasks.",
+  "correct": true
+}

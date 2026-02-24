@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long-range vertical transitions between top, middle, and bottom screen regions, combined with horizontal scanning across a results-like band and repeated revisits to similar y-levels, match the exploratory, list-scanning pattern seen in the SEARCH examples more than the more line-structured READ pattern or the more focal code-centered patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": true
+}

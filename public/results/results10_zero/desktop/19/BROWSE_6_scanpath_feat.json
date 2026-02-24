@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points cluster around the screen center with moderate saccades in several directions and no systematic horizontal/vertical scanning pattern typical of reading, writing, or web search. The relatively small spatial region and back-and-forth movements are consistent with following content in a video rather than line-based text or interactive gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows relatively structured, banded horizontal movements with periodic downward jumps in Y and moderate X shifts, consistent with line-by-line reading of text rather than the more erratic multi-directional patterns expected in browsing, searching, gaming, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows exploration of multiple horizontally distributed regions with several returns to upper areas, resembling the pattern of moving between search results and selected pages, which matches the SEARCH example more closely than the other tasks.",
+  "correct": false
+}

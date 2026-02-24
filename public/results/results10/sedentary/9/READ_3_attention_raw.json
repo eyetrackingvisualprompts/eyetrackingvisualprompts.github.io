@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is concentrated in a single mid-screen code-like region with limited horizontal spread and minimal movement elsewhere, closely matching the INTERPRET example heatmap for focused inspection of a short code snippet rather than the broader scanning seen in DEBUG or other tasks.",
+  "correct": false
+}

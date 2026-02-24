@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a compact left-side code area with some vertical spread and a few scattered checks elsewhere, resembling the focused yet exploratory pattern seen in the DEBUG example more than the denser central block of INTERPRET or WRITE.",
+  "correct": false
+}

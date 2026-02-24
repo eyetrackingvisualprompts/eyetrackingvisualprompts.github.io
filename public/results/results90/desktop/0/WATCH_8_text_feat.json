@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a narrow lower-band region with many long fixations and small, repetitive vertical and horizontal shifts, consistent with monitoring and editing text in a writing interface rather than scanning columns (READ) or exploring more widely (BROWSE/SEARCH); the pattern closely matches the WRITE examples\u2019 dense, localized, incremental movements near the lower screen.",
+  "correct": false
+}

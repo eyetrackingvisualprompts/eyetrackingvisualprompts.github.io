@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are dispersed across a broad central region with frequent saccades in multiple directions and no strong left-to-right line structure, matching the exploratory, multi-area viewing pattern characteristic of web searching rather than the more structured patterns of reading, writing, or focused gameplay/video watching.",
+  "correct": false
+}

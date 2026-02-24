@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster near the screen center with short, multidirectional saccades and small fixations, resembling the example BROWSE pattern more than the others, which show stronger horizontal (READ/WRITE) or lateral (PLAY/WATCH) spreads or top-focused SEARCH patterns.",
+  "correct": true
+}

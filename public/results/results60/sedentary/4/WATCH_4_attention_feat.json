@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are widely distributed across the screen without a dominant central cluster or tight left-side code/text region, resembling the scattered exploration pattern seen in the BROWSE example rather than the more localized patterns of tasks like READ, WRITE, or DEBUG.",
+  "correct": false
+}

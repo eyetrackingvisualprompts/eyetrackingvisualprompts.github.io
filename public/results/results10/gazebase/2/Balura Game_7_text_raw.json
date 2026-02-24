@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows long, irregular sequences of varying amplitudes and directions over many distinct scene regions, without the regular one-second step pattern of Random or Horizontal Saccades, without the tight local re-fixation clusters around discrete targets seen in the Balura Game, and spanning much larger 2D extents than typical reading lines\u2014consistent with free-viewing of dynamic video content.",
+  "correct": false
+}

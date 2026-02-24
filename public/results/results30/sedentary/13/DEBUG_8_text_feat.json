@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively small code-like region with many short back-and-forth saccades and revisits between nearby lines/areas (y\u2248450\u2013550 and y\u2248250\u2013350), plus frequent jumps between top and middle regions, indicative of scanning code, checking conditions, and verifying changes. This localized, iterative inspection pattern aligns more with debugging than with broader scanning in SEARCH/BROWSE, linear progression in READ/WRITE/INTERPRET, or dispersed movement in WATCH/PLAY.",
+  "correct": true
+}

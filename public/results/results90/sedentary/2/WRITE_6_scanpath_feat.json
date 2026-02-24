@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a confined left-central code area with occasional vertical shifts and few right-side visits, closely matching the DEBUG example\u2019s pattern of repeatedly inspecting and revisiting code segments while debugging.",
+  "correct": false
+}

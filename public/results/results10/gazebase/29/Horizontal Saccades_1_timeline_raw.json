@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates regularly between two horizontal extremes with roughly 1-second plateaus, while Y remains near zero with small transients, matching the structured left-right target tracking of the Horizontal Saccades task.",
+  "correct": true
+}

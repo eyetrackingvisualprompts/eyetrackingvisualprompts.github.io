@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show mostly stable fixations with small systematic vertical shifts in a narrow central horizontal band, consistent with line-by-line reading rather than large exploratory movements (BROWSE/SEARCH), rapid multi-directional shifts (PLAY), or long central fixations with occasional large shifts (WATCH/WRITE).",
+  "correct": false
+}

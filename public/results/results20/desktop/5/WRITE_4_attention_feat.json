@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze heatmap shows one dominant fixation cluster slightly right of center with a tight vertical span and minor nearby fixations, closely matching the SEARCH example where attention is focused on the central search results area rather than distributed like BROWSE or horizontally like READ.",
+  "correct": false
+}

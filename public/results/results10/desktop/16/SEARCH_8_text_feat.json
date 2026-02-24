@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades remain in a compact central region with small vertical shifts and moderate horizontal changes, resembling scanning around a central content block rather than systematic horizontal line sweeps (READ) or large exploratory movements (WATCH/PLAY/SEARCH). The pattern best matches the browsing example, which shows local exploration around similar mid-screen coordinates.",
+  "correct": false
+}

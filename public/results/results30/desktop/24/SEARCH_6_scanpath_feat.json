@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows dispersed fixations over a mid-to-upper screen region with frequent shifts between several localized clusters, indicating repeated transitions between query, results, and different items\u2014characteristic of web search behavior rather than the more linear (READ/WRITE) or more constrained (WATCH/PLAY) patterns.",
+  "correct": true
+}

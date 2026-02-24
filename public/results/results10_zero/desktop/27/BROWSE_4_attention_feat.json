@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a narrow vertical band on the left side of the screen, suggesting focused attention on a single text column with limited horizontal movement, which is characteristic of reading rather than the broader, more dispersed patterns typical of search, browsing, watching, playing, or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large saccades and shifts across a wide vertical range, with irregular horizontal movements and no clear repetitive left-to-right line pattern or stable central focus. This heterogeneous, exploratory pattern best matches free web browsing behavior rather than structured reading, code tasks, or watching video.",
+  "correct": false
+}

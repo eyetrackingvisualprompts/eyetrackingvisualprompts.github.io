@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent, large jumps across widely separated screen regions (including extreme positions like (0.90, 0.06) and rapid relocations), followed by short local clusters\u2014indicative of dynamic visual tracking and reactive saccades typical of game play, and unlike the more stable, line-structured scanpaths of reading/writing or the relatively less extreme movements in browse/search/watch examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations and saccades are clustered in a relatively narrow vertical band with frequent horizontal shifts and repeated returns to similar y-levels, consistent with scanning and editing code in an IDE rather than smooth line-by-line reading of prose or large, stimulus-driven jumps typical for games or video watching. This pattern best matches a programming-related task, and among WRITE/DEBUG/INTERPRET it aligns most with actively implementing code (WRITE) rather than tracing for bugs or mentally simulating outputs.",
+  "correct": true
+}

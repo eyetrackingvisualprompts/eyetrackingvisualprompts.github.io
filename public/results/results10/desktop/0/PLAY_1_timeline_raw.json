@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is mostly confined to the lower part of the screen (low Y values) with relatively moderate, somewhat linear progression in X and intermittent vertical shifts, matching the pattern of focusing on and moving along lines in a lower text area while occasionally glancing elsewhere, which aligns best with the WRITE example rather than the more central/upper focus of READ or the more scattered movement of BROWSE/PLAY/SEARCH/WATCH.",
+  "correct": false
+}

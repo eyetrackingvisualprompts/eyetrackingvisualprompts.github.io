@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in multiple vertically separated regions on the left side, resembling attention shifts between code areas as seen in the DEBUG example, rather than the single, tighter cluster of WRITE/INTERPRET or the wider spread of BROWSE/SEARCH.",
+  "correct": false
+}

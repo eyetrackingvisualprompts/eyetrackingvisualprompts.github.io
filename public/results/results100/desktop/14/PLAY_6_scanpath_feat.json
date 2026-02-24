@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered around a central screen region with short, multi-directional saccades and limited horizontal line structure, matching the focused yet locally exploratory pattern typical of searching on a results page rather than the more linear patterns of reading or writing or the dispersed movements seen in browsing, watching, or playing.",
+  "correct": false
+}

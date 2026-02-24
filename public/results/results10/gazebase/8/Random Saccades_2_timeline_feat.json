@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "Both X and Y fixation traces show moderate, irregular movements without strict horizontal-only motion or large random jumps, resembling the natural, varied gaze shifts over dynamic content seen in the Video Viewing example rather than the more structured patterns of reading or controlled saccade tasks.",
+  "correct": false
+}

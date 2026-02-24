@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered over a compact, left-side central code-like area with minimal vertical spread and almost no gaze to the right, matching the focused, localized viewing pattern typical of debugging rather than the broader or more dispersed patterns of reading, writing, or browsing.",
+  "correct": false
+}

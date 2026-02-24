@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal band with sequential left-to-right movements and moderate vertical shifts, resembling line-by-line reading behavior and matching the READ example pattern more closely than the other activities.",
+  "correct": false
+}

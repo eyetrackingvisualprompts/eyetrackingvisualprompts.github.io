@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze follows a target that jumps to various positions both horizontally (up to \u00b115\u00b0) and vertically (up to about \u00b19\u00b0), with each position held roughly 1 s before the next jump; this 2D step-like pattern with irregular directions matches the Random Saccades description rather than purely horizontal, static, or reading-like behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Both X and Y fixations are concentrated in the lower half of the screen with frequent, relatively large saccades in all directions and no clear horizontal line-by-line progression. This pattern matches the more dynamic, multidirectional gaze behavior seen in the PLAY examples rather than the more stable or structured patterns of reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

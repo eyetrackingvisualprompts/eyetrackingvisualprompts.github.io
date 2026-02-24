@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze follows smooth, systematic left-to-right horizontal sweeps clustered in several vertically separated bands (around y\u2248130, 180\u2013200, 240\u2013280, 300\u2013350, 380\u2013450, 470\u2013530), with long fixations and short intra-line saccades plus periodic return sweeps\u2014characteristic of reading text lines, matching the READ exemplars more than the other activities.",
+  "correct": true
+}

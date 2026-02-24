@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around mid-screen with moderate vertical spread, frequent short saccades, and occasional larger jumps between mid and slightly lower regions, resembling the mixed scanning and mid-page focus seen in the BROWSE example more than the more structured horizontal patterns of READ or the stronger vertical/game-like movements of PLAY or WATCH.",
+  "correct": false
+}

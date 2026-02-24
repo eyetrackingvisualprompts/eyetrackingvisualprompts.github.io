@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a relatively compact central area with short saccades and no strong horizontal line structure (unlike READ) or large directional shifts (unlike PLAY/SEARCH/WATCH). This pattern best matches the example for BROWSE, where fixations are concentrated around a small region of the page while scrolling or skimming.",
+  "correct": false
+}

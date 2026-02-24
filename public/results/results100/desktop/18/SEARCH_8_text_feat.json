@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large vertical excursions (e.g., y from ~0.6 to ~0.2 and back), rapid shifts between central and lower screen regions, and irregular scanning without clear line-by-line or columnar structure resemble dynamic, game-like visual tracking seen in the PLAY examples, rather than the more stable, horizontally banded patterns of READ/WRITE or the more centrally clustered patterns of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

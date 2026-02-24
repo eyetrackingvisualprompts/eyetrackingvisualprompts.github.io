@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows moderate, irregular movements in both X and Y with frequent but not extreme shifts, lacking the systematic horizontal scanning of READ or WRITE and the more polarized vertical changes of PLAY or WATCH. This pattern best matches the variable, exploratory viewing behavior seen in web/news browsing.",
+  "correct": false
+}

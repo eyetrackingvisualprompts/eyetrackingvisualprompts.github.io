@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on the left-central area resembling code with occasional long saccades to the right-bottom region, consistent with switching between editor and output/console typical for writing code, matching the WRITE example pattern most closely.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades and wide-ranging horizontal and vertical movements, with less structured line-by-line reading or code inspection patterns. This dynamic, object-tracking style closely matches the PLAY examples rather than the more stable patterns of reading, coding, or browsing.",
+  "correct": false
+}

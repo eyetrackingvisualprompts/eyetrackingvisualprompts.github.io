@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a small code-like area with limited horizontal spread and minimal vertical movement, matching focused inspection of a short snippet as in the INTERPRET task rather than the broader, more distributed patterns of browsing, searching, or writing.",
+  "correct": false
+}

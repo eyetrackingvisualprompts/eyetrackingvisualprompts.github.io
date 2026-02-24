@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze spans a large vertical range including values >1.0 (likely top/bottom screen margins), with long, stable fixations around upper regions and smooth shifts between dispersed points, matching following dynamic video content rather than the more line-structured, horizontal patterns of reading/writing or the more center-/UI-focused patterns of play/search/browse.",
+  "correct": false
+}

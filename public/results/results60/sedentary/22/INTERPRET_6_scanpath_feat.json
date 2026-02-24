@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is tightly clustered over a compact left-central region similar to code-viewing, with occasional long vertical/diagonal saccades to the bottom (console/output or other panes), matching the debug example more than write or interpret patterns.",
+  "correct": false
+}

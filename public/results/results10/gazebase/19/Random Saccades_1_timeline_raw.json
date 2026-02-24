@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y show large, abrupt step-like changes to various positions in 2D space, with intervals of relative stability at each location; this pattern of jumps to irregular combinations of horizontal and vertical positions matches the random, 2D target movements of the Random Saccades task rather than the more constrained 1D, reading, fixation, video, or game patterns.",
+  "correct": true
+}

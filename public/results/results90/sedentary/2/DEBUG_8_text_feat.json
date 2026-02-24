@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a relatively small, mid-left code-like area with many short saccades and revisits between a few vertical bands (likely code lines) interleaved with frequent shifts to a lower region (console/editor bottom), matching the structured, iterative scanning and local corrections characteristic of code writing rather than the broader, more exploratory scanpaths of browsing/search or the more linear patterns of reading/interpretation.",
+  "correct": false
+}

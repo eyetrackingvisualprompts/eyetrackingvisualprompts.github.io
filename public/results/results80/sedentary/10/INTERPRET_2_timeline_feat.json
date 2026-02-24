@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is mostly confined to a narrow central band with relatively small, local saccades and stable fixations, indicating focused inspection of a compact code snippet rather than extensive vertical or horizontal scanning typical of reading, browsing, or searching. This matches the INTERPRET pattern of concentrated attention on a small code region to reason about its output.",
+  "correct": true
+}

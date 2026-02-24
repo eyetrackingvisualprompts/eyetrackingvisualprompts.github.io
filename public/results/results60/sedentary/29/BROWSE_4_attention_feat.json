@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are sparse and concentrated on a few small regions in the upper-left/mid-left area with occasional looks lower, resembling focused attention on code and output areas in the IDE typical of WRITE, rather than the denser or more horizontally structured patterns seen in reading/browsing or the central spread of watching/playing.",
+  "correct": false
+}

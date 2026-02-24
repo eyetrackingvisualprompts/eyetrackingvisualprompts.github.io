@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a highly concentrated fixation in a small central area with minimal horizontal or vertical scanning, consistent with passively watching a specific region of a video (e.g., main characters or subtitles) rather than the systematic horizontal sweeps of reading/writing or the broader exploratory movements typical of browsing, searching, or gameplay.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "Both X and Y positions show large, irregular, multi-directional saccades with variable dwell times and no strict horizontal-only or line-like pattern, matching the dynamic, target-driven gaze shifts characteristic of the Balura Game rather than structured reading, constrained saccade tasks, or central fixations.",
+  "correct": false
+}

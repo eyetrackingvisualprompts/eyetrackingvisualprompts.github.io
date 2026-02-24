@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cover a moderately compact central area with diverse saccades and fixation distribution, lacking the strong horizontal banding of READ/WRITE or the broader directional spread of WATCH/PLAY/BROWSE, matching the SEARCH example\u2019s dense central exploration pattern.",
+  "correct": false
+}

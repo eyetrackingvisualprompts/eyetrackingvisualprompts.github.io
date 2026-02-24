@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a steady, monotonic increase in Y fixation with periodic horizontal saccades, matching line-by-line downward reading behavior similar to the READ example plot, rather than the more scattered or task-switching patterns of coding, browsing, or watching video.",
+  "correct": true
+}

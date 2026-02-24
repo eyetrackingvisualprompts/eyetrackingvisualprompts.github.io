@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent vertical and diagonal saccades between distant regions (top, bottom, left, and far right), mixed with shorter local fixations near mid/upper-left, resemble scrolling and scanning over a long webpage more than the more line-structured READ patterns or the focused code-centric tasks (WRITE/DEBUG/INTERPRET). The pattern is also less object-following and less centralized than WATCH/PLAY, aligning best with BROWSE.",
+  "correct": false
+}

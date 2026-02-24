@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate, irregular exploration across both axes with clusters of fixations interleaved with bursts of larger saccades, especially mid- to late-window. This mixed pattern of focused inspection and repeated shifts between areas matches the DEBUG example more closely than the other tasks, which exhibit more linear (READ), constrained (WRITE/INTERPRET), or highly scattered (PLAY/WATCH/BROWSE/SEARCH) behaviors.",
+  "correct": true
+}

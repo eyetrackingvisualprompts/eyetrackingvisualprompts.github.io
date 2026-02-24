@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position shows large, regular back-and-forth steps between positive and negative extremes with roughly constant Y position near zero, matching the stereotyped pattern of horizontal saccades to a target oscillating on the horizontal axis.",
+  "correct": true
+}

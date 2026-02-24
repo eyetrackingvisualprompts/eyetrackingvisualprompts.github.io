@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, rapid movements spread vertically and horizontally with fewer localized clusters, consistent with following dynamic game elements rather than reading or focused code inspection, matching the PLAY examples most closely.",
+  "correct": false
+}

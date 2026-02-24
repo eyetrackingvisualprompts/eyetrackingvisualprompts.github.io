@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are clustered in two nearby horizontal bands with relatively small saccades between them, consistent with reading a narrow text column or paragraph rather than wide exploration or dynamic tracking seen in games, browsing, or code-related tasks.",
+  "correct": false
+}

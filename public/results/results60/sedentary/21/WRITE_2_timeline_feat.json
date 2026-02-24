@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a narrow vertical band with slowly increasing Y-fixation over time, consistent with reading and editing lines of code in an IDE, and shows occasional large saccades similar to the WRITE example rather than the more scattered patterns of SEARCH, BROWSE, or PLAY.",
+  "correct": true
+}

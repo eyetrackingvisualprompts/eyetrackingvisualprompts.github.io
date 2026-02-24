@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are concentrated on two vertically separated code regions in the upper-left area, with more spread than INTERPRET but still confined to the code editor, closely matching the DEBUG example heatmap pattern.",
+  "correct": true
+}

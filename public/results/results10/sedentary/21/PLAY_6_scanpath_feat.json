@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed across multiple vertical regions with horizontal sweeps and occasional larger saccades, resembling navigation through a web page rather than the tighter, code-focused clusters of WRITE/DEBUG/INTERPRET or the more central, dynamic tracking of WATCH/PLAY.",
+  "correct": false
+}

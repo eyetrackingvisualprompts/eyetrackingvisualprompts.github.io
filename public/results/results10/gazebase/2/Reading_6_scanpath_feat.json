@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Fixations are clustered in a narrow horizontal band near the bottom of the screen with mostly left-to-right and short regressions, characteristic of scanning lines of text rather than large uniform jumps (horizontal saccades) or widely scattered points (random saccades, game, video).",
+  "correct": true
+}

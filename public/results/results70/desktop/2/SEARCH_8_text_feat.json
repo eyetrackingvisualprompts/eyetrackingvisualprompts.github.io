@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is centered around mid-screen with mixed vertical and horizontal shifts, including frequent returns to similar central regions and occasional excursions to lower/upper areas, matching the heterogeneous scanpaths and moderate-amplitude saccades typical of scrolling and inspecting web pages during browsing, rather than the more line-structured patterns of reading or the more peripheral, large-motion patterns of play/watch.",
+  "correct": false
+}

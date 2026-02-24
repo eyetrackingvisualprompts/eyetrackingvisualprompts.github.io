@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations and saccades concentrated around mid-screen code-like regions with frequent vertical shifts between clustered y-bands (approx. 200\u2013600 px), revisits to the same locations, and occasional jumps to top-of-area coordinates match the pattern of scrutinizing and revisiting code segments typical of DEBUG, and are inconsistent with the more linear scan paths of READ/WRITE or the broader, more exploratory jumps of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": true
+}

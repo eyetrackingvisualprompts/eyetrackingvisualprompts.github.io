@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a compact region on the left-middle of the screen with dense, repetitive fixations and short saccades, consistent with focused attention on a small text/code area such as an editor while typing, rather than broader scanning or dynamic object tracking seen in browsing, reading full pages, search, or games.",
+  "correct": false
+}

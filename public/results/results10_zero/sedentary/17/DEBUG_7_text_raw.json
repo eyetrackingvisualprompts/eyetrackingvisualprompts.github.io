@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows rapid, large-amplitude shifts across wide screen regions (including off-screen coordinates), with frequent short clusters and direction changes rather than stable line-by-line or block reading/fixation patterns. This broad, dynamic scanning is more consistent with tracking and navigating moving game elements than with relatively localized, structured code or text viewing typical of READ/WRITE/DEBUG/INTERPRET/SEARCH/BROWSE, or the smoother scene-following expected in WATCH.",
+  "correct": false
+}

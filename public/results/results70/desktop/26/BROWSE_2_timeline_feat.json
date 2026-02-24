@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions are clustered near screen center with moderate, irregular saccades and no strong horizontal scanning or large-scale shifts, resembling the mixed, small-area exploration seen in the BROWSE example more than the structured patterns of reading, writing, watching videos, or playing games.",
+  "correct": true
+}

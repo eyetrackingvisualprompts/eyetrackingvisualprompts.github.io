@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points stay within a relatively narrow central band with small, smooth horizontal and vertical shifts and repeated local fixations, consistent with line-by-line reading on static text rather than the larger, multidirectional movements typical of games, video watching, or exploratory web/search behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows two horizontal clusters\u2014one in the upper part of the screen and another near the bottom\u2014connected by a large vertical saccade, consistent with finishing one block of text and then moving to another section or paragraph. The mostly linear, left-to-right fixations with limited dispersion align best with reading behavior rather than dynamic or highly interactive tasks.",
+  "correct": true
+}

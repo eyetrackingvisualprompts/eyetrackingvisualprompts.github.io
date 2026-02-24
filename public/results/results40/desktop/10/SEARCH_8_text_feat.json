@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent large vertical transitions between top, middle, and bottom regions, with many mid-duration fixations and revisits to similar y-bands, resemble scanning SERPs and result pages more than the steadier, line-based READ pattern or the more localized BROWSE/WRITE behaviors.",
+  "correct": true
+}

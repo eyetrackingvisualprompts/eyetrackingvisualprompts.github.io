@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are relatively stable with slow, smooth shifts and few discrete horizontal jumps, suggesting following on-screen content rather than systematic line-by-line reading or code inspection; this pattern aligns best with passively watching a video.",
+  "correct": false
+}

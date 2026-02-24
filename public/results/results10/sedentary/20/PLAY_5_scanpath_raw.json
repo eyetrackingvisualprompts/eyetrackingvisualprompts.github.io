@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is mostly clustered in an upper-central area with repeated vertical excursions toward the bottom of the screen, resembling frequent shifts between the code editor and another region (e.g., console/keyboard), which matches the WRITE example pattern more than the other activities.",
+  "correct": false
+}

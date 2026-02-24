@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows two relatively narrow, horizontally aligned bands of fixations\u2014one higher and one lower on the screen\u2014consistent with alternating gaze between typed text and nearby interface elements (e.g., toolbar or cursor area) during document writing, and unlike the denser single-line pattern of focused reading or the more dispersed, exploratory patterns of browsing/searching/playing/watching.",
+  "correct": false
+}

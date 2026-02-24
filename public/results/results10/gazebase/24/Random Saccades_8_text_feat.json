@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large-amplitude jumps spanning most of the allowed horizontal (\u2248\u00b115\u00b0) and vertical (\u2248\u00b19\u00b0) range in varied directions, with positions held for ~0.2\u20130.6 s between saccades. This pattern of wide, multi-directional, discrete steps matches the structured Random Saccades task rather than the more constrained, line-based Reading, central Fixations, or the more irregular patterns of Video Viewing or Balura Game.",
+  "correct": true
+}

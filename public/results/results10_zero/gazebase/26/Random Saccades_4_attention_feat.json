@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are concentrated in multiple isolated clusters scattered across the screen, without a clear horizontal line (reading) or central clustering (fixation/video). The pattern matches following a single target jumping to discrete, widely separated positions across both horizontal and vertical dimensions, consistent with the Random Saccades task rather than strictly horizontal saccades or game-driven clustered fixations.",
+  "correct": true
+}

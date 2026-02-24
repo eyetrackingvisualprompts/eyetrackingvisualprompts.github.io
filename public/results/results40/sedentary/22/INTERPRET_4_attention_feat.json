@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a narrow left-central code area with small vertical spread and little activity elsewhere, closely matching the WRITE example heatmap where participants focus on their own code while typing, rather than the tighter single-block focus of INTERPRET or the more dispersed multi-region patterns of DEBUG or browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "The scanpath shows irregular, multi-directional eye movements with varied amplitudes across the screen, rather than systematic horizontal sweeps, static fixation, or following a single discrete target. This pattern best matches natural exploration during video viewing.",
+  "correct": false
+}

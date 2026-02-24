@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a steady left-to-right drift in X with minor regressions and relatively stable Y, matching line-by-line reading behavior seen in the READ example more than the other tasks.",
+  "correct": true
+}

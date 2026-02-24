@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are clustered in a narrow x-range (left side IDE code area) but span a large vertical range with many regressions and zig-zag saccades, indicating repeated scanning across multiple lines and regions typical of debugging rather than the more localized INTERPRET or WRITE patterns.",
+  "correct": true
+}

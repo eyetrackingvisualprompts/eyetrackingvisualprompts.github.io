@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows a continuous, sweeping progression from left to right with large, frequent saccades and broad coverage of the screen, lacking the stable line-by-line horizontal fixations typical of reading or writing. This dynamic, exploratory gaze pattern is most consistent with visually tracking and navigating elements in a game environment (PLAY).",
+  "correct": false
+}

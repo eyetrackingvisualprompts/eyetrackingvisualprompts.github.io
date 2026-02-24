@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze alternates repeatedly between a compact code-like region (around x\u2248350\u2013450,y\u2248190\u2013230/380\u2013420/560+) and another region (x\u2248900\u20131100,y\u2248300\u2013350), with long fixations and short regressions on nearly the same lines. This pattern matches code output-prediction/mental simulation (INTERPRET) more than the broader, more vertical scanning of DEBUG or the wider exploratory movements of SEARCH/BROWSE/PLAY or the linear line-by-line behavior of READ.",
+  "correct": false
+}

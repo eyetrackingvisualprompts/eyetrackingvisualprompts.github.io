@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze stays around the central-upper area with many short, small-amplitude shifts and long micro-fixation streaks, closely matching the BROWSE example pattern in both coordinate range (~0.48\u20130.61, ~0.56\u20130.62) and temporal dynamics, and differing from the more line-structured READ and more dispersed SEARCH/PLAY traces.",
+  "correct": false
+}

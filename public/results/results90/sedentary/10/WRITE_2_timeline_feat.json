@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, irregular jumps in both X and Y with occasional vertical resets and varied scanning patterns, resembling exploratory navigation across different web pages rather than the more structured, repetitive patterns of reading, coding, or watching video.",
+  "correct": false
+}

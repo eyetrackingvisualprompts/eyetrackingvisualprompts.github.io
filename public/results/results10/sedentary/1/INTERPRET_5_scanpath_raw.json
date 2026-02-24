@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow code region on the left with frequent vertical excursions to the bottom of the screen, consistent with alternating between code editing area and console/toolbars, which matches programming/write behavior more than the other tasks.",
+  "correct": false
+}

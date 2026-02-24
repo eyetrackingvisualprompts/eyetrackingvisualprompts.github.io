@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps to scattered positions across both horizontal and vertical dimensions with roughly equal dwell durations, matching a target that steps to random screen locations once per second rather than a structured pattern like reading, horizontal-only motion, or central fixation.",
+  "correct": false
+}

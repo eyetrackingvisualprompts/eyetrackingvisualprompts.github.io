@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze shifts are predominantly horizontal within a narrow vertical band, forming sequences of left-right movements and returns consistent with line-by-line text reading rather than central fixation, large structured sweeps, or highly scattered/random target following.",
+  "correct": true
+}

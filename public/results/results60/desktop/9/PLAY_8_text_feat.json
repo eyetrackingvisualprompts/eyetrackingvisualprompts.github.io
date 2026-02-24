@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around mid-screen with frequent medium-amplitude vertical and horizontal shifts between nearby regions, including occasional moves toward upper/lower content, matching the mixed, non-linear scanning of web pages seen in the BROWSE examples more than the line-by-line READ pattern or the stationary WATCH/WRITE behaviors.",
+  "correct": false
+}

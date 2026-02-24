@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are compact and centered with limited horizontal spread, matching the browsing example\u2019s tight central cluster more than the extended horizontal patterns in READ or WRITE or the more dispersed patterns in PLAY, SEARCH, and WATCH.",
+  "correct": false
+}

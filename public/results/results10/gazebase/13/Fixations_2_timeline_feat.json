@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions for both X and Y remain essentially at the central location with only minimal variation over time, matching the stable central fixation pattern of the Fixations task rather than the larger or patterned movements seen in the other activities.",
+  "correct": true
+}

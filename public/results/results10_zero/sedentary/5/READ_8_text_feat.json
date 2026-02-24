@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows relatively large, smooth, and continuous saccades across wide screen regions with short, uniform fixations, consistent with tracking moving targets or navigating in a game rather than line-by-line reading or code-focused tasks. The long, directional saccades and lack of stable horizontal reading patterns best match the PLAY activity among the given options.",
+  "correct": false
+}

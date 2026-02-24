@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows two tight, symmetrical fixation clusters on the left and right at similar vertical position and about \u00b115\u00b0 horizontally from center, indicating repeated long horizontal saccades between two static target locations, consistent with the Horizontal Saccades task rather than continuous reading or random/game/video viewing patterns.",
+  "correct": true
+}

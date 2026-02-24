@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a mostly horizontal band with small vertical variation, indicating systematic left-to-right scanning typical of reading text on a line, unlike the more dispersed patterns seen in search, browse, play, watch, or write activities.",
+  "correct": false
+}

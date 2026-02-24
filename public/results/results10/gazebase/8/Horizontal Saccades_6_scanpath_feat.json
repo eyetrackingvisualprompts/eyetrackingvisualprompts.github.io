@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates between two horizontally aligned clusters at opposite sides of the screen with minimal vertical movement, matching the pattern of following a target moving horizontally back and forth.",
+  "correct": true
+}

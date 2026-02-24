@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions remain in the lower half of the screen with relatively constrained vertical range and moderate horizontal shifts, consistent with looking near a text-entry area and occasionally glancing to menus or other UI elements, which best matches the WRITE activity among the options.",
+  "correct": false
+}

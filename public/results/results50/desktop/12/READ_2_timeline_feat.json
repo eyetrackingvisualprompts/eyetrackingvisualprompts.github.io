@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow horizontal band with low vertical position, slowly drifting rightward over time, matching the typical pattern of typing in a text editor rather than scanning larger vertical regions as in reading, browsing, or watching.",
+  "correct": false
+}

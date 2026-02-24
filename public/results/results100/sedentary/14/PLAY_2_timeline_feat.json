@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The X fixation shows regular left-to-right sweep patterns with periodic regressions and line shifts, while Y fixation gradually increases then resets, matching horizontal reading across successive text lines rather than the more scattered or vertical patterns of browsing, search, or coding tasks.",
+  "correct": false
+}

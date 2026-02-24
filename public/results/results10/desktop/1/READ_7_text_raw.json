@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in the central band (x\u22480.36\u20130.55, y\u22480.48\u20130.58) with long stable fixations and short, small-amplitude horizontal shifts, matching line-by-line reading patterns more than the larger vertical and exploratory movements seen in SEARCH or BROWSE, or the broader directional changes in PLAY/WATCH/WRITE.",
+  "correct": true
+}

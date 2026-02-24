@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Fixation and saccade patterns are relatively dense and localized with moderate horizontal scanning and stable vertical position, closely matching the example READ plot and typical line-by-line reading behavior, rather than the broader, more erratic movements seen in SEARCH or BROWSE.",
+  "correct": false
+}

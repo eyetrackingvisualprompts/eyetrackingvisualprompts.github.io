@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows mostly horizontal movements with relatively small vertical shifts and stable fixations along a band on the screen, consistent with line-by-line reading rather than dynamic object tracking, code-focused tasks, or video watching.",
+  "correct": false
+}

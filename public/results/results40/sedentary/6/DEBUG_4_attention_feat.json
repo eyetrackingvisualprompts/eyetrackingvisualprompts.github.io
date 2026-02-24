@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread across multiple vertical regions with a horizontal band around mid-screen and additional attention to upper and lower areas, resembling scanning and scrolling behavior on web pages more than the tighter, code-focused or text-block-specific patterns of WRITE/READ/INTERPRET/DEBUG, or the more central dynamic focus of WATCH/PLAY.",
+  "correct": false
+}

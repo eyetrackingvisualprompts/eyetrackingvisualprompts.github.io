@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a narrow vertical strip with repeated up-down movements between code lines and lower-area elements, plus occasional shifts to a slightly right region\u2014matching code editing and output checking typical for debugging rather than reading or simple interpretation.",
+  "correct": false
+}

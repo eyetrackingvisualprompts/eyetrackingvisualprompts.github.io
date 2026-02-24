@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows long, irregular trajectories with many small adjustments, smooth drifts, and changes in both horizontal and vertical directions without the strict stepwise target positions of Random or Horizontal Saccades, nor the line-by-line, banded structure of Reading. The broad excursions, variability, and naturalistic scanning pattern best match Video Viewing behavior.",
+  "correct": false
+}

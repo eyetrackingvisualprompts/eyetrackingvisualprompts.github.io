@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a dense cluster in the upper-left/center (reading results or query) and multiple regions near the bottom and right with long horizontal saccades, matching search result scanning and page switching rather than focused code, continuous reading, or gameplay.",
+  "correct": false
+}

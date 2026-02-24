@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "Scanpath shows scattered fixations with large, irregular saccades and revisits within a confined region rather than structured lines (reading) or full-screen random jumps; this pattern best matches task-driven selection of multiple moving targets as in the Balura Game.",
+  "correct": false
+}

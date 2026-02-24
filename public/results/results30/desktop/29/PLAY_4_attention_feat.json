@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are concentrated in a compact region slightly below screen center with limited horizontal spread and no clear text-line structure, resembling the WATCH example more than the other activities, which show either broader exploration (PLAY, BROWSE, SEARCH) or horizontal reading/writing patterns (READ, WRITE).",
+  "correct": false
+}

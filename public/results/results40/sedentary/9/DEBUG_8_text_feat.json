@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Dense fixations and short saccades clustered around a mid-lower code-like region (x\u2248250\u2013400, y\u2248430\u2013540) with frequent revisits and occasional large jumps to top/edge areas are characteristic of editing and checking code, matching the WRITE examples more than the more linear READ or more globally-scanning SEARCH/BROWSE patterns.",
+  "correct": false
+}

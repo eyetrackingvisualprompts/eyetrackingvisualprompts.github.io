@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a narrow horizontal band around mid-screen with small, incremental horizontal shifts and very limited vertical movement, consistent with line-by-line reading rather than large exploratory or dynamic viewing seen in search, browsing, video watching, gaming, or writing tasks.",
+  "correct": false
+}

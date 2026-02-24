@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Video Viewing",
+  "reason": "Gaze shows continuous, small-to-moderate amplitude shifts with many short fixations and smooth local movements, no clear horizontal scanlines or regular jump pattern, and occasional large excursions\u2014matching the heterogeneous, free-viewing pattern seen in the Video Viewing example rather than the more structured patterns of reading, saccade tasks, or game behavior.",
+  "correct": false
+}

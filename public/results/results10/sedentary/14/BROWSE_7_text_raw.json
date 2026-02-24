@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows repeated localized explorations around several vertical regions (mid-left code/center, top text/UI, upper-right, then lower interface and result areas) with occasional large jumps, matching the multi-panel scanning and results checking behavior typical of SEARCH rather than the more line-structured patterns of READ/WRITE or the tight central focus of WATCH/PLAY.",
+  "correct": false
+}

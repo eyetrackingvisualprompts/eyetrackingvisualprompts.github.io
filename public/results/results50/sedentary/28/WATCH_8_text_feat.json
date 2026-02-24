@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades covering wide screen regions (including corners and extreme edges), with many rapid revisits to dispersed locations and relatively shorter, variable fixations resemble target/object tracking and spatial navigation seen in the PLAY examples, rather than the more line- or code-structured and locally clustered patterns of reading, coding, or browsing/searching.",
+  "correct": false
+}

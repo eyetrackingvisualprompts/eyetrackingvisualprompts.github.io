@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a relatively narrow, central region with predominantly small horizontal and vertical shifts and many medium-to-long fixations, matching the stable line-by-line scanning seen in the READ examples more than the broader, more exploratory or dynamic patterns of BROWSE, SEARCH, PLAY, or WATCH.",
+  "correct": false
+}

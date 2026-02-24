@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-large saccades across different horizontal/vertical regions with relatively short fixations, including several long relocations (e.g., center to right, then far left and up), consistent with scanning heterogeneous webpage layouts rather than the more line-structured, locally constrained patterns typical of READ or WRITE, and less continuous or systematically goal-driven than SEARCH or PLAY; this pattern best aligns with general web browsing behavior.",
+  "correct": false
+}

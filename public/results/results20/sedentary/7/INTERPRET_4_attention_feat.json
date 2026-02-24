@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is concentrated on a mid-left code area with additional fixations both above and below, suggesting shifts between error locations, code context, and possibly console/IDE elements\u2014pattern most similar to the DEBUG example rather than the more static WRITE or INTERPRET views.",
+  "correct": false
+}

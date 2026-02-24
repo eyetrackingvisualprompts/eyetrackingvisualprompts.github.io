@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts near the top-left content area, includes some vertical exploration, then moves in a long saccade to the bottom (likely scrolling/results), followed by a structured left-to-right scan across a horizontal band around y\u2248270\u2013280. This pattern of scanning a row of items and jumping between top and lower regions matches search-results page behavior and resembles the SEARCH example more than the other tasks.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is constrained to a narrow vertical band on the left side of the screen with repeated fixations at two main y-levels, typical of switching between code editor lines and a nearby reference (e.g., console or instructions), matching focused code-writing behavior rather than the broader horizontal sweeps of reading/browsing or the wider movements of play/watch/search.",
+  "correct": false
+}

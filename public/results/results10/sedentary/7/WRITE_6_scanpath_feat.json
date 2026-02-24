@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly clustered around a compact code-like region with occasional long saccades to a distant lower area, consistent with switching between code and output/console while checking and fixing errors, matching the DEBUG pattern more than the other activities.",
+  "correct": false
+}

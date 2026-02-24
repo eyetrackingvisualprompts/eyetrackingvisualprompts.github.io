@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal movements with medium-length fixations clustered in a fairly narrow region, along with a few small vertical shifts\u2014this pattern best matches line-by-line text scanning in a reading task rather than the broader, more exploratory movements typical of browse/search or the more dynamic, wide-range movements of play/watch.",
+  "correct": false
+}

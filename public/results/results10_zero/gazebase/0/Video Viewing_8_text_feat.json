@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze moves in large, discrete jumps to widely separated positions across both horizontal and vertical dimensions, with each new location held in multi-hundred-millisecond to ~1 s fixations. The pattern reflects following a single target that relocates unpredictably over a broad 2D range rather than the structured left-to-right sweeps of reading, narrow horizontal-only motion, or dense clustered fixations typical of video viewing or gaming.",
+  "correct": false
+}

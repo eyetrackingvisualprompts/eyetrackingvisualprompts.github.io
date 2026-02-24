@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, frequent shifts across wide screen regions (top, bottom, center, left, right) with short, unstable fixations and irregular trajectories rather than systematic horizontal/vertical scanning. This pattern is more consistent with following dynamic visual content (video) than with the more structured, text- or interface-driven patterns typical of READ, WRITE, SEARCH, or BROWSE, or the highly task-focused directional movements common in PLAY.",
+  "correct": false
+}

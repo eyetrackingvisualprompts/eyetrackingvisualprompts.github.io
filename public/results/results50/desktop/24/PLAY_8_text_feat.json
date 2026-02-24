@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Long, stable fixations clustered in a narrow, central band with small vertical shifts and short intra-line saccades match the sustained, line-by-line gaze behavior seen in the READ examples, and lack the larger exploratory jumps typical of BROWSE/SEARCH or the peripheral, keyboard-area fixations of WRITE.",
+  "correct": false
+}

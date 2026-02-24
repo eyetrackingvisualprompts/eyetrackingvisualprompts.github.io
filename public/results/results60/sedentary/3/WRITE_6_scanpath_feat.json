@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a compact region on the left side with occasional long saccades downward, matching the pattern of focused code editing in the WRITE example rather than the broader or more dispersed patterns of browsing, searching, or debugging.",
+  "correct": true
+}

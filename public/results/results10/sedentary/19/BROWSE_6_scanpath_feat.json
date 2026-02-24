@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements along a narrow vertical band, consistent with line-by-line reading behavior rather than broader exploratory or task-focused code navigation patterns.",
+  "correct": false
+}

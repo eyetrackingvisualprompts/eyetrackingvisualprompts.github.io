@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is highly stable with small, incremental vertical and horizontal shifts around a narrow band (y\u22480.63\u20130.80), showing prolonged fixations and short saccades consistent with line-by-line text processing. The spatial pattern and smooth horizontal drifts closely resemble the provided READ example and differ from the larger, more erratic movements seen in PLAY, WATCH, or BROWSE data.",
+  "correct": false
+}

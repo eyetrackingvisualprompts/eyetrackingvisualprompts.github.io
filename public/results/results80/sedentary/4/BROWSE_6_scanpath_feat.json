@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is densely clustered around a central code area with occasional long saccades to the right, matching the WRITE example pattern of focusing on the editor while intermittently checking another UI region (e.g., console or documentation), rather than the more dispersed or horizontally scanning patterns of other tasks.",
+  "correct": false
+}

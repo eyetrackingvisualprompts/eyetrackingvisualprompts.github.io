@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y positions change smoothly over time with broad, gradual shifts and few discrete line-like regressions, resembling continuous following of dynamic content as in the WATCH example, rather than structured line-by-line or code-based scanning seen in reading, writing, or debugging tasks.",
+  "correct": false
+}

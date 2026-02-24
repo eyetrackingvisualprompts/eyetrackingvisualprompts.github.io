@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Large, repeated context switches between far-separated regions (left code area and far-right/edge UI), long stationary analytic fixations, and very long pauses (up to several seconds) over similar coordinates match the intensive back-and-forth inspection and re-checking typical of debugging, rather than the more linear or smooth patterns seen in reading, browsing, or watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The heatmap shows three discrete fixation clusters aligned horizontally (left, center, right) with similar vertical position and no vertical spread, indicating repeated large-amplitude horizontal movements between fixed positions, characteristic of the Horizontal Saccades task.",
+  "correct": true
+}

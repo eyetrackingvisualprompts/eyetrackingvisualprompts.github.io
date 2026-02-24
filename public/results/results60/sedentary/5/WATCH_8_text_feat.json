@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades across widely separated screen regions (including top, middle, and bottom), revisits to many scattered locations, and irregular scanpaths without the tight line-by-line horizontal structure of READ or the focused central viewing of WATCH/PLAY. The pattern matches exploratory navigation over a complex webpage as seen in the BROWSE examples.",
+  "correct": false
+}

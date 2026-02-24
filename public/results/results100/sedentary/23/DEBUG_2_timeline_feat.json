@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows frequent medium-range horizontal and vertical shifts with varied fixation positions, suggesting alternating attention between search results, snippets, and possible result pages, which aligns best with the SEARCH example compared to the more structured READ/WRITE patterns and more chaotic PLAY/WATCH/BROWSE behaviors.",
+  "correct": false
+}

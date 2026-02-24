@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, orderly horizontal sweeps with small vertical shifts between lines, confined to a rectangular region typical of reading text, closely matching the READ example pattern.",
+  "correct": true
+}

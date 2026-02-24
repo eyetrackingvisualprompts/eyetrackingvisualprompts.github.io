@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows predominantly horizontal X movements with relatively stable, slowly increasing Y positions and periodic larger regressions, matching line-by-line reading behavior more than the other task patterns.",
+  "correct": true
+}

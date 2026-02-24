@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay within a relatively narrow central band with smooth, gradual drifts and few large horizontal sweeps or systematic line-by-line shifts. This pattern matches watching a video with a relatively stable point of regard rather than the more structured horizontal/vertical scan paths typical of reading, writing, searching, browsing, or game playing.",
+  "correct": false
+}

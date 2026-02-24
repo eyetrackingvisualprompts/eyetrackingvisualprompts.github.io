@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in a compact block on the upper-left code area with a few returns to nearby regions, matching the focused, localized gaze pattern seen in the WRITE example more than the broader multi-region patterns of DEBUG, SEARCH, or BROWSE.",
+  "correct": true
+}

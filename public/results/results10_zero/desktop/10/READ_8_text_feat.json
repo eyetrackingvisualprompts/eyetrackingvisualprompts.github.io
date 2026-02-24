@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated around a narrow central region with long, stable fixations (0.4\u20131.2s) and small-amplitude horizontal shifts, indicating sustained attention to a relatively static central area typical of watching a video, rather than the more systematic line-by-line scanning (READ), dispersed navigation (BROWSE/SEARCH), large directional sweeps (PLAY), or frequent shifts to peripheral UI elements (WRITE).",
+  "correct": false
+}

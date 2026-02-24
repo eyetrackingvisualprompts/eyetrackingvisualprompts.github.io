@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between a few horizontally separated regions with moderate saccades and revisits, suggesting scanning different webpage areas (e.g., article sections, side content) rather than the tight line-by-line pattern of READ or the highly focused or dynamic patterns typical for coding, debugging, or gaming tasks.",
+  "correct": false
+}

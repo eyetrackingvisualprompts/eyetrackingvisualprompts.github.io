@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are clustered in a few tight regions on the upper-left side of the screen, with minimal horizontal scanning and little spread, closely matching the INTERPRET example where gaze alternates between code and a small output/description area, unlike the more distributed patterns of browsing, reading, or searching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The fixations are densely clustered around the vertical center of the screen with moderate horizontal spread, closely matching the browsing example heatmap, which shows attention on central content areas of web pages rather than the more left-biased WRITE pattern or the horizontally extended READ pattern.",
+  "correct": true
+}

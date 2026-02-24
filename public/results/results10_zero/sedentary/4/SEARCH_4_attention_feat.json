@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a few isolated fixation clusters in disparate screen regions (upper center and lower left) without the dense, linear or columnar scan patterns typical for reading, coding, or web browsing. This sparse, spatially separated fixation behavior over a 10s window is more consistent with following changing visual content in a video than with tasks involving textual or code inspection or interactive gameplay targets.",
+  "correct": false
+}

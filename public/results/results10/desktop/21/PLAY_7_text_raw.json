@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shows medium-scale vertical shifts between clustered fixations around mid-screen y\u22480.55\u20130.70 with intermittent downward drifts and returns, resembling scrolling and skimming behavior. Movements are less systematic and line-bound than READ/WRITE, more structured and text-region focused than PLAY or WATCH, and closely match the spatial dynamics and variability seen in the BROWSE example.",
+  "correct": false
+}

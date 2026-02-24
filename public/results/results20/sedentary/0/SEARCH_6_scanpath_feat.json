@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a horizontal band near the top (likely search results or query area) and a lower region (possible result content), with long saccades across the width of the screen, matching exploratory scanning typical of search tasks rather than focused reading or coding.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze moves predominantly along a near-horizontal band (y\u22480.38\u20130.42) with sequential left\u2013right saccades and short-to-moderate fixations, closely matching line-by-line text reading behavior as seen in the READ example, rather than the more scattered or vertical movements typical of browsing/searching or the peripheral patterns of play/write/watch.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a dense, horizontally elongated cluster around the middle of the screen with small vertical variation and sequential left\u2013right movements, matching the characteristic line-by-line scanning pattern seen in the READ example rather than the more dispersed or multi-cluster patterns of search, browse, play, watch, or write.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixation clusters are scattered broadly across the screen in both horizontal and vertical directions without forming a line-like pattern or remaining central, consistent with following a target that jumps to random positions rather than reading, watching video, or performing purely horizontal saccades or central fixation.",
+  "correct": false
+}

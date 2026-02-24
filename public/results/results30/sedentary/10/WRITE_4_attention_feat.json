@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are distributed across multiple vertical levels and span a wide horizontal range from left to mid-right screen, resembling scanning search-result lists and different page regions rather than the more localized clusters seen in code tasks or reading, and less continuous than video watching or game playing.",
+  "correct": false
+}

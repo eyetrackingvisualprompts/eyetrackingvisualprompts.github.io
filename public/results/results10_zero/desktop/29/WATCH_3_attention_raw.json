@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a narrow horizontal band near the screen center, with a few adjacent fixation points and very limited vertical or wide-ranging movement, matching the stable line-by-line fixation pattern typical of reading rather than the broader, more exploratory movements of browsing, searching, playing, watching, or writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze heatmap shows a compact cluster slightly right of center with limited vertical spread and no clear linear (horizontal or vertical) scanning pattern typical of reading, writing, or web search/browsing. This localized, sustained fixation region is more consistent with following a central visual focus in a video than with the broader, multidirectional movements expected in gameplay or exploratory tasks.",
+  "correct": false
+}

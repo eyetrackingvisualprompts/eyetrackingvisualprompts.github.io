@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent, rapid horizontal gaze shifts with relatively constrained vertical movement and abrupt position changes suggest tracking dynamic game elements moving mainly across the screen, fitting the PLAY condition more than the more systematic or vertically varying patterns expected in reading, writing, searching, browsing, or watching video with subtitles.",
+  "correct": true
+}

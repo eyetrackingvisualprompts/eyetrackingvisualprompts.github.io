@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are densely clustered around the central area of the screen with limited horizontal spread, matching the focused, center-oriented gaze typical of tracking game elements in the PLAY examples rather than the broader or more distributed patterns of reading, browsing, or coding tasks.",
+  "correct": true
+}

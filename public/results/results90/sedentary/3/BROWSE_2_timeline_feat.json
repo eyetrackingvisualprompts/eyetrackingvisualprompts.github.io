@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze shows moderate dispersion with gradual shifts in both X and Y, more variable than INTERPRET/WRITE but less chaotic than PLAY/BROWSE/SEARCH, matching the focused yet exploratory pattern typical of debugging code on an IDE.",
+  "correct": false
+}

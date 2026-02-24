@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze points form a near-horizontal band with repeated left\u2013right movements at similar vertical positions, matching the pattern of following a target moving horizontally across the screen rather than centralized fixation, random 2D jumps, or reading-like line structures.",
+  "correct": false
+}

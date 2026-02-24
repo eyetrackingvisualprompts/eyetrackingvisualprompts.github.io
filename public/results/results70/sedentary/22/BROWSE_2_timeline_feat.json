@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent saccades in both X and Y directions with wide spatial coverage and rapid shifts, consistent with visually tracking dynamic game elements rather than the more linear, structured patterns seen in reading, coding, or web search/browsing tasks.",
+  "correct": false
+}

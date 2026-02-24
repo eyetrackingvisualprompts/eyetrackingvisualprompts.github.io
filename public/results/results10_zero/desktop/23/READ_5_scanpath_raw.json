@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath is confined to a small central region with short, repetitive, locally clustered saccades and minimal horizontal sweeping, consistent with focusing on a single area such as the text input region and nearby UI elements while typing, rather than the broader horizontal movements of reading/browsing or larger excursions typical of gaming or video watching.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is spread over multiple vertical regions with frequent long saccades across the page and no strict line-by-line structure, resembling the exploratory, non-linear pattern typical of web browsing rather than focused reading, coding, or gameplay.",
+  "correct": false
+}

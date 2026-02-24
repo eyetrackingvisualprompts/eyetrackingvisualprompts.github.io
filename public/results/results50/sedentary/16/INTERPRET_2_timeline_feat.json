@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze positions are relatively centralized with small, localized saccades and limited vertical span, closely matching the INTERPRET example where participants inspect a compact code snippet rather than scanning widely as in SEARCH/BROWSE or reading long text as in READ.",
+  "correct": true
+}

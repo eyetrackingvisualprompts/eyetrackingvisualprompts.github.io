@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is constrained to a small area near the upper screen (y\u22480.2\u20130.3) with long, stable fixations and tiny local saccades, showing no systematic horizontal line sweeps or large exploratory jumps. This closely matches the stationary, text\u2011entry focus pattern seen in the WRITE examples rather than the broader scanning of READ/SEARCH/BROWSE or the wide, dynamic movements of WATCH/PLAY.",
+  "correct": true
+}

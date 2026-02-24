@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze points cluster tightly around code-like coordinate regions with repeated short saccades and revisits (e.g., around y\u2248300\u2013360 and y\u2248380\u2013420), including vertical transitions suggestive of moving between code and output/console areas. This resembles the DEBUG example more than the more linear WRITE/INTERPRET patterns or the broader exploratory movements in SEARCH/BROWSE/PLAY/WATCH/READ.",
+  "correct": false
+}

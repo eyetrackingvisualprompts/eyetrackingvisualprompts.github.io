@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows a horizontally elongated cluster of fixations around the midline with some vertical shifts, consistent with line-by-line reading movements across text, rather than the wider dispersal or dynamic shifts typical of search, browsing, gaming, or video watching.",
+  "correct": false
+}

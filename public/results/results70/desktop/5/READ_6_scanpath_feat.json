@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze covers a broad area with long, smooth horizontal and diagonal shifts and fewer dense clusters, indicating tracking of dynamic visual content across the screen, which best matches the WATCH activity compared to the more clustered or structured patterns of reading, writing, browsing, searching, or playing.",
+  "correct": false
+}

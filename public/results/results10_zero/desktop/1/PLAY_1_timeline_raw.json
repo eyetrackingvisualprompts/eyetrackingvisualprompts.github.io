@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show relatively stable horizontal fixation with slow drift and small saccades, and Y position changes in a few discrete steps consistent with progressing down lines or columns of text, matching typical reading behavior more than the larger, multi-directional shifts expected in play, search, browse, watch, or write tasks.",
+  "correct": false
+}

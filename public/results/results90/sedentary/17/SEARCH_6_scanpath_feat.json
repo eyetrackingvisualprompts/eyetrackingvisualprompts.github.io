@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze covers both the upper results area and some lower content with horizontal sweeps and revisits, resembling the SEARCH example\u2019s pattern of scanning result titles/snippets rather than the denser page-wide exploration of BROWSE or the localized patterns of coding or reading tasks.",
+  "correct": true
+}

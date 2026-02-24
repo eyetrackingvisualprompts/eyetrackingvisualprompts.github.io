@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path shows large, irregular jumps across both horizontal and vertical directions with dwell periods at scattered locations, matching the pattern of following a target that moves unpredictably around the screen rather than along a fixed line or within a constrained region.",
+  "correct": true
+}

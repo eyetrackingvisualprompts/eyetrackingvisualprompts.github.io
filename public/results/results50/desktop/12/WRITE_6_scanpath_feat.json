@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region low on the screen with minimal horizontal scanning, indicating sustained attention to a compact dynamic area (e.g., video frame center/subtitle region), which best matches the WATCH pattern among the given classes.",
+  "correct": false
+}

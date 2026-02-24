@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a few localized regions near the upper-left portion of the screen with minimal horizontal scanning or structured line-by-line movement, consistent with watching a video scene rather than reading, coding, or searching tasks that typically show broader or more linear gaze patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position shows large, mostly horizontal transitions between approximately \u00b115 degrees with relatively stable plateaus of about one second, while Y position stays around a nearly constant offset with minor drift, matching the pattern of following a horizontally moving target rather than random or reading-like movements.",
+  "correct": false
+}

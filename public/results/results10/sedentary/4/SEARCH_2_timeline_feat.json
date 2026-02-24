@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y fixation positions change gradually and smoothly over time with large, sweeping saccades and no clear line-by-line or structured scanning pattern, matching the more continuous, free-form gaze behavior seen when watching videos rather than the more discrete, patterned movements of reading, coding, or web search.",
+  "correct": false
+}

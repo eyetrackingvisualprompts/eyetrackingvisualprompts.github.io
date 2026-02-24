@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze path shows irregular, multidirectional saccades with varied amplitudes and scattered fixation locations, without the systematic horizontal line structure of reading, the strict central clustering of fixations, the large constrained jumps of random/horizontal saccades, or the very large, frequent target-to-target jumps typical of the Balura game. This pattern best matches free viewing during video watching.",
+  "correct": true
+}

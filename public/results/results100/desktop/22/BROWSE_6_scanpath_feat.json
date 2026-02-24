@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered around the central area with frequent medium-range saccades in multiple directions, indicating active scanning of a results page and linked content. This pattern closely resembles the SEARCH example more than the more structured horizontal patterns of READ/WRITE or the multi-cluster layout of PLAY.",
+  "correct": false
+}

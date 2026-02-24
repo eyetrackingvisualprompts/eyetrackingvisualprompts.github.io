@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a slow, mostly monotonic drift in X with relatively stable Y and minimal large saccades, matching the horizontal line-by-line scanning pattern seen in the READ example rather than the more erratic or jumpy behavior of interactive tasks like SEARCH, PLAY, or BROWSE.",
+  "correct": false
+}

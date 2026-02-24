@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a relatively small lower-central region with dense, short horizontal movements and repeated returns to nearby positions, consistent with focusing on a code editor while writing and editing a function rather than scanning long text (READ/BROWSE) or tracking large or dynamic visual elements (WATCH/PLAY).",
+  "correct": false
+}

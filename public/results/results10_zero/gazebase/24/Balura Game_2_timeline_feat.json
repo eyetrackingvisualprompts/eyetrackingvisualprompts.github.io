@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y gaze positions show discrete jumps to various horizontal and vertical locations across the screen, not confined to a single axis or central point. The steps are large (several degrees), held briefly, and arranged irregularly in both dimensions, matching the random multi-directional target movements described for Random Saccades rather than the strictly horizontal pattern of Horizontal Saccades or the limited patterns of the other tasks.",
+  "correct": false
+}

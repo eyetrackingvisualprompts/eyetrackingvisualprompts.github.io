@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on the left side of the screen in a vertically elongated pattern, consistent with scanning multiple lines of code in an IDE while moving up and down to locate and fix errors, matching the DEBUG example distribution more than the other tasks.",
+  "correct": true
+}

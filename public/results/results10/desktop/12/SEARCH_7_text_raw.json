@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are concentrated in a narrow horizontal band in the lower half of the screen (y\u22480.33\u20130.5) with small, systematic horizontal shifts and short regressions, forming stable clusters consistent with line-by-line reading. There are no large, rapid multi-directional jumps typical of PLAY or SEARCH, nor the extreme top/bottom concentrations of WATCH or WRITE; the pattern closely matches the provided READ example\u2019s dense, orderly horizontal fixations and small saccades.",
+  "correct": false
+}

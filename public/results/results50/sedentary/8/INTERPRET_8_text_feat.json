@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Frequent medium-duration fixations and short saccades clustered around a limited code-like area (x\u2248150\u2013350,y\u2248280\u2013520), with repeated revisits between a few neighboring lines/regions and occasional larger context shifts, match the localized, iterative scanning and re-checking pattern typical of debugging rather than the more linear reading/browsing or highly dynamic play/watch/search behaviors.",
+  "correct": false
+}

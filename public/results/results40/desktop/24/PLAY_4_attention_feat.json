@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the center with modest horizontal spread and limited vertical range, resembling focused attention on a small central content area like an article section or panel, which matches the browsing example more than the wider horizontal scans of reading/writing or upper-screen focus of watching/playing.",
+  "correct": false
+}

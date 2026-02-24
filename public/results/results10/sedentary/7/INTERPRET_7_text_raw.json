@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are densely clustered in a narrow horizontal band with small progressive and regressive movements, consistent with reading text lines rather than the larger vertical/hierarchical shifts seen in browsing/search or the broader spatial exploration seen in code tasks, games, or video watching.",
+  "correct": false
+}

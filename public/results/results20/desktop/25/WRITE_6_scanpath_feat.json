@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows scattered fixations across a mid\u2011screen region with frequent shifts among several nearby areas, resembling exploratory navigation over mixed web content, which matches the browsing pattern more than the more structured reading, writing, or task-focused search/play/watch behaviors.",
+  "correct": false
+}

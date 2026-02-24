@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent jumps across wide screen areas including corners and off-screen coordinates, with many mid-length saccades between dispersed regions (center, top, bottom, far right) and relatively brief, scattered fixations. This spatially broad, dynamic scanning is more consistent with visually tracking and planning movement in a game than with more locally constrained, line- or block-based code/text inspection activities such as WRITE, DEBUG, INTERPRET, or READ, or the more result-centric patterns of SEARCH/BROWSE, or the focused central clusters of WATCH.",
+  "correct": true
+}

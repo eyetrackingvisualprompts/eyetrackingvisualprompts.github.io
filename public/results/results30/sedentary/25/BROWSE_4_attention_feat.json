@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are concentrated on a narrow vertical band in the left-central area, with two main clusters aligned vertically and some spread above\u2014closely matching the DEBUG example pattern over code lines rather than the more horizontal READ pattern or the broader distributions of SEARCH/PLAY/WATCH/BROWSE.",
+  "correct": false
+}

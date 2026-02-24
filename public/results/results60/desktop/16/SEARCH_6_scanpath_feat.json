@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide spatial coverage with multiple distinct clusters connected by long saccades, indicating frequent attention shifts across different regions of the screen, which is most consistent with dynamic game play rather than the more localized or structured patterns seen in reading, writing, browsing, watching, or searching.",
+  "correct": false
+}

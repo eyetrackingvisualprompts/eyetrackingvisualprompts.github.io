@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the screen center with moderate, irregular saccades in both axes and no strong directional trend, matching the mixed scanning and localized viewing typical of web browsing rather than the more linear READ/WRITE patterns or larger excursions in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

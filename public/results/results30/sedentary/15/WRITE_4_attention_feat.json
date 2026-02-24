@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations concentrate on a narrow left-of-center code region with some attention to areas likely containing toolbars or console output on the right, matching the WRITE pattern more than the more scattered DEBUG or BROWSE examples.",
+  "correct": true
+}

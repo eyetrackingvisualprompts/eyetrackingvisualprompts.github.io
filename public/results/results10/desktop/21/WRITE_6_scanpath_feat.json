@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze points are tightly clustered in a small region with minimal movement, similar to the WRITE example where attention stays near a fixed area (e.g., around the text insertion point) rather than scanning more widely as in reading, browsing, or searching.",
+  "correct": true
+}

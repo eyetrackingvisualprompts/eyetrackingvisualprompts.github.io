@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a vertical strip with repeated vertical transitions between upper and lower regions and moderate horizontal movement, matching scanning between result snippets and linked pages typical of search engine use rather than the more localized patterns of READ/INTERPRET or the broader spread of WATCH/PLAY/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The scanpath shows large, discrete jumps to various positions scattered across the screen with both horizontal and vertical components, and each cluster suggests brief holds before jumping again, matching a target that changes to random positions rather than a fixed point, a pure horizontal track, or structured reading pattern.",
+  "correct": true
+}

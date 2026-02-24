@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The gaze heatmap shows multiple adjacent fixation clusters aligned horizontally at a similar vertical position, indicating left-to-right scanning across a text line, which is characteristic of reading rather than single-point fixation, large controlled saccades, or game/video viewing patterns.",
+  "correct": true
+}

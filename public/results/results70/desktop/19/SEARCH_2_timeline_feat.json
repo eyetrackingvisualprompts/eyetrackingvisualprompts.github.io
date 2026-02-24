@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the screen center with moderate, irregular saccades in both axes, showing no strong left-right reading sweep or top-heavy writing/search pattern. This central, scattered pattern best matches the browsing example plot.",
+  "correct": false
+}

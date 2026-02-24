@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central region with some spread horizontally and vertically, indicating exploration of mixed content (text, images, links) consistent with web browsing rather than the tighter horizontal band of reading or the upper-screen focus of writing/search.",
+  "correct": false
+}

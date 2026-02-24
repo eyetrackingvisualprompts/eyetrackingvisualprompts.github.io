@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated around code-like regions (mid-left coordinates), with many short fixations and local regressions between nearby points, plus occasional long saccades to far screen locations (e.g., bottom and right), matching patterns of inspecting and re-checking lines/regions typical of debugging rather than smoother reading or broad exploratory browsing/search behavior.",
+  "correct": true
+}

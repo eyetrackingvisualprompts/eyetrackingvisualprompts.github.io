@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly confined within a central region with smooth shifts and clusters, including sustained vertical banding, resembling following dynamic on\u2011screen content rather than line\u2011by\u2011line reading or code/IDE navigation. There are no long, systematic horizontal saccades typical of READ/BROWSE or tight code\u2011block fixations of WRITE/DEBUG/INTERPRET, and the movements lack the abrupt large excursions and edge scanning common in PLAY, matching the WATCH pattern best.",
+  "correct": false
+}

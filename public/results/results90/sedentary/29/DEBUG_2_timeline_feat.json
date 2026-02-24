@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The target data shows relatively narrow horizontal and vertical gaze ranges with small, dense fixations and limited large saccades, closely matching the focused, code-centered viewing pattern of INTERPRET rather than the broader scanning or line-by-line movements seen in SEARCH, BROWSE, READ, or WATCH.",
+  "correct": false
+}

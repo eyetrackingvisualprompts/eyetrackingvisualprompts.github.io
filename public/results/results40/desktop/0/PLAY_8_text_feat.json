@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated near the top of the screen with frequent medium- to long-range horizontal saccades (e.g., around y\u22480.05\u20130.20, sweeping from x\u22480.2\u20130.8), interspersed with shorter fixations. This pattern of rapid relocations along the upper region, including large jumps and brief inspections of off-center areas, resembles tracking and navigation demands in a game more than the more regular horizontal line scanning of READ or the longer stable fixations of WATCH/SEARCH/BROWSE, and differs from the very upper-left constrained WRITE behavior.",
+  "correct": true
+}

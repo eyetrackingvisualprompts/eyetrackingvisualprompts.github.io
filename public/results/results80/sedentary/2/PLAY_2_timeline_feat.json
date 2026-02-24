@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal movement with frequent vertical shifts and intermittent larger saccades, resembling scanning across and between search results and snippets rather than the more regular line-by-line pattern of READ or the more localized patterns of WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

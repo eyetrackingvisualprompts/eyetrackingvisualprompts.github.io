@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze position shows mainly horizontal movements with step-like shifts occurring about once per second and little vertical change, matching the periodic \u00b115\u00b0 horizontal tracking of a target in the Horizontal Saccades task rather than the more variable or complex patterns of reading, gaming, video viewing, fixations, or random saccades.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is spread vertically over a tall left-side region with multiple clusters and some movement toward mid-screen, consistent with scanning search results and snippets on a search engine page rather than focused reading or code-based tasks.",
+  "correct": false
+}

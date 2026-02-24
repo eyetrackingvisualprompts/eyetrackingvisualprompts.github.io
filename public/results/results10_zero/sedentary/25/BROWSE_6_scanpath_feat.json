@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays mostly in the upper-left region with a few long saccades toward the screen center and no structured line-by-line or code-column reading pattern, which is more typical of passively watching visual content than of reading, coding, searching, or gameplay tracking.",
+  "correct": false
+}

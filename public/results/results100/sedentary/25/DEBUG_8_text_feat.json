@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between distant screen regions (including off-screen coordinates), many scattered short fixations, and repeated returns to similar vertical zones suggest scrolling and scanning heterogeneous web content rather than structured reading, code-focused tasks, or object-tracking typical of games or videos, matching the BROWSE patterns in the examples.",
+  "correct": false
+}

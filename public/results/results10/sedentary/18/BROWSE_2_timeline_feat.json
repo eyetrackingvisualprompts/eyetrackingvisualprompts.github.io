@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows smooth, gradual shifts in both X and Y with relatively continuous movement and no clear line-by-line reading or code-structured scanning patterns, matching the example WATCH timeline most closely.",
+  "correct": false
+}

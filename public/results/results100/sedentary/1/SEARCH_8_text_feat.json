@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze shifts between widely separated screen regions (including extremes and off-content areas), repeated transitions between top text-like zones and lower regions, and long horizontal sweeps at multiple vertical levels resemble scanning through a long, scrollable web page with mixed content, matching the BROWSE patterns more than the more localized or structured patterns of coding, reading, or gameplay.",
+  "correct": false
+}

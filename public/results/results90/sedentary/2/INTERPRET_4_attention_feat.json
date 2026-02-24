@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a single dense fixation cluster on the left-side code area with very limited spread elsewhere, closely matching the INTERPRET example pattern where participants focus on a small code snippet to predict its output rather than scanning broadly as in debugging or writing.",
+  "correct": true
+}

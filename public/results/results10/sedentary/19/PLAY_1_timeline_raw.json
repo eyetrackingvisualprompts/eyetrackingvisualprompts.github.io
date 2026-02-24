@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows slow, continuous drift in X with very small Y variation and only occasional brief spikes, indicating mostly stable central fixation with minor shifts\u2014this pattern best matches passively watching fullscreen video rather than text scanning, code manipulation, or interactive tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are relatively long and clustered around a narrow central region with small vertical and horizontal saccades, resembling scanning or reading short text blocks in a limited area rather than the more systematic left-to-right, line-by-line motion of READ; the pattern best matches the localized, semi-static viewing typical of BROWSE in the examples.",
+  "correct": false
+}

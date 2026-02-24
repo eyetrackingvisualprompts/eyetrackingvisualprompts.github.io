@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains clustered near a single central location (around x\u2248-1\u00b0, y\u2248-0.8\u00b0) with long fixation durations (~0.2\u20131.7 s) and only very small corrective saccades, matching the stable central viewing pattern of the Fixations task rather than the larger, directional movements of the other activities.",
+  "correct": true
+}

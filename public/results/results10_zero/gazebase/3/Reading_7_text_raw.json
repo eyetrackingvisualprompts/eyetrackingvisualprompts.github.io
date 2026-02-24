@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze shows complex, irregular saccades and fixations over a wide 2D area, without the strictly horizontal pattern of Horizontal Saccades, the step-wise 1-second positions of Random Saccades, the tight central clustering of Fixations, or the structured left-to-right line patterns typical of Reading. The heterogeneous, free-scanning pattern best matches natural viewing of dynamic scenes such as the movie trailer in Video Viewing.",
+  "correct": false
+}

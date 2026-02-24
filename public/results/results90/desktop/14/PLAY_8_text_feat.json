@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a narrow horizontal band with frequent short horizontal saccades and medium-long fixations, resembling line-by-line text scanning rather than the larger spatial jumps and more dispersed patterns seen in SEARCH, BROWSE, or PLAY, and lacking the very localized top-area clustering typical of WRITE; this best matches the READ examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically over multiple bands on the left and mid-left\u2014consistent with scanning search results and snippets\u2014rather than the tighter code-focused clusters of WRITE/DEBUG/INTERPRET or the single text line band of READ.",
+  "correct": false
+}

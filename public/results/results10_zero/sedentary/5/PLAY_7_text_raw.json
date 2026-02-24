@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent, rapid shifts across wide screen areas with many short fixations and revisits rather than stable line-by-line or block reading patterns. This pattern aligns best with visually tracking dynamic game elements and monitoring multiple regions, typical of the PLAY condition, and is less consistent with the more localized, structured gaze behavior of reading, coding, or debugging tasks, or the more centrally focused WATCH activity.",
+  "correct": true
+}

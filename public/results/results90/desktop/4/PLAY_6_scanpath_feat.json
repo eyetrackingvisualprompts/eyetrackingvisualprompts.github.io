@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a compact cluster near the screen center with moderate vertical spread and frequent medium-length saccades in multiple directions, closely matching the SEARCH example pattern and differing from the more horizontally-structured READ and more dispersed BROWSE/PLAY behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "The heatmap shows a dominant cluster near screen center with several smaller, scattered fixations around it, suggesting repeated fixations on localized, moving targets rather than a single central fixation (Fixations), continuous horizontal movements (Horizontal Saccades), line-structured patterns (Reading), or more dispersed natural viewing (Video Viewing/Random Saccades). This pattern best matches repeatedly fixating on and re-fixating moving objects as in the Balura Game.",
+  "correct": false
+}

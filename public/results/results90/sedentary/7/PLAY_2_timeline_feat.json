@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent, irregular saccades and dispersed fixations across both axes, indicating scanning of multiple spatial regions (results list, query box, snippets) rather than the more structured, line-like reading of READ or the localized patterns of coding tasks, matching the SEARCH example most closely.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a relatively small central region with smooth, sequential shifts and few regressions, consistent with following dynamic on-screen content like a video rather than line-by-line reading, code-focused tasks, or interactive search/browsing/gameplay that typically show more dispersed or structured scanpaths.",
+  "correct": false
+}

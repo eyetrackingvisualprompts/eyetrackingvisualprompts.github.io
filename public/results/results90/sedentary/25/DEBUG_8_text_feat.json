@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long vertical and horizontal saccades between widely separated regions (top, middle, bottom of page), with many medium\u2011length fixations and revisits, closely matches the heterogeneous scanning patterns seen in BROWSE examples rather than the more structured line-by-line patterns of READ or code-oriented tasks like DEBUG/WRITE/INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central-mid region with moderate vertical spread and several nearby focal points, resembling the browsing example where attention moves locally over central webpage content rather than the more linear (READ/WRITE) or peripheral (PLAY/SEARCH/WATCH) patterns.",
+  "correct": false
+}

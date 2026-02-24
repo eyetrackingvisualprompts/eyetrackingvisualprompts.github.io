@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze positions show very small horizontal and vertical variation with mostly stable, central fixations and few saccades, closely matching the INTERPRET example pattern of focused attention on a compact code snippet rather than the wider scanning or dynamic movements seen in reading, browsing, searching, or playing.",
+  "correct": true
+}

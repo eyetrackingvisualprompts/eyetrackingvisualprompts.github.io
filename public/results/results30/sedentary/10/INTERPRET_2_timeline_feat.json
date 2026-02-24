@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows relatively steady reading-like horizontal movement with occasional vertical shifts, but includes several larger, irregular saccades and position jumps\u2014especially toward the end\u2014indicating transitions between different on-screen regions or pages, which is characteristic of free web browsing rather than structured reading or coding tasks.",
+  "correct": false
+}

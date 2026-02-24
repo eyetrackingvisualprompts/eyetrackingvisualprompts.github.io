@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster around a mid-screen region with limited horizontal spread and moderate vertical variation, resembling the localized viewing pattern of browsing examples rather than the more linear (READ/WRITE) or more dispersed (SEARCH/PLAY/WATCH) scanpaths.",
+  "correct": false
+}

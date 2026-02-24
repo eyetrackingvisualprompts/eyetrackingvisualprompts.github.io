@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact code/text region with many short, local saccades and medium fixations, plus repeated vertical moves between two nearby horizontal bands (likely code and output/console). This structured, editor-like pattern with modest scanning, but without large exploratory jumps typical of SEARCH/BROWSE or wide tracking typical of WATCH/PLAY, aligns best with focused code editing/typing in WRITE.",
+  "correct": false
+}

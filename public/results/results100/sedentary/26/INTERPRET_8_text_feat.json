@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large saccades between widely separated regions (including far off\u2011screen coordinates), interleaved with clusters of shorter fixations around similar areas, indicate scanning mixed, scrollable web content rather than line\u2011by\u2011line reading or code inspection. The pattern of repeated returns to similar vertical zones with irregular horizontal shifts, plus occasional extreme jumps to UI-like corners, best matches the heterogeneous, exploratory gaze behavior seen in BROWSE examples.",
+  "correct": false
+}

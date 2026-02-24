@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions fluctuate around mid-screen with frequent small horizontal and vertical shifts and occasional short jumps, resembling the mixed scanning and intermittent scrolling seen in the browse example more than the more structured line-by-line patterns of reading or the larger excursions of play/search/watch/write.",
+  "correct": false
+}

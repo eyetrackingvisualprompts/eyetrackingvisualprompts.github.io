@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are highly concentrated near the top-center area with minimal horizontal spread, matching the stable, localized gaze typical when focusing on a word-processing text cursor while writing, and differing from the broader horizontal scans of reading or more scattered patterns of search/browse/play/watch.",
+  "correct": false
+}

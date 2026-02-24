@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains in a narrow central region with predominantly vertical movements between nearby y-positions, forming stable, medium-length fixations and short corrective saccades typical of scanning lines or segments of text, matching the reading examples more than the more exploratory browsing/search or wide-ranging play patterns.",
+  "correct": false
+}

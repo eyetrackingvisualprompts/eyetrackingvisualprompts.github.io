@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze path shows broad, smooth movements across a wide horizontal range with relatively few tight clusters, similar to tracking dynamic visual content rather than fixating on localized text or code areas, matching the WATCH pattern best among the examples.",
+  "correct": false
+}

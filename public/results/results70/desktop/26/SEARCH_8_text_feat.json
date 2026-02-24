@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around mid-lower screen with moderate vertical range, alternating short and medium fixations and small-to-medium saccades, including occasional jumps between lower text-like band (~0.4) and slightly higher (~0.55\u20130.6), resembling scanning and scrolling behavior seen in BROWSE rather than the more top-heavy WRITE, highly dynamic PLAY, or line-structured READ.",
+  "correct": false
+}

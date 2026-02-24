@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, slow drifts in both X and Y with occasional large vertical saccades, resembling tracking of moving visual elements rather than line-by-line text or structured code, and matching the example WATCH pattern more closely than the other task examples.",
+  "correct": false
+}

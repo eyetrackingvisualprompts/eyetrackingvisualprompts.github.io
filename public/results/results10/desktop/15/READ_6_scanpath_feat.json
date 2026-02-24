@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a narrow horizontal band with small vertical variation and sequential fixations, matching the left-to-right line-by-line scanning pattern typical of reading rather than the more dispersed or multidirectional patterns of other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Predominantly horizontal gaze with small incremental shifts and stable vertical positions, indicating line-by-line reading with short saccades rather than large exploratory or dynamic movements typical of search, browse, watch, play, or write activities.",
+  "correct": false
+}

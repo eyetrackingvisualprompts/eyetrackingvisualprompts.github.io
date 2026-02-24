@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions show medium-range, frequent shifts in both X and Y with no strong bias to top/bottom or extreme left/right, resembling the mixed, exploratory scan patterns of the BROWSE example more than the more constrained patterns of READ, WRITE, WATCH, SEARCH, or PLAY.",
+  "correct": false
+}

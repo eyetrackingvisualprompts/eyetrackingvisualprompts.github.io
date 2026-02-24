@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows sustained, relatively narrow vertical range with gradual horizontal shifts and moderate saccades, closely matching the INTERPRET example pattern of scanning through short code segments and mentally tracing execution, rather than the broader exploration of SEARCH/BROWSE or the more dispersed patterns of WRITE/DEBUG/PLAY/WATCH/READ.",
+  "correct": false
+}

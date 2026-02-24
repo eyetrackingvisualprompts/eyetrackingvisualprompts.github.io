@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in a narrow horizontal band with many short, local saccades between nearby coordinates and repeated revisits to nearly the same positions\u2014typical of monitoring and editing a single code line or small code block while typing, as seen in the WRITE examples, rather than line-by-line progression (READ) or broader scanning (SEARCH/BROWSE).",
+  "correct": true
+}

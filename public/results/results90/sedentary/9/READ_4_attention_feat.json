@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The heatmap shows dense vertical bands of fixations spanning a large portion of the screen height, consistent with line-by-line reading behavior rather than localized coding, game following, or scattered browsing/search patterns.",
+  "correct": true
+}

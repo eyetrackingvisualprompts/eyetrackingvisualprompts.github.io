@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent long fixations with many regressions and revisits within a compact central code-like region, interspersed with large saccades between top and bottom screen areas consistent with alternating between editor, console, and other IDE elements, best matches the WRITE coding behavior rather than the more linear READ or more dispersed BROWSE/SEARCH patterns.",
+  "correct": true
+}

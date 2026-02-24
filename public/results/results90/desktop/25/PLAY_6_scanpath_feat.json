@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cover a mid-screen region with varied vertical and horizontal movements and dispersed fixations, resembling exploratory navigation on web pages. The pattern is more scattered than reading or writing, less centralized than search, and lacks the strong top-band focus typical for watching video, matching the browsing example most closely.",
+  "correct": false
+}

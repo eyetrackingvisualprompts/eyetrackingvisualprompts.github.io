@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are widely distributed across the screen with frequent long saccades in multiple directions and no confined reading or coding area, matching the dynamic, spatially spread pattern typical for tracking game elements during PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y gaze positions show large, discrete, multi-directional jumps with plateaus of about one second, matching the step-like, irregular horizontal and vertical movements characteristic of the Random Saccades task rather than the more constrained or patterned movements in other activities.",
+  "correct": true
+}

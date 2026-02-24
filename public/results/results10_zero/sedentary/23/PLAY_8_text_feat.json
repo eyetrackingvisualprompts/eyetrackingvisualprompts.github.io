@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze pattern shows concentrated, medium-length fixations with frequent vertical and diagonal saccades within a relatively confined region, consistent with inspecting specific code lines and tracing control/data flow rather than scanning long text blocks (READ/BROWSE) or tracking moving objects (PLAY/WATCH). This localized, analytical viewing behavior best matches interpreting a given code snippet and mentally simulating its output.",
+  "correct": false
+}

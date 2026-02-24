@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows a constrained horizontal movement band at mid-screen with small, regular saccades and limited vertical shifts, consistent with following a text line while reading rather than the larger, multidirectional shifts typical of browsing, searching, gaming, video watching, or writing (which would show more vertical and dispersed gaze locations).",
+  "correct": true
+}

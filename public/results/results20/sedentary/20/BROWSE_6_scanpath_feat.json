@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly organized into a few horizontal lines like reading, but with occasional large vertical transitions between separated regions and no tight coding-area cluster; this mixed reading-and-jumping pattern best matches web browsing behavior.",
+  "correct": true
+}

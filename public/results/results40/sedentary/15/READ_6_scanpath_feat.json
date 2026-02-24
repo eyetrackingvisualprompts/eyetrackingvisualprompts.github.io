@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form tight horizontal scanlines with regular left-to-right saccades and limited vertical movement, indicating continuous line-by-line reading of static text, matching the READ pattern best.",
+  "correct": true
+}

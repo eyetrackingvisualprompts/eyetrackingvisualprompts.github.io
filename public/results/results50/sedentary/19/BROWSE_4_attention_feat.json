@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small region on the left side, similar to focused code-reading patterns (INTERPRET/WRITE), but with even more limited spread and no peripheral exploration, matching concentrated inspection of a short code snippet for output prediction rather than the broader, more distributed gaze seen in DEBUG or WRITE.",
+  "correct": false
+}

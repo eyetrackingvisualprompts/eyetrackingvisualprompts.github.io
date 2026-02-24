@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated long horizontal scans with periodic large backward saccades in X while Y stays in a narrow band, indicating line-by-line reading interleaved with jumps to different parts of a webpage, characteristic of free web browsing rather than continuous reading or watching.",
+  "correct": false
+}

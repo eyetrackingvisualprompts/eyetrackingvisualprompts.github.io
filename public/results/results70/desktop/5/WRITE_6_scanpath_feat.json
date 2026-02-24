@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are tightly clustered around a central region with limited horizontal spread, similar to the browsing example where gaze concentrates on a localized content area rather than traversing lines of text or exploring widely like play, search, or watch.",
+  "correct": false
+}

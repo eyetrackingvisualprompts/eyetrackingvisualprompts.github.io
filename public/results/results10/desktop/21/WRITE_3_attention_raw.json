@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly clustered in a small lower-central region, indicating prolonged fixation at a single area typical of focusing on the text-entry line and nearby UI elements while writing in a word processor, similar to the WRITE example pattern.",
+  "correct": true
+}

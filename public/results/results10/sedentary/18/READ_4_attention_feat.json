@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a single horizontal band in the lower half of the screen, closely matching the code-editor region seen in WRITE examples and showing focused attention on an implementation area rather than scattered exploration or reading-only behavior.",
+  "correct": false
+}

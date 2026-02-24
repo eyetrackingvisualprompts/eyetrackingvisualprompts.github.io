@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around mid\u2013upper horizontal positions with relatively small, frequent saccades and modest vertical variation, closely matching the stable, centrally focused yet intermittently shifting pattern seen in the BROWSE example rather than the larger horizontal sweeps of READ/WRITE or the broader excursions of PLAY/SEARCH/WATCH.",
+  "correct": false
+}

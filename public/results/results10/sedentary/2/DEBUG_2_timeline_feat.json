@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent medium-to-large vertical transitions across several horizontal bands with varied X positions match scanning result lists and moving between search box, snippets, and lower content, similar to the SEARCH example pattern and less regular than READ or WATCH.",
+  "correct": false
+}

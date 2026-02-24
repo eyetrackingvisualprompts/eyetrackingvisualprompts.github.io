@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows large, frequent shifts across both axes (including to screen edges and beyond typical reading/browsing bands), mixed with shorter local fixations, indicating dynamic, wide-range visual exploration characteristic of game play rather than the more banded, text-line patterns of READ/WRITE or the more vertically constrained layouts of BROWSE/SEARCH.",
+  "correct": false
+}

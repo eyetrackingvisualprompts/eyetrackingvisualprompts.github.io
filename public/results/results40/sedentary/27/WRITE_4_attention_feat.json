@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered on a small code region on the left side, with minimal spread elsewhere, resembling the focused pattern of the INTERPRET example more than the broader, multi-area distributions seen in WRITE or DEBUG.",
+  "correct": false
+}

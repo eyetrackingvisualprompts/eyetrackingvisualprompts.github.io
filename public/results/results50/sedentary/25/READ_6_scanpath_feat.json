@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scan lines near the top with occasional vertical and lower-page excursions resemble scanning search results and then inspecting a lower result or linked page, matching the SEARCH pattern more than the more uniform lines of READ or the broader exploration patterns of PLAY, WATCH, or BROWSE.",
+  "correct": false
+}

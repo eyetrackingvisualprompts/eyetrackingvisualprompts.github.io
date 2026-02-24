@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a vertically elongated cluster in a narrow horizontal band, consistent with fixations moving along text lines in a column during reading, rather than the broader spatial exploration typical of search, browsing, gaming, or video watching.",
+  "correct": false
+}

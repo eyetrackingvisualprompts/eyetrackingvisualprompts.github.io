@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between mid-page vertical bands (around y\u2248250\u2013450) and lower-page regions (y\u2248850\u20131000), with many horizontal scans along similar y-levels and repeated returns to central text-like areas. There are frequent large saccades to the top/URL-like region and back down, matching the mixed reading\u2013scanning and result-navigation behavior typical of SEARCH more than the more localized, code-centered patterns of INTERPRET/DEBUG/WRITE or the object-following/scene-centred behavior of PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow vertical band low on the screen with slowly drifting horizontal fixations and very few large saccades, closely matching the WRITE example where attention stays near the text input area rather than scanning widely as in READ or SEARCH.",
+  "correct": true
+}

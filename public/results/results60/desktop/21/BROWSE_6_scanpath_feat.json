@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The target scanpath shows two main spatial regions of dense fixations connected by long saccades and frequent vertical and diagonal movements across much of the screen, closely resembling the distributed, multi-cluster pattern of the PLAY example rather than the more localized or linear patterns of reading, writing, search, browsing, or watching video.",
+  "correct": false
+}

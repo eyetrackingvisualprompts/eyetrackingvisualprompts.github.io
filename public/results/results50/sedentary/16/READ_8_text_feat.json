@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze follows long, smooth left-to-right horizontal sweeps clustered in tight vertical bands with small regressions and short-to-moderate fixations, matching line-by-line text reading patterns rather than code (INTERPRET/DEBUG/WRITE) or dynamic content (PLAY/WATCH/BROWSE/SEARCH).",
+  "correct": true
+}

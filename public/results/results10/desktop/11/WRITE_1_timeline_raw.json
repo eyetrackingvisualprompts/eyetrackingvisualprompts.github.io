@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions show smooth, horizontal drift with small, regular shifts and minimal large saccades, closely matching the stable, line-by-line pattern seen in the READ example rather than the more erratic or vertically dynamic patterns of browsing, searching, playing, or watching video.",
+  "correct": false
+}

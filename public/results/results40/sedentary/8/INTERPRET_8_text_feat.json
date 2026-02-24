@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered in a compact code-like region (x\u2248180\u2013340, y\u2248320\u2013450) with frequent short saccades back and forth among nearby lines and columns, indicative of editing/writing code rather than scanning full lines (READ) or larger UI regions (DEBUG/INTERPRET/SEARCH). Occasional large saccades to off-text areas resemble brief glances to UI or console, which is typical in WRITE segments in the examples.",
+  "correct": false
+}

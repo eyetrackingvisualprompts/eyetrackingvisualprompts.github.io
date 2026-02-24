@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show large, rapid shifts across wide screen areas (including near-screen edges and off-screen coordinates), interspersed with brief local clusters\u2014indicative of tracking moving objects and quickly reorienting attention, which aligns best with gameplay (e.g., Pong, Mario, Agario) rather than the more line-structured, localized patterns typical of reading, coding, or web browsing.",
+  "correct": false
+}

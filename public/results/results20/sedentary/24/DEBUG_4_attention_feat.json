@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are tightly clustered in a small region on the left side of the screen with minimal dispersion elsewhere, matching the focused code-window viewing pattern seen in the INTERPRET example rather than the more distributed patterns of browsing, reading, or debugging.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-to-large horizontal and vertical shifts with intermittent clustered fixations, resembling scanning result lists and opening pages. The pattern closely matches the SEARCH example, with more exploratory movement than READ/INTERPRET/WRITE and less continuous motion than WATCH/PLAY.",
+  "correct": true
+}

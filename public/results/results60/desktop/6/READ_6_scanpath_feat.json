@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are distributed in a horizontally elongated band with relatively small vertical range and sequential progressions, matching the left-to-right, line-by-line scan pattern characteristic of reading text rather than the more scattered or vertical patterns of other activities.",
+  "correct": true
+}

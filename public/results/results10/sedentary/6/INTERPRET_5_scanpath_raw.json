@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is clustered in a compact upper-left region with frequent short movements and several long vertical shifts toward the bottom, matching the localized but occasionally large transitions seen when scanning and editing code within an IDE during debugging, and resembling the DEBUG example more than others.",
+  "correct": false
+}

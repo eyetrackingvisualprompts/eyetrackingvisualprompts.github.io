@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is confined to a compact left-center region with short horizontal and vertical shifts among nearby lines, similar to the DEBUG example and distinct from the more vertically stacked pattern of INTERPRET or the linear pattern of READ.",
+  "correct": false
+}

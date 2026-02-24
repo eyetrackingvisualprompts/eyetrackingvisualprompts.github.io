@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-range horizontal shifts with varied vertical positions and intermittent larger saccades, indicating scanning across different areas of a page and switching between elements, which best matches the heterogeneous, exploratory pattern seen in the SEARCH example.",
+  "correct": false
+}

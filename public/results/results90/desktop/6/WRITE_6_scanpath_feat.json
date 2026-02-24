@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows dense, horizontally elongated clusters with systematic vertical progression across a constrained central region\u2014characteristic of line-by-line reading rather than broader exploratory (BROWSE/SEARCH), dynamic (PLAY/WATCH), or document-editing (WRITE) patterns.",
+  "correct": false
+}

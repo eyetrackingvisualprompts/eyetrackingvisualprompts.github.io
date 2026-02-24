@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points are highly stable, clustered in narrow horizontal bands around mid-screen y-values with slow, small shifts\u2014matching the line-by-line horizontal scanning and brief vertical transitions characteristic of reading, and closely resembling the provided READ example patterns rather than the more dynamic or dispersed movements in SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

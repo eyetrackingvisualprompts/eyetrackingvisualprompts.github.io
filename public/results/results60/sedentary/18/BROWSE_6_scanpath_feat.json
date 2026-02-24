@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow vertical code-like region on the left with occasional shifts to a single point on the right, indicating focused inspection of a small code snippet and brief checks elsewhere, which best matches the INTERPRET task patterns rather than the broader, denser exploration seen in DEBUG or other activities.",
+  "correct": false
+}

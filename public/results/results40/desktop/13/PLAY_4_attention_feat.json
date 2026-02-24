@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated in a mid-horizontal band with moderate vertical spread and a central bias, indicating scanning of mixed text and visual elements similar to news/web pages, which matches the BROWSE pattern more than the tighter, line-like READ or more dispersed SEARCH/PLAY/WATCH layouts.",
+  "correct": false
+}

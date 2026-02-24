@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly confined to a horizontal band near the top-left of the screen with a long sweep to the right, consistent with scanning search results and the search bar, closely matching the SEARCH example pattern more than the others.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a relatively small code-like area with limited vertical span, frequent short saccades, and occasional long shifts to edges, resembling the INTERPRET example more than the denser, broader patterns for DEBUG, WRITE, or BROWSE.",
+  "correct": false
+}

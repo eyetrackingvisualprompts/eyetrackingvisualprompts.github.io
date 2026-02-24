@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent sharp downward and upward Y movements clustered in early part (likely glances to keyboard or UI elements) followed by a long, stable reading-like segment suggest alternating between typing and briefly checking text, matching the WRITE pattern more than the other activities.",
+  "correct": true
+}

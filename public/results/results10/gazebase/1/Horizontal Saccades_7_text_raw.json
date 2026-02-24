@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze moves almost exclusively along the horizontal axis at large, near-constant eccentricities (\u2248\u00b115\u201316\u00b0) with small local fluctuations and repeated long horizontal transitions between far-left and far-right positions, matching the structured back-and-forth horizontal target tracking pattern in the Horizontal Saccades class rather than the more varied amplitudes and directions seen in Random Saccades or other tasks.",
+  "correct": true
+}

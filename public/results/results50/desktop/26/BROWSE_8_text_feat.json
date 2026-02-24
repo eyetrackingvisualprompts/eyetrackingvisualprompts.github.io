@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude transitions across broad vertical and horizontal screen regions, including into extreme upper and lower areas, with short, dispersed fixations and irregular scanning rather than row-wise or block-wise reading patterns. This wide-range, dynamic, and non-systematic exploration best matches the PLAY examples, which involve looking in many directions to track game elements, rather than the more structured patterns seen in READ, WRITE, SEARCH, or BROWSE, or the more upper-band\u2013focused WATCH behavior.",
+  "correct": false
+}

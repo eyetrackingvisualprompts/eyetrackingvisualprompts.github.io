@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a compact vertical cluster near the screen center with minimal horizontal dispersion, consistent with watching a central video scene rather than scanning lines of text or interactive elements which would show wider horizontal movements (READ/WRITE/SEARCH/BROWSE) or larger multi-directional shifts (PLAY).",
+  "correct": false
+}

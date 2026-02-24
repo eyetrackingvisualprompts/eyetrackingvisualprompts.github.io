@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points are tightly clustered around a central region with only small, slow drifts and no large directional saccades, matching the stable pattern of maintaining fixation on a static central target.",
+  "correct": true
+}

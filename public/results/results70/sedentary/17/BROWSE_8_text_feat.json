@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Long sequences of left-to-right horizontal scanpaths around a few fixed vertical bands, with repeated passes across similar y-levels and occasional large vertical/diagonal jumps to other regions, match the structured but exploratory webpage scanning seen in the BROWSE examples more than the tighter line-based READ pattern or code-oriented tasks. The coordinates and movements are consistent with exploring multiple sections of a web page rather than focusing on code or a game object.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixation trajectories show predominantly horizontal movements with gradual downward shifts in Y, consistent with line-by-line text reading and matching the pattern in the READ example more than the other activities.",
+  "correct": false
+}

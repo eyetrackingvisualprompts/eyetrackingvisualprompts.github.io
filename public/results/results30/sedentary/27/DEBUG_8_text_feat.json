@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact code/text area with many short intra-region saccades, frequent revisits to the same lines, and occasional jumps to other nearby regions, matching the sustained, localized inspection seen in the WRITE example rather than the more scattered patterns of BROWSE/SEARCH or the line-structured pattern of READ.",
+  "correct": false
+}

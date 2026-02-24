@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small central region with minor local movements over the full 10 s, indicating sustained attention to one compact area of the screen, which is most consistent with watching a video (e.g., focusing on characters or subtitles) rather than the broader, systematic scanning patterns typical of reading, searching, browsing, writing, or playing games.",
+  "correct": false
+}

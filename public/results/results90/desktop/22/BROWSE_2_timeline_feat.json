@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent shifts and broader vertical exploration than typical reading or writing, with irregular saccades and fixations distributed over a larger screen area, matching the exploratory, multi-element viewing pattern seen in SEARCH rather than the more linear patterns of READ or WRITE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal and vertical movements with frequent saccades and revisits across mid-screen regions, matching the varied scanning and refixation behavior typical of inspecting search results rather than the more linear (READ) or more localized (WRITE/DEBUG/INTERPRET) patterns.",
+  "correct": false
+}

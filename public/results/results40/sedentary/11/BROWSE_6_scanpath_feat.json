@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple long vertical and horizontal saccades between dispersed regions (top, middle, and lower parts of the page) with relatively brief local fixations, consistent with visually scanning a search-results page rather than focused reading, coding, or continuous watching.",
+  "correct": false
+}

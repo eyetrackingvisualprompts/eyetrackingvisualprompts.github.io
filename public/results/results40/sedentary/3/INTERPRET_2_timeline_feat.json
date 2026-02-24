@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate, irregular horizontal and vertical shifts over the whole window without the strong horizontal sweeps of reading/browsing or the very constrained patterns of writing/interpreting. This mixed, exploratory pattern with periodic refixations on a central band resembles the example DEBUG plot most closely, consistent with scanning and re-checking code while debugging.",
+  "correct": false
+}

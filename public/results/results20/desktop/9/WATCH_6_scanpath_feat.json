@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, horizontally aligned fixations in a narrow vertical band with short saccades, characteristic of line-by-line text reading and closely matching the READ example pattern more than the others.",
+  "correct": false
+}

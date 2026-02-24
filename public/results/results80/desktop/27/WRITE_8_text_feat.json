@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Long, stable fixations with small horizontal shifts around mid-screen then moving to a higher, nearly constant y-position (around 0.7\u20130.78) with very small within-line saccades closely matches the sustained line-by-line reading pattern seen in the READ examples, and contrasts with the more dispersed, multidirectional movements of SEARCH/BROWSE/PLAY or the extreme vertical positions of WATCH/WRITE.",
+  "correct": false
+}

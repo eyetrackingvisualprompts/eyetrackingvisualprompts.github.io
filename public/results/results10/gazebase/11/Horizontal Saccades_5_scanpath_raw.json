@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze trace is almost entirely confined to a narrow horizontal band with repetitive back-and-forth movements across a wide horizontal range and minimal vertical change, matching the pattern of following a target in horizontal saccade tasks.",
+  "correct": true
+}

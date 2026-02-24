@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated in a horizontal band around mid-screen with frequent shifts between two nearby vertical regions (likely search results and lower content) plus occasional long saccades to the top-right area (search bar or new tab region), matching the SEARCH pattern more than the other tasks.",
+  "correct": false
+}

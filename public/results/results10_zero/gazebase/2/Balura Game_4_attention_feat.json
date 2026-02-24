@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are clustered but widely scattered across the screen, including both left/right and upper/lower regions, without a dominant horizontal band (ruling out horizontal saccades and reading) and without central bias typical of static fixation or video. This pattern best matches following a bull\u2019s-eye that jumps to random positions across the display, i.e., Random Saccades.",
+  "correct": false
+}

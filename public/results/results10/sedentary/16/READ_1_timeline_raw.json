@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Both X and Y show moderate horizontal scanning with several discrete shifts in vertical position and brief noisy segments, resembling mixed reading of results and transitioning between snippets, which matches the SEARCH example pattern more than the steadier READ or more erratic DEBUG/WRITE traces.",
+  "correct": false
+}

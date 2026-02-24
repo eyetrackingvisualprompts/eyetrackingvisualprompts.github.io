@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is mostly clustered around a central-left code area with occasional long saccades to the right, closely matching the WRITE example scanpath where attention alternates between code editing region and other UI elements, unlike the tighter clusters of INTERPRET/DEBUG or the more dispersed patterns of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

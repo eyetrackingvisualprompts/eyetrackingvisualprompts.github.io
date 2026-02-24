@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in a narrow vertical region on the left side, similar to the DEBUG example where attention is focused on a small code area rather than spread linearly as in READ/BROWSE or across the screen as in PLAY/WATCH/SEARCH.",
+  "correct": true
+}

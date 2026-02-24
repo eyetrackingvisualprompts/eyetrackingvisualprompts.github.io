@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, rapid eye movements across wide screen areas with few tight reading-like clusters, consistent with tracking dynamic game elements and scanning the playfield rather than line-by-line text or code inspection.",
+  "correct": false
+}

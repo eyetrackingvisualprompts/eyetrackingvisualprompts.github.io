@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are spread horizontally across the mid-screen with moderate vertical variation and multiple dispersed clusters, matching the mixed scanning of various content sections seen in browsing, rather than the tighter horizontal band of reading or the more localized clusters of search or writing.",
+  "correct": false
+}

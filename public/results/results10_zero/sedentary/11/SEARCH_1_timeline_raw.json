@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows long, stable horizontal segments with occasional large but infrequent saccades, and little vertical scanning typical of reading or code-related tasks. This pattern matches passively following content in a fixed region of the screen, consistent with watching a video rather than interactive or text-intensive activities.",
+  "correct": false
+}

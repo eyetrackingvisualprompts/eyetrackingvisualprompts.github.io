@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze moves in irregular directions and amplitudes within a central region, with both horizontal and vertical shifts and no clear repetitive pattern (as in horizontal saccades) or structured lines (as in reading). This pattern best matches following a randomly moving target across the screen.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows moderate horizontal sweeps with relatively constrained vertical movement and occasional brief shifts, closely matching the WRITE example where attention alternates between code and a small output/IDE area rather than large vertical jumps seen in SEARCH or BROWSE.",
+  "correct": false
+}

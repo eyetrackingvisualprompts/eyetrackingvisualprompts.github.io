@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large saccades spanning wide screen regions (including to screen extremes), alternating between central and peripheral areas in both upper and lower parts of the display, with relatively short, reactive fixations\u2014characteristic of visually tracking dynamic game elements rather than line-by-line reading, focused writing, or scanning structured web/search layouts.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent, rapid shifts across distant screen locations, including large jumps and scattered clusters rather than orderly line-based scanning or stable fixations. This pattern is more consistent with tracking moving game elements and monitoring multiple regions (character, enemies, HUD) than with reading, coding, or watching a video, which typically produce more structured horizontal or region-bound fixation patterns.",
+  "correct": false
+}

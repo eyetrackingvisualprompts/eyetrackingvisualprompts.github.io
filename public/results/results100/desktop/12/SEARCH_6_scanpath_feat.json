@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster centrally with moderate vertical spread and varied saccades, resembling mixed reading and interface inspection typical of search result pages, and matching the SEARCH example more closely than the other activities.",
+  "correct": true
+}

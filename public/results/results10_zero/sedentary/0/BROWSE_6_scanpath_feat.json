@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small mid-left area with short, repetitive horizontal saccades and localized fixations, typical of focusing on a small code region while typing or editing, rather than the broader scanning or line-by-line reading seen in READ/INTERPRET/DEBUG or dynamic tracking seen in PLAY/WATCH/BROWSE/SEARCH.",
+  "correct": false
+}

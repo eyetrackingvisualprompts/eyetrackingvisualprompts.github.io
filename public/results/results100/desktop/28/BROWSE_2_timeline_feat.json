@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows frequent medium-range saccades in both axes with varied fixation locations, resembling the dispersed scanning and mixed reading/search behavior seen in the SEARCH example more than the more structured patterns of READ or the denser movements of BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent gaze jumps across widely separated screen regions (including off-screen/negative coordinates), revisits to top areas, and scanning of mid-page horizontal bands match the exploratory, multi-region pattern of web search result inspection rather than the more line-structured reading or localized coding/IDE tasks.",
+  "correct": true
+}

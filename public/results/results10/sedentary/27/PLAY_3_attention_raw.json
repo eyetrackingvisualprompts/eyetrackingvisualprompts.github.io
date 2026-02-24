@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze is tightly clustered in a small central area with minimal dispersion, indicating sustained attention on a localized code region, which best matches the DEBUG example pattern compared to the other more dispersed or line-like activities.",
+  "correct": false
+}

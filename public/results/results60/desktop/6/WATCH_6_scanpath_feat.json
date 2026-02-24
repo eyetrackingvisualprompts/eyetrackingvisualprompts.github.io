@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a narrow horizontal band with small vertical variation, indicating line-by-line scanning across text, which matches the typical pattern observed in the READ examples more than the other activities.",
+  "correct": false
+}

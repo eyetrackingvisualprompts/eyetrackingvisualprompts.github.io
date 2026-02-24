@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered near the center with moderate vertical spread and limited horizontal scanning, closely matching the browsing example heatmap rather than the more line-structured READ or scattered WATCH/PLAY patterns.",
+  "correct": true
+}

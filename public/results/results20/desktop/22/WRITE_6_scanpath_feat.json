@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around the central area with moderate horizontal and vertical movements and several revisits, resembling the mixed exploration and reading behavior in the BROWSE example more than the more linear patterns of READ/WRITE or the peripheral patterns of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

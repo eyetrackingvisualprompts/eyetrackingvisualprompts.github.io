@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations are densely clustered over a mid-left region with some vertical spread, resembling concentrated inspection of a code block in an IDE, closely matching the DEBUG example heatmap more than the other activities.",
+  "correct": true
+}

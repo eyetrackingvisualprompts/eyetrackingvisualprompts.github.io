@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a small lower-left region with short, repeated fixations and limited horizontal sweep, consistent with focusing on a local area such as the text insertion point and nearby words while typing, rather than the broader, more systematic scanning seen in reading, searching, browsing, or watching video/game content.",
+  "correct": false
+}

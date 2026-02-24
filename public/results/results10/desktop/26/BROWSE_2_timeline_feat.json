@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows large, frequent vertical shifts between high and mid Y positions with corresponding horizontal changes, indicating repeated transitions between the upper text area and lower regions (e.g., keyboard/reference), a pattern most consistent with the WRITE example rather than the more stable or narrowly ranged patterns of reading, browsing, or watching.",
+  "correct": false
+}

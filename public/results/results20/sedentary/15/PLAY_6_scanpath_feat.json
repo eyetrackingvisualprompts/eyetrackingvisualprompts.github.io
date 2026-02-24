@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows two vertically separated regions with movements between an upper area and a denser lower cluster, consistent with scanning search results (title/snippet region and lower content) rather than the more localized code-focused (WRITE/INTERPRET) or linearly horizontal (READ) patterns.",
+  "correct": false
+}

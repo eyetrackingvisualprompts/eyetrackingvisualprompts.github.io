@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze positions show relatively smooth, horizontal movements with occasional downward shifts and small vertical range, matching line-by-line progression typical of reading rather than the larger, more erratic shifts seen in browsing, searching, gaming, or watching video.",
+  "correct": false
+}

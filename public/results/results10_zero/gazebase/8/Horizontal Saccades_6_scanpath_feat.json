@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated large-amplitude back-and-forth gaze shifts along a nearly constant horizontal line between two lateral positions, matching the pattern of following a horizontally moving target rather than random, reading, or fixation behavior.",
+  "correct": true
+}

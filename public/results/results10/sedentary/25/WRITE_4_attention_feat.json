@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated on a compact region in the upper-left central area with a short horizontal spread, closely matching the INTERPRET example heatmap where participants focus on a small code snippet to reason about its output, unlike the broader or more scattered patterns of other tasks.",
+  "correct": false
+}

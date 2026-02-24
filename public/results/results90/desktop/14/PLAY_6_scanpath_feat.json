@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, horizontally elongated clusters of fixations within a narrow vertical band, resembling line-by-line text reading patterns and matching the READ example more than the other activities, which exhibit broader or more erratic gaze dispersion.",
+  "correct": false
+}

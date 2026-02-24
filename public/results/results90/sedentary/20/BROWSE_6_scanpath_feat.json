@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on a central-left column consistent with reading results, but with frequent larger saccades to the right side and bottom of the screen, indicating scanning between search results, side areas, and possibly new pages rather than continuous text reading or code-focused tasks.",
+  "correct": false
+}

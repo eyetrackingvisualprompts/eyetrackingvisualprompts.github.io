@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are clustered around the screen center with moderate dispersion and no strong horizontal line patterns of reading or large directional shifts of playing/searching; this compact central exploration best matches typical web/news browsing behavior shown in the example.",
+  "correct": false
+}

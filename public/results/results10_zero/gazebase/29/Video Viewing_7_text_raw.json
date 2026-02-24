@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The gaze pattern shows predominantly horizontal movements with modest vertical shifts and clusters of small, stable fixations separated by rapid horizontal saccades across a limited vertical band\u2014consistent with line-by-line reading rather than large, symmetric horizontal sweeps, random 2D jumps, or central fixation.",
+  "correct": false
+}

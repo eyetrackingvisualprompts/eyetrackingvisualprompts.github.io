@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are tightly clustered in a small central region with minimal horizontal or vertical movement over the full 10 s, indicating stable fixation on a single screen area, which is most consistent with passively watching video content rather than scanning text, browsing, searching, playing games, or shifting between text and keyboard while writing.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent vertical and diagonal saccades between far-separated regions (top, bottom, off-screen), extended fixations near mid/upper page bands, and long horizontal sweeps at several y-levels match scrolling and scanning patterns seen in BROWSE examples rather than the more constrained, line-based READ patterns or code-focused tasks.",
+  "correct": true
+}

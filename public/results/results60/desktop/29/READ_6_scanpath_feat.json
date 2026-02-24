@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows long, horizontally aligned sequences of fixations that progress vertically over time, consistent with line-by-line reading behavior rather than localized interaction or scattered viewing typical of other tasks.",
+  "correct": true
+}

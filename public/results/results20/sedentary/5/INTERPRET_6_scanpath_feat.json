@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points are tightly clustered in a small area with minimal horizontal or vertical scanning, indicating sustained focus on a compact code snippet, which matches the INTERPRET task pattern shown in the examples.",
+  "correct": true
+}

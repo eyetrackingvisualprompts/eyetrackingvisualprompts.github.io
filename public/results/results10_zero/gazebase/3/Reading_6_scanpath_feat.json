@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze positions form a mostly horizontal band with repeated left-right movements at similar vertical levels and relatively constant spacing, consistent with tracking a target moving horizontally across the screen rather than reading, random 2D motion, video viewing, or static fixation.",
+  "correct": false
+}

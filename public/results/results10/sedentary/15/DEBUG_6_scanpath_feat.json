@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed vertically across two main regions (upper and lower) on the left side, consistent with alternating attention between a search box/results list and lower content, resembling the SEARCH example more than the other task patterns.",
+  "correct": false
+}

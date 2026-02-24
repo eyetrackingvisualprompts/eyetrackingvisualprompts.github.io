@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze coordinates show large, discrete jumps to widely separated positions across both horizontal and vertical axes, with subsequent tightly clustered samples indicating local fixation at each new position. This pattern of scattered fixation clusters separated by substantial 2D saccades matches a target that moves unpredictably around the screen, consistent with the Random Saccades task rather than the strictly horizontal pattern, static fixation, reading-like line sweeps, or game/video free viewing.",
+  "correct": false
+}

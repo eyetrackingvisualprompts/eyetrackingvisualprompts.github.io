@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated around the center of the screen with a compact cluster and limited vertical spread, matching the browsing example heatmap more than the other activities, which show distinctly different spatial patterns (e.g., horizontal lines for READ, upper-area focus for WRITE/SEARCH, or left-focused PLAY).",
+  "correct": false
+}

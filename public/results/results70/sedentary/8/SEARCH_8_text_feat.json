@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated long saccades between top/URL/toolbar-like regions and central content, with many horizontal sweeps across a mid\u2013upper band and occasional excursions to extreme screen coordinates, matching the pattern of scanning search results and switching attention between query area and result snippets more than the tighter, columnar patterns of READ or the localized code-focused patterns of INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shows relatively smooth, slow drift with occasional larger vertical saccades and broad coverage of screen regions rather than tight line-based scanning or rapid, task-driven jumps, matching the example pattern for watching a video more than code, reading, search, or gameplay behaviors.",
+  "correct": false
+}

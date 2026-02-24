@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Long, repeated fixations with localized back-and-forth saccades between two vertically separated regions (upper code and lower console/output area) match the pattern seen in the DEBUG example, where attention alternates between reading/modifying code and checking results, rather than the more linear scans of READ/INTERPRET or the broader exploratory jumps of BROWSE/SEARCH/PLAY.",
+  "correct": true
+}

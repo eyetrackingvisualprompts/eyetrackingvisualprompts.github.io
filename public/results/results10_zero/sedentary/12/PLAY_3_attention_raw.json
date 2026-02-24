@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are clustered in a few compact regions near the screen center without clear left-to-right or line-by-line progression, suggesting attention to dynamic visual content in a central area rather than structured text or code, which is characteristic of watching a video.",
+  "correct": false
+}

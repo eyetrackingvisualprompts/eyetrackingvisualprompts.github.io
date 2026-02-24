@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-sized saccades and dispersed fixations across both axes, without the tight horizontal text-line pattern of READ or the more localized, code-oriented patterns of INTERPRET/DEBUG/WRITE. This broader, exploratory movement best matches the browsing behavior in BROWSE.",
+  "correct": false
+}

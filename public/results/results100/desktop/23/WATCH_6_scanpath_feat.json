@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are densely clustered around the center with moderate dispersion and frequent shifts, resembling the mixed reading and interface-scanning pattern seen in SEARCH more than the more linear READ or the broader, more scattered BROWSE/PLAY/WATCH patterns.",
+  "correct": false
+}

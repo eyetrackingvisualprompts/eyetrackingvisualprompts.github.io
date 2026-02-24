@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are mid-duration with frequent short saccades within a compact region and occasional medium jumps, resembling scanning among several nearby items rather than the highly structured horizontal lines of reading or the more extreme, omnidirectional movements of gameplay; the pattern best matches web/news browsing behavior in the examples.",
+  "correct": false
+}

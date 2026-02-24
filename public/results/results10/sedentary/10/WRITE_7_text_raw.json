@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze points cluster around a central code-like region with frequent short saccades and revisits, plus occasional excursions to lower screen areas (likely console/output), matching the dense, iterative inspection pattern seen in the DEBUG example more than the more linear (READ/WRITE/INTERPRET) or broader exploratory (SEARCH/BROWSE/PLAY/WATCH) behaviors.",
+  "correct": false
+}

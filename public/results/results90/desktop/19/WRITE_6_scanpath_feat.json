@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are densely clustered in a compact central-upper region with short saccades and limited horizontal sweep, resembling focused inspection of a search results area or a single content block, which best matches the SEARCH scanpath among the given examples.",
+  "correct": false
+}

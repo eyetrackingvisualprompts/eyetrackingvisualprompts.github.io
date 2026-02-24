@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread mostly across the upper half of the screen with a horizontal band and several scattered points, resembling scanning of search results rather than the more centralized (WATCH/PLAY), tight code-focused (WRITE/INTERPRET/DEBUG), or lower-page text concentration (READ/BROWSE).",
+  "correct": false
+}

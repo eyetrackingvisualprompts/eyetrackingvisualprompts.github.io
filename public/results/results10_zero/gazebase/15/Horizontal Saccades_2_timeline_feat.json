@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position alternates regularly between about +15 and \u221215 degrees with ~1 s plateaus and minimal Y variation, matching the described horizontal bull\u2019s-eye tracking task.",
+  "correct": true
+}

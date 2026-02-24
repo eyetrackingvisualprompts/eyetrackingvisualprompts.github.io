@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze points are tightly clustered around a small central region with minimal horizontal scanning, matching the localized fixation pattern seen in the BROWSE example more than the more spread scanpaths of other tasks.",
+  "correct": false
+}

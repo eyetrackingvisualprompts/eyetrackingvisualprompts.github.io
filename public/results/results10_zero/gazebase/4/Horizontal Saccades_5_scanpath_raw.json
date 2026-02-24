@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows predominantly horizontal back-and-forth movements confined to a narrow vertical band, consistent with following a horizontally moving target; the brief downward excursion near the right edge appears as an isolated artifact or blink-related deviation, but the dominant pattern matches horizontal saccades rather than reading or free viewing.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal and vertical scanning with frequent shifts between two vertical bands, suggesting alternating focus between different code areas (e.g., code, console, or error lines), which is more dynamic than WRITE/INTERPRET/READ but less erratic and wide-ranging than BROWSE/SEARCH/PLAY/WATCH\u2014characteristic of debugging activity.",
+  "correct": false
+}

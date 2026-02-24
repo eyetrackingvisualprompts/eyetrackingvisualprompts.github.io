@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts clustered on the left in a small area, then transitions to a horizontally aligned sequence of fixations that extends rightward to a new cluster, matching a typical pattern of first looking at a search box/results region and then scanning across search results, similar to the SEARCH example.",
+  "correct": true
+}

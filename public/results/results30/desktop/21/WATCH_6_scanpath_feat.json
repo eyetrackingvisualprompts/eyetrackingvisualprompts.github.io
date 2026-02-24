@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a small region near the center with minimal horizontal scanning, resembling focused attention on a single area (e.g., text entry cursor) rather than the broader horizontal sweeps of reading or browsing, matching the WRITE pattern.",
+  "correct": false
+}

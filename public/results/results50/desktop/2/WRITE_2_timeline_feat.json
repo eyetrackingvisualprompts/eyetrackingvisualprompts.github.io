@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is anchored in a narrow lower-left region of the screen with very small vertical range and slowly shifting horizontal fixations, matching looking at a fixed text-entry area while typing rather than scanning larger regions as in reading, searching, browsing, watching, or playing.",
+  "correct": true
+}

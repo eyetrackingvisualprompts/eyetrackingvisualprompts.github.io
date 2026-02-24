@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show large, discrete jumps to many different locations across the screen with roughly constant plateaus between movements, matching a target that appears at random positions and is held for about 1 s, characteristic of the Random Saccades task rather than strictly horizontal movement, central fixation, or reading/video patterns.",
+  "correct": false
+}

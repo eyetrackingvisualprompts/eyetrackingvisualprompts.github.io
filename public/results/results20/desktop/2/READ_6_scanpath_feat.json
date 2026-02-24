@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a compact horizontal band with small saccades and stable vertical position, matching line-by-line reading behavior more than the more scattered patterns of search/browse or the large shifts seen in watch/play/write.",
+  "correct": true
+}

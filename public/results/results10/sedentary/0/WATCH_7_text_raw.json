@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated around horizontal bands near the upper-middle region with small regressions and repeated clusters, consistent with scanning search results and snippets rather than dense line-by-line reading or focused code inspection/debugging. The pattern resembles the SEARCH example more than other tasks.",
+  "correct": false
+}

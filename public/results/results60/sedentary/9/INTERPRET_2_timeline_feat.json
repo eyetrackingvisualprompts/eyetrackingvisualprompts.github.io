@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze stays within a narrow central band with relatively small, frequent saccades and modest horizontal movement\u2014similar to code editing behavior and closest to the WRITE example pattern compared with the more dynamic SEARCH/BROWSE or highly varying PLAY/WATCH traces.",
+  "correct": false
+}

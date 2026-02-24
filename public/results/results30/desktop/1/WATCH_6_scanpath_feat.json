@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are densely clustered in a relatively small central region with short, local saccades and no long horizontal sweeps, resembling focused interaction with a single area such as a text cursor position, which matches the WRITE pattern more than the broader, more exploratory patterns of BROWSE or SEARCH or the wider horizontal movements seen in READ.",
+  "correct": false
+}

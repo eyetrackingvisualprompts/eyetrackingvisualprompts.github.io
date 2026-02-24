@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points show large, rapid movements across wide vertical and horizontal ranges, including frequent shifts between mid-screen and far lower areas consistent with tracking dynamic objects and navigating in a game interface, rather than the more line-structured, clustered patterns typical of reading, coding, or web search/browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows relatively constrained vertical range with gradual upward drift and occasional brief excursions, similar to scanning lines of code and revisiting regions, closely matching the DEBUG example pattern rather than the more linear READ or more scattered SEARCH/BROWSE behaviors.",
+  "correct": false
+}

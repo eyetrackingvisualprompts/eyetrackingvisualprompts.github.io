@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays mostly around central-horizontal bands with gradual vertical shifts and clusters of stable fixations, consistent with line-by-line reading behavior rather than the larger, more scattered movements typical of browsing, searching, or gameplay, and with more structured fixation patterns than passive video watching or text production in writing.",
+  "correct": false
+}

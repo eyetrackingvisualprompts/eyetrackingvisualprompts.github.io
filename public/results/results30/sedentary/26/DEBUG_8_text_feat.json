@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent, localized regressions within a constrained central code region, with many back-and-forth saccades between nearby lines/columns and occasional longer shifts, closely match the structured yet revisory scanning seen in the WRITE examples rather than the more linear READ pattern or the broader exploratory patterns of BROWSE/SEARCH/DEBUG.",
+  "correct": false
+}

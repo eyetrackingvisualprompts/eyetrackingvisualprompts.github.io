@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered around a central region with little horizontal or vertical spread, indicating sustained attention to a relatively static central area of the screen, which best matches watching a fullscreen video rather than scanning or line-by-line reading/browsing or code-related tasks.",
+  "correct": false
+}

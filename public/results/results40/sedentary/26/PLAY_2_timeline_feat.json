@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y fixations change smoothly with relatively small vertical range and no clear line-by-line scan pattern or large exploratory jumps; this resembles the continuous, moderate-motion gaze behavior seen in the WATCH example rather than the more structured or search-like patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

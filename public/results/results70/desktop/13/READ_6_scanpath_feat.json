@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points are widely distributed across the screen with many diagonal saccades and no clear horizontal line structure typical of reading or writing. The pattern shows continuous scanning of different regions, including upper and lower areas, which aligns best with watching dynamic video content rather than the more clustered behaviors seen in search or browsing pages.",
+  "correct": false
+}

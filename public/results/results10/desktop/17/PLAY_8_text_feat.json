@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-long saccades across widely separated regions of the screen (top, bottom, and middle) with relatively short fixations and no consistent horizontal line-by-line pattern. This exploratory, non-periodic scanning across different vertical levels is more consistent with browsing heterogeneous webpage content than with the more structured patterns of reading, writing, or the highly dynamic tracking seen in gameplay or video watching.",
+  "correct": false
+}

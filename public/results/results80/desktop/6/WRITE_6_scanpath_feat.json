@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers a mid-screen region with dispersed fixations and frequent saccades in multiple directions, resembling mixed reading and scanning behaviors typical for search engine result pages rather than the more linear pattern of READ or the tighter clusters of BROWSE/WRITE.",
+  "correct": false
+}

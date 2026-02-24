@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows a steady rightward drift in X with relatively small, slowly decreasing Y for the first half, then a sharp downward shift in Y around 15s and continued horizontal scanning\u2014matching scrolling through search results and then moving attention to lower content, similar to the SEARCH example pattern.",
+  "correct": true
+}

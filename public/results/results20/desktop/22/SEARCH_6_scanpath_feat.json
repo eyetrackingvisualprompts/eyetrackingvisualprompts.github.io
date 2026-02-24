@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered in a central region with moderate dispersion and frequent short saccades among nearby locations, resembling inspection of various elements within a web page. The pattern is more exploratory than the linear horizontal movements seen in READ/WRITE and less globally distributed than SEARCH, matching the BROWSE example most closely.",
+  "correct": false
+}

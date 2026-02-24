@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between far top-right areas (likely search bar or browser UI) and left/central content regions, with frequent large vertical and horizontal jumps and relatively short, scanning fixations\u2014patterns characteristic of navigating and inspecting search results rather than the more line-structured reading/browsing or code-focused tasks.",
+  "correct": false
+}

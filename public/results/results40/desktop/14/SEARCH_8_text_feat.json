@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in upper and mid screen with frequent small vertical shifts and long fixations around a narrow horizontal band, plus recurrent shifts between mid-height (text area) and slightly higher regions consistent with toolbar/menus\u2014this pattern closely matches the WRITE examples and differs from the more central, broader scanning in SEARCH/BROWSE or the wide, dynamic sweeps in PLAY/WATCH.",
+  "correct": false
+}

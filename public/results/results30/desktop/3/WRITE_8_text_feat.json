@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze frequently jumps between the top region near y\u22480.0\u20130.1 and mid-screen (y\u22480.3\u20130.6), with large vertical and horizontal saccades and relatively short to moderate fixations, indicating tracking dynamic elements across the screen rather than line-by-line reading or scanning static text; this spatiotemporal pattern best matches interactive game play behavior among the given classes.",
+  "correct": false
+}

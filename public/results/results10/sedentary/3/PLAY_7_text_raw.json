@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large gaze excursions across the whole screen (including corners and edges), frequent rapid shifts between distant regions, and irregular fixation patterns resemble the dynamic, multidirectional scanning seen in the PLAY examples more than the more structured or localized patterns of reading, coding, or web browsing tasks.",
+  "correct": true
+}

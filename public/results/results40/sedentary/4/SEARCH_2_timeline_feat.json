@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "X fixations show repeated rightward sweeps with returns, and Y fixations drift slowly downward then jump up mid-trial, indicating scrolling through vertically extended content rather than stable line-by-line reading; this pattern best matches the browsing example.",
+  "correct": false
+}

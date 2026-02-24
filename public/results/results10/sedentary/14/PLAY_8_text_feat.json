@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide screen regions (including corners and edges) with relatively short fixations and rapid back-and-forth jumps resemble target-tracking or navigation behavior in a dynamic scene, matching the PLAY examples more than the more line- or block-oriented patterns of reading, coding, or browsing.",
+  "correct": true
+}

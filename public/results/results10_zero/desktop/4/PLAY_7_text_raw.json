@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent large-amplitude shifts across wide areas of the screen (center to corners, top to bottom) interspersed with short local fixations. This broad spatial coverage and dynamic movement pattern is more consistent with visually tracking and navigating game elements in different directions than with the more line- or region-focused patterns typical of reading, writing, browsing, or searching, or the more constrained focal regions common in passive video watching.",
+  "correct": true
+}

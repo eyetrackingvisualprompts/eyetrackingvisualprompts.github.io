@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are clustered in a compact vertical region around mid\u2011x and mid\u2011low y, resembling focused attention on a central UI element such as a search box or result snippet, which aligns best with the SEARCH exemplar compared to the more horizontally distributed patterns of READ/BROWSE or upper-screen clusters of WRITE/PLAY/WATCH.",
+  "correct": false
+}

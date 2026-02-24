@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze alternates rapidly between a lower band around y\u22480.22\u20130.33 and a mid band around y\u22480.42\u20130.49, with many medium/long saccades and short fixations, indicating continuous tracking of dynamic targets rather than line-by-line reading or static document interaction. The spatial spread is constrained but more vertically oscillatory than typical READ/BROWSE/SEARCH, and unlike WRITE (which stays near top text-entry area). This dynamic, target-following pattern best matches the PLAY condition.",
+  "correct": false
+}

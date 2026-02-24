@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The X position shows large, regular, staircase-like horizontal shifts between two sides with ~1-second plateaus, while Y position stays near constant with slight drift. This matches a target moving horizontally back and forth with holds, as in the Horizontal Saccades task, rather than irregular multi-directional movements of random saccades or natural viewing tasks.",
+  "correct": false
+}

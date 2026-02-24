@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows a dominant horizontal band with clusters on the left and right, similar to shifting between search results/snippets and possibly an answer page. This pattern closely matches the SEARCH example, with less structured line-by-line reading than READ and more distributed than WRITE/DEBUG/INTERPRET.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread horizontally across the upper part of the screen with several distinct clusters, resembling scanning of search results and snippets rather than concentrated code (DEBUG/WRITE/INTERPRET) or continuous text lines (READ) or central dynamic focus (PLAY/WATCH). This pattern best matches the SEARCH example heatmap.",
+  "correct": true
+}

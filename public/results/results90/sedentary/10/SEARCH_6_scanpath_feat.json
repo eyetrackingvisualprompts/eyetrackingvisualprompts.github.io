@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Wide horizontal spread with multiple distinct clusters and frequent long saccades between top and middle regions resembles scanning search results and clicking links, matching the SEARCH pattern more than the other activities.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze progresses in smooth, mostly horizontal sweeps within a confined vertical band, with regular leftward return saccades and stepwise downward shifts, forming a staircase-like pattern characteristic of line-by-line reading, closely matching the provided READ examples and unlike the more scattered or vertically exploratory patterns of SEARCH, BROWSE, or code-related tasks.",
+  "correct": true
+}

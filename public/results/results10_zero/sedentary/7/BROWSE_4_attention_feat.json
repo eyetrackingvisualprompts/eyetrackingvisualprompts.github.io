@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster tightly around a central-left area with a few additional spots, typical of focused attention on a code editor while occasionally glancing at other UI elements, matching the behavior of actively writing/implementing code rather than scanning text or watching dynamic content.",
+  "correct": false
+}

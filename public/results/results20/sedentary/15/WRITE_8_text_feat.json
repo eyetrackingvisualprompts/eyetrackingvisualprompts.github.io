@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly within-code-region fixations with many medium-length fixations and short saccades around a compact area, interleaved with repeated long jumps to the top/upper code region and back (including to very top y\u224840), matches the structured, revisiting pattern seen in DEBUG examples more than the more linear INTERPRET or WRITE patterns or the broader exploratory movements of BROWSE/SEARCH/WATCH/PLAY/READ.",
+  "correct": false
+}

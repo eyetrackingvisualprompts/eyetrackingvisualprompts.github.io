@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "INTERPRET",
+  "reason": "The heatmap shows a strong, vertically elongated fixation cluster in a narrow central region, similar to focusing on a compact code snippet, with few peripheral fixations\u2014most consistent with the INTERPRET task where participants intensely inspect a single block of code to reason about its output.",
+  "correct": false
+}

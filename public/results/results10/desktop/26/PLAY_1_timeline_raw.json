@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mid-screen horizontal positions with moderate, irregular saccades and small vertical shifts, lacking the systematic horizontal sweeps of reading or the strong vertical jumps of writing/searching, matching the more free-form scanning pattern seen in browsing examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows gaze oscillating almost purely horizontally across a wide range of x-positions while remaining at nearly constant y-level, matching the repeated large-amplitude horizontal movements of the Horizontal Saccades task rather than the more 2D or clustered patterns of the other activities.",
+  "correct": true
+}

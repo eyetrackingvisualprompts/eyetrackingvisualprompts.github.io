@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y positions change slowly with small, regular drifts and minimal large saccades, resembling stable line-by-line text reading patterns seen in the READ example more than the other, more erratic or dispersed activities.",
+  "correct": true
+}

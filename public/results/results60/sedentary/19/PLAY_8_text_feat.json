@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows rapid, large-amplitude saccades across wide screen regions (including to edges/corners and off-center HUD-like areas), frequent revisits, and irregular scanpaths not aligned with text lines or code blocks, matching dynamic object tracking and spatial exploration patterns typical of PLAY rather than the more structured, line-based or region-focused behaviors in reading, coding, browsing, or debugging.",
+  "correct": true
+}

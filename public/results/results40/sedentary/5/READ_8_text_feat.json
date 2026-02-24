@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between a lower horizontal band (y\u2248860\u2013980) with long cross-screen saccades and shorter fixations\u2014consistent with scanning a scrollable/page bottom area\u2014and an upper band (y\u2248240\u2013320) with horizontal sweeps across a fixed line region, resembling reading lines or headers. This two-band, back-and-forth web-layout exploration with substantial horizontal movements matches the heterogeneous, multi-region patterns typical of free web browsing, and is less structured than READ or code-focused tasks like WRITE/DEBUG/INTERPRET, and less continuous/centred than WATCH or PLAY.",
+  "correct": false
+}

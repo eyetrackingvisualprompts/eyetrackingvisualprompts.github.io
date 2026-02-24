@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in two compact horizontal clusters on the left side of the screen, consistent with focused inspection of a small code snippet area (e.g., function header and body) rather than extended reading or wide exploratory browsing/playing patterns, matching the INTERPRET task of understanding and predicting code output.",
+  "correct": false
+}

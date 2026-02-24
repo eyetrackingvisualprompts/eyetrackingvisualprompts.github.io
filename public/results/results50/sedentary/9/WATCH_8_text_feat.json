@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades across widely separated screen regions (top/bottom, left/right, corners) with heterogeneous fixation locations and durations match exploratory, multi-region scanning typical of web browsing rather than the more localized, structured patterns seen in coding, reading, or watching videos; the trajectory closely resembles the BROWSE examples\u2019 wide spatial jumps and varied fixation clusters.",
+  "correct": false
+}

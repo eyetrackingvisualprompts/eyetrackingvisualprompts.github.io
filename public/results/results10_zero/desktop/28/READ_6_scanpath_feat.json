@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain in a compact region with small, smooth shifts and no structured line-by-line or multi-region scanning, consistent with watching a localized area of a video rather than reading, writing, searching, browsing, or exploring a large game scene.",
+  "correct": false
+}

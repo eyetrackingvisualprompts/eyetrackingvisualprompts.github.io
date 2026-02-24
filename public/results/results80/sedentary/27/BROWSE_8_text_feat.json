@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, rapid saccades spanning extremes of the screen (including off-screen/negative coordinates and far right), frequent vertical jumps between top/bottom and content regions, and irregular, non-line-based viewing patterns closely resemble the exploratory, scroll-and-jump behavior seen in the BROWSE examples rather than the more structured patterns of reading, coding, or video watching.",
+  "correct": true
+}

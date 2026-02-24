@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are spread around the central area with several scattered fixations both horizontally and vertically, indicating exploratory viewing of varied on-screen elements, which aligns best with the browsing pattern rather than the more linear (READ), tightly clustered (PLAY/WRITE), or upper-screen-focused (WATCH/SEARCH) examples.",
+  "correct": false
+}

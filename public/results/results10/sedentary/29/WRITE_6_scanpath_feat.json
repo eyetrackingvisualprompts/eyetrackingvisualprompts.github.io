@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a narrow vertical strip on the left typical of code in an IDE, with frequent transitions between top (likely error messages or different code sections) and mid areas, matching the scanpath dynamics of the DEBUG example more than the other tasks.",
+  "correct": false
+}

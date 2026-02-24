@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are dispersed horizontally across mid-to-lower screen with several distinct clusters, indicating scanning multiple regions (query box, results list, side elements) similar to the SEARCH example, rather than the tighter, more centralized patterns of BROWSE or the linear bands of READ/WRITE.",
+  "correct": false
+}

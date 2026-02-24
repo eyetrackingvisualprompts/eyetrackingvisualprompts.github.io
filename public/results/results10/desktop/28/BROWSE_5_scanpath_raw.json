@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze path shows large, rapid movements spanning a wide vertical and horizontal range, with frequent direction changes and dispersion similar to the PLAY example, indicative of tracking dynamic game elements across the screen rather than the more localized or structured patterns seen in reading, writing, browsing, searching, or passive watching.",
+  "correct": false
+}

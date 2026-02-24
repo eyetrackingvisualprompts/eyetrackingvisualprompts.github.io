@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is almost stationary with very small, infrequent shifts in both X and Y, consistent with focusing on a central area (e.g., text cursor) while typing rather than scanning lines of text or dynamic scenes.",
+  "correct": true
+}

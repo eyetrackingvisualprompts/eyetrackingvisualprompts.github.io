@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered on the left side where code would appear, with dense fixations and short vertical movements, and almost no excursions to other screen areas, matching the INTERPRET example and focused code-reading behavior rather than the broader spread seen in DEBUG or other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "Fixations are mostly confined to a narrow horizontal band with frequent short left\u2013right saccades along similar y-coordinates, consistent with scanning text on a single line/adjacent lines rather than large-area exploration (SEARCH/BROWSE), object-following (PLAY/WATCH), or code-structured vertical navigation (WRITE/DEBUG/INTERPRET).",
+  "correct": false
+}

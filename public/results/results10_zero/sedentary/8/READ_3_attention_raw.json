@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows two main clusters\u2014one in the upper-central area and a broader one along the lower-central region\u2014without a clear horizontal line-by-line or structured grid pattern typical of reading, coding, or search. The gaze is concentrated in regions consistent with attending to dynamic content (e.g., characters or key areas) rather than scanning text or UI elements, which aligns best with passively watching a video.",
+  "correct": false
+}

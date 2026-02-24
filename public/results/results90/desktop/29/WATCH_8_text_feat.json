@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude shifts across wide screen regions (including extreme corners and off-text vertical positions) interleaved with medium fixations, resembling dynamic, multidirectional visual exploration typical of game play rather than the more line-structured, center-biased patterns of reading, browsing, or searching, or the more localized patterns of writing and passive video watching.",
+  "correct": false
+}

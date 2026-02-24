@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze alternates between a tight cluster on the left (likely reading text/results) and a large fixation area on the right side of the screen (likely a result or snippet), with occasional looks toward the lower-left, matching the pattern of scanning search results and opening a chosen result rather than continuous reading or code-focused viewing.",
+  "correct": false
+}

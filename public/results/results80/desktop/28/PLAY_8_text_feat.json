@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze behavior shows repeated long fixations around the upper-middle area (likely search box / top results), followed by vertical shifts into mid and lower regions, then back up, with moderate-amplitude saccades across horizontal positions\u2014matching the scan-and-refine pattern of web search more than the more line-structured READ or localized WRITE, and lacking the highly dynamic, wide-range movements characteristic of PLAY or the more central-scene focus typical of WATCH/BROWSE examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple horizontal regions with noticeable vertical transitions, indicating scanning of separate text blocks and interface elements, which best matches the exploratory, multi-region viewing pattern seen in SEARCH rather than the more line-focused READ or code-centric tasks.",
+  "correct": false
+}

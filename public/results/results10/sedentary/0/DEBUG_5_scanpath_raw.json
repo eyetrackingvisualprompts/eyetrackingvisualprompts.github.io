@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in two vertically separated code-like regions on the left side with repeated transitions between them, resembling reading a problem statement and checking related code blocks, matching the INTERPRET example pattern more than the other tasks.",
+  "correct": false
+}

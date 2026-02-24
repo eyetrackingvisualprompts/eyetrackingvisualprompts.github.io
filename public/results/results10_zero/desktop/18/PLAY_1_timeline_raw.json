@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay near the screen center with small, smooth drifts and occasional brief vertical shifts, indicating sustained attention to a central dynamic stimulus (like a video) rather than systematic horizontal scanning (READ/WRITE) or large erratic movements (PLAY/BROWSE/SEARCH).",
+  "correct": false
+}

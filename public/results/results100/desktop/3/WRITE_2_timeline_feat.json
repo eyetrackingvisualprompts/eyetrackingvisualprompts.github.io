@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows systematic, mostly horizontal progressions with small vertical shifts, closely matching the structured left-to-right and line-by-line movements seen in the READ example, rather than the more scattered or irregular patterns of search, browse, watch, write, or play.",
+  "correct": false
+}

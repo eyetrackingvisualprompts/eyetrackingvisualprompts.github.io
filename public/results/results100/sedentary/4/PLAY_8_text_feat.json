@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades across wide screen regions, repeated returns to a central action area, and rapid oscillations around specific coordinates match dynamic, target-tracking behavior typical of gameplay rather than reading or code-related tasks.",
+  "correct": true
+}

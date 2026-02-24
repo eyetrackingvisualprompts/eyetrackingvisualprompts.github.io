@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a compact cluster around the screen center with moderate dispersion and multidirectional small saccades, closely matching the browsing example pattern and differing from the more top-heavy WRITE/WATCH and more scattered PLAY/SEARCH layouts.",
+  "correct": false
+}

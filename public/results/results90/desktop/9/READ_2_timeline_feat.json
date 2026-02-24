@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay near screen center with moderate, frequent small saccades in both X and Y, similar to the BROWSE example where reading-like movements occur but with less structured horizontal sweeps than pure READ.",
+  "correct": false
+}

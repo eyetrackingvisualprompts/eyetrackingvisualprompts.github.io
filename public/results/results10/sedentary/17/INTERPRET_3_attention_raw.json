@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is tightly concentrated in a single code region on the upper-left, with minor downward glances, matching the focused, localized attention pattern seen in the WRITE example more than the other activities.",
+  "correct": false
+}

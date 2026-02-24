@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a tight cluster of fixations in a small region near the lower-left quadrant, indicating prolonged focus on a relatively static area rather than systematic horizontal/vertical scanning typical of reading, browsing, searching, or writing. This localized, sustained attention is most consistent with watching a video where gaze remains on a central content region (e.g., a character or focal object).",
+  "correct": false
+}

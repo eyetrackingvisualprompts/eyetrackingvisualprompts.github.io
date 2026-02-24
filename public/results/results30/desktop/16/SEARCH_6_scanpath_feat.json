@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points cluster around the upper-center region with moderate dispersion and frequent shifts between nearby locations, resembling the mixed reading and interface-scanning pattern seen in the SEARCH example more than the tighter READ pattern or the corner-focused layouts of WRITE/WATCH/PLAY.",
+  "correct": true
+}

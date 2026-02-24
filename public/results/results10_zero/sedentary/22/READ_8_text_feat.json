@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze pattern shows mostly horizontal fixations clustered along a narrow vertical band (y \u2248 175\u2013200) with short left\u2013right saccades, characteristic of line-by-line text reading. There is no structured back-and-forth over code blocks (as in WRITE/DEBUG/INTERPRET) nor large, varied exploratory movements typical of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": true
+}

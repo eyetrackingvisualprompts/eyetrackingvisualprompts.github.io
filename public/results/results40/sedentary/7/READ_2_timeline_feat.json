@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows highly regular, incremental horizontal movements with steadily increasing vertical position, closely matching line-by-line reading behavior seen in the READ example and unlike the more scattered patterns of browsing, search, or gameplay.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The target plot shows repeated horizontal saccade sweeps in X with a slowly drifting Y position and occasional larger vertical shifts, closely matching the browsing example pattern rather than the more structured reading or task-focused coding/gaming patterns.",
+  "correct": false
+}

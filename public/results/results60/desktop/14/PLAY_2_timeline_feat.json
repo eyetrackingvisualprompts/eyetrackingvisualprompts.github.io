@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations for both X and Y stay near mid-screen with small, frequent shifts and moderate saccades, indicating dispersed but local exploration similar to the browsing example, rather than the stronger vertical motion of reading or the larger spatial shifts seen in search, watch, write, or play tasks.",
+  "correct": false
+}

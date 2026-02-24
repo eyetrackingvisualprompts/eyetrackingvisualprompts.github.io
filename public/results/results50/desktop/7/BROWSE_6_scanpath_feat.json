@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows wide, rapid gaze shifts across most of the screen with frequent large saccades and scattered fixations, including substantial vertical and horizontal movements, which matches the dynamic, full-screen visual exploration typical of playing games rather than the more localized patterns seen in reading, writing, searching, watching, or browsing tasks.",
+  "correct": false
+}

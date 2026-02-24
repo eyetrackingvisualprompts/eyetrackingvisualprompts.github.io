@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Dense, localized fixations around code-like coordinates with repeated revisits and small corrective saccades, plus occasional large jumps to other regions, closely match the INTERPRET examples where participants repeatedly inspect a small code snippet to reason about its behavior rather than scanning long text (READ) or widely exploring interfaces (SEARCH/BROWSE).",
+  "correct": true
+}

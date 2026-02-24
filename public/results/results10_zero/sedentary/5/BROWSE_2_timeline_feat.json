@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze remains within a relatively narrow central band with slow, smooth horizontal shifts and limited vertical changes, indicating sustained attention to a mostly static central area consistent with watching a full-screen video rather than the more systematic line-by-line or code-based scanning seen in reading, writing, or debugging tasks.",
+  "correct": false
+}

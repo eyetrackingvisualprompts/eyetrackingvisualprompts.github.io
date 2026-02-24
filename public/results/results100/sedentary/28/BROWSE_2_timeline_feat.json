@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The target pattern shows repeated left-to-right horizontal scanlines with frequent returns and gradual downward drift in Y, but with more irregularity and occasional larger vertical shifts than structured reading\u2014closely matching the mixed, less-regular line transitions seen in the BROWSE example rather than the more uniform READ pattern.",
+  "correct": true
+}

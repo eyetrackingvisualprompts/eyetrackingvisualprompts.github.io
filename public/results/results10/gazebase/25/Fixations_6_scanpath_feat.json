@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze points remain tightly clustered around a single central location for nearly the entire 10 s window, with no systematic horizontal/vertical shifts or exploration patterns, matching the static central fixation task.",
+  "correct": true
+}

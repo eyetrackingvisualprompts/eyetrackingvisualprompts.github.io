@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows an initial long gaze and saccade towards the right side of the screen followed by focused, shorter fixations and movements on a compact area to the left, consistent with first locating a relevant search result region and then reading/inspecting it, typical of a search engine results page rather than continuous reading, browsing, or watching video.",
+  "correct": false
+}

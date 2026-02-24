@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal saccades with a gradual downward shift, forming band-like lines across the screen similar to line-by-line text reading, matching the READ pattern more than the others.",
+  "correct": true
+}

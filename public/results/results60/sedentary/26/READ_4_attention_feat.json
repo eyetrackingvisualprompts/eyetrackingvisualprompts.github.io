@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations cluster around two horizontally separated bands near the screen center, with additional lower-area visits, resembling code editor plus console/auxiliary panels typical for writing code rather than the more localized debugging or tightly top-focused interpreting patterns.",
+  "correct": false
+}

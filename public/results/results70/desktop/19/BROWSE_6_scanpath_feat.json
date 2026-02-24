@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around the screen center with moderate dispersion and frequent fixations, closely matching the BROWSE example scanpath and differing from the more linear READ pattern or the wider exploratory PLAY/SEARCH patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is relatively stable with small, gradual shifts in both X and Y similar to looking back and forth over short code snippets, closely matching the INTERPRET example pattern and less variable than SEARCH/BROWSE or WATCH/PLAY.",
+  "correct": false
+}

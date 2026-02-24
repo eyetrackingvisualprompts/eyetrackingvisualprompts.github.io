@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-range, irregular horizontal movements and variable vertical positions with frequent saccades, matching the heterogeneous and less structured patterns seen in the BROWSE example rather than the more systematic lines of READ/WRITE or the focused regions of WATCH/PLAY/SEARCH.",
+  "correct": false
+}

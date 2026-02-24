@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points show predominantly small, stable horizontal movements with slow downward shifts, consistent with line-by-line reading on text, and lack the large, rapid, screen-wide saccades typical for SEARCH/BROWSE or the wide-range dynamic movements seen in PLAY/WATCH; WRITE would show more oscillation between text and a localized typing/focus area, which is not evident here.",
+  "correct": false
+}

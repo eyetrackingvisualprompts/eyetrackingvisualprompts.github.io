@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple dispersed fixation clusters and larger saccades between them, resembling shifting attention among several screen regions as in the SEARCH example, rather than the more linear, localized patterns seen in READ or WRITE.",
+  "correct": false
+}

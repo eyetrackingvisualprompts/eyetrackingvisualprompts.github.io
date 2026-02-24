@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations over a left-side code region with occasional shifts to a right area, closely matching the DEBUG example heatmap pattern of focusing on buggy code and briefly checking output or other panes.",
+  "correct": false
+}

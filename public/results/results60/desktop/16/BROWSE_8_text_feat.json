@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze shows frequent large-amplitude saccades across wide screen regions (including extremes and corners) with short fixations and rapid returns to central/character-like areas, matching dynamic, multidirectional visual scanning typical of game play rather than the more line-structured, centrally clustered patterns of reading, writing, browsing, or searching, or the smoother cluster shifts seen in video watching.",
+  "correct": false
+}

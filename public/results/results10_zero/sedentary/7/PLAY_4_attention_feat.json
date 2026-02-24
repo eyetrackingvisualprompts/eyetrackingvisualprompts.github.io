@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows a single, tight fixation cluster near the center of the screen, indicating prolonged central gaze with minimal saccades. This pattern aligns best with watching a full-screen video where key content is centrally located, rather than tasks that involve scanning or reading across the screen (e.g., READ, BROWSE, WRITE, DEBUG, SEARCH, PLAY, INTERPRET).",
+  "correct": false
+}

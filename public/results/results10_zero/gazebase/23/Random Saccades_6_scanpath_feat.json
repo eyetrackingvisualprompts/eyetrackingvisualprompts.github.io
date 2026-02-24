@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "Scanpath shows scattered fixations across a central region with irregular, multi-directional saccades and revisits to similar locations, consistent with actively targeting and re-fixating moving game objects rather than systematic horizontal, random-step, reading, static fixation, or natural video-viewing patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze alternates between fixations (~0.2\u20130.4 s) and saccades of varying amplitudes and directions, spanning a wide 2D range (\u2248\u00b120\u00b0 horizontal, \u2248\u00b19\u00b0 vertical). Movements are neither strictly horizontal, nor confined to a central fixation, nor show the structured left-to-right line pattern of reading. The pattern matches pursuit of a target that jumps to random positions across the screen, consistent with the Random Saccades task.",
+  "correct": false
+}

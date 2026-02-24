@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form dense horizontal bands with small vertical shifts, matching line-by-line reading behavior and closely resembling the READ example pattern more than other task types.",
+  "correct": true
+}

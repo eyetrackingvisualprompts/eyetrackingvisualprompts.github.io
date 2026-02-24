@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows alternating horizontal and vertical movements across a large portion of the screen, with periods of scanning downwards then shifting back up, resembling the exploratory, multi-region viewing seen in the SEARCH example more than the steadier patterns of READ or WATCH.",
+  "correct": true
+}

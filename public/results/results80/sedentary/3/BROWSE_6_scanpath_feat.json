@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is mostly clustered near the top horizontal band with occasional large saccades to isolated points, indicating following dynamic content across the screen rather than structured line-by-line reading or code-focused work; this scanpath best matches the WATCH pattern among the examples.",
+  "correct": false
+}

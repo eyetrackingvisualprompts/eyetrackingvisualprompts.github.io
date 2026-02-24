@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in a horizontal band across the upper-middle of the screen with several distinct clusters, resembling scanning across search results and snippets rather than tight code-focused clusters (DEBUG/WRITE/INTERPRET) or vertical reading columns (READ). This pattern best matches the SEARCH example heatmap.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are highly concentrated in a single left-upper code area with a small secondary cluster, closely matching the WRITE example heatmap and typical focused code-editing behavior, unlike the broader spread seen in other tasks.",
+  "correct": true
+}

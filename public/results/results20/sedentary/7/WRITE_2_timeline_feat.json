@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze positions are relatively stable with small, localized saccades and limited vertical range, resembling focused code editing behavior and closely matching the WRITE example pattern more than the others.",
+  "correct": true
+}

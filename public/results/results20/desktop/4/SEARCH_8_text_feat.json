@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades spanning wide horizontal and vertical extents (e.g., from upper-right to lower-left and between corners), with relatively short fixations and revisits to disparate screen regions, match the dynamic, multi-directional visual scanning typical of game play rather than the more localized, structured patterns seen in reading, writing, browsing, searching, or passive video watching.",
+  "correct": false
+}

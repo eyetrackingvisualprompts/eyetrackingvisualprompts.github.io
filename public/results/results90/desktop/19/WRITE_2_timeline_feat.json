@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively stable horizontal (X) fixation around the screen center with small, smooth drifts and limited large saccades, while Y fixation stays in the upper half without systematic left-to-right sweeps typical of reading or writing. This pattern best matches passively watching video content rather than active tasks like search or browsing.",
+  "correct": false
+}

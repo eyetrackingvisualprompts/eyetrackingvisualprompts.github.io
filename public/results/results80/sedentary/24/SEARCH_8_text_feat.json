@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Large, frequent shifts across wide screen areas (including off-screen coordinates), prolonged fixations on clustered regions, and many transitions between central and extreme positions resemble free viewing of dynamic visual content rather than structured code, text, or search results. The pattern best matches the WATCH activity.",
+  "correct": false
+}

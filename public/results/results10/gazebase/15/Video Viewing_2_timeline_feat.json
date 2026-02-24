@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Balura Game",
+  "reason": "Both X and Y fixation traces show irregular, task-driven movements across wide vertical and horizontal ranges with frequent changes in direction and magnitude, unlike the structured left-to-right pattern of reading or the purely horizontal motion of horizontal saccades; this heterogeneous, target-chasing pattern matches the Balura Game examples.",
+  "correct": false
+}

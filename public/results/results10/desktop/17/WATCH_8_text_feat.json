@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays within a narrow horizontal band around mid-screen with many medium-length fixations and small progressive saccades, consistent with line-by-line reading patterns seen in the READ examples, and shows less broad exploratory movement than BROWSE/SEARCH or large directional shifts typical of PLAY/WATCH.",
+  "correct": false
+}

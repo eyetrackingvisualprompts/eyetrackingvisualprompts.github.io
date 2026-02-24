@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze remains mostly in a constrained horizontal band with moderate, systematic shifts and repeated returns to similar regions, resembling focused inspection of code with occasional checks elsewhere. This pattern is closest to the DEBUG example, which shows similar medium-range saccades and stable, task-focused fixations, rather than the more uniform reading pattern or the more scattered browsing/search/play behaviors.",
+  "correct": true
+}

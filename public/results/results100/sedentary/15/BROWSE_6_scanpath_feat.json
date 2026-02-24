@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points are spread across almost the entire screen with frequent large saccades in all directions and no structured reading or code-like clusters, matching the dynamic, wide-ranging visual behavior typical of following game elements during PLAY rather than more localized or linear tasks like READ, WRITE, or DEBUG.",
+  "correct": false
+}

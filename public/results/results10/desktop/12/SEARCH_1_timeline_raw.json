@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Both X and Y show moderate, irregular shifts with no strong systematic horizontal scanlines or large dynamic ranges; the pattern matches the relatively stable but intermittently jumping gaze seen in the BROWSE example more than the structured READ/WRITE patterns or the more extreme PLAY/WATCH movements.",
+  "correct": false
+}

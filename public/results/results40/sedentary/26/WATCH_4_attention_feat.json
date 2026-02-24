@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are spread over a broad central region with no clear horizontal text lines or dense left-side code block; the pattern matches the more dispersed, scene-following gaze seen in the WATCH example rather than the structured reading, browsing, or coding layouts.",
+  "correct": true
+}

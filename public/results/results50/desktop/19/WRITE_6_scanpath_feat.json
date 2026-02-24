@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions cover a mid-screen region with varied horizontal and vertical movements and no strong line-by-line structure, resembling the heterogeneous, exploratory scanpath typical of browsing web pages rather than the more constrained patterns of reading, writing, or focused game play.",
+  "correct": false
+}

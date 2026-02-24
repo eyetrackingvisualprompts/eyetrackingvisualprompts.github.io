@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region on the left side of the screen with little horizontal or vertical scanning, suggesting attention to a localized moving or salient element rather than line-by-line text or code reading/browsing patterns, which is most consistent with watching a video.",
+  "correct": false
+}

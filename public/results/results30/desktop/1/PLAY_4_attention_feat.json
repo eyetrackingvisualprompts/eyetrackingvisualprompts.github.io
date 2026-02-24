@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered around the mid-screen with moderate vertical spread and some side exploration, closely matching the browsing example pattern of scanning a webpage rather than the more top-centered search layout or horizontal reading lines.",
+  "correct": false
+}

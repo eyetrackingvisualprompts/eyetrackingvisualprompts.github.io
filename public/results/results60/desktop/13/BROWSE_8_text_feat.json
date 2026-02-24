@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze stays in a compact band in the lower-central area with many short horizontal saccades and medium-long fixations, including frequent small regressions along nearly the same y-levels\u2014this pattern closely matches the structured, line-by-line scanning seen in the READ examples rather than the larger vertical shifts and more dispersed exploration seen in SEARCH or BROWSE, or the more peripheral, dynamic patterns in PLAY/WATCH/WRITE.",
+  "correct": false
+}

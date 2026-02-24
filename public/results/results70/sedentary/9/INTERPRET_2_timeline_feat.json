@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Long periods of horizontally progressing, relatively stable fixations with a slow downward drift in Y, plus a brief jump to a new vertical region around 55s, best match the line-by-line scanning and page transition pattern characteristic of reading text, and differ from the more scattered or highly dynamic patterns seen in search, browse, or play tasks.",
+  "correct": false
+}

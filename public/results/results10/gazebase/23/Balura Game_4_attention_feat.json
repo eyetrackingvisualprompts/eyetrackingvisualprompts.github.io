@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are scattered across both horizontal and vertical extents of the screen with no clear central band (reading) or clustered region (video). The spatial pattern matches the distributed, discrete target positions of the Random Saccades example heatmap.",
+  "correct": false
+}

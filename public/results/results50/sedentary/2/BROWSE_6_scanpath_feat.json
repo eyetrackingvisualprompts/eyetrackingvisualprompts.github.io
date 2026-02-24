@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows systematic horizontal sweeps with multiple stacked lines at different vertical positions, characteristic of line-by-line reading with occasional regressions, and is more structured and text-bound than browsing or coding patterns.",
+  "correct": false
+}

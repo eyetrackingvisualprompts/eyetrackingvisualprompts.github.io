@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both X and Y fixation positions change in large, discrete steps with varied amplitudes and directions, covering a broad 2D area rather than just horizontal motion or line-like patterns. This matches a target that jumps to random screen locations each second, characteristic of the Random Saccades task.",
+  "correct": false
+}

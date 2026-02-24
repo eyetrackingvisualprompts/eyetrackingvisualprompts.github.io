@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, irregular jumps across both horizontal and vertical dimensions (e.g., from (13.56, 4.39) to (-7.52, 4.54), then to (0.06, -5.44), then to (8.70, 6.18)), with roughly ~200 ms fixations between movements\u2014matching the pattern of following a randomly moving target rather than the strictly horizontal pattern, line-structured reading, or more clustered/game-like or free-viewing behavior.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows mostly horizontal movements with relatively small, step-like vertical shifts and long fixations, consistent with scanning lines of text rather than rapid multi-directional tracking seen in PLAY or the more scattered patterns typical of SEARCH/BROWSE or code editing tasks.",
+  "correct": false
+}

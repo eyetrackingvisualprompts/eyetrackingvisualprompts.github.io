@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze points form nearly horizontal trajectories at a similar vertical level, moving back and forth across a limited horizontal range with relatively regular spacing, consistent with following a target making repeated horizontal saccades rather than random or complex viewing patterns.",
+  "correct": false
+}

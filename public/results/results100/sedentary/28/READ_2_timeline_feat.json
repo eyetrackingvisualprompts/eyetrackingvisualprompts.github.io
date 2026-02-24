@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Regular left-to-right horizontal sweeps with periodic regressions in X and a slow, monotonic downward drift in Y closely match line-by-line reading behavior shown in the READ example plot.",
+  "correct": true
+}

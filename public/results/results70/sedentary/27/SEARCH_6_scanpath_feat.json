@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is distributed over a broad central area with frequent shifts in both horizontal and vertical directions, lacking the structured line patterns of reading or code-related tasks and without the constrained zones typical for writing or interpreting code. This wide, dynamic coverage best matches watching a video.",
+  "correct": false
+}

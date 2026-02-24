@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are widely dispersed across the central screen area with no strong horizontal text lines or narrow code block focus, resembling the broad, dynamic viewing pattern seen in the WATCH example heatmap rather than the more localized patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

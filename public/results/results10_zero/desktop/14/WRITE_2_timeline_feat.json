@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is almost static with very small, infrequent position changes over 10 seconds, indicating passive viewing of centrally located content rather than active scanning or line-by-line reading/typing; this pattern best matches watching a video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are broadly distributed over a large central region without a strong horizontal reading structure or clear left-code/right-output pattern, showing continuous shifts similar to tracking visual elements in a video rather than focused text or code inspection.",
+  "correct": false
+}

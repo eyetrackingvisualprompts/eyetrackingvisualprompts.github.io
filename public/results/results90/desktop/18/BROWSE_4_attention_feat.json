@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixation distribution is dense and widely spread around the central region of the screen, matching the exploratory pattern seen in the SEARCH example rather than the more linear (READ/WRITE) or peripheral (PLAY/WATCH) patterns.",
+  "correct": false
+}

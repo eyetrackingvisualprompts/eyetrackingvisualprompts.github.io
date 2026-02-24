@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions are centered with moderate, frequent small saccades and relatively stable Y fixation, resembling the example BROWSE pattern more than the larger vertical shifts in READ/WRITE or the broader movements in WATCH/PLAY/SEARCH.",
+  "correct": false
+}

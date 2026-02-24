@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Two main horizontal text-like regions (left and center) with concentrated fixations, similar to scanning search results: focus on one block then another, matching the SEARCH heatmap pattern more than other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "After an initial saccade from a lower-left region, the gaze remains clustered in a small upper-left area with minimal horizontal progression, indicating sustained attention to a localized part of the screen, which is most consistent with watching a video rather than tasks involving reading or code navigation that show more systematic scanning patterns.",
+  "correct": false
+}

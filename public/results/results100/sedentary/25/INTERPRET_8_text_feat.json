@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered around a mid-screen region with frequent short saccades and many revisits to nearly identical coordinates, characteristic of focusing on a local code area while editing. There are occasional larger shifts to other screen regions (e.g., near top code lines or UI), but overall the pattern matches the WRITE examples more than the more dispersed, exploratory patterns of BROWSE/SEARCH or the highly dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

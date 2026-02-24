@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze pattern shows medium horizontal spread with gradual vertical drift and frequent back-and-forth saccades over a confined code-like area, plus occasional larger vertical jumps\u2014most similar to the DEBUG example where users repeatedly inspect and re-inspect nearby lines while occasionally jumping to other parts of the code to test fixes.",
+  "correct": false
+}

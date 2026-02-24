@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze points cluster repeatedly around a central code-like region with frequent medium-length saccades between nearby lines and occasional jumps to other vertical positions, consistent with scanning and rechecking code while locating and fixing errors rather than the more linear patterns of READ/WRITE or the broader exploratory movements of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

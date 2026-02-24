@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze stays within the code/IDE area with many medium-length fixations and frequent short saccades among nearby lines and regions (top, middle, bottom of code), including repeated revisits to similar coordinates and vertical transitions consistent with scanning for and verifying multiple issues rather than reading linearly or browsing/searching widely. This pattern best matches focused, iterative inspection and verification typical of DEBUG rather than the more linear scans of INTERPRET/READ or the broader, faster movements of BROWSE/SEARCH/PLAY/WATCH/WRITE.",
+  "correct": true
+}

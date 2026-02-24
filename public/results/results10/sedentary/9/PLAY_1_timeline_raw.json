@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y show smooth, gradual scrolling with relatively stable horizontal bands and occasional downward shifts in Y, matching the left-to-right, top-to-bottom scanning pattern typical of continuous text reading rather than the larger jumps or erratic paths seen in search, browsing, or gameplay.",
+  "correct": false
+}

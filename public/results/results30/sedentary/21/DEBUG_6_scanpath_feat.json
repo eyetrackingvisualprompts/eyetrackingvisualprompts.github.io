@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact region on the left side where code typically appears, with dense fixations and moderate vertical movements suggesting careful inspection of a small code snippet rather than extended editing (WRITE/DEBUG) or horizontal reading (READ/BROWSE). This pattern best matches the INTERPRET task of understanding a short function\u2019s behavior.",
+  "correct": false
+}

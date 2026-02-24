@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered along a single horizontal band near mid-screen, indicating a stable line-by-line scanning pattern typical of reading text rather than the larger vertical or multidirectional movements seen in browsing, searching, gaming, watching videos, or writing (which would also show lower-screen focus on the text entry area).",
+  "correct": true
+}

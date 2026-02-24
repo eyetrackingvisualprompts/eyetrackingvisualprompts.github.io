@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations form a horizontal band near the top resembling scanning across multiple results, with additional scattered fixations lower on the page similar to exploring snippets and links, closely matching the SEARCH example pattern rather than the more compact READ layout.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal progression with relatively stable, mid-screen Y fixations and occasional small saccades, matching the more constrained, less vertically wide scan patterns seen in the SEARCH example rather than the larger vertical spans of BROWSE or dynamic shifts of PLAY/WATCH.",
+  "correct": false
+}

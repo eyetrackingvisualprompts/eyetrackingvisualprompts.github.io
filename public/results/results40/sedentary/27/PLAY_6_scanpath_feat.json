@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is distributed over a relatively compact central area with frequent saccades in multiple directions and no clear line-by-line structure, resembling the dispersed, object-following pattern seen in WATCH rather than the more structured or localized patterns of reading, coding, or web search.",
+  "correct": false
+}

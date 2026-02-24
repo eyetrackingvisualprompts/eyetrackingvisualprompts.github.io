@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze points form several distinct fixation clusters scattered across the screen in both horizontal and vertical directions, without a dominant central or text-line pattern. This broad, quasi-uniform spatial distribution of discrete fixations best matches the Random Saccades condition where a target jumps to random positions for one-second intervals.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Predominantly horizontal scanlines around a narrow y-range near the top of the page (typical for scanning search result titles/snippets), with repeated long saccades between a central results column and far-left/top regions where query box, tabs, and browser UI lie; this closely matches the SEARCH example patterns and differs from the more uniform paragraph-wise READ behavior or the more dispersed BROWSE patterns.",
+  "correct": true
+}

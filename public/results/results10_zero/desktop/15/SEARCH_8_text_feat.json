@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is concentrated in a central region with short-to-moderate fixations (\u2248200\u2013400 ms) and mostly small horizontal/vertical saccades, forming a compact cluster rather than large exploratory jumps. This pattern is characteristic of reading continuous text, rather than the larger, more scattered movements seen in search, browsing, or gameplay, or the more stimulus-driven shifts typical of video watching.",
+  "correct": false
+}

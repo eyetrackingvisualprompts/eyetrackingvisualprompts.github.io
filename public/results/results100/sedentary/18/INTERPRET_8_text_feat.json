@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered around a narrow region (code area) with many medium and long fixations and short local saccades, showing repeated up/down checks and minor horizontal shifts, consistent with focused editing/implementation rather than wide search, reading lines, or dynamic game/video tracking.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows wide, irregular movements across large vertical and horizontal areas with frequent long saccades and fewer structured line-by-line patterns, matching the more dispersed viewing behavior seen in the WATCH example rather than the more orderly scanpaths of reading, coding, or web search.",
+  "correct": false
+}

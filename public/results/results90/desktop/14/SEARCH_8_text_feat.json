@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays near screen center with medium-length fixations and moderate, multidirectional saccades, including frequent small vertical and horizontal shifts and occasional larger jumps\u2014matching the mixed reading-scanning pattern seen in BROWSE examples more than the more structured READ, text-line-local WRITE, high-motion PLAY, or peripheral-focused WATCH patterns.",
+  "correct": false
+}

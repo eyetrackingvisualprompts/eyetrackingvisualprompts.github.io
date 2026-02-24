@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers multiple vertical regions including top and mid-left with frequent long saccades between separated areas, indicating scanning results and content areas typical for search-engine use rather than the more localized patterns of coding, interpreting, or watching.",
+  "correct": false
+}

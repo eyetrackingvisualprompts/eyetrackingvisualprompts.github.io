@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze stays in a relatively narrow horizontal band with frequent small horizontal saccades and medium-length fixations, resembling line-by-line scanning of text. There are no large exploratory jumps or wide-range movements typical of search, browse, watch, or play, and the pattern matches the structured, repetitive horizontal movements seen in the READ examples more than the more stationary WRITE behavior near page top.",
+  "correct": false
+}

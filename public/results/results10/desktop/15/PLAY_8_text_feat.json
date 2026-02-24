@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows medium-length fixations with frequent short saccades clustered in a mid\u2013lower screen band, interspersed with occasional larger vertical/horizontal jumps\u2014closely matching the mixed local scanning and intermittent navigation pattern seen in the BROWSE example, rather than the more static WATCH/READ or highly lateral PLAY patterns.",
+  "correct": false
+}

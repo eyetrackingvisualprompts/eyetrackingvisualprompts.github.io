@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays around screen center with many short fixations and frequent but moderate shifts to nearby regions, resembling scanning mixed text/graphics areas as in the BROWSE examples rather than the more linear scanpaths of READ/WRITE or the larger, more dynamic jumps of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is largely constrained to a few horizontal bands with many short progressive and regressive saccades along those lines, plus occasional line changes and top/bottom jumps, matching the structured, line-by-line scanning pattern seen in the READ examples more than the more scattered, multi-region exploration of SEARCH/BROWSE or the dynamic large-amplitude shifts of PLAY/WATCH.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band with occasional saccades to the right, closely matching the WRITE example pattern where gaze stays near the code editor with sporadic shifts to UI elements such as run/console, unlike the broader or more vertical movements seen in browsing, reading, or debugging.",
+  "correct": false
+}

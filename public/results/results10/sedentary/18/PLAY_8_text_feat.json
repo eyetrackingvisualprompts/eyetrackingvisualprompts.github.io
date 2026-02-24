@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses smoothly along a roughly horizontal line with medium-length saccades between nearby positions and several long fixations (up to multiple seconds) at successive points, matching line-by-line text reading rather than the broader vertical/hierarchical scanning of SEARCH/BROWSE or the wider, more dynamic movements seen in PLAY/WATCH or code-centric tasks.",
+  "correct": false
+}

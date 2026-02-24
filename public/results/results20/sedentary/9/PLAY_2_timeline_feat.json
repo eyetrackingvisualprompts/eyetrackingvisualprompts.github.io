@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows long, smooth horizontal progressions with occasional larger saccades and gradual vertical shifts, similar to mixed reading-and-scanning behavior. This pattern best matches the example BROWSE data, which reflects varied web page layouts and intermittent attention shifts, rather than the more structured, repetitive patterns seen in focused reading, coding, or gameplay tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a horizontally elongated band with relatively stable vertical position, matching the linear left-to-right scan pattern typical of reading text, and closely resembling the READ example scanpath.",
+  "correct": true
+}

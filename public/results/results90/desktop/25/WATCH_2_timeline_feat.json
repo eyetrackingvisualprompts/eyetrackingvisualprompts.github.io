@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate, frequent shifts in both X and Y with periodic vertical relocations and dispersed fixations, resembling scanning and inspecting multiple regions on search results pages, which aligns best with the SEARCH pattern compared to the more stable READ/WRITE or denser BROWSE traces.",
+  "correct": false
+}

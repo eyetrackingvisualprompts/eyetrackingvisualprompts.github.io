@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y positions show broad, smooth shifts with plateau-like fixations and gradual drifts rather than small, line-by-line or code-structured movements. The gaze traverses large vertical and horizontal regions in a fluid way, closely matching the WATCH example pattern typical of following dynamic visual content in a video.",
+  "correct": true
+}

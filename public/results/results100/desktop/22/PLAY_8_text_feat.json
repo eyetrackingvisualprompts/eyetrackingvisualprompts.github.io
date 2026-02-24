@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly around screen center with frequent medium-amplitude shifts up/down and small horizontal movements, without clear line-by-line reading sweeps or the heavy top/bottom shifts of search result pages. The pattern closely matches the BROWSE examples\u2019 mixed scanning of a central content area with intermittent movements to nearby regions rather than the more structured, repetitive patterns of READ or the more widely distributed, task-switch-like jumps of SEARCH/PLAY/WATCH.",
+  "correct": false
+}

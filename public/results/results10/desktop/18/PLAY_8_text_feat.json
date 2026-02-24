@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze stays in a compact central region with frequent medium-amplitude saccades (0.03\u20130.4s) and short fixations (~0.17\u20130.5s), including rapid shifts within a small vertical band around y\u22480.45\u20130.50. This dynamic yet spatially constrained pattern closely matches the PLAY example (especially Mario-style horizontal gameplay) and is more active and less line-structured than READ/WRITE, and less dispersed/long-fixation than BROWSE/SEARCH/WATCH.",
+  "correct": true
+}

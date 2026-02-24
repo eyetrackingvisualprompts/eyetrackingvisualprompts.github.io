@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-range saccades in both X and Y with irregular, non-repetitive patterns and no systematic line-by-line or code-block scanning, matching the heterogeneous viewing behavior typical of free web browsing rather than more structured tasks like READ, WRITE, or DEBUG.",
+  "correct": false
+}

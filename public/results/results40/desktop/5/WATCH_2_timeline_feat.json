@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions stay around the screen center with moderate, irregular horizontal and vertical shifts and frequent short saccades, resembling the mixed, less-structured scanning behavior seen in browsing rather than the more linear patterns of reading or the larger excursions of playing or watching videos.",
+  "correct": false
+}

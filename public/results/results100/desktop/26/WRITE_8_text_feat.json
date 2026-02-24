@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shifts cover a broad vertical and horizontal area without the tight line-by-line horizontal scanning typical of READ or WRITE. There are many long fixations and slow, smooth gaze transitions clustered around several regions, consistent with following dynamic visual content in a video rather than actively navigating (SEARCH/BROWSE) or controlling a game (PLAY).",
+  "correct": false
+}

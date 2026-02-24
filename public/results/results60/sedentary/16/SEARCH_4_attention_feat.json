@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread between the upper-left (query area) and a horizontal band across the top-center/right (search results), with occasional lower fixations, matching the multi-region scanning typical of search tasks rather than focused reading or coding.",
+  "correct": true
+}

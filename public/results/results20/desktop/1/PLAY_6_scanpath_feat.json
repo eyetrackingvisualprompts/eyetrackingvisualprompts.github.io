@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The scanpath shows multiple dispersed fixation clusters with frequent saccades among several regions, broader and less structured than reading or writing, but more exploratory than browsing; this exploratory pattern best matches web searching behavior.",
+  "correct": false
+}

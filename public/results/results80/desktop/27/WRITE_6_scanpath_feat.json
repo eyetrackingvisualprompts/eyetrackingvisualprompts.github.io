@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered in a relatively narrow horizontal band with limited vertical spread, indicating line-by-line processing of static text similar to the READ example rather than the broader, more dispersed patterns seen in browsing, searching, or playing games.",
+  "correct": false
+}

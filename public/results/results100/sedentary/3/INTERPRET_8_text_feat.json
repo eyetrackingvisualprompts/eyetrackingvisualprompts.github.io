@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades between widely separated regions (including off-screen/near-screen edges), revisits to top/bottom-like areas, and scattered, irregular fixations resemble scanning SERP and web pages rather than line-by-line reading or focused code inspection, matching the SEARCH pattern in the examples.",
+  "correct": false
+}

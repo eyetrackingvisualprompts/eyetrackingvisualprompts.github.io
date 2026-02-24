@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is clustered around a code-like region with many medium-duration fixations and short local saccades, interleaved with frequent revisits to nearby lines and occasional long jumps to far coordinates (e.g., ~1600x, top of screen) and back. This pattern\u2014iteratively checking a small area while periodically referencing other screen elements\u2014is more consistent with active code editing/implementation than with passive reading, video watching, or the more dispersed, scanning behavior seen in search or browsing.",
+  "correct": true
+}

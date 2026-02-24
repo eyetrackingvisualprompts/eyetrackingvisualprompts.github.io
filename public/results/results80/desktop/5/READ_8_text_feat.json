@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between a central band and multiple dispersed regions (top, middle, bottom) with frequent medium-length saccades and moderate fixations, resembling scanning across different UI elements and sections of web pages rather than the highly line-structured horizontal sweeps of READ or the more stationary, scene-centered patterns of WATCH; the dynamics and spatial spread most closely match the provided BROWSE examples.",
+  "correct": false
+}

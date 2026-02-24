@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a compact code-like area with many medium-to-long fixations and short intra-line saccades, plus frequent vertical shifts between two nearby horizontal bands\u2014typical of mentally simulating code rather than scanning long text lines (READ/SEARCH) or large areas (BROWSE/PLAY/WATCH), and with fewer broad navigation jumps than WRITE/DEBUG.",
+  "correct": true
+}

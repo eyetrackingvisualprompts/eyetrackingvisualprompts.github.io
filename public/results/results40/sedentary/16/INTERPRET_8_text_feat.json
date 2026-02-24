@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is mostly around mid-upper screen where search results and snippets appear, with frequent short saccades and revisits among nearby items, plus repeated long vertical jumps between this region and the top/URL area and lower page regions, matching the scan-and-skim behavior typical of search results browsing rather than the more linear patterns of READ or the code-focused clusters of INTERPRET/DEBUG/WRITE.",
+  "correct": false
+}

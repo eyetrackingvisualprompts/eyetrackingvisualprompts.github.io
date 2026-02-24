@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is centered with moderate vertical span and scattered fixations over a compact region, resembling the example SEARCH pattern more than the more centrally-clustered BROWSE or horizontally-structured READ layouts, consistent with scanning search results and related web content.",
+  "correct": false
+}

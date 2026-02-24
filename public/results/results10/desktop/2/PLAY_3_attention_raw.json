@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a narrow horizontal band with sequential fixations progressing from left to right, closely matching the structured line-by-line pattern seen in the READ example rather than the more scattered or vertically varying patterns of other activities.",
+  "correct": false
+}

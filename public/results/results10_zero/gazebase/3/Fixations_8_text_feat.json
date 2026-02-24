@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts occur in multiple directions with both horizontal and vertical components, and fixations of roughly ~0.2\u20131.5 s between saccades, consistent with following a randomly moving target rather than strictly horizontal motions, static fixation, line-by-line reading, or complex/free-viewing patterns from video or gaming.",
+  "correct": false
+}

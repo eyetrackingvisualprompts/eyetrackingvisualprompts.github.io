@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range vertical and horizontal saccades across wide screen areas, repeated revisits to mid-page regions, and occasional top-of-page jumps resemble scanning and scrolling behavior on heterogeneous web pages more than the more line-structured patterns of READ or the tight code-centered clusters of WRITE/DEBUG/INTERPRET; the dynamics also lack the object-following regularities of PLAY and the more stimulus-driven but smoother distribution of WATCH, aligning best with BROWSE.",
+  "correct": false
+}

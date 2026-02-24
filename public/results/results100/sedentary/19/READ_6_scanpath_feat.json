@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows structured, mostly horizontal saccades within a narrow central column, with progressive downward movement over time\u2014characteristic of line-by-line text reading rather than dispersed exploration or code editing/debugging.",
+  "correct": true
+}

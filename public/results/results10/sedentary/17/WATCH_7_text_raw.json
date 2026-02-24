@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, structured clusters along horizontal bands with small regressions and shifts that resemble line-by-line text reading, occasionally punctuated by vertical transitions, which is characteristic of the READ examples and unlike the more dispersed or object-following patterns in PLAY, WATCH, or BROWSE.",
+  "correct": false
+}

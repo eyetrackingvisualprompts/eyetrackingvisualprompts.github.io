@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions stay around mid-screen with moderate, irregular horizontal and vertical shifts and mixed fixation/saccade behavior, resembling the browsing example more than the more systematic READ pattern or the task-focused SEARCH/WRITE trajectories.",
+  "correct": false
+}

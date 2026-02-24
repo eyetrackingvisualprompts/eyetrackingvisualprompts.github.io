@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows mixed behavior: periods of horizontal text-like scanning with moderate downward drift, interspersed with larger vertical saccades and shifts to new regions, especially later in the window. This pattern best matches SEARCH, where users alternate between reading snippets and jumping around results, rather than the more uniform scanning of READ/BROWSE or the focused but less jumpy code-related tasks.",
+  "correct": false
+}

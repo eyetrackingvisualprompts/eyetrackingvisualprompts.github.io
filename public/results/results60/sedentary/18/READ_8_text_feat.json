@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze path shows long, smooth horizontal sweeps with short regressions and systematic downward shifts across a narrow vertical band\u2014typical of line-by-line reading over multiple lines, matching the READ pattern more than the more scattered or game-/video-centric patterns of other classes.",
+  "correct": true
+}

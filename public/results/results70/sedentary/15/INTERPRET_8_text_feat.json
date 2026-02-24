@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations and saccades are densely clustered over a compact central code area with frequent short revisits between closely spaced lines and columns, characteristic of scrutinizing an existing snippet to infer behavior, rather than the broader vertical scanning and top\u2011bar/console checks seen in DEBUG or WRITE. The pattern best matches the INTERPRET examples.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze points are densely clustered in a small code-like area on the upper-left, with limited excursions and no horizontal line-by-line pattern or wide exploration, closely matching the INTERPRET example where participants focus on a compact code snippet to reason about its output.",
+  "correct": true
+}

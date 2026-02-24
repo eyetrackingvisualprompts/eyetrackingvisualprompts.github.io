@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Gaze predominantly moves in small, systematic horizontal steps with slight vertical shifts, indicating line-by-line reading behavior rather than large exploratory saccades typical of browsing, search, or gameplay, and lacking the larger central focus shifts common in watching video or the more erratic patterns of writing.",
+  "correct": false
+}

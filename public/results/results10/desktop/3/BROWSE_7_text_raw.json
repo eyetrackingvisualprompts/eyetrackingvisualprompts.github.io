@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in mid-upper screen with clusters of short fixations and small saccades interspersed with occasional medium jumps, resembling scanning mixed text/image regions and menu areas rather than the highly regular horizontal bands of READ or the large, frequent directional shifts of PLAY; spatial pattern and variability best match the provided BROWSE example.",
+  "correct": true
+}

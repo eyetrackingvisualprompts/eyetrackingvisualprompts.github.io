@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points move smoothly and continuously across a broad area of the screen without clear line-by-line horizontal scanning or tight clusters on text/code regions, indicating dynamic visual following consistent with watching a video rather than reading, coding, or targeted searching/browsing activities.",
+  "correct": false
+}

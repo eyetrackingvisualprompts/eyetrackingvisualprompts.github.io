@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze exhibits large, frequent jumps across widely separated screen regions (including extreme edges), with irregular scanning and revisits to scattered areas rather than orderly line-by-line patterns or localized code/text focus. This global exploratory behavior with many long saccades and varied fixation clusters matches the search-engine browsing examples best, characteristic of SEARCH rather than the more locally constrained tasks (READ/WRITE/DEBUG/INTERPRET) or smoother central focus of WATCH/PLAY.",
+  "correct": false
+}

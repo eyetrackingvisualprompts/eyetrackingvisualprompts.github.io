@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a central code-area band with small, systematic shifts and frequent short saccades, closely matching the focused but exploratory pattern seen in the DEBUG example rather than the more uniform INTERPRET or scanning BROWSE/SEARCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is confined to a small central region with short, frequent saccades and minor position shifts, indicating continuous monitoring of a localized dynamic stimulus rather than systematic line-by-line movements (READ/WRITE) or broader exploratory scanning (SEARCH/BROWSE/WATCH), which best matches gameplay focused around a central area.",
+  "correct": false
+}

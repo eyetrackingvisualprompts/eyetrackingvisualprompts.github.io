@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The target data shows frequent large-amplitude saccades spanning wide screen regions (including extremes near top/bottom and left/right), interleaved with relatively short fixations and irregular scanning paths rather than orderly line-wise patterns. This broad, multidirectional exploration with many rapid context shifts matches the dynamic gaze behavior seen in the PLAY examples more than the more constrained, structured patterns of READ/WRITE or the less extreme movements of BROWSE/WATCH/SEARCH.",
+  "correct": false
+}

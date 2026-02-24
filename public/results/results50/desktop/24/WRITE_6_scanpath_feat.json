@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Fixations are tightly clustered in a narrow horizontal band with small saccades and minimal vertical spread, matching the stable line-by-line scanning pattern typical of reading rather than the broader or more dispersed patterns seen in browsing, searching, watching, playing, or writing.",
+  "correct": false
+}

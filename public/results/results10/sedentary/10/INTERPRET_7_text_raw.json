@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze shifts across multiple dispersed regions (mid-screen, lower areas, and off-center), with irregular vertical movements and scattered off-text excursions, resemble scanning mixed web content (text, images, side panels) more than the more structured, line-based patterns of READ or the focused code regions of DEBUG/WRITE/INTERPRET. The pattern and variability most closely match the BROWSE example distribution.",
+  "correct": false
+}

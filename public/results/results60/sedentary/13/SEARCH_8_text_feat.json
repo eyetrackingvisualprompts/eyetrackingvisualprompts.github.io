@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent long horizontal sweeps across mid\u2010screen text-like regions with intermittent jumps to top/bottom and off-center UI elements, plus large transitions between widely separated areas\u2014indicative of scanning mixed web content rather than the tighter, line-by-line pattern of READ or the focused code/IDE regions of WRITE/DEBUG/INTERPRET. This exploratory, multi-region viewing matches the BROWSE examples most closely.",
+  "correct": false
+}

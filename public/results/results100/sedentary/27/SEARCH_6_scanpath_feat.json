@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a code-like region on the left/middle with repeated revisits and vertical scanning, plus occasional long saccades to the right side (likely IDE controls/output). This pattern closely matches the DEBUG example and differs from more uniform WATCH/PLAY or linear READ behaviors.",
+  "correct": false
+}

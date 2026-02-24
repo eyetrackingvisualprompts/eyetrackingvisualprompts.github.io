@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze follows long, smooth, predominantly horizontal scanpaths at several nearby vertical bands (y\u2248150\u2013350, then 360\u2013520), with short saccades and sustained fixations, matching line-by-line reading behavior and closely resembling the spatial-temporal patterns seen in the READ example segment, rather than the more scattered, exploratory, or task-switching patterns of other activities.",
+  "correct": true
+}

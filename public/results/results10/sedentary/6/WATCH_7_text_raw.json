@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "Target data shows rapid, repeated gaze shifts across mid\u2011screen regions with many short, local oscillations and revisits, resembling continuous object tracking and spatial monitoring seen in the PLAY examples, rather than the more linear, row\u2011like patterns of READ/WRITE or the more static clusters of WATCH/BROWSE/SEARCH.",
+  "correct": false
+}

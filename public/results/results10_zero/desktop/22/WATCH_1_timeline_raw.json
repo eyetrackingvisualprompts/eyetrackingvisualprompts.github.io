@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions are relatively stable around central regions with occasional short shifts and returns, showing few large exploratory movements or systematic left-to-right scanning typical of reading or searching; this pattern matches passive video watching where gaze follows limited on-screen dynamics without extensive navigation or text tracking.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small area with very long, repeated fixations and only tiny corrective saccades, centered near the upper-left region typical of the text-entry line and cursor position when writing. This stable, localized pattern matches the WRITE examples more than the more scanning, distributed patterns of READ, SEARCH, BROWSE, WATCH, or PLAY.",
+  "correct": true
+}

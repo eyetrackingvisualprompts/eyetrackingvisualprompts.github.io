@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze alternates in large, near-symmetric horizontal excursions between about -15\u00b0 and +15\u00b0 with minimal vertical variation and clear plateau-like clusters at each extreme, matching the controlled, one-dimensional \u00b115\u00b0 target motion used in the Horizontal Saccades task rather than the more irregular, multi-directional patterns expected in random or naturalistic tasks.",
+  "correct": true
+}

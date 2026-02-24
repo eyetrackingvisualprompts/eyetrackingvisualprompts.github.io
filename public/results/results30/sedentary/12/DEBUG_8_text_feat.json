@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact code-like region with many short saccades and medium-long fixations, frequent re-reading within the same area, and vertical shifts between a few nearby lines\u2014matching the introspective, locally-cyclical pattern seen in INTERPRET rather than the broader navigation in WRITE/DEBUG or scanning in SEARCH/BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze remains mostly within a constrained horizontal band with modest, localized saccades and occasional brief excursions, closely matching the structured, code-focused scan patterns seen in the DEBUG example rather than the more dispersed or steadily progressive patterns of other tasks.",
+  "correct": false
+}

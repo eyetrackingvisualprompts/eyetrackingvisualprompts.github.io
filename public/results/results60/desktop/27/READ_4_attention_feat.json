@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations form a compact cluster around the screen center with moderate vertical spread, closely matching the browsing example heatmap and differing from the more lateral, line-like patterns of reading or watching and the peripheral focus seen in writing or gaming.",
+  "correct": false
+}

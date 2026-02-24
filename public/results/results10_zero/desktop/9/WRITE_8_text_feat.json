@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The pattern shows repeated long horizontal saccades between nearby y-levels with medium-length fixations, consistent with line-by-line text reading (including occasional regressions and vertical shifts), rather than the more scattered, multidirectional exploration typical of search, browse, watch, or play activities.",
+  "correct": false
+}

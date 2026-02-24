@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions stay within a relatively narrow central band with small horizontal drift and occasional brief vertical spikes, indicating mostly stable fixation toward the screen center with infrequent saccades\u2014typical of passively watching a full-screen video rather than the more systematic left\u2011right reading/browsing patterns or highly erratic movements seen in interactive tasks like PLAY or SEARCH.",
+  "correct": false
+}

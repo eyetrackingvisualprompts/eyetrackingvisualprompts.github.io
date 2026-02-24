@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions show long, stable horizontal bands with smooth drifts and few rapid jumps, indicating continuous viewing of a largely static or smoothly changing scene rather than line-by-line reading or focused code/text inspection; this pattern aligns best with passively watching a video.",
+  "correct": true
+}

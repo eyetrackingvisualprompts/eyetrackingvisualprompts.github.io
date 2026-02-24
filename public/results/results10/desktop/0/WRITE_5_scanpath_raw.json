@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a small region with short, systematic horizontal saccades and minimal large-scale exploration, matching the stable, localized pattern typical of reading rather than the broader, more dispersed movements seen in browsing, searching, gaming, watching videos, or writing.",
+  "correct": false
+}

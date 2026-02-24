@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains near the screen center with only small drifts in both X and Y over the full 10 s, with no large systematic saccades or scanning patterns; this stable, centrally clustered trajectory matches a sustained central fixation task.",
+  "correct": true
+}

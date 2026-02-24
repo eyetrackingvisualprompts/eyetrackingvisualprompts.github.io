@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show discrete steps to different locations maintained for about one second each, with both horizontal and small vertical changes under \u00b115\u00b0/\u00b19\u00b0, matching the protocol of randomly positioned, 1-second-held targets in the Random Saccades task rather than continuous reading, video viewing, or large \u00b115\u00b0 horizontal-only saccades.",
+  "correct": false
+}

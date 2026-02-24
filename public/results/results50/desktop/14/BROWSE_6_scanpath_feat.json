@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered around the screen center with frequent, multidirectional saccades and no strong horizontal line structure, matching the exploratory pattern typical of web search rather than the more linear patterns of reading or writing.",
+  "correct": false
+}

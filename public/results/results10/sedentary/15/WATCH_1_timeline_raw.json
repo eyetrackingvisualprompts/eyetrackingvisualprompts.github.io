@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows multiple horizontal bands with intermittent vertical jumps, indicating scanning result lists and moving between search box/results, closely matching the SEARCH example pattern more than the steadier reading/debugging or more erratic browsing/playing behaviors.",
+  "correct": false
+}

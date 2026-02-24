@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around a central region with frequent shifts among nearby locations and moderate vertical range, resembling the dispersed yet locally focused patterns seen in the BROWSE example more than the more linear READ pattern or the broader exploratory movements in PLAY/WATCH/SEARCH.",
+  "correct": false
+}

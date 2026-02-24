@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze shows very small, localized movements with minimal saccades and nearly constant horizontal and vertical positions, indicating focused inspection of a compact area such as a short code snippet, which best matches the INTERPRET task compared with the more dynamic or wider-ranging patterns of the other activities.",
+  "correct": true
+}

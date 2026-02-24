@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent large vertical transitions between near-top header/search-bar region (~y=50\u2013100), mid-page content (~y=350\u2013450), and lower-page areas (~y=700\u2013900), with many scattered, non-linear fixations and revisits, match exploratory scrolling and navigation behavior typical of web browsing rather than the more line-structured, horizontally constrained reading or code-related tasks.",
+  "correct": false
+}

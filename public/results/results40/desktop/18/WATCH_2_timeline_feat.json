@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze shows constrained horizontal band with small, regular saccades and relatively stable Y positions, closely matching the structured left-to-right scanning pattern seen in the READ example, unlike the larger, more dispersed movements of browse/search or the dynamic shifts of play/watch/write.",
+  "correct": false
+}

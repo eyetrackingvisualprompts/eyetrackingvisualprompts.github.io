@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays around a relatively confined central region with many medium-to-long fixations (0.3\u20131.8s) and smooth shifts between nearby points, plus occasional larger jumps, matching continuous following of moving content in a video more than the structured line sweeps of reading, code-like left-panel focus of write/debug/interpret, or highly scattered search/browse/game patterns.",
+  "correct": false
+}

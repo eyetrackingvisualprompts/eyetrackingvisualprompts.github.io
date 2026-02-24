@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster near screen center with frequent small saccades in both axes and irregular shifts, closely matching the variable, scattered pattern seen in the BROWSE example rather than the more structured horizontal/vertical progressions of READ, WRITE, WATCH, PLAY, or SEARCH.",
+  "correct": true
+}

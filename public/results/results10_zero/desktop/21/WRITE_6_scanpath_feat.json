@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points remain confined to a small region with minimal horizontal or vertical scanning, indicating prolonged fixation at a single on-screen location, which is most consistent with passively watching video content rather than text-based tasks or interactive activities that require wider, systematic eye movements.",
+  "correct": false
+}

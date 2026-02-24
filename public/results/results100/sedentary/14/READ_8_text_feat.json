@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze progresses smoothly in long horizontal sweeps across a narrow vertical band, stepping down row by row from y\u2248150\u2013300 to \u2248900+, with dense fixations and short intra-line saccades highly consistent with line-by-line reading, not with code (WRITE/DEBUG/INTERPRET) or exploratory browsing/search patterns.",
+  "correct": true
+}

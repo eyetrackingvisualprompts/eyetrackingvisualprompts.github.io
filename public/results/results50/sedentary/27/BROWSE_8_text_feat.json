@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanpaths across mid-screen bands with repeated passes, intermittent larger jumps (including to top/near-offscreen coordinates), and visits to lower/scroll-like regions resemble free-form webpage exploration more than structured code (WRITE/DEBUG/INTERPRET) or orderly multi-line reading; the pattern and amplitudes closely match the BROWSE examples\u2019 mix of horizontal reading-like segments and occasional large navigational saccades.",
+  "correct": true
+}

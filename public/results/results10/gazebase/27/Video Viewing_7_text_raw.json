@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze shows smooth, continuous trajectories across large regions, with irregular path changes and varied amplitudes, consistent with free viewing of dynamic visual content rather than structured horizontal saccades, discrete target jumps, or stable fixations seen in the other classes.",
+  "correct": true
+}

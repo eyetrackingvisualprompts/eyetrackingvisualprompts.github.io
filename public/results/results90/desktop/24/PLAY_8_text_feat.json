@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades spanning wide screen regions (including near-edges and corners) with relatively short, scattered fixations across both low and mid vertical positions match dynamic, spatially distributed gaze typical of gameplay rather than the more line-structured, horizontally progressive patterns of reading/searching or the denser central clustering seen in browsing/watching/writing.",
+  "correct": true
+}

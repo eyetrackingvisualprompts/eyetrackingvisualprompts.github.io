@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent gaze shifts across wide screen regions (including near-screen edges and corners), with many diagonal saccades between dispersed coordinates and shorter fixations, match the dynamic, spatially distributed viewing pattern seen in the PLAY examples rather than the more line- or block-structured patterns of code or text tasks.",
+  "correct": false
+}

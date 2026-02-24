@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points cluster in a compact central region with short, multi-directional saccades and no strong horizontal reading line, matching the browsing example pattern more than the more linear READ or more scattered SEARCH scanpaths.",
+  "correct": false
+}

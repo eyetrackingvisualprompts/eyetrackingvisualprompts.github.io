@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are spread across multiple horizontal code regions, from upper-left through upper-center to upper-right, with an additional cluster lower-right near where console/output or auxiliary panels often appear. This distributed yet code-focused pattern matches the WRITE example more than the more localized INTERPRET/DEBUG or the more scattered SEARCH/WATCH patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are scattered across a broad vertical span from lower to upper middle of the screen with multiple clusters, resembling exploratory scanning of search results rather than the more localized patterns seen in WATCH, WRITE, READ, PLAY, or BROWSE examples.",
+  "correct": false
+}

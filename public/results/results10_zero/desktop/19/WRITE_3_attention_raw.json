@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze heatmap shows a dominant horizontal band of fixations across the mid-vertical region, with clusters that progress from left to right and slight vertical shifts, matching line-by-line reading behavior rather than the more dispersed, multi-directional patterns typical of play, search, browse, watch, or write tasks.",
+  "correct": false
+}

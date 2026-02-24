@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, gradual shifts in Y with moderate X variation and longer stable segments, resembling following moving content on screen, which matches the WATCH pattern more than the other activities.",
+  "correct": true
+}

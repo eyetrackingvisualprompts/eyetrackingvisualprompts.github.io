@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze is maintained near the center with minimal variation in both X and Y over the entire 10 s window, matching the stable pattern of the Fixations example rather than the larger or more varied movements seen in other tasks.",
+  "correct": true
+}

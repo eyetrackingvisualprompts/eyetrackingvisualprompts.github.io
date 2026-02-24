@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows frequent large vertical and horizontal shifts, jumps to screen edges and beyond-screen coordinates, and lacks the structured left-to-right line-wise scanpaths typical of reading, coding, or search/browse. The pattern instead reflects following dynamic visual content across the screen, which best matches the WATCH (video viewing) activity.",
+  "correct": false
+}

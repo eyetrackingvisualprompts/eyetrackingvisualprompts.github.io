@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form dense, orderly horizontal bands stacked vertically with regular regressions, all within a narrow central column of the screen\u2014characteristic of line-by-line reading rather than more scattered or object-focused patterns seen in other tasks.",
+  "correct": true
+}

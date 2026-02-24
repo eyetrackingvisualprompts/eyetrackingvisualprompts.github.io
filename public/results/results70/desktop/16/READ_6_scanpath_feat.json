@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered in a relatively small central region with limited horizontal spread and modest vertical variation, closely resembling the BROWSE exemplar where gaze remains around a central content area on a webpage, unlike the wider horizontal patterns of READ or the more dispersed and dynamic paths of WATCH, PLAY, or SEARCH.",
+  "correct": false
+}

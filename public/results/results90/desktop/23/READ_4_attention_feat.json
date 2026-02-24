@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The fixations form a narrow horizontal band across the middle of the screen, similar to text-line scanning patterns in the READ example, indicating sequential reading of content rather than the more central clusters (BROWSE/SEARCH) or dispersed patterns (PLAY/WATCH/WRITE).",
+  "correct": true
+}

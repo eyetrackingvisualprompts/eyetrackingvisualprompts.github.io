@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Long initial fixation followed by medium-range saccades between a compact code region (around x\u2248250\u2013500, y\u2248170\u2013350) and occasional jumps to nearby interface elements, without the broad vertical scrolling or dispersed navigation seen in SEARCH/BROWSE and without the dense line-by-line horizontal scan of READ; the localized, back-and-forth inspection pattern best matches code-understanding behavior in INTERPRET.",
+  "correct": false
+}

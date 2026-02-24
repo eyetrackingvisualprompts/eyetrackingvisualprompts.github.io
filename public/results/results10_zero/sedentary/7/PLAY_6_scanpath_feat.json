@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is concentrated in a small central region with minimal horizontal movement or scanning, suggesting sustained attention to a single central stimulus (like a video) rather than reading, coding, searching, or gameplay, which typically show more dispersed or structured scanpaths.",
+  "correct": false
+}

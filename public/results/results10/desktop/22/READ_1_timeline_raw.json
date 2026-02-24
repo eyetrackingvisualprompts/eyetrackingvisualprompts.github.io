@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "X position shows gradual horizontal shifts with occasional step changes, while Y position stays in a narrow mid-lower band\u2014this matches the scanning of results and navigation patterns in the SEARCH example more than the steadier READ or more variable BROWSE/PLAY patterns.",
+  "correct": false
+}

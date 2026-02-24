@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows medium-range, multidirectional movements within a relatively localized central region, resembling the exploratory but not overly extensive patterns of the BROWSE example more than the more linear READ pattern or the larger-amplitude SEARCH/PLAY/WATCH behaviors.",
+  "correct": false
+}

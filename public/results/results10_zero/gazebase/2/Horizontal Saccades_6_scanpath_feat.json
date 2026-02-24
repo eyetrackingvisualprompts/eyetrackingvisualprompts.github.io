@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated large-amplitude horizontal eye movements between two stable positions at roughly the same vertical level, consistent with following a target oscillating horizontally across the screen.",
+  "correct": true
+}

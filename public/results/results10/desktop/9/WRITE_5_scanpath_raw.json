@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The scanpath shows medium-range horizontal movements centered mid-screen with some vertical excursions, resembling alternation between reading typed text and glancing at interface elements (toolbars, cursor position), which matches the WRITE pattern more than the more clustered READ or dispersed SEARCH/BROWSE/PLAY patterns.",
+  "correct": true
+}

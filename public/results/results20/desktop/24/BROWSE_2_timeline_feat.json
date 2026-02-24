@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows moderate horizontal variation with frequent shifts in vertical position, indicating scanning across different regions of a page (results list, snippets, etc.) rather than the more line-structured pattern of reading or the more constrained band seen in browsing; this best matches the search task examples.",
+  "correct": false
+}

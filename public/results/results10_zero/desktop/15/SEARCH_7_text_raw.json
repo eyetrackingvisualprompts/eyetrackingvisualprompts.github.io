@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze points show predominantly small, progressive horizontal shifts with occasional regressions and localized fixations, consistent with line-by-line text reading rather than the larger, more scattered saccades typical of search, browsing, or gameplay, and with more structured, repetitive patterns than expected during video watching or free-form writing.",
+  "correct": false
+}

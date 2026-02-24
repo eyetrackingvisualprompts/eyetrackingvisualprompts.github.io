@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The fixation traces show mid-screen horizontal focus with gradual vertical drift and intermittent larger saccades, closely matching the SEARCH example pattern and differing from the denser, more regular scanlines of READ or the more variable BROWSE behavior.",
+  "correct": false
+}

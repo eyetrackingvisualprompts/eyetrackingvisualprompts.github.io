@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed across a mid-screen vertical band with moderate vertical spread and several discrete clusters, resembling the exploratory, scroll-based viewing pattern of browsing webpages more than the more centralized SEARCH or line-structured READ heatmaps.",
+  "correct": false
+}

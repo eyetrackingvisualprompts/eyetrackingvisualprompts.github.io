@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent long-range saccades between widely separated screen regions (including off-screen coordinates) and code-like horizontal scanning around mid-height lines resemble the WRITE examples from the IDE, not the more linear patterns of READ or the object-following / scene-centred patterns of PLAY/WATCH. The gaze repeatedly revisits a central band consistent with code editing rather than web or document browsing.",
+  "correct": false
+}

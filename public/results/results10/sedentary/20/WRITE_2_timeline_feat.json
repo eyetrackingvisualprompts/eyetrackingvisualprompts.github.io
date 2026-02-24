@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate horizontal progression with several backward and forward shifts, plus coordinated X\u2013Y movements suggesting revisiting code regions. This pattern aligns more with scrutinizing and re-checking code for bugs than with smoother reading, more dispersed browsing/searching, or the more static write/interpret behaviors.",
+  "correct": false
+}

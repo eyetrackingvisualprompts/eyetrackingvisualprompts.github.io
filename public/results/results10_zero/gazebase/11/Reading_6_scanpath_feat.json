@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The scanpath shows repeated left-right movements around a central horizontal band with relatively constant vertical position and regular spacing, consistent with following a horizontally oscillating target rather than the more dispersed or vertical movements expected in reading, random saccades, video viewing, or the game.",
+  "correct": false
+}

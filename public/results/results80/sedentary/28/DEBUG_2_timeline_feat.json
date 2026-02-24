@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "X and Y fixations are relatively constrained around the code area with moderate horizontal motion and occasional brief excursions (likely to UI elements such as run/console), resembling the WRITE template more than the more scattered SEARCH/BROWSE or highly dynamic PLAY/WATCH patterns.",
+  "correct": false
+}

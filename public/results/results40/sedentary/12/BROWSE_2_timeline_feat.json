@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "X fixations stay within a high horizontal band while Y fixations slowly drift upward; frequent medium-amplitude saccades without clear line-by-line patterns suggest continuous object tracking and anticipatory gaze characteristic of gameplay rather than reading, searching, or code-focused tasks.",
+  "correct": false
+}

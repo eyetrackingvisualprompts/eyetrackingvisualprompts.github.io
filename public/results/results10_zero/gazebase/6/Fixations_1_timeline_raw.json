@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze remains near the center with only small fluctuations and no systematic horizontal sweeps or multi-line scanpaths; brief downward spikes are likely blinks or artifacts, consistent with maintaining central fixation on a static target.",
+  "correct": true
+}

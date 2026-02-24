@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays clustered in a narrow central region with slow drifts and very few large saccades or systematic horizontal sweeps, indicating prolonged fixation on a central area (typical of watching video content) rather than the line-by-line scanning of reading, the frequent shifts of search/browsing, or the broader exploratory movements of gameplay or writing.",
+  "correct": false
+}

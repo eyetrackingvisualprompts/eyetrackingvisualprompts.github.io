@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are concentrated in a horizontal band across the middle-left to middle-right of the screen, resembling focused attention on multiple adjacent code lines while editing, which matches the WRITE pattern more than the tighter clusters of INTERPRET/DEBUG or the broader spread of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

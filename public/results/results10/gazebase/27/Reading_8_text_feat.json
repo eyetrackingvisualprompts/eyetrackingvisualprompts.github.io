@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "Gaze moves almost exclusively along a constant vertical level (y \u2248 -6 to -11) with large, repetitive left\u2013right horizontal saccades of ~15\u201320\u00b0 and short fixations, matching the structured horizontal tracking pattern of the Horizontal Saccades task rather than the more irregular or vertical components seen in other activities.",
+  "correct": false
+}

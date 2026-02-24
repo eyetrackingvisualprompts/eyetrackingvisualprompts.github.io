@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent saccades between widely separated regions (including off-screen coordinates), repeated moves between top banner-like y\u224860\u201390 and mid/lower areas, and scattered fixations without clear line-by-line structure match the heterogeneous, page-skimming pattern seen in BROWSE rather than the more localized and structured patterns of coding, games, reading, or video watching.",
+  "correct": false
+}

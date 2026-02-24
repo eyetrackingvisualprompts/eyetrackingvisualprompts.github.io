@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions stay clustered near a small region with very small, slow variations and no large directional saccades, matching sustained local fixations rather than the larger excursions seen in saccade, reading, video, or game data.",
+  "correct": true
+}

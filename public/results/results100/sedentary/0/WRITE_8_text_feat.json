@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Frequent medium-duration fixations and short saccades clustered around a constrained central band (y\u2248280\u2013360 and y\u2248430\u2013580), with many revisits to nearly identical coordinates, match code/IDE inspection while typing. Occasional large jumps to screen top and corners suggest glances to menus or console, similar to WRITE/DEBUG, but the dense, repetitive scanning of a narrow vertical region without the stronger top-to-bottom, line-by-line progression seen in READ/INTERPRET/DEBUG patterns is most consistent with WRITE behavior in the examples.",
+  "correct": true
+}

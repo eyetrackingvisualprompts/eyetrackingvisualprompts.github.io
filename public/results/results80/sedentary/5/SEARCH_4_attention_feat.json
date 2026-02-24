@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The heatmap shows dispersed fixations across a wide central area with two main saliency clusters and several peripheral glances, matching the dynamic, broadly distributed viewing pattern seen in the WATCH example rather than the more line- or code-block-focused patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

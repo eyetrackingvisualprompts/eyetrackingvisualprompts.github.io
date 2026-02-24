@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows sustained viewing of central and lower screen regions with smooth positional changes, vertical drifts, and clusters around mid-screen rather than systematic line-by-line or code-like scanning, matching the continuous attention and broader spatial coverage seen in the WATCH examples over other task-specific reading or coding patterns.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze points cover a wide vertical range including very low y-values, with frequent rapid shifts between dispersed regions and short localized clusters, indicating dynamic, multi-directional viewing consistent with tracking game elements rather than the more horizontally banded, stable patterns seen in reading, writing, browsing, or searching, or the slower, larger drifts typical of watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows two main clusters: one around mid-screen where fixations are dense and relatively stable (reading results/content) and another lower/side region reached via longer saccades (switching between result list and other elements). This mix of reading-like fixation with larger exploratory shifts matches the SEARCH example more than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are mid-duration (200\u2013800 ms) with frequent medium-range saccades that roam around a central band of the screen, including occasional jumps to different vertical levels, resembling scanning mixed text/graphics. The pattern is less line-structured and regular than READ, more spatially varied than WRITE, and lacks the strong horizontal/scene-following behavior of WATCH or PLAY, matching the BROWSE example dynamics most closely.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow vertical band around mid\u2011screen with slow drifts and a few brief excursions, lacking the systematic left\u2011right and line\u2011by\u2011line horizontal sweeps typical of reading, browsing, coding, or search. The pattern is consistent with following visual content in a centrally focused full\u2011screen video (WATCH).",
+  "correct": false
+}

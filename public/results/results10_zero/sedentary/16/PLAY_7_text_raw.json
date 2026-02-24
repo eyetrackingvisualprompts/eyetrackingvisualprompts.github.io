@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points show rapid, frequent shifts across wide horizontal and vertical regions (center, lower, and far right of screen) with no stable line-based reading pattern or concentrated code/IDE area, consistent with visually tracking moving targets and navigating space as in simple games rather than reading, coding, or structured browsing/searching tasks.",
+  "correct": true
+}

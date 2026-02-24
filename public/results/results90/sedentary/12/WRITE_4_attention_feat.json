@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in the upper-left region (typical for search box and top results) with additional scattered fixations down the page and a few toward mid-screen, resembling the horizontal-and-vertical scanning pattern of the SEARCH example more than the more centralized or localized patterns of other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated on a left-central text/code area with frequent vertical shifts to a lower region resembling a console or editor pane, plus occasional long saccades to the right side (e.g., run button or other UI controls), matching the WRITE pattern more than other tasks.",
+  "correct": true
+}

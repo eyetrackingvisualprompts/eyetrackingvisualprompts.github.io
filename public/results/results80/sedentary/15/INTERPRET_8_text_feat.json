@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense, repeated fixations and short saccades over a compact region with occasional larger jumps, revisits between line-like areas, and top-of-window checks resemble code inspection and iterative error checking patterns seen in DEBUG more than the more linear READ/SEARCH or highly dynamic PLAY/WATCH/BROWSE behaviors.",
+  "correct": false
+}

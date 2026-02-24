@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a narrow central band with small, smooth shifts and few large saccades, indicating sustained attention to a central area rather than systematic line-by-line scanning or wide exploratory movements; this pattern is most consistent with watching a video on screen.",
+  "correct": false
+}

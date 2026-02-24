@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions jump in discrete steps of several degrees in varying directions and amplitudes, with plateaus around 1 s between jumps, matching a target that moves randomly within a 2D range rather than purely horizontal motion, static fixation, or the more irregular patterns of reading, video viewing, or game interaction.",
+  "correct": false
+}

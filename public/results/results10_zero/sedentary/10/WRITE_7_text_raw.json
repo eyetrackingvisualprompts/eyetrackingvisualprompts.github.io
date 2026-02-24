@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show frequent medium- to large-amplitude saccades across both horizontal and vertical axes, including rapid shifts between dispersed regions and some excursions toward screen edges, consistent with visually tracking moving objects and navigating in a game rather than line-by-line reading or code-focused tasks, which would show more constrained, structured scanpaths.",
+  "correct": false
+}

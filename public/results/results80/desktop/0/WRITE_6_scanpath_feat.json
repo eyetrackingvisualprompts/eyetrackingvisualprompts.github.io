@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows multiple dispersed clusters and frequent medium-length saccades across a relatively central-upper region, resembling scanning of SERPs and result pages. It is more exploratory and less line-structured than READ, less constrained than WRITE, and more vertically varied than BROWSE, matching the SEARCH example most closely.",
+  "correct": false
+}

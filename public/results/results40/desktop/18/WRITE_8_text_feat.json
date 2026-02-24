@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within a narrow horizontal band around mid-screen with sequential small horizontal and vertical saccades and long, stable fixations, closely matching the patterned, line-based scanning behavior seen in the READ examples rather than the larger, more dispersed movements of BROWSE/SEARCH or the more peripheral/upper-screen focus of WRITE/WATCH.",
+  "correct": false
+}

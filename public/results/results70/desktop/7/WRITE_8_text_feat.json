@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is highly localized around a narrow horizontal band (y\u22480.65\u20130.70) with long, stable fixations and only small-amplitude corrective saccades, indicating steady inspection of a fixed region on the screen. There are no large exploratory jumps or vertical scroll-following shifts typical of SEARCH or BROWSE, nor the wide-range movements of PLAY or WATCH, and no top-of-screen / document-header focus as in WRITE. This sustained, line-level viewing pattern best matches the READ activity.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows clusters of short horizontal saccades and medium-length fixations concentrated within a relatively narrow vertical band, consistent with line-by-line reading. There is no extensive vertical navigation or large dispersed movements typical of SEARCH, BROWSE, or PLAY, nor the code-panel scanning patterns expected for WRITE/DEBUG/INTERPRET. The stable, localized pattern best matches continuous reading behavior.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are strongly concentrated in a vertically elongated region slightly left of center with additional clusters lower on the screen, closely matching the DEBUG example pattern where attention alternates between stacked code lines and console/output areas rather than the more horizontal reading or widely scattered browsing/watch patterns.",
+  "correct": false
+}

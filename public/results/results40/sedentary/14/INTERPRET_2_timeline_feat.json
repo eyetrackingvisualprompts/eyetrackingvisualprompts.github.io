@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly stable code-reading pattern with a localized burst of large, irregular saccades and vertical shifts around the middle of the window, matching the focused yet occasionally exploratory behavior seen in the DEBUG example more than the other tasks.",
+  "correct": false
+}

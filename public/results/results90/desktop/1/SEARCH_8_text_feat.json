@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in central\u2013lower screen with frequent medium-amplitude vertical and horizontal saccades between nearby positions (typical of scanning titles, snippets, and mixed content), without the systematic line-by-line horizontal sweeps of READ or the strong upper-screen bias and large exploratory jumps of SEARCH; patterns closely resemble the BROWSE exemplars in both spatial distribution and saccade/fixation dynamics.",
+  "correct": false
+}

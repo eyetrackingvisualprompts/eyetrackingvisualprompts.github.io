@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations are predominantly mid-duration (0.2\u20130.8s) with many short, small-amplitude saccades clustered in a compact central region and occasional moderate vertical shifts, closely matching the stable, locally scanning pattern seen in the READ example rather than the more dispersed exploratory patterns of SEARCH/BROWSE or the wider, dynamic shifts of PLAY/WATCH/WRITE.",
+  "correct": false
+}

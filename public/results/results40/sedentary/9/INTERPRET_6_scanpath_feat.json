@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a narrow left-side band consistent with code editor text, with occasional long saccades to the upper area (likely menus/console). This pattern closely matches the WRITE example where participants focus on a small code region while periodically checking elsewhere, differing from the more dispersed DEBUG or BROWSE patterns.",
+  "correct": false
+}

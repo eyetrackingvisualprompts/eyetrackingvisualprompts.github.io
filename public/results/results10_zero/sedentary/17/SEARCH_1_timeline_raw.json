@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions stay within a relatively narrow horizontal band with small saccades and fixations, consistent with reading text lines rather than large, rapid movements typical of games, browsing, or searching; the brief vertical shift around 2\u20133s likely reflects a scroll or line transition while continuing to read.",
+  "correct": false
+}

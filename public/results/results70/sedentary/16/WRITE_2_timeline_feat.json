@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated in a narrow vertical band with relatively small horizontal range and moderate, localized regressions\u2014matching focused inspection of a single code snippet as in the INTERPRET task, rather than the wider scanning or multiline patterns seen in BROWSE, READ, SEARCH, or DEBUG.",
+  "correct": false
+}

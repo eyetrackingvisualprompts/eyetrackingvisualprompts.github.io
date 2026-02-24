@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is confined to a small region in the upper-central screen with short saccades and many local regressions between closely spaced points, matching the fine-grained, small-amplitude movements around a text-entry area seen in the WRITE examples, rather than the broader horizontal scanpaths of READ or the more dispersed patterns of BROWSE/SEARCH/PLAY/WATCH.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are concentrated around the central region with moderate spread vertically and horizontally, matching the browsing example pattern more than the other tasks, which show either strong horizontal text-line patterns (READ/WRITE) or wider dispersed gaze (PLAY/WATCH/SEARCH).",
+  "correct": false
+}

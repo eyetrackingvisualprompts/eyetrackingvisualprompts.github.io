@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions (both X and Y) change slowly and smoothly with relatively long, stable fixations and moderate drift, without the systematic horizontal line-by-line shifts or regressions typical of reading/searching. The absence of rapid, task-focused scanning or code-like vertical patterns, combined with continuous mild motion, is most consistent with passively following visual content in a video-watching task.",
+  "correct": false
+}

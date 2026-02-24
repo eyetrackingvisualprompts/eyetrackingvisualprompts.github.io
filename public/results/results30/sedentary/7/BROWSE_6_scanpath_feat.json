@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between an upper region and lower area with several horizontal clusters and long saccades across the screen, resembling movement between search results, snippets, and possibly opened pages, which matches the SEARCH pattern more than the other activities.",
+  "correct": false
+}

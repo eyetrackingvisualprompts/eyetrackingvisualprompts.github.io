@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze positions stay near screen center with short, small-amplitude horizontal and vertical shifts and relatively stable fixations, consistent with monitoring a central text area and nearby UI elements while typing, rather than the broader or more dynamic scanning seen in browsing, searching, playing, reading long passages, or watching video.",
+  "correct": false
+}

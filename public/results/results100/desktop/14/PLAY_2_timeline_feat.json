@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations stay around screen center with moderate, irregular saccades in both axes, lacking the systematic horizontal/vertical scan patterns of READ or WRITE, and less structured than SEARCH; this variability and mid-screen focus best matches the browsing examples.",
+  "correct": false
+}

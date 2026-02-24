@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated medium-range horizontal movements with moderate vertical shifts and intermittent larger saccades, resembling scanning result lists and occasional page transitions; this pattern aligns best with the SEARCH example and differs from the more linear READ/BROWSE patterns or the highly dynamic PLAY/WATCH traces.",
+  "correct": false
+}

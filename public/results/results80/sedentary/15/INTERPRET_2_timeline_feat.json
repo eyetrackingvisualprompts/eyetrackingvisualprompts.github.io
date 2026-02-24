@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze positions are relatively stable with modest horizontal spread and slow upward drift in Y, resembling code-focused inspection with limited navigation. The pattern closely matches the INTERPRET example, which shows concentrated fixations around code lines with occasional saccades, unlike the more dynamic BROWSE/SEARCH or highly variable PLAY/WATCH patterns.",
+  "correct": true
+}

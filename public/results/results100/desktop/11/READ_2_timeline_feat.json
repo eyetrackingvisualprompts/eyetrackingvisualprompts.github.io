@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Both X and Y fixations show large, smooth shifts across wide vertical and horizontal ranges with frequent long saccades, resembling continuous tracking of moving stimuli rather than line-by-line or page-based scanning seen in READ/WRITE/SEARCH/BROWSE; this matches the WATCH pattern.",
+  "correct": false
+}

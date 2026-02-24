@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shifts between two main vertical regions (top search area and mid-page results) with moderate horizontal movement and intermittent refixations, closely matching the SEARCH example pattern compared to the more linear READ traces or code-centered WRITE/DEBUG/INTERPRET patterns.",
+  "correct": false
+}

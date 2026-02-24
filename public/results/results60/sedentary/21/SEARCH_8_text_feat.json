@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long saccades between far-separated screen regions (including to off-screen/negative coordinates and screen corners), alternating with horizontal scanning bands and revisits to top areas, matches exploratory, multi-region web browsing more than the more localized, code-centered or line-structured patterns of WRITE/DEBUG/INTERPRET/READ or the object-centered patterns of WATCH/PLAY.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze remains in a relatively narrow horizontal band with small progressive shifts and occasional regressions, consistent with following successive text lines and referencing nearby UI elements during continuous text production, which matches the stable, locally constrained patterns typical of typing/writing rather than the larger jumps or broader exploration seen in browsing, searching, reading-only, playing, or watching video.",
+  "correct": false
+}

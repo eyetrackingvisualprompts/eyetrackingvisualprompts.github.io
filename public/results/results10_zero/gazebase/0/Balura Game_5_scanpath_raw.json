@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Video Viewing",
+  "reason": "The scanpath shows irregular, varied saccades and fixations distributed across much of the screen without clear repetitive structure (like strict horizontal sweeps or grid-like jumps). This pattern best matches natural, free-viewing behavior typical of watching a video rather than structured tasks such as reading, horizontal or random saccades, central fixation, or the more clustered target-driven Balura game.",
+  "correct": false
+}

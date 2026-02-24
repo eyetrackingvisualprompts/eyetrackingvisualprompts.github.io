@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points remain clustered in a small central-lower region with very small, smooth drifts and no clear horizontal scanning or line-by-line reading patterns. There are no large saccades typical of browsing, searching, or playing. This stable central fixation pattern is most consistent with passively watching video content, often focused around the subtitle/character area near the lower center of the screen.",
+  "correct": false
+}

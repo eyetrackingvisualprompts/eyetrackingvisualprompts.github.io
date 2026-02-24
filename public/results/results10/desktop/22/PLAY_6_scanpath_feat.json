@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze is clustered in a mid-screen region with repeated short saccades among several nearby points, resembling the mixed attention to search box, result snippets, and page elements seen in the SEARCH example more than the more linear READ pattern or broader BROWSE/PLAY distributions.",
+  "correct": false
+}

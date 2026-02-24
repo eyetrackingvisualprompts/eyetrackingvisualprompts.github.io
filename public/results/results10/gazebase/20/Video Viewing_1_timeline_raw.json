@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Fixations",
+  "reason": "Both X and Y gaze positions stay near the center with small drifts and brief transient spikes, matching the mostly stable central fixation pattern rather than large, structured saccades or exploratory movements seen in other tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze points jump between discrete locations with roughly one-second dwells and no clear horizontal-only pattern or reading-like line structure, matching a target that moves unpredictably across the screen and is fixated at each new random position.",
+  "correct": false
+}

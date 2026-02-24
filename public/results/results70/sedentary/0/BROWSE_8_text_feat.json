@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "Gaze is confined to a horizontal band with long, sequential fixations and short left-right saccades that systematically sweep across a region, then return slightly and continue, matching line-by-line reading behavior rather than the more scattered or vertical scanning seen in browse/search or the code-focused patterns of programming tasks.",
+  "correct": false
+}

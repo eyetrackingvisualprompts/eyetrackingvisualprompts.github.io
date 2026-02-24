@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form predominantly horizontal bands with small vertical shifts, consistent with line-by-line text reading, and lack the large screen-covering sweeps or focal-object following typical of PLAY, WATCH, or unrestricted BROWSE/SEARCH behavior.",
+  "correct": true
+}

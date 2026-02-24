@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays in a relatively narrow vertical band near the upper-middle of the screen for long periods with smooth, continuous shifts and occasional larger relocations, matching stable viewing of a dynamic video more than the more scanning-heavy patterns of SEARCH/BROWSE or the line-based horizontal patterns of READ/WRITE. The distribution and dynamics closely resemble the WATCH example data.",
+  "correct": false
+}

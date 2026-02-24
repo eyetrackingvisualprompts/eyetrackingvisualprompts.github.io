@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is highly concentrated in a single region on the left-center where the code editor would be, with a smaller cluster on the right likely corresponding to console/output, closely matching the WRITE example pattern and distinct from the more dispersed SEARCH/BROWSE or multi-line READ patterns.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Large, frequent saccades over a wide screen area (including edges and corners), recurrent returns to central regions, and rapid shifts between distant points resemble continuous spatial tracking and navigation typical of gameplay rather than line-based reading or focused code inspection.",
+  "correct": true
+}

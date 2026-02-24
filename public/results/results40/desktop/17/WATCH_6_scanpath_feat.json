@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form two main clustered regions with transitions between them, resembling alternating attention between search results and content, which matches the SEARCH pattern more than the other activities.",
+  "correct": false
+}

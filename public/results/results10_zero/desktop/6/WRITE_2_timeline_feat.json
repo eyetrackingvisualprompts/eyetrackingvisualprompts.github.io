@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain in a narrow horizontal band with very small, slow shifts and minimal vertical movement, indicating prolonged attention to a central region with low exploratory or scanning behavior\u2014more consistent with passively watching a video than with text reading, web searching/browsing, writing, or visually demanding gameplay.",
+  "correct": false
+}

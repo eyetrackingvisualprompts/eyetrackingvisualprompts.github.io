@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a tight cluster on the upper-left area (likely code editor) with periodic long saccades to a separate lower-left cluster (possibly console or output area) and occasional checks toward the right side of the screen, matching the pattern of actively writing and testing code rather than passive reading or browsing.",
+  "correct": false
+}

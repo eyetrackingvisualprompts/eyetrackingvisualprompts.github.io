@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a compact central region with limited horizontal or vertical spread, consistent with watching a video where key visual content (faces, subtitles) stays near the center, rather than the broader or more structured scanpaths typical of reading, writing, browsing, searching, or gaming.",
+  "correct": false
+}

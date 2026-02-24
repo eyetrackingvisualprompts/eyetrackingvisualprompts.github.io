@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points are clustered around a central region with moderate vertical exploration and scattered fixations, resembling the mixed scanning pattern seen in BROWSE more than the more linear READ pattern, the focused WRITE corner cluster, or the larger jumps of PLAY/WATCH/SEARCH.",
+  "correct": true
+}

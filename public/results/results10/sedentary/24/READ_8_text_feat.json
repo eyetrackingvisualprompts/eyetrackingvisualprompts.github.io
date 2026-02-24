@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze is constrained to a narrow horizontal band with repeated left-right saccades and short-to-moderate fixations, closely matching line-level reading behavior rather than code inspection, search-result scanning, or dynamic object tracking seen in other classes.",
+  "correct": true
+}

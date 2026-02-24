@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows intermittent vertical shifts between two main horizontal bands with varied saccades, indicating scanning lists and result snippets rather than continuous line-by-line reading or stable watching. This mixed exploratory and reading-like pattern best matches the SEARCH activity among the provided examples.",
+  "correct": true
+}

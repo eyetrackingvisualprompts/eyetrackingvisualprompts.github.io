@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze positions show very stable, slowly drifting fixations with minimal saccadic excursions, especially in the vertical direction, resembling the WATCH template where viewers track a mostly central, slowly changing scene rather than performing systematic reading or exploration patterns seen in READ, BROWSE, or SEARCH.",
+  "correct": false
+}

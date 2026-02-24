@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows a sequence of short, mostly horizontal fixations with small forward saccades and occasional regressions, consistent with line-by-line reading rather than large exploratory movements (SEARCH/BROWSE), dynamic tracking (WATCH/PLAY), or focused code inspection/editing (WRITE/INTERPRET/DEBUG).",
+  "correct": false
+}

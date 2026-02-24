@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in a narrow vertical band on the left side with little spread elsewhere, closely matching the INTERPRET example heatmap for focusing on a single code snippet rather than the broader distributions seen in WRITE or other tasks.",
+  "correct": true
+}

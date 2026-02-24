@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are concentrated in a central horizontal band with small, systematic horizontal shifts and limited vertical movement\u2014consistent with line-by-line reading on a static text page, and lacking the large, multidirectional saccades typical of SEARCH, BROWSE, or PLAY, or the more central, less structured patterns of WATCH and WRITE.",
+  "correct": true
+}

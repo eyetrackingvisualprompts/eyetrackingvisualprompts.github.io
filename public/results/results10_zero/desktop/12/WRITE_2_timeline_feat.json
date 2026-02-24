@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain in a narrow horizontal band with very small, smooth shifts and few large saccades, suggesting passive following of centrally located content rather than systematic line-by-line scanning (READ/WRITE) or wide exploratory movements (BROWSE/SEARCH/PLAY). This stable, center-focused pattern is most consistent with watching a video.",
+  "correct": false
+}

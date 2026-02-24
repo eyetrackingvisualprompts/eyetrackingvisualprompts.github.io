@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "READ",
+  "reason": "Gaze is tightly clustered in a small, upper-left region with short, local saccades and stable fixations, consistent with focused reading of a compact text block rather than wide exploratory or dynamic object tracking patterns seen in browse, search, play, or watch tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points form a compact cluster around the screen center with moderate vertical and horizontal dispersion, similar to the SEARCH example where attention alternates between central search results and nearby interface elements, differing from the more lateral spread in BROWSE or the horizontal lines in READ.",
+  "correct": true
+}

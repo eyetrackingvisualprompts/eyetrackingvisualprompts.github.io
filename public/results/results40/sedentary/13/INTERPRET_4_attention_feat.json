@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are densely clustered over a narrow vertical region on the left, similar to focused inspection of a code block as in DEBUG, with a few checks elsewhere but without the horizontal line pattern of reading or the broader dispersion of search/browse/play/watch.",
+  "correct": false
+}

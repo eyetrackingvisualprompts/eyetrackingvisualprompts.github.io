@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations span both a top-left region and a mid-screen horizontal band with scattered vertical movements, resembling exploration of multiple webpage areas rather than the more centralized (WATCH/PLAY), tight horizontal (READ), or left-code-area focused (WRITE/DEBUG/INTERPRET) patterns; this matches the BROWSE example most closely.",
+  "correct": false
+}

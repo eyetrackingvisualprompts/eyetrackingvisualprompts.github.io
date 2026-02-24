@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is mostly confined to a central band with moderate horizontal shifts and occasional larger saccades, resembling code-focused inspection with intermittent jumps, which best matches the DEBUG example pattern compared to the other classes.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "X fixation hovers around screen center with moderate horizontal shifts, while Y fixation stays in the lower half with frequent up\u2013down saccades\u2014matching the pattern of scanning search results and moving between the result list and lower content, which resembles the provided SEARCH example more than the other activities.",
+  "correct": false
+}

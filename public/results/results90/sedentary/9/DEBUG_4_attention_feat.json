@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are highly concentrated on a single narrow code area with minimal horizontal spread and no separate focus on output or other UI elements, matching the focused inspection pattern of INTERPRET rather than the broader, multi-region patterns of DEBUG or WRITE.",
+  "correct": false
+}

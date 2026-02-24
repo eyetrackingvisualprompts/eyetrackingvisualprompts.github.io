@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is spread horizontally across a broad band with multiple revisits and occasional excursions downward, resembling scanning over search results and snippets rather than the more compact coding (INTERPRET/DEBUG/WRITE) or tightly line-structured reading pattern; it best matches the SEARCH example scanpath.",
+  "correct": false
+}

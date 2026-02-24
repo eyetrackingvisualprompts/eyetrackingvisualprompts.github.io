@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is almost constant along a narrow horizontal band (Y position nearly fixed) with slow, smooth drift in X and a couple of large horizontal shifts, matching following content in a video rather than line-by-line reading or code inspection, which would show frequent discrete saccades and larger vertical movements.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is spread widely across central and lower screen with frequent medium-length saccades and shifting clusters, resembling following dynamic visual content rather than localized code, static text, or UI elements. This pattern best matches the WATCH examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are heavily clustered in a compact region on the left (code area) with occasional long saccades to a few points on the right (e.g., run button/console), matching the WRITE example where participants type code and intermittently interact with IDE controls.",
+  "correct": false
+}

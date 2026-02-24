@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Dense cluster of fixations and short saccades around a confined lower-central region, with occasional jumps to nearby interface areas, matches the code-editing/write pattern (similar spatial scale and back\u2011and\u2011forth around a single text block as in WRITE example), rather than the broader horizontal sweeps of READ/SEARCH or larger movements of PLAY/WATCH/BROWSE.",
+  "correct": false
+}

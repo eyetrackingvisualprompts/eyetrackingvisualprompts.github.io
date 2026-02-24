@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region with almost no horizontal or vertical scanning, indicating sustained attention to a localized area rather than reading lines or navigating interfaces; this pattern is most consistent with passively watching a video where key content is in one region of the screen.",
+  "correct": false
+}

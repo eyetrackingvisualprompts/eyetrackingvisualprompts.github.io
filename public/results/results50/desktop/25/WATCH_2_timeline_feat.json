@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-amplitude shifts in both X and Y with no strong left-to-right reading sweep or confined horizontal band typical of READ/WRITE. Movements are more scattered and exploratory, matching the heterogeneous scanning seen in BROWSE behavior across varied web content.",
+  "correct": false
+}

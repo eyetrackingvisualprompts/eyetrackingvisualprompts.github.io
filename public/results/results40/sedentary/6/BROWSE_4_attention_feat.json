@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are concentrated in two main vertical regions: one at the very top-right (likely search box / query or top results) and another mid-right (individual result area), with scattered lower fixations, matching the typical pattern of scanning search results rather than continuous reading, coding, or video watching.",
+  "correct": false
+}

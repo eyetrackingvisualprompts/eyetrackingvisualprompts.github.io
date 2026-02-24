@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is confined to a compact central area with dense, medium\u2011duration fixations and frequent short saccades among a small set of coordinates, including repeated transitions between a code-like upper region (~150\u2013250 px) and a result/output-like mid region (~450\u2013550 px). This pattern closely matches the INTERPRET examples, where participants repeatedly shift between code and mental-reference/output locations, and differs from the more linear READ pattern, the wide exploratory SEARCH/BROWSE patterns, and the dynamic object-tracking or large-screen movements of WATCH/PLAY.",
+  "correct": false
+}

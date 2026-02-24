@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Predominantly localized fixations with short intra-code saccades around a compact region (x\u224850\u2013200,y\u2248150\u2013350), frequent revisits to the same lines, and occasional long jumps to far-off coordinates (e.g., large negative/large positive x,y) resemble scanning code and jumping between code, console, and other IDE areas. The pattern is not smooth horizontal like reading prose, nor object-tracking/game-like, nor broad exploratory like browsing/search; it best matches focused code inspection and corrections in DEBUG.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Gaze points are tightly clustered in a small, horizontally oriented area with short saccades and stable fixations, matching the localized, line-based viewing pattern typical of reading rather than the broader, more scattered exploration seen in browsing, search, play, or watch activities.",
+  "correct": true
+}

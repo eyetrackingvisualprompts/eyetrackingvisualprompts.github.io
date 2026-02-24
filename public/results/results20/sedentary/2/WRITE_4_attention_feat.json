@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered in a compact region on the left side of the screen with little horizontal spread, matching the focused code-area attention characteristic of debugging rather than the broader or more distributed patterns seen in other tasks.",
+  "correct": false
+}

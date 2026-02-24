@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "WRITE",
+  "reason": "Very few, relatively stable fixations with minimal saccades over the whole 10s window indicate the participant is mostly focused on the code editor rather than scanning or reading extensively, which best matches the concentrated gaze pattern seen in WRITE.",
+  "correct": false
+}

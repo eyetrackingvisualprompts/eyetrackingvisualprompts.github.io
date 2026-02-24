@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact horizontal band with limited vertical movement, characteristic of line-by-line reading, and closely resemble the example READ scanpath more than the other activities.",
+  "correct": true
+}

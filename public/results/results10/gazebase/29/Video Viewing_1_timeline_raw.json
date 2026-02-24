@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like jumps in both X and Y with dwell periods of about 1 s at discrete positions, and movements span a broad 2D area rather than a single axis, matching the random target jumps in the Random Saccades task.",
+  "correct": false
+}

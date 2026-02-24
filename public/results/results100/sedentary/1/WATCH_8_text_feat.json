@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Wide spatial gaze distribution with many large saccades across screen regions, frequent revisits between distant points, and relatively long fixations without clear line- or code-structured scanning; this pattern matches passive viewing of dynamic visual content more than the structured, text- or code-oriented movements seen in READ/WRITE/DEBUG/INTERPRET or the focused object tracking of PLAY. The behavior is closest to the WATCH examples, which show similar global, non-systematic exploratory gaze.",
+  "correct": true
+}

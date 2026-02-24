@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is tightly clustered in a narrow left-side code region with limited horizontal spread and mid-screen vertical range, matching focused inspection of a small code snippet as seen in INTERPRET, rather than the broader spread and navigation seen in DEBUG, WRITE, or browsing tasks.",
+  "correct": false
+}

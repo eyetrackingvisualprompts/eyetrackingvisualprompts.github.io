@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows a gradual upward drift in X with relatively low, stable Y positions, resembling horizontal movements across lines with periodic returns\u2014matching the pattern seen in the WRITE example where attention alternates between text and writing area rather than dense vertical scanning as in READ or SEARCH.",
+  "correct": true
+}

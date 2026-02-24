@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze path covers a large area with abrupt multi-directional jumps and long dwell periods at discrete positions, matching the pattern of following a randomly moving target rather than the more linear horizontal saccades or structured patterns of reading or video viewing.",
+  "correct": false
+}

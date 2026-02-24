@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows relatively smooth, slow changes in both X and Y with limited large saccades, indicating following on-screen content rather than line-by-line reading or code-focused tasks, matching the WATCH pattern best among the examples.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Frequent long saccades between top-of-page URL/search area, mid-page results, and lower content, with repeated revisits to upper screen and even off-screen coordinates, matches exploratory, vertically and horizontally scanning behavior typical of web search result inspection rather than the more line-structured READ or code-focused WRITE/DEBUG/INTERPRET patterns.",
+  "correct": false
+}

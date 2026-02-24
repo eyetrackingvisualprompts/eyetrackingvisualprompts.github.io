@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, frequent jumps across widely separated screen regions (including edges and off-center areas), alternating between top, middle, and bottom with short fixations and no consistent horizontal line-scanning pattern. This irregular, exploratory navigation with many returns and revisits resembles free web browsing more than the structured line-by-line patterns of reading/searching or the focused code-centered clusters of programming tasks (INTERPRET/DEBUG/WRITE), and it lacks a single moving focal object typical of PLAY or the more scene-centric clustering of WATCH.",
+  "correct": false
+}

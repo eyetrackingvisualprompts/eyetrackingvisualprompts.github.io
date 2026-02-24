@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread vertically across the upper-left region, resembling scanning of a search-results page (title, snippets, and options) rather than the tighter single-block patterns of INTERPRET/DEBUG or the broader dispersion of BROWSE/PLAY/WATCH.",
+  "correct": false
+}

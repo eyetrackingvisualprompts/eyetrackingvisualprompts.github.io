@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-screen with frequent short saccades and moderate fixations, interleaving horizontal and vertical shifts between nearby regions, including occasional jumps to slightly higher y (around 0.5\u20130.7) then back. This pattern matches scanning mixed text/graphics and controls typical of web browsing more than the tighter horizontal bands of READ/WRITE or the more dispersed, larger-range shifts in WATCH/PLAY/SEARCH.",
+  "correct": true
+}

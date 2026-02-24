@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "X and Y positions show discrete steps to various horizontal and vertical locations, each held roughly 1 s before jumping to a new random position within the \u00b115\u00b0 (X) and \u00b19\u00b0 (Y) range, matching the protocol of Random Saccades rather than purely horizontal, central fixation, reading, free viewing, or the game pattern.",
+  "correct": true
+}

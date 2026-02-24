@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "SEARCH",
+  "reason": "Long sequence of dispersed fixations and large saccades between widely separated page regions (top, middle, bottom, even off-screen coordinates), with repeated returns to result-like areas and no clear horizontal line-by-line pattern. This exploratory, scrolling/scan behavior matches search engine use rather than focused reading, coding, or continuous video watching.",
+  "correct": false
+}

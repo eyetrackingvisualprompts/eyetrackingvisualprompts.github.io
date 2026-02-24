@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "The gaze forms long, mostly horizontal scanlines at two vertical regions (upper and lower), with systematic left-to-right movements and occasional vertical transitions between them, characteristic of reading multi-paragraph text rather than the more scattered or central patterns seen in other tasks.",
+  "correct": false
+}

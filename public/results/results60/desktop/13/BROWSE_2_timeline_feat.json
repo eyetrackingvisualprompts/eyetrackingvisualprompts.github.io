@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions for both X and Y fixation stay around the screen center with moderate, irregular shifts and saccades, lacking strong directional scanning (as in READ) or large vertical excursions (as in WATCH/WRITE/SEARCH/PLAY). This pattern best matches the more scattered, center-focused exploration typical of web browsing in the example data.",
+  "correct": true
+}

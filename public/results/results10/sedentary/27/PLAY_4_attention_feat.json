@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a compact region near screen center with minimal horizontal spread, matching the focused, central viewing pattern seen in the WATCH example rather than the broader or more distributed patterns of reading, coding, or browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze covers multiple distinct horizontal regions with several long transitions between upper and middle areas, indicating navigation between search results and content, unlike the tighter code-focused patterns of DEBUG/WRITE or the more dispersed motion in PLAY/BROWSE.",
+  "correct": false
+}

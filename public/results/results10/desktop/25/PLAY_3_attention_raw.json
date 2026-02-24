@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated near the screen center with moderate dispersion and several nearby fixations, matching the browsing example pattern more closely than the more horizontal READ pattern or the more peripheral WATCH/WRITE patterns.",
+  "correct": false
+}

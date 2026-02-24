@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "Fixations form a mostly horizontal sequence near the lower part of the screen, resembling line-by-line progression typical of reading text, and differing from the more centralized clusters of play/watch or the scattered patterns of browse/search.",
+  "correct": false
+}

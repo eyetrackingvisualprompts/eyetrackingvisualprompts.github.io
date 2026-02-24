@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows rapid, wide-ranging saccades across almost the entire screen, with many crossings and dispersed fixations rather than clustered regions or line-wise reading patterns. This pattern best matches visually tracking dynamic game elements during the PLAY activity.",
+  "correct": false
+}

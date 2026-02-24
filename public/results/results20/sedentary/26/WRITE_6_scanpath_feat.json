@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze alternates between two distant screen regions with scattered fixations and long saccades, indicating switching between different webpage areas or tabs, which is characteristic of free web browsing rather than the more localized or structured patterns seen in other tasks.",
+  "correct": false
+}

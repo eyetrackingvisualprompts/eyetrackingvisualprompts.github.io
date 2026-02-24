@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The scanpath shows continuous, irregular exploration across a large area with no clear horizontal-only pattern, no central fixation, and no structured line-by-line reading or point-to-point single-step saccades, which is most consistent with free-viewing behavior during video watching.",
+  "correct": false
+}

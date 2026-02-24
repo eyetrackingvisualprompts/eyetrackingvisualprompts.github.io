@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Video Viewing",
+  "reason": "The target data shows many short, small-amplitude, irregular gaze shifts with both horizontal and vertical components, frequent local fixations and drifts, and occasional larger transitions between disparate regions\u2014consistent with free viewing of dynamic content. It lacks the strictly alternating large horizontal jumps of Horizontal Saccades, the highly central stability of Fixations, the systematic line-like progression of Reading, the game-like large ballistic jumps and object re-fixations of the Balura Game, and the strong, discrete target-to-target jumps of Random Saccades. The pattern best matches the Video Viewing examples.",
+  "correct": false
+}

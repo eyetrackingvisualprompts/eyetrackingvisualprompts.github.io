@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze pattern shows movements between a mid-upper area and other regions, with moderate dispersion and vertical transitions resembling shifts between a search box, result list, and selected content, which aligns best with the SEARCH example scanpath.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze shows frequent medium-to-large saccades over both axes, including rapid jumps between low (near 0.0\u20130.2) and mid-screen (0.3\u20130.5) regions and back, with relatively brief fixations and no stable horizontal line-by-line reading pattern. The trajectory resembles continuous spatial navigation and target tracking more typical of gameplay than the more structured, row-based patterns of READ/WRITE or the top-focused WATCH behavior.",
+  "correct": false
+}

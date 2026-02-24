@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows step-like position changes every ~1 s with varying amplitudes and directions in both X and Y, consistent with following a randomly moving target rather than strictly horizontal motion, central fixation, or the more irregular patterns of reading, video viewing, or game play.",
+  "correct": false
+}

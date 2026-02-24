@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades across wide screen regions (including top, center, and lower areas), scanning horizontally through bands around y\u2248250\u2013400 then jumping to other columns and to extreme positions, match the heterogeneous, exploratory gaze behavior seen in the SEARCH examples rather than the more line-structured patterns of READ or the tighter code-focused patterns of WRITE/DEBUG/INTERPRET or the smoother object-following of WATCH/PLAY.",
+  "correct": false
+}

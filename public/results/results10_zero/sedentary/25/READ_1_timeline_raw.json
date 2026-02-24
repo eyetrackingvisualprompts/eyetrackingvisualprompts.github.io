@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain in a relatively narrow horizontal band with small, jittery movements rather than systematic left\u2011to\u2011right and line\u2011change patterns typical of reading or code tasks, and without the large, rapid excursions expected in interactive activities like playing games, searching, or browsing. This pattern aligns best with passively watching a video where the eyes track limited motion near screen center with occasional saccades.",
+  "correct": false
+}

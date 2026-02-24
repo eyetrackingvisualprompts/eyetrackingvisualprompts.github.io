@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are concentrated in a compact region on the left-center where a code snippet would be, with slight horizontal spread and little vertical or global exploration, matching the INTERPRET example pattern more closely than WRITE or DEBUG.",
+  "correct": false
+}

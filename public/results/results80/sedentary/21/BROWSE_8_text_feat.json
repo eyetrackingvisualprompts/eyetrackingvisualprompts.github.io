@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows highly regular, horizontal scan paths with tight clusters of fixations around consistent y-levels (lines), plus periodic larger saccades to new horizontal bands\u2014typical of line-by-line reading rather than the more scattered, object- or region-driven patterns seen in search, browsing, coding, or gameplay.",
+  "correct": false
+}

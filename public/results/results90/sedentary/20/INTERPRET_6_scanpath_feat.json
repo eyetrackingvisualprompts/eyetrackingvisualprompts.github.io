@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region with occasional long saccades to the right edge, matching looking back and forth between a code editor area and a run/console region as in the WRITE task examples.",
+  "correct": false
+}

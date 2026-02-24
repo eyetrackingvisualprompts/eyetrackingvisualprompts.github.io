@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-screen with frequent medium-amplitude shifts between text-like regions and distinct UI areas (e.g., 0.2\u20130.7 horizontally, 0.2\u20130.6 vertically), including many vertical and diagonal transitions typical of scanning headlines, menus, and mixed media layouts. Movements are less line-structured than READ, less bottom-heavy than WRITE, and lack the large, rapid direction changes characteristic of PLAY or WATCH, matching the browsing exemplars most closely.",
+  "correct": false
+}

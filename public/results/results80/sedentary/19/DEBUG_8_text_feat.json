@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, frequent jumps across widely separated screen regions (including off-screen coordinates), alternating between top, middle, and bottom areas without a consistent horizontal line-scanning pattern. There are many revisits to scattered locations and vertical excursions consistent with scrolling and exploring different webpage areas, matching the heterogeneous, exploratory pattern seen in the BROWSE examples more than the more structured code (WRITE/DEBUG/INTERPRET) or reading/search layouts.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-amplitude saccades with both X and Y positions varying around mid-screen, lacking strong upward bias (as in WRITE/READ) and without the wide, directional sweeps typical of PLAY. The irregular exploratory pattern across the display best matches web browsing behavior.",
+  "correct": false
+}

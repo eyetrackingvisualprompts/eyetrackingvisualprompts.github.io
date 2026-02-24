@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y gaze positions remain within a relatively narrow band with small, slow shifts and occasional brief horizontal excursions, consistent with line-by-line reading or scanning text, rather than the larger, faster, and more multidirectional movements typical of browsing, searching, gaming, or watching video.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is densely clustered over a compact region on the left (code area) with repeated fixations and short saccades, while intermittent long saccades jump to a smaller cluster on the right (likely console/output or error panel). This pattern of repeatedly checking code and then switching to run/output view matches the DEBUG example most closely.",
+  "correct": false
+}

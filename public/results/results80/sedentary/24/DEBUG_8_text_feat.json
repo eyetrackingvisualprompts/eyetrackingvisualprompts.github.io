@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations cluster around code-like vertical regions (y\u2248200\u2013600) with frequent revisits between a mid-code band and top area, plus jumps to off-screen/toolbar-like zones, matching the intensive, back-and-forth inspection and verification pattern seen in the DEBUG examples more than the more linear INTERPRET or WRITE behaviors.",
+  "correct": true
+}

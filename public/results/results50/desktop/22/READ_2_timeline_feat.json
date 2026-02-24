@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Both X and Y fixations form relatively stable, slowly drifting bands with dense small saccades, resembling line-by-line scanning over text. The pattern closely matches the READ example and differs from the more scattered or vertically higher gaze seen in browsing/searching or the dynamic shifts in watching/playing.",
+  "correct": true
+}

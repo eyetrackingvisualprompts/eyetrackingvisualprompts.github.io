@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Random Saccades",
+  "reason": "Gaze shifts occur in multiple directions with both horizontal and vertical components, and fixations of roughly ~0.3\u20132 s at each location, consistent with following a target that jumps to varied positions and holds for about a second. Movements are not strictly horizontal (ruling out Horizontal Saccades), not confined to a small central area (ruling out Fixations), and lack the dense, small, left-to-right line-wise pattern of Reading; they also lack the irregular, object-driven clustering expected in Video Viewing or Balura Game. Thus the pattern best matches Random Saccades.",
+  "correct": false
+}

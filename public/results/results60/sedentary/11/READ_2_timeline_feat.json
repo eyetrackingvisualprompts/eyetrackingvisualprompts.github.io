@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows repeated small horizontal sweeps with slowly rising Y early on (reading-like), then a large downward Y shift around 45s with continued activity, indicating a change of content/section typical of scrolling and navigating web pages rather than continuous reading of one text block; this best matches the heterogeneous patterns seen in BROWSE.",
+  "correct": false
+}

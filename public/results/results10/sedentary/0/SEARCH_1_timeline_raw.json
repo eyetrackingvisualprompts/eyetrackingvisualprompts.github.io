@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows horizontal scanning with occasional sharp vertical saccades and shifts between two main vertical regions, closely matching the SEARCH example pattern of moving between results and detailed content rather than the more uniform reading or focused code-viewing seen in READ/INTERPRET/DEBUG/WRITE.",
+  "correct": true
+}

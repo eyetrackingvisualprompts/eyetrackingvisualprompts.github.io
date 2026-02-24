@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow upper-left region with small, slow drifts and limited horizontal sweep, resembling focused attention on a small text input area rather than broad scanning or dynamic scene tracking, which matches the WRITE pattern.",
+  "correct": false
+}

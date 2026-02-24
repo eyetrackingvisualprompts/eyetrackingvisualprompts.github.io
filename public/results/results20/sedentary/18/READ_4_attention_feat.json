@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Two main horizontal bands of fixations\u2014one near the top where search results/snippets or query box appear, and another low on the page where a specific result/content is read\u2014match the pattern of scanning results then reading a chosen page, characteristic of the SEARCH task rather than the more centrally focused READ layout.",
+  "correct": false
+}

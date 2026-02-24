@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze starts near the top-left, makes a long saccade toward the right/top where the search bar or result header likely is, then settles into a horizontal pattern of fixations around mid-screen consistent with reading a single result snippet\u2014matching the SEARCH example\u2019s combination of initial navigation and subsequent focused horizontal reading.",
+  "correct": true
+}

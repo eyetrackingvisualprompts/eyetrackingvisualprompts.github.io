@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze alternates between a compact horizontal region near the top (code area) with dense fixations and occasional long vertical saccades downwards (to console/editor bottom), matching the WRITE example pattern more than other tasks.",
+  "correct": false
+}

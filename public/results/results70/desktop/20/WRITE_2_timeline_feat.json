@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is consistently in the lower half of the screen (low Y fixation) with a gradual rightward drift of X fixation, matching typical typing behavior focused on a text-entry area rather than the center or full screen as in reading, browsing, or watching.",
+  "correct": true
+}

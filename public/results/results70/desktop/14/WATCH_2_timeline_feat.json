@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is clustered around the screen center with small, frequent saccades and modest horizontal and vertical shifts, matching the relatively balanced, exploratory pattern seen in the BROWSE example rather than the stronger vertical motion of WATCH/PLAY or the more structured scan paths of READ/SEARCH/WRITE.",
+  "correct": false
+}

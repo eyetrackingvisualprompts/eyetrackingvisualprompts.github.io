@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are highly concentrated in a compact region around the screen center, closely resembling the browsing example heatmap where gaze is focused on a small central area of a webpage rather than spread horizontally as in reading or searching, or widely across the screen as in play or watch.",
+  "correct": false
+}

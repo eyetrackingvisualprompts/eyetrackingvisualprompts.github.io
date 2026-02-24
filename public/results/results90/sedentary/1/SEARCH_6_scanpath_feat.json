@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between a dense cluster on the left (likely search results list) and more dispersed fixations toward the middle/right and lower areas (opening and inspecting result pages), matching the SEARCH scanpath pattern more than other activities.",
+  "correct": true
+}

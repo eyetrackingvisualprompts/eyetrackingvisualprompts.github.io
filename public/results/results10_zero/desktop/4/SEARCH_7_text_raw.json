@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze remains within constrained vertical bands with many short, horizontally aligned fixations and small regressions, consistent with line-by-line reading rather than wide exploratory scanning (SEARCH/BROWSE) or large directional shifts (PLAY/WATCH/WRITE).",
+  "correct": false
+}

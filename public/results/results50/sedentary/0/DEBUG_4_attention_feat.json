@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The fixations cluster in a mid-left vertical region with additional spread above and around it, closely matching the DEBUG example pattern and reflecting repeated scanning between code lines and surrounding interface elements rather than the tighter code-only focus of INTERPRET or the narrower cluster of WRITE.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze path shows moderate spatial spread with several vertical transitions and clustered fixations, resembling the example SEARCH pattern more than the tighter READ/BROWSE clusters or the wider PLAY/WATCH/WRITE movements.",
+  "correct": false
+}

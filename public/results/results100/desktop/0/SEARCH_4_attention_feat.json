@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are centered in the upper-middle region with both vertical and moderate horizontal spread, matching the example SEARCH pattern of scanning results and query area rather than the tighter horizontal band of READ or the peripheral focus of PLAY/WRITE.",
+  "correct": true
+}

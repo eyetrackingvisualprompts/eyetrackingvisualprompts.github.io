@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanpaths clustered around a mid-screen band with repetitive left-right sweeps, short-to-moderate fixations, and frequent returns to similar y-levels match reading/scanning of web content; however, the strong focus on a single horizontal region with occasional large jumps and top-of-screen excursions aligns more closely with the browsing examples than with more structured code (WRITE/DEBUG/INTERPRET) or continuous storyline tracking (WATCH/PLAY/READ).",
+  "correct": true
+}

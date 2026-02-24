@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent gaze jumps across widely separated screen regions (including near-screen and off-center areas), revisits to mid-page bands, and excursions to top/bottom extremes resemble exploratory scrolling and link/content checking seen in BROWSE examples rather than the more structured line-by-line (READ) or code-window-focused (WRITE/DEBUG/INTERPRET) patterns.",
+  "correct": false
+}

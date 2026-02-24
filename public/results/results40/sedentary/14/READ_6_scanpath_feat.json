@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, horizontally aligned fixations within a confined central band of the screen, progressing gradually with limited large saccades\u2014matching the stable line-by-line viewing pattern typical of reading text rather than the broader or more dispersed movements seen in browsing, searching, or interactive tasks.",
+  "correct": true
+}

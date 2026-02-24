@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is concentrated on the left half and mid\u2013lower part of the screen with frequent transitions between a dense central block and upper area, matching scanning between search results and snippets rather than the tighter code-focused patterns of INTERPRET/DEBUG or the more uniformly horizontal lines of READ.",
+  "correct": false
+}

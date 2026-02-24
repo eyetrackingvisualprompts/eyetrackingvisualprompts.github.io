@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-range horizontal and vertical movements with several larger saccades and shifts between regions, more irregular and exploratory than structured reading but less chaotic than playing or debugging. This mixed scanning plus occasional focused reading best matches the SEARCH pattern among the examples.",
+  "correct": false
+}

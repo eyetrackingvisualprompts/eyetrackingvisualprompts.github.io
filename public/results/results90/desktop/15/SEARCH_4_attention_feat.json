@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are widely dispersed across the screen without a dominant central cluster or linear horizontal band, indicating dynamic viewing of changing visual content rather than focused reading, writing, or search; this spatial spread best matches the WATCH (video viewing) pattern among the provided examples.",
+  "correct": false
+}

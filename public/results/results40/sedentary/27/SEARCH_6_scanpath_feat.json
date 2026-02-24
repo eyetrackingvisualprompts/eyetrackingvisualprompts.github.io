@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations form two main vertical bands on the left where code and editor tools likely are, with occasional long saccades to the right side similar to the WRITE example; the pattern suggests focused work in an IDE typing code rather than reading continuous text or passively watching.",
+  "correct": false
+}

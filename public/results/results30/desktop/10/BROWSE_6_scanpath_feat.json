@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows a compact but mobile gaze cluster with frequent multidirectional saccades and vertical movements, similar to the PLAY example where attention repeatedly shifts around a central region, unlike the more linear READ pattern or the more static BROWSE/WRITE distributions.",
+  "correct": false
+}

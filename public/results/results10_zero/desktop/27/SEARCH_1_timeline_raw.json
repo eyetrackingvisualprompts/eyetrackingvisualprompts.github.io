@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain within a relatively narrow band with smooth, slow drifts and a few abrupt vertical shifts, consistent with following on-screen video content and occasional scene cuts, rather than the more systematic horizontal scanning of reading/writing or the larger, multidirectional saccades typical of search, browsing, or gameplay.",
+  "correct": false
+}

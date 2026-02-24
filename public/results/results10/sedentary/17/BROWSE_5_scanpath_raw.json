@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze moves predominantly in a horizontal band with repeated back-and-forth sweeps across a mid-screen region, consistent with tracking a moving game object (e.g., Pong) rather than scanning text columns or code, which would show more vertical progression and local fixations.",
+  "correct": false
+}

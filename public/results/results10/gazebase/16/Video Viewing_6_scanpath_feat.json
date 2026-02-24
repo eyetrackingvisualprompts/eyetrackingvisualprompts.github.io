@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Reading",
+  "reason": "The scanpath shows predominantly left-to-right, slightly slanted horizontal progressions along a narrow vertical band with sequential fixations, closely matching the structured line-by-line pattern characteristic of reading rather than the broader, more dispersed movements of the other tasks.",
+  "correct": false
+}

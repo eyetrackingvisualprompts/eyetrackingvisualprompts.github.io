@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent medium-to-long saccades covering large vertical and horizontal extents (from near top to near bottom and back), with relatively short, varied fixations and irregular scan paths. This pattern matches scanning and skipping behavior typical of web/news browsing rather than the more line-structured, horizontally constrained movements of reading or the more localized patterns of writing or gaming.",
+  "correct": true
+}

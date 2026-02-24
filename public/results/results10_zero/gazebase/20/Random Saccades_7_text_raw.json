@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show long periods of tight clustering (fixations) at distinct, widely separated gaze positions with large, abrupt jumps of ~20\u201330 degrees between them and dwell times on each position on the order of about 1 second after downsampling. This pattern matches following a target that steps to random screen locations (Random Saccades), rather than the more regular back-and-forth of Horizontal Saccades or continuous scanning seen in reading, gaming, or video viewing.",
+  "correct": true
+}

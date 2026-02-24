@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze points form a tight horizontal cluster at a consistent vertical level near the top of the screen, indicating sustained fixation in a narrow text line area with small horizontal movements, typical of focused reading rather than broader exploratory or interactive tasks.",
+  "correct": false
+}

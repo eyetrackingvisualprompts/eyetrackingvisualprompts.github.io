@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze shows frequent medium-range vertical shifts between two main Y-bands (code editor and auxiliary areas like console or function header) with relatively constrained horizontal spread, resembling the WRITE example more than the broader, more exploratory patterns of BROWSE/SEARCH or the highly dynamic PLAY/WATCH behaviors.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze trajectory shows continuous, smooth shifts across many distinct spatial regions with variable amplitudes and dwell times, lacking the strict horizontal pattern of horizontal/random saccades, the line-structured bands of reading, or the discrete target jumps/fixations of the Balura game. This pattern best matches natural, free-viewing exploration typical of video viewing.",
+  "correct": true
+}

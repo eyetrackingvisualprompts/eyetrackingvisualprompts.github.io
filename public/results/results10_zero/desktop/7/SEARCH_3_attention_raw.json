@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is concentrated in a narrow horizontal band in the upper half of the screen with continuous lateral movement and few vertical shifts, matching horizontal look-ahead behavior typical of playing a side-scrolling game rather than the more vertically distributed patterns of reading, browsing, or searching.",
+  "correct": false
+}

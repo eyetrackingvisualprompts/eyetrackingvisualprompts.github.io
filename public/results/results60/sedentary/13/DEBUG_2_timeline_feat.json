@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows code-like vertical scanning bands with repeated transitions between two main vertical regions (likely code and console) and bursts of larger saccades around suspected error-checking points, closely resembling the DEBUG example pattern more than the other tasks.",
+  "correct": true
+}

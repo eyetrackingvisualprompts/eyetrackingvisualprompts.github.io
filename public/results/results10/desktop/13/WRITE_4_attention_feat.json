@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are centered around the mid-screen with a tight cluster and slight horizontal spread, resembling the browsing example where gaze focuses on central content with limited vertical movement, unlike the more right-shifted READ pattern or dispersed SEARCH/WATCH patterns.",
+  "correct": false
+}

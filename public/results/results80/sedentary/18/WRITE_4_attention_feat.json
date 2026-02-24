@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze is concentrated in a narrow horizontal band in the upper-left code area with some sparse fixations near the bottom, matching the focused code-editing pattern of WRITE rather than the broader or more scattered patterns of other activities.",
+  "correct": true
+}

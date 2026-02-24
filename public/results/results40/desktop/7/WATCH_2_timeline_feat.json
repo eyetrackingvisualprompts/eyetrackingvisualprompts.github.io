@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze positions remain around mid-screen with moderate, irregular saccades and no strong systematic left-to-right or vertical scanning pattern typical of reading or writing. The dynamics most closely resemble the example browsing pattern, where users intermittently scan varied web content without the focused, structured movements seen in search result inspection or gameplay.",
+  "correct": false
+}

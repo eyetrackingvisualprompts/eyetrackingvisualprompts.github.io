@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze alternates between mid-lower content region and upper/central areas with frequent medium-amplitude vertical shifts and revisits, resembling scanning between search results and query/UI elements more than the steadier horizontal sweeps of READ or the central, more static patterns of WATCH; movements are less wide-ranging than PLAY and less globally exploratory than BROWSE, fitting SEARCH best.",
+  "correct": false
+}

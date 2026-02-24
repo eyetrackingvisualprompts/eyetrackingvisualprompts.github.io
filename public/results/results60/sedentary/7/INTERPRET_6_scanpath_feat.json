@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated on a narrow left-side code area with frequent vertical movements and some longer saccades to a lower region, matching the focused yet somewhat scattered pattern of inspecting and fixing code seen in the DEBUG example, rather than the tighter INTERPRET focus or broader navigation in WRITE/BROWSE/SEARCH.",
+  "correct": false
+}

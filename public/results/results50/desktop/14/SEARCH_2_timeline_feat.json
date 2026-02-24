@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "PLAY",
+  "reason": "X fixation shows extended periods near the bottom of the screen followed by larger vertical shifts, while Y fixation stays mostly high with occasional drops, and saccades are frequent and multidirectional\u2014this pattern of wide-ranging but structured gaze shifts matches the example PLAY data and is characteristic of tracking game elements across the screen.",
+  "correct": false
+}

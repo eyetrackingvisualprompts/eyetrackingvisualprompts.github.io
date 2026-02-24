@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze shows moderate, code-area-centered exploration with medium-range horizontal and vertical movements plus recurrent revisits, resembling the DEBUG example more than the more static INTERPRET/READ or highly dynamic PLAY/BROWSE patterns.",
+  "correct": false
+}

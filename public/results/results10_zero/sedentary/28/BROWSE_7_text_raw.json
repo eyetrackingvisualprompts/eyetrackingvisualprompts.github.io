@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The gaze coordinates show large, frequent shifts across wide screen areas (both horizontally and vertically), including rapid jumps between distant regions and clusters around moving-like trajectories, which is more characteristic of visually tracking dynamic game elements than of the more localized, line- or block-structured fixations typical for reading, coding, or general browsing/searching.",
+  "correct": false
+}

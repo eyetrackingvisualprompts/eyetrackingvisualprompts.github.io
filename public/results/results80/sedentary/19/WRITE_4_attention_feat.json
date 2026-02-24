@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "INTERPRET",
+  "reason": "The fixations are densely clustered over a relatively small left-central code area with limited spread elsewhere, closely matching the INTERPRET example pattern where participants focus on understanding a short code snippet rather than scanning widely as in DEBUG or BROWSE.",
+  "correct": false
+}

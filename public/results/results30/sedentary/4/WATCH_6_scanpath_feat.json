@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points are widely distributed across the central screen with many medium-to-long saccades in multiple directions and several large central fixations, resembling tracking of dynamic visual content rather than line-by-line reading or code-focused tasks. This pattern best matches the WATCH example.",
+  "correct": true
+}

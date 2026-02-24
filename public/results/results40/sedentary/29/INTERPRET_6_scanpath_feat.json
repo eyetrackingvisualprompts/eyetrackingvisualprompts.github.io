@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is tightly clustered in a small region on the left where the code editor likely is, with only occasional saccades to the far right (e.g., to run or inspect output). This localized, editor-focused pattern matches the WRITE example more than other activities.",
+  "correct": false
+}

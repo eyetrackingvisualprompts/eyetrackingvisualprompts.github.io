@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Fixations are spread across multiple horizontal bands from top to mid-screen, with clusters resembling attention to search box, result titles, and snippets, plus a few lower fixations\u2014matching the SEARCH example heatmap more than the more uniform reading or dispersed browsing patterns.",
+  "correct": true
+}

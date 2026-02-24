@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades across widely separated screen regions (including near top where search bar/results header are) interleaved with shorter, clustered fixations on mid-page areas, plus repeated horizontal scans around similar y-levels, best match the mixed scanning and reading behavior of using a search engine rather than the more line-structured READ pattern or the focused central regions of coding tasks.",
+  "correct": true
+}

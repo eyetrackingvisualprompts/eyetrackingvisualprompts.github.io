@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows repeated long horizontal scan paths across a mid-screen band with frequent large vertical jumps to disparate regions (including off-screen areas), consistent with scanning search results, clicking, and jumping between page regions rather than line-by-line reading or focused code inspection/debugging.",
+  "correct": true
+}

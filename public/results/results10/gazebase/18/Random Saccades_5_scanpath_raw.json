@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Balura Game",
+  "reason": "The scanpath shows large, smooth pursuits with curved trajectories and revisits across a wide area, consistent with tracking and refixating multiple moving targets, which matches the Balura Game pattern better than the more constrained or structured movements of the other tasks.",
+  "correct": false
+}

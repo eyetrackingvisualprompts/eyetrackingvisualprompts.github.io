@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows smooth, systematic horizontal scanning along several closely stacked lines with regular left-to-right saccades and short regressions, matching line-by-line text reading patterns in the READ examples rather than the more scattered or vertically structured patterns of code (WRITE/DEBUG/INTERPRET) or exploratory browsing/searching.",
+  "correct": true
+}

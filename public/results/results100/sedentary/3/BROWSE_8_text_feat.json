@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades across wide screen regions (including off-screen coordinates), interleaved with medium-length horizontal scan-like sequences at multiple vertical bands, resemble navigating varied web content rather than the more structured line-by-line patterns of READ or the code-focused, clustered patterns of WRITE/DEBUG/INTERPRET. The dynamics and dispersion best match the BROWSE examples.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze stays near the screen center with relatively smooth, small-amplitude movements and limited systematic horizontal scans; this pattern fits passive following of central visual content such as a video more than the more structured left-to-right scanning of READ or the larger, goal-directed shifts typical of PLAY, SEARCH, BROWSE, or WRITE.",
+  "correct": false
+}

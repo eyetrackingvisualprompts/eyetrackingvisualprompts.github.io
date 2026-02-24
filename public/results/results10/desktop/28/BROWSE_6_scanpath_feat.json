@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows dispersed fixations with larger saccades spanning a wider vertical and horizontal range, resembling the dynamic, multidirectional gaze patterns in the PLAY example more than the denser, clustered patterns of BROWSE or SEARCH.",
+  "correct": false
+}

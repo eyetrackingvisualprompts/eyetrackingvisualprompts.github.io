@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations cluster around the screen center with small horizontal/vertical shifts and moderate saccades, including occasional larger jumps to mid/lower regions\u2014matching the mixed-scrolling, central-content viewing pattern in the BROWSE example more than the more line-structured READ, the peripheral WRITE, or the highly dynamic PLAY/SEARCH behaviors.",
+  "correct": false
+}

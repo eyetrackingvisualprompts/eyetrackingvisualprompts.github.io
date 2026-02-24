@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a compact region on the lower-middle part of the screen with repeated back-and-forth movements and occasional downward saccades toward the bottom, consistent with focusing on a code editor while occasionally glancing at console or other IDE elements, matching the WRITE pattern more than other tasks.",
+  "correct": false
+}

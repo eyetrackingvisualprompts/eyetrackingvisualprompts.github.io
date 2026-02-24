@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are densely clustered around the central mid-height area with limited horizontal scanning, closely matching the browsing example heatmap where attention focuses on a central content block rather than the wider horizontal sweeps seen in reading or writing.",
+  "correct": false
+}

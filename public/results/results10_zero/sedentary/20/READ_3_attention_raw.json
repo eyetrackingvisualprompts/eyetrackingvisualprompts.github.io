@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze is concentrated in a narrow horizontal band near the bottom-center with smooth distribution and no clear line-by-line or code-block structure, consistent with following motion or a stable region in a video rather than reading, coding, or browsing layouts.",
+  "correct": false
+}

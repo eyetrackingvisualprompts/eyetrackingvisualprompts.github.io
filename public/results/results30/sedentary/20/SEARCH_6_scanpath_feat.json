@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "INTERPRET",
+  "reason": "Fixations are densely clustered in the upper-left code area with occasional diagonal saccades to a few lower regions, resembling the INTERPRET example where gaze stays mostly on a compact code snippet rather than the broader spreads seen in SEARCH, BROWSE, or PLAY.",
+  "correct": false
+}

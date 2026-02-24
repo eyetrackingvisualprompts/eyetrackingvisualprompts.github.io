@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze shows large, discrete jumps in both horizontal and vertical directions to various non-repeating positions, each held roughly around 1 second, matching the step-like, irregular pattern of the Random Saccades example rather than the more regular, purely horizontal, or near-static patterns of other tasks.",
+  "correct": true
+}

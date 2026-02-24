@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows medium-to-large horizontal movements with intermittent vertical shifts and frequent transitions between a few vertical bands, resembling switching between search results/snippets and top of page, which aligns best with the SEARCH pattern compared to the steadier READ/INTERPRET or more chaotic PLAY/WATCH examples.",
+  "correct": true
+}

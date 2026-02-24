@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions vary broadly across both axes with irregular, non-systematic movements, lacking the horizontal line-scan patterns of reading or the focal clusters of writing/searching. The pattern suggests following dynamic, screen-wide motion typical of watching a video rather than interacting with static or highly structured content.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "Gaze points form horizontally aligned clusters in a narrow vertical band near the lower screen, with short progressive saccades and occasional regressions, matching typical line-by-line reading patterns and closely resembling the Reading example scanpath.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Long, sweeping saccades across large horizontal extents (including to far-right coordinates) interleaved with short fixations and occasional returns to mid-page regions resemble scanning and jumping between different parts of web pages, which matches the heterogeneous, exploratory gaze behavior described for BROWSE rather than the more structured line-by-line reading or focused code-centric tasks.",
+  "correct": false
+}

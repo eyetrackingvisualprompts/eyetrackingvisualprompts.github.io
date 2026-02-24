@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are clustered in a central region with moderate dispersion and frequent saccades within that area, resembling attention around a search results list rather than the tight, column-aligned patterns of reading/writing or the broader, more scattered movements seen in watching videos, browsing, or playing games.",
+  "correct": true
+}

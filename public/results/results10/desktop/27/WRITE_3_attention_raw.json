@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze is tightly clustered in a small region near the lower-central part of the screen, indicating sustained fixation on a localized moving stimulus (such as a main character area or subtitle zone) rather than the horizontal scanning of text (READ/WRITE) or broader exploratory patterns (SEARCH/BROWSE/PLAY). This pattern best matches the WATCH activity.",
+  "correct": false
+}

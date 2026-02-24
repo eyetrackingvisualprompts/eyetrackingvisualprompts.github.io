@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "The scanpath shows a compact cluster of gaze points in a small region with short, irregular saccades and no clear left-to-right or line-by-line progression typical of reading or code-related tasks. The gaze does not explore multiple areas as in search/browse/play, suggesting sustained attention to a relatively fixed location on the screen, which is most consistent with watching a video where a key element remains in one area.",
+  "correct": false
+}

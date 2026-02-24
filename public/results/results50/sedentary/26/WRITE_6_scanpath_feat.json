@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are densely clustered over a narrow left-center coding area, with recurring long saccades to the far right side of the screen, matching the pattern of alternating between code and execution/output typical for WRITE tasks rather than the more localized DEBUG or INTERPRET patterns.",
+  "correct": true
+}

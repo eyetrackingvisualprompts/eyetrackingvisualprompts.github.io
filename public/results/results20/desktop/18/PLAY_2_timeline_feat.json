@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is centered horizontally with moderate vertical shifts and frequent saccades between mid and upper regions, resembling scanning of search results and page elements rather than the tighter, line-by-line pattern of reading or the larger range seen in play/watch examples.",
+  "correct": false
+}

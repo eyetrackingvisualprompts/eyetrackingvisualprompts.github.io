@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze points remain clustered in a small central region with minimal horizontal or vertical scanning and few distinct fixations, indicating the participant is mainly looking at a static central area such as a video, rather than performing text-based or exploratory tasks that require extensive saccades across the screen.",
+  "correct": false
+}

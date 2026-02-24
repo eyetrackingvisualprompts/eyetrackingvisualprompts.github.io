@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows predominantly horizontal movements with a narrow vertical range and dense, sequential fixations, matching line-by-line reading behavior similar to the READ example and unlike the more dispersed or vertically extended patterns of other activities.",
+  "correct": true
+}

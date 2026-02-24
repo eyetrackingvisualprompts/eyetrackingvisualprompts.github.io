@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Random Saccades",
+  "predicted_activity": "Random Saccades",
+  "reason": "Both horizontal and vertical gaze positions show large, discrete jumps to varying locations in 2D space with roughly 1-second plateaus at each position, matching the random 2D bull\u2019s-eye tracking pattern rather than the more constrained or structured movements of the other tasks.",
+  "correct": true
+}

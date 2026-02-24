@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "SEARCH",
+  "reason": "The data shows multiple long fixations interspersed with several large, multi-directional saccades (e.g., from mid/upper regions to lower-left or far right and back), indicating scanning across distinct screen areas such as query box, result list, and possibly other page regions. This dispersed, exploratory pattern aligns more with web SEARCH behavior than the more line-structured READ, localized WRITE, or central WATCH patterns.",
+  "correct": false
+}

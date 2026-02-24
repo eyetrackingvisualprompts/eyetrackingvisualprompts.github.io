@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mixed horizontal and vertical movements with occasional large saccades, shifting between regions rather than repetitive line-by-line scanning or dense code-focused fixations. This heterogeneous, exploratory pattern best matches the free-form, varied navigation typical of BROWSE.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze consists of relatively short saccades and clustered fixations within a constrained vertical band, with several regressions along similar y-levels, matching line-by-line reading and rereading behavior more than the broader, more scattered patterns expected in search, browsing, coding, or gameplay.",
+  "correct": false
+}

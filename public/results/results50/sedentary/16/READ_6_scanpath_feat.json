@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "The scanpath shows multiple horizontal bands of fixations at different vertical positions with moderate saccades between them, indicating reading-like behavior across several sections rather than a single block of text; this pattern best matches web browsing rather than focused reading of one passage or code-related tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, long-duration saccades between widely separated screen regions (top, bottom, far right), with brief fixations scattered across, resemble scanning and jumping typical of web browsing rather than the more structured line-wise reading or focused central viewing of other tasks.",
+  "correct": false
+}

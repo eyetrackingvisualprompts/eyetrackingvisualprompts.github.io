@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze points form a compact, predominantly horizontal band with small progressive movements and limited vertical shifts, characteristic of line-by-line text reading and closely resembling the READ example pattern more than the others.",
+  "correct": false
+}

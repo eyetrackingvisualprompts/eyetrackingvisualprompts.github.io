@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is concentrated in a relatively narrow code-like area with many short fixations and frequent local regressions, plus occasional large jumps to distant locations (likely between code, console, and other UI elements). This complex, iterative inspection pattern with revisits to similar coordinates better matches debugging behavior than the more linear patterns of reading/interpreting or the broader scanning of browsing/searching.",
+  "correct": false
+}

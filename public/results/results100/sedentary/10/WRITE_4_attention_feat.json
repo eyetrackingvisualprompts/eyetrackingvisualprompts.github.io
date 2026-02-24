@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Dominant, dense fixation cluster on the left-central area where a code editor would be, with occasional glances to the far right region (likely console or instructions), closely matching the WRITE example pattern and differing from the more localized DEBUG or INTERPRET maps.",
+  "correct": true
+}

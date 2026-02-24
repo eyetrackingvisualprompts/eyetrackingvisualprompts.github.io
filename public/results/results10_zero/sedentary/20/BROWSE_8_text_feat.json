@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows large, multi-directional saccades across widely separated screen regions (including extreme top and bottom) with short, scattered fixations, inconsistent with line-by-line reading or code-related tasks. The irregular jumps and exploration pattern align best with general web browsing behavior rather than focused reading, debugging, or watching a central video stimulus.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is concentrated in a single horizontal band across the upper-middle of the screen, forming a left-to-right sweep similar to scanning a web page or list, closely matching the BROWSE example heatmap rather than the more central, object-focused or dispersed patterns of other tasks.",
+  "correct": false
+}

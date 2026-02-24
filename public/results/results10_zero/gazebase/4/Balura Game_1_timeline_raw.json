@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Balura Game",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions exhibit discrete, step-like transitions to various horizontal and vertical locations across a wide range, with each position held roughly around one second before jumping to a new random location, matching the described pattern of following a randomly moving bull\u2019s-eye target rather than repetitive horizontal sweeps, central fixation, or the more continuous, clustered behavior expected in reading, video viewing, or the Balura game.",
+  "correct": false
+}

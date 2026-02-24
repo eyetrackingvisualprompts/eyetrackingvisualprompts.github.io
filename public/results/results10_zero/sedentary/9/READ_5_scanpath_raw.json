@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The scanpath shows dense, mostly horizontal movements within a limited vertical band, consistent with line-by-line reading of text rather than larger exploratory movements or object tracking typical of other tasks.",
+  "correct": true
+}

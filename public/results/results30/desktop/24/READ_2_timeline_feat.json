@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze shows moderate horizontal movement with gradual shifts in both X and Y, more scattered and exploratory than the structured, line-by-line READ pattern and less bottom-focused than WRITE. This mixed scanning with periodic repositioning aligns best with web SEARCH behavior across results pages and snippets.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are clustered around the central area with moderate vertical spread from mid to lower screen, resembling the browsing example more than the tighter upper-center cluster of SEARCH or the horizontal band of READ.",
+  "correct": false
+}

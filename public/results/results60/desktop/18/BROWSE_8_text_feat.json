@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are mostly mid-duration with frequent short saccades clustered around central/lower-central screen, occasional jumps to nearby vertical positions, and no strong, regular line-like horizontal scanning pattern typical of READ or the very top-focused, small-range pattern of WRITE. Movements are less systematic and more exploratory than READ, and less large-amplitude/all-directions than PLAY or WATCH, matching the mixed navigation/content-viewing pattern seen in BROWSE and SEARCH; however, the gaze stays more around a central content area and less in the top search-result region, aligning better with BROWSE.",
+  "correct": true
+}

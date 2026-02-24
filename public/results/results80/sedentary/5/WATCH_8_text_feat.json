@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Frequent long-range saccades across the entire screen (including off-center extremes), mixed with short local reading-like movements, and many jumps between top, middle, and bottom regions indicate exploratory web navigation rather than focused code editing/reading, debugging, or continuous video watching. The pattern most closely matches the BROWSE examples, which show similar wide, irregular, multi-region scan paths.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-screen with frequent medium-amplitude horizontal shifts, intermittent larger vertical transitions between mid and upper/lower regions, and variable-duration fixations\u2014matching scanning mixed text/graphics and moving between content and browser UI, characteristic of web browsing rather than the more line-structured READ pattern or the more peripheral / highly dynamic PLAY and WATCH patterns.",
+  "correct": false
+}

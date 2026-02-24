@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Fixations are clustered on the left side (code area) with repeated returns, plus occasional long saccades to the far right (console/UI), matching the WRITE example pattern of coding with periodic checks of output or editor panels.",
+  "correct": false
+}

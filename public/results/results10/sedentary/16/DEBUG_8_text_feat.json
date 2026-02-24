@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze frequently moves to extreme lower and off-screen coordinates (likely keyboard/hand or code editor edges) with large vertical saccades between mid-screen and bottom, similar to the WRITE example. The pattern shows revisiting a central working area interleaved with large jumps and brief fixations at peripheral locations, characteristic of code editing/implementation rather than the more stable central focus of INTERPRET/DEBUG or the smoother scan patterns of READ/SEARCH/BROWSE/WATCH/PLAY.",
+  "correct": false
+}

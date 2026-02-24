@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze points form a mostly horizontal line with small vertical variation, resembling line-by-line scanning of a mid-page text or content section, which best matches the browsing example pattern rather than the lower-positioned reading layout or the more dispersed patterns of other tasks.",
+  "correct": false
+}

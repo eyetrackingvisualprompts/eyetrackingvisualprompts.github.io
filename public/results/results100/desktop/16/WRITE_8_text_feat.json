@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze stays mostly in a mid-screen band with many short fixations and small multi-directional saccades around a relatively constrained region, including frequent slight vertical shifts typical of scanning headlines, snippets, and interface elements. The pattern lacks the strong horizontal line sweeps of READ, the large directional shifts of SEARCH and PLAY, or the more dispersed character-focused movements of WATCH, and is more centrally located and less top-text-band-focused than WRITE\u2014best matching BROWSE examples.",
+  "correct": false
+}

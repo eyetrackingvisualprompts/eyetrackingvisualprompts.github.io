@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "The gaze points are tightly clustered in a small region with very small, repetitive adjustments and minimal large saccades, consistent with focusing near a fixed area like the typing/cursor zone in a word processor rather than scanning horizontally (reading/browsing) or exploring widely (play/search/watch).",
+  "correct": true
+}

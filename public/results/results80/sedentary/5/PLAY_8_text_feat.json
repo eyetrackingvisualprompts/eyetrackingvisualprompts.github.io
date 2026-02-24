@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Predominantly horizontal scanpaths around a mid-screen text line (y\u2248340\u2013380) with frequent small regressions and occasional large jumps to other regions, resembling web page reading and navigation rather than focused code inspection, debugging, or continuous video/game tracking; the mixture of text-like line scanning and sporadic excursions matches the BROWSE pattern best.",
+  "correct": false
+}

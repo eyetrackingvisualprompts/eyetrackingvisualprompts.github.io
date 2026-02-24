@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Dense fixations over a localized central-left region with frequent long saccades to the top and bottom suggest focused inspection of code plus periodic checks of output/console or other panels, which aligns best with the debugging pattern compared to the other activities.",
+  "correct": false
+}

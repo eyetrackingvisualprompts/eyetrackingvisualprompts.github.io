@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a narrow horizontal band with sequential fixations progressing from center-right toward the right side, matching the linear, line-by-line scan pattern typical of reading text on a screen and closely resembling the READ example heatmap.",
+  "correct": false
+}

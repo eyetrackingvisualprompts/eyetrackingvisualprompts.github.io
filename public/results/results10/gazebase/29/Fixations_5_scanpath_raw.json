@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "The gaze points remain tightly clustered around a single central location with only minimal jitter, matching the small, localized pattern typical of a sustained fixation on a static target rather than larger exploratory or saccadic movements.",
+  "correct": true
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "Fixations are concentrated around the central region with some scattered points above and below, resembling following dynamic game elements rather than the horizontal bands of text (READ/BROWSE/SEARCH) or the localized code areas (WRITE/INTERPRET/DEBUG). The pattern closely matches the PLAY example heatmap, indicating gaze tracking moving objects in a game.",
+  "correct": true
+}

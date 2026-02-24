@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "Gaze positions remain very stable with only small, smooth drifts in both x and y, and no large rapid shifts or wide scanning patterns. This indicates sustained fixation around a narrow region of the screen, typical of reading continuous text rather than dynamic or exploratory tasks like browsing, searching, watching videos, or playing games.",
+  "correct": false
+}

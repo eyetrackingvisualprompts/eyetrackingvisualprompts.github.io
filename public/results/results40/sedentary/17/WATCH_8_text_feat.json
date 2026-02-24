@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze frequently jumps between widely separated screen regions (top, middle, bottom, far left/right) including many near-bottom coordinates (~900\u20131000) consistent with scrolling through long web pages. The pattern is exploratory with varied horizontal/vertical movements and no stable horizontal line-by-line reading as in READ, nor tight code-area clustering as in programming tasks, and lacks the object-following dynamics of PLAY or the more central, scene-focused pattern of WATCH.",
+  "correct": false
+}

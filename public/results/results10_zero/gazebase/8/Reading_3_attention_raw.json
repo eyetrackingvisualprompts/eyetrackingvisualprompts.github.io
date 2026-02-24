@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Reading",
+  "reason": "The heatmap shows a horizontally elongated cluster of fixations confined to a narrow vertical band in the lower half of the screen, consistent with left-to-right scanning across lines of text rather than single-point fixation, large horizontal-only sweeps, or widely scattered targets typical of games, random saccades, or video viewing.",
+  "correct": true
+}

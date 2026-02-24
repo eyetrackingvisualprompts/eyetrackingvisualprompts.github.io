@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "PLAY",
+  "reason": "The scanpath shows large, frequent saccades covering most of the screen in all directions with dispersed fixations, indicative of continuous visual search and spatial navigation typical for gameplay rather than the more horizontally constrained or centrally clustered patterns of reading, browsing, or watching video.",
+  "correct": true
+}

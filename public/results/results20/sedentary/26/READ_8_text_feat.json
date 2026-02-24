@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze is constrained to a narrow horizontal band with rapid, repetitive left-right sweeps and mid-length fixations, matching smooth object-tracking behavior typical for games (e.g., Pong) more than the more vertical, line-structured scans of reading/coding or the broader exploratory movements in browsing/searching.",
+  "correct": false
+}

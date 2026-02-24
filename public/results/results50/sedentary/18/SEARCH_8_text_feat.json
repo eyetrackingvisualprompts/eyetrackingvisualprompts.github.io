@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-to-lower screen with many horizontal sweeps and short fixations over a band of y\u2248520\u2013750, interspersed with jumps to page corners/top (near (78,-19), (433,82), etc.) and then back, resembling scanning a long web page with occasional jumps to UI elements, which matches the BROWSE pattern more than the other task templates.",
+  "correct": false
+}

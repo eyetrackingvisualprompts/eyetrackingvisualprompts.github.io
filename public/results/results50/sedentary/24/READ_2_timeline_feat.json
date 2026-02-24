@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "The gaze shows systematic horizontal sweeps in X with regular regressions and a steadily increasing Y position over time, closely matching line-by-line reading behavior seen in the READ example plot, unlike the more scattered or dynamic patterns of browsing, searching, or playing.",
+  "correct": true
+}

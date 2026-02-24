@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations are distributed in a single upper horizontal band with several localized hotspots, matching the pattern of scanning a webpage (navigation bar, top content) seen in the BROWSE example, rather than the more central or code-focused patterns of other tasks.",
+  "correct": false
+}

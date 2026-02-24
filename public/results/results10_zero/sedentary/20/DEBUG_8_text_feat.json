@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze shifts cover a relatively compact central region with frequent medium-length saccades and short-to-moderate fixations, but without the clear systematic horizontal sweeping or line-by-line return patterns typical of reading or code-related tasks. Movements also lack the larger exploratory jumps and page navigation often seen in web search/browsing and do not show tight back-and-forth tracking of a single moving object as in many games. This pattern best matches passively following changing visual content in a video (WATCH).",
+  "correct": false
+}

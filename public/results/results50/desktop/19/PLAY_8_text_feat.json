@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze is mostly around mid-lower screen with frequent medium-amplitude vertical and diagonal saccades between content and slightly higher regions, plus occasional larger jumps\u2014matching scanning of heterogeneous web pages rather than the tight horizontal band of READ, the more static upper-band fixation of WRITE, or the broader, more erratic motions of PLAY/WATCH/SEARCH.",
+  "correct": false
+}

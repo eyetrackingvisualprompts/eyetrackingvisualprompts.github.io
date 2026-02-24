@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze is distributed horizontally across the mid-screen with several short fixations and moderate dispersion, resembling scanning through web content rather than the tighter code-focused clusters of WRITE/DEBUG/INTERPRET or the broader spread of WATCH/PLAY.",
+  "correct": true
+}

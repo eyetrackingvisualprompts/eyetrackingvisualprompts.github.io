@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WATCH",
+  "reason": "Gaze positions remain clustered near the screen center with only small, smooth fluctuations and no systematic horizontal or vertical scanning pattern typical of reading, coding, or web search; this stable central focus over time is most consistent with passively watching a video.",
+  "correct": false
+}

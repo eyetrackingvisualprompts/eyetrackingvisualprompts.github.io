@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Horizontal Saccades",
+  "predicted_activity": "Horizontal Saccades",
+  "reason": "The gaze coordinates show large-amplitude, predominantly horizontal transitions between about \u221215\u00b0 and +15\u00b0 with extended periods of relative stability at each extreme, consistent with following a horizontally oscillating target rather than continuous reading, random 2D movements, or central fixation.",
+  "correct": true
+}

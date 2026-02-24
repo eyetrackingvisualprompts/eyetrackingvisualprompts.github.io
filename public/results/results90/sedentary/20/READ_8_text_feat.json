@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Sequential, line-like horizontal scanpaths with regular leftward return sweeps from right margin (~x\u22481180) back toward left (~x\u2248720) at progressively increasing y-coordinates (from ~170 up through ~440), with dense medium-length fixations and small intra-line regressions, closely match the structured line-by-line reading pattern seen in the READ examples and unlike the more scattered or vertically exploratory patterns of other tasks.",
+  "correct": true
+}

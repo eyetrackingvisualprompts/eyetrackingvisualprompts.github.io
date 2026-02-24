@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "READ",
+  "reason": "The fixation patterns show smooth, gradual horizontal progressions with relatively stable, slowly increasing Y positions and few large saccades, matching the consistent line-by-line scanning typical of reading text rather than the more scattered or dynamic movements seen in browsing, coding, gaming, or watching video.",
+  "correct": false
+}

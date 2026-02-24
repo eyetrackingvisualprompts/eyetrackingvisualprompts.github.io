@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze points cover large, continuous regions of the screen with many smooth shifts and wide dispersion, including big jumps across both axes, consistent with following dynamic visual content in a full-screen video rather than the more line-structured, clustered, or text-anchored patterns typical of reading, coding, or web browsing tasks.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow left-top code/toolbar region and mid-lower area consistent with console/editor bottom, with many short, local regressions and repeated sweeps over a small band rather than long horizontal reading lines or wide exploratory movements. This spatio-temporal pattern closely matches the WRITE examples (code editing and checking around a few lines), and is less compatible with broader-scroll SEARCH/BROWSE or the more centralized, stable patterns in INTERPRET/DEBUG.",
+  "correct": true
+}

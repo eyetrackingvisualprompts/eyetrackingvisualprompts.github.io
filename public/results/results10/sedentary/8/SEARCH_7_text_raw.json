@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze points are densely clustered in a mid-screen code-like region with short, repeated horizontal and small vertical shifts, resembling line-by-line inspection and re-checking of nearby lines typical for debugging, and the pattern best matches the DEBUG example compared to the other tasks.",
+  "correct": false
+}

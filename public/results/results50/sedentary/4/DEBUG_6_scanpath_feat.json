@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "DEBUG",
+  "reason": "The gaze points are densely clustered in a narrow vertical code-like region with repeated re-fixations and small saccades, matching the focused, localized viewing pattern seen in the DEBUG example more than the broader distributions of INTERPRET or other tasks.",
+  "correct": true
+}

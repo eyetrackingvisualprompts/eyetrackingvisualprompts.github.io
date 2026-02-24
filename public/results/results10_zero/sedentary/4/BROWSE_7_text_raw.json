@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Gaze points show large, frequent shifts across wide vertical and horizontal ranges, returning repeatedly to central and lower regions, consistent with tracking moving objects or characters rather than line-by-line reading or code inspection patterns. This dynamic, spatially dispersed behavior aligns best with gameplay among the listed activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "WRITE",
+  "reason": "Gaze is concentrated in a narrow vertical band with frequent small horizontal shifts and intermittent jumps between two main Y-levels, matching code editing behavior seen in the WRITE example rather than the more uniform scan patterns of READ/INTERPRET or the broader movements of BROWSE/PLAY.",
+  "correct": false
+}

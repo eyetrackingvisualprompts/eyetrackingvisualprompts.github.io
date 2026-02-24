@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze explores varied vertical positions from lower page regions to near the top and then to mid-page, with medium-length fixations and frequent medium/large saccades in many directions, resembling scanning heterogeneous web content rather than the more line-structured, near-horizontal patterns of READ or the very central, task-focused clusters of WRITE. This exploratory, non-repetitive scan pattern best matches BROWSE.",
+  "correct": false
+}

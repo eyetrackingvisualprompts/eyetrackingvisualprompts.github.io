@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze stays mostly within a compact code-region band (y\u2248350\u2013450) with many mid-length fixations and occasional jumps to a top area (y\u224850\u2013100) resembling glances at function headers or problem text, matching the interpret-code pattern rather than the more line-structured READ/WRITE or highly scattered BROWSE/PLAY/SEARCH behaviors.",
+  "correct": true
+}

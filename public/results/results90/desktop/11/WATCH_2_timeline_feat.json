@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows mid-screen, relatively central X/Y fixations with frequent, irregular saccades and no strong directional drift, matching the scattered exploration pattern typical of web browsing rather than the more structured left-to-right (READ/WRITE), search-result scanning (SEARCH), or game/video-focused (PLAY/WATCH) behaviors.",
+  "correct": false
+}

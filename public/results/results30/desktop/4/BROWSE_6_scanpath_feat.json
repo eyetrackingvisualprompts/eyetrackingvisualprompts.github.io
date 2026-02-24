@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Gaze is distributed across a mid-screen region with frequent shifts between several clustered areas and moderate vertical movement, resembling the example SEARCH pattern where users alternate between query box, results list, and other elements, rather than the more linear READ pattern or more localized WATCH/WRITE patterns.",
+  "correct": false
+}

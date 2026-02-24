@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "WRITE",
+  "reason": "Strong fixation cluster on the left-middle where the code editor text likely appears, with additional fixations slightly above and to the right suggesting glances toward reference areas (e.g., function header or other lines), matching the WRITE example more closely than the more localized INTERPRET or the multi-region DEBUG pattern.",
+  "correct": true
+}

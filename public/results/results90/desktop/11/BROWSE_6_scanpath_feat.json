@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze points are moderately dispersed with frequent saccades across a central screen region, resembling the mixed reading-and-scanning pattern of search result pages and matching the SEARCH example more closely than the other activities.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Video Viewing",
+  "reason": "The gaze shows irregular multi-directional movements with variable amplitudes, intermittent large excursions, and no strict horizontal-only pattern or regular 1-second steps between discrete positions. This heterogeneous, exploratory pattern aligns best with free-viewing of dynamic video content rather than structured saccade tasks, sustained central fixation, reading lines of text, or the goal-directed fixations of the Balura game.",
+  "correct": false
+}

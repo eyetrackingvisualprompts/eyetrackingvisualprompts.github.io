@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "SEARCH",
+  "reason": "Large, frequent saccades across wide screen regions with multiple vertical and horizontal shifts resemble scanning of search results and switching between elements, matching the SEARCH pattern more than the other tasks.",
+  "correct": false
+}

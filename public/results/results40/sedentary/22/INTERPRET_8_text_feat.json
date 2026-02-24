@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "INTERPRET",
+  "reason": "Gaze is concentrated around a compact code-like region with many short, local saccades and repeated re-fixations on almost the same coordinates, interspersed with occasional shifts to nearby code areas. This pattern matches careful step-by-step reasoning over an existing snippet (INTERPRET) more than the more dispersed navigation of DEBUG/SEARCH or the horizontal scanlines of READ/BROWSE.",
+  "correct": true
+}

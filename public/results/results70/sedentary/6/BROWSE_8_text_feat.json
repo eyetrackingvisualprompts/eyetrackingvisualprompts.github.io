@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Large, frequent jumps between widely separated screen regions (including off-screen/extreme coordinates), visits to top/bottom page areas, and irregular scanning patterns across both horizontal and vertical directions are characteristic of web browsing and page navigation rather than focused code reading/writing or continuous scene watching.",
+  "correct": true
+}

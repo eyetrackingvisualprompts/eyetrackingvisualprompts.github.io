@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "DEBUG",
+  "reason": "Gaze is strongly clustered on a compact region in the left-central code area, with occasional scattered fixations elsewhere, closely matching the focused yet locally exploratory pattern seen in the DEBUG example rather than the tighter INTERPRET or broader WRITE/BROWSE patterns.",
+  "correct": false
+}

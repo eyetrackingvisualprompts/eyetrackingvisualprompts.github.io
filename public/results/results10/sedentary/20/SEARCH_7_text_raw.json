@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "The gaze shows large, smooth shifts across wide screen regions, including many points near or outside screen bounds and extended periods without line-like reading patterns. This matches dynamic, global scanning typical of watching full-screen video rather than the more local, text- or code-centered patterns seen in reading, searching, or programming tasks.",
+  "correct": false
+}

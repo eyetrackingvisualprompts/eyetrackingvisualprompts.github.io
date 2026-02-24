@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "WATCH",
+  "reason": "Fixations are tightly clustered in a small region slightly above the screen center, suggesting sustained attention to a compact visual area typical of watching a video (e.g., faces or central action), rather than the distributed horizontal/vertical scan patterns expected in reading, writing, searching, browsing, or playing games.",
+  "correct": false
+}

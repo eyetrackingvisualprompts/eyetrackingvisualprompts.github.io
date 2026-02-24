@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "READ",
+  "reason": "The gaze is concentrated in a horizontal band across the lower-middle of the screen, forming a left-to-right pattern typical of line-by-line text reading, similar in structure to the READ example and unlike the more central clusters of BROWSE/SEARCH or the upper-focused patterns of WRITE/PLAY/WATCH.",
+  "correct": false
+}

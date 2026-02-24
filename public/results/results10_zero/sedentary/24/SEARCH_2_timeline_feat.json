@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "READ",
+  "reason": "X fixations progress in small, mostly monotonic steps with occasional regressions, while Y fixations remain nearly constant, indicating line-by-line horizontal scanning typical of reading text rather than the more scattered or dynamic patterns seen in browsing, coding, gaming, or video watching.",
+  "correct": false
+}

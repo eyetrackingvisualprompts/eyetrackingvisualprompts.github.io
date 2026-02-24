@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "BROWSE",
+  "reason": "Gaze positions remain near screen center with moderate horizontal and vertical shifts and frequent short saccades, indicating scanning of varied but centrally located content, which matches the browsing pattern more than the more structured (READ/WRITE) or highly dynamic (PLAY/WATCH/SEARCH) examples.",
+  "correct": true
+}

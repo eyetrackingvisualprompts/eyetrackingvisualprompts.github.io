@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Reading",
+  "predicted_activity": "Random Saccades",
+  "reason": "Fixations are clustered at several discrete locations spread both horizontally and vertically, with no continuous horizontal band or central concentration, matching a target that jumps to random positions across the screen rather than static fixation, structured reading lines, or game/video patterns.",
+  "correct": false
+}

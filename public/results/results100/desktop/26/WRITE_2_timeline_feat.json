@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WRITE",
+  "predicted_activity": "BROWSE",
+  "reason": "The gaze shows frequent, irregular shifts in both X and Y with short fixations scattered over mid-screen regions, resembling the heterogeneous, exploratory scanning seen in the BROWSE example rather than the more structured patterns of reading, writing, searching, watching, or playing games.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "WATCH",
+  "predicted_activity": "READ",
+  "reason": "Gaze is dominated by long, stable fixations clustered along a narrow horizontal band (y\u22480.54\u20130.64) with small horizontal shifts and occasional line-like jumps, closely matching the sustained, line-by-line scanning pattern seen in the READ example rather than the broader, more exploratory movements of SEARCH/BROWSE or the rapid, dispersed shifts of PLAY/WATCH/WRITE.",
+  "correct": false
+}

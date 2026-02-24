@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "DEBUG",
+  "predicted_activity": "INTERPRET",
+  "reason": "The gaze is tightly clustered on a single left-central code region with minimal spread elsewhere, matching the focused fixation pattern seen in the INTERPRET example rather than the broader scans of DEBUG or SEARCH.",
+  "correct": false
+}

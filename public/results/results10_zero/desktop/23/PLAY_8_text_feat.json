@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "PLAY",
+  "predicted_activity": "SEARCH",
+  "reason": "The gaze shows several long horizontal fixations and saccades within a band (likely reading text or results), interspersed with occasional large vertical jumps and diagonal transitions indicative of moving between search box, result list, and other screen regions. This combination of reading-like scanning with repeated larger relocations matches typical web search behavior more than continuous reading, passive watching, or game play.",
+  "correct": false
+}

@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "SEARCH",
+  "predicted_activity": "BROWSE",
+  "reason": "Fixations and saccades are concentrated around the screen center with relatively small but frequent multidirectional changes, closely matching the dense, mid-screen scanning pattern seen in the BROWSE example rather than the more structured motion of reading, writing, watching videos, playing games, or targeted searching.",
+  "correct": false
+}

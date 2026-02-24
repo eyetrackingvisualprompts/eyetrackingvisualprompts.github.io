@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "READ",
+  "predicted_activity": "READ",
+  "reason": "Fixations are densely clustered along a narrow horizontal band with small vertical dispersion, matching the left-to-right, line-based scanpath typical of reading text rather than the broader, more scattered patterns of search, browse, play, watch, or write tasks.",
+  "correct": true
+}

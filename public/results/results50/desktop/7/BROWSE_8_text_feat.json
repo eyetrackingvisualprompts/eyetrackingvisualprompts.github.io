@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "BROWSE",
+  "predicted_activity": "PLAY",
+  "reason": "Frequent large-amplitude saccades spanning wide vertical and horizontal extents (e.g., between y\u22480.05 and y>1.0, and across left\u2013right), with relatively brief, scattered fixations over the whole screen, match the dynamic, omni-directional gaze behavior seen in the PLAY examples (especially game-like navigation) rather than the more strip-like, mid-screen constrained patterns of READ/WRITE or the more banded, scroll-oriented patterns of BROWSE/SEARCH/WATCH.",
+  "correct": false
+}

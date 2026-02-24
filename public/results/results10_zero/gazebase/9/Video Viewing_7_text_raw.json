@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The data show large-amplitude saccades in both horizontal and vertical directions, with gaze jumping several degrees between relatively stable clusters of points. This bidirectional, multi-positional pattern with intermittent stable periods matches the random, 2D bull\u2019s-eye tracking of Random Saccades rather than strictly horizontal motion, reading-like left-to-right sweeps, or small-area fixations.",
+  "correct": false
+}

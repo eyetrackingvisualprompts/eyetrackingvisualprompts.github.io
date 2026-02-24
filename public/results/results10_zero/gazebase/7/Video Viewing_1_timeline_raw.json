@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Video Viewing",
+  "predicted_activity": "Random Saccades",
+  "reason": "The gaze positions show step-like jumps to distinct locations across both horizontal and vertical axes, with intervals of relatively stable fixation around each position lasting about 1 s, and amplitudes within the \u00b115\u00b0 (horizontal) and \u00b19\u00b0 (vertical) range\u2014matching the description of following a randomly moving target with 1-second holds at each location.",
+  "correct": false
+}

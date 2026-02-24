@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "INTERPRET",
+  "predicted_activity": "DEBUG",
+  "reason": "Fixations are tightly clustered on two vertically separated regions in the upper-left code area, matching the DEBUG example\u2019s concentrated inspection of multiple error locations rather than the more singular cluster of INTERPRET or the broader spread of WRITE/BROWSE.",
+  "correct": false
+}

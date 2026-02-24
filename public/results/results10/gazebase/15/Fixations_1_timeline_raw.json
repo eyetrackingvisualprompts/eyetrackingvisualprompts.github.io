@@ -1,0 +1,6 @@
+{
+  "ground_truth_activity": "Fixations",
+  "predicted_activity": "Fixations",
+  "reason": "Gaze positions remain very close to the center with minimal horizontal and vertical variation, interrupted only by occasional brief downward spikes likely due to blinks or artifacts, matching the central static fixation pattern.",
+  "correct": true
+}
