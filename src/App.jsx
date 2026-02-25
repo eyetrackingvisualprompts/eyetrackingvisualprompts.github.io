@@ -94,7 +94,7 @@ Output the result in the following JSON format:
     "desktop": desktop_activity_desc,
   }
 
-  const visTypes = ["1_timeline_raw", "2_heatmap_raw", "3_scanpath_raw", "4_timeline_feat", "5_heatmap_feat", "6_scanpath_feat"]
+  const visTypes = ["1_timeline_raw", "2_timeline_feat", "3_attention_raw", "4_attention_feat", "5_scanpath_raw", "6_scanpath_feat"]
 
   const datasetKeys = ["gazebase", "sedentary", "desktop"]
 
@@ -246,9 +246,9 @@ Output the result in the following JSON format:
                     key={i}
                     className={`visual-prompt ${visType === i ? 'selected' : ''}`}
                     onClick={() => setVisType(i)}
-                    disabled={experiment === 1 && i < 3}
+                    disabled={experiment === 1 && (i == 0 || i == 2 || i == 4)}
                   >
-                    {['Timeline (Raw)', 'Heatmap (Raw)', 'Scanpath (Raw)', 'Timeline (Feature)', 'Heatmap (Feature)', 'Scanpath (Feature)'][i]}
+                    {['Timeline (Raw)', 'Timeline (Feature)', 'Heatmap (Raw)', 'Heatmap (Feature)', 'Scanpath (Raw)', 'Scanpath (Feature)'][i]}
                   </button>
                 ))}
               </div>
