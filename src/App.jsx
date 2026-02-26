@@ -416,7 +416,7 @@ Output the result in the following JSON format:
                   }
                   </>
                   }
-                  {
+                  { experiment === 0 &&
                   <>
                   <div className={`prompt-label shot`}>Zero-shot (without Example Data)</div>
                   {resultErrorZero
