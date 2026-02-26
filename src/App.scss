@@ -4,6 +4,15 @@ body {
   color: #222;
   margin: 0;
   padding: 0;
+  .content-caption .bold {
+  font-weight: 900;
+  }
+
+  .content-caption .red {
+    color: #ff0000;
+  }
+
+
   .container {
     max-width: 1080px;
     margin: 0 auto;
@@ -61,7 +70,6 @@ body {
         padding-bottom: 0.3rem;
         margin-bottom: 1rem;
       }
-      .teaser-content {
         .teaser-image {
           display: block;
           height: auto;
@@ -75,7 +83,15 @@ body {
           margin: 0 auto;
           margin-bottom: 1rem;
           text-align: justify;
+          line-height: 1rem;
         }
+        .content-image {
+          max-width: 50%;
+        }
+        .content-caption {
+          max-width: 50%;
+        }
+      .teaser-content {
       }
       .abstract-text {
         margin: 0 auto 1rem;
@@ -106,8 +122,12 @@ body {
           font-weight: 600;
         }
       }
+      .interface {
+        margin: 2rem auto 1rem !important;
+
+      }
       .content{
-        width: 100%;
+        
         .results-content {
           display: flex;
           flex-direction: row;
@@ -129,6 +149,10 @@ body {
               margin-top: 0.5rem;
               font-size: 0.7rem;
               font-weight: 600;
+            }
+            .shot {
+              font-weight: 400;
+              margin: 0;
             }
             .aggregated-prompt{
               background-color: #f5f5f5;
@@ -180,12 +204,20 @@ body {
               img {
                 width: 250px;
                 height: 125px;
+                outline: 1px solid #0066cc;
               }
             }
           }
         }
         }
         
+      }
+      .experiment-description {
+        max-width: 1080px;
+        text-align: justify;
+        line-height: 1.4rem;
+        max-width: 80%;
+        margin: 0 auto;
       }
 
       .selection {

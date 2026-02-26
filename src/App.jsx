@@ -21,6 +21,11 @@ function App() {
   const [correct, setCorrect] = useState(false)
   const [reason, setReason] = useState('')
 
+  const [groundTruthActivityZero, setGroundTruthActivityZero] = useState('')
+  const [predictedActivityZero, setPredictedActivityZero] = useState('')
+  const [correctZero, setCorrectZero] = useState(false)
+  const [reasonZero, setReasonZero] = useState('')
+
   const [systemPromptCollapsed, setSystemPromptCollapsed] = useState(true)
   const systemPrompt = `You are an domain expert specializing human activity recognition (HAR) using eye-tracking data. Your goal is to accurately determine whether the input eye-tracking data corresponds to a specific eye-tracking activity, based on provided data and context.
 
@@ -112,6 +117,7 @@ Output the result in the following JSON format:
   const [rotatedDesc, setRotatedDesc] = useState({})
   const [rotatedActs, setRotatedActs] = useState([])
   const [resultError, setResultError] = useState(false)
+  const [resultErrorZero, setResultErrorZero] = useState(false)
 
   // Fetch result JSON whenever seed / visType / dataset / windowSize changes
   useEffect(() => {
@@ -141,6 +147,26 @@ Output the result in the following JSON format:
         setReason('')
         setResultError(true)
       })
+    if (experiment === 0 && windowSize === 10) {
+      const path_zero = `/results/results10_zero/${datasetKey}/${sampleIndex}/${activity}_${visTypeStr}.json`
+      console.log(path_zero)
+      fetch(path_zero)
+        .then(res => { if (!res.ok) throw new Error('not found'); return res.json() })
+        .then(data => {
+          setGroundTruthActivityZero(data.ground_truth_activity ?? '')
+          setPredictedActivityZero(data.predicted_activity ?? '')
+          setCorrectZero(data.correct ?? false)
+          setReasonZero(data.reason ?? '')
+          setResultErrorZero(false)
+        })
+        .catch(() => {
+          setGroundTruthActivityZero('')
+          setPredictedActivityZero('')
+          setCorrectZero(false)
+          setReasonZero('')
+          setResultErrorZero(true)
+        })
+    }
   }, [seed, dataset, visType, windowSize])
 
   useEffect(() => {
@@ -166,7 +192,7 @@ Output the result in the following JSON format:
 
     const prompt = `Determine the eye-tracking activity class based on the provided data segment.\n\n## Activity Descriptions:\n${rotated_desc_str}\n\n## Data Context:\n${context}`
 
-    const testPrompt = `## Your Task:\nWhen the following eye-tracking data is provided for a task to classify which task it belongs to, what is the most likely answer among [${rotated_acts.join(', ')}]\n\n**Target Data**`
+    const testPrompt = `## Your Task:\nWhen the following eye-tracking data is provided for a task to classify which task it belongs to, what is the most likely answer among [${rotated_acts.join(', ')}]?\n\n**Target Data**`
 
     setUserPromptText(prompt)
     setTestPromptText(testPrompt)
@@ -181,7 +207,7 @@ Output the result in the following JSON format:
         <p className="authors">Jae Young Choi, Seon Gyeom Kim, Hyungjun Yoon, Taeckyung Lee, Donggun Lee, Jaeryung Chung, Jihyung Kil, Ryan Rossi, Sung-Ju Lee, and Tak Yeon Lee</p>
         <p className="venue">PacificVis 2026</p>
         <div className="links">
-          <a href="#">PDF</a>
+          <a href="./PacificVis_26-10.pdf" rel="noreferrer" target="_blank">PDF</a>
           <a href="#">arXiv</a>
         </div>
       </header>
@@ -195,11 +221,23 @@ Output the result in the following JSON format:
       </section>
 
       <section>
-        <h2>Research Goal & Methodology</h2>
-        
-        <div className="content">
-          </div>
-      </section>
+      <h2>Research Methodology</h2>
+      <div className="experiment-description">
+        <img src="./visualization2.png" alt="Visualization Overview" className="teaser-image content-image"/>
+        <div className="caption content-caption">Figure 2. Visualizations used in this study. (A) Raw Timeline (B) Feature-based Timeline (C) Absolute Duration Heatmap (D) Fixation Count Heatmap (E) Raw Scanpath (F) Feature-based Scanpath.</div>
+        <p>
+          This study investigates visual prompting as a training-free strategy for leveraging MLLMs in HAR using eye-tracking data. We focus exclusively on point-based eye-tracking visualizations to reflect general IoT scenarios in which semantic Areas of Interest (AOIs) are not predefined. We systematically design six distinct visualizations grouped into three primary eye-tracking representation types: Timeline, Heatmap, and Scanpath. These visualizations transform high-frequency gaze signals into structured image-based prompts that can be processed by MLLMs without additional model training. Detailed visualization selection rationale and implementation specifications are provided in the paper.
+        </p>
+
+        <p>
+          To evaluate the generalizability of this approach, we conduct experiments on three public eye-tracking datasets: <i>GazeBase</i>, <i>SedentaryActivity</i>, and <i>DesktopActivity</i>. These datasets contain diverse desktop-based activities collected using either screen-based eye trackers or egocentric wearable devices. Together, they allow us to examine performance across varying activity complexities, class distributions, and recording conditions. A comprehensive summary and the detail of activities of dataset characteristics is available in the paper.
+        </p>
+
+        <p>
+          All experiments were conducted using the <code>gpt-5.1-2025-11-13</code> via the OpenAI API with default inference settings. The <code>"detail": "high"</code> parameter was applied exclusively to image inputs to ensure high-fidelity visual reasoning.
+        </p>
+      </div>
+    </section>
 
       <section>
         <h2>Results</h2>
@@ -211,17 +249,35 @@ Output the result in the following JSON format:
 
         <div className="content">
         {experiment === 0 ? (
-          <h3>Experiment 1: Performance Comparison of Visual Prompting Strategies</h3>
+          <h3>Experiment 1: Impact of Visualization Techniques</h3>
         ) : (
-        <h3>Experiment 2: Token Efficiency Analysis of Visual Prompting</h3>
+          <h3>Experiment 2: Impact of Window Size</h3>
         )}
 
-        <div>
-        {experiment === 0 ? (
-          <p >In this experiment, we systematically evaluated the performance of MLLM-based HAR using different visual prompting strategies. We compared three visualization types: timeline, heatmap, and scanpath, under varying temporal window sizes. The results showed that the timeline visualization with a window size of 10 seconds achieved the highest accuracy across all datasets, demonstrating the effectiveness of visual prompting in capturing temporal patterns in eye-tracking data.</p>
-        ) : (
-          <p>In this experiment, (description)</p>
-        )}
+        <div className="experiment-description">
+          {experiment === 0 ? (
+            <>
+            <p>
+              In Experiment 1, we systematically evaluate how different visualization techniques influence MLLM-based HAR performance. We compare Timeline, Heatmap, and Scanpath representations under varying temporal window sizes across all three datasets. For each experimental run, one randomly sampled participant from the example pool is used to construct one-shot demonstrations. We generate 30 test cases per activity class for evaluation. To mitigate potential ordering bias in language models, we randomize the order of activity descriptions and example activities for every query. Below, users can explore 30 test cases for each condition, along with the structured prompts, visual prompts, and model outputs for each run. For detailed results and analysis, please refer to the paper.
+            </p>
+            <div className="caption content-caption">Table 2: HAR accuracy and token consumption across experimental conditions (10s window). <strong className="bold">Bold</strong> indicates best performance per dataset, and <span className="red">red</span> denotes performance below the textual baseline. Multipliers (×↑) show the relative increase in token usage of textual prompts compared to visual prompts.</div>
+            <img src="./table2.png" alt="Visualization Overview" className="teaser-image content-image"/>
+            </>
+          ) : (
+            <p>
+              In Experiment 2, we examine the effect of temporal window size on classification performance. We conduct additional experiments on the SedentaryActivity and DesktopActivity datasets, varying window lengths from 20 to 100 seconds in 10-second increments. The GazeBase dataset is excluded from this analysis due to its relatively short Fixations segments. These experiments focus exclusively on one-shot settings and include four feature-based representations: Timeline, Heatmap, Scanpath, and feature-text prompting as a baseline. The selection of one-shot examples and the construction of test cases follow the same protocol as in Experiment 1. Below, users can inspect 30 test cases for each condition, including the structured prompts, visual prompts, and corresponding outputs. For detailed results and analysis, please refer to the paper.
+              
+              <div className="caption content-caption">Figure 4: Comparison of HAR accuracy and token consumption across varying temporal window sizes (10-second to 100-second) for the (A) SedentaryActivity and (B) DesktopActivity datasets. The line plots illustrate the accuracy trends for each visual prompting strategy (Timeline, Heatmap, Scanpath, and the textual baseline). The grouped bar charts represent the corresponding input tokens for each condition.</div>
+            <img src="./window2.png" alt="Visualization Overview" className="teaser-image content-image"/>
+            </p>
+          )}
+        </div>
+
+        <div className="content experiment-description interface">
+          Below is an interactive interface where you can explore the visual prompts, 
+          the corresponding structured prompts, and the model outputs. 
+          You can further explore different experimental conditions by switching 
+          the dataset, {experiment === 1 && "window size, "}and visualization technique. (Text prompts are not available for this interface due to the large sequence length of data.)
         </div>
 
           <div className="dataset-selection">
@@ -346,19 +402,46 @@ Output the result in the following JSON format:
                       const activity = activities[activityIndex]
                       const actFileName = datasetKey === 'gazebase' ? gazebase_map[activity] : activity
                       const targetUrl = `https://firebasestorage.googleapis.com/v0/b/eye-tracking-visual-prompt.firebasestorage.app/o/vis${windowSize}%2F${datasetKey}%2F${sampleIndex}%2Ftest%2F${visTypes[visType]}%2F${actFileName}.png?alt=media`
-                      return <img src={targetUrl} alt="Target" />
+                      return <img src={targetUrl} alt="Target" className="target-image"/>
                     })()}
                   </div>
                 </div>
                 <div className={`prompt-label`}>Result</div>
+                  {
+                  <>
+                  <div className={`prompt-label shot`}>One-shot (with Example Data)</div>
                   {resultError
                     ? <pre className="result-error">No result found for this combination.</pre>
                     : <pre className={correct ? 'correct' : 'incorrect'}>{`- ground_truth: ${groundTruthActivity}\n- predicted:    ${predictedActivity}\n- correct:      ${correct}\n- reason:       ${reason}`}</pre>
+                  }
+                  </>
+                  }
+                  {
+                  <>
+                  <div className={`prompt-label shot`}>Zero-shot (without Example Data)</div>
+                  {resultErrorZero
+                    ? <pre className="result-error">No result found for this combination.</pre>
+                    : <pre className={correctZero ? 'correct' : 'incorrect'}>{`- ground_truth: ${groundTruthActivityZero}\n- predicted:    ${predictedActivityZero}\n- correct:      ${correctZero}\n- reason:       ${reasonZero}`}</pre>
+                  }
+                  </>
                   }
               </div>    
             </div>      
           </div>
         </div>
+      </section>
+
+      <section>
+      <h2>Data Availability</h2>
+      <div className="experiment-description">
+        <a 
+      href="https://drive.google.com/drive/folders/1GQsic1rFl0hB0oKFaTHpqPKHvNeIXdlW?usp=share_link"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Download Dataset (Google Drive)
+    </a>
+      </div>
       </section>
 
     </div>
