@@ -208,7 +208,7 @@ Output the result in the following JSON format:
         <p className="venue">PacificVis 2026</p>
         <div className="links">
           <a href="./PacificVis_26-10.pdf" rel="noreferrer" target="_blank">PDF</a>
-          <a href="#">arXiv</a>
+          <a href="https://arxiv.org/abs/2604.09585" rel="noreferrer" target="_blank">arXiv</a>
         </div>
       </header>
 
